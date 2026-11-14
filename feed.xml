@@ -1,44 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>TapSeen Diagnostic News Feed</title>
+    <title>TapSeen News Feed</title>
     <link>https://tapseen.com</link>
-    <description>Diagnostic test feed containing 5 recent movie news articles for ChatGPT accessibility verification.</description>
+    <description>Latest 50 verified cinema and TV news articles aggregated by TapSeen.</description>
     <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 21:04:18 GMT</lastBuildDate>
     <item>
-      <title>Making 'I Play Rocky' Felt Like A Throwback To 1976 For The Creators - Contenders L.A.</title>
+      <title>Here&apos;s How to Watch the Troy Trojans vs. South Alabama Jaguars Game Live Online</title>
+      <link>https://variety.com/2026/shopping/news/watch-troy-south-alabama-college-football-espn-live-online-1236946134</link>
+      <guid isPermaLink="false">6771e221-1ea3-4e60-984b-fb13283819e3</guid>
+      <pubDate>Sat, 14 Nov 2026 21:00:00 GMT</pubDate>
+      <source url="https://variety.com/2026/shopping/news/watch-troy-south-alabama-college-football-espn-live-online-1236946134">Variety</source>
+      <description>The Battle for the Belt is one of the fiercest rivalries in college football&apos;s Sun Belt Conference. For Week 11, the Troy Trojans (4-5) vs. South Alabama Jaguars (4-5) takes place at Hancock Whitney Stadium in Mobile, Alabama. Additionally, both teams have the same Sun Belt record at 2-3, so the Trojans and Jaguars go [???]</description>
+    </item>
+    <item>
+      <title>I Just Found Out Henry Cavill’s New Mustache IS A Justice League Nod. What Happened</title>
+      <link>https://www.cinemablend.com/movies/henry-cavill-new-mustache-justice-league-nod</link>
+      <guid isPermaLink="false">154a7636-0257-485c-ab05-b97f1ca6be1b</guid>
+      <pubDate>Sat, 14 Nov 2026 20:57:02 GMT</pubDate>
+      <source url="https://www.cinemablend.com/movies/henry-cavill-new-mustache-justice-league-nod">CinemaBlend</source>
+      <description>Our mustachioed Superman has returned!</description>
+    </item>
+    <item>
+      <title>How Jodie Foster Took Her First Disney Voice Role In ‘Hexed’ And Lent Her Smile To Her Character - Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/hexed-jodie-foster-disney-voice-role-1237223998</link>
+      <guid isPermaLink="false">bab93572-4ef4-4edd-a9a5-60f7b049b276</guid>
+      <pubDate>Sat, 14 Nov 2026 20:49:30 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/hexed-jodie-foster-disney-voice-role-1237223998">Deadline</source>
+      <description>Jodie Foster’s early career was launched by the Walt Disney Studios in such ’70s live-action films as Freaky Friday and Candleshoe, but even as a child actor her voice never was used in one of the company’s signature animated films – until now, as she takes on the role of Queen Celeste in Hexed. Landing [???]</description>
+    </item>
+    <item>
+      <title>Making &apos;I Play Rocky&apos; Felt Like A Throwback To 1976 For The Creators - Contenders L.A.</title>
       <link>https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964</link>
+      <guid isPermaLink="false">95cb9be5-9d9b-409f-9a27-5d729c7eca34</guid>
       <pubDate>Sat, 14 Nov 2026 20:32:11 GMT</pubDate>
-      <source url="https://deadline.com">Deadline</source>
-      <description>The team behind I Play Rocky found themselves time-traveling 50 years into the past to capture the essence of the story of how an unknown Sylvester Stallone wrote and starred in Rocky, the blockbuster.</description>
+      <source url="https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964">Deadline</source>
+      <description>The team behind I Play Rocky found themselves time-traveling 50 years into the past to capture the essence of the story of how an unknown Sylvester Stallone wrote and starred in Rocky, the blockbuster hit of 1976. Along with fight training and physical conditioning, star Anthony Ippolito immersed himself in studying Stallone’s experience for months [???]</description>
     </item>
     <item>
       <title>Dragon Ball Daima Deserves to Return for Season 2</title>
       <link>https://comicbook.com/anime/feature/dragon-ball-daima-deserves-to-return-for-season-2</link>
+      <guid isPermaLink="false">0dc49723-1fd6-48c4-aaf1-8ab6cb6d0466</guid>
       <pubDate>Sat, 14 Nov 2026 20:22:00 GMT</pubDate>
-      <source url="https://comicbook.com">ComicBook.com</source>
-      <description>Image Courtesy of Toei Animation Dragon Ball Daima did a great job filling in some of the gaps between Dragon Ball Z and Dragon Ball Super, but the ending still left some unanswered questions.</description>
+      <source url="https://comicbook.com/anime/feature/dragon-ball-daima-deserves-to-return-for-season-2">ComicBook.com</source>
+      <description>Image Courtesy of Toei Animation Dragon Ball Daima did a great job filling in some of the gaps between Dragon Ball Z and Dragon Ball Super, but the ending still left some unanswered questions. The series built up to the battle with Gomah, which lived up to the hype, but it didn&apos;t get much time to address other plot points. [???]</description>
     </item>
     <item>
-      <title>Apple TV's Pluribus Confirms a Bigger Role for One Favorite Character in Season 2</title>
+      <title>Apple TV&apos;s Pluribus Confirms a Bigger Role for One Favorite Character in Season 2</title>
       <link>https://comicbook.com/tv-shows/news/apple-tvs-pluribus-confirms-a-bigger-role-for-one-favorite-character-in-season-2</link>
+      <guid isPermaLink="false">b86ceff9-010b-419b-8e47-54f7aad5cef3</guid>
       <pubDate>Sat, 14 Nov 2026 20:08:49 GMT</pubDate>
-      <source url="https://comicbook.com">ComicBook.com</source>
-      <description>Well, Pluribus fans, it looks like one of your favorite side characters is getting a whole lot more spotlight in the series' second season, which is currently in production, though no official release date has been announced.</description>
+      <source url="https://comicbook.com/tv-shows/news/apple-tvs-pluribus-confirms-a-bigger-role-for-one-favorite-character-in-season-2">ComicBook.com</source>
+      <description>Well, Pluribus fans, it looks like one of your favorite side characters is getting a whole lot more spotlight in the series&apos; second season, which is currently in production, though no official release date has been announced. According to The Hollywood Reporter, which broke the news, fan-favorite Samba Schutte, who appeared in two episodes of [???]</description>
     </item>
     <item>
-      <title>I Love Suzanne Collins' Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible</title>
+      <title>I Love Suzanne Collins&apos; Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible</title>
       <link>https://www.cinemablend.com/movies/suzanne-collins-big-shoutout-woody-harrelson-hunger-games-sunrise-on-the-reaping</link>
+      <guid isPermaLink="false">a9245888-891f-4cd1-8f0e-f5e4730c2e3c</guid>
       <pubDate>Sat, 14 Nov 2026 20:07:36 GMT</pubDate>
-      <source url="https://www.cinemablend.com">CinemaBlend</source>
-      <description>"It's such a gift..."</description>
+      <source url="https://www.cinemablend.com/movies/suzanne-collins-big-shoutout-woody-harrelson-hunger-games-sunrise-on-the-reaping">CinemaBlend</source>
+      <description>&quot;It&apos;s such a gift...&quot;</description>
     </item>
     <item>
       <title>Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop</title>
       <link>https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751</link>
+      <guid isPermaLink="false">3c4c5989-bbe7-475b-a29c-c2e2b68b7b50</guid>
       <pubDate>Sat, 14 Nov 2026 20:06:51 GMT</pubDate>
-      <source url="https://variety.com">Variety</source>
-      <description>Southwest Airlines brought back its “Live at 35” program during Friday's nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour.</description>
+      <source url="https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751">Variety</source>
+      <description>Southwest Airlines brought back its “Live at 35” program during Friday&apos;s nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour. Hoobastank, The Used, Simple Plan and Lolo performed aboard a Southwest flight from Los Angeles to Orlando, Fla., on Nov. 13 as part of the music program, which [???]</description>
+    </item>
+    <item>
+      <title>&apos;Fatherland&apos; Wins Top Camerimage Prize as &apos;Wild Horse Nine&apos; Nabs Audience Award</title>
+      <link>https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483</link>
+      <guid isPermaLink="false">8dec8314-0460-4d20-b9d0-aa0fa1ab7b06</guid>
+      <pubDate>Sat, 14 Nov 2026 20:06:12 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483">The Hollywood Reporter</source>
+      <description>&apos;Woman Unknown&apos; and &apos;Minotaur&apos; also picked up trophies at the film festival honoring cinematography.</description>
+    </item>
+    <item>
+      <title>James Gunn Debunks ‘Man Of Tomorrow’ Overhaul Rumors: “No One From Skydance Has Even Seen The Movie”</title>
+      <link>https://theplaylist.net/james-gunn-man-of-tomorrow-skydance-overhaul-rumors-20261114</link>
+      <guid isPermaLink="false">9ffaaee8-96d2-4925-a0ad-76b7197a862d</guid>
+      <pubDate>Sat, 14 Nov 2026 20:04:01 GMT</pubDate>
+      <source url="https://theplaylist.net/james-gunn-man-of-tomorrow-skydance-overhaul-rumors-20261114">The Playlist</source>
+      <description>The fallout from James Gunn and Peter Safran ’s abrupt removal from DC Studios has fueled plenty of speculation about the future of the DC Universe, including reports that Skydance’s new leadership is demanding substantial changes to Gunn’s upcoming “Man of Tomorrow.” But Gunn has personally stepped in to debunk those claims, pointing out one rather significant problem: nobody at Skydance has actually seen the movie. READ MORE: Skydance Expected To Dismantle James Gunn And Peter Safran’s DC Universe Plans Following Their Firing [Report] Responding to the rumors on Threads, Gunn wrote: “There are a lot of untrue rumors going around, but one of them is that Skydance has seen Man of Tomorrow and that all sorts of sweeping changes are being made. Continue reading James Gunn Debunks ‘Man Of Tomorrow’ Overhaul Rumors: “No One From Skydance Has Even Seen The Movie” at The Playlist.</description>
+    </item>
+    <item>
+      <title>Path of Exile 2&apos;s 1.0 Release Is Shaping Up to Be Much More Than a Full Launch</title>
+      <link>https://comicbook.com/gaming/feature/path-of-exile-2s-1-0-release-is-shaping-up-to-be-much-more-than-a-full-launch</link>
+      <guid isPermaLink="false">cec24bdb-45fe-4cbc-95ba-0576fe4a9d1f</guid>
+      <pubDate>Sat, 14 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="https://comicbook.com/gaming/feature/path-of-exile-2s-1-0-release-is-shaping-up-to-be-much-more-than-a-full-launch">ComicBook.com</source>
+      <description>There are full launches, and then there&apos;s whatever Grinding Gear Games has cooked up for Path of Exile 2. After spending almost two years in Early Access, the action RPG is finally approaching its big 1.0 release, but GGG apparently has little interest in treating that milestone as a merely a chance to finish the [???]</description>
+    </item>
+    <item>
+      <title>Philomena Cunk Comes for Hollywood</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-features/cunk-on-cinema-diane-morgan-charlie-brooker-interview-1236755262</link>
+      <guid isPermaLink="false">bf986505-8c50-4e7a-9a3e-a85535f881da</guid>
+      <pubDate>Sat, 14 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/tv/tv-features/cunk-on-cinema-diane-morgan-charlie-brooker-interview-1236755262">The Hollywood Reporter</source>
+      <description>Diane Morgan, who plays the daft documentary presenter, and creator Charlie Brooker discuss making &apos;Cunk on Cinema&apos; — and letting interview subjects in on the joke.</description>
+    </item>
+    <item>
+      <title>Where to Watch Texas vs. LSU Football Game Online</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/watch-texas-longhorns-vs-lsu-tigers-football-game-free-2026-1236754917</link>
+      <guid isPermaLink="false">0a320e2b-032e-4672-b308-a73dcddafe89</guid>
+      <pubDate>Sat, 14 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/tv/tv-news/watch-texas-longhorns-vs-lsu-tigers-football-game-free-2026-1236754917">The Hollywood Reporter</source>
+      <description>On Nov. 14, the Longhorns head to Baton Rouge for a Top-25 SEC showdown against the Tigers.</description>
+    </item>
+    <item>
+      <title>‘Project Hail Mary’ Editor Joel Negron Had 700 Hours Of Film To Work With To Help Directors Phil Lord &amp;#038; Christopher Miller “Leave Behind Something Useful” - Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/project-hail-mary-editor-interview-1237223887</link>
+      <guid isPermaLink="false">5e92f45a-4f15-492a-b99c-11552b88851f</guid>
+      <pubDate>Sat, 14 Nov 2026 19:50:07 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/project-hail-mary-editor-interview-1237223887">Deadline</source>
+      <description>Just as Ryan Gosling’s Ryland Grace and Rocky (voiced by James Ortiz) spent quite a chunk of time relative to the human lifespan in space saving the world from a dying sun, Project Hail Mary’s editor Joel Negron spent time with nearly a month’s worth of footage to deliver the final cut at 2½ hours. [???]</description>
+    </item>
+    <item>
+      <title>‘Your Mother Your Mother Your Mother’ Star Mahershala Ali Says It Can Be “Dangerous That People End Up Believing Their Own Righteousness&quot; — Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/your-mother-your-mother-your-mother-mahershala-ali-interview-1237223884</link>
+      <guid isPermaLink="false">2914aa3d-549f-4646-9500-63f312488437</guid>
+      <pubDate>Sat, 14 Nov 2026 19:39:59 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/your-mother-your-mother-your-mother-mahershala-ali-interview-1237223884">Deadline</source>
+      <description>Bassam Tariq’s Your Mother Your Mother Your Mother is a complex action movie that interweaves religion at its center. The film stars Mahershala Ali as Latif, a staunch Muslim and father of three, including an infant. Latif is employed as a contract killer, who after the death of his wife struggles to reconcile his faith [???]</description>
+    </item>
+    <item>
+      <title>Hulu &amp;#038; ‘Secret Lives Of Mormon Wives’ Producers Accused Of Crafting &quot;False Narrative&quot; &amp;#038; &quot;Staged Confrontations&quot;</title>
+      <link>https://deadline.com/2026/11/mormon-wives-hulu-lawsuit-defamation-1237223830</link>
+      <guid isPermaLink="false">f127f510-4756-40db-a82e-c9d9e7dad8d1</guid>
+      <pubDate>Sat, 14 Nov 2026 19:36:56 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/mormon-wives-hulu-lawsuit-defamation-1237223830">Deadline</source>
+      <description>While it might not be a shock to some to know reality TV is not quite as real as it is presented, longtime The Secret Lives of Mormon Wives cast member Dakota Mortensen claims the world needs to know he is not the &quot;domestic abuser,&quot; &quot;serial adulterer&quot; and overall heel the Hulu series made him [???]</description>
+    </item>
+    <item>
+      <title>A Forgotten Game of Thrones Meets 300 Fantasy Epic Just Became a Streaming Hit Nearly A Decade After Box Office Disappointment</title>
+      <link>https://comicbook.com/movies/news/a-forgotten-game-of-thrones-meets-300-fantasy-epic-just-became-a-streaming-hit-nearly-a-decade-after-box-office-disappointment</link>
+      <guid isPermaLink="false">b67616bc-b403-44ef-85f7-8a0ac64de753</guid>
+      <pubDate>Sat, 14 Nov 2026 19:35:00 GMT</pubDate>
+      <source url="https://comicbook.com/movies/news/a-forgotten-game-of-thrones-meets-300-fantasy-epic-just-became-a-streaming-hit-nearly-a-decade-after-box-office-disappointment">ComicBook.com</source>
+      <description>Fantasy is a very popular genre of entertainment. It’s having a bit of a moment right now with the “romantasy” subgenre and it’s stories dominating books and heading into small screen adaptations. There’s also more traditional fantasy that continues to engage audiences with series like Rings of Power and House of the Dragon. Fantasy is [???]</description>
+    </item>
+    <item>
+      <title>I’d Love To Know If Michael Weatherly Will Return To NCIS Full Time, And Wilmer Valderrama Shared His Take</title>
+      <link>https://www.cinemablend.com/television/if-michael-weatherly-return-ncis-full-time-wilmer-valderrama-his-take</link>
+      <guid isPermaLink="false">a6f1bb4a-722b-4118-9220-e84e89f0c8f8</guid>
+      <pubDate>Sat, 14 Nov 2026 19:26:13 GMT</pubDate>
+      <source url="https://www.cinemablend.com/television/if-michael-weatherly-return-ncis-full-time-wilmer-valderrama-his-take">CinemaBlend</source>
+      <description>One can only hope.</description>
+    </item>
+    <item>
+      <title>Meet Plave, the Very Real Virtual K-pop Boy Group</title>
+      <link>https://www.hollywoodreporter.com/music/music-features/k-pop-group-plave-virtual-idol-interview-1236755476</link>
+      <guid isPermaLink="false">66b05dbd-c183-4ee6-a386-5259f187f1b9</guid>
+      <pubDate>Sat, 14 Nov 2026 19:24:21 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/music/music-features/k-pop-group-plave-virtual-idol-interview-1236755476">The Hollywood Reporter</source>
+      <description>As AI continues to push its way into the creative space, K-pop boy group Plave, powered by real performers and real artists, offers compelling and authentic counter-programming.</description>
+    </item>
+    <item>
+      <title>James Gunn Says &quot;No One From Skydance Has Seen&quot; &apos;Man of Tomorrow,&apos; Addresses &quot;Untrue Rumors&quot; Over &apos;Superman&apos; Sequel</title>
+      <link>https://www.hollywoodreporter.com/movies/movie-news/james-gunn-skydance-man-of-tomorrow-superman-sequel-dc-exit-1236755480</link>
+      <guid isPermaLink="false">b98d0b7c-d33a-4643-90de-6fea3905fcc1</guid>
+      <pubDate>Sat, 14 Nov 2026 19:11:54 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/movies/movie-news/james-gunn-skydance-man-of-tomorrow-superman-sequel-dc-exit-1236755480">The Hollywood Reporter</source>
+      <description>The filmmaker, who is stepping down as DC Studios co-CEO alongside Peter Safran on Dec. 1, took to Threads to respond to speculation about the movie.</description>
+    </item>
+    <item>
+      <title>Dawn Greenhalgh, Canadian Stage Veteran Who Voiced the Queen in &apos;Babar,&apos; Dies at 93</title>
+      <link>https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732</link>
+      <guid isPermaLink="false">d1eba3bb-8908-4e11-8107-f336d6f6bdc2</guid>
+      <pubDate>Sat, 14 Nov 2026 19:08:40 GMT</pubDate>
+      <source url="https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732">Variety</source>
+      <description>Dawn Greenhalgh, a veteran Canadian actress of stage, film and television, died Nov. 6 in Toronto. She was 93. Born in Shanghai, China, she spent her childhood with her family in a Japanese prisoner of war camp, where she discovered a love for music, theater and dance. Greenhalgh moved to Canada with only a guardian [???]</description>
+    </item>
+    <item>
+      <title>Journey Announces Drummer Deen Castronovo Is Exiting Band, Days After Another Health Scare Forced His Second Mid-Show Departure</title>
+      <link>https://variety.com/2026/music/news/journey-drummer-deen-castronovo-exits-band-health-scare-1236947754</link>
+      <guid isPermaLink="false">34ec3485-7e60-421c-9923-c068df9bd21b</guid>
+      <pubDate>Sat, 14 Nov 2026 19:07:38 GMT</pubDate>
+      <source url="https://variety.com/2026/music/news/journey-drummer-deen-castronovo-exits-band-health-scare-1236947754">Variety</source>
+      <description>Journey drummer Deen Castronovo is out of the band, the group announced Friday, due to health issues that caused him to have to drop out of two shows mid-concert in the space of just over a month, the latest of which was Tuesday night in Boston. After he was replaced by his drum tech as [???]</description>
+    </item>
+    <item>
+      <title>I Can&apos;t Stop Thinking About This Pivotal Scene In The Only Living Pickpocket In New York</title>
+      <link>https://www.cinemablend.com/movies/cant-stop-thinking-about-pivotal-scene-the-only-living-pickpocket-in-new-york-john-turturro</link>
+      <guid isPermaLink="false">122c26dc-5975-466e-a695-e5267582a9a3</guid>
+      <pubDate>Sat, 14 Nov 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.cinemablend.com/movies/cant-stop-thinking-about-pivotal-scene-the-only-living-pickpocket-in-new-york-john-turturro">CinemaBlend</source>
+      <description>It&apos;s the best moment in the movie.</description>
+    </item>
+    <item>
+      <title>Nothing Prepared Sam Claflin For Seeing What Johnny Depp Would Look Like In Ebenezer, NOTHING</title>
+      <link>https://www.cinemablend.com/movies/nothing-prepared-sam-claflin-seeing-johnny-depp-ebenezer-nothing</link>
+      <guid isPermaLink="false">0de5928a-e1ed-4fe2-b365-d73d47c7f8bf</guid>
+      <pubDate>Sat, 14 Nov 2026 19:04:29 GMT</pubDate>
+      <source url="https://www.cinemablend.com/movies/nothing-prepared-sam-claflin-seeing-johnny-depp-ebenezer-nothing">CinemaBlend</source>
+      <description>Nothing prepared me for Andrea Riseborough and Tramell Tillman&apos;s transformations either.</description>
+    </item>
+    <item>
+      <title>John Turturro, Tatiana Maslany Created Raw Estrangement In &apos;The Only Living Pickpocket In New York&apos; - Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/only-living-pickpocket-in-new-york-john-turturro-tatiana-maslany-1237223855</link>
+      <guid isPermaLink="false">f10b5be1-deef-4117-8849-9da4e9d63166</guid>
+      <pubDate>Sat, 14 Nov 2026 19:02:47 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/only-living-pickpocket-in-new-york-john-turturro-tatiana-maslany-1237223855">Deadline</source>
+      <description>John Turturro and Tatiana Maslany have one scene together in The Only Living Pickpocket in New York. When Harry (Turturro) shows up on her doorstep, it has been years since they’ve seen each other. Both actors prepared for the scene, but Turturro had an idea to keep it raw. At Deadline’s Contenders Film Los Angeles, [???]</description>
+    </item>
+    <item>
+      <title>&apos;The Good Daughter&apos; Stars Rose Byrne and Meghann Fahy on Playing Sisters With Secrets and That Twisty Killer Ending</title>
+      <link>https://variety.com/2026/tv/news/the-good-daughter-spoilers-rose-byrne-meghann-fahy-season-finale-1236945641</link>
+      <guid isPermaLink="false">199a110e-36d6-4b01-89c5-38e1ca0518ad</guid>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://variety.com/2026/tv/news/the-good-daughter-spoilers-rose-byrne-meghann-fahy-season-finale-1236945641">Variety</source>
+      <description>SPOILER ALERT: This interview contains major spoilers from “The Good Daughter,” now streaming on Peacock. For Sam and Charlie Quinn, the estranged sisters played by Rose Byrne and Meghann Fahy in “The Good Daughter,” the truth was always going to set them free. Adapted by author Karin Slaughter from her own bestselling novel of the [???]</description>
+    </item>
+    <item>
+      <title>Lilo &amp;#038; Stitch Drops First Look at New Animated Revival Ahead of Release in Theaters</title>
+      <link>https://comicbook.com/movies/news/lilo-stitch-drops-first-look-at-new-animated-revival-ahead-of-release-in-theaters</link>
+      <guid isPermaLink="false">b1427e5a-3372-4f2c-8a6f-178c0a00177e</guid>
+      <pubDate>Sat, 14 Nov 2026 18:53:19 GMT</pubDate>
+      <source url="https://comicbook.com/movies/news/lilo-stitch-drops-first-look-at-new-animated-revival-ahead-of-release-in-theaters">ComicBook.com</source>
+      <description>Image Courtesy of Walt Disney Animation Studios Lilo &amp;#38; Stitch is coming back to theaters with a new animated revival for the Disney classic, and has dropped the first look images for its new short that fans will be able to check out very soon. Lilo &amp;#38; Stitch has had an eventful few years. The live-action remake for the classic animated film [???]</description>
+    </item>
+    <item>
+      <title>Live-Action Frozen Rumored Sequel Details Reveal Elsa &amp;#038; Anna’s Kids Fighting in a Hunger Games Tournament</title>
+      <link>https://comicbook.com/movies/news/live-action-frozen-rumored-sequel-details-reveal-elsa-annas-kids-fighting-in-a-hunger-games-tournament</link>
+      <guid isPermaLink="false">b7f41f4b-547f-467b-ae27-8cc02b10761f</guid>
+      <pubDate>Sat, 14 Nov 2026 18:51:52 GMT</pubDate>
+      <source url="https://comicbook.com/movies/news/live-action-frozen-rumored-sequel-details-reveal-elsa-annas-kids-fighting-in-a-hunger-games-tournament">ComicBook.com</source>
+      <description>Image via Disney In news that fans likely didn&apos;t expect to hear, it seems that there may be a royal head-to-head brewing somewhere in Disney studios. At least, that&apos;s the news according to industry scooper My Time to Shine over on X, who reported that Gary Marsh is currently developing not one, but two new Descendants movies. And [???]</description>
+    </item>
+    <item>
+      <title>Penélope Cruz Guarded Against Marital Blowback Playing Opposite Javier Bardem In ‘Bunker’: &quot;You Are Touching Things That Are Delicate&quot; – Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/penelope-cruz-bunker-interview-1237223831</link>
+      <guid isPermaLink="false">f001523b-b534-471f-b851-a40a3ad7ed5b</guid>
+      <pubDate>Sat, 14 Nov 2026 18:48:29 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/penelope-cruz-bunker-interview-1237223831">Deadline</source>
+      <description>Penélope Cruz revealed that she had concerns that the fragile relationship between the husband-and-wife leads of filmmaker Florian Zeller’s Bunker might bleed over into her rock-solid union with husband Javier Bardem. “We&apos;ve worked together every five or six years – we don&apos;t plan it like that, but I think in a way we both want [???]</description>
+    </item>
+    <item>
+      <title>Skip Hinnant Dies: &apos;Electric Company&apos;, &apos;You&apos;re A Good Man, Charlie Brown&apos; Actor, Voice Of Fritz The Cat Was 86</title>
+      <link>https://deadline.com/2026/11/skip-hinnant-dead-1237223791</link>
+      <guid isPermaLink="false">cb5d0839-393e-4be5-94f0-9f10143de854</guid>
+      <pubDate>Sat, 14 Nov 2026 18:35:15 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/skip-hinnant-dead-1237223791">Deadline</source>
+      <description>Skip Hinnant, an original cast member of PBS&apos; The Electric Company in the 1970s and the prolific voice actor behind Fritz the Cat, My Little Pony and 1977&apos;s stop-motion Easter Bunny, died Sunday, November 8, in Denver. He was 86. His death was announced by his family, who noted he passed peacefully surrounded by loved [???]</description>
+    </item>
+    <item>
+      <title>Taylor Swift Is Performing At The CMA Awards, And I Have 2 Wild Theories About What Might Happen During It</title>
+      <link>https://www.cinemablend.com/television/taylor-swift-performing-cma-awards-2-wild-theories-what-might-happen</link>
+      <guid isPermaLink="false">1852d585-588d-4c9e-8bdb-4624f1af288c</guid>
+      <pubDate>Sat, 14 Nov 2026 18:25:39 GMT</pubDate>
+      <source url="https://www.cinemablend.com/television/taylor-swift-performing-cma-awards-2-wild-theories-what-might-happen">CinemaBlend</source>
+      <description>Hopefully, this results in me saying &quot;I knew it, I knew her.&quot;</description>
+    </item>
+    <item>
+      <title>The Internet Can&apos;t Stop Laughing Over Daniel Kaluuya And Tyriq Withers’ Viral Interview About Grounded Flights</title>
+      <link>https://www.cinemablend.com/movies/internet-laughing-daniel-kaluuya-tyriq-withers-viral-interview-grounded-flights</link>
+      <guid isPermaLink="false">5588b6c1-1790-49e5-8fa7-4e618feaabb9</guid>
+      <pubDate>Sat, 14 Nov 2026 18:16:26 GMT</pubDate>
+      <source url="https://www.cinemablend.com/movies/internet-laughing-daniel-kaluuya-tyriq-withers-viral-interview-grounded-flights">CinemaBlend</source>
+      <description>This is the kind of comedy I like to see on social media.</description>
+    </item>
+    <item>
+      <title>This Vintage Boba Fett Includes the Letter That Helped Create One of Star Wars Collecting&apos;s Biggest Obsessions</title>
+      <link>https://comicbook.com/collectibles/news/this-vintage-boba-fett-includes-the-letter-that-helped-create-one-of-star-wars-collectings-biggest-obsessions</link>
+      <guid isPermaLink="false">c95159b1-f726-42d0-9a10-16e4898346a2</guid>
+      <pubDate>Sat, 14 Nov 2026 18:14:00 GMT</pubDate>
+      <source url="https://comicbook.com/collectibles/news/this-vintage-boba-fett-includes-the-letter-that-helped-create-one-of-star-wars-collectings-biggest-obsessions">ComicBook.com</source>
+      <description>Kenner’s rocket-firing Boba Fett may be the single most infamous unproduced action figure ever, taking on a nearly mythical status among Star Wars fans and collectors. That legend began with this mail-away figure, which arrived on doorsteps around the country in 1979. The sample on auction now through Hakes is in the exact condition it [???]</description>
+    </item>
+    <item>
+      <title>Skip Hinnant, &apos;The Electric Company&apos; Actor and Voice of Ralph Bakshi&apos;s &apos;Fritz the Cat&apos; Movies, Dies at 86</title>
+      <link>https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741</link>
+      <guid isPermaLink="false">89c0a93c-b906-44d8-ac48-f0ce045ead47</guid>
+      <pubDate>Sat, 14 Nov 2026 18:13:00 GMT</pubDate>
+      <source url="https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741">Variety</source>
+      <description>Actor Skip Hinnant, best known for his work on the PBS children&apos;s series “The Electric Company&apos; and as the voice of Fritz the Cat in Ralph Bakshi&apos;s racy animated films from the 1970s, has died. He was 86. Hinnant&apos;s death was confirmed by his family in an obituary notice published by the New York Times. [???]</description>
+    </item>
+    <item>
+      <title>One of the Best N64 Games Free With Xbox Game Pass for 24 Hours</title>
+      <link>https://comicbook.com/gaming/news/n64-nintendo-64-games-free-xbox-game-pass</link>
+      <guid isPermaLink="false">06138e51-2ec0-4d31-b5ec-9e485c4ffc36</guid>
+      <pubDate>Sat, 14 Nov 2026 18:09:19 GMT</pubDate>
+      <source url="https://comicbook.com/gaming/news/n64-nintendo-64-games-free-xbox-game-pass">ComicBook.com</source>
+      <description>Xbox Game Pass subscribers have roughly 24 hours left to download and play one of the best N64 games for free before it leaves the Microsoft subscription service. This does not apply to PC Game Pass subscribers because the game isn&apos;t currently available with this tier of the subscription service. Those with either an Xbox [???]</description>
+    </item>
+    <item>
+      <title>Bleach Creator Returns With New Look at Ichigo After Anime&apos;s Finale</title>
+      <link>https://comicbook.com/anime/news/bleach-creator-returns-with-new-look-at-ichigo-after-animes-finale</link>
+      <guid isPermaLink="false">137e80f4-0d0b-403b-984f-e03e646cf258</guid>
+      <pubDate>Sat, 14 Nov 2026 18:04:46 GMT</pubDate>
+      <source url="https://comicbook.com/anime/news/bleach-creator-returns-with-new-look-at-ichigo-after-animes-finale">ComicBook.com</source>
+      <description>Courtesy of Viz Media Bleach: Thousand-Year Blood War wrapped up the anime&apos;s two decade long run with its final episodes earlier this Fall, and the creator behind it all is helping to celebrate with some special new art for Ichigo Kurosaki. It took 22 years to get to that point, but Bleach fans were finally able to see the [???]</description>
+    </item>
+    <item>
+      <title>UFC 334 Livestream: How to Watch Gane vs. Hokit Online</title>
+      <link>https://variety.com/2026/shopping/news/how-to-watch-ufc-334-gane-vs-hokit-live-online-free-1236945089</link>
+      <guid isPermaLink="false">a6781b91-0e57-436c-99c3-870c732273d0</guid>
+      <pubDate>Sat, 14 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://variety.com/2026/shopping/news/how-to-watch-ufc-334-gane-vs-hokit-live-online-free-1236945089">Variety</source>
+      <description>After Alexander Volkanovski defeated Movsar Evloev in a TKO in the second round to retain the featherweight title during UFC 333 in late October, the Ultimate Fighting Championship travels from Abu Dhabi to New York City for UFC 334 on Saturday, Nov. 14. For the main event, French fighter Ciryl Gane (14-2-0) defends his UFC [???]</description>
+    </item>
+    <item>
+      <title>My Hero Academia Reveals First Look at Major Event for the Anime&apos;s Grand Finale</title>
+      <link>https://comicbook.com/anime/news/my-hero-academia-reveals-first-look-at-major-event-for-the-animes-grand-finale</link>
+      <guid isPermaLink="false">75d0af60-0f82-4285-b164-7798e02f9860</guid>
+      <pubDate>Sat, 14 Nov 2026 17:36:31 GMT</pubDate>
+      <source url="https://comicbook.com/anime/news/my-hero-academia-reveals-first-look-at-major-event-for-the-animes-grand-finale">ComicBook.com</source>
+      <description>Image Courtesy of TOHO Animation My Hero Academia is coming back with a major event to cap off the anime&apos;s tenth anniversary celebration, and now fans have gotten the first look at the new event as it gears up for the anime&apos;s grand finale. Though the franchise wrapped up the final season of the TV anime series last year and [???]</description>
+    </item>
+    <item>
+      <title>5 Superheroes You Forgot Were in the Fantastic Four and Two Are Coming to the MCU</title>
+      <link>https://comicbook.com/comics/list/5-superheroes-you-forgot-were-in-the-fantastic-four-and-two-are-coming-to-the-mcu</link>
+      <guid isPermaLink="false">13d002bb-8d74-4723-96cd-2740b688eb53</guid>
+      <pubDate>Sat, 14 Nov 2026 17:34:00 GMT</pubDate>
+      <source url="https://comicbook.com/comics/list/5-superheroes-you-forgot-were-in-the-fantastic-four-and-two-are-coming-to-the-mcu">ComicBook.com</source>
+      <description>Image Courtesy of Marvel Comics For most of their existence, the Fantastic Four were more of a family than a team, with Mister Fantastic, the Invisible Woman, the Human Torch, and the Thing as the four members. However, there have been multiple times throughout the team&apos;s history when other superheroes have joined the team. Some of these are well known, [???]</description>
+    </item>
+    <item>
+      <title>Shane Gillis Addresses &apos;SNL&apos; Monologue Backlash, Says He Promised the Show There Would Be &quot;No Controversy&quot;</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428</link>
+      <guid isPermaLink="false">b2e4c1e1-0177-40b9-baf4-ebd86db4dffe</guid>
+      <pubDate>Sat, 14 Nov 2026 17:28:12 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428">The Hollywood Reporter</source>
+      <description>“Not to defend &apos;SNL,&apos; they don’t approve it. I mean, they could shut it down. They could, but you don’t write your set and give it to them. Unless you’re not a comedian,&quot; he said on a podcast.</description>
+    </item>
+    <item>
+      <title>Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/boston-college-notre-dame-football-game-free-stream-online-1236754220</link>
+      <guid isPermaLink="false">4f4f3f7b-0799-456c-a1cd-69b068c1e466</guid>
+      <pubDate>Sat, 14 Nov 2026 17:26:00 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/tv/tv-news/boston-college-notre-dame-football-game-free-stream-online-1236754220">The Hollywood Reporter</source>
+      <description>Today&apos;s game marks the debut of Jason Benetti in the broadcast booth following the sudden passing of longtime sportscaster Dan Hicks.</description>
+    </item>
+    <item>
+      <title>Adam Driver’s Harsh Response to Disney After Killing the Kylo Ren Solo Movie: “Criminal”</title>
+      <link>https://comicbook.com/movies/news/adam-drivers-harsh-response-to-disney-after-killing-the-kylo-ren-solo-movie-criminal</link>
+      <guid isPermaLink="false">d0981932-c325-4177-b127-9c71b87faa67</guid>
+      <pubDate>Sat, 14 Nov 2026 17:25:40 GMT</pubDate>
+      <source url="https://comicbook.com/movies/news/adam-drivers-harsh-response-to-disney-after-killing-the-kylo-ren-solo-movie-criminal">ComicBook.com</source>
+      <description>Fans of the Star Wars sequel films, and, maybe more importantly, Kylo Ren, aren&apos;t the only ones who are still having big feelings about Lucasfilm&apos;s baffling choice to pass on the nearly finished script for The Hunt for Ben Solo. Kylo Ren himself, Adam Driver, is still in disbelief that Disney and Lucasfilm said no [???]</description>
+    </item>
+    <item>
+      <title>&apos;Scream&apos; Actor C.W. Morgan&apos;s Cause Of Death Revealed</title>
+      <link>https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783</link>
+      <guid isPermaLink="false">68303490-8793-4ffd-b471-e9839658498e</guid>
+      <pubDate>Sat, 14 Nov 2026 17:16:30 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783">Deadline</source>
+      <description>A cause of death for Scream actor C.W. Morgan has been determined by the Los Angeles County Department of Medical Examiner: atherosclerotic cardiovascular disease. Morgan, who died at 72 on August 30, played Hank Loomis, father of the one of the franchise&apos;s Ghostface killers (played by Skeet Ulrich) and ex-husband of another (Scream 2&apos;s Laurie [???]</description>
+    </item>
+    <item>
+      <title>Dungeon Crawler Carl’s “X-Men” Story Is Better Than Marvel’s &amp;#038; Proves How The MCU Should Adapt the Mutant Team</title>
+      <link>https://comicbook.com/movies/feature/dungeon-crawler-carls-x-men-story-is-better-than-marvels-proves-how-the-mcu-should-adapt-the-mutant-team</link>
+      <guid isPermaLink="false">1626a485-b3cf-4975-8a17-f444be8aea6b</guid>
+      <pubDate>Sat, 14 Nov 2026 17:16:00 GMT</pubDate>
+      <source url="https://comicbook.com/movies/feature/dungeon-crawler-carls-x-men-story-is-better-than-marvels-proves-how-the-mcu-should-adapt-the-mutant-team">ComicBook.com</source>
+      <description>The dungeon AI in Matt Dinniman&apos;s Dungeon Crawler Carl might be the best X-Villain Marvel never created. With an awful sense of humor and enough power to possibly wipe out the entire galaxy, the rogue AI is practically a god. It&apos;s also growing more unstable, which is very unfortunate for anyone still caught in its [???]</description>
+    </item>
+    <item>
+      <title>Contenders Film Los Angeles Underway With 15 Movies Ready For Their Awards-Season Closeups</title>
+      <link>https://deadline.com/2026/11/contenders-film-los-angeles-lineup-schedule-1237219190</link>
+      <guid isPermaLink="false">1d9ed820-6f44-4810-81a1-d84f968d2971</guid>
+      <pubDate>Sat, 14 Nov 2026 17:15:00 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/contenders-film-los-angeles-lineup-schedule-1237219190">Deadline</source>
+      <description>Buckle up, because this season’s edition of Deadline&apos;s Contenders Film: Los Angeles is taking us on a journey, all the way from L.A. to outer space. For today&apos;s all-day event, which spotlights the casts and creatives of 15 films from eight studios and streamers live at the DGA Theater, we’re in the L.A.-Philly-Jersey City locations [???]</description>
+    </item>
+    <item>
+      <title>Shonen Jump Shares First Look at Major Creator&apos;s Return After 3 Years</title>
+      <link>https://comicbook.com/anime/news/shonen-jump-shares-first-look-at-major-creators-return-after-3-years</link>
+      <guid isPermaLink="false">02672f5e-3f97-4bae-8ede-0c8c39403a31</guid>
+      <pubDate>Sat, 14 Nov 2026 17:11:03 GMT</pubDate>
+      <source url="https://comicbook.com/anime/news/shonen-jump-shares-first-look-at-major-creators-return-after-3-years">ComicBook.com</source>
+      <description>Image Courtesy of Shueisha A major creator is returning to the pages of Shueisha&apos;s Weekly Shonen Jump magazine with a new series after three years, and Shonen Jump has dropped the first look at their next major project. Shonen Jump is now entering its final phase of shifting its releases around for the year with some long running franchises [???]</description>
+    </item>
+    <item>
+      <title>‘For The Record,’ Shane Gillis Doesn’t Have ‘A Problem’ With Ladies Gym Attire. What He Said About SNL</title>
+      <link>https://www.cinemablend.com/television/shane-gillis-doesnt-have-problem-ladies-gym-attire-said-snl</link>
+      <guid isPermaLink="false">e9f2ef61-e67c-4bfc-a1d6-e3de517bd702</guid>
+      <pubDate>Sat, 14 Nov 2026 17:06:25 GMT</pubDate>
+      <source url="https://www.cinemablend.com/television/shane-gillis-doesnt-have-problem-ladies-gym-attire-said-snl">CinemaBlend</source>
+      <description>The comedian finally addressed the controversy.</description>
+    </item>
+    <item>
+      <title>L.A.’s Most Celebrated French Chef Is Staging a Comeback</title>
+      <link>https://www.hollywoodreporter.com/lifestyle/lifestyle-news/los-angeles-french-chef-ludo-lefebvre-comeback-1236753231</link>
+      <guid isPermaLink="false">7d1aea5c-f935-47db-95dc-944a69dd2a09</guid>
+      <pubDate>Sat, 14 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/lifestyle/lifestyle-news/los-angeles-french-chef-ludo-lefebvre-comeback-1236753231">The Hollywood Reporter</source>
+      <description>Onetime culinary wunderkind (and heartthrob) Ludo Lefebvre is keeping the city’s Gallic tradition alive with a handful of new concepts.</description>
+    </item>
+    <item>
+      <title>Florence Pugh Was &quot;So Nervous&quot; to Release &apos;East of Eden&apos; and Still Hasn&apos;t Read the Reviews: &quot;It Was Too Much With This One&quot;</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/florence-pugh-nervous-release-east-of-eden-reviews-1236755447</link>
+      <guid isPermaLink="false">44af233e-06d5-4517-bf9d-57e60b59ccb0</guid>
+      <pubDate>Sat, 14 Nov 2026 16:59:06 GMT</pubDate>
+      <source url="https://www.hollywoodreporter.com/tv/tv-news/florence-pugh-nervous-release-east-of-eden-reviews-1236755447">The Hollywood Reporter</source>
+      <description>The actress both stars in and executive produced Netflix&apos;s hit adaptation of the 1952 John Steinbeck novel.</description>
+    </item>
+    <item>
+      <title>The Blood of Dawnwalker Adding Feature Players Have Wanted Since Launch Next Week</title>
+      <link>https://comicbook.com/gaming/news/the-blood-of-dawnwalker-adding-feature-players-have-wanted-since-launch-next-week</link>
+      <guid isPermaLink="false">f7e0c50f-a2b3-4e9a-9141-b160c7a53a51</guid>
+      <pubDate>Sat, 14 Nov 2026 16:57:49 GMT</pubDate>
+      <source url="https://comicbook.com/gaming/news/the-blood-of-dawnwalker-adding-feature-players-have-wanted-since-launch-next-week">ComicBook.com</source>
+      <description>Courtesy of Rebel Wolves The Blood of the Dawnwalker is finally getting New Game+, a feature players have begged for ever since the RPG arrived and received high critical praise. The highly anticipated mode also arrives with several quality-of-life features in the game&apos;s Update 1.2 patch, including new soundtrack options, balance fixes, and improvements to the physical world of [???]</description>
     </item>
   </channel>
 </rss>
