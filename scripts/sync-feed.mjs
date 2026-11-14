@@ -5,6 +5,7 @@ import crypto from "node:crypto";
 const PRIMARY_API = "https://tapseen.com/api/news/feed.json?limit=50";
 const FALLBACK_API = "https://tapseen.ir/api/news/feed.json?limit=50";
 const MAX_ARTICLES = 50;
+const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36";
 
 async function fetchWithTimeout(url, timeoutMs = 15000) {
   const controller = new AbortController();
@@ -13,7 +14,7 @@ async function fetchWithTimeout(url, timeoutMs = 15000) {
     const res = await fetch(url, {
       signal: controller.signal,
       headers: {
-        "User-Agent": "TapSeen-FeedSync/1.0 (+https://github.com/paridarfarhad-web/tapseen-diagnostic-feed)",
+        "User-Agent": USER_AGENT,
         "Accept": "application/json",
       },
     });
@@ -21,6 +22,120 @@ async function fetchWithTimeout(url, timeoutMs = 15000) {
       throw new Error(`HTTP ${res.status} ${res.statusText}`);
     }
     return await res.json();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function cleanHtml(text) {
+  if (!text) return "";
+  return text
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;|&apos;|&#8217;|&#x2019;/g, "'")
+    .replace(/&#x201C;|&#x201D;|&ldquo;|&rdquo;/g, '"')
+    .replace(/&nbsp;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function extractSourceArticleText(sourceSlug, url) {
+  if (!url || !url.startsWith("http")) return null;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 10000);
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: { "User-Agent": USER_AGENT },
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+
+    let paragraphs = [];
+
+    if (sourceSlug === "cinemablend") {
+      const elkMatches = [...html.matchAll(/<p[^>]+id=["']elk-[^"']*["'][^>]*>(.*?)<\/p>/gis)];
+      if (elkMatches.length > 0) {
+        paragraphs = elkMatches
+          .map((m) => cleanHtml(m[1]))
+          .filter((p) => p.length > 30 && !p.startsWith("Image credit") && !p.includes("newsletter"));
+      }
+      if (paragraphs.length < 3) {
+        const allP = [...html.matchAll(/<p[^>]*>(.*?)<\/p>/gis)];
+        const candidateP = allP.map((m) => cleanHtml(m[1])).filter((p) => {
+          return (
+            p.length > 50 &&
+            !p.includes("Privacy Policy") &&
+            !p.includes("Cookies") &&
+            !p.includes("membership") &&
+            !p.includes("affiliate commission") &&
+            !p.includes("confirm you are aged") &&
+            !p.includes("display name before commenting") &&
+            !p.startsWith("By submitting")
+          );
+        });
+        if (candidateP.length > paragraphs.length) {
+          paragraphs = candidateP;
+        }
+      }
+    } else if (sourceSlug === "comicbook" || sourceSlug === "cbr") {
+      const articleMatch =
+        html.match(/<article[^>]*>(.*?)<\/article>/is) ||
+        html.match(/<div[^>]+class=["'][^"']*article-body[^"']*["'][^>]*>(.*?)<\/div>/is) ||
+        html.match(/<div[^>]+class=["'][^"']*article-content[^"']*["'][^>]*>(.*?)<\/div>/is);
+      const searchIn = articleMatch ? articleMatch[1] : html;
+      paragraphs = [...searchIn.matchAll(/<p[^>]*>(.*?)<\/p>/gis)]
+        .map((m) => cleanHtml(m[1]))
+        .filter(
+          (p) =>
+            p.length > 30 &&
+            !p.startsWith("Share on") &&
+            !p.startsWith("Image Courtesy") &&
+            !p.startsWith("Add Us On") &&
+            !p.includes("Disclosure:") &&
+            !p.includes("newsletter")
+        );
+    } else if (sourceSlug === "theplaylist") {
+      const entryMatch = html.match(/<div[^>]+class=["'][^"']*entry-content[^"']*["'][^>]*>(.*?)<\/div>/is);
+      const searchIn = entryMatch ? entryMatch[1] : html;
+      paragraphs = [...searchIn.matchAll(/<p[^>]*>(.*?)<\/p>/gis)]
+        .map((m) => cleanHtml(m[1]))
+        .filter((p) => p.length > 30 && !p.startsWith("READ MORE") && !p.startsWith("Continue reading"));
+    } else {
+      // PMC sites: Deadline, Variety, The Hollywood Reporter
+      const larvaMatches = [...html.matchAll(/<p class=["']paragraph larva[^"']*["'][^>]*>(.*?)<\/p>/gis)];
+      if (larvaMatches.length > 0) {
+        paragraphs = larvaMatches
+          .map((m) => cleanHtml(m[1]))
+          .filter(
+            (p) =>
+              p.length > 30 &&
+              !p.startsWith("Must Read") &&
+              !p.startsWith("Watch on") &&
+              !p.startsWith("RELATED:")
+          );
+      }
+      if (paragraphs.length === 0) {
+        const articleMatch =
+          html.match(/<article[^>]*>(.*?)<\/article>/is) ||
+          html.match(/<div[^>]+class=["'][^"']*a-content[^"']*["'][^>]*>(.*?)<\/div>/is);
+        const searchIn = articleMatch ? articleMatch[1] : html;
+        paragraphs = [...searchIn.matchAll(/<p[^>]*>(.*?)<\/p>/gis)]
+          .map((m) => cleanHtml(m[1]))
+          .filter((p) => p.length > 35 && !p.includes("copyright") && !p.includes("newsletter"));
+      }
+    }
+
+    if (paragraphs.length > 0) {
+      return paragraphs.join("\n\n");
+    }
+
+    return null;
+  } catch {
+    return null;
   } finally {
     clearTimeout(timer);
   }
@@ -67,8 +182,9 @@ function formatRfc822(dateStr) {
 
 function generateRssXml(articles) {
   const now = new Date().toUTCString();
-  const itemsXml = articles.map(a => {
-    return `    <item>
+  const itemsXml = articles
+    .map((a) => {
+      return `    <item>
       <title>${escapeXml(a.title)}</title>
       <link>${escapeXml(a.source_url)}</link>
       <guid isPermaLink="false">${escapeXml(a.id)}</guid>
@@ -76,7 +192,8 @@ function generateRssXml(articles) {
       <source url="${escapeXml(a.source_url)}">${escapeXml(a.source)}</source>
       <description>${escapeXml(a.summary)}</description>
     </item>`;
-  }).join("\n");
+    })
+    .join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -99,23 +216,23 @@ function generatePlainText(articles) {
   text += `Website: https://tapseen.com\n\n`;
 
   articles.forEach((a, idx) => {
-    text += `------------------------------------------------------------\n`;
-    text += `${idx + 1}. ${a.title}\n`;
-    text += `Source: ${a.source}\n`;
+    text += `============================================================\n`;
+    text += `[${idx + 1}] ${a.title}\n`;
+    text += `Source: ${a.source} | Status: ${a.content_status} | Words: ${a.word_count}\n`;
     text += `Published: ${a.published_at}\n`;
     text += `URL: ${a.source_url}\n`;
-    text += `Summary:\n${a.summary || "(No summary available)"}\n`;
-    if (a.content && a.content !== a.summary) {
-      text += `\nFull Content:\n${a.content}\n`;
-    }
-    text += `\n`;
+    text += `------------------------------------------------------------\n`;
+    text += `SUMMARY:\n${a.summary || "(No summary available)"}\n\n`;
+    text += `CONTENT / EXTRACTED DETAILS:\n${a.content || "(No expanded content available)"}\n\n`;
   });
 
   return text;
 }
 
 function computeArticlesHash(articles) {
-  const simple = articles.map(a => `${a.id}|${a.title}|${a.source_url}|${a.published_at}`).join("\n");
+  const simple = articles
+    .map((a) => `${a.id}|${a.title}|${a.source_url}|${a.content_status}|${a.word_count}`)
+    .join("\n");
   return crypto.createHash("sha256").update(simple, "utf8").digest("hex");
 }
 
@@ -128,16 +245,28 @@ async function main() {
   console.log(`[sync] Starting TapSeen feed synchronization...`);
   const rawItems = await loadRawNews();
 
-  // Deduplicate and sanitize
+  // Load existing feed to avoid re-extracting articles that are already enriched
+  const existingArticlesMap = new Map();
+  if (fs.existsSync(feedJsonPath)) {
+    try {
+      const oldJson = JSON.parse(fs.readFileSync(feedJsonPath, "utf8"));
+      if (Array.isArray(oldJson.articles)) {
+        for (const art of oldJson.articles) {
+          if (art.id) existingArticlesMap.set(art.id, art);
+        }
+      }
+    } catch {}
+  }
+
+  // Deduplicate and process items
   const seenIds = new Set();
   const seenUrls = new Set();
-  const validArticles = [];
+  const candidateArticles = [];
 
   for (const raw of rawItems) {
     if (!raw.title || !raw.id) continue;
     if (seenIds.has(raw.id)) continue;
-    
-    // Normalize URL
+
     let normUrl = "";
     try {
       const u = new URL(raw.url || raw.source_url);
@@ -152,29 +281,78 @@ async function main() {
     seenIds.add(raw.id);
     if (normUrl) seenUrls.add(normUrl);
 
-    validArticles.push({
-      id: String(raw.id),
-      title: String(raw.title).trim(),
-      summary: String(raw.summary || "").trim(),
-      content: String(raw.content || raw.summary || "").trim(),
-      source: String(raw.source?.name || raw.source || "TapSeen").trim(),
-      source_url: String(raw.url || raw.source_url || "").trim(),
-      published_at: String(raw.publishedAt || raw.published_at || new Date().toISOString()),
-      image_url: raw.imageUrl || raw.image_url || null,
-      language: "en",
-      updated_at: String(raw.updatedAt || raw.discoveredAt || raw.publishedAt || new Date().toISOString())
-    });
+    candidateArticles.push(raw);
   }
 
   // Sort descending by published_at
-  validArticles.sort((a, b) => new Date(b.published_at).getTime() - new Date(a.published_at).getTime());
-  const finalArticles = validArticles.slice(0, MAX_ARTICLES);
+  candidateArticles.sort(
+    (a, b) =>
+      new Date(b.publishedAt || b.published_at).getTime() -
+      new Date(a.publishedAt || a.published_at).getTime()
+  );
 
-  console.log(`[sync] Processed ${finalArticles.length} unique sorted articles.`);
+  const top50 = candidateArticles.slice(0, MAX_ARTICLES);
+  console.log(`[sync] Processing ${top50.length} articles for full content enrichment...`);
+
+  const finalArticles = [];
+
+  for (let i = 0; i < top50.length; i++) {
+    const raw = top50[i];
+    const sourceSlug = (raw.source?.slug || raw.source || "unknown").toLowerCase();
+    const sourceName = raw.source?.name || raw.source || "TapSeen";
+    const canonicalUrl = raw.url || raw.source_url || "";
+    const summaryText = cleanHtml(raw.summary || "");
+
+    // Check if we already have an enriched version
+    const cached = existingArticlesMap.get(raw.id);
+    let contentText = "";
+    let contentStatus = "summary_only";
+    let extractedAt = raw.updated_at || raw.discovered_at || raw.published_at || new Date().toISOString();
+
+    if (raw.content && raw.content.trim().length > 80) {
+      contentText = raw.content.trim();
+      contentStatus = raw.content_status || "expanded";
+    } else if (cached && cached.content && cached.content.length > 80) {
+      contentText = cached.content;
+      contentStatus = cached.content_status || "expanded";
+      extractedAt = cached.extracted_at || extractedAt;
+    } else {
+      // Attempt live extraction from source
+      console.log(`[sync] Enriching article (${i + 1}/${top50.length}): [${sourceSlug}] ${raw.title.slice(0, 50)}...`);
+      const extracted = await extractSourceArticleText(sourceSlug, canonicalUrl);
+      if (extracted && extracted.length > 80) {
+        contentText = extracted;
+        contentStatus = "expanded";
+        extractedAt = new Date().toISOString();
+      } else {
+        contentText = summaryText;
+        contentStatus = "summary_only";
+      }
+      // Polite delay between extraction requests
+      await new Promise((r) => setTimeout(r, 150));
+    }
+
+    const wordCount = contentText.split(/\s+/).filter(Boolean).length;
+
+    finalArticles.push({
+      id: String(raw.id),
+      title: cleanHtml(raw.title),
+      summary: summaryText,
+      content: contentText,
+      source: sourceName,
+      source_url: canonicalUrl,
+      published_at: String(raw.publishedAt || raw.published_at || new Date().toISOString()),
+      image_url: raw.imageUrl || raw.image_url || null,
+      language: "en",
+      content_status: contentStatus,
+      word_count: wordCount,
+      extracted_at: extractedAt,
+      updated_at: extractedAt,
+    });
+  }
 
   const newHash = computeArticlesHash(finalArticles);
 
-  // Check existing hash
   let existingHash = "";
   if (fs.existsSync(feedJsonPath)) {
     try {
@@ -182,9 +360,7 @@ async function main() {
       if (Array.isArray(oldJson.articles)) {
         existingHash = computeArticlesHash(oldJson.articles);
       }
-    } catch {
-      // Ignore parse error on old file
-    }
+    } catch {}
   }
 
   if (existingHash && existingHash === newHash) {
@@ -195,18 +371,18 @@ async function main() {
     return;
   }
 
-  console.log(`[sync] New articles detected (Old: ${existingHash || "none"}, New: ${newHash}). Updating feeds...`);
+  console.log(`[sync] Updating feed files with ${finalArticles.length} enriched articles...`);
 
   const updatedFeedJson = {
     feed: {
       title: "TapSeen News - ChatGPT Feed",
-      description: "Auto-synced latest 50 verified cinema & entertainment news articles for TapSeen & ChatGPT",
+      description: "Auto-synced latest 50 verified cinema & entertainment news articles with full context for TapSeen & ChatGPT",
       home_page_url: "https://tapseen.com",
       feed_url: "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
       count: finalArticles.length,
-      updated_at: new Date().toISOString()
+      updated_at: new Date().toISOString(),
     },
-    articles: finalArticles
+    articles: finalArticles,
   };
 
   const xmlContent = generateRssXml(finalArticles);
@@ -223,7 +399,7 @@ async function main() {
   }
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(`[sync ERROR]:`, err);
   process.exit(1);
 });
