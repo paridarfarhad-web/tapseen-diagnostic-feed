@@ -1,0 +1,46 @@
+{
+  "title": "TapSeen Diagnostic News Feed",
+  "total": 5,
+  "articles": [
+    {
+      "id": "95cb9be5-9d9b-409f-9a27-5d729c7eca34",
+      "title": "Making 'I Play Rocky' Felt Like A Throwback To 1976 For The Creators - Contenders L.A.",
+      "url": "https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964",
+      "source": "Deadline",
+      "published_at": "2026-11-14T20:32:11+00:00",
+      "summary": "The team behind I Play Rocky found themselves time-traveling 50 years into the past to capture the essence of the story of how an unknown Sylvester Stallone wrote and starred in Rocky, the blockbuster."
+    },
+    {
+      "id": "0dc49723-1fd6-48c4-aaf1-8ab6cb6d0466",
+      "title": "Dragon Ball Daima Deserves to Return for Season 2",
+      "url": "https://comicbook.com/anime/feature/dragon-ball-daima-deserves-to-return-for-season-2",
+      "source": "ComicBook.com",
+      "published_at": "2026-11-14T20:22:00+00:00",
+      "summary": "Image Courtesy of Toei Animation Dragon Ball Daima did a great job filling in some of the gaps between Dragon Ball Z and Dragon Ball Super, but the ending still left some unanswered questions."
+    },
+    {
+      "id": "b86ceff9-010b-419b-8e47-54f7aad5cef3",
+      "title": "Apple TV's Pluribus Confirms a Bigger Role for One Favorite Character in Season 2",
+      "url": "https://comicbook.com/tv-shows/news/apple-tvs-pluribus-confirms-a-bigger-role-for-one-favorite-character-in-season-2",
+      "source": "ComicBook.com",
+      "published_at": "2026-11-14T20:08:49+00:00",
+      "summary": "Well, Pluribus fans, it looks like one of your favorite side characters is getting a whole lot more spotlight in the series' second season, which is currently in production, though no official release date has been announced."
+    },
+    {
+      "id": "a9245888-891f-4cd1-8f0e-f5e4730c2e3c",
+      "title": "I Love Suzanne Collins' Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible",
+      "url": "https://www.cinemablend.com/movies/suzanne-collins-big-shoutout-woody-harrelson-hunger-games-sunrise-on-the-reaping",
+      "source": "CinemaBlend",
+      "published_at": "2026-11-14T20:07:36+00:00",
+      "summary": "\"It's such a gift...\""
+    },
+    {
+      "id": "3c4c5989-bbe7-475b-a29c-c2e2b68b7b50",
+      "title": "Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop",
+      "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751",
+      "source": "Variety",
+      "published_at": "2026-11-14T20:06:51+00:00",
+      "summary": "Southwest Airlines brought back its “Live at 35” program during Friday's nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour."
+    }
+  ]
+}

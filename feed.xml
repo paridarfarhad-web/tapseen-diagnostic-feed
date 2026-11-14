@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TapSeen Diagnostic News Feed</title>
+    <link>https://tapseen.com</link>
+    <description>Diagnostic test feed containing 5 recent movie news articles for ChatGPT accessibility verification.</description>
+    <language>en</language>
+    <item>
+      <title>Making 'I Play Rocky' Felt Like A Throwback To 1976 For The Creators - Contenders L.A.</title>
+      <link>https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964</link>
+      <pubDate>Sat, 14 Nov 2026 20:32:11 GMT</pubDate>
+      <source url="https://deadline.com">Deadline</source>
+      <description>The team behind I Play Rocky found themselves time-traveling 50 years into the past to capture the essence of the story of how an unknown Sylvester Stallone wrote and starred in Rocky, the blockbuster.</description>
+    </item>
+    <item>
+      <title>Dragon Ball Daima Deserves to Return for Season 2</title>
+      <link>https://comicbook.com/anime/feature/dragon-ball-daima-deserves-to-return-for-season-2</link>
+      <pubDate>Sat, 14 Nov 2026 20:22:00 GMT</pubDate>
+      <source url="https://comicbook.com">ComicBook.com</source>
+      <description>Image Courtesy of Toei Animation Dragon Ball Daima did a great job filling in some of the gaps between Dragon Ball Z and Dragon Ball Super, but the ending still left some unanswered questions.</description>
+    </item>
+    <item>
+      <title>Apple TV's Pluribus Confirms a Bigger Role for One Favorite Character in Season 2</title>
+      <link>https://comicbook.com/tv-shows/news/apple-tvs-pluribus-confirms-a-bigger-role-for-one-favorite-character-in-season-2</link>
+      <pubDate>Sat, 14 Nov 2026 20:08:49 GMT</pubDate>
+      <source url="https://comicbook.com">ComicBook.com</source>
+      <description>Well, Pluribus fans, it looks like one of your favorite side characters is getting a whole lot more spotlight in the series' second season, which is currently in production, though no official release date has been announced.</description>
+    </item>
+    <item>
+      <title>I Love Suzanne Collins' Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible</title>
+      <link>https://www.cinemablend.com/movies/suzanne-collins-big-shoutout-woody-harrelson-hunger-games-sunrise-on-the-reaping</link>
+      <pubDate>Sat, 14 Nov 2026 20:07:36 GMT</pubDate>
+      <source url="https://www.cinemablend.com">CinemaBlend</source>
+      <description>"It's such a gift..."</description>
+    </item>
+    <item>
+      <title>Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop</title>
+      <link>https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751</link>
+      <pubDate>Sat, 14 Nov 2026 20:06:51 GMT</pubDate>
+      <source url="https://variety.com">Variety</source>
+      <description>Southwest Airlines brought back its “Live at 35” program during Friday's nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour.</description>
+    </item>
+  </channel>
+</rss>
