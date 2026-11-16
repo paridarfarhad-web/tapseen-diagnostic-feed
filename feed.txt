@@ -1,9 +1,119 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-16T20:59:06.934Z
+Last Updated: 2026-11-16T21:04:57.881Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Charlie Vickers Confirms Rings of Power’s Sauron Is Loyal to J.R.R. Tolkien
+[1] OpenAI Slapped By California AG For "Unfair &#038; Unsafe Practices"; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company
+Source: Deadline | Status: expanded | Words: 926
+Published: 2026-11-16T21:02:58+00:00
+URL: https://deadline.com/2026/11/openai-sued-by-california-1237225599
+------------------------------------------------------------
+SUMMARY:
+Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. "Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and […]
+
+CONTENT / EXTRACTED DETAILS:
+Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. &#8220;Government intervention is necessary to stop OpenAI's unfair and unsafe practices and to prevent the company from causing severe harm to California, its people, and beyond,&#8221; states a complaint filed Monday in state court in the Bay Area by CA Attorney General Rob Bonta &#8216;s office.
+
+Casting a wide net on the foibles on the rapidly expanding AI industry, the two-claim complaint has a specific focus on the July 2026 attack by roaming OpenAI agents on machine learning system Hugging Face. Facing millions in fine and penalties if the Golden State's case is successful, Sam Altman -run OpenAI, which currently has a $1.25 trillion market valuation, has often appeared to take Mark Zuckerberg's 21st century tech mantra of &#8220;move fast and break things&#8221; to a more harried and frayed level. Related Stories News Donald Trump Rages At '60 Minutes' Report On Lack Of U.S. Preparedness For Iran's Drone Counterattacks News Willie Geist To Depart MS NOW's 'Morning Joe,' Will Expand NBC News Role And Continue To Host 'Sunday Today'
+
+Simultaniously, OpenAI and sometimes rival Anthropic have been almost solely responsible for a budget balancing uptick in California's public finances with the vast investment and potentiality the two Silicon Valley-based companies have brought to the AI industry. As the sex scandal that toppled Nvidia CEO Jensen Huang has shown in its own market fluctuations the past few days and Donald Trump &#8216;s ongoing insistence that the techlords can oversee themselves, AI has a captive hold on the American economy. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Responding to today's lawsuit, and its accusations that Altman and crew have blown off previous attempts by Bonta's team for more info, OpenAI never uses the word &#8220;politics&#8221; or &#8220;midterms,&#8221; but they do claim they are being unfairly picked on. "Since the Hugging Face incident, we've undertaken an extensive and transparent effort to understand and address misaligned model activity,&#8221; OpenAI spokesperson Drew Pusateri told Deadline Monday.
+
+&#8220;We've published a detailed technical report, commissioned and published a separate independent report, notified affected organizations, strengthened safeguards across our research systems, and created a framework for additional identification and disclosure of misalignment,&#8221; Pusateri added. &#8220;This lawsuit appears to single out OpenAI over a challenge that's been identified by every major AI lab. We take misalignment seriously, and we have engaged&#x2014;and will continue to engage&#x2014;constructively with the Attorney General's office to share information and advance strong, practical safety standards for the entire industry." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The Hugging Face assault has been estimated to be the first full-on instance of AI making moves outside human control and oversight.
+
+To that, OpenAI was seen in many circles as way too slow to reveal the invasive move &#8212; a point the CA AG offers as the foundation of its suit this week. &#8220;While public reporting and OpenAI's self-serving statements about the Hugging Face attack have evoked science fiction fantasies of &#8216;rogue' AI systems run amok, the simple truth is that the attack was entirely foreseeable in light of OpenAI's decision to test models it knew to be dangerous in a flawed and exploitable testing environment without proper oversight,&#8221; the filing notes.
+
+In the weeks since OpenAI opened up about the Hugging Face attack by its agents, a number of similar actions in scope and depth have occurred.
+
+&#8220;While touting its transparency and openness to the public, OpenAI has refused to substantially comply with subpoenas and interrogatories served by the Attorney General to obtain information about OpenAI's security practices,&#8221; the AG attack on Altman and OpenAI emphasizes. &#8220;The company's recent and much-publicized interest in &#8216;transparency' is also at odds with its practice of discouraging employees from raising safety issues, which further risks public safety. Finally, the company's conduct leading up to and during the Hugging Face attack demonstrates that OpenAI has repeatedly failed to follow its own safety protocols.&#8221;
+
+Add to that in political protocols, recently re-elected CA AG Bonta has felt the sting of the creative community for his much criticized late September settlement of the antitrust suit against Paramount and Warner Bros Discovery for their now completed $111 billion merger. Today's action is sure to win Bonta a few fans in the C-suites and guild group chats, at least in the short term.
+
+In terms of creative protocols, CAA and WME have both filed briefs in the nearly two-year old consolidated copyright infringement battle between OpenAI and the New York Times , Ta-Nehisi Coates , a collection of Florida and Arkansas papers, The Intercept and other outlets. CAA client Robert De Niro joined fellow agency repped talent Ariana DeBose , Helen Mirren , Emma Thompson , Julia Roberts , Scarlett Johansson, Vince Gilligan, Rosario Dawson, Dan Levy, Anne Hathaway and more in putting his name on a petition telling Altman and OpenAI "that technical silence is not legal consent.&#8221;
+
+============================================================
+[2] 'Reasonable Doubt' Gets Early Season 5 Renewal As Season 4 Becomes Hulu Series' Most Watched
+Source: Deadline | Status: expanded | Words: 547
+Published: 2026-11-16T21:00:26+00:00
+URL: https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama's Season 4 finale on Nov. 24. The early pickup comes as Season 4 has become the series’ most-watched installment to date, according to Hulu, posting double-digit percentage […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama's Season 4 finale on Nov. 24.
+
+The early pickup comes as Season 4 has become the series' most-watched installment to date, according to Hulu, posting double-digit percentage gains over every prior season when most returning streaming series are trending down.
+
+It also makes Reasonable Doubt , starring Emayatzy Corinealdi, the second-longest Hulu Originals drama series behind The Handmaid's Tale . It is also the longest-running scripted series out of Onyx Collective after helping launch the Disney brand as its first show. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Casting Kyle MacLachlan, Michael Hyatt, Marwan Kenzari & J. Alphonse Nicholson Join Hulu Limited Series 'Victoria' Legal Hulu & 'Secret Lives Of Mormon Wives' Producers Accused Of Crafting "False Narrative" & "Staged Confrontations"
+
+Starting off with a largely lesser known core cast, Reasonable Doubt , from creator/executive producer Raamla Mohamed Hunter and executive producer Kerry Washington, was well received, scoring 100% on Rotten Tomatoes for its first season. The series has since become a magnet for big-name talent, adding Morris Chestnut in Season 2, Joseph Sikora in Season 3 and Durrell "Tank" Babbs and Meagan Good in Season 4. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Since Season 2, Reasonable Doubt also has run on an yearly cadence, helping with engagement, and has gotten awards recognition.
+
+Building momentum in Season 4, the latest episode surged more than +40% over the season premiere, based on one day of views globally, while also trending on social media following its debut.
+
+Per Disney, Reasonable Doubt has been streamed for over 150 million hours globally to date across Hulu and Disney+.
+
+Season 4 follows Jax's (Corinealdi) most loyal client at the center of a spiraling media disaster, which thrusts The Stewart Firm into a high-stakes battle where every move could mean survival &#x2026; or collapse of the firm. As grief lingers and pressure mounts, one question looms: Can they rebuild in time, or will the cost of moving forward too quickly be everything they stand to lose?
+
+Reasonable Doubt Season 4 cast includes series regulars Corinealdi, McKinley Freeman, Tim Jo, Angela Grovey, Babbs and Good, alongside recurring guest stars Chestnut, Sikora, Brandee Evans, La La Anthony, Rutina Wesley, Taylor Polidore Williams, DeVaughn Nixon and Alexxis Lemire. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The series is created, written and executive produced by Raamla Mohamed Hunter. Kerry Washington executive produces alongside Pilar Savone for Simpson Street, Larry Wilmore for Wilmore Films, Anton Cropper, Lena Cordina, Tamara Gregory and Erika L. Johnson. Shawn Holley, Jon Leshay and Zahir McGhee serve as co-executive producers. The series hails from Onyx Collective and is produced by 20th Television, a part of Disney Television Studios.
+
+============================================================
+[3] The James Bond Search Shows How Daunting The Process Is In An Age When Everyone On Social Media Is An Expert
+Source: Deadline | Status: expanded | Words: 1186
+Published: 2026-11-16T21:00:00+00:00
+URL: https://deadline.com/2026/11/james-bond-search-robert-pattinson-social-media-1237225227
+------------------------------------------------------------
+SUMMARY:
+It's been almost two years since Amazon MGM Studios took creative control of the James Bond movie franchise, and with the news Monday that Robert Pattinson has been selected as the seventh 007, its universe is officially set in stone. While the search for a new Bond has never been easy, this one took on […]
+
+CONTENT / EXTRACTED DETAILS:
+It's been almost two years since Amazon MGM Studios took creative control of the James Bond movie franchise, and with the news Monday that Robert Pattinson has been selected as the seventh 007, its universe is officially set in stone.
+
+While the search for a new Bond has never been easy, this one took on a whole new life as social media and online speculation put not only the next Bond actor under a microscope but also those who made the screen-test shortlist to play the iconic role.
+
+The Bond franchise, at 25 films and counting, is no stranger to rumor and speculation. Previous 007 Daniel Craig, following the release of Spectre in 2015, commented that he would rather &#8220;slash his wrists&#8221; then train for the role again, leading everyone to assume he was done with Bond. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The resulting furor over who might replace Craig went on for not just months but years, with everyone from Idris Elba to Tom Hardy being rumored to replace him. And because then-franchise stewards Barbara Broccoli and Michael G. Wilson never commented on castings until they were official, those rumors never stopped &#8212; that is, until Craig went on Stephen Colbert's late-night show in 2017 and confirmed he would be back one last time for No Time to Die , which hit theaters in 2021.
+
+When Amazon took over control from longtime producer Eon in a shock announcement in February 2025, the rumor engine revved all over again.
+
+Long before Pattinson won the job, Amazon's first decision was to find new producers. Even as so many things about franchise's future was up in the air, there was little time to guess who Amazon wanted: The studio wasted no time in naming Amy Pascal and David Heyman as producers , announcing it a month after the Eon deal went through.
+
+In addition to being two of the biggest producer names in Hollywood, Pascal and Heyman were no strangers to putting on worldwide casting searches for iconic roles: Heyman was the key architect in casting the Harry Potter movies, while Pascal as both a producer and Sony Pictures studio head led searches for franchise-leading roles &#8212; including tapping Tom Holland as Spider-Man. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Pascal and Heyman's first job was to find a director to oversee the new Bond chapter, which led to the first real taste of speculation on social media, where everyone was a &#8220;top choice&#8221; to direct. &#8220;Could Christopher Nolan do this after The Odyssey ?&#8221; &#8220;Would Edward Berger want to make this his first big tentpole?&#8221; &#8220;Spielberg has always said how much he loves the James Bond franchise.&#8221;
+
+The hubbub gave Amazon, Pascal and Heyman an idea of how people would not just speculate on potential decisions but also give their opinion on why certain choices would or wouldn't work. In the end, they swung for the fences, swaying Denis Villeneuve to direct and showing Amazon meant business with this iteration of the franchise.
+
+For decades, Eon made it clear nothing was above the brand when it came to Bond, which is why for the most part the 007 actors have been on the rise rather than established. The same was true for directors: Even when Sam Mendes was tapped to direct 2012's Skyfall, the Oscar winner was more known for his prestige pics than big-budget tentpoles.
+
+Villeneuve, who had just directed two hit Dune movies, was a clear indication things were changing this go-round. It was also a sign that if the studio could choose a high-profile director, the idea of getting an A-list movie star was no longer out of the question.
+
+Pascal and Heyman tapped Steven Knight to pen the script in July 2025 and at the same time made it clear they were in no rush to find the next Bond. That only increased the furor, as well as the tonnage of social media pundits who claimed to have an in on the film to say what was true and not true. No matter how often it was reported that the casting search wouldn't begin until Knight's script came in, a new story would emerge once a month about the latest top choice. Usually, those came around the same time an actor's new movie or TV show became a hit.
+
+One other element previous Bond producers didn't have to deal with: the rise of prediction-market apps like Kalshi, where betting-odds favorite to land the Bond role changed daily.
+
+After Amazon this past May announced Nina Gold as casting director and that an actor search was finally underway, the floodgates opened &#8212; everyone from up-and-coming theater actors to established stars were in the mix to land the Bond role.
+
+As everyone on X seemed to think they knew what was going, behind the scenes things couldn't have been more top secret. Dozens of actors met and read for the role, yet hardly any became public; most were scared that the mention of their name in the trades could lead to being eliminated from consideration. To avoid leaks, reps were eliminated from the process altogether until the final stages, with producers and Gold reaching out directly to talent.
+
+Even as the studio began negotiating test deals with talent after the Labor Day holiday, the final list of Bond names remained secret even as social media claimed a choice had been made. It made it increasingly difficult to keep track of who was a top choice and who had removed themselves from the process before the screen tests for the final five actors came to light just before Halloween.
+
+Deadline broke the news that those test were underway, but even then information was so hard to come by that only three of the five names ( Jack Lowden, Josh O'Connor and Callum Turner ) were able to be reported. The eventual news that Pattinson and Nicholas Hoult were the other two names broke weeks after all five had already tested. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+In the end, Pattinson, an actor whose name probably showed up least in speculative reports &#8212; not because he wasn't worthy but because he seemed too much of a star to get the job &#8212; landed the role.
+
+Next up in the process is finding Bond's female co-star and next nemesis, speculation that is sure to start before the first turkey is carved up next week. Still, it likely won't be at the levels we saw for a role that remains unmatched in Hollywood.
+
+============================================================
+[4] Charlie Vickers Confirms Rings of Power’s Sauron Is Loyal to J.R.R. Tolkien [Exclusive]
 Source: ComicBook.com | Status: expanded | Words: 556
 Published: 2026-11-16T20:56:50+00:00
 URL: https://comicbook.com/tv-shows/news/charlie-vickers-confirms-rings-of-powers-sauron-is-loyal-to-j-r-r-tolkien
@@ -27,7 +137,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Robert Rodriguez’s Zorro TV Series Gets Unfortunate Update, But There’s Good News Too
+[5] Robert Rodriguez’s Zorro TV Series Gets Unfortunate Update, But There’s Good News Too
 Source: ComicBook.com | Status: expanded | Words: 437
 Published: 2026-11-16T20:55:11+00:00
 URL: https://comicbook.com/tv-shows/news/robert-rodriguezs-zorro-tv-series-gets-unfortunate-update-but-theres-good-news-too
@@ -53,7 +163,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts
+[6] The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts
 Source: Variety | Status: expanded | Words: 1306
 Published: 2026-11-16T20:47:17+00:00
 URL: https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412
@@ -99,7 +209,7 @@ ELEVEN RECOMMENDATIONS &#8220;Pegged&#8221; by Rachel Tookey (The Artists Partne
 TEN RECOMMENDATIONS &#8220;Overturn&#8221; by Joan Iyiola (Independent Talent Group) Producers: Joi Productions / Miramax Form: TV Genre: Legal Drama Summary: Leading prosecutor Kemi Odutola is on the brink of becoming the youngest ever judge when a high-profile murder case threatens to unravel everything she has built.
 
 ============================================================
-[4] Quentin Tarantino Initially Wanted Tim Roth, Johnny Depp, &#038; Simon Pegg For Michael Fassbender’s Role In ‘Inglourious Basterds’
+[7] Quentin Tarantino Initially Wanted Tim Roth, Johnny Depp, &#038; Simon Pegg For Michael Fassbender’s Role In ‘Inglourious Basterds’
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-16T20:42:26+00:00
 URL: https://theplaylist.net/quentin-tarantino-johnny-depp-tim-roth-michael-fassbender-inglourious-basterds-20261116
@@ -111,7 +221,7 @@ CONTENT / EXTRACTED DETAILS:
 Quentin Tarantino ’s films are full of fascinating casting what-ifs, from actors who nearly landed iconic roles to stars who slipped through his fingers. And given the filmmaker’s famously specific tastes, there’s usually an interesting story behind each one. Take “ Inglourious Basterds ,” for example. Michael Fassbender ’s memorable turn as British Lieutenant Archie Hicox seems like inspired casting in retrospect, but Tarantino originally had three very different actors in mind: at one point, Tim Roth , Johnny Depp , and then Simon Pegg . Continue reading Quentin Tarantino Initially Wanted Tim Roth, Johnny Depp, & Simon Pegg For Michael Fassbender’s Role In ‘Inglourious Basterds’ at The Playlist.
 
 ============================================================
-[5] Fourth 'Terminal List' Show in the Works at Prime Video
+[8] Fourth 'Terminal List' Show in the Works at Prime Video
 Source: The Hollywood Reporter | Status: expanded | Words: 367
 Published: 2026-11-16T20:36:32+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/fourth-terminal-list-show-development-prime-video-1236756502
@@ -135,7 +245,7 @@ The flurry of activity around the Terminal List franchise comes a few weeks afte
 The franchise also includes a prequel series, Dark Wolf , that premiered in August 2025.
 
 ============================================================
-[6] Wolfenstein 3 Makes Me Hopeful It Will Take Lessons From These 4 Recently Successful Shooters
+[9] Wolfenstein 3 Makes Me Hopeful It Will Take Lessons From These 4 Recently Successful Shooters
 Source: ComicBook.com | Status: expanded | Words: 1378
 Published: 2026-11-16T20:30:00+00:00
 URL: https://comicbook.com/gaming/list/wolfenstein-3-makes-me-hopeful-it-will-take-lessons-from-these-4-recently-successful-shooters
@@ -177,7 +287,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] ‘The Terminal List’ Prequel ‘Cry Havoc’ In The Works At Amazon
+[10] ‘The Terminal List’ Prequel ‘Cry Havoc’ In The Works At Amazon
 Source: Deadline | Status: expanded | Words: 363
 Published: 2026-11-16T20:30:00+00:00
 URL: https://deadline.com/2026/11/the-terminal-list-prequel-cry-havoc-amazon-1237225564
@@ -203,7 +313,7 @@ The group will exec produce alongside Pratt and Antoine Fuqua and Kat Samick for
 It marks the latest project in the franchise, which just dropped season two of The Terminal List last month, has prequel The Terminal List: Dark Wolf and is working on Savage Son.
 
 ============================================================
-[8] Gianmarco Soresi Talks Debut Netflix Special, Global Comedy Explosion, Role Of "Sh*t Talk" In Keeping Comics Honest – Comedy Means Business Podcast
+[11] Gianmarco Soresi Talks Debut Netflix Special, Global Comedy Explosion, Role Of "Sh*t Talk" In Keeping Comics Honest – Comedy Means Business Podcast
 Source: Deadline | Status: expanded | Words: 814
 Published: 2026-11-16T20:30:00+00:00
 URL: https://deadline.com/2026/11/gianmarco-soresi-comedy-means-business-podcast-interview-1237225548
@@ -231,7 +341,7 @@ In conversation with Deadline, Soresi talks about his experiences traveling the 
 Check out the full conversation by clicking above.
 
 ============================================================
-[9] 'Terminal List' Prequel Series 'Cry Havoc' in Development at Amazon
+[12] 'Terminal List' Prequel Series 'Cry Havoc' in Development at Amazon
 Source: Variety | Status: expanded | Words: 450
 Published: 2026-11-16T20:30:00+00:00
 URL: https://variety.com/2026/tv/news/terminal-list-prequel-series-cry-havoc-amazon-1236949306
@@ -255,7 +365,7 @@ The show is being developed for television by the team behind &#8220;The Termina
 As with &#8220;The Terminal List,&#8221; Antoine Fuqua executive produces with Kat Samick for Fuqua Films, with Pratt executive producing via Indivisible. MRC and Amazon MGM Studios produce.
 
 ============================================================
-[10] ‘Remain’ Trailer: Jake Gyllenhaal Falls For Mysterious Ghost In M. Night Shyamalan Thriller Out February 5
+[13] ‘Remain’ Trailer: Jake Gyllenhaal Falls For Mysterious Ghost In M. Night Shyamalan Thriller Out February 5
 Source: The Playlist | Status: summary_only | Words: 100
 Published: 2026-11-16T20:25:28+00:00
 URL: https://theplaylist.net/remain-jake-gyllenhaal-phoebe-dynevor-20261116
@@ -267,7 +377,7 @@ CONTENT / EXTRACTED DETAILS:
 M. Night Shyamalan and Nicholas Sparks might seem like unlikely creative partners. One built his career on supernatural mysteries, psychological suspense, and elaborate twists; the other made his name writing sweeping, often tragic romances. But perhaps their contrasting sensibilities are exactly what makes “Remain,” a new supernatural romantic drama starring Jake Gyllenhaal and Phoebe Dynevor , such an intriguing proposition. What happens when the filmmaker behind “ The Sixth Sense ” meets the author of “ The Notebook ”? Continue reading ‘Remain’ Trailer: Jake Gyllenhaal Falls For Mysterious Ghost In M. Night Shyamalan Thriller Out February 5 at The Playlist.
 
 ============================================================
-[11] Robert Pattinson Said in 2012 That He'd 'Definitely' Want to Be James Bond in 'Like 20 Years' When He's Not So 'Fresh-Faced'
+[14] Robert Pattinson Said in 2012 That He'd 'Definitely' Want to Be James Bond in 'Like 20 Years' When He's Not So 'Fresh-Faced'
 Source: Variety | Status: expanded | Words: 506
 Published: 2026-11-16T20:23:47+00:00
 URL: https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282
@@ -289,7 +399,7 @@ Villeneuve added in his own statement: "Before anything else, I want to express 
 Amy Pascal, who has produced the "Spider-Man" franchise and several 007 films, and David Heyman, the producer behind the "Harry Potter" series, are producing the new Bond film, with Tanya Lapointe executive producing. The script is by &#8220;Peaky Blinders&#8221; creator Steven Knight.
 
 ============================================================
-[12] Dexter: Resurrection Just Dropped A Sneaky Hint He And Harrison Are In Big Trouble
+[15] Dexter: Resurrection Just Dropped A Sneaky Hint He And Harrison Are In Big Trouble
 Source: CinemaBlend | Status: expanded | Words: 133
 Published: 2026-11-16T20:22:20+00:00
 URL: https://www.cinemablend.com/streaming-news/dexter-resurrection-dropped-sneaky-hint-harrison-big-trouble
@@ -305,7 +415,7 @@ Dexter: Resurrection didn't mention the camera, or really draw attention to it i
 Should someone review that bodycam footage back at the station, I can imagine they're going to have some major questions for Harrison. At best, I'm sure his new co-worker/love interest Fiona will wonder why he let a witness to FBK leave the scene.
 
 ============================================================
-[13] Family Guy Sets Hulu Release Date for 2026 Holiday Special - Watch First Look Trailer
+[16] Family Guy Sets Hulu Release Date for 2026 Holiday Special - Watch First Look Trailer
 Source: ComicBook.com | Status: expanded | Words: 478
 Published: 2026-11-16T20:20:53+00:00
 URL: https://comicbook.com/tv-shows/news/family-guy-sets-hulu-release-date-for-2026-holiday-special-watch-first-look-trailer
@@ -329,7 +439,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Seth Rogen Says He “Hated” The Comedic PG-13 Restrictions On ‘The Green Hornet’ &#038; Recalls The Abandoned Stephen Chow Version
+[17] Seth Rogen Says He “Hated” The Comedic PG-13 Restrictions On ‘The Green Hornet’ &#038; Recalls The Abandoned Stephen Chow Version
 Source: The Playlist | Status: summary_only | Words: 89
 Published: 2026-11-16T20:07:56+00:00
 URL: https://theplaylist.net/seth-rogen-green-hornet-recalls-abandoned-stephen-chow-version-20261116
@@ -341,7 +451,7 @@ CONTENT / EXTRACTED DETAILS:
 Before exploring the world of mature comic book titles on the small screen like Prime 's " Invincible " and " The Boys ," Seth Rogen was enlisted to both co-write and star in Sony Pictures ' " Green Hornet " reboot (based on the comic book and 1960's TV show), which was mostly a misfire but had some exciting visuals and action sequences. Continue reading Seth Rogen Says He “Hated” The Comedic PG-13 Restrictions On ‘The Green Hornet’ & Recalls The Abandoned Stephen Chow Version at The Playlist.
 
 ============================================================
-[15] Brit List 2026: Crime Series &#038; Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays
+[18] Brit List 2026: Crime Series &#038; Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays
 Source: Deadline | Status: expanded | Words: 1649
 Published: 2026-11-16T20:00:00+00:00
 URL: https://deadline.com/2026/11/brit-list-2026-crime-series-coming-of-age-movie-top-scripts-1237225076
@@ -449,7 +559,7 @@ Producers: Joi Productions / Miramax
 Summary: Leading prosecutor Kemi Odutola is on the brink of becoming the youngest ever judge when a high-profile murder case threatens to unravel everything she has built.
 
 ============================================================
-[16] Brit List 2026: Cornwall Outlaw Series, Coming-of-Age Film Top List of Unproduced Film, TV Scripts
+[19] Brit List 2026: Cornwall Outlaw Series, Coming-of-Age Film Top List of Unproduced Film, TV Scripts
 Source: The Hollywood Reporter | Status: expanded | Words: 1585
 Published: 2026-11-16T20:00:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/brit-list-2026-best-unproduced-scripts-film-tv-disney-plus-1236754795
@@ -475,7 +585,7 @@ Angela Jain, head of content, Disney+ EMEA (Europe, Middle East and Africa), add
 25 RECOMMENDATIONS Dig for Victory by Gemma Addy (The Artists Partnership) Producers: Available Form: Feature Film &#x2003; Genre: Coming-of-Age Drama Summary: In rural Wiltshire, an isolated girl comes of age in the closing months of World War II. But when a violent incident interrupts a new friendship with an older woman, she uncovers a series of secrets that will shape a deadly future. Petroc by Archie Thomson (Curtis Brown) Producers: About Premium Content / Bosena Form: TV&#x2003;&#x2003; Genre: Crime Summary: When a charismatic and volatile Cornish outlaw returns home after 12 years in prison, he sets about reclaiming what he believes has been taken from his family, transforming the Penroses from small-time crooks into a rising criminal power. Set against the wild Cornish coastline, Petroc is a propulsive family crime saga about loyalty, belonging and identity, and the devastating consequences that follow when the past refuses to stay buried. 22 RECOMMENDATIONS Do No Harm by Polly Findlay (Casarotto Ramsay) Producers: Hinterland Pictures / Fable Pictures Form: Feature Film&#x2003; Genre: Thriller Summary: Anna, a young doctor, accepts a voluntary night shift away from her family on Christmas Eve. When her mentor, Dr. Petersen, is called away, Anna is left in charge of an overstretched maternity ward. With the pressure mounting, she has to make a series of urgent critical decisions way beyond her experience. Just as things seem to be under control, Anna realizes that she's made a tiny and very human error that may end up costing a patient her life. 18 RECOMMENDATIONS Mrs. X by R&#xED;an Smith (Independent Talent Group) Producers: Available Form: TV&#x2003;&#x2003; Genre: Psychological Thriller Summary: When details of her secret affair show up in a student's homework, an English teacher must do battle with a mysterious blackmailer in this cat-and-mouse game that soon escalates to murder. Mrs. X is a twisty-turny thriller, where our lead characters &#x2013; a tense-but-warm sister pairing &#x2013; are always racing against the clock, trying to get one step ahead (while always being ten steps behind). The show interrogates whether we have truly thrown off the shackles of conservative thinking, or if the societal need to control others &#x2013; especially women &#x2013; still bubbles under the surface &#x2026; 15 RECOMMENDATIONS The Trolley Problem by Polly Cavendish (Independent Talent Group) Producers: Imaginarium&#x2003; Form: Feature Film&#x2003; Genre: Psychological Thriller Summary: Young married couple Nick and Georgie are involved in a horrific accident in which a stranger dies. Years later, the decisions they made during those fateful moments come back to haunt them. 15 Summers by Courttia Newland (Dench Arnold) Producers: Joi Productions Form: Feature Film&#x2003; Genre: Drama Summary: Dimes is a successful rapper whose pursuit of fame estranges him from his teenage son, Tristian. When Tristian joins Dimes on tour, father and son are forced into close proximity, exposing resentment, disappointment and misunderstanding. As Tristian witnesses the contradictions of his father's world &#x2013; glamour, violence and chaos &#x2013; Dimes sees the young man his son is. But when a night out turns violent and Tristian is harmed, Dimes finally confronts the life he has chosen. Over one transformative summer, both must decide whether it's too late for them &#x2013; and whether Dimes can put his son before everything. 13 RECOMMENDATIONS The Royal No One by Levi Scott (Curtis Brown) Producers: Available Form: TV&#x2003;&#x2003; Genre: Comedy Drama Summary: A star finance graduate with severe social anxiety discovers that secretly selling cocaine at the nightclub where he works as a busboy boosts his confidence far more than his medication. Unbeknownst to him, the club is run by gangsters who soon coerce him into becoming their in-house dealer. 12 RECOMMENDATIONS The Lambeth Worm by Bec Boey (The Agency) Producers: Joi Productions/BFI Form: Feature Film&#x2003; Genre: Horror Summary: Inspired by a traditional folklore tale from the writer's native Northeast England, The Lambeth Worm tells the story of two young BESEA women who find a small creature in their tower block apartment. After washing it down the sink, the creature takes up residence in the building's pipes. As fear spreads though the apartment block the other inhabitants become increasingly hostile and toxic, and a culture of terror and blame begins to take hold. Baboons by Alfie Flewitt (Independent Talent Group) Producers: House Productions Form: TV&#x2003;&#x2003; Genre: Comedy Drama Summary: The funeral of his younger brother Ernie brings Ned back to his East Midlands family home. As he and his parents grapple with their grief, they go from being a broken family to a healed one, finding love, pain, and a stray baboon along the way &#8230; Hello Stranger by Rory Platt (Curtis Brown) Producers: Available Form: TV&#x2003;&#x2003; Genre: Comedy Drama/Thriller Summary: When an outlaw on the run gets stranded in a sleepy Welsh village, the locals fall prey to her charms, lies &#8230; and crimes. A female-led, Western-flavoured crime thriller: Far From the Madding Crowd meets The Good, The Bad & The Ugly. Grey Matter by Theo Toksvig-Stewart (Knight Hall) Producers: Available Form: Feature Film&#x2003; Genre: Psychological Near-Fi Thriller Summary: In near-future London, humanoid care robot Blanche, built to nurse and programmed to forget, is taught to feel by her patient's son. But the romance that awakens her soon exposes her to the dark side of devotion. 11 RECOMMENDATIONS Pegged by Rachel Tookey (The Artists Partnership) Producers: Available Form: TV&#x2003;&#x2003; Genre: Romcom Summary: A brocaster hiding his submissive streak. A feminist craving control over others while losing it in her own life. After clashing in a bar, they unwittingly match on Tinder under anonymous kink profiles. Their explosive chemistry &#x2013; and conflicting ideologies &#x2013; drag them into the weirdest, most revealing situationship of their lives. 10 RECOMMENDATIONS Overturn by Joan Iyiola (Independent Talent Group) Producers: Joi Productions / Miramax Form: TV&#x2003;&#x2003; Genre: Legal Drama Summary: Leading prosecutor Kemi Odutola is on the brink of becoming the youngest-ever judge when a high-profile murder case threatens to unravel everything she has built.
 
 ============================================================
-[17] Off Campus' Stephen Kalyn Admitted He Trolled Timothèe Chalamet HARD At The Beginning Of His Career
+[20] Off Campus' Stephen Kalyn Admitted He Trolled Timothèe Chalamet HARD At The Beginning Of His Career
 Source: CinemaBlend | Status: expanded | Words: 266
 Published: 2026-11-16T19:53:45+00:00
 URL: https://www.cinemablend.com/streaming-news/off-campus-stephen-kalyn-admitted-he-trolled-timothee-chalamet-hard
@@ -491,7 +601,7 @@ The actor clearly has no problems being totally open even if it could be embarra
 The actor doesn’t say how long the "trolling" lasted. However, a few fans feel like he could have kept that information to himself. Although this isn’t the strangest thing a celebrity has done or even the most dedicated. We can’t forget Emma Stone ’s wild story about trying to catching a glimpse of a Real Housewife . As far as I know Kalyn has yet to cross paths with Chalamet in person. Though given his career is on the rise there could be a time when they’ll be on the same red carpet and he’ll have a chance to speak to him.
 
 ============================================================
-[18] Avatar: Seven Havens Season 2 Confirms Multiple Havens Will Be Revealed With First Story Details
+[21] Avatar: Seven Havens Season 2 Confirms Multiple Havens Will Be Revealed With First Story Details
 Source: ComicBook.com | Status: expanded | Words: 513
 Published: 2026-11-16T19:52:00+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-season-2-confirms-multiple-havens-will-be-revealed-with-first-story-details
@@ -517,7 +627,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] NBA 2K27 Reveals Major New Crossover With GTA 6
+[22] NBA 2K27 Reveals Major New Crossover With GTA 6
 Source: ComicBook.com | Status: expanded | Words: 216
 Published: 2026-11-16T19:45:18+00:00
 URL: https://comicbook.com/gaming/news/nba-2k27-reveals-major-new-crossover-with-gta-6
@@ -537,7 +647,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] How 'Twilight' Predicted Robert Pattinson's James Bond Casting
+[23] How 'Twilight' Predicted Robert Pattinson's James Bond Casting
 Source: The Hollywood Reporter | Status: expanded | Words: 386
 Published: 2026-11-16T19:33:42+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/twilight-predicted-robert-pattinson-james-bond-casting-1236756443
@@ -563,7 +673,7 @@ The Hollywood Reporter previously reported that Pattinson was among the finalist
 "James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime," Pattinson said in a statement about his casting. "I'm deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn't be more excited about this partnership and the work ahead with this fantastic team."
 
 ============================================================
-[21] Survivor 51's Kilby Lost All Of His Worldly Possessions After A Wild Storage Wars Scheme Went South
+[24] Survivor 51's Kilby Lost All Of His Worldly Possessions After A Wild Storage Wars Scheme Went South
 Source: CinemaBlend | Status: expanded | Words: 238
 Published: 2026-11-16T19:32:45+00:00
 URL: https://www.cinemablend.com/television/survivor-51-kilby-lost-alll-his-possessions-wild-storage-wars-scheme
@@ -581,7 +691,7 @@ He had just gotten off of one of the best reality shows , and he wanted to recre
 The wildest part of this story is that Kilby only had $400 dollars, and according to a photo he shared on TikTok, the winning bid was $442. Couldn't he have found a friend or family member to float him an extra hundred? I can't imagine losing everything in my apartment over less than $50.
 
 ============================================================
-[22] The Elder Scrolls 6 Might Ditch the Dragonborn, But One Legendary Power Could Take Their Place
+[25] The Elder Scrolls 6 Might Ditch the Dragonborn, But One Legendary Power Could Take Their Place
 Source: ComicBook.com | Status: expanded | Words: 745
 Published: 2026-11-16T19:30:00+00:00
 URL: https://comicbook.com/gaming/news/elder-scrolls-6-might-ditch-dragonborn-for-legendary-power
@@ -617,7 +727,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] 'Spirit of the Photobooth' Doc Highlights the Invention's Democratic Origins and Its Gen-Z Resurgence
+[26] 'Spirit of the Photobooth' Doc Highlights the Invention's Democratic Origins and Its Gen-Z Resurgence
 Source: The Hollywood Reporter | Status: expanded | Words: 405
 Published: 2026-11-16T19:26:40+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/spirit-of-the-photobooth-doc-gen-z-resurgence-1236756460
@@ -639,7 +749,7 @@ While photobooths gradually fell into disuse, due to the rise of digital cameras
 Happily, Gen-Z has since flocked to photobooths &#x2014; with one owner noting it may be "some of the only analog tech" they've experienced &#x2014; as enthusiasts say they're in search of something tangible and real, and have seen the locations promoted on social media.The Old Friend Photobooth in lower Manhattan is one of the most popular current locations, with the Gen-Z owners now turning their attention to refurbishing a booth at Coney Island, the former mecca for photo booths from the 1940s through &#x2018;70s.
 
 ============================================================
-[24] Ella Langley Brings Country Into The Grammys' General Field With Seven Nominations
+[27] Ella Langley Brings Country Into The Grammys' General Field With Seven Nominations
 Source: The Hollywood Reporter | Status: expanded | Words: 330
 Published: 2026-11-16T19:25:52+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/ella-langley-2027-grammys-7-nominations-1236756225
@@ -659,7 +769,7 @@ Released in October 2025, &#8220;Choosin' Texas&#8221; has continued to dominate
 Langley is the only country artist nominated in the four major categories &#x2014; album of the year, song of the year, record of the year and best new artist. Coming into the year, it was unclear whether or not the singer would even be eligible for the best new artist category. Historically, artists could only submit to the category three times, which Langley had already hit. However, the Recording Academy announced that they'd be expanding the category to allow four entries per artist, making her eligible.
 
 ============================================================
-[25] Gwen Stefani Will Celebrate Orange County Roots by Performing at Grand Opening of OCVIBE's 5,000-Seat Concert Hall This Spring
+[28] Gwen Stefani Will Celebrate Orange County Roots by Performing at Grand Opening of OCVIBE's 5,000-Seat Concert Hall This Spring
 Source: Variety | Status: expanded | Words: 599
 Published: 2026-11-16T19:22:35+00:00
 URL: https://variety.com/2026/music/news/gwen-stefani-ocvibe-concert-hall-anaheim-grand-opening-1236949277
@@ -687,7 +797,7 @@ Also in the works for the complex is a 300-capacity music club that is being nam
 In late October, the art collective teamLab announced that it would open a 110,000 square foot museum at the complex in 2030.
 
 ============================================================
-[26] Justin Long &#038; Kate Bosworth To Headline Indie Comedy Series 'The Renovation'
+[29] Justin Long &#038; Kate Bosworth To Headline Indie Comedy Series 'The Renovation'
 Source: Deadline | Status: expanded | Words: 469
 Published: 2026-11-16T19:18:00+00:00
 URL: https://deadline.com/2026/11/justin-long-kate-bosworth-indie-comedy-the-renovation-1237225426
@@ -711,7 +821,7 @@ The series is executive produced by Jalil, Carter, Kreiss, Alex Lebovici, Ibrahi
 Long and Bosworth are repped by Independent Artist Group and Yorn Levine. Kreiss is repped by Underground and Morris Yorn.
 
 ============================================================
-[27] Grammy Nominations Snubs and Surprises: Harry Styles, Madonna, Noah Kahan Miss Top Nods as Raye, Rosalía Overperform
+[30] Grammy Nominations Snubs and Surprises: Harry Styles, Madonna, Noah Kahan Miss Top Nods as Raye, Rosalía Overperform
 Source: The Hollywood Reporter | Status: expanded | Words: 751
 Published: 2026-11-16T19:16:29+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/grammys-2027-snubs-surprises-harry-styles-noah-kahan-1236756402
@@ -743,7 +853,7 @@ Meanwhile, both Raye and Rosal&#xED;a were looked at as contenders for some of t
 Other surprises include a handful of artists who landed nods despite not releasing an album during the most recent Grammys eligibility period. Beyonc&#xE9; released one song, &#8220;Morning Dew (Donk),&#8221; on July 4 , as part of the 20th anniversary edition of her 2006 album B'Day and netted her 100th Grammy nomination . Similarly, Sabrina Carpenter scored two nods, albeit both in the same category of best pop duo/group performance, for her collaborations with Swift and Madonna.
 
 ============================================================
-[28] After 9 Years, Black Clover Finally Reveals Noelle's True Feelings for Asta
+[31] After 9 Years, Black Clover Finally Reveals Noelle's True Feelings for Asta
 Source: ComicBook.com | Status: expanded | Words: 500
 Published: 2026-11-16T19:12:50+00:00
 URL: https://comicbook.com/anime/feature/after-9-years-black-clover-finally-reveals-noelles-true-feelings-for-asta
@@ -767,7 +877,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] As Bari Weiss Receives 60 Minutes Backlash, She’s Apparently Involved In Another CBS Show’s Drama
+[32] As Bari Weiss Receives 60 Minutes Backlash, She’s Apparently Involved In Another CBS Show’s Drama
 Source: CinemaBlend | Status: expanded | Words: 342
 Published: 2026-11-16T19:12:24+00:00
 URL: https://www.cinemablend.com/television/amid-bari-weiss-60-minutes-backlash-cbs-face-the-nation-drama
@@ -785,7 +895,7 @@ These major exits mark the end of another era for Face the Nation , which debute
 Earlier this year, Anderson Cooper exited his correspondent post at 60 Minutes after nearly two decades, citing a desire to have more time to spend with his loved ones. It was subsequently reported, however, that Cooper’s departure was partially due to disagreements with Weiss. Shortly after Cooper’s move, Weiss and series EP Nick Bilton fired correspondents Cecilia Vega and Sharyn Alfonsi along with former EP Tanya Simon and several others. Correspondent Scott Pelley was also fired days later after reportedly accusing Weiss of “murdering” the show .
 
 ============================================================
-[30] Louis Carr Exits as BET President
+[33] Louis Carr Exits as BET President
 Source: The Hollywood Reporter | Status: expanded | Words: 747
 Published: 2026-11-16T19:11:41+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/bet-president-exits-louis-carr-1236756448
@@ -823,7 +933,7 @@ Thank you for your partnership, your commitment, and, most importantly, for allo
 I am proud of what we have built and proud of what we have accomplished.
 
 ============================================================
-[31] A “Bad Call” Or “Can't Wait”? Industry &#038; Media React To Robert Pattinson’s Casting As James Bond
+[34] A “Bad Call” Or “Can't Wait”? Industry &#038; Media React To Robert Pattinson’s Casting As James Bond
 Source: Deadline | Status: expanded | Words: 701
 Published: 2026-11-16T19:04:55+00:00
 URL: https://deadline.com/2026/11/robert-pattinson-james-bond-casting-reactions-1237225350
@@ -855,7 +965,7 @@ Meanwhile, as often happens, the internet is having fun with a cultural moment. 
 Film critic and New York Film Festival programmer Justin Chang had some fun mashing up Pattinson's past roles with Bond titles:
 
 ============================================================
-[32] Marvel's Wolverine Gets First Sale Since Release
+[35] Marvel's Wolverine Gets First Sale Since Release
 Source: ComicBook.com | Status: expanded | Words: 248
 Published: 2026-11-16T19:04:16+00:00
 URL: https://comicbook.com/gaming/news/marvels-wolverine-gets-first-sale-since-release
@@ -875,7 +985,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Mo Brings Plenty Hopes Real-Life Inspired 'Marshals' Episode Brings Justice to Late Nephew
+[36] Mo Brings Plenty Hopes Real-Life Inspired 'Marshals' Episode Brings Justice to Late Nephew
 Source: The Hollywood Reporter | Status: expanded | Words: 2227
 Published: 2026-11-16T19:03:13+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/marshals-mo-brings-plenty-late-nephew-cole-episode-1236756247
@@ -947,7 +1057,7 @@ I'm thankful to the network for giving us the opportunity. I'm thankful to the S
 Marshals releases new episodes Sundays at 8 p.m. on CBS and Paramount+.
 
 ============================================================
-[34] Netflix's '3 Body Problem' Gets Season 2 Premiere Date, Trailer Coming Tomorrow
+[37] Netflix's '3 Body Problem' Gets Season 2 Premiere Date, Trailer Coming Tomorrow
 Source: The Hollywood Reporter | Status: expanded | Words: 248
 Published: 2026-11-16T19:00:50+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/3-body-problem-season-2-date-when-netflix-1236755059
@@ -971,7 +1081,7 @@ The first season spent seven weeks in the streamer's Global Top 10 list, reachin
 The cast of 3 Body Problem season 2 includes returning stars Jess Hong, Benedict Wong, Jovan Adepo, Eiza Gonz&#xE1;lez, Liam Cunningham, Marlo Kelly, Sea Shimooka, Saamer Usmani, Alex Sharp and Josh Brener. New cast members include Claudia Doumit, Ellie de Lange, Alfie Allen, David Yip and Jordan Sunshine.
 
 ============================================================
-[35] Harlan Coben’s ‘The Innocent’ Lands Greenlight At Netflix As Streamer Strikes Overall Deal With StoryMath
+[38] Harlan Coben’s ‘The Innocent’ Lands Greenlight At Netflix As Streamer Strikes Overall Deal With StoryMath
 Source: Deadline | Status: expanded | Words: 1020
 Published: 2026-11-16T19:00:00+00:00
 URL: https://deadline.com/2026/11/harlan-coben-the-innocent-greenlight-netflix-storymath-1237225375
@@ -1021,7 +1131,7 @@ The company was at the Texas Book Festival this weekend for the first time with 
 "People come to comfort and heartland stories for connection and optimism&#x2014;the kind of story you put on to unwind. Those titles have drawn more than a billion views on Netflix since 2023, and they've reached viewers in more than 90 countries," added Galvin. "But what matters most to me are the readers who loved these books first. We work with authors and creators to honor what made the stories special, and then we invite new fans in. From Virgin River to Little House on the Prairie to Guarding Stars , our job is to give audiences more of what they love."
 
 ============================================================
-[36] Netflix Orders Harlan Coben Limited Series 'The Innocent' From 'I Will Find You' Team
+[39] Netflix Orders Harlan Coben Limited Series 'The Innocent' From 'I Will Find You' Team
 Source: Variety | Status: expanded | Words: 598
 Published: 2026-11-16T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/netflix-harlan-coben-the-innocent-i-will-find-you-1236949157
@@ -1051,7 +1161,7 @@ Up next, Netflix will release the Coben adaptations "Myron Bolitar" and &#8220;T
 Hull, Wynbrand, and Lilien are repped by CAA and Range, with Lilien and Wynbrandt also repped by attorney Todd Rubenstein and Hull repped by attorney Dave Ryan.
 
 ============================================================
-[37] '3 Body Problem' Sets Season 2 Release Date At Netflix
+[40] '3 Body Problem' Sets Season 2 Release Date At Netflix
 Source: Deadline | Status: expanded | Words: 474
 Published: 2026-11-16T19:00:00+00:00
 URL: https://deadline.com/2026/11/3-body-problem-season-2-release-date-netflix-1237225311
@@ -1077,7 +1187,7 @@ Bsed on the international bestselling novels, following its 2024 debut, the seri
 Benioff, Weiss and Woo are creators, writers and executive producers on the series. Season 1 executive producers also included Bernadette Caulfield, Rian Johnson, Ram Bergman, Nena Rodrigue, Lin Qi, Zhao Jilong as well as Brad Pitt, and Dede Gardner's Plan B Entertainment and Jeremy Kleiner's company along with Rosamund Pike and Robie Uniacke for Primitive Streak.
 
 ============================================================
-[38] Why It Was So Important The Gilded Age Jumped The Broom In This Week’s Powerful Wedding Scene
+[41] Why It Was So Important The Gilded Age Jumped The Broom In This Week’s Powerful Wedding Scene
 Source: CinemaBlend | Status: expanded | Words: 298
 Published: 2026-11-16T18:53:48+00:00
 URL: https://www.cinemablend.com/television/why-it-was-so-important-gilded-age-jumped-the-broom-ipowerful-wedding-scene
@@ -1099,7 +1209,7 @@ Season 4 of The Gilded Age has been changing the dynamics of various characters,
 Ultimately the Kirklands ended up relenting, and Peggy and William jumping in the broom in a beautifully shot sequence of their nuptials. We'll just have to wait and see how Peggy's relationship with her in-laws changes now that they're officially family.
 
 ============================================================
-[39] California Sues OpenAI After AI Agents Repeatedly Went Rogue
+[42] California Sues OpenAI After AI Agents Repeatedly Went Rogue
 Source: Variety | Status: expanded | Words: 175
 Published: 2026-11-16T18:50:02+00:00
 URL: https://variety.com/2026/biz/news/california-sues-openai-ai-agents-repeatedly-went-rogue-1236949271
@@ -1115,7 +1225,7 @@ California Attorney General Rob Bonta said Monday the state would sue OpenAI aft
 An OpenAI spokesperson did not respond to an immediate request for comment.
 
 ============================================================
-[40] 'Bluefly': Russell Crowe, Priyanka Chopra Jonas &#038; Michael Chiklis Enlisted For Sci-Fi Action Thriller From 'Predators' Director Nimród Antal
+[43] 'Bluefly': Russell Crowe, Priyanka Chopra Jonas &#038; Michael Chiklis Enlisted For Sci-Fi Action Thriller From 'Predators' Director Nimród Antal
 Source: The Playlist | Status: summary_only | Words: 104
 Published: 2026-11-16T18:47:52+00:00
 URL: https://theplaylist.net/bluefly-russell-crowe-priyanka-chopra-jonas-michael-chiklis-20261116
@@ -1127,7 +1237,7 @@ CONTENT / EXTRACTED DETAILS:
 Russell Crowe and Priyanka Chopra Jonas are getting some company with their new film " Bluefly " as veteran actor Michael Chiklis of "The Shield" and "Fantastic Four" has been cast in a co-starring role in the sci-fi action thriller. Daniel MacPherson also has a supporting role with " Predators " director Nimród Antal at the helm. Fellow filmmaker William Eubank of " Ghost Soldier " and " Underwater " co-wrote the film alongside David Frigerio and Carlyle Eubank . Continue reading 'Bluefly': Russell Crowe, Priyanka Chopra Jonas & Michael Chiklis Enlisted For Sci-Fi Action Thriller From 'Predators' Director Nimród Antal at The Playlist.
 
 ============================================================
-[41] What Does Robert Pattinson's James Bond Movie Mean for The Batman's Future in the DCU?
+[44] What Does Robert Pattinson's James Bond Movie Mean for The Batman's Future in the DCU?
 Source: ComicBook.com | Status: expanded | Words: 840
 Published: 2026-11-16T18:40:01+00:00
 URL: https://comicbook.com/movies/feature/what-does-robert-pattinsons-james-bond-movie-mean-for-the-batmans-future-in-the-dcu
@@ -1159,7 +1269,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Crunchyroll's Most Viral Anime of 2027 Confirms Early Premiere With Major Event
+[45] Crunchyroll's Most Viral Anime of 2027 Confirms Early Premiere With Major Event
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-16T18:36:58+00:00
 URL: https://comicbook.com/anime/news/crunchyrolls-most-viral-anime-of-2027-confirms-early-premiere-with-major-event
@@ -1183,7 +1293,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Robert Pattinson Predicted His James Bond Casting in 2012, And His Reaction in 2026 Lines Up
+[46] Robert Pattinson Predicted His James Bond Casting in 2012, And His Reaction in 2026 Lines Up
 Source: ComicBook.com | Status: expanded | Words: 655
 Published: 2026-11-16T18:34:56+00:00
 URL: https://comicbook.com/movies/news/robert-pattinson-predicted-his-james-bond-casting-in-2012-and-his-reaction-in-2026-lines-up
@@ -1213,7 +1323,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] In Choosing Robert Pattinson, Bond Producers Have Taken the Safe Bet — But Is It the Right One? (Opinion)
+[47] In Choosing Robert Pattinson, Bond Producers Have Taken the Safe Bet — But Is It the Right One? (Opinion)
 Source: Variety | Status: expanded | Words: 940
 Published: 2026-11-16T18:32:57+00:00
 URL: https://variety.com/2026/film/columns/new-james-bond-actor-robert-pattinson-right-choice-1236948987
@@ -1241,7 +1351,7 @@ I don't know that James Bond is really the role to mine Pattinson's most compell
 In the meantime, spare a thought for the less famous guys who, for a moment there, thought they had a shot at being cinema's longest-running action man. They'll all be fine &#x2014; I confess to some relief in particular that O'Connor, a superb and unusual hybrid of character actor and leading man, may have more time for the intrepid arthouse projects in which he thrives &#x2014; and will doubtless each get some manner of boost for having been so prominently on the shortlist. Sometimes, however, the winner really does take it all in this business: For Pattinson, snagging the most in-demand role going just feels like a victory lap.
 
 ============================================================
-[45] 'The Joker's Wild' Reboot Hosted By Howie Mandel To Launch In Fall 2027 Syndication On CBS Stations
+[48] 'The Joker's Wild' Reboot Hosted By Howie Mandel To Launch In Fall 2027 Syndication On CBS Stations
 Source: Deadline | Status: expanded | Words: 564
 Published: 2026-11-16T18:26:51+00:00
 URL: https://deadline.com/2026/11/the-jokers-wild-reboot-howie-mandel-syndication-cbs-stations-1237225343
@@ -1269,7 +1379,7 @@ Created and originally hosted by Jack Barry, The Joker's Wild has gone through a
 The Joker's Wild is produced by Sony Pictures Television and executive produced by showrunner Mashawn Nix, whose credits include Deal or No Deal, Match Game and Red Table Talk . Ad sales for the series will be handled by CBS Media Ventures.
 
 ============================================================
-[46] Now That We Know Who Is Playing James Bond, Who Could Be The Next Bond Girl?
+[49] Now That We Know Who Is Playing James Bond, Who Could Be The Next Bond Girl?
 Source: CinemaBlend | Status: expanded | Words: 338
 Published: 2026-11-16T18:24:33+00:00
 URL: https://www.cinemablend.com/movies/now-that-we-know-who-playing-james-bond-who-could-be-next-bond-girl-margaret-qualley-sydney-sweeney
@@ -1287,7 +1397,7 @@ The only other actresses above 20% are Ana Taylor-Joy (25%) and Florence Pugh (2
 So those are the top names on the prediction markets, but could it be someone else completely? Possible. These are pure speculation on my part, but how about Inde Navarrette ? Her star is on the rise after her excellent performance in the surprise smash Obsession earlier in the 2026 movie schedule . She’s definitely someone to watch and could definitely draw some attention from the Bond producers, though she is scheduled to play Rogue in the 2028 X-Men movie, so she might not be available.
 
 ============================================================
-[47] JonBenét Ramsey ‘20/20&#8242; Investigation Fuels 51% Audience Increase For ABC Newsmagazine
+[50] JonBenét Ramsey ‘20/20&#8242; Investigation Fuels 51% Audience Increase For ABC Newsmagazine
 Source: Deadline | Status: expanded | Words: 379
 Published: 2026-11-16T18:24:12+00:00
 URL: https://deadline.com/2026/11/jonbenet-ramsey-20-20-investigation-ratings-abc-news-1237225356
@@ -1307,74 +1417,4 @@ On streaming alone, JonBen&#xE9;t Ramsey: Race Against Time is ranked as No. 2 a
 JonBen&#xE9;t Ramsey was found murdered in her home at the age of six in 1996. In an all-new 20/20 , ABC News anchor Sawyer reports on the investigation. Sawyer first covered the case with a 1997 exclusive ABC News tour of the Ramsey home and interview with JonBen&#xE9;t's pediatrician. Sawyer and chief investigative correspondent Aaron Katersky examine new evidence and secure 19 exclusive and rare interviews with nuclear family members and people closest to the case, some stepping in front of cameras for the first time.
 
 Christina Ng is the executive producer of JonBen&#xE9;t Ramsey: Race Against Time, Who Is &#x2018;Unknown Male 1'? &#x2013; A New Diane Sawyer Investigation.
-
-============================================================
-[48] Lady Gaga and Doechii's "Runway" Is Sole 'Devil Wears Prada 2' Song Oscar Submission (Exclusive)
-Source: The Hollywood Reporter | Status: expanded | Words: 326
-Published: 2026-11-16T18:24:02+00:00
-URL: https://www.hollywoodreporter.com/movies/movie-news/lady-gaga-doechiis-runway-devil-wears-prada-2-oscars-1236754429
-------------------------------------------------------------
-SUMMARY:
-The ballroom-influenced house-pop tune received two Grammy nominations on Monday.
-
-CONTENT / EXTRACTED DETAILS:
-It's a big day for the song &#8220;Runway,&#8221; which was written for the film The Devil Wears Prada 2 by a team that included Lady Gaga , Doeechi and Bruno Mars and performed on the film's soundtrack by Gaga and Doechii .
-
-First, the ballroom-influenced house-pop tune, which reached No. 50 on the Billboard Hot 100 and No. 25 on the US Spotify chart, received two Grammy Award nominations : best pop duo/group performance, for Gaga and Doechii; and best song written for visual media, for Gaga (real name Stefani Germanotta), Doechii (as Jaylah Hickmon), Henry Walter, Dernst "D'Mile" Emile II, Jayda Love, Bruno Mars and Andrew Watt. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Music John Summit Blasts Grammys After Dance Snub: "It's All a F***ing Joke" Music Beyoncé Becomes First Artist to Receive 100 Grammy Nominations
-
-Now, The Hollywood Reporter can exclusively report that ahead of last Thursday's submission deadline &#x2014; and contrary to widespread speculation, including our own &#x2014; &#8220;Runway&#8221; was 20th Century's sole entry from the film for the best original song Oscar, not the other song that Gaga co-wrote for the film and performed on its soundtrack, &#8220;Shape of a Woman.&#8221;
-
-The Devil Wears Prada 2 , released in May, was a strong performer at the box office, opening to $77 million domestically and $233.6 million globally en route to a worldwide gross of nearly $700 million.
-
-Gaga, who also plays a small role in the film, has been nominated for the best original song Oscar three times: for &#8220;Til It Happens to You,&#8221; from The Hunting Ground , in 2016; &#8220;Shallow,&#8221; from A Star Is Born , in 2019; and &#8220;Hold My Hand,&#8221; from Top Gun: Maverick , in 2023. Doechii has never been Oscar-nominated.
-
-The &#8220;Runway&#8221; music video, which was directed by Parris Goebel, became the #1 trending music video worldwide on YouTube.
-
-============================================================
-[49] Star Wars: Fate of the Old Republic Director Shares Promising New Update About Release
-Source: ComicBook.com | Status: expanded | Words: 418
-Published: 2026-11-16T18:21:28+00:00
-URL: https://comicbook.com/gaming/news/star-wars-fate-of-the-old-republic-game-release-update-2026
-------------------------------------------------------------
-SUMMARY:
-The director of Star Wars: Fate of the Old Republic has shared a promising new update about the game's release and ongoing development. At this point, it has been nearly one year since Fate of the Old Republic was announced. Although many details about this highly anticipated new Star Wars game weren't provided alongside its […]
-
-CONTENT / EXTRACTED DETAILS:
-Speaking to The Fourth Curtain , Hudson shared some new insight into how development on Star Wars: Fate of the Old Republic has been going. Although Hudson didn't provide any definitive timelines on when the game might arrive, he did say that Arcanaut Studios, which is helming the project, is working at a &#8220;very brisk pace.&#8221; He also added that much of the most important work on Fate of the Old Republic is already set in stone, mentioning that this isn't a game where the development team will have to wait until late in the project's creation to know how it might pan out.
-
-&#8220;I mean if you talk to folks at the studio, we work at a very brisk pace,&#8221; Hudson said. &#8220;It’s, on the one hand, challenging because we set a high bar for how quickly we can move, but, then, you look at where we get to – we work in six-month cycles of big milestones every six months – and every six months we look at it and go, ‘Oh my god, like – we’ve gone so far!’ And so we’re moving quickly through things. This isn’t a project where we kind of wait around until the end to sort of figure out what we’re doing.&#8221;
-
-As for when we might next see Star Wars: Fate of the Old Republic , Hudson also confirmed that there are plans to share more of the game in 2027. Specifically, Hudson said that new details on Fate of the Old Republic should drop at some point early next year, indicating that we're mere months away from getting a new trailer or information of some sort.
-
-&#8220;[There are] some pretty exciting things coming next year,&#8221; he continued. &#8220;So we’re going to be gradually rolling out some new announcements and information about the game, but, you know, you won’t have to wait too long into next year before we’ll have some things to share.&#8221;
-
-Currently, Star Wars: Fate of the Old Republic doesn't have a broad launch window, nor have platforms for the game been confirmed. Assuming that we do get more info on the project in 2027, though, this could be changing soon enough. Once we have more official details, we'll be sure to fill you in here on ComicBook .
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Deadline Launches Its Contenders Film Los Angeles Streaming Site
-Source: Deadline | Status: expanded | Words: 325
-Published: 2026-11-16T18:15:00+00:00
-URL: https://deadline.com/2026/11/deadline-ontenders-film-los-angeles-streaming-site-launch-1237225279
-------------------------------------------------------------
-SUMMARY:
-Deadline on Monday launched the streaming site for Contenders Film Los Angeles, its showcase of movies making noise this awards season. The live event Saturday at the DGA Theater spotlighted 15 films from eight studios and streamers. Click here for the streaming site. This year's lineup included everything from box office blockbusters like Project Hail […]
-
-CONTENT / EXTRACTED DETAILS:
-Deadline on Monday launched the streaming site for Contenders Film Los Angeles, its showcase of movies making noise this awards season.
-
-The live event Saturday at the DGA Theater spotlighted 15 films from eight studios and streamers.
-
-This year's lineup included everything from box office blockbusters like Project Hail Mary and Toy Story 5 to festival favorites hits like Bunker, The Liberation, Tuner, Your Mother Your Mother Your Mother and The Only Living Pickpocket in New York ; animated films like Wildwood, Hexed, Hoppers and The Violinist ; fact-based depictions I Play Rocky, Being Heumann and Tenzing ; and a decidedly less fact-based hit in Wicker . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Among the stars and creatives participating in panel conversations at the all-day gathering were Pen&#xE9;lope Cruz, John Turturro, Tatiana Maslany, Mahershala Ali, John Cho, Phil Lord and Chris Miller, Anthony Ippolito, AnnaSophia Robb, Ruth Madeley, Jennifer Peedom, Luke Davies, Travis Knight, Piper Curda, Carrie Coon, Lily James and Alexander Skarsg&#xE5;rd. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-In addition, I Play Rocky &#8216;s Peter Farrelly was feted with Deadline's Contenders Hall of Fame Award , while Danny Boyle received the Deadline Legend Award as he discussed (and broke some news ) about his latest film Ink .
-
-Distributors taking part in Contenders L.A. were Amazon MGM Studios, Apple Original Films, Black Bear, Bleecker Street, Disney/Pixar, Laika, Robot Playground Media, Sony Pictures Classics and Walt Disney Animation Studios.
-
-Up next on Deadline's event calendar are Contenders Film International and Contenders Film Documentary , virtual presentations set to stream December 5 and December 6, respectively.
 
