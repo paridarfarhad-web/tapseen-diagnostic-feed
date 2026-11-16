@@ -1,9 +1,31 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-16T09:47:14.462Z
+Last Updated: 2026-11-16T09:51:14.223Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Piv Bernth, Producer of ‘The Killing,' and ’Babylon Berlin’ Creators Win Honorary Awards at Tallinn’s TV Beats Forum
+[1] Gérard Depardieu Drops Appeal Against Sexual Assault Verdict &#038; Acknowledges Guilt In Statement Titled ‘I Hear’
+Source: Deadline | Status: expanded | Words: 524
+Published: 2026-11-16T09:50:17+00:00
+URL: https://deadline.com/2026/11/gerard-depardieu-drops-appeal-sexual-assault-verdict-1237224924
+------------------------------------------------------------
+SUMMARY:
+Gérard Depardieu has announced he is abandoning plans to appeal a sexual assault verdict and 18-month suspended meted out to him earlier this year in relation to events on the set of Jean Becker’s The Green Shutters in 2021. “The justice system has spoken. I have been found guilty. I accept this, and I take […]
+
+CONTENT / EXTRACTED DETAILS:
+G&#xE9;rard Depardieu has announced he is abandoning plans to appeal a sexual assault verdict and 18-month suspended meted out to him earlier this year in relation to events on the set of Jean Becker's The Green Shutters in 2021.
+
+"The justice system has spoken. I have been found guilty. I accept this, and I take full responsibility for the conviction,&#8221; the French star wrote in a statement entitled "I hear" and sent to local media.
+
+The sentence comes eight months after a high-profile and tumultuous trial in Paris in March in which Depardieu was found guilty of groping two women on the set of The Green Shutters . His declaration renders the verdict and sentence, handed out in May, final. "On film sets, I long hid behind provocation and crude, suggestive humor,&#8221; continued the statement. "I believed my comments and actions to be without consequence. They were not, given they were coming from a powerful person such as myself at the time&#8230; I now understand that there is a boundary between impertinence and offence. I never intended hurting the women whose paths I crossed, but I understand that intention does not change the hurt. " &#8220;This story has caused a lot of suffering. I can't go back in time but I've understood that I belonged to a world that has disappeared so I have therefore decided to abandon the appeal,&#8221; it concluded. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Olympic Gold Medalist & 'Love Is Blind: France' Presenter Teddy Riner Enters French Presidential Race Festivals Róisín Burns, Bernhard Wenger, Mikko Myllylahti & Benedikt Erlingsson Set For Les Arcs Coproduction Village
+
+The trial last March followed in the wake of least 20 public allegations of sexually inappropriate behavior against Depardieu, dating back decades, although many allegations have only come to light in recent years. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+It is also seen as a landmark #MeToo test case in France , which was slow to embrace the movement, with a near omert&#xE0; in the film world around the question of inappropriate behaviour until recently.
+
+His 18-month suspended sentence related to assaults on two female crew members on the set of The Green Shutters . In the first, the actor pinned a set dresser with his legs and kneading her breasts, saying: "Come touch my big parasol, I'm going to shove it up your pussy". In the second, a third assistant director, who testified under the pseudonym of Sarah, said Depardieu had touched her buttocks and breasts on two occasions when she was accompanying him on set. A number of women, who were not pressing charges, also gave evidence, including an actress who alleged Depardieu had shoved his hands into her knickers during a photo-call on the set of Netflix show Marseille.
+
+============================================================
+[2] Piv Bernth, Producer of ‘The Killing,' and ’Babylon Berlin’ Creators Win Honorary Awards at Tallinn’s TV Beats Forum
 Source: Variety | Status: expanded | Words: 1034
 Published: 2026-11-16T09:45:45+00:00
 URL: https://variety.com/2026/tv/global/piv-bernth-babylon-berlin-creators-honorary-awards-tv-beats-1236948639
@@ -55,7 +77,7 @@ TV Beats Forum takes run over Nov. 15-17 in Tallinn. Industry@Tallinn & Baltic E
 Annika Pham contributed to this article.
 
 ============================================================
-[2] 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade
+[3] 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-16T09:36:17+00:00
 URL: https://theplaylist.net/ebenezer-gives-johnny-depp-his-first-no-1-at-the-box-office-in-almost-a-decade-20261116
@@ -67,7 +89,7 @@ CONTENT / EXTRACTED DETAILS:
 Is the Johnny Depp comeback here? Industry watchers will know more next weekend, but for the moment it just might be. The now controversial actor is the face of Ti West's "Ebenezer," which took the top spot at the U.S. box office with $19 million. That was a bit under pre-release tracking, but the worldwide tally of $42 million is an excellent start for a holiday film with a reported production budget of $38 million. Continue reading 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade at The Playlist.
 
 ============================================================
-[3] AFM Closes With Rain, Flight Chaos and an ‘Inundation' of Horror Movies — but a ‘Sense of Optimism’ for Bold Creative Choices
+[4] AFM Closes With Rain, Flight Chaos and an ‘Inundation' of Horror Movies — but a ‘Sense of Optimism’ for Bold Creative Choices
 Source: Variety | Status: expanded | Words: 1071
 Published: 2026-11-16T09:22:33+00:00
 URL: https://variety.com/2026/film/global/afm-closes-rain-flight-chaos-inundation-of-horror-1236947882
@@ -111,7 +133,7 @@ Understanding your own distinct market and trusting your creative instincts is t
 Elsa Keslassy contributed to this article
 
 ============================================================
-[4] BAFTA Scotland: ‘I Swear’ Leads Winners
+[5] BAFTA Scotland: ‘I Swear’ Leads Winners
 Source: Deadline | Status: expanded | Words: 363
 Published: 2026-11-16T09:14:03+00:00
 URL: https://deadline.com/2026/11/bafta-scotland-awards-winners-i-swear-1237224916
@@ -137,7 +159,7 @@ The BAFTA Scotland Audience Award, the only BAFTA Scotland Award voted for by th
 Elsewhere, the team behind Outlander , including star and executive producer Sam Heughan, showrunner and executive producer Matthew B. Roberts, and stars Sophie Skelton and John Bell, were present as Outlander was honored with the Outstanding Contribution to Television award.
 
 ============================================================
-[5] 5 Notoriously Hated ‘90s Movies That Are Actually Worth Watching, Including 1 That Killed A Superhero Franchise
+[6] 5 Notoriously Hated ‘90s Movies That Are Actually Worth Watching, Including 1 That Killed A Superhero Franchise
 Source: ComicBook.com | Status: expanded | Words: 1016
 Published: 2026-11-16T09:13:00+00:00
 URL: https://comicbook.com/movies/list/5-notoriously-hated-90s-movies-that-are-actually-worth-watching-including-1-that-killed-a-superhero-franchise
@@ -163,7 +185,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] British Actor Says He Was "Sexually Humiliated" By David Walliams On Stage As UK Entertainment Industry Reflects On Week Of Reckoning
+[7] British Actor Says He Was "Sexually Humiliated" By David Walliams On Stage As UK Entertainment Industry Reflects On Week Of Reckoning
 Source: Deadline | Status: expanded | Words: 512
 Published: 2026-11-16T09:03:17+00:00
 URL: https://deadline.com/2026/11/david-walliams-jeremy-edwards-pulled-pants-on-stage-1237224907
@@ -191,7 +213,7 @@ Deadline has contacted Walliams' legal representatives for comment on The Guardi
 "I am not a sexual predator&#x2026; I have not broken the law," Walliams said. "I am devastated that some of the women I met ten to twenty years ago have now expressed hurt or anger towards me."
 
 ============================================================
-[7] In 'The Matriarch,' Germany's First Film With an All-Vietnamese Lead Cast, Human Trafficking Thriller Meets Family Drama
+[8] In 'The Matriarch,' Germany's First Film With an All-Vietnamese Lead Cast, Human Trafficking Thriller Meets Family Drama
 Source: The Hollywood Reporter | Status: expanded | Words: 2016
 Published: 2026-11-16T09:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/the-matriarch-first-german-film-all-vietnamese-cast-tallinn-1236750517
@@ -247,7 +269,7 @@ Kuhn didn't run into any opposition or backlash when she pitched The Matriarch a
 And that comes not only through force but something also through silence or lower-key but effective actions. &#8220;Showing another way of being a leading figure was important because I was asking myself what makes the difference between a female and a male leader of such a network,&#8221; Kuhn says. &#8220;It was very interesting to dive into that. She's not the one with the muscles. She has her people who do that for her. But she has maybe another way of making deals. And she might have another way of putting emotional pressure on people. So that's very interesting about a female boss and often unseen.&#8221;
 
 ============================================================
-[8] Nicola Coughlan Boycotting 'Harry Potter' Series Over J.K. Rowling's Trans Views: "It’s Not For Me"
+[9] Nicola Coughlan Boycotting 'Harry Potter' Series Over J.K. Rowling's Trans Views: "It’s Not For Me"
 Source: Deadline | Status: expanded | Words: 440
 Published: 2026-11-16T08:54:15+00:00
 URL: https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887
@@ -275,7 +297,7 @@ Coughlan's remarks come as marketing for the Harry Potter series &#x2014; on whi
 Succession duo Francesca Gardiner and Mark Mylod write and direct the Harry Potter series, respectively. Gardiner serves as showrunner and executive producer, and Mylod will direct multiple episodes in addition to serving as executive producer.
 
 ============================================================
-[9] Oscars: The 17th Governors Awards Highlight Long Overdue Recognition For Glenn Close, Ridley Scott, And More In A Warm And Heartfelt Evening
+[10] Oscars: The 17th Governors Awards Highlight Long Overdue Recognition For Glenn Close, Ridley Scott, And More In A Warm And Heartfelt Evening
 Source: Deadline | Status: expanded | Words: 1692
 Published: 2026-11-16T08:53:08+00:00
 URL: https://deadline.com/2026/11/oscars-17th-governors-awards-glenn-close-ridley-scott-1237224853
@@ -309,7 +331,7 @@ As they do in their business partnership they took turns expressing their thanks
 Great night all around, and beautifully produced by Jennifer Todd and the Academy which was smart to keep it tight and moving, while still giving all these highly deserving new Oscar recipients a career moment they will never forget.
 
 ============================================================
-[10] Daredevil Has Been Unmasked More Times Than You Can Count, and He's Still Not Learning
+[11] Daredevil Has Been Unmasked More Times Than You Can Count, and He's Still Not Learning
 Source: ComicBook.com | Status: expanded | Words: 1481
 Published: 2026-11-16T08:31:00+00:00
 URL: https://comicbook.com/comics/feature/daredevil-has-been-unmasked-more-times-than-you-can-count-and-hes-still-not-learning
@@ -347,7 +369,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] Johnny Depp's 'Ebenezer,' 'Ramayana' Dominate Global Box Office as 'Godzilla Minus Zero' Crosses $100 Million
+[12] Johnny Depp's 'Ebenezer,' 'Ramayana' Dominate Global Box Office as 'Godzilla Minus Zero' Crosses $100 Million
 Source: Variety | Status: expanded | Words: 847
 Published: 2026-11-16T08:22:20+00:00
 URL: https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618
@@ -361,7 +383,7 @@ Johnny Depp 's return in Paramount's &#8220; Ebenezer &#8221; won the global box
 Directed by Ti West, &#8220;Ebenezer&#8221; debuted at No. 1 globally with a worldwide weekend estimate of $42 million. The dark reimagining of Charles Dickens' &#8220;A Christmas Carol&#8221; opened at the top of the North American chart with $19 million across 3,535 locations, while international audiences delivered a stronger $23 million debut across 63 markets. Audiences largely embraced Depp's turn as Ebenezer Scrooge alongside an ensemble cast featuring Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Tramell Tillman and Ian McKellen. Exit polling yielded an &#8220;A-&#8221; CinemaScore, a 90% Verified Hot Popcornmeter rating on Rotten Tomatoes and 4.5 out of 5 stars on PostTrak (including 85% total positive and 66% definite recommend scores), with 51% of surveyed moviegoers citing Depp as their primary attendance driver. Overseas, &#8220;Ebenezer&#8221; topped the charts in several key territories, led by a No. 1 opening in the U.K. with $5.4 million from 633 locations. Other chart-topping debuts included Italy ($2 million from 365 sites), Mexico ($1.7 million from 855 sites), Spain ($1 million from 323 sites), Poland ($900,000 from 208 sites, including paid previews), Belgium ($372,000 from 74 sites, including previews) and Panama/Central America ($340,000 from 125 sites, including previews). Strong runner-up bows came from France ($2.5 million from 505 sites, including previews), Germany ($1.5 million from 512 sites), Brazil ($475,000 from 589 sites), the Netherlands ($416,000 from 103 sites) and Colombia ($262,000 from 204 sites). Elsewhere, Australia opened at No. 3 with $650,000, the U.A.E. placed fourth with $222,000 (part of a $600,000 Middle East regional bow), and Japan opened at No. 6 &#8211; ranking as the top MPA release &#8211; with $450,000. Paramount backed the launch with an extensive global marketing push anchored by Depp's surprise in-character appearance at San Diego Comic-Con (which generated over 152 million social impressions) and a trailer launch that drew more than 225 million views in seven days. International activations ranged from a winter-themed Leicester Square world premiere and London ghost tours to a Day of the Dead marigold installation in Mexico City, an end-credits song by Myl&#xE8;ne Farmer in France, and sports integrations across the Premier League, LaLiga, Bundesliga, NFL and NBA. Hot on &#8220;Ebenezer's&#8221; heels, Namit Malhotra's &#8220;Ramayana: Rise of a Legend&#8221; retained the No. 1 international crown and took second place globally, surging to a $147.5 million worldwide cumulative gross after just 11 days in release &#8211; already making it the seventh highest-grossing Indian film of all time. Fueled by stellar word-of-mouth and brisk midweek business, the Nitesh Tiwari-directed epic enjoyed a phenomenal second-weekend hold, dropping just 34% for a $38.1 million global frame, including $32.6 million from international markets. Presented by Sony Pictures and Prime Focus Studios in association with Monster Mind Creations and DNEG, starring Ranbir Kapoor, Yash and Sai Pallavi, with a score by Hans Zimmer and A.R. Rahman, &#8220;Ramayana&#8221; expanded into six new markets this weekend to reach 43 territories overall. Record-breaking openings for an Indian release were notched in Indonesia ($573,000), Cambodia ($286,000) and Mexico. India remained the undisputed powerhouse with a cumulative tally of $97.2 million, buoyed by the highest second weekend in local history at INR223 crore ($23.6 million). Top-performing overseas cumes to date include the U.K. ($5.5 million), the U.A.E. ($4.7 million), Australia ($4.2 million), Thailand ($1.5 million), Malaysia ($1.4 million) and Germany ($1.1 million). The rollout continues on Nov. 19 in Brazil, Italy, Ukraine and Hungary, followed by Poland on Nov. 20 and major Latin American territories plus Czechia on Nov. 26. Meanwhile, Yamazaki Takashi's &#8220;Godzilla Minus Zero&#8221; continued its box office rampage, taking fourth place worldwide with a $15.6 million frame and pushing its global cumulative total past the $100 million mark to $104.8 million. Warner Bros.' &#8220;The Cat in the Hat&#8221; claimed third place globally with $17 million (bringing its worldwide cume to $55.8 million), while Sony's &#8220;How to Rob a Bank&#8221; rounded out the global top five with $10.2 million. In the large-format sector, local-language titles and alternative content powered Imax to a $13.7 million global weekend. &#8220;Godzilla Minus Zero&#8221; added $4.8 million across Imax screens in its sophomore frame &#8211; comprising $1.6 million in North America and $3.2 million internationally, including $1.4 million in Japan (where its local Imax total hit $6.7 million) &#8211; lifting its global Imax cume to $32 million. &#8220;Ramayana&#8221; contributed another $3 million in its second Imax weekend, with $2.6 million coming from international venues and $1.2 million from India alone (reaching $4.6 million locally), bringing its worldwide Imax tally to $12.4 million. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'The Cat in the Hat' Review: Bill Hader Leads an Animated Dr. Seuss Comedy So Overstuffed It's Like a Marvel Movie for Tots Netflix’s Genre-Bending YA Drama ‘The Body’ Is a Queer Y2K Extravaganza: TV Review
 
 ============================================================
-[12] Cinepolis Brings Sala de Arte Program to Indonesia, Taking Malang World Cinema Highlights to Six Cities
+[13] Cinepolis Brings Sala de Arte Program to Indonesia, Taking Malang World Cinema Highlights to Six Cities
 Source: Variety | Status: expanded | Words: 518
 Published: 2026-11-16T07:51:36+00:00
 URL: https://variety.com/2026/film/festivals/cinepolis-sala-de-arte-indonesia-malang-world-cinema-1236948613
@@ -387,7 +409,7 @@ Alejandro Aguilera Garibay, CEO of Cinepolis Cinemas Indonesia, said local viewe
 Malang World Cinema and its sister event, Bandung World Cinema, opened on Nov. 14 as the first editions of Jakarta World Cinema held outside the capital.
 
 ============================================================
-[13] Korea Box Office: Anime Sensation 'Chiikawa' Holds Off 'Fall 2: Deadpoint' for Fifth Consecutive Crown
+[14] Korea Box Office: Anime Sensation 'Chiikawa' Holds Off 'Fall 2: Deadpoint' for Fifth Consecutive Crown
 Source: Variety | Status: expanded | Words: 573
 Published: 2026-11-16T07:39:19+00:00
 URL: https://variety.com/2026/film/box-office/korea-box-office-chiikawa-fall-2-deadpoint-1236948594
@@ -421,7 +443,7 @@ Rounding out the top 10, Warner Bros. Pictures Animation's family feature &#8220
 The overall market collective gross for the weekend was $4.8 million, down from last week's $5.3 million.
 
 ============================================================
-[14] 8 Standout Moments From the Governors Awards: Glenn Close Finally Gets Her Oscar, Diane Warren Pitches Olivia Wilde a Christmas Song and More
+[15] 8 Standout Moments From the Governors Awards: Glenn Close Finally Gets Her Oscar, Diane Warren Pitches Olivia Wilde a Christmas Song and More
 Source: Variety | Status: expanded | Words: 1651
 Published: 2026-11-16T07:25:15+00:00
 URL: https://variety.com/2026/film/awards/governors-awards-2026-glenn-close-oscars-best-moments-1236948230
@@ -515,7 +537,7 @@ As for the statuettes themselves, Koffler noticed midway through that both women
 "They're not going to take it away from us," she said, "but we are still clutching."
 
 ============================================================
-[15] Dystopian Thriller 'The Flaw' Is a Cinematic Puzzle About Totalitarianism: "Each One of Us Is a Regime"
+[16] Dystopian Thriller 'The Flaw' Is a Cinematic Puzzle About Totalitarianism: "Each One of Us Is a Regime"
 Source: The Hollywood Reporter | Status: expanded | Words: 1571
 Published: 2026-11-16T07:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/thriller-film-the-flaw-regime-totalitarianism-tallinn-2026-1236754284
@@ -587,7 +609,7 @@ Talking to you makes me understand why I experienced The Flaw as pieces of a puz
 I think that's the best way to describe it. That's amazing how you put it. Yeah, the whole film is pieces of a puzzle that have to come together.
 
 ============================================================
-[16] China Box Office: 'Traces of Justice' Holds No. 1 Spot as 'Probation' and 'Everest: The Other Side' Enter Top Five
+[17] China Box Office: 'Traces of Justice' Holds No. 1 Spot as 'Probation' and 'Everest: The Other Side' Enter Top Five
 Source: Variety | Status: expanded | Words: 437
 Published: 2026-11-16T06:55:20+00:00
 URL: https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-probation-everest-1236948590
@@ -611,7 +633,7 @@ National Geographic Documentary Films' mountaineering documentary &#8220; Everes
 Mainland China's overall weekend box office gross was at $15.3 million amid a prolonged fall lull. The 2026 year-to-date box office reached $4.78 billion, trailing the same period in 2025 by 29.5%.
 
 ============================================================
-[17] Glenn Close Says Her 'Career Is to Create Characters for Gay Halloween Parades'
+[18] Glenn Close Says Her 'Career Is to Create Characters for Gay Halloween Parades'
 Source: Variety | Status: expanded | Words: 349
 Published: 2026-11-16T06:21:27+00:00
 URL: https://variety.com/2026/film/columns/glenn-close-career-characters-gay-halloween-governors-awards-1236948558
@@ -639,7 +661,7 @@ Killer Films co-founders Christine Vachon and Pamela Koffler will receive the Ir
 "The Hunger Games: Sunrise on the Reaping" is in theaters Nov. 20.
 
 ============================================================
-[18] 'The Gospel of Christmas' Review: Tyler Perry's Churchy Musical Drama Does a Threadbare Job of Getting Into the Spirit
+[19] 'The Gospel of Christmas' Review: Tyler Perry's Churchy Musical Drama Does a Threadbare Job of Getting Into the Spirit
 Source: Variety | Status: expanded | Words: 777
 Published: 2026-11-16T05:44:22+00:00
 URL: https://variety.com/2026/film/reviews/the-gospel-of-christmas-review-tyler-perry-1236948273
@@ -661,7 +683,7 @@ On his deathbed, Isaac's clergyman father asks Isaac to take over the Baptist ch
 That's quite a demand, but Isaac's real burden is that he's forgotten how to pray; he's forgotten how to believe. The movie is all about his coming to see the light, but you wish it happened in a more flowing, less contrived way. &#8220;The Gospel of Christmas&#8221; has a chorus of angels, who give the movie its only hint of levity. It's got a villain, Mr. Ehtami Lived, a pawn-shop purveyor who represents Temptation &#x2014; though Ricco Ross, who plays him, is a subtle enough actor to give him more dimension than anyone else in the movie. There's a plot twist that's a real whopper, as Isaac, out of nowhere, gets offered $3 million to do a concert tour &#x2014; an offer, his whole family realizes, that's coming straight from the devil, though the audience for his kick-off concert is so pumped that all I could think was, "Why did his career jump the track?" Isaac, of course, gets his faith groove back, and I suppose you could say that &#8220;The Gospel of Christmas&#8221; is more of a Christmas movie than most Christmas movies, since it's really about&#x2026;believing in Jesus. If only it were easier to believe the story it's telling.
 
 ============================================================
-[19] After FAA Ground Stop, John Oliver Compares Trump Cabinet Official To "A Batman Villain Trying To Hold Gotham Hostage"
+[20] After FAA Ground Stop, John Oliver Compares Trump Cabinet Official To "A Batman Villain Trying To Hold Gotham Hostage"
 Source: Deadline | Status: expanded | Words: 574
 Published: 2026-11-16T05:25:26+00:00
 URL: https://deadline.com/2026/11/john-oliver-faa-ground-stop-sean-duffy-1237224846
@@ -693,7 +715,7 @@ Oliver then went in for the kill.
 &#8220;To that end,&#8221; said Oliver in reference to both the show and the recent flight stoppage, &#8220;guess what, Sean? Mission f*cking accomplished!&#8221;
 
 ============================================================
-[20] Governors Awards: Glenn Close, Ridley Scott and Floyd Norman Accept Honorary Oscars, Christine Vachon and Pamela Koffler Receive Thalberg Award
+[21] Governors Awards: Glenn Close, Ridley Scott and Floyd Norman Accept Honorary Oscars, Christine Vachon and Pamela Koffler Receive Thalberg Award
 Source: The Hollywood Reporter | Status: expanded | Words: 1611
 Published: 2026-11-16T04:57:13+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-governors-awards-glenn-close-ridley-scott-floyd-norman-1236749503
@@ -737,7 +759,7 @@ Vachon, the more public-facing of the duo, has been nicknamed &#8220;the Queen o
 The presentation of the Thalberg to Vachon and Koffler was kicked off by Neil Patrick Harris with a performance from Hedwig and the Angry Inch , which Vachon and Koffler produced. Todd Haynes and Julianne Moore then conducted the actual handoff of the statuettes.
 
 ============================================================
-[21] Jason Sudeikis &#038; Hannah Waddingham Duet On "Islands In The Stream" - Watch
+[22] Jason Sudeikis &#038; Hannah Waddingham Duet On "Islands In The Stream" - Watch
 Source: Deadline | Status: expanded | Words: 184
 Published: 2026-11-16T04:21:13+00:00
 URL: https://deadline.com/2026/11/jason-sudeikis-hanna-waddingham-islands-in-the-stream-1237224834
@@ -755,7 +777,7 @@ You can watch them harmonize on &#8220;Shallow&#8221; a few years ago below. blo
 The Thundergong! benefit supports amputees through the Steps of Faith Foundation.
 
 ============================================================
-[22] This Classic Cartoon Crossover Still Blows My Mind 39 Years Later, Even If It Made Perfect Sense
+[23] This Classic Cartoon Crossover Still Blows My Mind 39 Years Later, Even If It Made Perfect Sense
 Source: ComicBook.com | Status: expanded | Words: 777
 Published: 2026-11-16T03:58:05+00:00
 URL: https://comicbook.com/tv-shows/feature/this-classic-cartoon-crossover-still-blows-my-mind-39-years-later-even-if-it-made-perfect-sense
@@ -785,7 +807,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Netflix's Godzilla Anime Hit Really Needs a Season 2
+[24] Netflix's Godzilla Anime Hit Really Needs a Season 2
 Source: ComicBook.com | Status: expanded | Words: 415
 Published: 2026-11-16T03:56:03+00:00
 URL: https://comicbook.com/anime/feature/netflixs-godzilla-anime-hit-really-needs-a-season-2
@@ -809,7 +831,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] 5 Spider-Man Villains Who Have Completely Disappeared &#038; Deserve a Comeback Today
+[25] 5 Spider-Man Villains Who Have Completely Disappeared &#038; Deserve a Comeback Today
 Source: ComicBook.com | Status: expanded | Words: 983
 Published: 2026-11-16T03:51:00+00:00
 URL: https://comicbook.com/marvel/list/5-spider-man-villains-who-have-completely-disappeared-deserve-a-comeback-today
@@ -847,7 +869,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] 5 Perfect '90s Sci-Fi TV Shows That Only Got Better Every Season
+[26] 5 Perfect '90s Sci-Fi TV Shows That Only Got Better Every Season
 Source: ComicBook.com | Status: expanded | Words: 1007
 Published: 2026-11-16T03:35:36+00:00
 URL: https://comicbook.com/tv-shows/list/5-perfect-90s-sci-fi-tv-shows-that-only-got-better-every-season
@@ -875,7 +897,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] 'Writing With Fire' Directors' Himalayan Story Lab Unveils Fourth Cohort, Taps Payal Kapadia and Shaunak Sen as Mentors (EXCLUSIVE)
+[27] 'Writing With Fire' Directors' Himalayan Story Lab Unveils Fourth Cohort, Taps Payal Kapadia and Shaunak Sen as Mentors (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 746
 Published: 2026-11-16T03:30:00+00:00
 URL: https://variety.com/2026/film/asia/writing-with-fire-directors-fourth-himalayan-story-lab-cohort-1236947650
@@ -909,7 +931,7 @@ Past mentors include Sundance winners Sarvnik Kaur, Anupama Srinivasan and Anirb
 The new edition kicks off this month in Manali, Himachal Pradesh, with the first of its three residential workshops.
 
 ============================================================
-[27] Every '80s Kid Remembers Where They Saw This Iconic Movie, But They All Forgot the Character's Origin Story
+[28] Every '80s Kid Remembers Where They Saw This Iconic Movie, But They All Forgot the Character's Origin Story
 Source: ComicBook.com | Status: expanded | Words: 731
 Published: 2026-11-16T03:27:27+00:00
 URL: https://comicbook.com/movies/feature/every-80s-kid-remembers-where-they-saw-this-iconic-movie-but-they-all-forgot-the-characters-origin-story
@@ -939,7 +961,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] 3 Things You Need to Know for Re:Zero Season 5
+[29] 3 Things You Need to Know for Re:Zero Season 5
 Source: ComicBook.com | Status: expanded | Words: 703
 Published: 2026-11-16T03:21:01+00:00
 URL: https://comicbook.com/anime/list/3-things-you-need-to-know-for-rezero-season-5
@@ -967,7 +989,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] The MCU’s Newest Show Cost Almost As Much As Captain America: Brave New World, According to New Report
+[30] The MCU’s Newest Show Cost Almost As Much As Captain America: Brave New World, According to New Report
 Source: ComicBook.com | Status: expanded | Words: 412
 Published: 2026-11-16T03:14:48+00:00
 URL: https://comicbook.com/tv-shows/news/the-mcus-newest-show-cost-almost-as-much-as-captain-america-brave-new-world-according-to-new-report
@@ -993,7 +1015,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Tom Cruise Has Only Made 2 Horror Movies in 45 Years, and the Best Is This '90s Gem
+[31] Tom Cruise Has Only Made 2 Horror Movies in 45 Years, and the Best Is This '90s Gem
 Source: ComicBook.com | Status: expanded | Words: 896
 Published: 2026-11-16T03:04:43+00:00
 URL: https://comicbook.com/movies/feature/tom-cruise-has-only-made-2-horror-movies-in-45-years-and-the-best-is-this-90s-gem
@@ -1023,7 +1045,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Are 90 Day Fiancé: The Other Way’s Niles And Matilda Still Together After Ghana News? Here’s What We Know
+[32] Are 90 Day Fiancé: The Other Way’s Niles And Matilda Still Together After Ghana News? Here’s What We Know
 Source: CinemaBlend | Status: expanded | Words: 319
 Published: 2026-11-16T03:01:00+00:00
 URL: https://www.cinemablend.com/television/what-we-know-whether-90-day-fiance-the-other-way-niles-and-matilda-together-after-ghana-news
@@ -1045,7 +1067,7 @@ If Niles has returned to the US, I think it's fair to speculate that he and Mati
 If we get to the end of 90 Day Fiancé: The Other Way and learn that Niles is still working to bring Matilda to the United States, I won't be surprised. That's been the goal from the start , and I think he made a rash decision to move to Africa without looking into how difficult it would be for him to start a life in the country.
 
 ============================================================
-[32] 'The Gilded Age' Star Denée Benton on Peggy's Big Day: 'It Was Like Eating Candy and Steak All at the Same Time'
+[33] 'The Gilded Age' Star Denée Benton on Peggy's Big Day: 'It Was Like Eating Candy and Steak All at the Same Time'
 Source: Variety | Status: expanded | Words: 981
 Published: 2026-11-16T03:01:00+00:00
 URL: https://variety.com/2026/tv/news/gilded-age-peggy-wedding-denee-benton-1236948219
@@ -1075,7 +1097,7 @@ As moving as it is to watch Peggy and William say "I do," there's a more delicio
 In addition to Warfield and Whitfield, Benton credits historian and co-executive producer Dr. Erica Dunbar and executive producer Davita Scarlett, a new addition to the writing team in Season 4, for shaping Peggy's arc. "What's really special is that Season 4 feels like it's even more Peggy's season than Season 3 was," Benton says of the collective effort to craft a multifaceted Black heroine who gets to have her accomplishments and her escapism alike. "It feels like we've really broken the ceiling and we're front and center now."
 
 ============================================================
-[33] ‘The Gilded Age’ Co-Showrunner Sonja Warfield Reveals How Audra McDonald “Planted The Seed” For “Core Conflict” Of Peggy’s Wedding In Episode 403
+[34] ‘The Gilded Age’ Co-Showrunner Sonja Warfield Reveals How Audra McDonald “Planted The Seed” For “Core Conflict” Of Peggy’s Wedding In Episode 403
 Source: Deadline | Status: expanded | Words: 1231
 Published: 2026-11-16T03:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-peggy-wedding-season-4-jumping-broom-explain-1237223723
@@ -1119,7 +1141,7 @@ McDonald shared one last special association with production behind such a major
 Rosy Cordero contributed to this feature.
 
 ============================================================
-[34] 'Downstate' Broadway Review: Provocative Play About Sex Offenders Questions The Nature Of Forgiveness
+[35] 'Downstate' Broadway Review: Provocative Play About Sex Offenders Questions The Nature Of Forgiveness
 Source: Deadline | Status: expanded | Words: 1080
 Published: 2026-11-16T03:00:00+00:00
 URL: https://deadline.com/2026/11/downstate-broadway-review-1237220229
@@ -1151,7 +1173,7 @@ Director Mantello guides his excellent cast through Downstate &#8216;s nuances s
 Title: Downstate Venue: Broadway's Booth Theatre Written By: Bruce Norris Directed By: Joe Mantello Cast: K. Todd Freeman, Francis Guinan, Thomas Sadoski, Al'Jaleel McGhee, Cassie Beck, Adrian Martinez, Ivy Wolk, Liza Col&#xF3;n-Zayas Running Time: 2 hr 20 min (including intermission)
 
 ============================================================
-[35] Spider-Man's Most Important Movie Scene Isn't One With Superhero Costumes or Explosions
+[36] Spider-Man's Most Important Movie Scene Isn't One With Superhero Costumes or Explosions
 Source: ComicBook.com | Status: expanded | Words: 675
 Published: 2026-11-16T02:55:00+00:00
 URL: https://comicbook.com/movies/feature/spider-mans-most-important-movie-scene-isnt-one-with-superhero-costumes-or-explosions
@@ -1177,7 +1199,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] 5 Near-Perfect Tim Burton Movies Outside of Beetlejuice, Including His Most Realistic Film
+[37] 5 Near-Perfect Tim Burton Movies Outside of Beetlejuice, Including His Most Realistic Film
 Source: ComicBook.com | Status: expanded | Words: 966
 Published: 2026-11-16T02:44:57+00:00
 URL: https://comicbook.com/movies/list/5-near-perfect-tim-burton-movies-outside-of-beetlejuice-including-his-most-realistic-film
@@ -1215,7 +1237,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Spider-Man's Biggest Mistake Has Come Back to Haunt Him &#038; It Could Kill the Most Important Person in His Life
+[38] Spider-Man's Biggest Mistake Has Come Back to Haunt Him &#038; It Could Kill the Most Important Person in His Life
 Source: ComicBook.com | Status: expanded | Words: 732
 Published: 2026-11-16T02:43:00+00:00
 URL: https://comicbook.com/comics/feature/spider-mans-biggest-mistake-has-come-back-to-haunt-him-it-could-kill-the-most-important-person-in-his-life
@@ -1245,7 +1267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] 4 Notoriously Hated 2010s Movies That Are Actually Worth Watching
+[39] 4 Notoriously Hated 2010s Movies That Are Actually Worth Watching
 Source: ComicBook.com | Status: expanded | Words: 1127
 Published: 2026-11-16T02:36:00+00:00
 URL: https://comicbook.com/movies/list/4-notoriously-hated-2010s-movies-that-are-actually-worth-watching
@@ -1279,7 +1301,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Josh Hartnett's Forgotten Comic Book Movies Are Better Roles For Him Than the Superheroes He Turned Down
+[40] Josh Hartnett's Forgotten Comic Book Movies Are Better Roles For Him Than the Superheroes He Turned Down
 Source: ComicBook.com | Status: expanded | Words: 759
 Published: 2026-11-16T02:31:18+00:00
 URL: https://comicbook.com/movies/feature/josh-hartnetts-forgotten-comic-book-movies-are-better-roles-for-him-than-the-superheroes-he-turned-down
@@ -1309,7 +1331,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Marshals Leaves Troy’s Case Unsolved, And There’s A Very Real Reason Why
+[41] Marshals Leaves Troy’s Case Unsolved, And There’s A Very Real Reason Why
 Source: CinemaBlend | Status: expanded | Words: 279
 Published: 2026-11-16T02:01:00+00:00
 URL: https://www.cinemablend.com/television/marshals-leaves-troy-case-unsolved-real-reason-why-mo-brings-plenty
@@ -1331,7 +1353,7 @@ According to the U.S. Department of the Interior Indian Affairs , there are “a
 Overall, he was clear that there are lots of stories like his that should be shown on Kayce’s Yellowstone spinoff . He’s not the only one who has lost a loved one in this way and was left without answers, and he’s hoping to see more of those stories depicted on Marshals .
 
 ============================================================
-[41] Just 50 Copies of Vampirella's Debut Comic Exist in This Grade or Better, Making This Auction a Rare Opportunity
+[42] Just 50 Copies of Vampirella's Debut Comic Exist in This Grade or Better, Making This Auction a Rare Opportunity
 Source: ComicBook.com | Status: expanded | Words: 1237
 Published: 2026-11-16T01:51:00+00:00
 URL: https://comicbook.com/collectibles/news/just-50-copies-of-vampirellas-debut-comic-exist-in-this-grade-or-better-making-this-auction-a-rare-opportunity
@@ -1365,7 +1387,7 @@ Now, two honorable mentions here if we are going a little more out there with th
 I actually like the New 52 costume a lot but Kingdom Come might be my absolute favorite. Alex Ross is just amazing.
 
 ============================================================
-[42] One of 2026's Biggest Bombs Might Actually Be A Streaming Hit, Continuing a Big Trend for One Director
+[43] One of 2026's Biggest Bombs Might Actually Be A Streaming Hit, Continuing a Big Trend for One Director
 Source: ComicBook.com | Status: expanded | Words: 626
 Published: 2026-11-16T01:45:51+00:00
 URL: https://comicbook.com/movies/feature/one-of-2026s-biggest-bombs-might-actually-be-a-streaming-hit-continuing-a-big-trend-for-one-director
@@ -1391,7 +1413,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Governors Awards Arrivals 2026: Florence Pugh, Zendaya, Timothée Chalamet and More Stars on the Carpet
+[44] Governors Awards Arrivals 2026: Florence Pugh, Zendaya, Timothée Chalamet and More Stars on the Carpet
 Source: The Hollywood Reporter | Status: summary_only | Words: 36
 Published: 2026-11-16T01:41:15+00:00
 URL: https://www.hollywoodreporter.com/gallery/governors-awards-2026-arrivals-photos-stars1236755823-1236755823
@@ -1403,7 +1425,7 @@ CONTENT / EXTRACTED DETAILS:
 Glenn Close, Floyd Norman, Ridley Scott, Christine Vachon and Pamela Koffler are being honored at the Academy of Motion Picture Arts and Sciences’ event, taking place Sunday night at the Ray Dolby Ballroom at Ovation Hollywood.
 
 ============================================================
-[44] DC's Trinity Wouldn't Be Complete Without Wonder Woman, and These 5 Writers Helped Make It Happen
+[45] DC's Trinity Wouldn't Be Complete Without Wonder Woman, and These 5 Writers Helped Make It Happen
 Source: ComicBook.com | Status: expanded | Words: 905
 Published: 2026-11-16T01:36:00+00:00
 URL: https://comicbook.com/comics/list/dcs-trinity-wouldnt-be-complete-without-wonder-woman-and-these-5-writers-helped-make-it-happen
@@ -1431,7 +1453,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Governors Awards 2026 Red Carpet Photos: Zendaya, Inde Navarrette, Timothée Chalamet and More
+[46] Governors Awards 2026 Red Carpet Photos: Zendaya, Inde Navarrette, Timothée Chalamet and More
 Source: Variety | Status: expanded | Words: 180
 Published: 2026-11-16T01:20:53+00:00
 URL: https://variety.com/gallery/governors-awards-2026-red-carpet-photos
@@ -1457,7 +1479,7 @@ Check out the best red carpet pics from the Governors Awards below.
 Glenn Close attends the 17th Governors Awards at Dolby Theatre on November 15, 2026 in Hollywood, California.
 
 ============================================================
-[46] Netflix Is About to Lose One of DC’s Best Shows and It’s Bad News For Arrowverse Fans
+[47] Netflix Is About to Lose One of DC’s Best Shows and It’s Bad News For Arrowverse Fans
 Source: ComicBook.com | Status: expanded | Words: 738
 Published: 2026-11-16T01:20:39+00:00
 URL: https://comicbook.com/tv-shows/news/netflix-is-about-to-lose-one-of-dcs-best-shows-and-its-bad-news-for-arrowverse-fans
@@ -1483,7 +1505,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] 'Beast Games' Sets Season 3 Release Date At Prime Video
+[48] 'Beast Games' Sets Season 3 Release Date At Prime Video
 Source: Deadline | Status: expanded | Words: 366
 Published: 2026-11-16T01:15:00+00:00
 URL: https://deadline.com/2026/11/beast-games-season-3-release-date-prime-video-mrbeast-1237223404
@@ -1503,7 +1525,7 @@ In Season Three of Beast Games: World Champions, MrBeast unites competitors from
 Donaldson returns as host and will executive produce. Tyler Conklin serves as co-creator and executive producer with Donaldson and will return as series director. Michael H. Miller, Rob Buchta, Chris Keiper, Josh Kulic, Michael Cruz, and Jeff Housenbold will executive produce. Beast Games will premiere exclusively on Prime Video in more than 240 countries and territories worldwide.
 
 ============================================================
-[48] Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live Updates)
+[49] Governors Awards 2026: Glenn Close, Ridley Scott and More Receive Honorary Oscars From The Academy (Live Updates)
 Source: Variety | Status: expanded | Words: 301
 Published: 2026-11-16T00:30:36+00:00
 URL: https://variety.com/2026/awards/news/governors-awards-glenn-close-ridley-scott-oscars-live-blog-1236948318
@@ -1517,7 +1539,7 @@ After a weekend of flight delays, Hollywood's 2027 awards season is finally read
 Here, Variety's Antonio Ferme will be live-blogging all the biggest moments from tonight's festivities, from glamorous red carpet looks and candid celebrity interviews to the evening's most memorable speeches and exclusive behind-the-scenes details from reporters inside the ceremony. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[49] See Candace Cameron Bure’s Sweet Reaction To BTS Full House Footage Of Her And Bob Saget
+[50] See Candace Cameron Bure’s Sweet Reaction To BTS Full House Footage Of Her And Bob Saget
 Source: CinemaBlend | Status: expanded | Words: 242
 Published: 2026-11-16T00:21:00+00:00
 URL: https://www.cinemablend.com/television/see-candace-cameron-bure-reaction-bts-full-house-footage-bob-saget
@@ -1531,30 +1553,4 @@ While it’s been over three decades since the final Full House episode aired, D
 I just want to cry seeing the late stand-up comic introduce the former child star as his “TV daughter” as their arms are wrapped around each other. The emotions were already present when the Great American Media actress honored Saget through a series of photos . With each picture, it was clear that Saget didn't need to be Danny Tanner to show affection to his co-stars.
 
 The Full House alums truly appeared to have a friendship that stood the test of time. In fact, you could have called their friendship unlikely , as Bure couldn’t get into Saget's raunchy stand-up material. However, she said it was easy to be her TV dad’s friend, as she told herself to separate the comedian’s material from the "kindness" and "love" he brought out. Because the talented actress had known Saget since she was 11, it was no wonder they were still so close by the time the latter passed.
-
-============================================================
-[50] After 49 Years, It's Easy to See Why Star Wars: A New Hope Is the "Greatest Work of Fiction Ever"
-Source: ComicBook.com | Status: expanded | Words: 688
-Published: 2026-11-16T00:17:00+00:00
-URL: https://comicbook.com/movies/feature/after-49-years-its-easy-to-see-why-star-wars-a-new-hope-is-the-greatest-work-of-fiction-ever
-------------------------------------------------------------
-SUMMARY:
-A long time ago in a galaxy far, far away, George Lucas dreamed up an entire universe where space wizards, droids, and countless alien species exist, all anchored by a farmboy who dreamed of something bigger. And ever since its game-changing release in 1977, Star Wars — itself partly influenced by the Flash Gordon and Buck […]
-
-CONTENT / EXTRACTED DETAILS:
-Of course, Star Wars itself has continued as well. Lucas’ original film was soon followed by not only two sequels to round out the original trilogy but also a prequel trilogy Lucas directed himself. Since he sold Lucasfilm — and, by extension, Star Wars — to Disney, the studio has released an additional six movies, several TV series , and countless other offshoots. Given the abundance of Star Wars projects in recent years, some fans might forget just how impactful that original film was. In fact, one surprising source even recently proclaimed Lucas’ 1977 film is the “greatest work of fiction ever.” But does that grand claim actually hold true?
-
-Of course, it’s no big revelation to point out that Star Wars left an indelible mark on cinema. Its enduring popularity says a lot about its role in shaping all the storytelling that followed. However, too few of the analyses about Star Wars ’ success and impact hinge on its own influences , the ones that Lucas brought together to create his universe. But on a recent episode of the podcast What Now? with Trevor Noah , comedian Jimmy Carr of all people laid out his reasoning for why Lucas’ original Star Wars film stands as the “greatest work of fiction ever.” See the clip below:
-
-Although Carr presents his argument as a “hot take,” his rationale is fascinating. Rather than giving Star Wars the title of “greatest work of fiction ever” simply based on what’s come after, he positions it as the fulcrum point of storytelling as a whole. Sure, other investigations of myth, legend, and the hero’s journey predate Lucas’ version, and certainly many more have followed in its footsteps . But Star Wars captures so many fundamentals of classical storytelling and brought them to the masses in such epic fashion that it makes sense why Carr would elect the film as essentially representative of all fiction. His breakdown even alludes to nuanced touches in both Joseph Campbell and James Joyce’s work that fall neatly in line with Lucas’ famous refrain regarding echoes within the Skywalker Saga: “It’s like poetry; they rhyme.”
-
-So if Star Wars — that is, the 1977 film now known as Star Wars: Episode IV — A New Hope — is the “greatest work of fiction ever,” does it still hold on to that title nearly 50 years on? Certainly, the film and the franchise it inspired still has legions of passionate fans . However, is it possible that the sheer volume of everything Star Wars released since Lucas’ original vision has diluted the impact of that first movie? Quite possibly. After all, what started as a two-hour distillation of the hero’s journey and all the tropes of myth and legend it encompasses has now expanded into countless hours of entertainment across film, TV, video games, books, and virtually every other form of media. How can one movie continually stand out among an entire multimedia franchise?
-
-The disappointing response to Disney+ series like The Acolyte and the underwhelming box office for The Mandalorian and Grogu — the first Star Wars film since 2019’s The Rise of Skywalker — indicate that the masses are suffering from a bit of Star Wars fatigue. It’s wild to think that the fan base that was once begging for fresh content, particularly during the 1983 to 1999 stretch between Lucas’ trilogies, is opting out of the latest Star Wars projects. That said, this universe has endured rough patches before and is probably just awaiting the right project to return the franchise to its former glory. Perhaps Star Wars: Starfighter will do the trick. In any case, fans shouldn’t forget where it all began and how beautifully the original film encapsulates so much of what they love about these kinds of stories.
-
-So is the original Star Wars the “greatest work of fiction ever”? Why or why not? Sound off below!
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
