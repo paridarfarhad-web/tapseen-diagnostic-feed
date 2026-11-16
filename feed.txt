@@ -1,15 +1,43 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-16T17:10:37.998Z
+Last Updated: 2026-11-16T17:16:33.890Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Ubisoft Massive Entertainment Boss Christoph Hartmann on His Amazon Games Exit and Turning 'Splinter Cell' Studio Into 'A24 of Video Gaming' (EXCLUSIVE)
+[1] Dave Franco &#038; Willa Fitzgerald To Lead Lionsgate Horror Film 'Mommy's Home'
+Source: Deadline | Status: expanded | Words: 669
+Published: 2026-11-16T17:15:00+00:00
+URL: https://deadline.com/2026/11/dave-franco-willa-fitzgerald-mommys-home-lionsgate-1237225262
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Over the summer, Universal unleased one menacing mommy upon theaters — and now, Lionsgate is preparing to unleash another. Dave Franco and Willa Fitzgerald have signed on to star in Mommy's Home, the studio's new psychological horror film to be directed by David F. Sandberg. Details as to the duo's roles are being kept […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Over the summer, Universal unleased one menacing mommy upon theaters &#x2014; and now, Lionsgate is preparing to unleash another. Dave Franco and Willa Fitzgerald have signed on to star in Mommy's Home , the studio's new psychological horror film to be directed by David F. Sandberg.
+
+Details as to the duo's roles are being kept under wraps. Sandberg, the director of Annabelle: Creation and Lights Out , helms the story of a young dad whose family life becomes terrifyingly unhinged when his cryogenically preserved mom is unfrozen and sent to live with him and his family. Related Stories Casting Aaron Pierre And 'Sisu' Director Jalmari Helander Team on Action Thriller 'Fairytale In New York' From Netflix And Lionsgate Acquisitions Lionsgate Acquires Alma Har'el's 'Wet' Starring Connor Storrie, Rebecca Ferguson, Javier Bardem, Odessa A'zion, Rosalía & Lukas Haas
+
+The project marks a reteam for Lionsgate and Franco following his starring role in the studio's hit threequel Now You See Me: Now You Don't , which grossed over $245 million worldwide last fall. Franco and Fitzgerald reteam after co-starring in Paramount's 2025 Colleen Hoover adaptation Regretting You . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The script for Mommy's Home is by James Morosini, who was attached to direct when we announced the project back in 2024. Producers include Craig Flores, Dawn Olmstead and Anonymous Content, along with Sandberg and Lotta Losten via M&#xE5;ngata. Nathan Kahane and Morosini will exec produce, as will Franco, joined by David Levine and Garrett Kemble on behalf of Anonymous Content.
+
+Scott O'Brien and Maria Ascanio are overseeing the project for Lionsgate. Dan Freedman negotiated the deal on behalf of the studio, which launched international sales out of this year's AFM.
+
+Lionsgate Motion Picture Group President Erin Westerman told us, &#8220;Every once in a while, a script comes along that is so wildly original and impossible to forget that you just have to make it. Mommy's Home is one of those movies. David F. Sandberg is an exceptional horror filmmaker, and we can't imagine anyone better suited to bring this particular brand of madness to life.&#8221;
+
+Westerman added, &#8220;Dave Franco is one of those rare actors who is endlessly watchable and impossible not to root for, even when the world around him is going completely off the rails. He's been part of the Lionsgate family through Now You See Me , and we couldn't be happier to be working with him again. And Willa Fitzgerald is going to be a revelation in this film. This is a project that everyone involved is making out of sheer passion, and we can't wait for audiences to experience just how far it goes.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Coming off the hard-R Sundance comedy Idiots and DreamWorks' Forgotten Island , Franco will soon be seen reprising as himself in Season 2 of The Studio . This follows his Emmy nomination for a scene-stealing turn as himself in the CinemaCon-set Season 1 finale. He is repped by WME, Anonymous Content and Toczek Suddleson.
+
+Breaking out with her turn in JT Mollner's lauded psychological thriller Strange Darling , Fitzgerald has also been seen starring in Season 1 of the hit Amazon series Reacher , as well as Kathryn Bigelow's Netflix film A House of Dynamite and Regretting You . Upcoming, she'll be seen in the espionage thriller Billion Dollar Spy , as well as the Sony horror film Skeletons from Strange Darling &#8216;s Mollner and producer J.J. Abrams. She is repped by CAA, Untitled and Jackoway Austen Tyerman.
+
+============================================================
+[2] Ubisoft Massive Entertainment Boss Christoph Hartmann on His Amazon Games Exit and Turning 'Splinter Cell' Studio Into 'A24 of Video Gaming' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1191
 Published: 2026-11-16T17:09:12+00:00
 URL: https://variety.com/2026/digital/news/ubisoft-massive-entertainment-christoph-hartmann-amazon-exit-1236945350
 ------------------------------------------------------------
 SUMMARY:
-Former Amazon Games chief Christoph Hartmann has been at the helm at Ubisoft's Massive Entertainment for five months and he's now prepared to share his early vision for the future of the label behind Tom Clancy’s “The Division,” “Ghost Recon” and “Splinter Cell." Those staple Ubisoft franchises, along with new IP “March of Giants,” a […]
+Former Amazon Games chief Christoph Hartmann has been at the helm at Ubisoft's Massive Entertainment for five months and he's now prepared to share his early vision for the future of the label behind Tom Clancy’s “The Division,” “Ghost Recon” and “Splinter Cell.” Those staple Ubisoft franchises, along with new IP “March of Giants,” a […]
 
 CONTENT / EXTRACTED DETAILS:
 Former Amazon Games chief Christoph Hartmann has been at the helm at Ubisoft &#8216;s Massive Entertainment for five months and he's now prepared to share his early vision for the future of the label behind Tom Clancy's "The Division," "Ghost Recon" and "Splinter Cell.&#8221;
@@ -31,7 +59,7 @@ And I want us to be two things. I want us to be definitely not just a shooter ho
 This interview has been edited and condensed.
 
 ============================================================
-[2] Shondaland Hires Amy Joy Rivkin &#038; Karyn Smith-Forge
+[3] Shondaland Hires Amy Joy Rivkin &#038; Karyn Smith-Forge
 Source: Deadline | Status: expanded | Words: 228
 Published: 2026-11-16T17:00:00+00:00
 URL: https://deadline.com/2026/11/shondaland-amy-joy-rivkin-karyn-smith-forge-1237224622
@@ -51,7 +79,7 @@ Smith-Forge, who joined in August, will lead development of new series at Shonda
 Alison Eakle, Chief Content Officer, Shondaland, said, "Amy Joy's impressive track record steering complex, premium productions and Karyn's vast experience and sharp instincts across scripted genres make them powerful additions to Shondaland. We're thrilled we get to shape our next chapter of storytelling alongside them." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[3] 'Love Island USA' Stars Gal Tshnieder and Corey Sawyer Jr. Sign With UnderCurrent Talent (Exclusive)
+[4] 'Love Island USA' Stars Gal Tshnieder and Corey Sawyer Jr. Sign With UnderCurrent Talent (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 352
 Published: 2026-11-16T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/love-island-usa-gal-tshnieder-corey-sawyer-jr-sign-undercurrent-1236755638
@@ -75,7 +103,7 @@ Stephanie Foster has also been appointed director of brand partnerships; Benji S
 &#8220;As UnderCurrent grows, we're investing in the managers and infrastructure that make those opportunities possible,&#8221; Bogard added. &#8220;Tiffany and the team members we're promoting have helped put that approach into practice, and their leadership will be central to our next stage of growth.&#8221;
 
 ============================================================
-[4] Netflix's Next 'Untold' About NY Giants' Super Bowl Win vs. Undefeated Patriots Arrives in Time for Xmas (Exclusive)
+[5] Netflix's Next 'Untold' About NY Giants' Super Bowl Win vs. Undefeated Patriots Arrives in Time for Xmas (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 496
 Published: 2026-11-16T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/netflix-untold-news-giants-upset-patriots-super-bowl-netflix-1236751838
@@ -107,7 +135,7 @@ Untold: One Giant Upset &#8220;is very different from most of our Untolds . Most
 It's fitting, because that Giants team was also different.
 
 ============================================================
-[5] How Netflix‘s Animated 'Steps’ Reimagines the Cinderella Story Through the Eyes of Her Asian Stepsisters and Finds a New Kind of Happily Ever After
+[6] How Netflix‘s Animated 'Steps’ Reimagines the Cinderella Story Through the Eyes of Her Asian Stepsisters and Finds a New Kind of Happily Ever After
 Source: Variety | Status: expanded | Words: 1187
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/film/news/netlfix-steps-reimagines-cinderella-story-1236947550
@@ -147,7 +175,7 @@ The look is bright, saturated color, gleaming and dreamy. It almost looks toylik
 "Especially in terms of the world, the fabrics, the textures, just how kind of rich and ornate and how everything was kind of really constructed. It was like a big part of the look of the film that you know we wanted to do because it's one of the things that CG does best," says Ripa. "It can add these textures and freckles and to this ornate Rococo world. But then you have to take it and make sure that the audience is seeing and feeling what they're supposed to see and feel, because if you let it take over, you can lose emotion in connection with the characters. So, we were trying to make sure, even in the complexity of it, that the characters and the emotions were still at the at the forefront."
 
 ============================================================
-[6] Berlin Winner Tatiana Huezo Close to Completing Road Movie ‘Galerna’ Following Awards Boost: ‘I’m Dying to Finish It’
+[7] Berlin Winner Tatiana Huezo Close to Completing Road Movie ‘Galerna’ Following Awards Boost: ‘I’m Dying to Finish It’
 Source: Variety | Status: expanded | Words: 981
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/film/global/the-echo-director-tatiana-huezo-galerna-idfa-1236948695
@@ -183,7 +211,7 @@ Lastly, the filmmaker briefly spoke about the "wonderful" sense of hope brought 
 "There was this heavy sense of darkness blanketing the entire world, a wave of fascism, the rise of the far-right, something truly formidable and profoundly dark," she adds. "I feel that Lula's victory shifted the landscape in a very significant way, not just in Mexico but globally. There are crazy, deranged people in power today in Latin America. People who are extremely dangerous and who are completely and utterly removed from anything human, but right now, I'm feeling hopeful."
 
 ============================================================
-[7] Shondaland Hires Amy Joy Rivkin as VP of Production, Karyn Smith-Forge Hired as VP of Scripted Series
+[8] Shondaland Hires Amy Joy Rivkin as VP of Production, Karyn Smith-Forge Hired as VP of Scripted Series
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/shondaland-amy-joy-rivkin-karyn-smith-forge-1236949000
@@ -205,7 +233,7 @@ Shondaland has been based at Netflix since 2017. It was announced over the summe
 Shondaland's biggest show to date on Netflix is "Bridgerton," which aired its fourth season earlier this year and is currently prepping its fifth. It is one of the most popular show's in Netflix history, with Seasons 1 and 3 ranking in the Top 10 Netflix shows of all time with 113 million views and 106 million views respectively. Along with the previous prequel about Queen Charlotte, Netflix recently greenlit a second &#8220;Bridgerton&#8221; prequel about a young Lady Violet.
 
 ============================================================
-[8] Harrison Ford Exec-Produced Voyaging Film ‘The Navigator’ Unveils Clip Ahead of DOC NYC Premiere (EXCLUSIVE)
+[9] Harrison Ford Exec-Produced Voyaging Film ‘The Navigator’ Unveils Clip Ahead of DOC NYC Premiere (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 445
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/film/news/harrison-ford-voyaging-film-navigator-clip-1236946185
@@ -233,7 +261,7 @@ Manley said in a director's statement: "I came to see a deep burden and &#x2018;
 The director, based in Vancouver, previously made "Treeline" and the series "A Skier's Journey." Submarine is handling sales and distribution inquiries.
 
 ============================================================
-[9] Horror Host Joe Bob Briggs Launches Coney Island Pictures With Picturehouse; New ‘Basket Case’ Movie Among First Projects (EXCLUSIVE)
+[10] Horror Host Joe Bob Briggs Launches Coney Island Pictures With Picturehouse; New ‘Basket Case’ Movie Among First Projects (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 606
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/film/news/joe-bob-briggs-coney-island-pictures-basket-case-1236948534
@@ -261,7 +289,7 @@ Berney and Briggs will serve as co-CEOs of the company. Picturehouse's Jeanne R.
 Briggs is best known for his decades of presenting and discussing horror films on television. His show "Joe Bob's Drive-in Theater" aired on The Movie Channel from 1986 to 1996, his TNT series "MonsterVision" ran from 1996 to 2000 and "The Last Drive-in with Joe Bob Briggs" debuted on Shudder in 2018 and is wrapping up this year.
 
 ============================================================
-[10] 'Hunger Games' Costume Designer Teams With Depop on Vintage Fashion Collection, Including Edits for Effie and Haymitch
+[11] 'Hunger Games' Costume Designer Teams With Depop on Vintage Fashion Collection, Including Edits for Effie and Haymitch
 Source: Variety | Status: expanded | Words: 501
 Published: 2026-11-16T17:00:00+00:00
 URL: https://variety.com/2026/shopping/news/hunger-games-depop-collection-costume-designer-shop-online-1236948930
@@ -287,7 +315,7 @@ Directed by Francis Lawrence and adapted from Suzanne Collins' 2025 novel, "Sunr
 The Depop x "Hunger Games" edits are available through the marketplace's website and app in the U.S. and Australia from Nov. 16 through Nov. 29.
 
 ============================================================
-[11] Robert Pattinson Is the Smart but Safe Choice to Play James Bond
+[12] Robert Pattinson Is the Smart but Safe Choice to Play James Bond
 Source: The Hollywood Reporter | Status: expanded | Words: 849
 Published: 2026-11-16T16:51:12+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattison-james-bond-1236756211
@@ -327,7 +355,7 @@ Still, Pattinson projects vulnerability as well, and checks so many other boxes 
 While some of the other Bond candidates might have been more conventional choices, going conventional was a riskier move. You don't want a Bond who feels like he was grown in a lab to play Bond. You want an actor who can take the role somewhere new. When managing a 62-year-old franchise whose demise has been proclaimed countless times, Pattinson's the smartest, safest choice producers could have made &#x2014; a proven draw who can leave the character shaken and stirred.
 
 ============================================================
-[12] Avatar: Seven Havens Officially Confirms When Its Story Will End
+[13] Avatar: Seven Havens Officially Confirms When Its Story Will End
 Source: ComicBook.com | Status: expanded | Words: 487
 Published: 2026-11-16T16:48:31+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-officially-confirms-when-its-story-will-end
@@ -351,7 +379,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Martin Sheen, Alexis Bledel &#038; Tate Donovan Set Sports Drama 'Raising Cole'
+[14] Martin Sheen, Alexis Bledel &#038; Tate Donovan Set Sports Drama 'Raising Cole'
 Source: Deadline | Status: expanded | Words: 737
 Published: 2026-11-16T16:47:24+00:00
 URL: https://deadline.com/2026/11/martin-sheen-alexis-bledel-raising-cole-1237222084
@@ -383,7 +411,7 @@ Raising Cole was financed through Texas private equity and senior debt, with pro
 Sheen is represented by Paradigm Agency. Standen represented by Range Media Partners, Verve, Independent Talent Group and Behr Abramson Levy Johnson. Donovan is represented by Gersh Agency. Bledel is represented by Innovative Artists, Industry Entertainment and Jackoway Austen Tyerman Wertheimer Mandelbaum etc.
 
 ============================================================
-[14] Aymara Films Launches TV Slate Including Adaptation Of Adam Sass’ YA Novel ‘Surrender Your Sons’ After Landing Financing
+[15] Aymara Films Launches TV Slate Including Adaptation Of Adam Sass’ YA Novel ‘Surrender Your Sons’ After Landing Financing
 Source: Deadline | Status: expanded | Words: 623
 Published: 2026-11-16T16:47:00+00:00
 URL: https://deadline.com/2026/11/aymara-films-tv-slate-surrender-your-sons-1237224601
@@ -411,7 +439,7 @@ On the animation side, Aymara is developing Katari & The Seventh Spirit , a fant
 Nostas and Aymara Films are represented by Trent Anderson of Luber Roklin Entertainment and by Isabel Pons de Dalmases of IPD Talent in Spain. Nostas is also represented by Yorn Levine Barnes. Bellott is represented by Gersh.
 
 ============================================================
-[15] Here's Where to Get a Sony PlayStation 5 Pro Online, Ahead of the 'Grand Theft Auto VI' Release
+[16] Here's Where to Get a Sony PlayStation 5 Pro Online, Ahead of the 'Grand Theft Auto VI' Release
 Source: Variety | Status: expanded | Words: 372
 Published: 2026-11-16T16:44:46+00:00
 URL: https://variety.com/2026/shopping/news/where-to-buy-sony-playstation-5-pro-online-1236156082
@@ -435,7 +463,7 @@ Best of all? All PS5 games work on the PS5 Pro, including "GTA 6," which starts 
 The Sony PS5 Pro is now available for $899 at PS Direct , while "GTA 6" starts at $79.99 on Amazon, Walmart and Best Buy. In the meantime, you can also pick up the standard PS5: Digital Edition on Amazon , Walmart and PS Direct with prices starting at $599.
 
 ============================================================
-[16] ‘Morning Show’ Star Mark Duplass and Katie Aselton Show Off Their Three Rescue Dogs in PETA Ad (EXCLUSIVE)
+[17] ‘Morning Show’ Star Mark Duplass and Katie Aselton Show Off Their Three Rescue Dogs in PETA Ad (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 376
 Published: 2026-11-16T16:43:19+00:00
 URL: https://variety.com/2026/film/columns/morning-show-mark-duplass-katie-aselton-dog-adoption-peta-1236949066
@@ -465,7 +493,7 @@ According to the ASPCA , about 5.8 million dogs and cats entered U.S. shelters a
 Watch the Duplass and Aselton PETA ad below.
 
 ============================================================
-[17] Tim Allen Has Bad News for Home Improvement Fans Waiting for a Revival Series
+[18] Tim Allen Has Bad News for Home Improvement Fans Waiting for a Revival Series
 Source: ComicBook.com | Status: expanded | Words: 505
 Published: 2026-11-16T16:42:00+00:00
 URL: https://comicbook.com/tv-shows/news/tim-allen-has-bad-news-for-home-improvement-fans-waiting-for-a-revival-series
@@ -491,7 +519,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] 'The Office,' 'This Is Us' and Must-See TV Stars Reuniting for NBC 100th Anniversary Special
+[19] 'The Office,' 'This Is Us' and Must-See TV Stars Reuniting for NBC 100th Anniversary Special
 Source: The Hollywood Reporter | Status: expanded | Words: 441
 Published: 2026-11-16T16:40:29+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/the-office-this-is-us-and-must-see-tv-stars-reuniting-for-nbc-100th-anniversary-special-1236756268
@@ -527,7 +555,7 @@ NBC Sports: Bob Costas, Michael Phelps, Mike Tirico, Simone Biles.
 Earlier eras: Goldie Hawn ( Laugh-In ), Mel Brooks ( Your Show of Shows ).
 
 ============================================================
-[19] 'Call Me Queen,' 'Marie Madeleine' Among 10 Films Vying for Gandhi Medal at India's IFFI
+[20] 'Call Me Queen,' 'Marie Madeleine' Among 10 Films Vying for Gandhi Medal at India's IFFI
 Source: Variety | Status: expanded | Words: 657
 Published: 2026-11-16T16:37:09+00:00
 URL: https://variety.com/2026/film/festivals/iffi-gandhi-medal-goa-1236949068
@@ -557,7 +585,7 @@ La&#xEF;la Marrakchi directed &#8220;Strawberries,&#8221; also titled &#8220;La 
 IFFI introduced the Gandhi Medal at its 46th edition, working with the Paris-based CICT-ICFT under UNESCO auspices. The prize goes to films reflecting Mahatma Gandhi's belief in nonviolence and tolerance, along with mutual understanding between cultures and a culture of peace.
 
 ============================================================
-[20] Need the Day Off to Play 'GTA 6'? Xbox and DJ Khaled's 'Dr. Xbox' Have a PTO Excuse Note for You
+[21] Need the Day Off to Play 'GTA 6'? Xbox and DJ Khaled's 'Dr. Xbox' Have a PTO Excuse Note for You
 Source: Variety | Status: expanded | Words: 524
 Published: 2026-11-16T16:35:09+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-day-off-note-xbox-dj-khaled-1236949034
@@ -587,7 +615,7 @@ Priced at $80, &#8220;GTA 6&#8221; will debut Thursday across PlayStation 5 and 
 See an example of Dr. Xbox's note below.
 
 ============================================================
-[21] 'Give Me Some Sugah' Trailer: Taraji P. Henson Plays An Accountant Who Starts A Chicago Bakery In Netflix Pic Arriving This December
+[22] 'Give Me Some Sugah' Trailer: Taraji P. Henson Plays An Accountant Who Starts A Chicago Bakery In Netflix Pic Arriving This December
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-16T16:35:01+00:00
 URL: https://theplaylist.net/give-me-some-sugah-trailer-taraji-p-henson-netflix-20261116
@@ -599,7 +627,7 @@ CONTENT / EXTRACTED DETAILS:
 Well, it looks like the holidays will be bringing us what looks to be an extremely charming new Netflix movie, " Give Me Some Sugah ," starring Taraji P. Henson ("Empire," "Hidden Figures"), playing a true-life character (Lenore Lindsey) with a sweet tooth and happy-go-lucky personality, who pivots from the white-collar office world in Chicago to start her own passion-project bakery after being passed over for a well-deserved promotion. Continue reading 'Give Me Some Sugah' Trailer: Taraji P. Henson Plays An Accountant Who Starts A Chicago Bakery In Netflix Pic Arriving This December at The Playlist.
 
 ============================================================
-[22] Bake Off’s Latest Elimination Legit Made Me Cry, But There’s A Silver Lining
+[23] Bake Off’s Latest Elimination Legit Made Me Cry, But There’s A Silver Lining
 Source: CinemaBlend | Status: expanded | Words: 208
 Published: 2026-11-16T16:31:54+00:00
 URL: https://www.cinemablend.com/streaming-news/bake-offs-latest-elimination-legit-made-me-cry-silver-lining-connie-moyin
@@ -617,7 +645,7 @@ Moyim's emotional reaction to Connie's elimination was moving, as he was devasta
 I mean, how adorable are these two? Clearly their bond extends outside of the Bake Off tent, and they've remained close in the time between filming and the current season airing. It would have been heartwarming enough to merely see Connie and Moyin reuniting, but the fact that they showed off their dance moves in the above video is even more delightful. So while the latest episode of The Great British Baking Show made me cry, I'm back to enjoying the show's immense charm.
 
 ============================================================
-[23] Square Enix PlayStation Exclusive Game Now Available for $1.59
+[24] Square Enix PlayStation Exclusive Game Now Available for $1.59
 Source: ComicBook.com | Status: expanded | Words: 373
 Published: 2026-11-16T16:31:19+00:00
 URL: https://comicbook.com/gaming/news/square-enix-ps4-ps5-playstation-exclusive-game-hitman
@@ -643,7 +671,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Vertical Series Studio and Platform aTwist Partners With Snapchat (EXCLUSIVE)
+[25] Vertical Series Studio and Platform aTwist Partners With Snapchat (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 468
 Published: 2026-11-16T16:30:00+00:00
 URL: https://variety.com/2026/tv/news/atwist-partners-snapchat-vertical-series-microdrama-1236948588
@@ -669,7 +697,7 @@ Among upcoming aTwist projects are a Daddy Yankee's "La Postal: Written in the D
 Also, "The Bold and the Beautiful" creative chief Bradley Bell is producing his first microseries, "Hollywood Starlet"; the musical microseries "Theater Kids vs. Zombies" is coming from Jesse Tyler Ferguson and Justin Mikita; and more.
 
 ============================================================
-[25] Dual Oscar Winner Christopher Hampton Calls Glenn Close Honorary Oscar "the Least They Can Do," Says AI Is Just "a Super Google"
+[26] Dual Oscar Winner Christopher Hampton Calls Glenn Close Honorary Oscar "the Least They Can Do," Says AI Is Just "a Super Google"
 Source: The Hollywood Reporter | Status: expanded | Words: 1472
 Published: 2026-11-16T16:27:30+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060
@@ -711,7 +739,7 @@ But the veteran writer had even harsher things to say about the state of televis
 Concluded Hampton: &#8220;I just thought television really wasn't worth it anymore. Whereas it used to be, when I was young, the freest possible environment to work in, now it is the most constricted and prescriptive and unimaginative. It seems to me. And also, it's a brutal, brutal medium. It just eats material and swallows it. Obviously, it provides an enormous amount of work for writers, and to that extent, it's a good thing. But I don't really understand why the freedoms that we used to have when I was young and was very lucky to have no longer exist.&#8221;
 
 ============================================================
-[26] The Nielsen Tide: How SEC Teams Dominate College Football Viewership
+[27] The Nielsen Tide: How SEC Teams Dominate College Football Viewership
 Source: Variety | Status: expanded | Words: 927
 Published: 2026-11-16T16:26:21+00:00
 URL: https://variety.com/2026/tv/news/sec-college-football-dominate-tv-viewership-abc-espn-1236948921
@@ -749,7 +777,7 @@ Among the other impressive stats delivered by SEC teams so far this season:
 (Pictured: The Nov. 7 Alabama-LSU game ranks as the most-watched college football game of the 2026 season so far)
 
 ============================================================
-[27] There’s A New Harry Potter TV Clip, And Now I’m Even More Excited For John Lithgow As Dumbledore
+[28] There’s A New Harry Potter TV Clip, And Now I’m Even More Excited For John Lithgow As Dumbledore
 Source: CinemaBlend | Status: expanded | Words: 251
 Published: 2026-11-16T16:23:25+00:00
 URL: https://www.cinemablend.com/television/new-harry-potter-clip-more-excited-john-lithgow-dumbledore
@@ -767,7 +795,7 @@ When Minerva comments on how much Harry looks like his father, Dumbledore's resp
 I love that Dumbledore isn't quick to assume Harry is everything like his father. McGonagall's tone is affectionate of course, but still softly suggests some expectation from the 11-year-old that Dumbledore seems quick to gently shut down. There are so many sides to Albus Dumbledore, and I love how this clip shows Lithgow grasping more than one of them.
 
 ============================================================
-[28] 2PM Sharp Names Michelle Schwartz &#038; Rob Greenwald As Partners
+[29] 2PM Sharp Names Michelle Schwartz &#038; Rob Greenwald As Partners
 Source: Deadline | Status: expanded | Words: 812
 Published: 2026-11-16T16:22:11+00:00
 URL: https://deadline.com/2026/11/2pm-michelle-schwartz-rob-greenwald-1237225261
@@ -789,7 +817,7 @@ Greenwald represents award winning comedians, actors, writers, directors, podcas
 2PM Sharp was founded in 2024 by Lindsay Galin and Jeff Raymond.
 
 ============================================================
-[29] Big Shonen Jump Hit Confirms It Will End After 6 Years With Next Release
+[30] Big Shonen Jump Hit Confirms It Will End After 6 Years With Next Release
 Source: ComicBook.com | Status: expanded | Words: 520
 Published: 2026-11-16T16:19:10+00:00
 URL: https://comicbook.com/anime/news/big-shonen-jump-hit-confirms-it-will-end-after-6-years-with-next-release
@@ -813,7 +841,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Festival In Focus: Marrakech’s Atlas Workshops Nurtures Bespoke Approach As Project Incubator Goes From Strength-To-Strength
+[31] Festival In Focus: Marrakech’s Atlas Workshops Nurtures Bespoke Approach As Project Incubator Goes From Strength-To-Strength
 Source: Deadline | Status: expanded | Words: 1377
 Published: 2026-11-16T16:13:35+00:00
 URL: https://deadline.com/2026/11/festival-focus-marrakech-atlas-workshops-bespoke-approach-1237225243
@@ -841,7 +869,7 @@ Amid the growth, Zardi is determined to keep the workshop activities boutique an
 "I think of the reasons the workshops work is because we try to avoid too many generalized, theoretical panels to focus more on one-on-ones or small group meetings,&#8221; says Zardi. The 11 mentors this year will include director Cl&#xE9;mentine Dusajembo, John Trengove and actors Nisrin Erradi, Majd Mastoura and Lyna Khoudri, while experts and consultants include editor Nadia Ben Rachid, colorist Micheal Derrosett and sound editor Rana Eid. "We are pushing more and more towards this way of working. A number of directors with films in the festival program will be coming to meet with the projects," explains Zardi. "So, we'll have a director and an actor, a director and a cinematographer, or two directors in conversation with one another. And a new step we've taken this year is organizing preparatory sessions with all the consultants, briefing them on the material that has been sent in." The actors, for example, will be working with the directors on questions around the dynamics of a character's personality. "I feel it's more valuable, within the broader industry dynamic, where one-on-ones are often geared toward future project financing to place a strong emphasis on making these interactions concrete, hands-on working sessions."
 
 ============================================================
-[31] Fans Have BIG Reactions To Robert Pattinson Becoming The New Bond (And Pass The Popcorn)
+[32] Fans Have BIG Reactions To Robert Pattinson Becoming The New Bond (And Pass The Popcorn)
 Source: CinemaBlend | Status: expanded | Words: 358
 Published: 2026-11-16T16:10:11+00:00
 URL: https://www.cinemablend.com/movies/fans-have-big-reactions-robert-pattinson-becoming-new-bond-007
@@ -861,7 +889,7 @@ Given how strongly cinephiles feel about the James Bond franchise, there are als
 Clearly the fandom is not in agreement about whether or not Pattinson was the right choice to play 007. There are plenty of folks who are not happy about this choice, and who would prefer to see Henry Cavill as James Bond. The Man of Steel actor has expressed interest in the role for a while now, and even auditioned back when Craig was hired. We'll just have to wait and see if the Mickey 17 actor wins over his naysayers.
 
 ============================================================
-[32] Dolly Parton Earns Three Posthumous Grammy Nominations
+[33] Dolly Parton Earns Three Posthumous Grammy Nominations
 Source: Deadline | Status: expanded | Words: 529
 Published: 2026-11-16T16:07:49+00:00
 URL: https://deadline.com/2026/11/dolly-parton-grammy-nominations-2027-posthumous-1237225229
@@ -895,7 +923,7 @@ Recording Academy CEO Harvey Mason Jr. issued a statement on behalf of the Acade
 "Through her unwavering dedication to philanthropy, she gave back to her community and to the world with the same heart that defined her music. On behalf of the Recording Academy, our thoughts are with Dolly's family, friends and the countless fans whose lives she touched. Her legacy &#x2013; one of talent, kindness and resilience &#x2013; will endure for generations to come."
 
 ============================================================
-[33] Tribeca Festival Lisboa Unveils 2026 Lineup Featuring Sundance Winners 'Josephine' and 'The Incomer'
+[34] Tribeca Festival Lisboa Unveils 2026 Lineup Featuring Sundance Winners 'Josephine' and 'The Incomer'
 Source: Variety | Status: expanded | Words: 675
 Published: 2026-11-16T16:00:00+00:00
 URL: https://variety.com/2026/film/news/tribeca-festival-lisboa-2026-lineup-josephine-the-incomer-1236948954
@@ -927,7 +955,7 @@ Now in its third year, Tribeca Festival Lisboa serves as an international extens
 The festival will take place at Cinema S&#xE3;o Jorge, Teatro Tivoli BBVA and Capit&#xF3;lio. It is co-organized by Tribeca Enterprises, Impresa and Lisboa Cultura, with support from the Lisbon City Council and several corporate and tourism partners.
 
 ============================================================
-[34] Alex Baskin’s 32 Flavors Strikes Overall Deal With Hi Mom Productions
+[35] Alex Baskin’s 32 Flavors Strikes Overall Deal With Hi Mom Productions
 Source: Deadline | Status: expanded | Words: 426
 Published: 2026-11-16T16:00:00+00:00
 URL: https://deadline.com/2026/11/alex-baskin-32-flavors-overall-deal-hi-mom-productions-1237224567
@@ -949,7 +977,7 @@ Hi Mom, which also has a first-look deal with Hulu, will develop and produce non
 "We couldn't be more excited to partner with Alex and the incredible team at 32 Flavors. Alex has built an extraordinary company with a track record of creating some of the most compelling and talked-about shows on television. At Hi Mom, we've always believed in taking big creative swings, finding unforgettable characters, and telling stories in bold, unexpected ways that get people talking. We feel incredibly aligned with Alex in that vision, and we can't wait to see what we build together," added Hi Mom's Andrea Metz and Michelle Peerali.
 
 ============================================================
-[35] Bob Odenkirk, Alec Baldwin, Isla Fisher to Headline Tribeca Festival’s 2026 Portugal Edition
+[36] Bob Odenkirk, Alec Baldwin, Isla Fisher to Headline Tribeca Festival’s 2026 Portugal Edition
 Source: The Hollywood Reporter | Status: expanded | Words: 741
 Published: 2026-11-16T16:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/bob-odenkirk-alec-baldwin-tribeca-festival-portugal-edition-1236755048
@@ -983,7 +1011,7 @@ Tribeca Festival, founded in 2003 by Robert De Niro , Jane Rosenthal and Craig H
 "Tribeca Festival Lisboa is an important part of how we're extending Tribeca's reach and connecting with audiences around the world," Rebecca Glashow, CEO of Tribeca Enterprises, said in a statement. "This partnership reflects our broader vision of bringing artists, audiences, and creative communities together in new ways, while remaining rooted in Lisbon's own creative community. We're excited to continue growing Tribeca Festival Lisboa with our partners at Impresa and the City of Lisbon."
 
 ============================================================
-[36] Casting James Bond Was Easy. Finding the Perfect Villain Is Hard
+[37] Casting James Bond Was Easy. Finding the Perfect Villain Is Hard
 Source: The Hollywood Reporter | Status: expanded | Words: 1410
 Published: 2026-11-16T16:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/casting-james-bond-villain-hard-1236752409
@@ -1023,7 +1051,7 @@ Most important of all, though, he'll need an actor who knows how to make a drama
 This story appeared in the Nov. 12 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[37] Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’
+[38] Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-16T15:58:43+00:00
 URL: https://variety.com/2026/tv/news/elon-musk-jeremy-culhane-snl-impression-1236948969
@@ -1047,7 +1075,7 @@ With impressions in two consecutive episodes, it seems Culhane's Musk could beco
 Before Culhane joined the series, Mike Myers debuted an impression of Musk in 2025. And Musk himself famously hosted &#8220;SNL&#8221; in 2021, playing Wario in a courtroom sketch, among other characters.
 
 ============================================================
-[38] 5 Actors Rumored for DCU Roles Before James Gunn Left, And Who We Think They Might Have Played
+[39] 5 Actors Rumored for DCU Roles Before James Gunn Left, And Who We Think They Might Have Played
 Source: ComicBook.com | Status: expanded | Words: 970
 Published: 2026-11-16T15:54:00+00:00
 URL: https://comicbook.com/movies/list/5-actors-rumored-for-dcu-roles-before-james-gunn-left-and-who-we-think-they-might-have-played
@@ -1085,7 +1113,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] The Simpsons Pays Tribute to the Late Eric Bauza in Episode Featuring His Debut As Two New Characters
+[40] The Simpsons Pays Tribute to the Late Eric Bauza in Episode Featuring His Debut As Two New Characters
 Source: ComicBook.com | Status: expanded | Words: 526
 Published: 2026-11-16T15:51:48+00:00
 URL: https://comicbook.com/tv-shows/news/the-simpsons-pays-tribute-to-the-late-eric-bauza-in-episode-featuring-his-debut-as-two-new-characters
@@ -1111,7 +1139,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Beyoncé Becomes First Artist to Receive 100 Grammy Nominations
+[41] Beyoncé Becomes First Artist to Receive 100 Grammy Nominations
 Source: The Hollywood Reporter | Status: expanded | Words: 353
 Published: 2026-11-16T15:49:43+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/beyonce-grammys-history-100-nominations-1236756177
@@ -1135,7 +1163,7 @@ For the 2027 Grammys , female acts make up the leading nominees with Raye toppin
 The 2027 Grammys will air on ABC, marking the first time in more than 50 years that the music awards show hasn't aired on its longtime home of CBS. The ceremony will premiere live across ABC, Disney+ and Hulu from Crypto.com Arena in Los Angeles on Sunday, Feb. 7, 2027, at 7 p.m. ET / 4 p.m. PT.
 
 ============================================================
-[41] Black Clover Season 2 Next Episode First Look Kicks Off Final Dark Triad Fight
+[42] Black Clover Season 2 Next Episode First Look Kicks Off Final Dark Triad Fight
 Source: ComicBook.com | Status: expanded | Words: 492
 Published: 2026-11-16T15:47:08+00:00
 URL: https://comicbook.com/anime/news/black-clover-season-2-next-episode-first-look-kicks-off-final-dark-triad-fight
@@ -1159,7 +1187,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] John Summit Calls Out the Grammys After Receiving No Nominations: 'There's Zero Respect for Real Electronic Dance Music'
+[43] John Summit Calls Out the Grammys After Receiving No Nominations: 'There's Zero Respect for Real Electronic Dance Music'
 Source: Variety | Status: expanded | Words: 312
 Published: 2026-11-16T15:46:31+00:00
 URL: https://variety.com/2026/music/news/john-summit-calls-out-grammys-after-no-nominations-1236949004
@@ -1179,7 +1207,7 @@ Among the nominees in the best dance/electronic recording category were Fred Aga
 Summit most recently released his sophomore album &#8220;Ctrl Escape&#8221; this past April. The musician has been on a steady run of shows this year as part of his &#8220;Ctrl Escape&#8221; tour, which is currently making its way around North America before concluding with his biggest headlining show to date at the Los Angeles Memorial Coliseum on December 12. That show earned the fastest concert sell-out in the venue's history.
 
 ============================================================
-[43] Black Cat Has Found Her New Favorite Treasure, and It's About to Lead to an X-Men Heist
+[44] Black Cat Has Found Her New Favorite Treasure, and It's About to Lead to an X-Men Heist
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-16T15:46:00+00:00
 URL: https://comicbook.com/comics/feature/black-cat-has-found-her-new-favorite-treasure-and-its-about-to-lead-to-an-x-men-heist
@@ -1209,7 +1237,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Trump Rages That ‘60 Minutes’ Current Leadership Is 'Even Worse Than Their Predecessors,' Claims Newsmagazine's Iran Whistleblower Report Lacked Context
+[45] Trump Rages That ‘60 Minutes’ Current Leadership Is 'Even Worse Than Their Predecessors,' Claims Newsmagazine's Iran Whistleblower Report Lacked Context
 Source: Variety | Status: expanded | Words: 536
 Published: 2026-11-16T15:44:49+00:00
 URL: https://variety.com/2026/tv/news/trump-slams-60-minutes-leadership-worse-than-their-predecessors-iran-report-1236948982
@@ -1235,7 +1263,7 @@ Trump concluded, &#8220;CENTCOM defensive measures have been historically effect
 Variety has reached out to CBS News for comment.
 
 ============================================================
-[45] Johnny Depp's Jack Sparrow Panicked Disney Execs: "Is He Gay?" "Is He Incredibly Drunk?"
+[46] Johnny Depp's Jack Sparrow Panicked Disney Execs: "Is He Gay?" "Is He Incredibly Drunk?"
 Source: The Hollywood Reporter | Status: expanded | Words: 2595
 Published: 2026-11-16T15:44:01+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/johnny-depp-jack-sparrow-panicked-disney-execs-pirates-1236756163
@@ -1359,7 +1387,7 @@ Depp was asking Disney to trust him with a $140 million bet on a vision that cam
 *** Excerpted from THE MANY FACES OF JOHNNY DEPP by Mark Seal. Reprinted by permission of Gallery Books , an imprint of Simon & Schuster, LLC.
 
 ============================================================
-[46] IVE, BINI, KiiiKiii, SB19, LiSA and Babymetal Score Grammy Nominations in New Asian Pop Category
+[47] IVE, BINI, KiiiKiii, SB19, LiSA and Babymetal Score Grammy Nominations in New Asian Pop Category
 Source: The Hollywood Reporter | Status: expanded | Words: 462
 Published: 2026-11-16T15:40:22+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/grammys-2027-asian-pop-performance-nominations-1236754517
@@ -1385,7 +1413,7 @@ Many groups nominated have publicly spoken about wanting to further their countr
 See a full list of nominees below.
 
 ============================================================
-[47] Festival In Focus: Marrakech Navigates Turbulent World To Celebrate Established Cinema Artists &#038; Newcomers
+[48] Festival In Focus: Marrakech Navigates Turbulent World To Celebrate Established Cinema Artists &#038; Newcomers
 Source: Deadline | Status: expanded | Words: 1629
 Published: 2026-11-16T15:38:15+00:00
 URL: https://deadline.com/2026/11/marrkech-international-film-festival-artificial-the-debut-1237225003
@@ -1475,7 +1503,7 @@ Bonhomme reveals that a move to shift the festival dates forward by one week thi
 "We want to position the festival at the beginning of the Oscar campaign and to have all these films and names here as it kicks off," he says, noting these dates ties in nicely with the Gotham Awards in New York on November 30.
 
 ============================================================
-[48] At Cairo Film Festival, Arab Women Filmmakers Ask: ‘What Freedom Do We Have to Tell Our Own Stories?’
+[49] At Cairo Film Festival, Arab Women Filmmakers Ask: ‘What Freedom Do We Have to Tell Our Own Stories?’
 Source: Variety | Status: expanded | Words: 1145
 Published: 2026-11-16T15:32:55+00:00
 URL: https://variety.com/2026/film/global/arab-women-filmmakers-cairo-film-festival-2026-1236948919
@@ -1535,7 +1563,7 @@ For Abbas, the way forward also requires established filmmakers to help create o
 The challenge, the industry veterans agree, is not simply getting Arab women filmmakers into the mainstream, but ensuring they have the creative freedom, resources and industry support to remain there.
 
 ============================================================
-[49] Anti-Crypto Activist Ben McKenzie to Moderate ‘The Altruists’ Premiere Q&#038;A With Julia Garner, Anthony Boyle, Graham Moore (EXCLUSIVE)
+[50] Anti-Crypto Activist Ben McKenzie to Moderate ‘The Altruists’ Premiere Q&#038;A With Julia Garner, Anthony Boyle, Graham Moore (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 451
 Published: 2026-11-16T15:30:00+00:00
 URL: https://variety.com/2026/tv/news/ben-mckenzie-the-altruists-julia-garner-anthony-boyle-1236947738
@@ -1555,50 +1583,4 @@ Known now as an anti-crypto activist as well as an actor, McKenzie followed his 
 At his peak, Bankman-Fried was the 41st-richest American on the Forbes 400 list. FTX was forced to go bankrupt in November 2022 after evidence of fraud surfaced. Bankman-Fried was arrested in December 2022 and has since been sentenced to 25 years in prison. Ellison was sentenced to 24 months in prison and served 14 before being released in January.
 
 The eight-episode series was created by Graham Moore and inspired by the New York Magazine articles written by Kevin T. Dugan and Jen Wieczner. Executive producers include Moore, Jacqueline Hoyt, Barack and Michelle Obama, Jessie Dicovitsky and Vinnie Malhotra for Higher Ground Productions, Scoop Wasserstein for New York Magazine/Vox Media Studios, Garner, Tonia Davis, James Ponsoldt and Lauren Morelli.
-
-============================================================
-[50] The New James Bond Is Finally Confirmed, And I’m Shocked
-Source: CinemaBlend | Status: expanded | Words: 1151
-Published: 2026-11-16T15:20:31+00:00
-URL: https://www.cinemablend.com/movies/new-james-bond-finally-confirmed-im-shocked-robert-pattinson
-------------------------------------------------------------
-SUMMARY:
-We finally have a new Bond!
-
-CONTENT / EXTRACTED DETAILS:
-Discover the latest entertainment updates and trailers.
-
-Read reviews, interviews and deep dives on new releases.
-
-Get the latest movie, TV and streaming news delivered to your inbox.
-
-Main navigation menu Open menu Close main menu Cinemablend @layer global { #burgerbar ~ [data-component-name="SiteHeader:Masthead"] .button-menu.checked { display: none; } #burgerbar:checked ~ [data-component-name="SiteHeader:Masthead"] .button-menu.unchecked { display: none; } #burgerbar:checked ~ [data-component-name="SiteHeader:Masthead"] .button-menu.checked { display: block; } } US Edition US UK Australia Canada Sign in View Profile Sign out Search Search Cinemablend TV & Film News Streaming Books Interviews Voices Reality TV Fashion Videos Deals Trailers Theme Parks Newsletter More About Us SFX @layer legacy { .st0{clip-path:url(#SVGID_2_);fill:#000}} } YOUR NEXT READ:
-
-1 James Gunn’s Removal And Henry Cavill Talking Superman Has Fans Frazzled, But I Have A Hot Take
-
-2 How 007 Director Denis Villeneuve Trolled Audiences Amid The James Bond Casting Brouhaha
-
-3 The Wait For Daniel Craig’s Bond Replacement Has Been Frustrating, But Denis Villeneuve’s Comments Are Encouraging
-
-Unlock instant access to exclusive member features.
-
-Get full access to premium articles, exclusive features and a growing list of member rewards.
-
-(Image credit: MGM, Sony Pictures Releasing) {alert('Link copied')}).catch(err => {console.error('Failed to copy: ', err)})" data-platform="copy_link" data-action="" class="font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent w-full text-left normal-case" aria-label="Copy link" role="menuitem" data-analytics-id="article-social" analytics-label="utility-bar-social-share-copy-link" analytics-name="utility-bar-secondary" data-mrf-recirculation="article-social"> Copy link Facebook X Pinterest Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The world has been waiting with bated breath for the announcement of who will be the next actor to take on the role of James Bond . The rumors have been swirling around for months and have really heated up in the last few weeks as auditions and screen tests have been underway for the upcoming 26th installment of the Bond franchise. Now we know, and it turns out it’s one of the biggest names in Hollywood: Robert Pattinson .
-
-I’m actually a little shocked by this cast, but I’m not mad about it. I was leaning into the Jack Lowden or Callum Turner rumors, because I actually didn’t think it would be a star as big as Pattinson stepping into the shoes of the eight men who have previously played Bond . Pattinson has a huge year on the 2026 movie schedule , and this ensures the next couple of years will be busy too, after the announcement was made on social media this morning.
-
-I do think this choice will come with some controversy, but that’s to be expected. There was never a chance that Amazon/MGM, who own the Bond franchise now, were going to avoid it, no matter who they chose. Pattinson is probably the biggest star to ever be cast in the role for the first time, rivaling when Pierce Brosnan got the role way back in 1994 before GoldenEye.
-
-There is still a lot to learn about Bond 26, and we’ll be busy keeping you updated on all the developments.
-
-Hugh Scott Syndication Editor Hugh Scott is the Syndication Editor for CinemaBlend. Before CinemaBlend, he was the managing editor for Suggest.com and Gossipcop.com, covering celebrity news and debunking false gossip. He has been in the publishing industry for almost two decades, covering pop culture – movies and TV shows, especially – with a keen interest and love for Gen X culture, the older influences on it, and what it has since inspired. He graduated from Boston University with a degree in Political Science but cured himself of the desire to be a politician almost immediately after graduation.
-
-Please logout and then login again, you will then be prompted to enter your display name.
-
-Movies The Plot Thickens, As 007’s Writer Gets Asked About Casting James Bond SPONSORED SPONSORED_HEADLINE Movies Today Marks The Day Daniel Craig Landed James Bond, And Fans Have The Same Thought I Do SPONSORED SPONSORED_HEADLINE Movies Bond 26 Is On The Way (One Day). Here's What We Know About The Next Era Of James Bond As Of July 2026 SPONSORED SPONSORED_HEADLINE Movies I'm Pumped Some Of Those Bond Rumors Proved True, But What Does That Mean For 007's Age? SPONSORED SPONSORED_HEADLINE Movies How 007 Director Denis Villeneuve Trolled Audiences Amid The James Bond Casting Brouhaha SPONSORED SPONSORED_HEADLINE Movies Gary Oldman Claims New James Bond Has Been Found. The Actor He’s Rooting For? SPONSORED SPONSORED_HEADLINE Latest in Movies Movies We’ve Heard From Amanda Seyfried, But What About You Can See Everything’s Other Surprise Cameo Star? SPONSORED SPONSORED_HEADLINE Movies Charlize Theron & Florence Pugh Stunned In Red & Pink, But Zendaya’s ‘Tree Trunk’ Dress Was Divisive SPONSORED SPONSORED_HEADLINE Movies Anthony Mackie Defends His Viral Comments About Vision And Doomsday (But Do We Believe Him?) SPONSORED SPONSORED_HEADLINE Movies I Just Learned There’s A Project Hail Mary Video Game, And Rocky’s Role Sounds ‘Amaze’ SPONSORED SPONSORED_HEADLINE Movies Jessica Chastain Finally Dressed As Jessica Rabbit (And I’m Surprised It’s Happening After Halloween) SPONSORED SPONSORED_HEADLINE Movies What ‘Brad's Friends’ Think About What Happened To His Family After Split With Angelina Jolie SPONSORED SPONSORED_HEADLINE Latest in News Movies We’ve Heard From Amanda Seyfried, But What About You Can See Everything’s Other Surprise Cameo Star? SPONSORED SPONSORED_HEADLINE Television Sarah Sherman Had To Cover For Bowen Yang During Dress On SNL, And The Picture Is Hilarious SPONSORED SPONSORED_HEADLINE Movies Charlize Theron & Florence Pugh Stunned In Red & Pink, But Zendaya’s ‘Tree Trunk’ Dress Was Divisive SPONSORED SPONSORED_HEADLINE Movies Anthony Mackie Defends His Viral Comments About Vision And Doomsday (But Do We Believe Him?) SPONSORED SPONSORED_HEADLINE Movies I Just Learned There’s A Project Hail Mary Video Game, And Rocky’s Role Sounds ‘Amaze’ SPONSORED SPONSORED_HEADLINE Television See Candace Cameron Bure’s Sweet Reaction To BTS Full House Footage Of Her And Bob Saget SPONSORED SPONSORED_HEADLINE LATEST ARTICLES 1 Sarah Sherman Had To Cover For Bowen Yang During Dress On SNL, And The Picture Is Hilarious 2 Charlize Theron & Florence Pugh Stunned In Red & Pink, But Zendaya’s ‘Tree Trunk’ Dress Was Divisive 3 Anthony Mackie Defends His Viral Comments About Vision And Doomsday (But Do We Believe Him?) 4 I've Been Feeling NCIS’ Knight And Torres Relationship Cooling. What Katrina Law Thinks 5 People Are Complaining About The Secret Lives Of Mormon Wives Spinoff (But I Get It, It's Weird) //Block Requirejs Cinemablend is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
-
-{let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,o.bj)(e)):(0,a.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,o.qL)(e)):(u.log("Authenticated under metered paywall"),(0,a.kR)(e)?(0,i.aq)(e)&&(0,o.qL)(e):(0,i.aq)(e)&&g(e)?((0,o.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,o.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,o.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,o.bj)(e)),t&&(0,i.aq)(e)&&(0,s.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,a.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",a="kiosq-micropaywall-content",o="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),l=e=>e?.finalSiteConfig??e?.defaultSiteConfig,s=e=>!0===l(e)?.micropaywall_layer_enabled,c=e=>s(e)&&r().length>0,d=e=>{if(!s(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=l(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${a}`))return;const t=document.createElement("div");for(t.className=a;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${o}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
-
-\n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
