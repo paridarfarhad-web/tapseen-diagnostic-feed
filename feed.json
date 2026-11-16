@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T07:53:07.577Z"
+    "updated_at": "2026-11-16T08:05:17.353Z"
   },
   "articles": [
     {
@@ -145,8 +145,8 @@
     },
     {
       "id": "baa62c34-8e70-4dfb-b6f7-8231903114dd",
-      "title": "Jason Sudeikis &#038; Hanna Waddingham Duet On \"Islands In The Stream\" - Watch",
-      "summary": "Three years after their version of \"Shallow\" went viral, Jason Sudeikis and Hanna Waddingham reunited onstage for another classic duet at the annual Thundergong! benefit. This year, the Ted Lasso co-stars collaborated on \"Islands in the Stream\" in tribute to the late, great Dolly Parton. Sudeikis started out onstage along doing a tolerable version of […]",
+      "title": "Jason Sudeikis &#038; Hannah Waddingham Duet On \"Islands In The Stream\" - Watch",
+      "summary": "Three years after their version of \"Shallow\" went viral, Jason Sudeikis and Hannah Waddingham reunited onstage for another classic duet at the annual Thundergong! benefit. This year, the Ted Lasso co-stars collaborated on \"Islands in the Stream\" in tribute to the late, great Dolly Parton. Sudeikis started out onstage along doing a tolerable version of […]",
       "content": "Three years after their version of &#8220;Shallow&#8221; went viral, Jason Sudeikis and Hanna Waddingham reunited onstage for another classic duet at the annual Thundergong! benefit.\n\nThis year, the Ted Lasso co-stars collaborated on &#8220;Islands in the Stream&#8221; in tribute to the late, great Dolly Parton. Sudeikis started out onstage along doing a tolerable version of Kenny Rodgers' part in the pair's smash hit that went to No. 1 in 1983. Then Waddingham &#8212; an accomplished West End musical performer &#8212; came onstage and took the rendition to another level.\n\nYou can watch them harmonize on &#8220;Shallow&#8221; a few years ago below. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nThe Thundergong! benefit supports amputees through the Steps of Faith Foundation.",
       "source": "Deadline",
       "source_url": "https://deadline.com/2026/11/jason-sudeikis-hanna-waddingham-islands-in-the-stream-1237224834",
