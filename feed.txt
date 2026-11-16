@@ -1,9 +1,107 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-16T16:22:33.461Z
+Last Updated: 2026-11-16T16:28:45.666Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 2PM Sharp Names Michelle Schwartz &#038; Rob Greenwald As Partners
+[1] Dual Oscar Winner Christopher Hampton Calls Glenn Close Honorary Oscar "the Least They Can Do," Says AI Is Just "a Super Google"
+Source: The Hollywood Reporter | Status: expanded | Words: 1472
+Published: 2026-11-16T16:27:30+00:00
+URL: https://www.hollywoodreporter.com/movies/movie-news/christopher-hampton-glenn-close-oscar-ai-google-1236756060
+------------------------------------------------------------
+SUMMARY:
+The veteran British film and play scribe in a masterclass on the art of adaptations at Tallinn, kicking off the Estonian festival market's Discovery Campus, also compared screenwriting to going to the casino.
+
+CONTENT / EXTRACTED DETAILS:
+Two-time Oscar-winning screenwriter and director Christopher Hampton shared his insights on the film industry, AI and various latest developments at the 30th edition of the Tallinn Black Nights Film Festival (P&#xD6;FF) on Monday. He discussed his career and process during a masterclass entitled "From Stage to Screen: The Art of Adaptation" at the 25th edition of the Industry@Tallinn & Baltic Event (ITBE) market, which kicked off its Discovery Campus 2026 with the event.
+
+Early on in his appearance, Hampton was asked about the honorary Oscar that his Dangerous Liaisons star Glenn Close just received . &#8220;About time, I think,&#8221; the British creative said in his session hosted by Estonian journalist Neeme Raud. &#8220;I was very happy to hear that. I think she &#8230; is still hoping to get one for acting, [for] a specific role, but that hasn't happened yet. So the least they could do was give her an honorary Oscar.&#8221; Related Stories Movies Kino Lorber Takes U.S. Rights to 'Edward Said: Between Worlds' (Exclusive) TV 'Slow Horses' Lands Early Renewal for Seasons 9 and 10 at Apple TV
+
+Hampton was also asked about AI and its potential impact on creatives, especially writers. &#8220;It's not a subject, artificial intelligence, that has troubled me very much,&#8221; he shared during his masterclass. &#8220;I'm more interested in real intelligence. I think the flaw in artificial intelligence is in the name because it's artificial, and I don't think there's any replacement for original creativity. &#8230; I mean, they should put in place all these safeguards. I'm sure a lot of the work is very interesting, but for me, it's nothing other than a sort of super Google.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; });
+
+What if AI replaces scribes? &#8220;I know everyone's anxious about all this, but I don't think it's going to happen,&#8221; Hampton offered. &#8220;That's all. I just don't feel it is.&#8221; And he added: &#8220;I think our work is more interesting than its work.&#8221;
+
+Asked what he would think about AI being asked to create a script based on his past works, Hampton replied: &#8220;I really don't know. I guess it would be interesting to see what kind of a Hampton script AI would produce. But I have to leave this to other people to figure out because I can't make myself be interested in it.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+And he emphasized that he understands that AI is a hot topic. &#8220;Yeah, it's a big topic,&#8221; Hampton concluded. &#8220;It's just not with me.&#8221;
+
+He later also suggested that young writers &#8220;may as well choose a different profession&#8221; if they want to rely on AI. &#8220;If you write a script with the help of AI, you're choosing something easy. You're being lazy. You're allowing some other external form to take over.&#8221; The film and theater veteran heads up the five-member jury for the official competition of the anniversary edition of the festival in Estonia. He is joined on the jury by Lebanese producer Myriam Sassine, U.S. cinematographer and visual effects specialist David Stump, French producer Julie Billy and Estonian actress Tiina Tauraite.
+
+Hampton won Academy Awards for best adapted screenplay for Dangerous Liaisons and The Father . His other film credits include Atonement , The Quiet American and A Dangerous Method , while his work for the stage includes Les Liaisons Dangereuses and Sunset Boulevard . He has also written and directed three feature films: Carrington , The Secret Agent and Imagining Argentina .
+
+In his Tallinn masterclass, Hampton emphasized that making a film based on a play is &#8220;more than simply repeating dialogue&#8221; in front of a camera, and it took him about 10 years to fully get into the right adaptation groove to feel that he had properly learned &#8220;how not to make a film from a play that smelled like the theater.&#8221; Dangerous Liaisons was the first script where he &#8220;felt like I kind of knew what I was doing,&#8221; he emphasized.
+
+And he shared: &#8220;The mistake that I made was to think that it was easier to write films.&#8221; After all, films come with a certain amount of liberty, but this liberty &#8220;imposes on you a number of constraints,&#8221; Hampton explained. &#8220;It has its own linguistic and imagistic rules.&#8221;
+
+The writer also shared this big-picture take on his work: &#8220;The thing about writing for film is it really is like going to the casino. You sit at the table, and you put your money on number 20, and the chances of the film being made the way you imagined it are so tiny that when it does happen, it's incredibly, incredibly fulfilling and gives you an enormous amount of pleasure. But most of the time, the croupier just takes the chips away, and that's it.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Hampton even shared that he has written scripts for films that he just can't get made. &#8220;I wrote a film quite recently, three or four years ago, about [Dmitri] Shostakovich and about his struggles as a composer in the Soviet Union,&#8221; he shared. &#8220;And I haven't been able to get it made because people don't want to engage with or want to make a film about Russia, set in Russia, dealing with Russians.&#8221; Concluded Hampton: &#8220;I find that paradoxical because, of course, it's just the time when it would be interesting to see a film about a man who struggled his whole life with the political system and somehow found ways to circumvent all the roadblocks that were put in his way.&#8221;
+
+The writer returned to the topic of AI during the Q&A portion of his masterclass. &#8220;To go back to the beginning of the discussion, AI, I suppose everything is nudging you to always be formulaic, and of course that's what makes the studios in Hollywood happy,&#8221; Hampton argued. &#8220;They just want to tell the same stories they told last year, and I can tell you a small story about this.&#8221;
+
+He mentioned Imagining Argentina , his 2003 historical drama starring Antonio Banderas and Emma Thompson, about political disappearances during the 1976-1983 military dictatorship in Argentina. For a preview screening, &#8220;a young audience came to see the film, and it actually went pretty well, but I'd been having trouble with the studio,&#8221; he recalled. &#8220;I'd been fighting with the producers for months, so there was a hostile atmosphere between them and me. And there was one producer standing next to me at the back, listening to the audience discussion. When the moderator asked for one word to describe the film, one audience member said &#8220;original,&#8221; Hampton recalled. &#8220;And the executive standing next to me put his face in his hands and groaned, because there's nothing more difficult for them than something that's original.&#8221;
+
+But the veteran writer had even harsher things to say about the state of television. &#8220;I wrote a lot of television for the BBC in the '70s, and it was a very good start,&#8221; Hampton said. &#8220;And they did a lot of television plays and films in those days &#x2013; two or three a week. The paradox is that in those days there were three or four television channels in England, and you could watch twice as many television plays in a month in England as you can in a year now with 500 channels, because people don't tend to make those feature-length television films. The last one I did was in 2013 with Vanessa Redgrave and Olivia Colman.&#8221; He added: &#8220;Budgets for television are so constrained, and the rules are much more prescriptive. The last thing I did [for TV] was a series called The Singapore Grip [for ITV] about the fall of Singapore during the Second World War. It was a six-part series, it took me such a long time, and there were so many notes to negotiate from the people making [it].&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Concluded Hampton: &#8220;I just thought television really wasn't worth it anymore. Whereas it used to be, when I was young, the freest possible environment to work in, now it is the most constricted and prescriptive and unimaginative. It seems to me. And also, it's a brutal, brutal medium. It just eats material and swallows it. Obviously, it provides an enormous amount of work for writers, and to that extent, it's a good thing. But I don't really understand why the freedoms that we used to have when I was young and was very lucky to have no longer exist.&#8221;
+
+============================================================
+[2] The Nielsen Tide: How SEC Teams Dominate College Football Viewership
+Source: Variety | Status: expanded | Words: 927
+Published: 2026-11-16T16:26:21+00:00
+URL: https://variety.com/2026/tv/news/sec-college-football-dominate-tv-viewership-abc-espn-1236948921
+------------------------------------------------------------
+SUMMARY:
+Two years ago, college football's mighty Southeastern Conference moved its primary TV contract from CBS to ABC and ESPN. The conference was in search of more national TV coverage of the regular season games played on Saturdays by its 16 teams that include some of the most dominant squads in all of college gridiron: including […]
+
+CONTENT / EXTRACTED DETAILS:
+Two years ago, college football &#8216;s mighty Southeastern Conference moved its primary TV contract from CBS to ABC and ESPN .
+
+The conference was in search of more national TV coverage of the regular season games played on Saturdays by its 16 teams that include some of the most dominant squads in all of college gridiron: including the University of Alabama, University of Georgia, University of Texas, Louisiana State University, University of Mississippi (aka Ole Miss), Vanderbilt University and Auburn University. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Robert Pattinson to Receive 40th American Cinematheque Award 'Triplets of Belleville' Director Sylvain Chomet Fires Back at AI Accusations Over Dior Film Featuring Robert Pattinson's Voice: ‘Everything Was Drawn by Hand’ (EXCLUSIVE)
+
+Last year, the SEC logged its most-watched football season in history. This year, viewership is on track to meet or exceed last year's mark. And the importance of college football to driving the overall business of linear TV can't be overstated &#x2014; as evidenced by Fox Sports' recent investment in college games.
+
+The SEC and the teams it encompasses have been dominant forces in college football for nearly a century (the conference was formed in 1932). But the move to ABC/ESPN offered SEC teams significantly more TV windows for all of its teams, from 15 per season at CBS to 40 with ABC/ESPN. And little more than halfway through the 2026 college football season, the data makes it crystal clear that SEC teams are more powerful than ever when it comes to energizing fans and driving TV viewership.
+
+On Nov. 7, the showdown between Alabama and LSU delivered the most-watched game of the 2026 college football season to date with 8.9 million people tuning in for the game that aired in ABC/ESPN's lucrative afternoon window. The Crimson Tide topped LSU 31-13, much the delight of Alabama's passionate fans. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+"Our strategic partnership with Disney has been a great success for the SEC, maximizing the reach of our content across broadcast, cable and streaming platforms," said Matt Evans, the SEC's assistant commissioner for network relations. "It has more than doubled the number of football games available to fans on over-the-air television, from 15 under our previous contract with CBS to more than 35 each season on ABC, which has helped drive record-breaking viewership for the SEC."
+
+The SEC has had its own SEC Network channel distributed via ESPN since 2014. That channel has been a welcome vehicle to showcase the wide range of men's and women's sports played by SEC schools, from track and field, softball and volleyball to rowing, swimming and gymnastics. But the ratings delivered by every other sport combined doesn't come close to the audience commanded by football.
+
+In 2025, SEC teams accounted for 14 of college football's 25 most-watched teams, including eight of the top 10. Alabama ranked No. 1 by a comfortable margin with an average of 9 million across regular season and playoff games. Ohio State ranked No. 2 with 8.6 million, followed by SEC teams Georgia (8.3 million), LSU (8 million), Texas (7.7 million) and Ole Miss (6.5 million). This reinforces the SEC's motto "It just means more."
+
+Last season, SEC games overall averaged 5.1 million viewers per game, a gain of 4% over the 2024 season. SEC games drew larger audiences than its three biggest conference rivals: the Big 10 (by a 65% margin), the Atlantic Coast Conference (by 141%) and the Big 12 (269%), according to SEC research. For the 2025 season, SEC games drove some 1.1 billion live viewing hours, compared to 775 million for the Big 10, 486 million for ACC and 424 million for the Big 12.
+
+The SEC data is significant at a time when the College Football Playoff schedule is poised to expand significantly starting with the 2027-28 season in an effort to give more teams a chance to compete for postseason berths. There's no question that winning teams and teams that make playoff berths generate enthusiasm from schools and alumni, especially the devoted football boosters who deliver energy and big-money contributions to support schools and teams.
+
+The SEC's storied history and the track records of its schools give the conference teams a leg up in recruiting top high school players. But in the era when name, image and likeness rights for players has driven eye-popping numbers in collegiate sports, the SEC has an interest in demonstrating the muscle it teams flex on TV. After all, getting exposure on national TV is crucial for players who want to make the leap to the NFL or otherwise capitalize on their college fame after graduation. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+The SEC also emphasizes its rich tradition and the spectacle of games that can draw crowds as big as the NFL in some cases. After a few years of disruption and team shake-ups among other college conferences, the SEC is a bastion of stability. It also remains a regionally centered conference as all of its schools are in states that are contiguous, which means that fans can more easily travel to games.
+
+Among the other impressive stats delivered by SEC teams so far this season:
+
+(Pictured: The Nov. 7 Alabama-LSU game ranks as the most-watched college football game of the 2026 season so far)
+
+============================================================
+[3] There’s A New Harry Potter TV Clip, And Now I’m Even More Excited For John Lithgow As Dumbledore
+Source: CinemaBlend | Status: expanded | Words: 251
+Published: 2026-11-16T16:23:25+00:00
+URL: https://www.cinemablend.com/television/new-harry-potter-clip-more-excited-john-lithgow-dumbledore
+------------------------------------------------------------
+SUMMARY:
+Dumbledore! Dumbledore! Dumbledore!
+
+CONTENT / EXTRACTED DETAILS:
+"Dumbledore! Dumbledore! Dumbledore!" Is how the new clip to HBO's Harry Potter TV show opens, and you know what? I get it. I've been curious about how John Lithgow would tackle the iconic role, and this latest clip gives me even more confidence that he's a great choice for the role. The debut for this new book to screen adaptation of the Harry Potter series is right around the corner. And while subscribers of HBO and those with an HBO Max subscription still have weeks to wait, the premium cable channel gave us a scene from the series.
+
+The clip opens with the newly sorted first years seated with the rest of their houses and chanting for Dumbledore. Once they're tucking into their feast, Dumbledore and Professor McGonagall have a chat about Harry being sorted into Gryffindor. "The cat that got the cream" is a clever idiom from the headmaster, when taking into account McGonagall's animagus abilities. For such a brief conversation, it really tells us a lot about the headmaster. He's playful and thoughtful all at once.
+
+When Minerva comments on how much Harry looks like his father, Dumbledore's response is:
+
+I love that Dumbledore isn't quick to assume Harry is everything like his father. McGonagall's tone is affectionate of course, but still softly suggests some expectation from the 11-year-old that Dumbledore seems quick to gently shut down. There are so many sides to Albus Dumbledore, and I love how this clip shows Lithgow grasping more than one of them.
+
+============================================================
+[4] 2PM Sharp Names Michelle Schwartz &#038; Rob Greenwald As Partners
 Source: Deadline | Status: expanded | Words: 812
 Published: 2026-11-16T16:22:11+00:00
 URL: https://deadline.com/2026/11/2pm-michelle-schwartz-rob-greenwald-1237225261
@@ -25,7 +123,7 @@ Greenwald represents award winning comedians, actors, writers, directors, podcas
 2PM Sharp was founded in 2024 by Lindsay Galin and Jeff Raymond.
 
 ============================================================
-[2] Big Shonen Jump Hit Confirms It Will End After 6 Years With Next Release
+[5] Big Shonen Jump Hit Confirms It Will End After 6 Years With Next Release
 Source: ComicBook.com | Status: expanded | Words: 520
 Published: 2026-11-16T16:19:10+00:00
 URL: https://comicbook.com/anime/news/big-shonen-jump-hit-confirms-it-will-end-after-6-years-with-next-release
@@ -49,7 +147,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Festival In Focus: Marrakech’s Atlas Workshops Nurtures Bespoke Approach As Project Incubator Goes From Strength-To-Strength
+[6] Festival In Focus: Marrakech’s Atlas Workshops Nurtures Bespoke Approach As Project Incubator Goes From Strength-To-Strength
 Source: Deadline | Status: expanded | Words: 1377
 Published: 2026-11-16T16:13:35+00:00
 URL: https://deadline.com/2026/11/festival-focus-marrakech-atlas-workshops-bespoke-approach-1237225243
@@ -77,7 +175,7 @@ Amid the growth, Zardi is determined to keep the workshop activities boutique an
 "I think of the reasons the workshops work is because we try to avoid too many generalized, theoretical panels to focus more on one-on-ones or small group meetings,&#8221; says Zardi. The 11 mentors this year will include director Cl&#xE9;mentine Dusajembo, John Trengove and actors Nisrin Erradi, Majd Mastoura and Lyna Khoudri, while experts and consultants include editor Nadia Ben Rachid, colorist Micheal Derrosett and sound editor Rana Eid. "We are pushing more and more towards this way of working. A number of directors with films in the festival program will be coming to meet with the projects," explains Zardi. "So, we'll have a director and an actor, a director and a cinematographer, or two directors in conversation with one another. And a new step we've taken this year is organizing preparatory sessions with all the consultants, briefing them on the material that has been sent in." The actors, for example, will be working with the directors on questions around the dynamics of a character's personality. "I feel it's more valuable, within the broader industry dynamic, where one-on-ones are often geared toward future project financing to place a strong emphasis on making these interactions concrete, hands-on working sessions."
 
 ============================================================
-[4] Fans Have BIG Reactions To Robert Pattinson Becoming The New Bond (And Pass The Popcorn)
+[7] Fans Have BIG Reactions To Robert Pattinson Becoming The New Bond (And Pass The Popcorn)
 Source: CinemaBlend | Status: expanded | Words: 358
 Published: 2026-11-16T16:10:11+00:00
 URL: https://www.cinemablend.com/movies/fans-have-big-reactions-robert-pattinson-becoming-new-bond-007
@@ -97,13 +195,13 @@ Given how strongly cinephiles feel about the James Bond franchise, there are als
 Clearly the fandom is not in agreement about whether or not Pattinson was the right choice to play 007. There are plenty of folks who are not happy about this choice, and who would prefer to see Henry Cavill as James Bond. The Man of Steel actor has expressed interest in the role for a while now, and even auditioned back when Craig was hired. We'll just have to wait and see if the Mickey 17 actor wins over his naysayers.
 
 ============================================================
-[5] Dolly Parton Earns Three Posthumous Grammy Nominations
+[8] Dolly Parton Earns Three Posthumous Grammy Nominations
 Source: Deadline | Status: expanded | Words: 529
 Published: 2026-11-16T16:07:49+00:00
 URL: https://deadline.com/2026/11/dolly-parton-grammy-nominations-2027-posthumous-1237225229
 ------------------------------------------------------------
 SUMMARY:
-Nearly three months after her death, Dolly Parton has been honored by the Recording Academy. Parton received three posthumous 2027 Grammy nominations Monday, including two in the same category for best country duo/group performance, one for her son "Butterfly" with the Zac Brown band, and the other for her song “Light of a Clear Blue […]
+Nearly three months after her death, Dolly Parton has been honored by the Recording Academy. Parton received three posthumous 2027 Grammy nominations Monday, including two in the same category for best country duo/group performance, one for her song "Butterfly" with the Zac Brown band, and the other for her song “Light of a Clear Blue […]
 
 CONTENT / EXTRACTED DETAILS:
 Nearly three months after her death, Dolly Parton has been honored by the Recording Academy.
@@ -131,7 +229,7 @@ Recording Academy CEO Harvey Mason Jr. issued a statement on behalf of the Acade
 "Through her unwavering dedication to philanthropy, she gave back to her community and to the world with the same heart that defined her music. On behalf of the Recording Academy, our thoughts are with Dolly's family, friends and the countless fans whose lives she touched. Her legacy &#x2013; one of talent, kindness and resilience &#x2013; will endure for generations to come."
 
 ============================================================
-[6] Tribeca Festival Lisboa Unveils 2026 Lineup Featuring Sundance Winners 'Josephine' and 'The Incomer'
+[9] Tribeca Festival Lisboa Unveils 2026 Lineup Featuring Sundance Winners 'Josephine' and 'The Incomer'
 Source: Variety | Status: expanded | Words: 675
 Published: 2026-11-16T16:00:00+00:00
 URL: https://variety.com/2026/film/news/tribeca-festival-lisboa-2026-lineup-josephine-the-incomer-1236948954
@@ -163,7 +261,7 @@ Now in its third year, Tribeca Festival Lisboa serves as an international extens
 The festival will take place at Cinema S&#xE3;o Jorge, Teatro Tivoli BBVA and Capit&#xF3;lio. It is co-organized by Tribeca Enterprises, Impresa and Lisboa Cultura, with support from the Lisbon City Council and several corporate and tourism partners.
 
 ============================================================
-[7] Alex Baskin’s 32 Flavors Strikes Overall Deal With Hi Mom Productions
+[10] Alex Baskin’s 32 Flavors Strikes Overall Deal With Hi Mom Productions
 Source: Deadline | Status: expanded | Words: 426
 Published: 2026-11-16T16:00:00+00:00
 URL: https://deadline.com/2026/11/alex-baskin-32-flavors-overall-deal-hi-mom-productions-1237224567
@@ -185,7 +283,7 @@ Hi Mom, which also has a first-look deal with Hulu, will develop and produce non
 "We couldn't be more excited to partner with Alex and the incredible team at 32 Flavors. Alex has built an extraordinary company with a track record of creating some of the most compelling and talked-about shows on television. At Hi Mom, we've always believed in taking big creative swings, finding unforgettable characters, and telling stories in bold, unexpected ways that get people talking. We feel incredibly aligned with Alex in that vision, and we can't wait to see what we build together," added Hi Mom's Andrea Metz and Michelle Peerali.
 
 ============================================================
-[8] Bob Odenkirk, Alec Baldwin, Isla Fisher to Headline Tribeca Festival’s 2026 Portugal Edition
+[11] Bob Odenkirk, Alec Baldwin, Isla Fisher to Headline Tribeca Festival’s 2026 Portugal Edition
 Source: The Hollywood Reporter | Status: expanded | Words: 741
 Published: 2026-11-16T16:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/bob-odenkirk-alec-baldwin-tribeca-festival-portugal-edition-1236755048
@@ -219,13 +317,13 @@ Tribeca Festival, founded in 2003 by Robert De Niro , Jane Rosenthal and Craig H
 "Tribeca Festival Lisboa is an important part of how we're extending Tribeca's reach and connecting with audiences around the world," Rebecca Glashow, CEO of Tribeca Enterprises, said in a statement. "This partnership reflects our broader vision of bringing artists, audiences, and creative communities together in new ways, while remaining rooted in Lisbon's own creative community. We're excited to continue growing Tribeca Festival Lisboa with our partners at Impresa and the City of Lisbon."
 
 ============================================================
-[9] Casting James Bond Was Easy. Finding the Perfect Villain Is Hard
+[12] Casting James Bond Was Easy. Finding the Perfect Villain Is Hard
 Source: The Hollywood Reporter | Status: expanded | Words: 1410
 Published: 2026-11-16T16:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/casting-james-bond-villain-hard-1236752409
 ------------------------------------------------------------
 SUMMARY:
-We now know Robert Pattinson will wear the tuxedo. But the trickier job will be finding the right fit for the Nehru jacket.
+Sure, we now know Robert Pattinson will wear the tuxedo. But the trickier job will be finding the right fit for the Nehru jacket.
 
 CONTENT / EXTRACTED DETAILS:
 Goldfinger got sucked out of an airplane window. Dr. No was boiled to death in a radioactive reactor chamber. And Kananga? He got force-fed a compressed-gas bullet and blew up like a human Hindenburg.
@@ -259,7 +357,7 @@ Most important of all, though, he'll need an actor who knows how to make a drama
 This story appeared in the Nov. 12 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[10] Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’
+[13] Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-16T15:58:43+00:00
 URL: https://variety.com/2026/tv/news/elon-musk-jeremy-culhane-snl-impression-1236948969
@@ -283,7 +381,7 @@ With impressions in two consecutive episodes, it seems Culhane's Musk could beco
 Before Culhane joined the series, Mike Myers debuted an impression of Musk in 2025. And Musk himself famously hosted &#8220;SNL&#8221; in 2021, playing Wario in a courtroom sketch, among other characters.
 
 ============================================================
-[11] 5 Actors Rumored for DCU Roles Before James Gunn Left, And Who We Think They Might Have Played
+[14] 5 Actors Rumored for DCU Roles Before James Gunn Left, And Who We Think They Might Have Played
 Source: ComicBook.com | Status: expanded | Words: 970
 Published: 2026-11-16T15:54:00+00:00
 URL: https://comicbook.com/movies/list/5-actors-rumored-for-dcu-roles-before-james-gunn-left-and-who-we-think-they-might-have-played
@@ -321,7 +419,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] The Simpsons Pays Tribute to the Late Eric Bauza in Episode Featuring His Debut As Two New Characters
+[15] The Simpsons Pays Tribute to the Late Eric Bauza in Episode Featuring His Debut As Two New Characters
 Source: ComicBook.com | Status: expanded | Words: 526
 Published: 2026-11-16T15:51:48+00:00
 URL: https://comicbook.com/tv-shows/news/the-simpsons-pays-tribute-to-the-late-eric-bauza-in-episode-featuring-his-debut-as-two-new-characters
@@ -347,7 +445,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Beyoncé Becomes First Artist to Receive 100 Grammy Nominations
+[16] Beyoncé Becomes First Artist to Receive 100 Grammy Nominations
 Source: The Hollywood Reporter | Status: expanded | Words: 353
 Published: 2026-11-16T15:49:43+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/beyonce-grammys-history-100-nominations-1236756177
@@ -371,7 +469,7 @@ For the 2027 Grammys , female acts make up the leading nominees with Raye toppin
 The 2027 Grammys will air on ABC, marking the first time in more than 50 years that the music awards show hasn't aired on its longtime home of CBS. The ceremony will premiere live across ABC, Disney+ and Hulu from Crypto.com Arena in Los Angeles on Sunday, Feb. 7, 2027, at 7 p.m. ET / 4 p.m. PT.
 
 ============================================================
-[14] Black Clover Season 2 Next Episode First Look Kicks Off Final Dark Triad Fight
+[17] Black Clover Season 2 Next Episode First Look Kicks Off Final Dark Triad Fight
 Source: ComicBook.com | Status: expanded | Words: 492
 Published: 2026-11-16T15:47:08+00:00
 URL: https://comicbook.com/anime/news/black-clover-season-2-next-episode-first-look-kicks-off-final-dark-triad-fight
@@ -395,7 +493,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] John Summit Calls Out the Grammys After Receiving No Nominations: 'There's Zero Respect for Real Electronic Dance Music'
+[18] John Summit Calls Out the Grammys After Receiving No Nominations: 'There's Zero Respect for Real Electronic Dance Music'
 Source: Variety | Status: expanded | Words: 312
 Published: 2026-11-16T15:46:31+00:00
 URL: https://variety.com/2026/music/news/john-summit-calls-out-grammys-after-no-nominations-1236949004
@@ -415,7 +513,7 @@ Among the nominees in the best dance/electronic recording category were Fred Aga
 Summit most recently released his sophomore album &#8220;Ctrl Escape&#8221; this past April. The musician has been on a steady run of shows this year as part of his &#8220;Ctrl Escape&#8221; tour, which is currently making its way around North America before concluding with his biggest headlining show to date at the Los Angeles Memorial Coliseum on December 12. That show earned the fastest concert sell-out in the venue's history.
 
 ============================================================
-[16] Black Cat Has Found Her New Favorite Treasure, and It's About to Lead to an X-Men Heist
+[19] Black Cat Has Found Her New Favorite Treasure, and It's About to Lead to an X-Men Heist
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-16T15:46:00+00:00
 URL: https://comicbook.com/comics/feature/black-cat-has-found-her-new-favorite-treasure-and-its-about-to-lead-to-an-x-men-heist
@@ -445,7 +543,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Trump Rages That ‘60 Minutes’ Current Leadership Is 'Even Worse Than Their Predecessors,' Claims Newsmagazine's Iran Whistleblower Report Lacked Context
+[20] Trump Rages That ‘60 Minutes’ Current Leadership Is 'Even Worse Than Their Predecessors,' Claims Newsmagazine's Iran Whistleblower Report Lacked Context
 Source: Variety | Status: expanded | Words: 536
 Published: 2026-11-16T15:44:49+00:00
 URL: https://variety.com/2026/tv/news/trump-slams-60-minutes-leadership-worse-than-their-predecessors-iran-report-1236948982
@@ -471,7 +569,7 @@ Trump concluded, &#8220;CENTCOM defensive measures have been historically effect
 Variety has reached out to CBS News for comment.
 
 ============================================================
-[18] Johnny Depp's Jack Sparrow Panicked Disney Execs: "Is He Gay?" "Is He Incredibly Drunk?"
+[21] Johnny Depp's Jack Sparrow Panicked Disney Execs: "Is He Gay?" "Is He Incredibly Drunk?"
 Source: The Hollywood Reporter | Status: expanded | Words: 2595
 Published: 2026-11-16T15:44:01+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/johnny-depp-jack-sparrow-panicked-disney-execs-pirates-1236756163
@@ -595,7 +693,7 @@ Depp was asking Disney to trust him with a $140 million bet on a vision that cam
 *** Excerpted from THE MANY FACES OF JOHNNY DEPP by Mark Seal. Reprinted by permission of Gallery Books , an imprint of Simon & Schuster, LLC.
 
 ============================================================
-[19] IVE, BINI, KiiiKiii, SB19, LiSA and Babymetal Score Grammy Nominations in New Asian Pop Category
+[22] IVE, BINI, KiiiKiii, SB19, LiSA and Babymetal Score Grammy Nominations in New Asian Pop Category
 Source: The Hollywood Reporter | Status: expanded | Words: 462
 Published: 2026-11-16T15:40:22+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/grammys-2027-asian-pop-performance-nominations-1236754517
@@ -621,7 +719,7 @@ Many groups nominated have publicly spoken about wanting to further their countr
 See a full list of nominees below.
 
 ============================================================
-[20] Festival In Focus: Marrakech Navigates Turbulent World To Celebrate Established Cinema Artists &#038; Newcomers
+[23] Festival In Focus: Marrakech Navigates Turbulent World To Celebrate Established Cinema Artists &#038; Newcomers
 Source: Deadline | Status: expanded | Words: 1629
 Published: 2026-11-16T15:38:15+00:00
 URL: https://deadline.com/2026/11/marrkech-international-film-festival-artificial-the-debut-1237225003
@@ -711,7 +809,7 @@ Bonhomme reveals that a move to shift the festival dates forward by one week thi
 "We want to position the festival at the beginning of the Oscar campaign and to have all these films and names here as it kicks off," he says, noting these dates ties in nicely with the Gotham Awards in New York on November 30.
 
 ============================================================
-[21] At Cairo Film Festival, Arab Women Filmmakers Ask: ‘What Freedom Do We Have to Tell Our Own Stories?’
+[24] At Cairo Film Festival, Arab Women Filmmakers Ask: ‘What Freedom Do We Have to Tell Our Own Stories?’
 Source: Variety | Status: expanded | Words: 1145
 Published: 2026-11-16T15:32:55+00:00
 URL: https://variety.com/2026/film/global/arab-women-filmmakers-cairo-film-festival-2026-1236948919
@@ -771,7 +869,7 @@ For Abbas, the way forward also requires established filmmakers to help create o
 The challenge, the industry veterans agree, is not simply getting Arab women filmmakers into the mainstream, but ensuring they have the creative freedom, resources and industry support to remain there.
 
 ============================================================
-[22] Anti-Crypto Activist Ben McKenzie to Moderate ‘The Altruists’ Premiere Q&#038;A With Julia Garner, Anthony Boyle, Graham Moore (EXCLUSIVE)
+[25] Anti-Crypto Activist Ben McKenzie to Moderate ‘The Altruists’ Premiere Q&#038;A With Julia Garner, Anthony Boyle, Graham Moore (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 451
 Published: 2026-11-16T15:30:00+00:00
 URL: https://variety.com/2026/tv/news/ben-mckenzie-the-altruists-julia-garner-anthony-boyle-1236947738
@@ -793,7 +891,7 @@ At his peak, Bankman-Fried was the 41st-richest American on the Forbes 400 list.
 The eight-episode series was created by Graham Moore and inspired by the New York Magazine articles written by Kevin T. Dugan and Jen Wieczner. Executive producers include Moore, Jacqueline Hoyt, Barack and Michelle Obama, Jessie Dicovitsky and Vinnie Malhotra for Higher Ground Productions, Scoop Wasserstein for New York Magazine/Vox Media Studios, Garner, Tonia Davis, James Ponsoldt and Lauren Morelli.
 
 ============================================================
-[23] The New James Bond Is Finally Confirmed, And I’m Shocked
+[26] The New James Bond Is Finally Confirmed, And I’m Shocked
 Source: CinemaBlend | Status: expanded | Words: 1151
 Published: 2026-11-16T15:20:31+00:00
 URL: https://www.cinemablend.com/movies/new-james-bond-finally-confirmed-im-shocked-robert-pattinson
@@ -839,7 +937,7 @@ Movies The Plot Thickens, As 007’s Writer Gets Asked About Casting James Bond 
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[24] First Look at Robert Pattinson as James Bond Revealed, And It's Perfect
+[27] First Look at Robert Pattinson as James Bond Revealed, And It's Perfect
 Source: ComicBook.com | Status: expanded | Words: 151
 Published: 2026-11-16T15:19:56+00:00
 URL: https://comicbook.com/movies/news/first-look-at-robert-pattinson-as-james-bond-revealed-and-its-perfect
@@ -857,7 +955,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Robert Pattinson Officially Cast As James Bond For 'Bond 26,' Plus First Look As 007
+[28] Robert Pattinson Officially Cast As James Bond For 'Bond 26,' Plus First Look As 007
 Source: The Playlist | Status: summary_only | Words: 105
 Published: 2026-11-16T15:16:47+00:00
 URL: https://theplaylist.net/robert-pattinson-james-bond-bond-26-20261116
@@ -869,7 +967,7 @@ CONTENT / EXTRACTED DETAILS:
 It has been made official that Robert Pattinson has taken over the James Bond role from previous actor Daniel Craig ; that key announcement was made by Amazon MGM Studios today, and it ends YEARS of speculation and endless rumors about who would land the top gig for " Bond 26 " and would be working with director Denis Villeneuve . The British actor was revealed last weekend as one of five actors who landed screen tests alongside Callum Turner , Jack Lowden , Nicholas Hoult and Josh O'Connor . Continue reading Robert Pattinson Officially Cast As James Bond For 'Bond 26' at The Playlist.
 
 ============================================================
-[26] Dragon Ball Super Remake Wraps Battle of Gods Arc With Epic Finale Fight
+[29] Dragon Ball Super Remake Wraps Battle of Gods Arc With Epic Finale Fight
 Source: ComicBook.com | Status: expanded | Words: 555
 Published: 2026-11-16T15:13:34+00:00
 URL: https://comicbook.com/anime/news/dragon-ball-super-remake-wraps-battle-of-gods-arc-with-epic-finale-fight
@@ -899,7 +997,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] We’ve Heard From Amanda Seyfried, But What About You Can See Everything’s Other Surprise Cameo Star?
+[30] We’ve Heard From Amanda Seyfried, But What About You Can See Everything’s Other Surprise Cameo Star?
 Source: CinemaBlend | Status: expanded | Words: 265
 Published: 2026-11-16T15:09:03+00:00
 URL: https://www.cinemablend.com/movies/heard-from-amanda-seyfried-what-about-you-can-see-everything-other-surprise-cameo-star-christopher-abbott
@@ -917,7 +1015,7 @@ Abbott also revealed that because it was so quick, he didn’t have a lot of tim
 I think part of what makes it work so well in the box office hit is that we, as an audience, like Abbott, weren’t really familiar with Evans. By the time Abbott appears, we know as much about Evans as he did when he took the role. He’s playing the same villainous character we’ve seen over the previous two hours of the movie, and it works really well.
 
 ============================================================
-[28] Donald Trump Rages At ‘60 Minutes' Report On Lack Of U.S. Preparedness For Iran's Drone Counterattacks
+[31] Donald Trump Rages At ‘60 Minutes' Report On Lack Of U.S. Preparedness For Iran's Drone Counterattacks
 Source: Deadline | Status: expanded | Words: 608
 Published: 2026-11-16T15:08:31+00:00
 URL: https://deadline.com/2026/11/trump-60-minutes-iran-war-1237225115
@@ -945,7 +1043,7 @@ The show underwent a shakeup in May, replacing its executive producer with Nick 
 Trump sued 60 Minutes in 2024 after it aired an interview with his rival in the presidential election, Kamala Harris. The lawsuit, over the way that Harris' interview was edited, was widely seen by legal experts as baseless, but the network, seeking the Trump administration approval for its sale to Skydance, settled the litigation.
 
 ============================================================
-[29] Jesús López, Legendary Latin Music Executive, to Become a Chairman Emeritus at Universal Music Group
+[32] Jesús López, Legendary Latin Music Executive, to Become a Chairman Emeritus at Universal Music Group
 Source: Variety | Status: expanded | Words: 757
 Published: 2026-11-16T15:08:23+00:00
 URL: https://variety.com/2026/music/news/jesus-lopez-chairman-emeritus-universal-music-group-1236948939
@@ -979,7 +1077,7 @@ In recognition of his contribution to music and culture, L&#xF3;pez received Spa
 On November 6, 2026, the Spanish Academy of Music honored him with the title of Honorary Academician, alongside artists with long, successful careers such as Raphael, Ana Bel&#xE9;n, Maria del Mar Bonet, and Carmen Linares, among other prominent figures in Spanish music.
 
 ============================================================
-[30] Union County Does Something I Wish More Films Did With Its Cast
+[33] Union County Does Something I Wish More Films Did With Its Cast
 Source: CinemaBlend | Status: expanded | Words: 253
 Published: 2026-11-16T15:05:00+00:00
 URL: https://www.cinemablend.com/movies/union-county-does-something-wish-more-films-did-with-cast-will-poulter
@@ -997,7 +1095,7 @@ I love hearing filmmakers, actors, and creatives speak about their work. You get
 Union County digs into the many aspects of addiction, including mental health. It’s another very honest movie about the mental struggles of addiction. Effectively showcasing things like the mental health struggles of addiction likely comes from consulting those with addiction while creating this film.
 
 ============================================================
-[31] 'Survivor' Season 52 Premiere Date Set at CBS in Midseason Slate
+[34] 'Survivor' Season 52 Premiere Date Set at CBS in Midseason Slate
 Source: Variety | Status: expanded | Words: 114
 Published: 2026-11-16T15:03:31+00:00
 URL: https://variety.com/2026/tv/news/survivor-season-52-premiere-date-cbs-1236948922
@@ -1015,7 +1113,7 @@ View CBS' full midseason schedule below. Related Stories Glenn Close Says Her 'C
 Sunday, Jan. 10 blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[32] 'Cupertino' Moving, 'Ghosts' Doubling Up on CBS' Midseason Schedule
+[35] 'Cupertino' Moving, 'Ghosts' Doubling Up on CBS' Midseason Schedule
 Source: The Hollywood Reporter | Status: expanded | Words: 552
 Published: 2026-11-16T15:02:33+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/cbs-midseason-2027-tv-premiere-dates-1236756166
@@ -1057,7 +1155,7 @@ Friday, Feb. 12 8 p.m.: Einstein 9 p.m.: Sheriff Country (new time)
 Wednesday, Feb. 24 8 p.m.: Survivor 10 p.m.: Undercover Boss
 
 ============================================================
-[33] James Bond 26 Casts Robert Pattinson For 007
+[36] James Bond 26 Casts Robert Pattinson For 007
 Source: ComicBook.com | Status: expanded | Words: 127
 Published: 2026-11-16T15:01:34+00:00
 URL: https://comicbook.com/movies/news/james-bond-26-casts-robert-pattinson-for-007
@@ -1075,7 +1173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Robert Pattinson Is Officially James Bond: Meet the New 007 Actor
+[37] Robert Pattinson Is Officially James Bond: Meet the New 007 Actor
 Source: Variety | Status: expanded | Words: 636
 Published: 2026-11-16T15:01:07+00:00
 URL: https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655
@@ -1099,7 +1197,7 @@ Pattinson also has the big IP experience needed to lead a franchise like James B
 Amazon MGM named Villeneuve , the filmmaker behind &#8220;Sicario,&#8221; "Arrival" and &#8220;Prisoners,&#8221; as the franchise's next director in June 2025. He said at the time that he is a &#8220;die-hard Bond fan,&#8221; and that he plans to &#8220;open the path for many new missions to come.&#8221;
 
 ============================================================
-[35] New James Bond Found As Amazon MGM Studios Taps Robert Pattinson To Play Next 007
+[38] New James Bond Found As Amazon MGM Studios Taps Robert Pattinson To Play Next 007
 Source: Deadline | Status: expanded | Words: 341
 Published: 2026-11-16T15:01:04+00:00
 URL: https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184
@@ -1117,7 +1215,7 @@ The final tests were originally planned for earlier in October, but due to sched
 Once those were finished, producers and execs took their time with making a decision, ultimately landing on Pattinson for the role. With the process of finding Bond now behind them, producers will now look to fill out the remaining cast members which include a new Bond Lady, the villain as well as the roles of M and Q.
 
 ============================================================
-[36] James Bond Found: Robert Pattinson to Play 007
+[39] James Bond Found: Robert Pattinson to Play 007
 Source: The Hollywood Reporter | Status: expanded | Words: 628
 Published: 2026-11-16T15:00:54+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/james-bond-found-robert-pattinson-1236751054
@@ -1147,7 +1245,7 @@ Pattinson becomes the eighth man to play Bond, starting with Sean Connery with 1
 This marks the first Bond movie made under the control of Amazon, which bought out the creative rights from the Broccoli family in February 2025.
 
 ============================================================
-[37] Apple Podcasts Are Coming to Apple TV App
+[40] Apple Podcasts Are Coming to Apple TV App
 Source: Variety | Status: expanded | Words: 468
 Published: 2026-11-16T15:00:03+00:00
 URL: https://variety.com/2026/tv/news/watch-apple-podcasts-video-apple-tv-app-1236948907
@@ -1173,7 +1271,7 @@ In the last three months, the number of shows publishing video on Apple Podcasts
 Alongside video podcast availability on macOS and tvOS devices this year, in Apple's CarPlay, updates in iOS 27.1 include a redesigned home screen featuring Apple Podcasts with &#8220;new episode&#8221; cards, a &#8220;continue playing&#8221; option and recommendations, plus a &#8220;new&#8221; tab that mirrors the experience on iOS.
 
 ============================================================
-[38] CBS Midseason Premiere Dates: 'Cupertino' Moves, 'Ghosts' &#038; 'Eternally Yours' Pair Up, 'Sheriff Country' &#038; 'FBI' Slide, 'Survivor' Gets Supersized (Again)
+[41] CBS Midseason Premiere Dates: 'Cupertino' Moves, 'Ghosts' &#038; 'Eternally Yours' Pair Up, 'Sheriff Country' &#038; 'FBI' Slide, 'Survivor' Gets Supersized (Again)
 Source: Deadline | Status: expanded | Words: 1134
 Published: 2026-11-16T15:00:00+00:00
 URL: https://deadline.com/2026/11/cbs-midseason-premiere-dates-ghosts-sheriff-country-survivor-1237223505
@@ -1235,7 +1333,7 @@ Friday, Feb. 12 8-9 PM: EINSTEIN (new series premiere) 9 &#8211; 10 PM: SHERIFF 
 Wednesday, Feb. 24 8-10 PM: SURVIVOR (season 52 premiere ) 10-11 PM: UNDERCOVER BOSS (reimagined season 12 premiere)
 
 ============================================================
-[39] Kevin Feige Says 'Avengers: Secret Wars' "Is A Whole Other Genre Of Story" Compared To 'Doomsday,' With Joe Russo Teasing "A Really Unique World"
+[42] Kevin Feige Says 'Avengers: Secret Wars' "Is A Whole Other Genre Of Story" Compared To 'Doomsday,' With Joe Russo Teasing "A Really Unique World"
 Source: The Playlist | Status: summary_only | Words: 139
 Published: 2026-11-16T14:59:11+00:00
 URL: https://theplaylist.net/kevin-feige-joe-russo-avengers-secret-wars-20261116
@@ -1247,7 +1345,7 @@ CONTENT / EXTRACTED DETAILS:
 How different can " Avengers: Secret Wars " be from next month's " Avengers: Doomsday "? Well, both Marvel Studios ' Kevin Feige and co-director Joe Russo are giving us some minor hints about where the sixth "Avengers" installment could be going and are promising that it won't be a run-of-the-mill follow-up. The folks over at Empire Magazine spoke with the two as they mused cryptically about their next massive event film, "Secret Wars," and Russo possibly telegraphing Battleworld (where heroes and villains from the comics are brought to battle each other for amusement) could be in the cards, something long suspected by fans of the comic book source material. Continue reading Kevin Feige Says 'Avengers: Secret Wars' "Is A Whole Other Genre Of Story" Compared To 'Doomsday,' With Joe Russo Teasing "A Really Unique World" at The Playlist.
 
 ============================================================
-[40] AI Push and Short-Form Dramas Grow at Chinese Video Streamer iQIYI as Revenue Drops 10% and Adjusted Operating Profit Returns
+[43] AI Push and Short-Form Dramas Grow at Chinese Video Streamer iQIYI as Revenue Drops 10% and Adjusted Operating Profit Returns
 Source: Variety | Status: expanded | Words: 849
 Published: 2026-11-16T14:56:29+00:00
 URL: https://variety.com/2026/tv/news/iqiyi-q3-2026-earnings-revenue-falls-profit-returns-1236948905
@@ -1285,7 +1383,7 @@ Overseas membership revenue grew nearly 30% year over year. On iQIYI Internation
 Gong said: &#8220;Our shift towards becoming a long-form video social media, with long-form video at the core and decentralization and AI as twin engines, is yielding encouraging initial results.&#8221;
 
 ============================================================
-[41] 'NCIS: New York' Sells Across 135 Markets Globally (EXCLUSIVE)
+[44] 'NCIS: New York' Sells Across 135 Markets Globally (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 409
 Published: 2026-11-16T14:55:02+00:00
 URL: https://variety.com/2026/tv/global/ncis-new-york-sells-globally-135-markets-1236948903
@@ -1311,7 +1409,7 @@ Variety &#8216;s reviewer Aramide Tinubu called the show &#8220;a well-oiled mac
 &#8220;With a beloved character in Sam and some brand-new faces entering the scene, the show is steady, intriguing and will likely go the distance,&#8221; she concluded.
 
 ============================================================
-[42] Apple TV Bulks Up With Video Podcasts
+[45] Apple TV Bulks Up With Video Podcasts
 Source: The Hollywood Reporter | Status: expanded | Words: 238
 Published: 2026-11-16T14:54:19+00:00
 URL: https://www.hollywoodreporter.com/business/digital/apple-bringing-video-podcasts-to-apple-tv-1236756175
@@ -1333,7 +1431,7 @@ It also gives Apple TV a significantly larger pool of video content, helping it 
 Apple, of course, is already a power player in the podcast space, now it is just using that muscle to help bolster other parts of its ecosystem.
 
 ============================================================
-[43] 'Ramayana: Rise of a Legend' Review: Indian Mythological Blockbuster Is an Eye-Popper, but Skip the English Edit
+[46] 'Ramayana: Rise of a Legend' Review: Indian Mythological Blockbuster Is an Eye-Popper, but Skip the English Edit
 Source: Variety | Status: expanded | Words: 1008
 Published: 2026-11-16T14:53:39+00:00
 URL: https://variety.com/2026/film/reviews/ramayana-rise-of-a-legend-review-1236948024
@@ -1359,7 +1457,7 @@ All of which is to say &#8220;Ramayana&#8221; hurtles through an entire act befo
 The script, while chock full of incident, isn't terribly lively; the characters are hollow vessels of virtue, or lack thereof, affording none of the actors much scope for charm or dynamism. Dialogue is not a strength of the film in any language, though the uncanny-valley lipsyncing in the English version rather exacerbates its lifelessness &#x2014; one more reason to seek out the longer edit. And yet, treated as a pageant rather than a drama, &#8220;Ramayana&#8221; has undeniable heft and splendor; even when its craft contributions verge on the lurid or the ersatz, the more-is-more excess of it bludgeons you into a manner of awe. It's a brawny reminder that blockbuster assembly is a fully global industry these days; Tiwari may borrow a lot from Hollywood, but it's not hard to see Hollywood borrowing some back.
 
 ============================================================
-[44] Grammys: Michael J. Fox, Tim Curry, 'Wicked: For Good,' 'The Pitt' Among Hollywood Nominees
+[47] Grammys: Michael J. Fox, Tim Curry, 'Wicked: For Good,' 'The Pitt' Among Hollywood Nominees
 Source: The Hollywood Reporter | Status: expanded | Words: 623
 Published: 2026-11-16T14:51:15+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/michael-j-fox-tim-curry-celeb-grammy-nominations-2027-1236755091
@@ -1387,7 +1485,7 @@ Grammys CEO Harvey Mason Jr. and Recording Academy Board of Trustees chair Dr. C
 The 2027 Grammy Awards will air live from Crypto.com Arena in Los Angeles on Feb. 7, 2027, and simulcast across ABC, Disney+ and Hulu. A host has not yet been announced. This year's Grammy eligibility period is Aug. 31, 2025-Aug. 28, 2026.
 
 ============================================================
-[45] Sarah Sherman Had To Cover For Bowen Yang During Dress On SNL, And The Picture Is Hilarious
+[48] Sarah Sherman Had To Cover For Bowen Yang During Dress On SNL, And The Picture Is Hilarious
 Source: CinemaBlend | Status: expanded | Words: 273
 Published: 2026-11-16T14:49:47+00:00
 URL: https://www.cinemablend.com/television/sarah-sherman-bowen-yang-snl-picture-jensen-huang
@@ -1403,7 +1501,7 @@ It’s unclear exactly when the details of Yang’s appearance came together, bu
 He clearly didn’t either, as he was a standout during the live show in both the cold open and as Mary Todd Lincoln Tunnel in the musical number. Saidah Belo-Osagie reportedly played the second part very capably during the dress rehearsal, but that was never going to work for the live show. She had another role in the sketch, and also, Mary Todd Lincoln Tunnel was clearly written for Yang, as he’s currently playing Mary Todd Lincoln in the aforementioned show. He probably would have been personally offended if he wasn’t asked and tuned into SNL to see someone else doing an outrageous take on the part he’s currently playing on Broadway.
 
 ============================================================
-[46] Charlize Theron & Florence Pugh Stunned In Red & Pink, But Zendaya’s ‘Tree Trunk’ Dress Was Divisive
+[49] Charlize Theron & Florence Pugh Stunned In Red & Pink, But Zendaya’s ‘Tree Trunk’ Dress Was Divisive
 Source: CinemaBlend | Status: expanded | Words: 435
 Published: 2026-11-16T14:44:55+00:00
 URL: https://www.cinemablend.com/movies/charlize-theron-florence-pugh-stunned-red-pink-zendayas-divisive-dress-fashion
@@ -1429,7 +1527,7 @@ Some of the comments about the dress itself noted it was a rare miss in her long
 Zendaya takes so many fashion risks. She’s done the whole tennis method dressing thing . She once wore a C-3PO armored look and that was seemingly less divisive than this brown dress. I like that she tried something weird with these little side panniers. Despite it being vintage, I’ve certainly not seen much like it on the red carpet, and if this is her kicking off the Dune press tour, it’s certainly a memorable way to begin.
 
 ============================================================
-[47] ‘14th’ Trailer: Ava DuVernay Sounds The Alarm On America’s Unfinished Constitutional Crisis
+[50] ‘14th’ Trailer: Ava DuVernay Sounds The Alarm On America’s Unfinished Constitutional Crisis
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-16T14:41:21+00:00
 URL: https://theplaylist.net/ava-duvernay-14th-trailer-netflix-constitutional-crisis-20261116
@@ -1439,100 +1537,4 @@ Ten years after examining the legacy of slavery and mass incarceration in “ 13
 
 CONTENT / EXTRACTED DETAILS:
 Ten years after examining the legacy of slavery and mass incarceration in “ 13th ,” Ava DuVernay returns with “ 14th ,” an urgent companion documentary about the constitutional amendment that helped redefine American citizenship after the Civil War—and the forces that have spent more than 150 years trying to undermine its promises. Netflix has unveiled the trailer for the film, which examines how America’s unresolved battles over equality, civil rights, and democracy have become increasingly explosive in the present. Continue reading ‘14th’ Trailer: Ava DuVernay Sounds The Alarm On America’s Unfinished Constitutional Crisis at The Playlist.
-
-============================================================
-[48] Dolly Parton Lands Three Posthumous Grammy Nominations
-Source: The Hollywood Reporter | Status: expanded | Words: 349
-Published: 2026-11-16T14:38:39+00:00
-URL: https://www.hollywoodreporter.com/music/music-news/dolly-parton-posthumous-grammy-nominations-1236755782
-------------------------------------------------------------
-SUMMARY:
-With the reveal of the 2027 Grammy nominations on Monday, Parton now has 58 total noms.
-
-CONTENT / EXTRACTED DETAILS:
-Dolly Parton has been posthumously nominated for three Grammy Awards .
-
-The &#8220;Jolene&#8221; singer received two nods in the best country duo/group performance; the first stemming from her feature on Zac Brown's &#8220;Butterfly,&#8221; with the second hailing from her song &#8220;Light of a Clear Blue Morning&#8221; with Lainey Wilson, Miley Cyrus, Queen Latifah and Reba McEntire.
-
-Parton's third nomination is for best audiobook, narration and storytelling recording, tied to her 2025 memoir Star of the Show: My Life on Stage . Related Stories Music 2027 Grammy Nominations: Raye, Rosalía Lead a Women-Dominated General Field Music Grammy Nominations: Watch the Livestream
-
-With the reveal of the 2027 Grammy nominations on Monday, Parton now has 58 total noms. She has previously won 10 Grammys , and received the Recording Academy's Lifetime Achievement Award in 2011. Additionally, her songs &#8220;Jolene&#8221; and &#8220;I Will Always Love You&#8221; have been inducted into the Grammy Hall of Fame. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; });
-
-Parton died Aug. 25, after a "brief battle with cancer," a rep announced. She was 80. Her death led to an outpouring of tributes from the entertainment industry, from the likes of Miley Cyrus, Taylor Swift, Billy Ray Cyrus, Jane Fonda, Celine Dion and many more.
-
-Harvey Mason Jr., CEO of the Grammys and MusiCares, commended Parton in a statement shared with The Hollywood Reporter at the time of her death.
-
-"It's nearly impossible to fully capture the depth of what Dolly Parton means to the world. She was a 10-time Grammy winner, a recipient of the Recording Academy's Lifetime Achievement Award and the 2019 MusiCares Person of the Year honoree, but reducing her legacy to accolades doesn't do justice to what she truly represented: love, kindness and generosity on a scale that transcended music ," Mason Jr. wrote. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Parton was honored with a tribute at the 2025 Emmys led by McEntire and Sally Field.
-
-============================================================
-[49] Taylor Swift Scores Five Grammy Nominations, Including Album and Record of the Year Nods
-Source: The Hollywood Reporter | Status: expanded | Words: 816
-Published: 2026-11-16T14:30:36+00:00
-URL: https://www.hollywoodreporter.com/music/music-news/taylor-swift-grammy-nominations-2027-1236755878
-------------------------------------------------------------
-SUMMARY:
-Swift‘s 'The Life of a Showgirl' album and track for 'Toy Story 5' are among the nominations for the February 2027 show.
-
-CONTENT / EXTRACTED DETAILS:
-Taylor Swift is headed to the 2027 Grammy Awards as a five-time nominee.
-
-Swift received five nominations including record of the year for "The Fate of Ophelia" and album of the year for The Life of a Showgirl . The Life of a Showgirl title track, which Swift performs with Sabrina Carpenter, is up for best pop duo/group performance. Meanwhile, her Toy Story 5 composition "I Knew It, I Knew You" was nominated in the song of the year and best song written for visual media categories.
-
-During the livestream of the Grammy nominations, Swift made a surprise appearance to announce the last two categories, album and song of the year. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Music 2027 Grammy Nominations: Raye, Rosalía Lead a Women-Dominated General Field Music Grammy Nominations: Watch the Livestream
-
-Last year, the singer-songwriter went home empty-handed despite receiving six nominations, including album of the year and best pop vocal album for The Tortured Poets Department .
-
-Swift has already made Grammys history after winning the coveted the album of the year Grammy four times. Swift won album of the year for her albums Fearless in 2010 &#x2014; she surpassed Alanis Morissette as the category's youngest victor at 20 years old &#x2014; 1989 in 2015, folklore in 2021 and Midnights in 2024.
-
-Swift and Adele are the only women to have taken home an award in this category more than once, with Adele winning for albums 21 and 25 . Meanwhile, Frank Sinatra, Stevie Wonder and Paul Simon have also won the album of the year award three times.
-
-For Swift&#x2018;s The Life of a Showgirl , which was recorded in between show dates during the European leg of her record-breaking Eras tour, the superstar reteamed with producers Max Martin and Shellback, who worked with Swift on some of her biggest pop hits, including "Shake It Off," "Blank Space" and "I Knew You Were Trouble." She first revealed the project on Travis and Jason Kelce's New Heights podcast in August 2025. Just weeks after making the surprise announcement, Swift and Kelce revealed their engagement . The couple got married in July of this year. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Swift&#x2018;s "I Knew It, I Knew You" marked a return to Swift's country music roots with the singer-songwriter set to make her return to the CMA Awards stage after last performing there 13 years ago. The song, which has been considered a top contender for a song of the year Oscar nomination, is nominated for single of the year at the upcoming CMAs.
-
-For the 2027 Grammys , female acts make up the leading nominees with Raye topping the nominations with 11 followed by Rosal&#xED;a with nine; Ella Langley, Miranda Lambert, Olivia Rodrigo and Phoebe Bridgers with seven each; and Olivia Dean with six nods, tied with Bruno Mars and Leon Thomas.
-
-Dolly Parton was posthumously nominated for three Grammys. Hollywood names including Michael J. Fox and the late Tim Curry scored nominations for best audiobook, narration and storytelling recording for their memoirs Future Boy and Vagabond: A Memoir, respectively. Comedians Nikki Glaser, Trevor Noah, Wanda Sykes, Fred Armisen , Jeff Ross and Dave Chappelle received noms in the best comedy album category.
-
-The Grammys are also set to honor the best compilation soundtrack for visual media with nominees including The Devil Wears Prada 2 (various artists), Stranger Things Season 5 (various artists), Wicked: For Good (various artists), The Wizard of Oz at Sphere and Wuthering Heights (Charli XCX).
-
-Ludwig Goransson scored two noms for best score soundtrack for visual media, a category that honors the composer, for The Odyssey and Star Wars: The Mandalorian and Grogu. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-This year's eligibility period includes recordings released from Aug. 31, 2025, through Aug. 28, 2026. Final round voting, in which Recording Academy voting members choose the Grammy winners, will take place between Dec. 10, 2026 and Jan. 7, 2027.
-
-The 2027 Grammys will air on ABC, marking the first time in more than 50 years that the music awards show hasn't aired on its longtime home of CBS. The ceremony will premiere live across ABC, Disney+ and Hulu from Crypto.com Arena in Los Angeles on Sunday, Feb. 7, 2027, at 7 p.m. ET / 4 p.m. PT.
-
-The Telecast will be produced by Fulwell Entertainment for the Recording Academy, with Ben Winston, Raj Kapoor and Jesse Collins serving as executive producers.
-
-Swift was also recently announced as the recipient of The Hollywood Reporter &#x2018;s prestigious Sherry Lansing Leadership Award , which she'll accept at THR &#x2018;s 2026 Women in Entertainment gala.
-
-============================================================
-[50] ‘14th’ Trailer: Ava DuVernay Issues Warning About Threats To Critical Constitutional Amendment: “We Are All At Peril”
-Source: Deadline | Status: expanded | Words: 509
-Published: 2026-11-16T14:30:00+00:00
-URL: https://deadline.com/2026/11/14th-trailer-ava-duvernay-documentary-1237224975
-------------------------------------------------------------
-SUMMARY:
-Netflix has released a trailer for Ava DuVernay’s compelling and urgent documentary 14th, ahead of its November 27 theatrical release and December 4 debut on the streaming platform. Watch it above. The Oscar-contending film argues the 14th Amendment of the Constitution, passed in the wake of the Civil War, laid the groundwork for America’s multiracial […]
-
-CONTENT / EXTRACTED DETAILS:
-Netflix has released a trailer for Ava DuVernay 's compelling and urgent documentary 14 th , ahead of its November 27 theatrical release and December 4 debut on the streaming platform. Watch it above.
-
-The Oscar-contending film argues the 14 th Amendment of the Constitution, passed in the wake of the Civil War, laid the groundwork for America's multiracial democracy. It explores how the MAGA movement has made it a priority to dismantle the rights enumerated in that amendment.
-
-"We are all at peril," law professor Sherrilyn Ifill comments in the trailer. "If we don't think it's coming for us, we are so sadly mistaken." Former Georgia State Representative Stacey Abrams notes, "The whole of the 14 th is under assault. If the 14 th falls, then every other right that it guarantees is now in jeopardy." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-One of the amendment's five provisions mandates birthright citizenship &#x2013; meaning anyone born in the United States is considered a citizen. The Trump administration has attempted to circumvent that as part of its broader attack on immigration. In the trailer, Vice President JD Vance says, "The concept of birthright citizenship is an absurdity." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-In June, the U.S. Supreme Court struck down the president's executive order that declared children born in the U.S. to parents in the country unlawfully were not entitled to birthright citizenship. But the decision was by no means unanimous. Conservative Justices Clarence Thomas, Samuel Alito, and Neil Gorsuch dissented.
-
-14 th premiered at the New York Film Festival in October and screened this weekend at IDFA in Amsterdam, the world's biggest documentary festival. We spoke with DuVernay briefly before her IDFA Q&A Sunday night and she told us she hopes people will take seriously threats to the 14 th Amendment and not be lulled into complacency by the results of the midterm elections, which delivered a decisive repudiation of the president and his policies.
-
-14 th is produced by DuVernay, Spencer Averick, Paul Garnes, and Tammy Thomas-Garnes. Samantha Casey serves as archival producer. Spencer Averick edited the film; the cinematography is by Cliff Charles and Michael Fernandez. The score is composed by Jason Moran. The film is a production of Array Filmworks. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-DuVernay earned an Academy Award nomination for her previous documentary, 13 th . In October, she won the Documentary Filmmaker Award at the Montclair Film Festival in New Jersey and 14 th won the Audience Award for Documentary Feature at the Middleburg Film Festival in Virginia.
-
-Watch the trailer for 14 th above.
 
