@@ -1,9 +1,51 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-16T13:23:27.377Z
+Last Updated: 2026-11-16T13:31:25.020Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Hans Christian Andersen Animated Biopic In The Works With Beloved Characters Part Of The Story
+[1] 'NBC100: The Live Celebration' Sets Amy Poehler, Conan O'Brien, Mariska Hargitay &#038; More For Centennial Special Lineup; More Soon
+Source: Deadline | Status: expanded | Words: 362
+Published: 2026-11-16T13:30:00+00:00
+URL: https://deadline.com/2026/11/nbc100-the-live-celebration-nbc-sets-centennial-special-1237224549
+------------------------------------------------------------
+SUMMARY:
+The onscreen home of the peacock is marking 100 years with a star-studded celebration as NBC100: The Live Celebration takes shape. Set for Thursday, Dec. 10 at the Dolby Theatre, NBC has set stars from ER, Parks and Recreation, 30 Rock, Law &#38; Order, The Office, This Is Us, Saturday Night Live and more for […]
+
+CONTENT / EXTRACTED DETAILS:
+The onscreen home of the peacock is marking 100 years with a star-studded celebration as NBC100 : The Live Celebration takes shape.
+
+Set for Thursday, Dec. 10 at the Dolby Theatre, NBC has set stars from ER , Parks and Recreation , 30 Rock , Law & Order , The Office , This Is Us , Saturday Night Live and more for the centennial anniversary special, which will air live at 8pm ET/7pm CT on NBC and Peacock.
+
+The first round of stars announced for the special include Adam Levine, Amy Poehler, Andy Buckley, Angela Kinsey, B.J. Novak, Blake Shelton, Bob Costas, Brian Baumgartner, Chris Sullivan, Chrissy Metz, Conan O'Brien, Creed Bratton, David Letterman, David Hyde Pierce, Debra Messing, Ellie Kemper, Eric McCormack, Goldie Hawn, Ice T, Jane Leeves, Jenna Fischer, Jerry Seinfeld, Jimmy Fallon, John Krasinski, Kate Flannery, Kate McKinnon, Kelsey Grammer, Larry David, Leslie David Baker, Mandy Moore, Mariska Hargitay, Mel Brooks, Melora Hardin, Michael Phelps, Mike Tirico, Mindy Kaling, Oscar Nu&#xF1;ez, Peri Gilpin, Phyllis Smith, Queen Latifah, Rainn Wilson, The Roots, S. Epatha Merkerson, Seth Meyers, Simone Biles, Sterling K. Brown, Steve Carell, Taylor Goldsmith, Ted Danson and Tina Fey. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Sunset P.I.' Comedy Starring Jake Johnson, Jane Levy & Keith David Sets Release Date At NBC; First Photos News NBC's One Chicago Sets Premiere Date For 2027 Crossover Event
+
+NBC will announce additional talent, cast reunions, musical performances and special appearances soon. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The three-hour live event will honor the stars, stories and moments spanning generations of NBC, featuring surprise reunions, musical performances, comedic tributes and heartwarming flashbacks.
+
+Produced by Done + Dusted, executive producers for NBC100 include Raj Kapoor, Katy Mullan and Sarah Levine Hall, with co-EPs Rob Paine, Taryn Hurd and Patrick Menton.
+
+============================================================
+[2] Mariska Hargitay, Steve Carell and Jimmy Fallon Among Stars Set for NBC's 100th Anniversary Special
+Source: Variety | Status: expanded | Words: 325
+Published: 2026-11-16T13:30:00+00:00
+URL: https://variety.com/2026/tv/news/mariska-hargitay-steve-carell-jimmy-fallon-nbc-100-special-1236948553
+------------------------------------------------------------
+SUMMARY:
+Mariska Hargitay, Steve Carell and Jimmy Fallon are among the stars set to take the stage during NBC’s forthcoming anniversary special. Titled “NBC100: The Live Celebration,” the show will air on Dec. 10 at 8 p.m. ET from the Dolby Theatre in Los Angeles on NBC and Peacock. Per the three-hour live event’s official logline, […]
+
+CONTENT / EXTRACTED DETAILS:
+Mariska Hargitay , Steve Carell and Jimmy Fallon are among the stars set to take the stage during NBC 's forthcoming anniversary special. Titled "NBC100: The Live Celebration," the show will air on Dec. 10 at 8 p.m. ET from the Dolby Theatre in Los Angeles on NBC and Peacock.
+
+Per the three-hour live event's official logline, "NBC100: The Live Celebration" will "bring together the stars and casts that have helped make NBC a part of American culture for the past century." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Taylor Swift and Karlie Kloss Reunite at Travis Kelce’s Chiefs Game Against Jets Taylor Swift, Inducted Into Nashville Songwriters Hall of Fame, Says 'There Is No Music Community Like This Music Community. I Know, I Checked All the Communities'
+
+In addition to Hargitay, Carell and Fallon, announced stars also include: Adam Levine, Andy Buckley, Amy Poehler, Angela Kinsey, B.J. Novak, Blake Shelton, Bob Costas, Brian Baumgartner, Chris Sullivan, Chrissy Metz, Conan O'Brien, Creed Bratton, David Letterman, David Hyde Pierce, Debra Messing, Ellie Kemper, Eric McCormack, Goldie Hawn, Ice T, Jane Leeves, Jenna Fischer, Jerry Seinfeld, John Krasinski, Kate Flannery, Kate McKinnon, Kelsey Grammer, Larry David, Leslie David Baker, Mandy Moore, Mel Brooks, Melora Hardin, Michael Phelps, Mike Tirico, Mindy Kaling, Oscar Nu&#xF1;ez, Peri Gilpin, Phyllis Smith, Queen Latifah, Rainn Wilson, The Roots, S. Epatha Merkerson, Seth Meyers, Simone Biles, Sterling K. Brown, Taylor Goldsmith, Ted Danson and Tina Fey.
+
+Stars from "ER," "Parks and Recreation," "30 Rock" and alumni cast from "Saturday Night Live" will also join the special, plus additional cast reunions, musical performances and special appearances, which will be announced at a later date.
+
+"NBC100: The Live Celebration" is produced by Done + Dusted. Raj Kapoor, Katy Mullan and Sarah Levine Hall serve as executive producers with Rob Paine, Taryn Hurd and Patrick Menton serving as co-executive producers.
+
+============================================================
+[3] Hans Christian Andersen Animated Biopic In The Works With Beloved Characters Part Of The Story
 Source: Deadline | Status: expanded | Words: 382
 Published: 2026-11-16T13:21:39+00:00
 URL: https://deadline.com/2026/11/hans-christian-andersen-animated-biopic-in-the-works-1237225014
@@ -31,7 +73,7 @@ Kliger and Persitz are also developing Key Of Genius , a live-action feature abo
 Kliger is represented by IAG and Frankfurt Kurnit Klein & Selz.
 
 ============================================================
-[2] Russell Brand's "Appalling" Prison Message Being "Urgently" Investigated, Says 10 Downing Street
+[4] Russell Brand's "Appalling" Prison Message Being "Urgently" Investigated, Says 10 Downing Street
 Source: Deadline | Status: expanded | Words: 527
 Published: 2026-11-16T13:16:06+00:00
 URL: https://deadline.com/2026/11/russell-brand-appalling-prison-message-investigated-1237225025
@@ -65,7 +107,7 @@ An audibly emotional Laura Brand added: "Please support my treasured wife and fa
 Laura opened the YouTube video by saying that she was streaming to "continue the good work that was being established here in this Sunday Service community. Something very, very close to mine and Russell's heart."
 
 ============================================================
-[3] ‘Exotic’ Director Sonja Orlewicz-Zakrzewska Talks About the Liberating Power of Pole-Dancing: ‘Do It Just for Yourself’
+[5] ‘Exotic’ Director Sonja Orlewicz-Zakrzewska Talks About the Liberating Power of Pole-Dancing: ‘Do It Just for Yourself’
 Source: Variety | Status: expanded | Words: 862
 Published: 2026-11-16T13:15:16+00:00
 URL: https://variety.com/2026/film/global/exotic-sonja-orlewicz-zakrzewska-pole-dancing-tallinn-1236942330
@@ -119,7 +161,7 @@ Orlewicz-Zakrzewska wanted to be authentic in showing the bodies in her film.
 "It's about being able to express yourself freely through your body."
 
 ============================================================
-[4] 'Slow Horses' Lands Early Renewal for Seasons 9 and 10 at Apple TV
+[6] 'Slow Horses' Lands Early Renewal for Seasons 9 and 10 at Apple TV
 Source: The Hollywood Reporter | Status: expanded | Words: 395
 Published: 2026-11-16T13:12:42+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/slow-horses-season-9-10-renewed-jack-lowden-bond-oldman-1236756116
@@ -145,7 +187,7 @@ Slow Horses is one of Apple TV's flagship shows. It's won three Emmy Awards, inc
 The series is produced for Apple TV by See-Saw Films, with Jamie Laurenson, Hakan Kousetta, Douglas Urbanski, Iain Canning, Emile Sherman, Gail Mutrux, Billy Bowring, Mick Herron and Oldman serving as executive producers. See-Saw Films is part of the Mediawan group.
 
 ============================================================
-[5] PS1 Classic From 1997 Now Available on PS5 for $2.39
+[7] PS1 Classic From 1997 Now Available on PS5 for $2.39
 Source: ComicBook.com | Status: expanded | Words: 412
 Published: 2026-11-16T13:10:32+00:00
 URL: https://comicbook.com/gaming/news/ps1-ps5-playstation-store-riven
@@ -169,7 +211,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] 'Fatherland' Takes Top Prize At ToruńCamerimage; 'Wild Horse Nine' Wins Audience Award
+[8] 'Fatherland' Takes Top Prize At ToruńCamerimage; 'Wild Horse Nine' Wins Audience Award
 Source: Deadline | Status: expanded | Words: 508
 Published: 2026-11-16T13:04:02+00:00
 URL: https://deadline.com/2026/11/fatherland-winner-toruncamerimage-wild-horse-nine-1237225007
@@ -231,7 +273,7 @@ Golden Frog Special Mention for Director: Jan Holoubek
 Theatrical Feature: Bugonia &#x2014; Greg Fisher (Company 3) TV Series/Episodic: Lord of the Flies &#x2014; Aidan Farrell (The Farm Post Production) Spotlight and Documentary: The President's Cake &#x2014; Andu Radu (Abator) Commercial: North Face, Defy Easy &#x2014; Nadia Khairat G&#xF3;mez Emerging Talent: Kidsuper SS26, The Boy Who Jumped the Moon &#x2014; Imri Agmon (S EC Studio)
 
 ============================================================
-[7] Beyoncé Makes Grammys History as First Artist With 100 Nominations
+[9] Beyoncé Makes Grammys History as First Artist With 100 Nominations
 Source: Variety | Status: expanded | Words: 433
 Published: 2026-11-16T13:00:40+00:00
 URL: https://variety.com/2026/music/news/beyonce-grammys-100-nominations-1236948327
@@ -253,7 +295,7 @@ With her first album of the year win in February 2025 for &#8220;Cowboy Carter,&
 Beyonc&#xE9; has been nominated for Grammys almost every year since her group Destiny's Child picked up a pair of nods in 2000 with &#8220;Bills, Bills, Bills.&#8221; That song was included in the categories for best R&B song and best R&B performance by a duo or group with vocals.
 
 ============================================================
-[8] HBO Max Buys British Flatshare Comedy 'Break Clause' Starring Samuel Bottomley, Lara Ricote &#038; 'Rooster's Charly Clive
+[10] HBO Max Buys British Flatshare Comedy 'Break Clause' Starring Samuel Bottomley, Lara Ricote &#038; 'Rooster's Charly Clive
 Source: Deadline | Status: expanded | Words: 322
 Published: 2026-11-16T13:00:00+00:00
 URL: https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931
@@ -275,7 +317,7 @@ We've charted Break Clause's journey from Channel 4 pilot more than two years ba
 The show lands on HBO Max tomorrow. It will air on Germany's ZDFneo next year and is sold by BBC Studios , which brokered the HBO Max deal. BBC Studios Comedy produces Break Clause. Executive producers are Bray, Mark Freeland, Molly Seymour and Josh Cole for BBC Studios Comedy and Laura Mae Harding for ZDFneo. Olly Cambridge is producer.
 
 ============================================================
-[9] Figuring Out Holidays Is Hard. Taylor Swift And Travis Kelce Are Allegedly Working On It
+[11] Figuring Out Holidays Is Hard. Taylor Swift And Travis Kelce Are Allegedly Working On It
 Source: CinemaBlend | Status: expanded | Words: 282
 Published: 2026-11-16T12:54:12+00:00
 URL: https://www.cinemablend.com/streaming-news/how-taylor-swift-travis-kelce-allegedly-working-out-holiday-plans
@@ -293,7 +335,7 @@ There's at least one reason a gathering away from a football stadium might be ea
 Kelce has already talked about looking forward to his first Christmas as a married man. Earlier this month, while promoting Tommy Hilfiger's winter collection, he told Women's Wear Daily he was excited to start new traditions with Swift. Although there's at least one he's apparently keeping: his mom Donna's homemade blueberry muffins.
 
 ============================================================
-[10] Willie Geist To Depart MS NOW's 'Morning Joe,' Will Expand NBC News Role And Continue To Host 'Sunday Today'
+[12] Willie Geist To Depart MS NOW's 'Morning Joe,' Will Expand NBC News Role And Continue To Host 'Sunday Today'
 Source: Deadline | Status: expanded | Words: 140
 Published: 2026-11-16T12:53:14+00:00
 URL: https://deadline.com/2026/11/willie-geist-leaves-morning-joe-nbc-news-today-1237225017
@@ -315,7 +357,7 @@ Comments On Deadline Hollywood are monitored. So don't go off topic, don't imper
 &#916; document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
 ============================================================
-[11] 'Slow Horses' Renewed For Seasons 9 &#038; 10 At Apple TV
+[13] 'Slow Horses' Renewed For Seasons 9 &#038; 10 At Apple TV
 Source: Deadline | Status: expanded | Words: 115
 Published: 2026-11-16T12:50:43+00:00
 URL: https://deadline.com/2026/11/slow-horses-seasons-9-10-apple-tv-1237225018
@@ -337,7 +379,7 @@ Comments On Deadline Hollywood are monitored. So don't go off topic, don't imper
 &#916; document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
 ============================================================
-[12] Forget Doctor Strange, This is the Best Benedict Cumberbatch Role Ever &#038; I Can Explain Why
+[14] Forget Doctor Strange, This is the Best Benedict Cumberbatch Role Ever &#038; I Can Explain Why
 Source: ComicBook.com | Status: expanded | Words: 718
 Published: 2026-11-16T12:49:00+00:00
 URL: https://comicbook.com/movies/feature/forget-doctor-strange-this-is-the-best-benedict-cumberbatch-role-ever-i-can-explain-why
@@ -367,7 +409,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] ‘Slow Horses’ Renewed for Seasons 9 and 10, but Bond Candidate Jack Lowden’s Return Is Uncertain
+[15] ‘Slow Horses’ Renewed for Seasons 9 and 10, but Bond Candidate Jack Lowden’s Return Is Uncertain
 Source: Variety | Status: expanded | Words: 373
 Published: 2026-11-16T12:47:07+00:00
 URL: https://variety.com/2026/tv/global/slow-horses-more-seasons-jack-lowden-1236948628
@@ -397,7 +439,7 @@ It stars Kristin Scott Thomas as MI5 boss Diana Taverner, Saskia Reeves as Cathe
 No cast have been confirmed past Season 8.
 
 ============================================================
-[14] Grammy Nominations: Watch the Livestream
+[16] Grammy Nominations: Watch the Livestream
 Source: The Hollywood Reporter | Status: expanded | Words: 225
 Published: 2026-11-16T12:30:00+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/grammy-2027-nominations-watch-livestream-online-1236751319
@@ -421,7 +463,7 @@ The 2027 Grammy Awards will air live from Crypto.com Arena in Los Angeles on Feb
 Watch the nominations livestream below.
 
 ============================================================
-[15] Willie Geist to Exit MS NOW's 'Morning Joe' for Expanded Role at NBC's 'Today' Show
+[17] Willie Geist to Exit MS NOW's 'Morning Joe' for Expanded Role at NBC's 'Today' Show
 Source: The Hollywood Reporter | Status: expanded | Words: 389
 Published: 2026-11-16T12:20:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/willie-geist-leaves-morning-joe-nbc-today-show-role-expanded-1236755775
@@ -447,7 +489,7 @@ Geist began on MSNBC shortly after it canceled Don Imus, but before Morning Joe 
 "Over the past 10 years, Willie has transformed Sunday Today from a broadcast into a distinctive, multi platform brand with a voice and identity all its own," said Libby Leist, executive VP of Today and lifestyle at NBC. "We're thrilled he'll now be able to focus full-time on building the brand in new ways and bringing his exceptional journalism to all of our platforms.&#8221;
 
 ============================================================
-[16] Willie Geist Will Exit MS NOW's 'Morning Joe' After Nearly 20 Years for Expanded Role at NBC's 'Today'
+[18] Willie Geist Will Exit MS NOW's 'Morning Joe' After Nearly 20 Years for Expanded Role at NBC's 'Today'
 Source: Variety | Status: expanded | Words: 1495
 Published: 2026-11-16T12:20:00+00:00
 URL: https://variety.com/2026/tv/news/willie-geist-exit-morning-joe-today-1236948203
@@ -507,7 +549,7 @@ When the younger Geist first started anchoring NBC's Sunday morning program, his
 Was he destined to pick up similar duties? "I don't know if it was fated, or if it just happened that way," Geist offers. No matter what brought him to the time period, Geist's presence there appears to be locked in for the foreseeable future.
 
 ============================================================
-[17] Gerard Depardieu Drops Appeal Against Sexual Assault Conviction, Admits Guilt
+[19] Gerard Depardieu Drops Appeal Against Sexual Assault Conviction, Admits Guilt
 Source: The Hollywood Reporter | Status: expanded | Words: 409
 Published: 2026-11-16T12:18:45+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/gerard-depardieu-drops-appeal-in-sexual-assault-conviction-1236756092
@@ -531,7 +573,7 @@ The ruling was the first successful case made against Depardieu, who faces at le
 In another case, a French investigating judge in 2025 ordered Depardieu to stand trial on charges of raping actress Charlotte Arnould in 2018. Depardieu has denied those charges and is appealing.
 
 ============================================================
-[18] Nicola Coughlan "Will Not Be Watching" HBO's 'Harry Potter': "And I Would Never Be in It"
+[20] Nicola Coughlan "Will Not Be Watching" HBO's 'Harry Potter': "And I Would Never Be in It"
 Source: The Hollywood Reporter | Status: expanded | Words: 688
 Published: 2026-11-16T12:04:39+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-harry-potter-jk-rowling-show-series-trans-1236756089
@@ -563,7 +605,7 @@ Coughlan said to The Observer that she credits her openness about her personal p
 She admitted to feeling disappointed when other celebrities &#8220;with those bigger platforms&#8221; didn't &#8220;follow her into action.&#8221; Coughlan continues: &#8220;I had interesting conversations with certain people who said to me, &#x2018;I'm not in a strong enough position,' or &#x2018;I don't get to say anything, because my career is not as good', or &#x2018;I have too much to lose.' And I thought, this is bullshit, isn't it? Everyone has something to lose and everyone has something to gain. [&#8230;] I just think I would never forgive myself if I didn't say, &#x2018;I think this is really fucking wrong,' and I have a platform, and I want to try and do something practical, and that's to raise money.&#8221;
 
 ============================================================
-[19] 5 '80s Star Trek Moments That Changed the Franchise Forever, Including One The Shows Still Reference
+[21] 5 '80s Star Trek Moments That Changed the Franchise Forever, Including One The Shows Still Reference
 Source: ComicBook.com | Status: expanded | Words: 1390
 Published: 2026-11-16T12:02:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-80s-star-trek-moments-that-changed-the-franchise-forever-including-one-the-shows-still-reference
@@ -601,7 +643,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] 'Hunting Alice Bell' Showrunner Says Simon Pegg Thriller Highlights Dangers of Online Sleuthing: It 'Can Happen to Anyone'
+[22] 'Hunting Alice Bell' Showrunner Says Simon Pegg Thriller Highlights Dangers of Online Sleuthing: It 'Can Happen to Anyone'
 Source: Variety | Status: expanded | Words: 1674
 Published: 2026-11-16T11:58:26+00:00
 URL: https://variety.com/2026/tv/global/hunting-alice-bell-online-sleuthing-1236946862
@@ -655,7 +697,7 @@ We used to have things that were also not real but that gave us purpose, notably
 This interview has been edited and condensed.
 
 ============================================================
-[21] Grammy Nominations 2027: The Complete List (Updating Live)
+[23] Grammy Nominations 2027: The Complete List (Updating Live)
 Source: Variety | Status: expanded | Words: 298
 Published: 2026-11-16T11:51:17+00:00
 URL: https://variety.com/2026/music/news/grammy-nominations-2027-complete-list-2-1236948743
@@ -677,7 +719,7 @@ The presenters who will be announcing the nominees in the 100 categories Monday 
 Looking ahead, the 2027 Grammys will air Sunday, Feb. 7, 2027, at 4 p.m. PT/7 p.m. ET on ABC and stream on Disney+ and Hulu. The show will air live from Crypto.com Arena in Los Angeles.
 
 ============================================================
-[22] ‘BerleeN_’ Director Ahmad Abdalla on Telling the ‘Extremely Surreal’ Stories of Arab Migrants Living in Berlin and ‘How We Deal With Fear’
+[24] ‘BerleeN_’ Director Ahmad Abdalla on Telling the ‘Extremely Surreal’ Stories of Arab Migrants Living in Berlin and ‘How We Deal With Fear’
 Source: Variety | Status: expanded | Words: 1189
 Published: 2026-11-16T11:36:28+00:00
 URL: https://variety.com/2026/film/global/ahmad-abdalla-berleen-cairo-1236948691
@@ -733,7 +775,7 @@ For Abdalla, the film's reception in Cairo has reinforced his willingness to emb
 While he is not quite ready to move on from "BerleeN_," Abdalla is considering several stories set in Toronto. The filmmaker, who regularly spends time in the Canadian city, says his only condition for future projects set outside Egypt is a personal connection to the place. "I cannot make a film about something I don't know."
 
 ============================================================
-[23] 10 Years Ago, Amy Adams Delivered One of the Best Performances in Modern Sci-fi (And the Oscars Snubbed Her)
+[25] 10 Years Ago, Amy Adams Delivered One of the Best Performances in Modern Sci-fi (And the Oscars Snubbed Her)
 Source: ComicBook.com | Status: expanded | Words: 632
 Published: 2026-11-16T11:23:00+00:00
 URL: https://comicbook.com/movies/feature/10-years-ago-amy-adams-delivered-one-of-the-best-performances-in-modern-sci-fi-and-the-oscars-snubbed-her
@@ -759,7 +801,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Nicola Coughlan 'Will Not Be Watching' New 'Harry Potter' Series Over J.K. Rowling's Trans Views: 'It's Not for Me'
+[26] Nicola Coughlan 'Will Not Be Watching' New 'Harry Potter' Series Over J.K. Rowling's Trans Views: 'It's Not for Me'
 Source: Variety | Status: expanded | Words: 481
 Published: 2026-11-16T11:13:43+00:00
 URL: https://variety.com/2026/tv/global/nicola-coughlan-not-watching-harry-potter-series-jk-rowling-views-1236948687
@@ -789,7 +831,7 @@ The &#8220;Harry Potter&#8221; series, on which Rowling serves as an executive p
 "I believe, in my bones, that trans people, queer people, people of all creeds and color have got the right to be treated with respect and dignity and safety at all times &#x2014; whether they're in the workplace, whether they're at home or in the street, whatever," he said. "That's what I believe, and that's the way that I choose to live my life. That's the creed by which I live."
 
 ============================================================
-[25] British Stars Including Natalie Dormer, Richard Armitage &#038; Susan Wokoma Sign Open Letter Calling For Entertainment Industry To "Acknowledge Role It Plays" In Enabling Bad Behavior
+[27] British Stars Including Natalie Dormer, Richard Armitage &#038; Susan Wokoma Sign Open Letter Calling For Entertainment Industry To "Acknowledge Role It Plays" In Enabling Bad Behavior
 Source: Deadline | Status: expanded | Words: 2543
 Published: 2026-11-16T11:00:34+00:00
 URL: https://deadline.com/2026/11/uk-stars-open-letter-brand-walliams-dormer-armitage-1237224955
@@ -819,7 +861,7 @@ The letter was organized by writer, actor and producer Ben Fletcher along with a
 The sentencing of Russell Brand is not a turning point. To afford such a label would be to ignore that it has taken some seventeen years for justice. To ignore that one witness became the victim of death threats online. To ignore that the rapist's own lawyer found it necessary to refer himself for aggression towards the journalist who uncovered his client's behaviour. For this to be a turning point, the creative and entertainment industries must first acknowledge the role they play in enabling the behaviour on trial and at the centre of these convictions. Not through PR-drafted statements, vague promises or weak admissions that more could be done. But by accepting what was missed and that, collectively, the sector operates with a culture of open secrets and a belief that fame is a shield and status is a reason to look the other way. This cannot be dismissed as a one-off. Not when, this very week, allegations against another have been made public. Not when open secrets persist and the next documentary is already in pre-production. And the industry cannot mistake the lack of formal reporting for the absence of systemic abuse when many victims feel able to share their stories only quietly, too often prefixed with "I have nowhere else to go," and the name of the union or organisation that failed them. A perpetrator being a friend, a boss or a mentor does not and must not be allowed to invalidate the experience of victims. Fear of retaliation and loss of work or opportunities cannot and must not be enabled as a tool of control to shape narrative, maintain perceptions and discredit victims. And a person's credits and notoriety cannot and must not excuse their actions or attacks on those whose voices they believe beneath them. Too often industry leaders and organisations hide behind the idea that each case is the exception and claim it isn't their job to fight this abuse. But if that's true, whose job is it? It is not supposed to be the job of victims. It is not supposed to be the job of journalists or documentaries. It is not supposed to be the job of the few individuals who stand alone to call abusers out. The fact is, if today's industry were capable of change, change would have come already. It's time now to face that we are all responsible for that change. No one is just an actor. No one is just a journalist, a musician or another creative. No organisation is just a union, a production company or a funding body. The job of ending abuse should have to fall to nobody, and that is why it must now fall to all of us. We call on the government to act, not debate. To increase support for victims, ensure police forces are fully resourced, and force accountability for those who know but choose convenient ignorance. We call on industry leaders to stop telling us there isn't a problem and start listening when we tell you there is. We call on every union, every company and every industry organisation to stop enabling a systemic cycle of abuse, whether through unconscious inaction or deliberate distraction. Review your processes. Protect those who speak out. Become less offended by your inaction being named than you are by the actions you are being asked to recognise. This is only the way things are because we let them be. Let's make it a turning point. signed, Abbie Neale (writer/actor) Abbie Stephens (director/writer) Abi Zakarian (writer) Abra Hunt (actor/writer) Abraham Adeyemi (writer-director) Afsaneh Gray (writer) Alasdair Dickson (carer) Alejandra Bacelar Pereira (actor) Alex Jackson (director/writer) Alex Kanefsky (writer) Alex Radulescu (art consumer) Alex Russo (actor) Alexa Morden (actor) Ali Kahn (actor) Alice Eklund (director) Alice Rose Palmer (actor/theatre maker) Alix Cazalet (director) Ambika Sharma (actor) Amy Knott (actor) Amy Mason (writer/comedian ) Andrea Lowe (actor/writer) Andrew Coan (playwright/dramaturg/director) Anita Adams (artistic director) Anna Jordan (writer/director ) Anna Morrissey (director/movement director) Anna Niland (associate director) Anna Rowlands (archivist) Annabel (actor) Anoushka Warden (writer) Antonia Underwood (writer) Aoife Lennon (actor/writer) Ashley Goh (actor) Audrey Sheffield (director) Azuka Oforka (writer) Barry McStay (writer/actor) Bartel Jespers (actor/director) Becca Manley (writer) Ben Fletcher (writer/actor/producer) Ben Weatherill (writer) Benjamin Victor (actor/maker) Bethany Seddon (designer) Blake (actor/writer) Blake J Askew (actor/writer/director) Branwen Munn (composer/music producer) Brendan Patricks (actor) Brennig Hayden (writer/director) Bronagh Waugh (actor) Brooke Anna Kurzeja (actor) Caroline Parker MBE (performer) Cassidy McCartan (voice and dialect coach/actor) Catherine Traveller (actor ) Ceri-Anne Thomas (actor) Chantelle Dusette (writer) Charlie (poet/performer) Charlie Weldon (actor) Charlotte Irwin (theatre administrator ) Chloe Wade (actor/writer/producer) Chlo&#xEB; Lawrence-Taylor (writer) Chris Sonnex (director/artistic director) Chris Thorpe (writer/performer) Christina Bellavia (actor) Christina Haynes (actor) Christopher Adams (playwright) Christopher Haydon (director) Christopher York (actor/writer) Claire Anne McFadden (student actor) Claire Llewellyn (fight/intimacy director ) Clara Oxer (actor) Clare Perkins (actor) Colm G Doran (director/writer/dramaturg/theatremaker) Dan Bailey (director) Dan Turner (director) Daniella Agredo Piper (actor) Darren Kemp (actor) Dave Kay (actor) David Haller (actor/musician/musical director) David Oakes (actor/ecologist) David Ralf (executive director/ceo) Dawn King (playwright/screenwriter) Dean Johnson (director) Debbie Chazen (actor) Debra Baker (actor/writer) Dionne Neish (actor) Dolly Rozales (access) Dora Gawn-Hopkins (writer-director/actor) Dorothea Jones (actor/writer) Dunc Hoare (director/educator) Durassie Kiangangu (actor) Effie Woods (writer) Eleanor Crosswell (writer/actor) Eleri B. Jones (director) Elis Myers-Sleight (actor) Eliza Pitkin (producer ) Eliza-Marie Agrosoaie (actor) Ellie Roberts (stage manager) Elliot Griggs (lighting designer) Emily Ingram (director/writer) Emily White (writer) Emmanuela Lia (actor) Emteaz Hussain (writer) Esther Dix (director/maker/facilitator ) Eszter Patakfalvi (actor) Eve Leigh (playwright) Evonne Beardsworth (writer/actor) Farokh Soltani (dramaturg/sound designer/educator) Fee Craig (creative) Felix Brunger (actor) Ferdy Roberts (actor/artistic director of filter theatre) Ffiona Owen (parent of young performer) Florence Dobson (actor) Fola E-A (actor/filmmaker) Gabrielle Friedman (actor) Gemma Goggin (actor/HR consultant) Georgia Fitch (writer) Georgia Leanne Harris (director/writer) Georgia Mackenzie (actress) Gilbert Kyem Jnr (artist) Gillian Clarke (head of development) Gina Donnelly (theatre maker/co-artisric director SkelpieLimmer Productions) Gina Lyons (producer) Grace Harvey (actor) Gray (actor/educator) Gurpreet Kaur Bhatti (playwright/screenwriter) Hanna Jarman (actor/writer/director) Hannah Dennis (stage manager) Hannah Khalil (writer) Hannah Stone (director) Harriet Madeley (writer/actor) Haydn Hoskins (actor) Heath Pennington (intimacy coordinator/educator/scholar) Heidi Perry (producer/director) Helen Oakleigh (actor/writer/director) Ilona Sell (director) Imogen Hughes-Tait (videographer/writer) India Joyce (actor/writer) Ioana Andrei (writer) Iona M (actor/puppeteerr) Irie Page (actor) Isabel Dixon (writer/dramaturg) Issy Knowles (writer/performer) Ivan Ivashkin (actor) Jack Baldwin (actor/director) Jacqueline Tooley (writer) Jain Boon (wellbeing facilitator/theatre maker) Jake Kensley (deputy costume supervisor) James Bradwell (actor) James Capel (writer) Jamie Fletcher (director) Jamie-Rose Duke (actor) Jane Upton (writer) Janita Mikkola (actor) Jasmin Davies (stage manager) Jasmine Raymond (actor) Jason Baron (actor/producer) Jemma Kennedy (writer) Jenifer Toksvig (writer) Jenna Omeltschenko (producer) Jennifer Aries (actor) Jennifer Farmer (writer/theatre-maker) Jennifer Jackson (theatre maker/actor/movement director ) Jennifer Lunn (playwright/producer) Jenny Bourke (singer) Jess Coppen-Gardner (writer/actor) Jessica Toomey (venue operator/agent) Jill O'Halloran (writer) Jim Fish (actor) Jo Joyner (actor/producer) Joel Horwood (writer) Joel McVeagh (actor) John Allen (writer/director/editor) John Byrne (entertainment career advisor) John O'Donocan (writer) Jon Brittain (writer/director) Jon Nash (writer/director) Jonnie Broadbent (actor/director) Jordan Paul (actor/writer/director) Joseph Beach (actor/writer) Joshua Pharo (lighting designer) Julia Cranney (writer) Julie Coppen-Gardner (creative) Justin Missingham (TV editor) Kai Wright (producer) Karen Cogan (writer) Karen Simmons (writer) Kat (writer/actor) Kat Joyce (director/artistic director) Kate Austen (writer) Kate O'Rourke (actor) Katey Michaeledes (writer) Katherine Harrison (actress/writer) Kathrine Smith (writer) Kathryn Webb (creative) Katie Arnstein (writer) Katie Elin-Salt (writer/actor/artistic director ) Katie Lyons (writer/actor) Kay Stonham (writer/producer/academic) Kerry Fitzgerald (actor/writer) Kerry Loosemore (designer) Kirsty Miller (actor) Krissi Bohn (actor) Krysha O'Sullivan (actor in training ) Krystina Nellis (writer/performer) LJ Willow (actor/musician/writer-composer) Lainey Shaw (actor) Laura Atherton (actor/writer) Laura Marcus (actor/writer) Lauren Davidson (actor) Lauren Grendon (actor) Lauren Shaw Gillies (production secretary) Laurence Mitchell (actor/teacher) Leah Besson (actor) Lekhani Chirwa (actor/writer) Les Dennis (actor) Leslie Gold (comedian) Letty Butler (writer/actor) Lewis Reece-Jones (director/writer ) Lexie Parry (actor) Liam Pape (producer) Lily-May Jones (multi-media creative) Lisa Brinkworth (journalist/advocate) Lisa Carroll (writer) Lisa Goldman (writer/director/dramaturg) Lisa Parry (writer) Lisa mack (writer) Liv O'Donoghue (actor/writer) Lizzie Nunnery (writer) Loo How (photo and film consultant) Louise C. (filmmaker) Lucianne McEvoy (actor) Lucy Kean (actor) Lucyelle Cliffe (actor) Lynne Parker (founder of Funny Women CIC/comedy advisor to CRAFT) Mabli Morgan Powell (actor/musician/singer-songwriter) Maggie Bain (actor) Mandi Riggi (director/writer/educator) Mandy Gordon (movement and intimacy director/coordinator ) Marcia Lecky (actor) Mari Beard (actor/writer/director) Mari Izzard (actor/writer/director) Maria McColgan (actor) Marie Beckett (actor) Marie Drisch (actor/choreographer) Mark Oosterveen (actor/writer) Matt Bateman (actor/musician) Matt Holt (director) Matt Ray Brown (actor) Matt Ruglys (actor) Matthew Bates (actor) Matthew Bulgo (actor/playwright) Matthew Facchino (actor/writer) Matthew Xia (artistic director/ceo) Maxine Dubois (actress/writer) Mehak Padmashali (producer) Melina Theo (actor) Mhairi Ledgerwood (playwright ) Mia Turnbull (trainee journalist of makeup costume in film) Michael Mulqueen (actor) Michelle Riley (actor/teacher) Michelle Tofi (self-shooting PD) Mikey Brett (access consultant/movement director) Mila Carter (actor) Miles Unsworth (writer/director/editor) Miriam Craig (writer/performer) Miriam Isaac (singer/actor/presenter) Moira Buffini (writer) Molly Davies (writer) Morgan Lloyd Malcolm (playwright/screenwriter) Nadya Lee (actor) Nancy Zamit (actor ) Naomi Sheldon (writer/actor ) Nat Greening (writer) Natalie Dormer (actor/producer) Natalie Mitchell (writer) Natasha Kathi-Chandra (director/artistic director & co-CEO) Nel Machin (actor/writer/producer) Nichola Martin (producer) Nick Sampson (actor) Nicky Harley (actor) Nicole Riddel (actor) Nicole Sadie Sawyerr (actress/director) Nina Millns (writer) Nora Perone (actor) Nuri Moseinco (writer-director) Ocean Barrington-Cook (actor/animation production manager) Oli Fyne (actor/writer) Oliver Lansley (writer) Olivia Hetreed (writer) Olivia O'Neill (publicist) Paddy Hughes (writer/dramaturg ) Paul Macauley (writer/maker/performer) Peter Collins (actor/educator) Peter Straughan (writer) Philip Ralph (screenwriter/facilitator/advocate) Pooja Ghai (artistic director/CEO) Qihan Qiu (actor/model) Rachel Barnett-Jones (writer/researcher) Rachel Dale (actor/writer) Rachel Harris (actor/model) Rachel Mars (writer/live artist) Rachel O'Regan (playwright and producer at F-Bomb Theatre) Rafaella Marcus (writer/director/dramaturg) Rebecca Crookshank (playwright/screenwriter ) Rebecca Natalini (stage manager) Rebecca Osias (actress) Rebecca Ridout (actor) Rebecca Thorn (musician/actor) Ri Baroche (writer/performer) Richard Armitage (actor/writer) Richard Munday (actor) Rob Alexander Adams (actor) Rob Hale (actor/director) Robin Belfield (director/writer) Rosie Dunjay (actor) Rosie Gaunt-Mathieson (director) Rosie Kellagher (dramaturg) Roxanne Carney (producer) Roy Williams (playwright) Roz Wyllie (writer) Ruby (musician/photographer) Saffron Lanser (actor) Sandy Thomson (director) Sarah Argent (director/writer) Sarah Grochala (writer) Sarah Hehir (writer/educator) Sarah Henley (writer) Sarah Hunt (academy director/agent/child actor advocate) Sarah Lidstone (actor/writer) Sarah McDonald Hughes (writer/actor) Sarah Naughton (actor) Sarah Sigal (writer/director/dramaturg) Saul Henry (comedy performer) Scarlett Stitt (actor/filmmaker) Sean Leacy (actor/voiceover artist) Shai Hussain (writer) Shaun Kitchener (writer) Sheila Hayman (director/writer) Simon Longman (Playwright) Simon Manley (actor/director/writer) Siobhan Harper-Ryan (hair and make-up designer) Sion Ifan (director) Sky Yang (actor/writer/director) Sophia Mackie Ellis (actress/voice artist) Sophie Max (writer/actor) Stacia Keogh (voice actor) Stanley Morgan (actor) Stef Smith (writer) Stephanie Cannon (actor) Stephen Adjei-Kyem (artist) Stephen Daly (writer) Suhayla El-Bushra (writer) Susan Wokoma (actor/writer/director) Tabby Lamb (writer/director) Tammie Ash (writer/producer) Tanasha Chege (actor/artist/photographer/creative director) Tanya-Loretta Dee (actor/writer) Taraash Mehrotra (actor/writer/theatremaker) Tatty Hennessy (writer) Terry O'Donovan (artistic director) Tesni kujore (actor) Theo Angel (actor/director) Theresa Godly (actor/writer/director/producer) Thom Gardner (musician) Tim Johanson (producer) Tim McMullan (actor) Tom Crowhurst (actor) Tom Draper (writer/actor/comedian) Tom Lloyd-Kendall (actor) Tom Powell (writer) Tom Telford (actor) Tori Lyons (actor/writer) Tracy Davidson (theatre community advocate) Trevor Jones (assistant editor) Venice van Someren (actor) Via Davidson (actor) Vicky Allen (actor) Victoria Claringbold (actor) Vyte Garriga (actress/playwright) Waleed Akhtar (actor/writer) Warren Rusher (actor/educator) Wendy Barrett (actor) Will Eamer (actor) William Jesmond de Clermont (stage manager/writer/director) Yasmeen Arden (theatre maker/wellbeing practitioner) Yasmin Joseph (writer) Yasmin Taheri (actor) Yshani Perinpanayagam (music director) Zora Owen (actor)
 
 ============================================================
-[26] CNN To Reveal 'Ancient Secrets With Erica Hill'
+[28] CNN To Reveal 'Ancient Secrets With Erica Hill'
 Source: Deadline | Status: expanded | Words: 361
 Published: 2026-11-16T11:00:00+00:00
 URL: https://deadline.com/2026/11/cnn-greenlights-ancient-secrets-with-erica-hill-1237224946
@@ -843,7 +885,7 @@ Hill will meet with scientists, archaeologists and Indigenous communities who ha
 &#8220;It is a remarkable privilege to stand in places where the story of humanity is still being uncovered and to hear from the people whose work is reshaping what we thought we knew about our past,&#8221; said Hill. "What struck me most throughout this journey was how deeply connected we are to those who came before us, and how their experiences continue to offer valuable lessons about resilience, innovation and community.&#8221;
 
 ============================================================
-[27] Thessaloniki: ‘A Day In The Life Of Jo: Chapter Phaedra’ By Jacqueline Lentzou Takes Top Prize
+[29] Thessaloniki: ‘A Day In The Life Of Jo: Chapter Phaedra’ By Jacqueline Lentzou Takes Top Prize
 Source: Deadline | Status: expanded | Words: 2224
 Published: 2026-11-16T10:53:04+00:00
 URL: https://deadline.com/2026/11/thessaloniki-film-festival-awards-2026-jacqueline-lentzou-1237224963
@@ -869,7 +911,7 @@ See the full list of winners below.
 The Best Feature Film Award "Golden Alexander &#8211; Theo Angelopoulos", accompanied by a 10,000-euro cash prize, was bestowed to the film : A Day in the Life of Jo: Chapter Phaedra by Jacqueline Lentzou The award was presented by Gaia Furrer, while director Jacqueline Lentzou took the stage to receive it. Reasoning: This audacious film moved us profoundly through the tenderness with which it portrays adolescence, its turmoil and its longing to be seen and loved. Jacqueline Lentzou weaves together the everyday and the cosmic with great freedom, creating a cinematic language that restores all the possibilities of a life cut short and gives form to the bonds that endure beyond death. TELEKOM, the Festival Major Sponsor, supports the Best Director Award "Silver Alexander" with a cash prize of 5,000 euros. The award was bestowed to Pauline Julier & Nicolas Chapoulier for the film Les Indes The award was presented by Achilleas Kyriakidis. Reasoning: For the power of its cinematic vision and painterly landscapes, which transform a journey into the past into a visceral experience, revealing through its images the violence of power and the inequalities of the present. The Best Actor Award was jointly bestowed to : Caique Copque and Italo Martins for their performances in The Riverbank by Matheus Farias & Enock Carvalho The award was presented by Gaia Furrer. Reasoning: We are delighted to award Caique Copque and Italo Martins for the intensity and sensitivity of their performances and their extraordinary on-screen chemistry. Through their looks, gestures and physical presence, they make danger, desire, strength and vulnerability palpable. The Best Actress Award was bestowed to : Arisa Sasaki for her performance in Titanic Ocean by Konstantina Kotzamani The award was presented by Jack Tarling, while actress Arisa Sasaki took the stage to receive it. Reasoning: Between the weightlessness of water and the weight of growing up, Arisa Sasaki moved us with a performance of quiet intensity. She captures both the fragility and determination of a young woman finding her own voice in an environment that seems almost not of this world. The Artistic Achievement Award was bestowed to the film : Titanic Ocean by Konstantina Kotzamani The award was presented by Jack Tarling, while director Konstantina Kotzamani took the stage to receive it. Reasoning: Through the exceptional use of production design, costume, cinematography, sound design and music, Konstantina Kotzamani transports us into a mesmerizing, dark fantasy world. A visually stunning exploration of a controversial real way of life, with transcendental elements that take us even further beyond the world of our daily lives. A Special Mention was bestowed to : Evita Andriopoulou for her performance in A Day in the Life of Jo: Chapter Phaedra by Jacqueline Lentzou The distinction was presented by Achilleas Kyriakidis, while actress Evita Andriopoulou took the stage to receive it. Reasoning: Evita Andriopoulou captivated us with an understated naturalism and an emotional depth to her performance which took us on the intimate and unexpected journey of Jo. MEET THE NEIGHBORS+ AWARDS The Meet the Neighbors+ competition section includes debut or sophomore films from the 36 countries of Southeastern Europe, the Mediterranean and the Middle East. This year, the Municipality of Thessaloniki once again supports the Meet the Neighbors+ competition section with the new Municipality of Thessaloniki Best Screenplay Award, accompanied by a 5,000-euro cash prize. The jury is composed of: Sofia Exarchou (screenwriter and director) Anne &#xD8;sterud (film editor) Cristina Cassano (Head of Contemporary Italian Cinema Promotion at Cinecitt&#xE0; S.p.A.) Jury members Sofia Exarchou, Anne &#xD8;sterud and Cristina Cassano took the stage to present the awards. The Best Feature Film Award "Golden Alexander &#8211; Michel Demopoulos", accompanied by a 10,000-euro cash prize, was bestowed to the film : Dua , by Blerta Basholli The award was presented by Cristina Cassano. Reasoning: Dua stays with you long after the lights come up. Set in Pristina in the late 1990s, a thirteen-year-old girl searches for her place in a world that is changing too fast, in her own body and in the country around her, while the shadow of war grows closer. Blerta Basholli keeps the camera close to her young heroine and tells this coming-of-age story with restraint, honesty and deep humanity. This is a film about growing up while everything is breaking. For its emotional truth and its personal vision of a pivotal moment in Kosovo's history, the jury awards Best Film to Dua . The Best Director Award "Silver Alexander", accompanied by a 5,000-euro cash prize, was bestowed to Abdallah Al-Khatib for the film Chronicles from the Siege Reasoning: With a raw and deeply human approach that makes room for humour and absurdity, Abdallah Al-Khatib creates a film that becomes a revelatory and profoundly painful experience. The film is inspired by true stories of Palestinians, stories that represent only a very small part of the immense human tragedy unfolding in Palestine. In a land where fear, danger, and the threat of complete annihilation are constantly present, the director chooses to turn his gaze towards the people. Those who continue to move among the ruins, accompanied by the sounds of bombardment that recur with terrifying regularity. Those who insist on maintaining their daily routines and personal relationships. Those who insist on existing. The Silver Alexander, Best Director Award goes to Chronicles from the Siege and its director, Abdallah Al-Khatib. The award was presented by Sofia Exarchou, while Executive producer and Casting Director Lara Abul Failat took the stage to receive it. The Best Actor Award was jointly bestowed to : Alexis Manenti and Julian &#x15A;wie&#x17C;ewski from the film Flesh and Fuel , by Pierre Le Gall The award was presented by Anne &#xD8;sterud. Reasoning: Chasing a body, finding a human. From raw, pounding sex in stolen moments &#8211; sex we truly believe in &#8211; to the awkwardness, humour and unexpected tenderness of two men slowly letting down their guard. In Flesh and Fuel , Alexis Manenti and Julian &#x15A;wie&#x17C;ewski walk straight into their roles, eyes wide open and with no vanity. Just naked, vulnerable bodies and warm, beating hearts. Manenti's guarded stillness meets &#x15A;wie&#x17C;ewski's disarming openness. Together they create an electric chemistry that is as physical as it is deeply human. It is through their fearless, utterly exposed performances that this unexpected love story becomes so painfully real, leaving us just as vulnerable as the men on screen. The Best Actress Award was bestowed to : Maria Petrova from the film Hold Onto Me , by Myrsini Aristidou The award was presented by Sofia Exarchou, while actress Maria Petrova took the stage to receive it. Reasoning: In her first screen role, Maria Petrova gives a performance of rare truth as eleven-year-old Iris, who refuses to let her estranged father slip away again. Never leaning on sentiment, she builds the character through glances, silences, anger and tenderness. She reveals the inner world of a child suspended between innocence and the need to grow up. Director Myrsini Aristidou's camera stays close to her face, and Petrova holds that intimacy without a false note. Her chemistry with Christos Passalis anchors the film. For sincerity, emotional maturity and a magnetic screen presence, the jury awards Best Actress to Maria Petrova. The Best Screenplay Award sponsored by the Municipality of Thessaloniki, accompanied by a 5,000-euro cash prize, was bestowed to the film : Flesh and Fuel , by Pierre Le Gall Reasoning: "I see you. I see you." Who would have thought that two truck drivers passing on a bridge, calling out while honking their horns, could make us cheer like that? Five seconds of happiness. Flesh and Fuel 's screenplay turns a gritty workplace drama into a moving love story. It takes us from the loneliness of the road and brief, anonymous encounters to the surprise of falling in love, where &#xC9;tienne and Bartosz's true obstacle isn't prejudice, but the harsh logistics of their industry. Told with brutality and humor, it is a wonderful story about finding connection in unlikely places". The Mayor of Thessaloniki, Stelios Angeloudis, took the stage to present the award and delivered a short address, while the winning film was announced by Anne &#xD8;sterud. >>FILM FORWARD AWARDS The >>Film Forward competition section presents the work of new, daring filmmakers who, through their debut or sophomore films, challenge our relationship with reality and aspire to renegotiate it beyond the conventions of film genres. The jury is composed of: Ana Vujanovi&#x107; (researcher, writer, dramaturge and lecturer) Yorgos Zois (filmmaker) Carlos Rodr&#xED;guez R&#xED;os (director of D'A &#x2013; Barcelona Film Festival) Jury member Carlos Rodr&#xED;guez R&#xED;os took the stage to present the awards. The Best Feature Film Award "Golden Alexander", accompanied by a 10,000-euro cash prize, was bestowed to the film : I Plant My Hand in the Garden by Boris Had&#x17E;ija & Hoda Taheri Reasoning: The award for Best Film goes to I Plant My Hand in the Garden for its humor, emotionality, playing with social norms, and celebration of the diversity and fluidity of life. Drawing on their own struggles to obtain residence permits in Germany, the filmmaker duo from Serbia and Iran offer a mirror of European society that invites us to critically see ourselves in it. Artistically, the film transforms real life into fiction, while revealing the fictionality of life itself, both on screen and beyond. The Best Director Award "Silver Alexander", accompanied by a 5,000-euro cash prize, was bestowed to Rob Rice for the film Ponderosa Director Rob Rice took the stage to receive the award. Reasoning: The Best Director Award goes to Rob Rice for Ponderosa . The confidence and originality of his directorial vision are expressed through a distinctive visual style that stands out among more conventional directorial approaches. With its uncanny atmosphere, the awkwardness that permeates the performances and the unusual succession of scenes, the film creates a singular cinematic experience and approaches its characters with tenderness and love. The Best Actor Award was bestowed to : Alexis Kalofolias for his performance in Under the Judas Tree by Christos Houliaras Director Christos Houliaras took the stage to receive the award on behalf of Alexis Kalofolias. Reasoning: The award for Best Actor goes to Alexis Kalofolias for his sincere and thoughtful performance, which approaches the character without judgment, treating him instead with humanity, empathy and respect. The Best Actress Award was bestowed to : Alexis Bledel for her performance in Ponderosa by Rob Rice Director Rob Rice took the stage to receive the award on behalf of Alexis Bledel. Reasoning: The award for the best actress goes to Alexis Bledel for her delicate performance. With reduced but vibrant expressive means she depicts the depth of the character's inner world, which makes her interactions with the people around her plausible and convincing. Through her gaze she invites us to see the world, with all its fragility, pain and beauty. The Best Artistic Achievement Award was bestowed to the film : Particles of Dust by Argyris Germanidis Director Argyris Germanidis took the stage to receive the award. Reasoning: The Best Artistic Achievement Award goes to Particles of Dust , by Argyris Germanidis, for its inventive use of various image-making techniques and visual languages to explore a limbo world between spaces and times. A cinematic journey that awakens our cinephilia and connects us with our ghosts of the past and present.
 
 ============================================================
-[28] This Cult Superhero Franchise Will Keep Flopping Unless It Takes Cues From the Actual Comics Again
+[30] This Cult Superhero Franchise Will Keep Flopping Unless It Takes Cues From the Actual Comics Again
 Source: ComicBook.com | Status: expanded | Words: 759
 Published: 2026-11-16T10:51:00+00:00
 URL: https://comicbook.com/movies/feature/this-cult-superhero-franchise-will-keep-flopping-unless-it-takes-cues-from-the-actual-comics-again
@@ -895,7 +937,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Gérard Depardieu Drops Appeal in Sexual Assault Case and Accepts Guilt: ‘I Take Full Responsibility for the Conviction’
+[31] Gérard Depardieu Drops Appeal in Sexual Assault Case and Accepts Guilt: ‘I Take Full Responsibility for the Conviction’
 Source: Variety | Status: expanded | Words: 397
 Published: 2026-11-16T10:20:54+00:00
 URL: https://variety.com/2026/film/global/gerard-depardieu-drops-appeal-in-sexual-assault-case-1236948679
@@ -921,7 +963,7 @@ Depardieu was found guilty on May 13, 2025, of sexually assaulting two women dur
 Depardieu still faces a separate legal case stemming from rape allegations made by French actress Charlotte Arnould over alleged incidents in 2018. In September 2025, an investigating judge ordered the actor to stand trial on rape charges, but Depardieu appealed the decision. A Paris appeals court is expected to rule on Nov. 26 on whether the case will proceed to trial. Depardieu has consistently denied the allegations.
 
 ============================================================
-[30] Poland’s Millennium Docs Against Gravity Reaches New Heights As World’s Second Biggest Nonfiction Film Festival
+[32] Poland’s Millennium Docs Against Gravity Reaches New Heights As World’s Second Biggest Nonfiction Film Festival
 Source: Deadline | Status: expanded | Words: 934
 Published: 2026-11-16T10:07:29+00:00
 URL: https://deadline.com/2026/11/millennium-docs-against-gravity-second-biggest-doc-festival-interivew-artur-liebhart-karol-piekarczyk-1237224932
@@ -959,7 +1001,7 @@ Goals for the festival going forward? "It would be great to have 200,000 [admiss
 Balancing innovation with audience satisfaction means, Piekarczyk says, "For us, the job is never boring."
 
 ============================================================
-[31] Indiana Jones' Holy Grail Tablet Is Up for Sale, But It'll Take More Than a Leap of Faith to Own It
+[33] Indiana Jones' Holy Grail Tablet Is Up for Sale, But It'll Take More Than a Leap of Faith to Own It
 Source: ComicBook.com | Status: expanded | Words: 439
 Published: 2026-11-16T10:07:00+00:00
 URL: https://comicbook.com/collectibles/news/indiana-jones-holy-grail-tablet-is-up-for-sale-but-itll-take-more-than-a-leap-of-faith-to-own-it
@@ -977,7 +1019,7 @@ Yet even $25,000 is a small amount compared to some other Indy related items tha
 How much would you pay to own a piece of Indiana Jones history? Is the Grail Tablet something you would add to your collection, or would a piece of Ford's iconic costume be better if money was no object? Let us know in the comments.
 
 ============================================================
-[32] Peter Alsted’s Animal Conservation Doc ‘Dr. Hedgehog’ Boarded by Autlook Filmsales Ahead of IDFA Forum (EXCLUSIVE)
+[34] Peter Alsted’s Animal Conservation Doc ‘Dr. Hedgehog’ Boarded by Autlook Filmsales Ahead of IDFA Forum (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 893
 Published: 2026-11-16T09:59:23+00:00
 URL: https://variety.com/2026/film/global/autlook-filmsales-peter-alsted-dr-hedgehog-idfa-forum-1236948625
@@ -1013,7 +1055,7 @@ The "Dr. Hedgehog" team is hoping to secure the means to start full production i
 Autlook Filmsales has a strong IDFA lineup this year, including David Greaves and William Greaves' "Once Upon a Time in Harlem," Barbara Kopple's "Union Town," Micha&#x142; Marczak's "Closure" and Laura Poitras and Rachel Lauren Mueller's "They're Here." IDFA runs Nov. 12-22.
 
 ============================================================
-[33] E. Niwas Returns To Feature Directing With Supernatural Comedy-Adventure 'Kurla Boyz' From Abundantia Entertainment &#038; One Entertainment Films
+[35] E. Niwas Returns To Feature Directing With Supernatural Comedy-Adventure 'Kurla Boyz' From Abundantia Entertainment &#038; One Entertainment Films
 Source: Deadline | Status: expanded | Words: 628
 Published: 2026-11-16T09:56:13+00:00
 URL: https://deadline.com/2026/11/e-niwas-directing-kurla-boyz-abundantia-one-entertainment-1237224922
@@ -1043,7 +1085,7 @@ One Entertainment's founder Kamal Kishor Mishra said the film would be one that 
 Niwas has worked with One Entertainment on several projects, including Chapter-2 and Dharmasya . Separately, the studio is behind the likes of Bhootiyapa , Flat No. 420 , Sharmaji Ki Lag Gai , Khalli Balli and Dehati Disco .
 
 ============================================================
-[34] Gérard Depardieu Drops Appeal Against Sexual Assault Verdict &#038; Acknowledges Guilt In Statement Titled ‘I Hear’
+[36] Gérard Depardieu Drops Appeal Against Sexual Assault Verdict &#038; Acknowledges Guilt In Statement Titled ‘I Hear’
 Source: Deadline | Status: expanded | Words: 524
 Published: 2026-11-16T09:50:17+00:00
 URL: https://deadline.com/2026/11/gerard-depardieu-drops-appeal-sexual-assault-verdict-1237224924
@@ -1065,7 +1107,7 @@ It is also seen as a landmark #MeToo test case in France , which was slow to emb
 His 18-month suspended sentence related to assaults on two female crew members on the set of The Green Shutters . In the first, the actor pinned a set dresser with his legs and kneading her breasts, saying: "Come touch my big parasol, I'm going to shove it up your pussy". In the second, a third assistant director, who testified under the pseudonym of Sarah, said Depardieu had touched her buttocks and breasts on two occasions when she was accompanying him on set. A number of women, who were not pressing charges, also gave evidence, including an actress who alleged Depardieu had shoved his hands into her knickers during a photo-call on the set of Netflix show Marseille.
 
 ============================================================
-[35] Piv Bernth, Producer of ‘The Killing,' and ’Babylon Berlin’ Creators Win Honorary Awards at Tallinn’s TV Beats Forum
+[37] Piv Bernth, Producer of ‘The Killing,' and ’Babylon Berlin’ Creators Win Honorary Awards at Tallinn’s TV Beats Forum
 Source: Variety | Status: expanded | Words: 1034
 Published: 2026-11-16T09:45:45+00:00
 URL: https://variety.com/2026/tv/global/piv-bernth-babylon-berlin-creators-honorary-awards-tv-beats-1236948639
@@ -1117,7 +1159,7 @@ TV Beats Forum takes run over Nov. 15-17 in Tallinn. Industry@Tallinn & Baltic E
 Annika Pham contributed to this article.
 
 ============================================================
-[36] 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade
+[38] 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-16T09:36:17+00:00
 URL: https://theplaylist.net/ebenezer-gives-johnny-depp-his-first-no-1-at-the-box-office-in-almost-a-decade-20261116
@@ -1129,7 +1171,7 @@ CONTENT / EXTRACTED DETAILS:
 Is the Johnny Depp comeback here? Industry watchers will know more next weekend, but for the moment it just might be. The now controversial actor is the face of Ti West's "Ebenezer," which took the top spot at the U.S. box office with $19 million. That was a bit under pre-release tracking, but the worldwide tally of $42 million is an excellent start for a holiday film with a reported production budget of $38 million. Continue reading 'Ebenezer' Gives Johnny Depp His First No. 1 At The Box Office In Almost A Decade at The Playlist.
 
 ============================================================
-[37] AFM Closes With Rain, Flight Chaos and an ‘Inundation' of Horror Movies — but a ‘Sense of Optimism’ for Bold Creative Choices
+[39] AFM Closes With Rain, Flight Chaos and an ‘Inundation' of Horror Movies — but a ‘Sense of Optimism’ for Bold Creative Choices
 Source: Variety | Status: expanded | Words: 1071
 Published: 2026-11-16T09:22:33+00:00
 URL: https://variety.com/2026/film/global/afm-closes-rain-flight-chaos-inundation-of-horror-1236947882
@@ -1173,7 +1215,7 @@ Understanding your own distinct market and trusting your creative instincts is t
 Elsa Keslassy contributed to this article
 
 ============================================================
-[38] BAFTA Scotland: ‘I Swear’ Leads Winners
+[40] BAFTA Scotland: ‘I Swear’ Leads Winners
 Source: Deadline | Status: expanded | Words: 363
 Published: 2026-11-16T09:14:03+00:00
 URL: https://deadline.com/2026/11/bafta-scotland-awards-winners-i-swear-1237224916
@@ -1199,7 +1241,7 @@ The BAFTA Scotland Audience Award, the only BAFTA Scotland Award voted for by th
 Elsewhere, the team behind Outlander , including star and executive producer Sam Heughan, showrunner and executive producer Matthew B. Roberts, and stars Sophie Skelton and John Bell, were present as Outlander was honored with the Outstanding Contribution to Television award.
 
 ============================================================
-[39] 5 Notoriously Hated ‘90s Movies That Are Actually Worth Watching, Including 1 That Killed A Superhero Franchise
+[41] 5 Notoriously Hated ‘90s Movies That Are Actually Worth Watching, Including 1 That Killed A Superhero Franchise
 Source: ComicBook.com | Status: expanded | Words: 1016
 Published: 2026-11-16T09:13:00+00:00
 URL: https://comicbook.com/movies/list/5-notoriously-hated-90s-movies-that-are-actually-worth-watching-including-1-that-killed-a-superhero-franchise
@@ -1225,7 +1267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] British Actor Says He Was "Sexually Humiliated" By David Walliams On Stage As UK Entertainment Industry Reflects On Week Of Reckoning
+[42] British Actor Says He Was "Sexually Humiliated" By David Walliams On Stage As UK Entertainment Industry Reflects On Week Of Reckoning
 Source: Deadline | Status: expanded | Words: 512
 Published: 2026-11-16T09:03:17+00:00
 URL: https://deadline.com/2026/11/david-walliams-jeremy-edwards-pulled-pants-on-stage-1237224907
@@ -1253,7 +1295,7 @@ Deadline has contacted Walliams' legal representatives for comment on The Guardi
 "I am not a sexual predator&#x2026; I have not broken the law," Walliams said. "I am devastated that some of the women I met ten to twenty years ago have now expressed hurt or anger towards me."
 
 ============================================================
-[41] In 'The Matriarch,' Germany's First Film With an All-Vietnamese Lead Cast, Human Trafficking Thriller Meets Family Drama
+[43] In 'The Matriarch,' Germany's First Film With an All-Vietnamese Lead Cast, Human Trafficking Thriller Meets Family Drama
 Source: The Hollywood Reporter | Status: expanded | Words: 2016
 Published: 2026-11-16T09:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/the-matriarch-first-german-film-all-vietnamese-cast-tallinn-1236750517
@@ -1309,7 +1351,7 @@ Kuhn didn't run into any opposition or backlash when she pitched The Matriarch a
 And that comes not only through force but something also through silence or lower-key but effective actions. &#8220;Showing another way of being a leading figure was important because I was asking myself what makes the difference between a female and a male leader of such a network,&#8221; Kuhn says. &#8220;It was very interesting to dive into that. She's not the one with the muscles. She has her people who do that for her. But she has maybe another way of making deals. And she might have another way of putting emotional pressure on people. So that's very interesting about a female boss and often unseen.&#8221;
 
 ============================================================
-[42] Nicola Coughlan Boycotting 'Harry Potter' Series Over J.K. Rowling's Trans Views: "It’s Not For Me"
+[44] Nicola Coughlan Boycotting 'Harry Potter' Series Over J.K. Rowling's Trans Views: "It’s Not For Me"
 Source: Deadline | Status: expanded | Words: 440
 Published: 2026-11-16T08:54:15+00:00
 URL: https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887
@@ -1337,7 +1379,7 @@ Coughlan's remarks come as marketing for the Harry Potter series &#x2014; on whi
 Succession duo Francesca Gardiner and Mark Mylod write and direct the Harry Potter series, respectively. Gardiner serves as showrunner and executive producer, and Mylod will direct multiple episodes in addition to serving as executive producer.
 
 ============================================================
-[43] Oscars: The 17th Governors Awards Highlight Long Overdue Recognition For Glenn Close, Ridley Scott, And More In A Warm And Heartfelt Evening
+[45] Oscars: The 17th Governors Awards Highlight Long Overdue Recognition For Glenn Close, Ridley Scott, And More In A Warm And Heartfelt Evening
 Source: Deadline | Status: expanded | Words: 1692
 Published: 2026-11-16T08:53:08+00:00
 URL: https://deadline.com/2026/11/oscars-17th-governors-awards-glenn-close-ridley-scott-1237224853
@@ -1371,7 +1413,7 @@ As they do in their business partnership they took turns expressing their thanks
 Great night all around, and beautifully produced by Jennifer Todd and the Academy which was smart to keep it tight and moving, while still giving all these highly deserving new Oscar recipients a career moment they will never forget.
 
 ============================================================
-[44] Daredevil Has Been Unmasked More Times Than You Can Count, and He's Still Not Learning
+[46] Daredevil Has Been Unmasked More Times Than You Can Count, and He's Still Not Learning
 Source: ComicBook.com | Status: expanded | Words: 1481
 Published: 2026-11-16T08:31:00+00:00
 URL: https://comicbook.com/comics/feature/daredevil-has-been-unmasked-more-times-than-you-can-count-and-hes-still-not-learning
@@ -1409,7 +1451,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Johnny Depp's 'Ebenezer,' 'Ramayana' Dominate Global Box Office as 'Godzilla Minus Zero' Crosses $100 Million
+[47] Johnny Depp's 'Ebenezer,' 'Ramayana' Dominate Global Box Office as 'Godzilla Minus Zero' Crosses $100 Million
 Source: Variety | Status: expanded | Words: 847
 Published: 2026-11-16T08:22:20+00:00
 URL: https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-godzilla-minus-zero-global-box-office-1236948618
@@ -1423,7 +1465,7 @@ Johnny Depp 's return in Paramount's &#8220; Ebenezer &#8221; won the global box
 Directed by Ti West, &#8220;Ebenezer&#8221; debuted at No. 1 globally with a worldwide weekend estimate of $42 million. The dark reimagining of Charles Dickens' &#8220;A Christmas Carol&#8221; opened at the top of the North American chart with $19 million across 3,535 locations, while international audiences delivered a stronger $23 million debut across 63 markets. Audiences largely embraced Depp's turn as Ebenezer Scrooge alongside an ensemble cast featuring Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Tramell Tillman and Ian McKellen. Exit polling yielded an &#8220;A-&#8221; CinemaScore, a 90% Verified Hot Popcornmeter rating on Rotten Tomatoes and 4.5 out of 5 stars on PostTrak (including 85% total positive and 66% definite recommend scores), with 51% of surveyed moviegoers citing Depp as their primary attendance driver. Overseas, &#8220;Ebenezer&#8221; topped the charts in several key territories, led by a No. 1 opening in the U.K. with $5.4 million from 633 locations. Other chart-topping debuts included Italy ($2 million from 365 sites), Mexico ($1.7 million from 855 sites), Spain ($1 million from 323 sites), Poland ($900,000 from 208 sites, including paid previews), Belgium ($372,000 from 74 sites, including previews) and Panama/Central America ($340,000 from 125 sites, including previews). Strong runner-up bows came from France ($2.5 million from 505 sites, including previews), Germany ($1.5 million from 512 sites), Brazil ($475,000 from 589 sites), the Netherlands ($416,000 from 103 sites) and Colombia ($262,000 from 204 sites). Elsewhere, Australia opened at No. 3 with $650,000, the U.A.E. placed fourth with $222,000 (part of a $600,000 Middle East regional bow), and Japan opened at No. 6 &#8211; ranking as the top MPA release &#8211; with $450,000. Paramount backed the launch with an extensive global marketing push anchored by Depp's surprise in-character appearance at San Diego Comic-Con (which generated over 152 million social impressions) and a trailer launch that drew more than 225 million views in seven days. International activations ranged from a winter-themed Leicester Square world premiere and London ghost tours to a Day of the Dead marigold installation in Mexico City, an end-credits song by Myl&#xE8;ne Farmer in France, and sports integrations across the Premier League, LaLiga, Bundesliga, NFL and NBA. Hot on &#8220;Ebenezer's&#8221; heels, Namit Malhotra's &#8220;Ramayana: Rise of a Legend&#8221; retained the No. 1 international crown and took second place globally, surging to a $147.5 million worldwide cumulative gross after just 11 days in release &#8211; already making it the seventh highest-grossing Indian film of all time. Fueled by stellar word-of-mouth and brisk midweek business, the Nitesh Tiwari-directed epic enjoyed a phenomenal second-weekend hold, dropping just 34% for a $38.1 million global frame, including $32.6 million from international markets. Presented by Sony Pictures and Prime Focus Studios in association with Monster Mind Creations and DNEG, starring Ranbir Kapoor, Yash and Sai Pallavi, with a score by Hans Zimmer and A.R. Rahman, &#8220;Ramayana&#8221; expanded into six new markets this weekend to reach 43 territories overall. Record-breaking openings for an Indian release were notched in Indonesia ($573,000), Cambodia ($286,000) and Mexico. India remained the undisputed powerhouse with a cumulative tally of $97.2 million, buoyed by the highest second weekend in local history at INR223 crore ($23.6 million). Top-performing overseas cumes to date include the U.K. ($5.5 million), the U.A.E. ($4.7 million), Australia ($4.2 million), Thailand ($1.5 million), Malaysia ($1.4 million) and Germany ($1.1 million). The rollout continues on Nov. 19 in Brazil, Italy, Ukraine and Hungary, followed by Poland on Nov. 20 and major Latin American territories plus Czechia on Nov. 26. Meanwhile, Yamazaki Takashi's &#8220;Godzilla Minus Zero&#8221; continued its box office rampage, taking fourth place worldwide with a $15.6 million frame and pushing its global cumulative total past the $100 million mark to $104.8 million. Warner Bros.' &#8220;The Cat in the Hat&#8221; claimed third place globally with $17 million (bringing its worldwide cume to $55.8 million), while Sony's &#8220;How to Rob a Bank&#8221; rounded out the global top five with $10.2 million. In the large-format sector, local-language titles and alternative content powered Imax to a $13.7 million global weekend. &#8220;Godzilla Minus Zero&#8221; added $4.8 million across Imax screens in its sophomore frame &#8211; comprising $1.6 million in North America and $3.2 million internationally, including $1.4 million in Japan (where its local Imax total hit $6.7 million) &#8211; lifting its global Imax cume to $32 million. &#8220;Ramayana&#8221; contributed another $3 million in its second Imax weekend, with $2.6 million coming from international venues and $1.2 million from India alone (reaching $4.6 million locally), bringing its worldwide Imax tally to $12.4 million. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'The Cat in the Hat' Review: Bill Hader Leads an Animated Dr. Seuss Comedy So Overstuffed It's Like a Marvel Movie for Tots Netflix’s Genre-Bending YA Drama ‘The Body’ Is a Queer Y2K Extravaganza: TV Review
 
 ============================================================
-[46] Cinepolis Brings Sala de Arte Program to Indonesia, Taking Malang World Cinema Highlights to Six Cities
+[48] Cinepolis Brings Sala de Arte Program to Indonesia, Taking Malang World Cinema Highlights to Six Cities
 Source: Variety | Status: expanded | Words: 518
 Published: 2026-11-16T07:51:36+00:00
 URL: https://variety.com/2026/film/festivals/cinepolis-sala-de-arte-indonesia-malang-world-cinema-1236948613
@@ -1449,7 +1491,7 @@ Alejandro Aguilera Garibay, CEO of Cinepolis Cinemas Indonesia, said local viewe
 Malang World Cinema and its sister event, Bandung World Cinema, opened on Nov. 14 as the first editions of Jakarta World Cinema held outside the capital.
 
 ============================================================
-[47] Korea Box Office: Anime Sensation 'Chiikawa' Holds Off 'Fall 2: Deadpoint' for Fifth Consecutive Crown
+[49] Korea Box Office: Anime Sensation 'Chiikawa' Holds Off 'Fall 2: Deadpoint' for Fifth Consecutive Crown
 Source: Variety | Status: expanded | Words: 573
 Published: 2026-11-16T07:39:19+00:00
 URL: https://variety.com/2026/film/box-office/korea-box-office-chiikawa-fall-2-deadpoint-1236948594
@@ -1483,7 +1525,7 @@ Rounding out the top 10, Warner Bros. Pictures Animation's family feature &#8220
 The overall market collective gross for the weekend was $4.8 million, down from last week's $5.3 million.
 
 ============================================================
-[48] 8 Standout Moments From the Governors Awards: Glenn Close Finally Gets Her Oscar, Diane Warren Pitches Olivia Wilde a Christmas Song and More
+[50] 8 Standout Moments From the Governors Awards: Glenn Close Finally Gets Her Oscar, Diane Warren Pitches Olivia Wilde a Christmas Song and More
 Source: Variety | Status: expanded | Words: 1651
 Published: 2026-11-16T07:25:15+00:00
 URL: https://variety.com/2026/film/awards/governors-awards-2026-glenn-close-oscars-best-moments-1236948230
@@ -1575,100 +1617,4 @@ The pair also shouted out the filmmakers they worked with, the team that works a
 As for the statuettes themselves, Koffler noticed midway through that both women were gripping theirs for dear life.
 
 "They're not going to take it away from us," she said, "but we are still clutching."
-
-============================================================
-[49] Dystopian Thriller 'The Flaw' Is a Cinematic Puzzle About Totalitarianism: "Each One of Us Is a Regime"
-Source: The Hollywood Reporter | Status: expanded | Words: 1571
-Published: 2026-11-16T07:00:00+00:00
-URL: https://www.hollywoodreporter.com/movies/movie-news/thriller-film-the-flaw-regime-totalitarianism-tallinn-2026-1236754284
-------------------------------------------------------------
-SUMMARY:
-David Dawson is an interrogator of The Regime, and Arthur McBain is a suspect in a cat-and-mouse game in Theophilos Papastylianos' Tallinn-premiering debut feature, based on a bestselling novel.
-
-CONTENT / EXTRACTED DETAILS:
-In a dark, dystopian future, the Regime decides who belongs and who doesn't. And the Regime puts the cold and calculating Interrogator on a man who becomes the Suspect to prove his guilt. He puts a ruthless plan of psychological manipulation into action. But could there be a shortcoming in the master plan?
-
-The dystopian thriller The Flaw , a Greece&#x2013;Latvia co-production, is based on Antonis Samarakis' novel of the same name, which is a modern Greek classic and bestseller. It is also writer-director Theophilos Papastylianos' ( Algorhythm , Showtime ) feature debut, and it is about to get its world premiere, appropriately in the Baltics. The film will debut in the Baltic Film Competition of the 30th edition of Estonia's Tallinn Black Nights Film Festival ( P&#xD6;FF ) on Wednesday, Nov. 18. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Movies A Man Has Just Retired, But the Government Insists He Is Dead. Welcome to 'When I Existed'! (Exclusive Trailer, Plus Chat With the Directors) Lifestyle Soho House Creator Nick Jones Is Reinventing the Hotel -- Again
-
-British talent leads The Flaw , with David Dawson, who plays Derek Jarman in Elsinore , portraying the Interrogator, and Arthur McBain ( After the Flood , Napoleon ) playing the Suspect. Also part of the ensemble cast are Ralf Little, Angela Brouskou, Lyne Ren&#xE9;e, Sarah Akokhia and Georgia Small. Thodoris Zacharakis is the cinematographer, while Yannis Chalkiadakis is the editor. Produced by Panos Papahadzis and Papastylianos, the co-producers are Alise Rogule and Lina Yannopoulou. Jacques Kruger is the sales agent.
-
-Papastylianos talked to THR ahead of the film's premiere about just how timely and urgent The Flaw feels, its cast and visuals, and why the film is like one giant puzzle.
-
-How did you approach adapting the novel after you read it? It was my second time reading the book, and it was a revelation for me because the perspective was completely different. I wasn't reading it as a teenager, like the first time. Now, I was reading it as a director. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-The most important part when I wrote the script was to take a step back and say, &#8220;Okay, this is an amazing idea, but the film is going to be released in five to seven years. Is it going to be amazing in seven years?&#8221;
-
-That said, the film feels scarily timely.
-
-It was instinct because I was seeing how the whole world was progressing and how society was changing. I felt this book was timeless, and as the years go by, it's going to become more up to date all the time.
-
-The weird thing for me is that, in a sense, I'm happy that the film is up to date. But on the other hand, I'm sad because that means our society and the world are taking a very dramatic shift towards a place that is not good.
-
-Can you talk a bit about the themes of totalitarianism and beyond that The Flaw explores?
-
-For me, the totalitarian regimes and everything is just the first level. I wanted the film to act as a strong allegory. You have the regimes, the governments, or society, that is all around us. But I actually think that each one of us is a regime by himself.
-
-We perceive the world through our own eyes and our own perspective, and through our own prejudice. So, by definition, we are a regime by ourselves. Imagine a hunter walking in the woods, and all of a sudden, he sees a deer. So he lifts up his rifle and looks through the scope. At that moment, he sees prey. If he could just take a moment and lower the scope, he would see a deer again. And I think it's the same thing with people. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-We meet somebody, and we judge them right off the bat &#x2013; their sexual orientation, [how they look], how political or non-political they are. During COVID, for example, there were two groups of people: the anti-vaccine and the vaccine people, but nothing in the middle. But for me, that's the interesting thing: people meet in the middle.
-
-The two protagonists in The Flaw go through an evolution, but I didn't fully notice it until the end&#8230;
-
-What we were aiming for was a slow change that the characters go through. We wanted to be so slow that you realize that the characters you've been seeing from the beginning, all of a sudden, at the end, are completely different characters.
-
-The film has some spectacular-looking buildings. How did you think about locations?
-
-We shot in Greece, and we also shot in Riga in Latvia. Riga was a very important part of the whole process in order to get that feeling of brutalism and all this dark, timeless sensation.
-
-But then we had to combine Greece with Riga, and that was a challenge, so we could get a timeless space and locations where you don't know they were actually shot in two different countries. The production design team did an amazing job. And lighting and framing were very important for us. I believe that when we shoot, we make conscious choices that actually affect people's subconscious.
-
-So every shot is there for a reason. Every close-up is there for a reason. We choose what we want to show or what we don't want to show the audience. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-The Flaw features Greece and Latvia as locations. But the two lead characters are played by British guys. Tell me a bit about the casting decisions.
-
-It was amazing to work with all these guys. They are amazing professionals. I actually sent paintings, portraits, to the casting director. And I said, &#8220;Look, this is the energy that I'm looking for as a character.&#8221; I used a lot of [Amedeo] Modigliani in terms of the paintings that I sent, because he has this energy and these figures that are surreal, but at the same time, they're actual people.
-
-My process with the actors once they know the scenes is this. When they ask me what I think about a scene and the characters, I always say to them, &#8220;I don't have anything to say to you. You know the script. You know the scenes. You know your character. Just present your approach.&#8221; You need to give actors space so they can breathe on their own.
-
-Tell me a bit about Greek theater and film actress Angela Brouskou and her role of the &#8220;Head&#8221;?
-
-What we were aiming at was that the Head should not be a natural person but should be on the edge of becoming an idea. She represents the Regime. She is the Regime. So you have a character, but the way she's depicted, sometimes you think that she is a non-character. It's like she's becoming the idea of the regime. She becomes a persona that turns into an idea.
-
-[Warning: This question and answer contains what may be considered a spoiler.] David and Arthur have such a fascinating dynamic and chemistry that keeps shifting. How did you approach their characters' relationship? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-For me there was a key thing. One is the alter ego of the other. So, our big challenge was to [make sure you] see hidden qualities that slowly start coming out more and more. And before the shoot, I showed them the paintings, the portraits, that [I had shared with the casting team]. And I also gave them two pieces of music they could listen to. I truly believe that our work has a lot to do with the energy of the people.
-
-I am glad you mentioned music because that seems to play into the characters and story of The Flaw very strongly&#8230;
-
-Yes, I got Dimitris Fessas, the composer, and we worked a lot with him. We wanted to have these rough-edged, train-like pieces. We wanted to use a lot of the electric guitar combined with violins or violas, and then he actually used a traditional Greek instrument called the Cretan lyra. There are actually scenes where the Cretan lyra is having this discussion with the electric guitar. And then a violin steps in, and the whole sensation is a little bit out of this world &#x2013;&#xA0;in a good sense.
-
-We created the melody of the Interrogator and the melody of the Suspect, but in the end, these two melodies have to interweave. The sound design was also an important [element of that]. We paid so much attention to every detail, especially sound-wise.
-
-Talking to you makes me understand why I experienced The Flaw as pieces of a puzzle slowly emerging and a bigger picture coming into view.
-
-I think that's the best way to describe it. That's amazing how you put it. Yeah, the whole film is pieces of a puzzle that have to come together.
-
-============================================================
-[50] China Box Office: 'Traces of Justice' Holds No. 1 Spot as 'Probation' and 'Everest: The Other Side' Enter Top Five
-Source: Variety | Status: expanded | Words: 437
-Published: 2026-11-16T06:55:20+00:00
-URL: https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-probation-everest-1236948590
-------------------------------------------------------------
-SUMMARY:
-New Classics Pictures' crime procedural drama "Traces of Justice" retained first place at the mainland China box office during the Nov. 13–15 weekend, grossing RMB22.6 million ($3.4 million) over the three-day frame, according to data from Artisan Gateway. The steady seventh-weekend hold pushed the period investigation epic to a cumulative total of $109.6 million since […]
-
-CONTENT / EXTRACTED DETAILS:
-New Classics Pictures' crime procedural drama &#8220; Traces of Justice &#8221; retained first place at the mainland China box office during the Nov. 13&#x2013;15 weekend, grossing RMB22.6 million ($3.4 million) over the three-day frame, according to data from Artisan Gateway.
-
-The steady seventh-weekend hold pushed the period investigation epic to a cumulative total of $109.6 million since its Oct. 1 release. Directed by Chen Sicheng (&#8220;Detective Chinatown&#8221;) and co-written with Zhang Ji and Yan Zijie, the drama stars Zhang Yi, Ma Li, and Chen Minghao alongside Karry Wang, Fan Chengcheng, and Chen Feiyu in a multi-decade narrative tracking an elite public security detective solving complex historical cases based on real events. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Japan’s New 2027 Anime Award Should Put Creators in the Spotlight, Industry Leaders Say at Tokyo Market Alex Gibney-Produced ‘Mohabat,’ Directed by James Longley, Wins at Ji.hlava: The Film Is 'Meticulously Researched and Exquisitely Crafted'
-
-Constantin Film and Sony Pictures' horror reboot &#8220; Resident Evil &#8221; held onto second position, taking in $2.7 million in its sixth weekend to lift its cumulative gross to $79.9 million since launching on Oct. 5.
-
-Beijing Joy Fun Pictures' domestic body-swap comedy &#8220;Mr. & Mrs. Pardon&#8221; was in third place, collecting $1.2 million over the three-day frame. Directed by Shen Chunyang and written by Ma Duo, the satirical feature stars real-life comedic pair Shen Chunyang and Xiao Shenyang alongside Jia Bing and Yu Yang, pushing its cumulative haul to $63.7 million since opening on Oct. 1.
-
-iQIYI Pictures' legal comedy-drama &#8220;Probation&#8221; debuted in fourth position, pulling in $945,000 over its two-day opening frame following a Nov. 14 release. Directed by Zong Haiying, the film stars Tong Liya as a single mother who receives a suspended sentence for involuntary manslaughter after stepping in as a Good Samaritan. While serving community probation, she teams up with three close friends and a lawyer- played by Wang Hao, Wang Zhi, and Wu You &#8211; to uncover the truth and clear her name. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-National Geographic Documentary Films' mountaineering documentary &#8220; Everest: The Other Side &#8221; rounded out the top five in its second weekend, earning $900,000 for a cumulative total of $1.9 million since its Nov. 6 arthouse rollout.
-
-Mainland China's overall weekend box office gross was at $15.3 million amid a prolonged fall lull. The 2026 year-to-date box office reached $4.78 billion, trailing the same period in 2025 by 29.5%.
 
