@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T21:04:57.880Z"
+    "updated_at": "2026-11-16T21:08:57.888Z"
   },
   "articles": [
+    {
+      "id": "ee44eda3-071d-4a80-b347-1e113beed4bc",
+      "title": "'Reasonable Doubt' Renewed for Season 5 Ahead of Season 4 Finale",
+      "summary": "\"Reasonable Doubt\" has been renewed for Season 5 at Hulu and Onyx Collective, Variety has confirmed. The news comes just ahead of the show's Season 4 finale, which is scheduled to air on Nov. 24. More to come…",
+      "content": "&#8220; Reasonable Doubt &#8221; has been renewed for Season 5 at Hulu and Onyx Collective, Variety has confirmed.\n\nThe news comes just ahead of the show's Season 4 finale, which is scheduled to air on Nov. 24.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/tv/news/reasonable-doubt-renewed-season-5-season-4-finale-1236949562",
+      "published_at": "2026-11-16T21:07:57+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/Reasonable-Doubt.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 37,
+      "extracted_at": "2026-11-16T21:08:57.731Z",
+      "updated_at": "2026-11-16T21:08:57.731Z"
+    },
     {
       "id": "92669b6b-2558-4639-a82a-3306b6e706e7",
       "title": "OpenAI Slapped By California AG For \"Unfair &#038; Unsafe Practices\"; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company",
@@ -742,21 +757,6 @@
       "word_count": 338,
       "extracted_at": "2026-11-16T18:34:38.344Z",
       "updated_at": "2026-11-16T18:34:38.344Z"
-    },
-    {
-      "id": "73568153-d33b-4857-b188-072cab900c0b",
-      "title": "JonBenét Ramsey ‘20/20&#8242; Investigation Fuels 51% Audience Increase For ABC Newsmagazine",
-      "summary": "EXCLUSIVE: Audiences are still searching for answers in the JonBenét Ramsey case. ABC News' latest 20/20 investigation into the 30-year-old cold case delivered 5.6 million total multi-platform viewers after three days of viewing on ABC and six days of streaming on Disney+ and Hulu, per Disney. JonBenét Ramsey: Race Against Time, Who is ‘Unknown Male […]",
-      "content": "EXCLUSIVE: Audiences are still searching for answers in the JonBen&#xE9;t Ramsey case.\n\nABC News &#8216; latest 20/20 investigation into the 30-year-old cold case delivered 5.6 million total multi-platform viewers after three days of viewing on ABC and six days of streaming on Disney+ and Hulu, per Disney.\n\nJonBen&#xE9;t Ramsey: Race Against Time, Who is &#x2018;Unknown Male 1'? &#x2013; A New Diane Sawyer Investigation was up 51% over the previous week in total viewers to draw the newsmagazine's largest overall audience in more than seven months. It also turned in 20/20 &#8216;s strongest numbers in both key adult demos in six months with a 32% increase in adults 25-54 and a 26% boost in adults 18-49. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News 'VisionQuest' Sticks The Landing With Most-Watched Marvel Finale In 3 Years Ratings NBC News Tops Primetime Viewership For Election Results; Nielsen Says Overall Audience Rose 23% To 31.2 Million From Last Midterm\n\nOn streaming alone, JonBen&#xE9;t Ramsey: Race Against Time is ranked as No. 2 among all 20/20 original episodes in more than a year, since the Season 48 premiere on September 22, 2025. It is second only to The Trial of Lindsay Clancy &#x2013; Special Edition of 20/20 . Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nJonBen&#xE9;t Ramsey was found murdered in her home at the age of six in 1996. In an all-new 20/20 , ABC News anchor Sawyer reports on the investigation. Sawyer first covered the case with a 1997 exclusive ABC News tour of the Ramsey home and interview with JonBen&#xE9;t's pediatrician. Sawyer and chief investigative correspondent Aaron Katersky examine new evidence and secure 19 exclusive and rare interviews with nuclear family members and people closest to the case, some stepping in front of cameras for the first time.\n\nChristina Ng is the executive producer of JonBen&#xE9;t Ramsey: Race Against Time, Who Is &#x2018;Unknown Male 1'? &#x2013; A New Diane Sawyer Investigation.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/jonbenet-ramsey-20-20-investigation-ratings-abc-news-1237225356",
-      "published_at": "2026-11-16T18:24:12+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/img-46fc8264-1bc5-46de-a692-b2c24850f43f.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 379,
-      "extracted_at": "2026-11-16T18:34:38.512Z",
-      "updated_at": "2026-11-16T18:34:38.512Z"
     }
   ]
 }
