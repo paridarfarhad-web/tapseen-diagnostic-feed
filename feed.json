@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T01:37:13.476Z"
+    "updated_at": "2026-11-16T01:43:07.893Z"
   },
   "articles": [
+    {
+      "id": "2af98f45-2ba6-405a-b1ae-6bd33ff59bd6",
+      "title": "Governors Awards Arrivals 2026: Inde Navarrette, Glenn Close and More Stars on the Carpet",
+      "summary": "Glenn Close, Floyd Norman, Ridley Scott, Christine Vachon and Pamela Koffler are being honored at the Academy of Motion Picture Arts and Sciences’ event, taking place Sunday night at the Ray Dolby Ballroom at Ovation Hollywood.",
+      "content": "Glenn Close, Floyd Norman, Ridley Scott, Christine Vachon and Pamela Koffler are being honored at the Academy of Motion Picture Arts and Sciences’ event, taking place Sunday night at the Ray Dolby Ballroom at Ovation Hollywood.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/gallery/governors-awards-2026-arrivals-photos-stars1236755823-1236755823",
+      "published_at": "2026-11-16T01:41:15+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 36,
+      "extracted_at": "2026-11-16T01:43:07.528Z",
+      "updated_at": "2026-11-16T01:43:07.528Z"
+    },
     {
       "id": "a00b9c38-e88d-49b9-b89a-8ec9efa015a0",
       "title": "DC's Trinity Wouldn't Be Complete Without Wonder Woman, and These 5 Writers Helped Make It Happen",
@@ -742,21 +757,6 @@
       "word_count": 311,
       "extracted_at": "2026-11-15T19:59:47.696Z",
       "updated_at": "2026-11-15T19:59:47.696Z"
-    },
-    {
-      "id": "2ce42dab-900c-42fb-a503-13e075e38fdd",
-      "title": "People Said Daniel Radcliffe Was ‘F--ked’ After Harry Potter. How He Succeeded Anyway",
-      "summary": "The boy who really lived.",
-      "content": "The Harry Potter film series may have ended in 2011, but its lead, Daniel Radcliffe , remains a household name. He’s made a splash not only by taking on so many “weird” film projects , but he's also made a mark in TV and on Broadway. If you can believe it, the British actor himself said people told him he would have career troubles after his Wizarding World days. However, Radcliffe ultimately succeeded, and he recently recalled how all that happened..\n\nIt's a real shame that people suggested that to Radcliffe and put so much pressure on him at a young age. From the outside looking in, it almost seemed like he was being set up to fail. I can understand that there are many actors out there who are forever remembered for one role . However, that didn't necessarily mean the December Boys actor would be one of them. Radcliffe continued to explain on the podcast that he didn’t let anyone’s negativity bother him:\n\nAfter Radcliffe spent so many years playing The Boy Who Lived, I can really understand why he'd go down a path of self-discovery. Even his Harry Potter co-star, Alan Rickman , advised him and other alumni to try theater. And lo and behold, Radcliffe would eventually star in the Broadway show Merrily We Roll Along, which made tons of money and landed him his first Tony Award.\n\nWell, there you go. It appears that directors wanted the credit to be able to help show Radcliffe’s versatility outside of playing a wizard. Of course, many filmmakers naturally become impressed when an actor knows how to step outside of his comfort zone and take on different roles. To that point, Radcliffe’s former Harry Potter director, Chris Columbus, was definitely impressed with the talented actor’s career moves when the franchise ended, saying his projects showed how “fearless” he was.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/people-said-daniel-radcliffe-would-struggle-after-harry-potter-how-he-succeeded",
-      "published_at": "2026-11-15T19:18:30+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ZSQx72xQH2UQamVbkubziR-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 311,
-      "extracted_at": "2026-11-15T19:59:47.879Z",
-      "updated_at": "2026-11-15T19:59:47.879Z"
     }
   ]
 }
