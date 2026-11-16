@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T13:05:21.590Z"
+    "updated_at": "2026-11-16T13:11:24.660Z"
   },
   "articles": [
+    {
+      "id": "85aef35b-9f92-409d-9e05-8475ddaaf6b9",
+      "title": "PS1 Classic From 1997 Now Available on PS5 for $2.39",
+      "summary": "A PS1 classic game from 1997 is now available on PS5 and PS4 for $2.39, 29 years later. The game in question is not just a PS1 game from 1997, but one of the best PS1 games from 1997, and it has never been cheaper on the PlayStation Store since its release there in June […]",
+      "content": "In addition to one of the great PS2 trilogies for $0.10 more , PlayStation users can grab Cyan Productions and Red Orb Entertainment's 1997 adventure game, Riven, for a couple of dollars. For those unfamiliar with this game, it is the second game in the Myst series, which dates back to 1993, and the game of the same name. While not as influential as its predecessor, Riven was one of the great games of its year, and actually the best-selling game of 1997. At the time of its release, it was only available on PS1 and PC, but it also came to Sega Saturn the following year in 1998.\n\nThen, in 2025, the PS1 version was re-released on the PS5 and PS4 PlayStation Store alongside its introduction to the library of PS Plus Premium, where it remains available for free for those subscribed to the most expensive tier of the Sony subscription service.\n\nThe Best-Selling Game of 1997 In 2026, adventure games like this are somewhat niche, but it wasn't always like this. In the 1990s, it was one of the biggest genres, as evidenced by Riven being the best-selling game of 1997.\n\nSome of this success, if not much of it, was on the back of Myst , though, which was actually the best-selling PC game of all time for quite some time. Further, it is often cited as one of the best of its time and one of the most influential games of all time. Further, Riven is a direct sequel, meaning it's best to play Myst first. It picks up right after the events of Myst , and while it can be played and enjoyed without playing Myst , Riven is best played with this context.\n\nIt's worth noting that a remake was released in 2024 , and this remake actually earned an 86 on Metacritic, three points better than the original. To this end, those who didn't play the original may find it easier to visit it via the remake rather than the original for obvious reasons. Those who do have nostalgia for the original, though, will likely prefer it over the remake simply because nostalgia outweighs modern improvements. The original is also $22 cheaper on the PS Store right now.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/gaming/news/ps1-ps5-playstation-store-riven",
+      "published_at": "2026-11-16T13:10:32+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 412,
+      "extracted_at": "2026-11-16T13:11:24.506Z",
+      "updated_at": "2026-11-16T13:11:24.506Z"
+    },
     {
       "id": "5f1572b7-f4dd-4bfa-b43a-201640e423d8",
       "title": "'Fatherland' Takes Top Prize At ToruńCamerimage; 'Wild Horse Nine' Wins Audience Award",
@@ -742,21 +757,6 @@
       "word_count": 1611,
       "extracted_at": "2026-11-16T04:59:16.183Z",
       "updated_at": "2026-11-16T04:59:16.183Z"
-    },
-    {
-      "id": "baa62c34-8e70-4dfb-b6f7-8231903114dd",
-      "title": "Jason Sudeikis &#038; Hannah Waddingham Duet On \"Islands In The Stream\" - Watch",
-      "summary": "Three years after their version of \"Shallow\" went viral, Jason Sudeikis and Hannah Waddingham reunited onstage for another classic duet at the annual Thundergong! benefit. This year, the Ted Lasso co-stars collaborated on \"Islands in the Stream\" in tribute to the late, great Dolly Parton. Sudeikis started out onstage along doing a tolerable version of […]",
-      "content": "Three years after their version of &#8220;Shallow&#8221; went viral, Jason Sudeikis and Hanna Waddingham reunited onstage for another classic duet at the annual Thundergong! benefit.\n\nThis year, the Ted Lasso co-stars collaborated on &#8220;Islands in the Stream&#8221; in tribute to the late, great Dolly Parton. Sudeikis started out onstage along doing a tolerable version of Kenny Rodgers' part in the pair's smash hit that went to No. 1 in 1983. Then Waddingham &#8212; an accomplished West End musical performer &#8212; came onstage and took the rendition to another level.\n\nYou can watch them harmonize on &#8220;Shallow&#8221; a few years ago below. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nThe Thundergong! benefit supports amputees through the Steps of Faith Foundation.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/jason-sudeikis-hanna-waddingham-islands-in-the-stream-1237224834",
-      "published_at": "2026-11-16T04:21:13+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/sudeikis-waddingham.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 184,
-      "extracted_at": "2026-11-16T04:23:16.723Z",
-      "updated_at": "2026-11-16T04:23:16.723Z"
     }
   ]
 }
