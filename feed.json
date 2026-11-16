@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T15:18:26.855Z"
+    "updated_at": "2026-11-16T15:20:33.221Z"
   },
   "articles": [
+    {
+      "id": "904a3e8b-ce64-4b4b-9a3f-7f23d4bc3f75",
+      "title": "First Look at Robert Pattinson as James Bond Revealed, And It's Perfect",
+      "summary": "After weeks of speculation and men rumored for the job, Robert Pattinson has officially been confirmed as the next James Bond. Reports and rumors have flooded the internet for some time now about the men who had auditioned for James Bond in the upcoming film from director Denis Villeneuve, including some claiming other stars had […]",
+      "content": "News that the James Bond casting was near came with reports that the finalists were undergoing a screen test for the role, and it looks like what Amazon MGM has released may be the only bits of footage of Pattinson in character that they captured. In addition to a brief video of Pattinson in costume and holding a gun, an official image of him as 007 was also released. Both images show an actor who looks perfect for the part already from an aesthetic point, but it's Pattinson's career outside Bond that proves he's a great fit for the role.\n\nFirst Look at Robert Pattinson as James Bond 007 This is a developing story.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/movies/news/first-look-at-robert-pattinson-as-james-bond-revealed-and-its-perfect",
+      "published_at": "2026-11-16T15:19:56+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 151,
+      "extracted_at": "2026-11-16T15:20:33.063Z",
+      "updated_at": "2026-11-16T15:20:33.063Z"
+    },
     {
       "id": "b9f6542e-2afd-4723-8ca4-8429bc641710",
       "title": "Robert Pattinson Officially Cast As James Bond For 'Bond 26'",
@@ -742,21 +757,6 @@
       "word_count": 322,
       "extracted_at": "2026-11-16T13:45:25.974Z",
       "updated_at": "2026-11-16T13:45:25.974Z"
-    },
-    {
-      "id": "e57795e7-8d10-4c0c-9a2c-201b34fca847",
-      "title": "New GTA 6 Update Released by Rockstar Games on PS5 and Xbox",
-      "summary": "Rockstar Games has released the second update for GTA 6 ahead of its launch on November 19 on PS5, Xbox Series S, and Xbox Series X. The new update comes three days after the first-ever GTA 6 update was released on November 13. And like the first update, we do not know what this update […]",
-      "content": "The new GTA 6 update is specifically labeled as Update 01.002.001 in the PlayStation and Xbox back end, per PlayStation Game Size . And it's smaller than the first update, which was roughly 1 GB in size. This second update is only 600 MB in size. This is a small download by update standards, and it begs the question: if it's so small, why did Rockstar Games feel the need to push it live? For those who do not know, it costs money to push updates live, among other things, which is why developers often prefer to accumulate fixes and changes in favor of releasing larger updates than a constant stream of smaller ones. To this end, this update doesn't do much, but it clearly does something important.\n\nBoth of the updates have been small, which suggests that if Rockstar Games is tweaking and fixing things, it's not tweaking and fixing much, which indirectly confirms it is happy with the state of the game and that it is polished. What is more likely, though, is that these are security updates for Grand Theft Auto VI , which we know Rockstar Games has gone above and beyond with for the release to ensure it doesn't leak.\n\nGrand Theft Auto VI is set to release on November 19, in just three days, via PS5, Xbox Series S, and Xbox Series X. When it does, it will cost a minimum of $80. That said, those who don't have $80 to spend on it right now may be able to score a free code for it .\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-update-1-002-today-ps5-xbox",
-      "published_at": "2026-11-16T13:40:31+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 300,
-      "extracted_at": "2026-11-16T13:41:24.808Z",
-      "updated_at": "2026-11-16T13:41:24.808Z"
     }
   ]
 }
