@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-16T12:21:22.781Z"
+    "updated_at": "2026-11-16T12:31:22.287Z"
   },
   "articles": [
+    {
+      "id": "822773e2-5502-4c35-b1b5-b17b6f7a4825",
+      "title": "Grammy Nominations: Watch the Livestream",
+      "summary": "Noms will be announced Monday in 101 categories.",
+      "content": "The nominations for the 69th Grammy Awards are being announced Monday morning.\n\nThe Recording Academy is announcing nominees in 101 categories, including five new awards: best Asian pop music performance, best R&B collaboration or duo/group performance, best traditional pop vocal performance, best traditional folk album and best Latin song.\n\nThe nominations announcement will be shared in a livestream kicking off at 4:45 a.m. PT/7:45 a.m. ET on Monday.\n\nGrammys CEO Harvey Mason Jr. and Recording Academy Board of Trustees chair Dr. Chelsey Green will be joined by Grammy-winning and -nominated artists including Alan Menken, Amy Allen, Carly Pearce, David Guetta, FY&#xDC;TCH & Aura V, Herbie Hancock, Israel Houghton, Juanes, Kehlani, Linda Perry, Meghan Foley & Michelle Holme, Olivia Dean, Pharrell Williams, Ren&#xE9;e Fleming, YUNGBLUD and Ziggy Marley to announce the 2027 Grammy nominees. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nABC's Good Morning America also will feature live coverage of the announcement, and a Grammy nominations wrap-up show will air after the noms livestream.\n\nThe 2027 Grammy Awards will air live from Crypto.com Arena in Los Angeles on Feb. 7, 2027, and simulcast across ABC, Disney+ and Hulu. A host has not yet been announced. This year's Grammy eligibility period is Aug. 31, 2025-Aug. 28, 2026.\n\nWatch the nominations livestream below.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/music/music-news/grammy-2027-nominations-watch-livestream-online-1236751319",
+      "published_at": "2026-11-16T12:30:00+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 225,
+      "extracted_at": "2026-11-16T12:31:22.130Z",
+      "updated_at": "2026-11-16T12:31:22.130Z"
+    },
     {
       "id": "95a72b00-1b50-407c-bae4-e5ec60d5d5e4",
       "title": "Willie Geist to Exit MS NOW's 'Morning Joe' for Expanded Role at NBC's 'Today' Show",
@@ -742,21 +757,6 @@
       "word_count": 896,
       "extracted_at": "2026-11-16T03:07:15.759Z",
       "updated_at": "2026-11-16T03:07:15.759Z"
-    },
-    {
-      "id": "98169f42-0722-454b-ac57-f80924d651d8",
-      "title": "Are 90 Day Fiancé: The Other Way’s Niles And Matilda Still Together After Ghana News? Here’s What We Know",
-      "summary": "Let's talk about what we know about the situation.",
-      "content": "Warning! The following contains spoilers from the 90 Day Fiancé: The Other Way episode \"Out Of The Frying Pan, Into The Family.\" Stream the episode with an HBO Max subscription , and read at your own risk!\n\nWith various rumors floating around the internet about their status, I decided to do a bit of digging to see what I could find on whether series veterans Niles and Matilda are still together. While I didn't expect either of them to break their contract agreements and explicitly say one way or another, I think it's safe to say it looks like they're still together, with some predictable updates.\n\nNiles posted a photo on Instagram of what appeared to be the inside of an apartment in the United States back on November 13th. Readers can take a look at the post below, in which he showed the difference someone's posture can make. Take a look:\n\nThat doesn't look like any room in Matilda's apartment, which has me guessing he's back in the United States at this point. I can't claim to be an expert on apartments in Africa, but I've lived in a good deal of American ones that have that exact same look when it comes to the bathroom!\n\nIf Niles has returned to the US, I think it's fair to speculate that he and Matilda are still together. The pair still follow each other on Instagram, which usually feels like an obvious sign that 90 Day couples are still together and married.\n\nIf we get to the end of 90 Day Fiancé: The Other Way and learn that Niles is still working to bring Matilda to the United States, I won't be surprised. That's been the goal from the start , and I think he made a rash decision to move to Africa without looking into how difficult it would be for him to start a life in the country.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/what-we-know-whether-90-day-fiance-the-other-way-niles-and-matilda-together-after-ghana-news",
-      "published_at": "2026-11-16T03:01:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/6gjrow7d3PJJptCfMihm68-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 319,
-      "extracted_at": "2026-11-16T03:05:19.613Z",
-      "updated_at": "2026-11-16T03:05:19.613Z"
     }
   ]
 }
