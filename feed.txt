@@ -1,5 +1,5 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T20:08:58.813Z
+Last Updated: 2026-11-17T20:14:35.201Z
 Website: https://tapseen.com
 
 ============================================================
@@ -45,7 +45,7 @@ Published: 2026-11-17T20:06:36+00:00
 URL: https://variety.com/2026/film/columns/elliot-page-chris-columbus-queer-callback-mathew-puccini-1236950262
 ------------------------------------------------------------
 SUMMARY:
-“The Odyssey” actor Elliot Page and “Harry Potter” filmmaker Chris Columbus have signed on as executive producers of writer and director Mathew Puccini’s award-winning short, “Callback.” The film is a dark comedy about a gay couple, played by Justin H. Min (“After Yang,” “Beef”) and Michael Hsu Rosen (“Presumed Innocent,” “The Only Living Pickpocket in […]
+“The Odyssey” actor Elliot Page and “Harry Potter” filmmaker Chris Columbus have signed on as executive producers of writer and director Matthew Puccini’s award-winning short, “Callback.” The film is a dark comedy about a gay couple, played by Justin H. Min (“After Yang,” “Beef”) and Michael Hsu Rosen (“Presumed Innocent,” “The Only Living Pickpocket in […]
 
 CONTENT / EXTRACTED DETAILS:
 "The Odyssey" actor Elliot Page and "Harry Potter" filmmaker Chris Columbus have signed on as executive producers of writer and director Mathew Puccini's award-winning short, "Callback."
@@ -159,7 +159,27 @@ CONTENT / EXTRACTED DETAILS:
 Two TV titles outranked it: docuseries &#8220;Taken: Natalee Holloway&#8221; with 7.2 million views in its second week on the chart, and Season 2 of &#8220;Black Doves&#8221; with 6.6 million, also making its second chart appearance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[8] I'm Usually A Rock Girlie, But I'm Coming Around On One Of The Voice's Country Singers This Season
+[8] BAFTA North America Breakthrough US Cohort Includes Connor Storrie, Inde Navarrette And Kane Parsons
+Source: Deadline | Status: expanded | Words: 320
+Published: 2026-11-17T19:58:00+00:00
+URL: https://deadline.com/2026/11/bafta-north-america-breakthrough-us-cohort-list-1237226911
+------------------------------------------------------------
+SUMMARY:
+BAFTA North America on Tuesday revealed 14 rising film, TV and games creatives as the organization's 2026 BAFTA Breakthrough US cohort, a list thank includes Heated Rivalry star Connor Storrie, Obsession star Inde Navarrette and Backrooms director-composer Kane Parsons. The program, in its seventh year, is designed to support creatives at pivotal points in their […]
+
+CONTENT / EXTRACTED DETAILS:
+BAFTA North America on Tuesday revealed 14 rising film, TV and games creatives as the organization's 2026 BAFTA Breakthrough US cohort, a list thank includes Heated Rivalry star Connor Storrie , Obsession star Inde Navarrette and Backrooms director-composer Kane Parsons .
+
+The program, in its seventh year, is designed to support creatives at pivotal points in their careers, opening access to professional development and industry connections. Recipients undertake a yearlong program that includes one-on-one meetings and career guidance, full BAFTA voting membership, access to BAFTA events and screenings, and networking opportunities worldwide. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+This year's list, selected by a jury of industry peers, spans the crafts of costume design, production, casting, editing, games design, performance, directing, composing and cinematography. The names include The &#8216;Burbs creator Celeste Hughey, 1923 costume designer Gaby Acosta, Nuisance Bear director Gabriela Osio Vanden, Night Nurse writer-director Georgia Bernstein and Clair Obscur: Expedition 33 lead writer Jennifer Svedberg-Yen. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+"The BAFTA Breakthrough US program is an investment in the extraordinary voices shaping what comes next in film, television and games,&#8221; said Courtney LaBarge Bell, executive director of BAFTA North America . &#8220;This year's cohort reflects the imagination, ambition and distinct perspectives that continue to push our industries forward. At a time when emerging creatives face increasing challenges in finding opportunity, mentorship and a path forward, BAFTA is proud to create a space where talent can be recognized, supported and connected to a broader creative community."
+
+Scroll down for the list and bios per BAFTA North America.
+
+============================================================
+[9] I'm Usually A Rock Girlie, But I'm Coming Around On One Of The Voice's Country Singers This Season
 Source: CinemaBlend | Status: expanded | Words: 204
 Published: 2026-11-17T19:56:55+00:00
 URL: https://www.cinemablend.com/television/im-rock-girlie-really-coming-the-voice-season-30-joe-henley
@@ -175,7 +195,7 @@ Country singer Joe Henley ( not to be confused with Joe Hendry ) is only 19 and 
 Sure, Team Adam and Team Kelly have the numbers advantage, with three singers still left on each of their teams while the other coaches only have two. I can’t believe I’m still on the country train, but I actually think that Team has a very good chance of winning in his first season, whether that’s with Joe Henley or the duo Ferryn & Brinkley. He’s proven to have an excellent ear for talent and has given great advice and guidance to his team as their performances have only gotten stronger.
 
 ============================================================
-[9] How Do Fans Feel About Robert Pattinson As James Bond 007? New Comicbook Poll Has a Clear Answer
+[10] How Do Fans Feel About Robert Pattinson As James Bond 007? New Comicbook Poll Has a Clear Answer
 Source: ComicBook.com | Status: expanded | Words: 388
 Published: 2026-11-17T19:50:46+00:00
 URL: https://comicbook.com/movies/news/how-do-fans-feel-about-robert-pattinson-as-james-bond-007-new-comicbook-poll-has-a-clear-answer
@@ -201,7 +221,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] One of the Most Terrifying Movie Monsters Ever Created Could Soon Be Yours, For a Price
+[11] One of the Most Terrifying Movie Monsters Ever Created Could Soon Be Yours, For a Price
 Source: ComicBook.com | Status: expanded | Words: 505
 Published: 2026-11-17T19:49:00+00:00
 URL: https://comicbook.com/collectibles/news/one-of-the-most-terrifying-movie-monsters-ever-created-could-soon-be-yours-for-a-price
@@ -219,7 +239,7 @@ As if owning the actual suit used in the film, this has the added allure of a se
 How much would you pay to own the original xenomorph costume from Aliens ? Was it the best movie in the franchise? Let us know in the comments.
 
 ============================================================
-[11] Moshe Rosenthal on Directing Queer Oscar Contender 'Tell Me Everything': 'Certain Films Open a Door in Your Heart for Your Own Memories'
+[12] Moshe Rosenthal on Directing Queer Oscar Contender 'Tell Me Everything': 'Certain Films Open a Door in Your Heart for Your Own Memories'
 Source: Variety | Status: expanded | Words: 1482
 Published: 2026-11-17T19:48:20+00:00
 URL: https://variety.com/2026/film/global/moshe-rosenthal-tell-me-everything-queer-drama-oscars-1236950102
@@ -273,7 +293,7 @@ And that's what saddens me, because it made me realize that they were actually o
 This interview is made up of two conversations, which have been edited and condensed.
 
 ============================================================
-[12] I Didn't Expect Glen Powell To Show Up In Ali Larter's Latest Landman Update
+[13] I Didn't Expect Glen Powell To Show Up In Ali Larter's Latest Landman Update
 Source: CinemaBlend | Status: expanded | Words: 134
 Published: 2026-11-17T19:46:09+00:00
 URL: https://www.cinemablend.com/streaming-news/glen-powell-ali-larter-landman-update-michelle-randolph
@@ -289,7 +309,7 @@ In that final slide, you can see Larter posing for a photo with her co-stars, Bi
 Rumors that Powell and Randolph were dating picked up in late 2025, and the actors went Instagram official in July of this year. Since then, they’ve posted pictures of each other here and there, and the Running Man star’s dog, Brisket , even made a cameo in one of the 1923 actress’s photo dumps .
 
 ============================================================
-[13] Florence Pugh Celebrates Robert Pattinson's Bond Casting: "He's Been the No. 1 Vote in My Household"
+[14] Florence Pugh Celebrates Robert Pattinson's Bond Casting: "He's Been the No. 1 Vote in My Household"
 Source: The Hollywood Reporter | Status: expanded | Words: 437
 Published: 2026-11-17T19:41:27+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-robert-pattinson-bond-casting-1236757542
@@ -313,7 +333,7 @@ Pattinson's casting &#x2014; up against actors including Callum Turner, Jack Low
 &#8220;James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime," said Pattinson in a statement. "I'm deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn't be more excited about this partnership and the work ahead with this fantastic team.&#8221;
 
 ============================================================
-[14] Psylocke Proves She's the X-Men's Best Leader by Doing Something She Once Couldn't
+[15] Psylocke Proves She's the X-Men's Best Leader by Doing Something She Once Couldn't
 Source: ComicBook.com | Status: expanded | Words: 758
 Published: 2026-11-17T19:38:00+00:00
 URL: https://comicbook.com/comics/feature/psylocke-proves-shes-the-x-mens-best-leader-by-doing-something-she-once-couldnt
@@ -343,7 +363,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] SAG-AFTRA Drops Thousands of Members for Not Paying Dues as Internal Tensions Rise
+[16] SAG-AFTRA Drops Thousands of Members for Not Paying Dues as Internal Tensions Rise
 Source: Variety | Status: expanded | Words: 1175
 Published: 2026-11-17T19:35:34+00:00
 URL: https://variety.com/2026/film/news/sag-aftra-dues-terminations-duncan-crabtree-ireland-1236947149
@@ -411,7 +431,7 @@ The video was meant as an update for his friends, but it resonated with a wider 
 "It's not that I'm done with acting," he tells Variety . "I'm an artist and an actor. I love the whole process. At the same time, I think I feel just like I need to take a breath."
 
 ============================================================
-[16] Avatar: Seven Havens Will Reveal More of Korra's Fate in Season 2
+[17] Avatar: Seven Havens Will Reveal More of Korra's Fate in Season 2
 Source: ComicBook.com | Status: expanded | Words: 508
 Published: 2026-11-17T19:31:39+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-will-reveal-more-of-korras-fate-in-season-2
@@ -435,7 +455,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Apple Hit With Outages in iCloud, Apple Pay and More Services
+[18] Apple Hit With Outages in iCloud, Apple Pay and More Services
 Source: Variety | Status: expanded | Words: 106
 Published: 2026-11-17T19:28:34+00:00
 URL: https://variety.com/2026/digital/news/apple-hit-with-outages-icloud-apple-pay-more-services-1236950588
@@ -451,7 +471,7 @@ The company's system status page as of 2:30 p.m. ET showed full or partial outag
 Apple did not respond to an immediate request for comment.
 
 ============================================================
-[18] Penn &#038; Teller Join Short Film 'The Inspector' as "Executive Magic Producers" (Exclusive)
+[19] Penn &#038; Teller Join Short Film 'The Inspector' as "Executive Magic Producers" (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 380
 Published: 2026-11-17T19:22:36+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/penn-teller-join-short-film-the-inspector-1236757369
@@ -475,7 +495,7 @@ Jandro is one of Spain's most well-known magicians and one of the most recogniza
 Inspector has already been making its own magic on the festival circuit. The short has played in roughly 200 festivals, winning 50 awards across 22 countries. The film has played at four Oscar qualifying festivals including Sitges in Spain, ShortShorts in Japan, Ireland's Foyle, and Edmonton in Canada. It is now vying for an Oscar nom.
 
 ============================================================
-[19] Emergency Broadcast System Test Still On For Today, Homeland Security Says
+[20] Emergency Broadcast System Test Still On For Today, Homeland Security Says
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-17T19:07:00+00:00
 URL: https://deadline.com/2026/11/emergency-broadcast-system-test-november-17-1237226846
@@ -499,7 +519,7 @@ As you might recall from 2023, the feds are obliged by the IPAWS Modernization A
 A further safeguard is in place that if today's test encountered difficulties. FEMA explained back in September: &#8220;If an actual emergency or significant weather event occurs on test day, FEMA and the FCC may postpone the test. The backup date for the nationwide test is December 3, 2026.&#8221;
 
 ============================================================
-[20] 'American Epic': Chris Pine &#038; Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series
+[21] 'American Epic': Chris Pine &#038; Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-17T19:03:52+00:00
 URL: https://theplaylist.net/american-epic-chris-pine-nicolas-cage-a24-las-vegas-series-20261117
@@ -511,7 +531,7 @@ CONTENT / EXTRACTED DETAILS:
 Nicolas Cage , hot off making Prime Video 's popular superhero show " Spider-Noir " and enlisted last month to co-star with Antonio Banderas for HBO Max 's next season of " True Detective ," has landed another TV role, " American Epic ." This marks Cage's THIRD major television role in recent years after spending most of his acting career on the big screen and only just dipping his toes into TV projects. Continue reading 'American Epic': Chris Pine & Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series at The Playlist.
 
 ============================================================
-[21] 'The Odyssey' to Receive Ensemble Performance Award at Palm Springs International Film Festival (Exclusive)
+[22] 'The Odyssey' to Receive Ensemble Performance Award at Palm Springs International Film Festival (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 403
 Published: 2026-11-17T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227
@@ -533,7 +553,7 @@ The Odyssey was the first feature film to be entirely shot in Imax. It also star
 Previously announced honorees at the fest include Andrew Garfield (Spotlight Award, Actor); The Invite's Seth Rogen, Olivia Wilde, Pen&#xE9;lope Cruz, Edward Norton (Vanguard Award); La Bola Negra's directors Javier Calvo and Javier Ambrossi, as well as actors Guitarricadelafuente, Miguel Bernardeau and Pen&#xE9;lope Cruz (International Star Award); Martin McDonagh (Outstanding Achievement in Directing Award) ; Inde Navarette (Rising Star Award); and Andrew Scott (Desert Palm Achievement Award, Actor).
 
 ============================================================
-[22] Jon Cryer Joins 'Cupertino' As Judge In Top-Secret Court
+[23] Jon Cryer Joins 'Cupertino' As Judge In Top-Secret Court
 Source: Deadline | Status: expanded | Words: 458
 Published: 2026-11-17T19:00:00+00:00
 URL: https://deadline.com/2026/11/jon-cryer-cast-cupertino-1237226024
@@ -557,7 +577,7 @@ In addition to the Kings, the series is executive produced by Liz Glotzer and Sa
 Cryer earned two Emmy Awards for his portrayal of Alan Harper on the CBS comedy series Two and a Half Men , first in the Supporting Actor category and then going on to win for Lead Actor. He followed the series with work on NBC's Extended Family, in which Cryer starred and served as executive producer, and played the villain Lex Luthor on the CW's Supergirl . Additional credits include The Famous Teddy Z , Getting Persona l, Partners, The Trouble with Normal , No Small Affair , Pretty in Pink , Hot Shots , and Hiding Out. Cryer is repped by UTA, Artists First, and Myman Greenspan Fox.
 
 ============================================================
-[23] 16 Black Friday Sales on LEGO, Funko, and Video Games to Shop Now
+[24] 16 Black Friday Sales on LEGO, Funko, and Video Games to Shop Now
 Source: ComicBook.com | Status: expanded | Words: 672
 Published: 2026-11-17T18:59:13+00:00
 URL: https://comicbook.com/crate/crate-deals/deals/early-black-friday-sales-2026
@@ -601,7 +621,7 @@ Amazon &#8212; There are lots of deals on everything from video games to accesso
 Costco &#8212; One of Costco's best video game deals is on the PlayStation 5 Digital Slim Console with a pair of White DualSense Controllers for $649.99. You'll also find several home arcade cabinets on sale, like the Arcade1Up Sonic the Hedgehog Home Arcade Machine for $539.99 (was $639.99).
 
 ============================================================
-[24] Derek DelGaudio and Frank Oz Reunite for 'Unknown Caller' at New York's Public Theater (EXCLUSIVE)
+[25] Derek DelGaudio and Frank Oz Reunite for 'Unknown Caller' at New York's Public Theater (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 410
 Published: 2026-11-17T18:55:00+00:00
 URL: https://variety.com/2026/legit/news/derek-delgaudio-frank-oz-unknown-caller-public-theater-1236950300
@@ -625,7 +645,7 @@ Oz says working with DelGaudia is like &#8220;jumping off a cliff together into 
 "Derek DelGaudio is a magician of the soul. His performances bring us face to face not with illusions, which are just a vehicle, but with mysteries: the unanswerable questions at the heart of our lives," said the Public's artistic director Oskar Eustis. "Like his director and collaborator Frank Oz, he's transcended any genre and become, simply, one of our most visionary artists."
 
 ============================================================
-[25] The Full Circle Moment Robert Pattinson (Kinda) Told Us Zendaya Is Responsible For His 007 Role
+[26] The Full Circle Moment Robert Pattinson (Kinda) Told Us Zendaya Is Responsible For His 007 Role
 Source: CinemaBlend | Status: expanded | Words: 209
 Published: 2026-11-17T18:49:41+00:00
 URL: https://www.cinemablend.com/movies/full-circle-moment-robert-pattinson-kinda-told-us-zendaya-responsible-007-role-james-bond-denis-villeneuve
@@ -643,7 +663,7 @@ You can see the whole answer from the Q&A here:
 Which brings us to James Bond. After working with Villeneuve on Dune: Part Three , Pattinson was obviously excited about working with the Canadian director again, and now he’ll get his chance in a big way. He’ll be stepping into massive shoes once filled by the likes of Sean Connery , Roger Moore, Pierce Brosnan , Daniel Craig , and all the other actors who have played Bond over the years.
 
 ============================================================
-[26] SAG-AFTRA Reaches New Tentative Contract With Netflix
+[27] SAG-AFTRA Reaches New Tentative Contract With Netflix
 Source: Deadline | Status: expanded | Words: 196
 Published: 2026-11-17T18:44:59+00:00
 URL: https://deadline.com/2026/11/sag-aftra-new-tentative-contract-netflix-1237226841
@@ -663,7 +683,7 @@ The performers' union has had a standalone contract with Netflix Studios since 2
 The Netflix agreement applies to scripted, dramatic episodic and feature-length productions made by Netflix Studios, LLC. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[27] Broadway's Seaview Taps New York-Based Exec &#038; Former Clinton Non-Profit Advisor Justin Klein As COO; Ups Anna Mack Pardee
+[28] Broadway's Seaview Taps New York-Based Exec &#038; Former Clinton Non-Profit Advisor Justin Klein As COO; Ups Anna Mack Pardee
 Source: Deadline | Status: expanded | Words: 849
 Published: 2026-11-17T18:44:31+00:00
 URL: https://deadline.com/2026/11/seaview-justin-klein-anna-mack-pardee-broadway-1237226711
@@ -699,7 +719,7 @@ In a statement, Pardee said, "Since joining Seaview, I've had the great privileg
 Klein and Pardee will report directly to Nobile.
 
 ============================================================
-[28] Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview]
+[29] Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview]
 Source: The Playlist | Status: summary_only | Words: 120
 Published: 2026-11-17T18:41:42+00:00
 URL: https://theplaylist.net/jason-hehir-sctv-documentary-martin-scorsese-catherine-ohara-interview-20261117
@@ -711,7 +731,7 @@ CONTENT / EXTRACTED DETAILS:
 For anyone who grew up in Canada during the 1970s and ’80s, “ SCTV ” was practically a religion, an absurdist, wonderfully irreverent comedy institution that helped shape an entire generation’s sense of humor. Yet, south of the border, the show remained something of a cult curiosity, even as its astonishing ensemble of comedians went on to become household names. Now, 50 years after its debut, Netflix has finally given the series its due, making the original episodes available to stream alongside an affectionate, often hilarious, and unexpectedly moving documentary about its creation and enduring influence. Continue reading Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview] at The Playlist.
 
 ============================================================
-[29] Fremantle U.S. COO Suzanne Lopez Exiting After Over 20 Years
+[30] Fremantle U.S. COO Suzanne Lopez Exiting After Over 20 Years
 Source: Deadline | Status: expanded | Words: 262
 Published: 2026-11-17T18:38:34+00:00
 URL: https://deadline.com/2026/11/fremantle-us-coo-suzanne-lopez-exiting-1237226765
@@ -733,7 +753,7 @@ Lopez's departure comes after former Endemol Shine North America chief Sharon Le
 Lopez has been with Fremantle since March 2004.
 
 ============================================================
-[30] 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys
+[31] 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys
 Source: The Hollywood Reporter | Status: expanded | Words: 453
 Published: 2026-11-17T18:30:03+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-dad-2026-holiday-present-ideas-1236553994
@@ -763,7 +783,7 @@ Looking for something else? Check out THR &#x2018;s full assortment of holiday g
 Erin Lassner is THR 's E-Commerce Writer. She covers shopping across beauty, fashion and lifestyle, testing and reviewing the buzziest new products on the market.
 
 ============================================================
-[31] This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff
+[32] This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff
 Source: CinemaBlend | Status: expanded | Words: 254
 Published: 2026-11-17T18:29:00+00:00
 URL: https://www.cinemablend.com/television/fbi-surprising-update-i-need-know-potential-spinoff-shantel-vansanten-john-boyd
@@ -779,7 +799,7 @@ Shantel VanSanten returned to FBI as Special Agent Nina Chase in Monday’s epis
 FBI has been growing as a franchise, like any Dick Wolf series, so it’s totally logical to wonder about a spinoff coming from this update. Having two fan-favorite characters moving across the country for the job would certainly be a missed opportunity for another series, in my humble opinion. While it sounds like there aren’t any plans, and Boyd seems to be sticking around on FBI for the time being, if VanSanten has her way, we very well could be getting a Scolina spinoff at some point in the future. While we wait and hope for that, I'm just glad that it seems like Nina is finally getting closure .
 
 ============================================================
-[32] One Year Later, My Dress-Up Darling Still Leaves Fans Hanging With No Season 3
+[33] One Year Later, My Dress-Up Darling Still Leaves Fans Hanging With No Season 3
 Source: ComicBook.com | Status: expanded | Words: 563
 Published: 2026-11-17T18:28:47+00:00
 URL: https://comicbook.com/anime/feature/one-year-later-my-dress-up-darling-still-leaves-fans-hanging-with-no-season-3
@@ -805,7 +825,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Sundance Institute Partners With Dior to Support Female Filmmakers Through New Initiatives
+[34] Sundance Institute Partners With Dior to Support Female Filmmakers Through New Initiatives
 Source: The Hollywood Reporter | Status: expanded | Words: 606
 Published: 2026-11-17T18:26:02+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sundance-institute-dior-female-filmmakers-new-initiatives-1236757304
@@ -827,7 +847,7 @@ But wait, there's more: the Sundance and Dior initiative launches will be the to
 Added Michelle Satter , founding senior director of artist programs for the Sundance Institute: &#8220;At Sundance Institute, we believe every woman deserves the freedom to tell her story in her own voice, on her own terms. This shared commitment comes to life through the inaugural Miss Dior x Women at Sundance Institute Award, honoring a filmmaker whose creative vision makes a meaningful impact, and our ongoing Momentum Fellowship, which supports women directing their second or third fiction or nonfiction feature. Together, we're investing in the voices, visions and stories that will move our culture forward. We look forward to celebrating this partnership at the Women's Celebration Brunch presented by Dior during our upcoming Sundance Film Festival in Boulder.&#8221;
 
 ============================================================
-[34] Film Adaptation of 'Saint Philomene's Infirmary for Magical Creatures' Set from Danny Daneau, Laura C. Lopez
+[35] Film Adaptation of 'Saint Philomene's Infirmary for Magical Creatures' Set from Danny Daneau, Laura C. Lopez
 Source: The Hollywood Reporter | Status: expanded | Words: 332
 Published: 2026-11-17T18:26:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/saint-philomenes-infirmary-for-magical-creatures-movie-1236757328
@@ -853,7 +873,7 @@ Black Bar Mitzvah, headed by Jay Ellis and Aaron Bergman, is the production comp
 Lopez and Daneau are repped by M88 and HJTH.
 
 ============================================================
-[35] MLB The Show 27 Announced With First New Details
+[36] MLB The Show 27 Announced With First New Details
 Source: ComicBook.com | Status: expanded | Words: 418
 Published: 2026-11-17T18:22:22+00:00
 URL: https://comicbook.com/gaming/news/mlb-the-show-27-announced-with-first-new-details
@@ -877,7 +897,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Blink-182 and Pierce the Veil to Headline When We Were Young 2027
+[37] Blink-182 and Pierce the Veil to Headline When We Were Young 2027
 Source: Variety | Status: expanded | Words: 338
 Published: 2026-11-17T18:19:08+00:00
 URL: https://variety.com/2026/music/news/blink-182-pierce-the-veil-headline-when-we-were-young-2027-1236950552
@@ -897,7 +917,7 @@ The announcement of the 2027 festival comes after organizers announced in this p
 When We Were Young had its inaugural year in 20 at Santa Ana, CA's Observatory. It then moved to Las Vegas for its second iteration in 2022, where it has returned every year through 2025. Headliners in the past have included Blink-182 , Panic! at the Disco, My Chemical Romance, Paramore and more.
 
 ============================================================
-[37] 'Hershey' Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic
+[38] 'Hershey' Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic
 Source: The Hollywood Reporter | Status: expanded | Words: 842
 Published: 2026-11-17T18:18:37+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/hershey-review-finn-wittrock-alexandra-daddario-chocolate-1236757233
@@ -927,7 +947,7 @@ Wittrock, eventually outfitted with a period-perfect moustache, does a reasonabl
 The film ends in predictable fashion, with vintage photographs of the real-life figures and present-day footage of the school and its grateful students. That's followed by one of those annoying "Pay It Forward" pitches, gamely delivered by Wittrock and Daddario, urging us to pour more money into the studio's coffers under the guise of philanthropy.
 
 ============================================================
-[38] Spider-Man: Beyond the Spider-Verse Needs to Do Something the First Two Movies Never Could
+[39] Spider-Man: Beyond the Spider-Verse Needs to Do Something the First Two Movies Never Could
 Source: ComicBook.com | Status: expanded | Words: 784
 Published: 2026-11-17T18:18:00+00:00
 URL: https://comicbook.com/movies/feature/spider-man-beyond-the-spider-verse-needs-to-do-something-the-first-two-movies-never-could
@@ -951,7 +971,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Roadside Attractions Acquires U.S. Rights to Thriller 'One Second After' Based on William R. Forstchen Novel (EXCLUSIVE)
+[40] Roadside Attractions Acquires U.S. Rights to Thriller 'One Second After' Based on William R. Forstchen Novel (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-17T18:15:00+00:00
 URL: https://variety.com/2026/film/news/roadside-attractions-acquires-one-second-after-movie-1236949333
@@ -973,7 +993,7 @@ Josh Holloway stars alongside Hannah John-Kamen, Steven Ogg, Famke Janssen and M
 Roadside Attraction's other upcoming films include "The Gallerist," a crime comedy starring Natalie Portman, Jenna Ortega, Da'Vine Joy Randolph, Sterling K. Brown and Zach Galifianakis, and "Babies" starring Seth Rogen, Anna Kendrick, Issa Rae and Dan Stevens.
 
 ============================================================
-[40] Only Murders in the Building Changes Title for Season 6, Reveals All 3 Doctor Whos in the Cast
+[41] Only Murders in the Building Changes Title for Season 6, Reveals All 3 Doctor Whos in the Cast
 Source: ComicBook.com | Status: expanded | Words: 148
 Published: 2026-11-17T18:14:46+00:00
 URL: https://comicbook.com/tv-shows/news/only-murders-in-the-building-changes-title-for-season-6-reveals-all-3-doctor-whos-in-the-cast
@@ -989,7 +1009,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Jena Malone, Suzanna Son &#038; Sofia Mortera Wrap On Indie 'Kismet' From Giovanna Molina
+[42] Jena Malone, Suzanna Son &#038; Sofia Mortera Wrap On Indie 'Kismet' From Giovanna Molina
 Source: Deadline | Status: expanded | Words: 652
 Published: 2026-11-17T18:13:44+00:00
 URL: https://deadline.com/2026/11/jena-malone-suzanna-son-to-star-kismet-1237226780
@@ -1015,7 +1035,7 @@ Mortera voices Young Priscilla in Netflix's animated feature Steps and has appea
 A Mexican-Italian-American filmmaker from Brooklyn, NY, Molina's work explores stories of isolation, belief and surrealism within a female coming-of-age context. She has received grants and fellowships from Sundance, PBS, The Future of Film is Female and the Saul Zaentz Innovation Fund. Her film Quaker had its world premiere at the 75th Berlin Film Festival and won Best Narrative Short at Bend Film Festival. She holds an MFA in Directing from the UCLA School of Theater, Film and Television and a BA from Johns Hopkins University, with degrees in The Writing Seminars and Film & Media Studies. She is represented by Circle Management + Production.
 
 ============================================================
-[42] The Best 'Star Wars' Gifts to Shop in 2026: Film Premiere Tickets, a $500 Grogu Animatronic, Limited-Edition Collectibles and More
+[43] The Best 'Star Wars' Gifts to Shop in 2026: Film Premiere Tickets, a $500 Grogu Animatronic, Limited-Edition Collectibles and More
 Source: Variety | Status: expanded | Words: 273
 Published: 2026-11-17T18:07:10+00:00
 URL: https://variety.com/shop/star-wars-best-gifts-1203079097
@@ -1035,7 +1055,7 @@ There are also plenty of gifts for fans who prefer to wear their fandom, from Pa
 Below, find the best new "Star Wars" gifts to shop in 2026.
 
 ============================================================
-[43] Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown
+[44] Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-17T18:06:19+00:00
 URL: https://theplaylist.net/robert-pattinson-the-batman-part-iii-matt-reeves-james-bond-20261117
@@ -1047,7 +1067,7 @@ CONTENT / EXTRACTED DETAILS:
 Yesterday, many were happy to see that British actor Robert Pattinson had landed the James Bond role for " Bond 26 ," but were quickly questioning his future as the Caped Crusader. With him currently in production on " The Batman Part II " and a third film (assumed to be titled " The Batman Part III ") not yet finalized, fans are a little on edge about the whole thing and whether he'll be coming back to complete that trilogy. Continue reading Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown at The Playlist.
 
 ============================================================
-[44] Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie
+[45] Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie
 Source: The Playlist | Status: summary_only | Words: 92
 Published: 2026-11-17T18:06:10+00:00
 URL: https://theplaylist.net/timothee-chalamet-mystery-filmmaker-denis-villeneuve-sci-fi-project-20261117
@@ -1059,7 +1079,7 @@ CONTENT / EXTRACTED DETAILS:
 At just 30, Timothée Chalamet has already worked with some of Hollywood’s most celebrated directors, and apparently another major collaboration is on the horizon. The “ Dune: Part Three ” star is teasing a mystery project with a filmmaker he won’t name, while also revealing an intriguing Hollywood what-if involving Denis Villeneuve , who once turned down a major science-fiction movie because he didn’t feel ready to make it. Continue reading Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie at The Playlist.
 
 ============================================================
-[45] I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting
+[46] I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting
 Source: CinemaBlend | Status: expanded | Words: 1734
 Published: 2026-11-17T18:05:00+00:00
 URL: https://www.cinemablend.com/television/traitors-nbc-issue-runtime-newbies
@@ -1113,7 +1133,7 @@ Television It Took 4 Episodes Of Survivor 51 For Fans To Get Mad At Producers, B
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[46] 'Heated Rivalry' Star Connor Storrie, 'Obsession' Ingenue Inde Navarette and 'Backrooms' Filmmaker Kane Parsons Set as BAFTA U.S. Breakouts
+[47] 'Heated Rivalry' Star Connor Storrie, 'Obsession' Ingenue Inde Navarette and 'Backrooms' Filmmaker Kane Parsons Set as BAFTA U.S. Breakouts
 Source: The Hollywood Reporter | Status: expanded | Words: 511
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bafta-us-breakouts-2026-connor-storrie-inde-navarette-1236756614
@@ -1135,7 +1155,7 @@ BAFTA Breakthrough, supported by Apple TV, is now in its seventh year. It's desc
 The roster was selected by a jury that included Adolpho Veloso, Alysa Nahmias, Arseni Khachaturan, Julia Kim, Peter Teschner, Rolfe Kent, Sonia Kennebeck, Bella Gonzales and Nana Mensah for film and TV, and Bethany Higa, Bhamini Lakshminarayan, Del Walker, Mai Koythong, Michael Surya, Nick Apostolides, Robert Dominguez and Virginia Leo for games. Alums include Stephanie Economou, HIKARI, Nava Mau, Bao Nguyen, Fernando Reyes Medina, Karrie Shirou Shao, Erica Tremblay, Cheyenne Pualani Morrin, Sean Wang, Erika Ishii, Eva Victor and Chase Infiniti.
 
 ============================================================
-[47] Peacock Reveals 'The Traitors' Season 5 Premiere Date, First Look
+[48] Peacock Reveals 'The Traitors' Season 5 Premiere Date, First Look
 Source: Variety | Status: expanded | Words: 423
 Published: 2026-11-17T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496
@@ -1193,7 +1213,7 @@ The format was devised by IDTV and RTL. Cumming is an executive producer in addi
 Here's a first look at Season 5:
 
 ============================================================
-[48] Classic Comedy Performances From Dave Chappelle, Chris Rock, Bob Newhart and More Headed to Streaming
+[49] Classic Comedy Performances From Dave Chappelle, Chris Rock, Bob Newhart and More Headed to Streaming
 Source: The Hollywood Reporter | Status: expanded | Words: 397
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dave-chappelle-chris-rock-bob-newhart-classic-comedy-streaming-1236757197
@@ -1215,7 +1235,7 @@ The aim is to introduce classic material to viewers unfamiliar with the comedian
 800 Pound Gorilla Media, which is celebrating its 10th anniversary, champions comedians through production, distribution, digital programming and creator-first partnerships. The company reaches more than 20 million comedy fans each month across its platforms and social channels. Its growing slate of partnerships includes Nateland, Comedy Central Records, Kevin Hart's Laugh Out Loud Network, All Things Comedy and streaming platforms including Tubi. Through Gorilla Comedy+, the company continues to expand its efforts to connect comedians and audiences around the world.
 
 ============================================================
-[49] "In a Very Primal Way It's About Who We Are as Queer Men in Our 60s": 'THR Presents' Q&#038;A With 'Tip Toe' Star Alan Cumming and Creator Russell T Davies
+[50] "In a Very Primal Way It's About Who We Are as Queer Men in Our 60s": 'THR Presents' Q&#038;A With 'Tip Toe' Star Alan Cumming and Creator Russell T Davies
 Source: The Hollywood Reporter | Status: expanded | Words: 485
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/alan-cumming-russell-t-davies-tip-toe-interview-thr-presents-1236754405
@@ -1235,30 +1255,4 @@ That real-life horror became the story of Tip Toe , which follows opens with the
 Davies created the show with the UK's Channel Four, and while he was ferociously writing the scripts he says he &#8220;warned&#8221; the network that they were coming. &#8220;When I eventually handed the script in to them, they commissioned the show within seven days. Nothing happens that fast. But seven days later in the middle of their Christmas dinner they said yes &#x2014; that's how much they felt it was important.&#8221;
 
 Watch the rest of the conversation between Cumming and Davies in the video above. This edition of THR Presents is sponsored by Starz .
-
-============================================================
-[50] The Hunger Games: Sunrise on the Reaping Early Rotten Tomatoes Score Continues a Franchise Trend
-Source: ComicBook.com | Status: expanded | Words: 633
-Published: 2026-11-17T17:55:54+00:00
-URL: https://comicbook.com/movies/news/the-hunger-games-sunrise-on-the-reaping-early-rotten-tomatoes-score-continues-a-franchise-trend
-------------------------------------------------------------
-SUMMARY:
-The Hunger Games: Sunrise on the Reaping is opening in theaters, and the first big screenings for critics and fans are already happening. As such, official reviews for Sunrise on the Reaping are starting to get posted online, and Rotten Tomatoes is pulling them together to get an official aggregate score, letting people know if […]
-
-CONTENT / EXTRACTED DETAILS:
-Based on current scores, The Hunger Games: Sunrise on the Reaping looks like it will stand alongside most of the Hunger Games movies Francis Lawrence has made. However, it still falls short of the franchise's most critically acclaimed films by a significant margin.
-
-As of writing this, The Hunger Games: Sunrise on the Reaping has a Rotten Tomatoes Score of 69%, with more than 50 reviews having been submitted thus far. That puts Sunrise on the Reaping on par with The Hunger Games: Mockingjay Part 1 and Part 2 , which each carry a score of 70%. It is a step up from the previous Hunger Games prequel, The Ballad of Songbirds & Snakes , which carries a Rotten Tomatoes score of 64%. That all said, Sunrise on the Reaping &#8216;s score is still well below the first two Hunger Games films ( The Hunger Games, The Hunger Games: Catching Fire ), which still hold the highest scores with 85% and 90%, respectively.
-
-It's hard (at this point) to imagine any new Hunger Games movie unseating Catching Fire . That second film is where Franchis Lawrence took over the directorial reins and made a sequel film that was much more in line with Lionsgate's and fans' expectations than the first film. Director Gary Ross ( Pleasantville, Big, Seabiscuit ) tried to make an arthouse film out of the first book, with handheld guerrilla-style filming that left fans dizzy, as well as a muted and shadowy color palette that had fans squinting just to see what was happening. When Lawrence delivered a well-shot and lavishly colored sequel, it sparked a whole new wave of interest in the series; the initial &#8220;backlash&#8221; to Hunger Games being a Battle Royale clone had faded, and franchise star Jennifer Lawrence was stepping into the prime run of her career. It all amounted to the biggest box office earnings of the entire series, with Catching Fire earning $865 million worldwide.
-
-The Hunger Games: Sunrise on the Reaping may not be hitting the same critical heights as Catching Fire , but it does have a shot at being one of the bigger box office takes in the series. Catching Fire was about Katniss Everdeen and Peeta Mellark being dragged back into the Hunger Games for the 75th Anniversary, after they survived the 74th Games. Every 25 years, the Capitol holds a &#8220;Quarter Quell&#8221; that demands double the number of tributes from each district to compete in the Hunger Games; Sunrise on the Reaping looks back on the 50th Games, the Second Quarter Quell, where Katniss Everdeen's future mentor, Haymitch Abernathy, competed in one of the bloodiest and most savage tournaments ever. The film will reveal how the massive trauma of the 50th Hunger Games (and its aftermath) inspired the rebellion that would finally strike back at the Capitol by turning Katniss Everdeen into the revolutionary figure known as &#8220;The Mockingjay.&#8221;
-
-In our ComicBook Review, critic Nicole Drum writes, &#8220; The Hunger Games: Sunrise on the Reaping is a good movie. It’s honestly a very good adaptation of what might be one of the best books in Suzanne Collins’ overall Hunger Games series. Much about the film makes it easily the best-made in the entire franchise, and it truly has some of the best performances as well. But while it is good, it falls just short of greatness. The potential is there; it is just ultimately unrealized, but it still makes for a fitting (presumably) final chapter in the saga.&#8221;
-
-The Hunger Games: Sunrise on the Reaping will be in theaters starting this weekend.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
