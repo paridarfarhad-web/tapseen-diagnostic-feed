@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T17:46:04.340Z"
+    "updated_at": "2026-11-17T17:48:03.385Z"
   },
   "articles": [
     {
@@ -37,6 +37,21 @@
       "word_count": 402,
       "extracted_at": "2026-11-17T17:46:04.183Z",
       "updated_at": "2026-11-17T17:46:04.183Z"
+    },
+    {
+      "id": "ee838ce6-1dcf-42c1-b21f-4ec7d9d30b78",
+      "title": "As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning",
+      "summary": "I'd love to see these characters back aboard the Black Pearl.",
+      "content": "Johnny Depp returning to theaters in Ebenezer on the 2026 movie schedule , renewed interest has grown in whether he'll ever play Captain Jack Sparrow again . Producer Jerry Bruckheimer has already confirmed that discussions have taken place about bringing Depp back for Pirates of the Caribbean 6 , although nothing has been officially announced. Now another familiar face from the original movies has weighed in, and I have to admit, this is one reunion I'd love to see happen.\n\nI would absolutely love this. Pintel and Ragetti were two of my favorite supporting characters from the original trilogy, and their ridiculous behavior provided some great comic relief between all the sword fights and increasingly more extravagant set pieces.\n\nSomehow, they survived three movies filled with undead pirates, sea monsters and increasingly complicated betrayals. That's honestly impressive considering how frequently they seemed to have no idea what was going on. While I certainly want to see Johnny Depp return as Jack Sparrow, I think bringing back characters like these could be just as important to making another Pirates movie feel connected to the originals.\n\nBruckheimer previously confirmed that he's been speaking with Depp about a sixth movie , although the project remains in development. Depp recently suggested he'd be interested in helping give the franchise a proper sendoff, particularly if it meant working with Bruckheimer again.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/johnny-depp-faces-pirates-of-the-caribbean-6-rumors-another-star-weighs-in-returning-mackenzie-crook",
+      "published_at": "2026-11-17T17:43:06+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/39fx7Y2VJtaYjG4df7sLLh-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 226,
+      "extracted_at": "2026-11-17T17:48:03.229Z",
+      "updated_at": "2026-11-17T17:48:03.229Z"
     },
     {
       "id": "30fe561e-739e-401c-beda-aa8bf9303765",
@@ -742,21 +757,6 @@
       "word_count": 538,
       "extracted_at": "2026-11-17T16:36:02.922Z",
       "updated_at": "2026-11-17T16:36:02.922Z"
-    },
-    {
-      "id": "9058ad2c-a707-40f4-a466-beb627af81e9",
-      "title": "Georgia Lee Boards ‘Zhong Kui: Demon Slayer’ As Showrunner; Janet Yang &#038; Simon Yam To Also Executive Produce",
-      "summary": "EXCLUSIVE: Award-winning writer, director and producer Georgia Lee has signed on as showrunner of Zhong Kui: Demon Slayer (working title), a supernatural drama series about one of Chinese culture’s most powerful mythological figures. Lee is a co-executive producer on HBO’s recently announced Crazy Rich Asians television series, and previously served as showrunner and executive producer […]",
-      "content": "EXCLUSIVE: Award-winning writer, director and producer Georgia Lee has signed on as showrunner of Zhong Kui: Demon Slayer (working title), a supernatural drama series about one of Chinese culture's most powerful mythological figures.\n\nLee is a co-executive producer on HBO's recently announced Crazy Rich Asians television series, and previously served as showrunner and executive producer of Netflix's Partner Track . She was also a writer and co-producer on the acclaimed sci-fi space opera The Expanse .\n\nSingapore-based production house Matlock Stone has developed the project in partnership with Janet Yang Productions, founded by the producer and former AMPAS president, and Sunny View Media. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories Books Kristen Ciccarelli's 'Crimson Moth' Book Series In Development For TV Adaptation With 'The 100's Kim Shumway Penning Script News Co-production More Important Than Ever In AI Era, Say Filmart Panelists: \"Those Days Of The Blockbusters Are Gone\"\n\nLee and Yang will both executive produce the series, along with Hong Kong actor Simon Yam; Emmy-nominated editor Zimo Huang; Sean Ng; and Jin Li Lim. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nAccording to Chinese legend, Zhong Kui was a brilliant scholar in Tang Dynasty China who took his own life after being unjustly denied an imperial appointment. Recognised after death for his integrity and fierce sense of justice, he was elevated to become the King of Ghosts, taking his place in the Chinese pantheon as a powerful demon-slayer and protector of the mortal world from supernatural evil.\n\nLike other Chinese mythological figures including Nezha and Sun Wukong (a.k.a. the Monkey King), Zhong Kui features regularly in Chinese, Korean and Japanese pop culture across film, television, comics and video games. These include Tencent's hugely popular mobile game Honor Of Kings and Game Science's upcoming Black Myth: Zhong Kui , the follow-up to the wildly successful Black Myth: Wukong game.\n\nSet in contemporary Hong Kong, Zhong Kui: Demon Slayer brings the legendary figure into the modern world after a century-long absence. Disillusioned after more than a thousand years of protecting humanity, Zhong Kui is reluctantly drawn back into action, confronting a world transformed in his absence &#x2013; and an evil that has evolved with it. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nLee's credits also include 2005 indie film Red Doors , which she wrote and directed. She started her career apprenticing on Gangs Of New Yor k after its director Martin Scorsese saw her first short film, The Big Dish .\n\nCommenting on Zhong Kui: Demon Slayer , Lee said: \"Zhong Kui is one of the great figures of Chinese mythology, and I'm thrilled to bring him to life. I've long been drawn to stories about the struggle between hope and despair, and Zhong Kui lets us explore that eternal conflict on two scales at once: the intensely personal journey of one man, and the larger battle for humanity's soul.\n\n\"I've always believed the most specific stories, rooted deeply in a particular culture and point of view, are the ones that speak most universally. I'm excited to share the richness of Chinese folklore with a global audience through a story about the power of forgiveness, hope, and grace in the face of cynicism and despair.\"\n\nYang added: \"Ever since meeting her over 20 years ago, Georgia has always impressed me with her brilliant, curious mind, and passion for storytelling. She is particularly fond of comic books (having even published her own) and sci-fi, having gotten her start in TV writing on the iconic show The Expanse . Add to this her deep exploration of Asian-American identity and early mentorship under Martin Scorsese, she undoubtedly brings a unique perspective to this project.\n\n\"With the rise of K-pop and Asian dramas, to the success of games like Black Myth: Wukong , and even internet trends like Chinamaxxing, we're witnessing a growing global fascination with Asian culture. With Zhong Kui , we have a highly-beloved character from the rich world of Chinese mythology, but we place him in a contemporary setting, ensuring he will be equally embraced by those meeting him for the first time.\"\n\nYam, one of Hong Kong's most iconic actors, said: \"Chinese culture has thousands of years of rich stories, traditions and extraordinary figures that have so much to offer audiences today. These stories have travelled far and wide over the millennia, and today there is a real appetite to discover so much more.\n\n\"Zhong Kui is one of the great figures from that profound heritage, but what makes him exciting to me is how much there is to explore. He comes from another time, yet so much of what surrounds him &#x2013; how we think about justice, human nature, the choices people make and the world we create for ourselves &#x2013; feels just as relevant today.\"\n\nZhong Kui: Demon Slayer i s currently in development. Zimo Huang is represented by Brian Goldberg of Ascent. Georgia Lee is represented by Lee Rosenbaum of RLG LLP, and Abby Glusker and Mickey Berman of UTA. Matlock Stone is represented by Chace McGuire of Myman Greenspan.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/georgia-lee-zhong-kui-demon-slayer-janet-yang-simon-yam-1237224818",
-      "published_at": "2026-11-17T16:15:00+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-04-31-PM-5651.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 917,
-      "extracted_at": "2026-11-17T16:36:03.108Z",
-      "updated_at": "2026-11-17T16:36:03.108Z"
     }
   ]
 }
