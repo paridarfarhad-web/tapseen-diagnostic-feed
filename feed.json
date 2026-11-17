@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T18:46:12.085Z"
+    "updated_at": "2026-11-17T18:54:06.812Z"
   },
   "articles": [
+    {
+      "id": "8ceca668-6a62-48f8-a21d-6773b0f68163",
+      "title": "The Full Circle Moment Robert Pattinson (Kinda) Told Us Zendaya Is Responsible For His 007 Role",
+      "summary": "From Dune to Bond, a real team is forming here.",
+      "content": "It’s been a huge year for Robert Pattinson and Zendaya . The latter has already been in two of the biggest movies of the year, The Odyssey and Spider-Man: Brand New Day , while the former co-starred with Zendaya in The Odyssey and The Drama , and received praise for his role as Chris Hanson in Primetime . They are starring again in Dune: Part Three, which hits the 2026 movie schedule on December 18th (“DunesDay”). Pattinson, you may have heard, also landed the role of a lifetime yesterday when he was named the next James Bond .\n\nWhile Zendaya does acknowledge that she “knows a guy,” talking about Villeneuve, whom she worked with on the first two Dune movies, she doesn’t take full credit. However, Pattinson continues:\n\nYou can see the whole answer from the Q&A here:\n\nWhich brings us to James Bond. After working with Villeneuve on Dune: Part Three , Pattinson was obviously excited about working with the Canadian director again, and now he’ll get his chance in a big way. He’ll be stepping into massive shoes once filled by the likes of Sean Connery , Roger Moore, Pierce Brosnan , Daniel Craig , and all the other actors who have played Bond over the years.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/full-circle-moment-robert-pattinson-kinda-told-us-zendaya-responsible-007-role-james-bond-denis-villeneuve",
+      "published_at": "2026-11-17T18:49:41+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BWXciYDc4CBue7qG2vnP27-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 209,
+      "extracted_at": "2026-11-17T18:54:06.657Z",
+      "updated_at": "2026-11-17T18:54:06.657Z"
+    },
     {
       "id": "cfaa6181-75c6-4470-9ecd-44df2b5bd9e3",
       "title": "SAG-AFTRA Reaches New Tentative Contract With Netflix",
@@ -742,21 +757,6 @@
       "word_count": 709,
       "extracted_at": "2026-11-17T17:12:22.049Z",
       "updated_at": "2026-11-17T17:12:22.049Z"
-    },
-    {
-      "id": "bb53e756-5816-4ba9-ba60-a13acd9937fe",
-      "title": "GTA 6 Just Got Nominated for Game of the Year, But There Still Aren't Any Reviews",
-      "summary": "One of the most exciting times for the gaming industry is The Game Awards, when everyone's eyes are on which game will win Game of the Year. As one of the most anticipated games of all time, it's no surprise that Grand Theft Auto 6 is being considered for the title, but its nomination may […]",
-      "content": "Rockstar Games has spent years developing GTA 6, and the past year has generated an incredible amount of hype for the game. It is easily one of the biggest launches in gaming history , but does that justify a GOTY nomination before the game has even been released and there are no published reviews? Excitement does not necessarily equate to quality, and it is totally possible, if incredibly unlikely, that Grand Theft Auto 6 could bomb. It faces huge expectations, but what Rockstar has released so far seems to be meeting those. Only time will tell if GTA 6 is worthy of being considered Game of the Year, but so far the TGA seems to think so.\n\nGrand Theft Auto 6 is set to release on November 19th, 2026, but it has already made history. Not only has it seen the Miami Heat change their name for a night , but a live festival is being held to celebrate its in-game music . And now, it has been nominated for Game of the Year with seemingly zero evidence it should be considered. According to the rules, a game must release before November 20th to be considered eligible, and the game is doing that. This means GTA 6 is nominated alongside games like 007 First Light , Control Resonan t, Phantom Blade Zero , Resident Evil Requiem , The Legend of Zelda: Ocarina of Time .\n\nThe odd part of this is that Rockstar Games has set strict guidelines about reviews, meaning players likely won't know how GTA 6 holds up until release or shortly before it. However, several outlets are already playing the game, and The Game Awards is using these to determine its nominations for GOTY. This means that those deciding what games could potentially win this award already have their hands on the game.\n\nWith this in mind, GTA 6's inclusion in this short list of games makes sense. Those who are deciding what games to consider for GOTY are the best suited to determine if Rockstar Games' latest efforts deserve the spot, and the indication is that it does. If the game is among those chosen, it should reveal that Grand Theft Auto 6 is poised to meet expectations and possibly exceed them.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/gta-6-just-got-nominated-for-game-of-the-year-but-there-still-arent-any-reviews",
-      "published_at": "2026-11-17T17:10:09+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 413,
-      "extracted_at": "2026-11-17T17:12:23.154Z",
-      "updated_at": "2026-11-17T17:12:23.154Z"
     }
   ]
 }
