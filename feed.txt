@@ -1,9 +1,29 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T23:04:34.761Z
+Last Updated: 2026-11-17T23:12:27.652Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as James Bond and Admits Initial Fears 'Because He's Already So Famous'
+[1] Jeff Daniels Set For Ramy Youssef's 'Martha &#038; Muhammad' At A24
+Source: Deadline | Status: expanded | Words: 257
+Published: 2026-11-17T23:10:00+00:00
+URL: https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef's A24 feature comedy Martha &#38; Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Youssef's feature directorial debut. Three-time Emmy nominated and Golden Globe winning Youssef also wrote the screenplay. The multi-hyphenate's Cairo […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef &#8216;s A24 feature comedy Martha & Muhammad alongside previously announced Amanda Seyfried and Sharon Stone.
+
+Plot and character details are being kept secret in what is Youssef's feature directorial debut.
+
+Three-time Emmy nominated and Golden Globe winning Youssef also wrote the screenplay. The multi-hyphenate's Cairo Cowboy will produce alongside Eli Bush, Ronald Bronstein, and Josh Safdie for Central, Christopher Storer and Tyson Bidner for American Light & Fixture, and A24, who will also finance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Daniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in 2013 , and Supporting Actor in Limited Series for Godless in 2018. He is starring in the upcoming Joseph Gordon-Levitt directed sci-fi thriller 2034 and Josh Wakely's sci-fi thriller Starman. He recently starred in The Brink of War as Ronald Regan and starred in the Netflix David E. Kelley miniseries based on the Tom Wolfe novel, A Man in Full. Daniels is also a 5x Golden Globe nominee, 5x SAG Actors Award nominee and Tony Award nominee Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Daniels is represented by LBI, Martino Management, and Yorn Levine.
+
+============================================================
+[2] Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as James Bond and Admits Initial Fears 'Because He's Already So Famous'
 Source: Variety | Status: expanded | Words: 534
 Published: 2026-11-17T23:03:42+00:00
 URL: https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970
@@ -27,13 +47,13 @@ While Bezos never mentioned by name, industry analysts seemingly had a handle on
 Amazon finalized its deal for MGM, the studio behind James Bond, in 2022. However, they didn't have creative control of the franchise until they bought out longtime Bond producers Michael G. Wilson and Barbara Broccoli for $20 million. Denis Villeneuve and Pattinson's film will be the first released after the deal.
 
 ============================================================
-[2] Thom Velde, Longtime AMC Theatres Executive, Dies at 83
+[3] Thom Velde, Longtime AMC Theatres Executive, Dies at 83
 Source: The Hollywood Reporter | Status: expanded | Words: 307
 Published: 2026-11-17T23:03:14+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/thom-velde-dead-amc-theatres-executive-1236757931
 ------------------------------------------------------------
 SUMMARY:
-He served as the chain’s head film buyer and oversaw Canadian operations and real estate ventures during his nearly three decades with the company.
+He served as head film buyer and oversaw Canadian operations and real estate ventures during his nearly three decades with the company.
 
 CONTENT / EXTRACTED DETAILS:
 Thom Velde, who served as head film buyer at AMC Theatres during his 27 years with the chain, died of cancer on Oct. 31 in Rancho Mirage, his family announced. He was 83.
@@ -53,7 +73,7 @@ Donations in his memory may be made to the Will Rogers Motion Picture Pioneers F
 "Thom was an avid golfer and a devoted college football fan," they continued. "Above all, he loved his family and friends, who will remember his strength of character, his generosity and the way he made time for the people in his life. He was always willing to lend a hand and had a special gift for keeping friendships alive over the years."
 
 ============================================================
-[3] IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees
+[4] IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees
 Source: The Hollywood Reporter | Status: expanded | Words: 1343
 Published: 2026-11-17T23:02:25+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-ida-documentary-awards-nominations-nominees-list-1236757888
@@ -209,7 +229,7 @@ Overlooked : A Silent Extinction United Kingdom | National Film and Television S
 Renacimiento Guatemala, Chile | Universidad de Chile Directors: Karel Barra & Ana Turbay | Producer: Ana Turbay
 
 ============================================================
-[4] Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
+[5] Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
 Source: The Hollywood Reporter | Status: expanded | Words: 341
 Published: 2026-11-17T22:57:03+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909
@@ -237,7 +257,7 @@ The irony is not lost on people that the Bond franchise is filled with tech tyco
 Now James Bond is firmly controlled by one of the world's richest man, and a mogul whose empire spans tech, media, entertainment and even rockets into space. And this time he was the one helping to call the shots.
 
 ============================================================
-[5] Trae Crowder Sets Comedy Interview Series 'Help Me Out Here' With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest
+[6] Trae Crowder Sets Comedy Interview Series 'Help Me Out Here' With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest
 Source: Deadline | Status: expanded | Words: 588
 Published: 2026-11-17T22:49:49+00:00
 URL: https://deadline.com/2026/11/trae-crowder-sets-help-me-out-here-series-atc-1237227172
@@ -261,7 +281,7 @@ A nationally touring comedian, writer, best-selling author and political comment
 All Things Comedy's podcast network is home to dozens of shows, including Monday Morning Podcast with Bill Burr, The Dollop with Dave Anthony and Gareth Reynolds, TigerBelly with Bobby Lee and Khalyla Kuhn, and Rick Glassman's Take Your Shoes Off . Outside of podcasting, they recently produced the upcoming feature comedy Golf Trip with Live Nation and HartBeat, as well as Marie Faustin's Why Are You Single? for Tubi and The Bad Game Show with Andrew Santino & Bobby Lee.
 
 ============================================================
-[6] Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team
+[7] Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team
 Source: Deadline | Status: expanded | Words: 761
 Published: 2026-11-17T22:45:00+00:00
 URL: https://deadline.com/2026/11/matt-shakman-launches-foolscap-production-banner-1237227137
@@ -289,7 +309,7 @@ VP Dillon has worked across high-profile projects for Disney, Netflix, Marvel an
 VP Gutman began her career at 20th Century Fox Television and ABC Signature Studios before transitioning to producing with James Frey. During her time alongside Frey, she worked on projects including the series Relationship Status (Verizon Go90), American Gothic (CBS) and The Kicks (Amazon) and the feature film Queen & Slim . She then produced Rebel and Hulu's Good American Family with Stearn through his deal at ABC. Currently, she's in prep on Season 2.
 
 ============================================================
-[7] ‘Dancing With the Stars’: All 34 Winners
+[8] ‘Dancing With the Stars’: All 34 Winners
 Source: The Hollywood Reporter | Status: expanded | Words: 1911
 Published: 2026-11-17T22:44:43+00:00
 URL: https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list
@@ -385,7 +405,7 @@ Robert Irwin and Witney Carson won the coveted mirrorball of DWTS &#8216; 2025 i
 The winner of Dancing With the Stars season 35 is soon-to-be-announced when the finale airs on Nov. 24. With the semi-final round of competition about to kick off, the champion will be one of the following celebrities still in the running: Tatyana Ali , Ezra Frech , Amber Glenn , Maura Higgins, Harry Shum Jr. or Connor Wood .
 
 ============================================================
-[8] Jennifer Lawrence's 'Hunger Games' Premiere Look Proves the Boudoir Coat Is Back: Here's Where to Shop Similar Styles Online
+[9] Jennifer Lawrence's 'Hunger Games' Premiere Look Proves the Boudoir Coat Is Back: Here's Where to Shop Similar Styles Online
 Source: Variety | Status: expanded | Words: 315
 Published: 2026-11-17T22:43:29+00:00
 URL: https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905
@@ -407,7 +427,7 @@ While Lawrence's Dior creation and Ives' silk robes carry luxury price tags, sho
 Shop a few styles similar to Lawrence's Dior ensemble &#x2014; at a variety of price points &#x2014; below:
 
 ============================================================
-[9] CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That's Not Safe
+[10] CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That's Not Safe
 Source: Variety | Status: expanded | Words: 2088
 Published: 2026-11-17T22:41:27+00:00
 URL: https://variety.com/2026/music/news/cma-awards-predictions-2026-nominees-ella-langley-1236950822
@@ -501,7 +521,7 @@ Will win: Tucker Wetmore Could win: Stephen Wilson Jr.
 Wetmore is the only one here with No. 1 hits, which ought to be enough to push him across the line as voters face the inevitable question of how they think their choice will hold up 10 or 15 years from now. He'd be a worthy winner, but so would any of the others, most of all the critically beloved Faith and Wilson. Faith just picked up a key Grammy nomination&#8230; which of course means little in this context, but just saying&#8230; she's interesting and she's a keeper. So is Wilson, who has a much larger profile at present, including a lot of left-over love from how he killed it on last year's telecast, twice. Wetmore is the horse to bet on, but this might be closer to a photo finish than most would suspect.
 
 ============================================================
-[10] Leading Cyber Expert: “We Are Entering the Flickers”
+[11] Leading Cyber Expert: “We Are Entering the Flickers”
 Source: The Hollywood Reporter | Status: expanded | Words: 1288
 Published: 2026-11-17T22:36:17+00:00
 URL: https://www.hollywoodreporter.com/business/digital/hack-cybersecurity-outages-flights-what-should-i-do-1236757846
@@ -513,7 +533,7 @@ CONTENT / EXTRACTED DETAILS:
 One hallmark of living in late-stage 2026 is the possibility that we'll wake up and the news site we visit is down, or trying to steal our money. If we muster the courage to get out of bed, we shouldn't expect to talk to anyone or go anywhere, as chances are that Outlook is offline or the FAA has grounded flights . Perhaps a bleak portrait, but one that has been painted in the past week with a host of cyber-security fails &#x2014; &#8220;an advent calendar of societal collapse,&#8221; as Jon Stewart put it on The Daily Show Monday night. A slew of those fails have affected the media and entertainment worlds already, with CNN part of said crypto-swipe Tuesday morning and plenty of executives and workers stuck on the ground Friday. So far cyber experts don't believe anything coordinated is happening here, even if some cable-news figures aren't so sure . But even without a single unifying bad actor, the picture is bleak. Fading infrastructure combined with new AI tools that can easily exploit it can only spell trouble. For an industry still scarred by the 2014 Sony hack and all it exposed, the news hits hard. And Hollywood conducts a lot more business digitally these days than it did then, from all the Fandango ticket-ordering to the Spotify-streaming to the Disney+-subscribing. Cyber attacks and a faulty Internet hold the possibility of a major industry disruption. So how worried should the business &#x2014; and we as individuals &#x2014; actually be? For that we called Brett J. Goldstein. Goldstein (no relation to the Richmond barker, oi) holds an esteemed perch in American cyber defense, having occupied the role of director of the Defense Digital Service in the DoD under late-era Trump I and early Biden. He's also a former Chief Information Officer for the city of Chicago and currently holds a professorship at Vanderbilt University in Nashville, where he runs a lab examining such threats. We caught up with him by Signal Tuesday. For anyone looking at all the failures and groundings in the past week, it can be hard not to connect the dots. Do you see them as related in any way or the result of one actor? I don't know that there's reason to believe its coordinated but it's certainly a scary sequence of events which is very troubling. The loss of email or problems with Chase or groundings at United &#x2014; just because it's not coordinated doesn't mean it's not a cumulative problem. What are the roots of that problem in your view? What we are seeing is an under-investment in our infrastructure that is coming home to roost. You used to be able to hide &#x2014; it used to take a determined researcher to find a security weakness. But now thanks to AI we can't really hide. AI can find a needle in a haystack as never before. And so we have weaknesses as never before. Just look at PHP (a failure in Internet code baked-in during the 1990s that has been unearthed by AI). So we have to start fixing all of it, and we can't put it off even one day. It feels like we have spent decades eating poorly and now, facing a potential heart attack, we're trying to avoid it with a crash diet. Is this possible to fix quickly? I don't know that it's impossible but it's certainly true we have a lot of sins to pay for. We need to pay our tech debt. There really are only two scenarios: the next few years will be either bumpy or really freaking bad. Everyone needs to change the way they're thinking to make sure it's the first one. So a best-case scenario is bumpiness. What does that look like? I think we are entering a period of the flickers and I think this past week has really demonstrated that. My sense is this is the beginning. You wrote in a Washington Pos t op-ed last week about those flickers. &#8220;For you, it looks like this. Your bank's app is down. The pharmacy cannot pull up your prescription. Your paycheck is late &#x2014; not stolen, just late because the payroll company unplugged its system to be safe. None of it is a catastrophe on its own. All of it, every week, is a different country from the one we live in now." That is what will happen and all we can do is start fixing things across various sectors to shorten the period it happens. And [AI] frontier labs need to be a part of the solution too. If we bring quality [solutions] and stability we can make it less bumpy. But I don't think we can avoid that we are entering the flickers. So we just need to start updating our systems. What does that mean for individuals? This feels like good advice if you run an IT department but what about as consumers? Signal over text, obviously. But what about everything else? Is clicking on CNN actually bad? Is my credit card exposed just because it's on file at Hulu? Should we all just be moving to clay tablets? I would just say do all the things you're supposed to do and don't put it off. If a Chrome update button pops up for the love of Job click the freaking button. If there's a patch, install it. Two-factor authentication and strong passwords and passkeys of course. If there's something more complicated in your life consult a cyber expert. You need to do all of the steps, not some of the steps, not most of the steps. Noting is foolproof but there are ways to protect yourself more. Many people in the entertainment industry are especially worried because they still feel the aftereffects of the Sony hack. I talked to someone recently who was exposed and the way they spoke can only be described as a kind of PTSD. How likely is something on that scale happening again? I think there's a lot of variance in the media sector just like there is in all sectors. Some companies and some individuals are reasonably protected and vigilant. And then with others it's like &#8220;Oh my God, you're so high profile and you're not taking care of business." But if the question is it more likely or less likely, of course it's more likely. A few years ago when you thought about [a hack] it needed to be an adversary with a lot of tenacity and effort. Now AI-enabled scenarios make it so someone with no scruples can, without much effort, look at 100 things at once. The business side of Hollywood seems at risk as well. Streaming services rely on smooth digital interactions to conduct business; even a few seconds is critical, never mind compromised data or a daylong outage. How vulnerable are all those platforms? This is super-impactful for commerce. My core point if you're in a position to do something at an organization is to set priorities. Yes you can do all the fancy front-facing AI stuff you're doing but if you're not doing the other stuff &#x2014; if you're not making sure the underlying platform is fundamentally sound and sustainable &#x2014; none of that matters. OK, I've been putting it off. You've gotten into the bumpy scenario. What's the really freaking bad one? Well, I'll just say your whole day is tied to a system, and what happens if that system starts to unravel? If you can't trust it? If it's not just about a grounded flight which forces you to drive but everything else? But again, it's an inflection point for us as a society. It's not too late. We do have a choice.
 
 ============================================================
-[11] ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity
+[12] ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-17T22:35:53+00:00
 URL: https://theplaylist.net/threeasfour-full-circle-review-sean-ono-lennon-20261117
@@ -525,7 +545,7 @@ CONTENT / EXTRACTED DETAILS:
 What happens when extraordinary talent, boundless imagination, and an uncompromising artistic vision aren’t enough to survive? That’s the bittersweet question at the heart of “threeASFOUR: Full Circle,” a sympathetic, surprisingly poignant documentary from Sean Ono Lennon about three avant-garde fashion designers whose greatest strengths may also be their greatest vulnerabilities. For more than 25 years, the collective has pushed the boundaries of fashion, earning museum exhibitions, prestigious awards, and celebrity admirers. Continue reading ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity at The Playlist.
 
 ============================================================
-[12] 'Much Ado About Nothing' With Tom Hiddleston &#038; Hayley Atwell Takes Hefty $2.4M; Billy Crystal's '860' Breaks House Record - Broadway Box Office
+[13] 'Much Ado About Nothing' With Tom Hiddleston &#038; Hayley Atwell Takes Hefty $2.4M; Billy Crystal's '860' Breaks House Record - Broadway Box Office
 Source: Deadline | Status: expanded | Words: 664
 Published: 2026-11-17T22:33:50+00:00
 URL: https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593
@@ -563,7 +583,7 @@ In the 25th week of the 2026-27 season, Broadway has grossed $803,067,274 season
 All figures courtesy of The Broadway League. For more box office information visit the League's web .
 
 ============================================================
-[13] I’ve Been Wondering About The Penguin Season 2 Amid DC Shakeups, So What’s Happening?
+[14] I’ve Been Wondering About The Penguin Season 2 Amid DC Shakeups, So What’s Happening?
 Source: CinemaBlend | Status: expanded | Words: 201
 Published: 2026-11-17T22:31:00+00:00
 URL: https://www.cinemablend.com/television/ive-been-wondering-the-penguin-season-2-dc-shakeups-whats-happening
@@ -579,7 +599,7 @@ The idea of Lauren LeFranc producing a Poison Ivy TV series is a thrilling one, 
 Sofia was one of the main protagonists of The Penguin, and the actress' performance was incredible and earned her an Emmy Award. Unfortunately, Milioti won't be part of The Batman: Part II , despite her popularity among fans. What's more, Colin Farrell claimed he's only in two scenes of the forthcoming sequel. So why not put Cobblepot and Falcone center stage for a second installment of the acclaimed HBO series?
 
 ============================================================
-[14] Here's How to Play GTA 6 Early Ahead of Its Official Release Date and Unlock Time
+[15] Here's How to Play GTA 6 Early Ahead of Its Official Release Date and Unlock Time
 Source: ComicBook.com | Status: expanded | Words: 495
 Published: 2026-11-17T22:30:00+00:00
 URL: https://comicbook.com/gaming/news/gta-6-release-early-timezone-trick-new-zealand
@@ -603,7 +623,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Shutters Opens Doors to Annual Membership Club
+[16] Shutters Opens Doors to Annual Membership Club
 Source: The Hollywood Reporter | Status: expanded | Words: 314
 Published: 2026-11-17T22:27:59+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/shutters-on-the-beach-santa-monica-annual-membership-club-1236757829
@@ -623,7 +643,7 @@ Per the hotel, the exclusive offer &#8220;represents the ultimate level of exper
 Just like the hotel, reservations are required : The membership offering is limited to 20 spots per year with guest and family passes available as add-ons. See below for views inside the property and its Shutters Reserve amenities.
 
 ============================================================
-[16] Anne Hathaway Welcomes Third Child With Husband Adam Shulman
+[17] Anne Hathaway Welcomes Third Child With Husband Adam Shulman
 Source: The Hollywood Reporter | Status: expanded | Words: 404
 Published: 2026-11-17T22:22:26+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/anne-hathaway-welcomes-third-child-1236730455
@@ -651,7 +671,7 @@ Once her final film of the year, Verity , was released in October, Hathaway quip
 &#8220;There's been more than enough of me for quite some time,&#8221; she previously said on CBS Mornings . &#8220;And I've been really, really happy, but I think it's time to leave the party.&#8221;
 
 ============================================================
-[17] Marvel Started Planning for Robert Downey Jr.'s Doctor Doom Before Jonathan Majors Was Fired and 'Avengers: The Kang Dynasty' Fell Apart, Says Kevin Feige
+[18] Marvel Started Planning for Robert Downey Jr.'s Doctor Doom Before Jonathan Majors Was Fired and 'Avengers: The Kang Dynasty' Fell Apart, Says Kevin Feige
 Source: Variety | Status: expanded | Words: 506
 Published: 2026-11-17T22:20:09+00:00
 URL: https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563
@@ -675,7 +695,7 @@ According to Feige, Marvel first got in touch with Robert Downey Jr's agent (tel
 &#8220;Avengers: Doomsday&#8221; opens in theaters Dec. 18.
 
 ============================================================
-[18] The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson
+[19] The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson
 Source: Variety | Status: expanded | Words: 2092
 Published: 2026-11-17T22:15:00+00:00
 URL: https://variety.com/lists/robert-pattinson-james-bond-villains-actors-picks
@@ -765,7 +785,7 @@ In “I'm Still Here,” Fernanda Torres played Eunice Paiva, a woman standing u
 Imagine Torres as the power behind the throne: a Rio de Janeiro media baroness who smiles for the cameras while quietly buying off half the government?
 
 ============================================================
-[19] Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+[20] Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
 Source: The Hollywood Reporter | Status: expanded | Words: 810
 Published: 2026-11-17T22:10:41+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786
@@ -807,7 +827,7 @@ Matt Damon paid tribute to Morton, who was unable to attend due to illness. In p
 It was a sentiment that echoed Coon's earlier call for women to turn the night's celebration into something more lasting. &#8220;Nights like these shouldn't be one-off nights where we celebrate,&#8221; Coon said. &#8220;They should be the beginning of those conversations.&#8221;
 
 ============================================================
-[20] Wait, The Actual Contestants On The Mob Weren't Told The Rules?
+[21] Wait, The Actual Contestants On The Mob Weren't Told The Rules?
 Source: CinemaBlend | Status: expanded | Words: 251
 Published: 2026-11-17T22:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/actual-contestants-on-the-mob-werent-told-rules-willam-belli
@@ -823,7 +843,7 @@ Well, my mind is blown. It was hard enough to nail down the rules and format of 
 Willam might be the only contestant from RuPaul's Drag Race to get disqualified, but that doesn't mean she went against the rules in every situation. After all, The Mob cast were starting a brand new competition series, and didn't have any previous episodes to use as a reference. The folks who caught on seemed to make it the farthest, but it was curtains for other favorites like Willam, Bruno, and Debi Mazar.
 
 ============================================================
-[21] ‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score
+[22] ‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score
 Source: Variety | Status: expanded | Words: 110
 Published: 2026-11-17T22:00:06+00:00
 URL: https://variety.com/2026/film/awards/ida-documentary-awards-2026-nominations-full-list-1236950889
@@ -837,7 +857,7 @@ This year's nominees include " You Can See Everything ," " To Hold a Mountain " 
 The 42nd annual IDA Documentary Awards will also present the following honors: Related Stories 'The Hunger Games: Sunrise on the Reaping' First Reactions Call Prequel the 'Rogue One' of the Franchise and Praise Joseph Zada as Haymitch Jennifer Lawrence Says Playing Katniss Again After 11 Years in 'Hunger Games: Sunrise on the Reaping' Was 'Crazy,' 'Unbelievable' and 'So Beautiful'
 
 ============================================================
-[22] 2 of the Greatest Stealth Games Ever Released 20+ Years Ago and Completely Reshaped the Genre
+[23] 2 of the Greatest Stealth Games Ever Released 20+ Years Ago and Completely Reshaped the Genre
 Source: ComicBook.com | Status: expanded | Words: 843
 Published: 2026-11-17T22:00:00+00:00
 URL: https://comicbook.com/gaming/feature/2-of-the-greatest-stealth-games-ever-released-20-years-ago-and-completely-reshaped-the-genre
@@ -869,7 +889,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Broadway Box Office: 'Inter Alia,' Starring Rosamund Pike, Starts Strong, '860' Breaks Play House Record
+[24] Broadway Box Office: 'Inter Alia,' Starring Rosamund Pike, Starts Strong, '860' Breaks Play House Record
 Source: The Hollywood Reporter | Status: expanded | Words: 279
 Published: 2026-11-17T21:52:19+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-inter-alia-rosamund-pike-860-record-1236757799
@@ -891,7 +911,7 @@ Blue Man Group, which is hitting Broadway for the first time, had a rough start,
 Here There Are Blueberries opened to positive reviews Nov. 9, and brought in $834,112 across opening week, which included the comped opening night. The show played to 99 percent capacity.
 
 ============================================================
-[24] Classic Xbox 360 Game From 2010 Revealed to Be Getting a New Remaster
+[25] Classic Xbox 360 Game From 2010 Revealed to Be Getting a New Remaster
 Source: ComicBook.com | Status: expanded | Words: 416
 Published: 2026-11-17T21:45:00+00:00
 URL: https://comicbook.com/gaming/news/xbox-360-games-remaster-2010-new-super-meat-boy
@@ -915,7 +935,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of 'Hunger Games' Actors At 'Sunrise On The Reaping' Premiere
+[26] Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of 'Hunger Games' Actors At 'Sunrise On The Reaping' Premiere
 Source: Deadline | Status: expanded | Words: 714
 Published: 2026-11-17T21:44:22+00:00
 URL: https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905
@@ -953,7 +973,7 @@ In part, he said in opening remarks, "because I had the privilege of reading ano
 Nina Jacobson and Francis Lawrence at The Hunger Games: Sunrise On The Reaping premiere
 
 ============================================================
-[26] 'The Traitors' Season 5 Sets Release Date as First Trailer Highlights "Chorus of Chaos" to Come
+[27] 'The Traitors' Season 5 Sets Release Date as First Trailer Highlights "Chorus of Chaos" to Come
 Source: The Hollywood Reporter | Status: expanded | Words: 458
 Published: 2026-11-17T21:35:04+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/the-traitors-season-5-trailer-release-date-1236757779
@@ -975,7 +995,7 @@ The season five cast of The Traitors will feature Chenoweth; Leavitt; RuPaul's D
 Season four of The Traitors dominated at the 2025 Emmys, winning in the reality competition program category for the third year in a row. The show took home all seven awards it was nominated for, with Alan Cumming winning his third consecutive Emmy for best reality host, also marking the second year in a row that The Traitors won all of the Emmys it was nominated for.
 
 ============================================================
-[27] Jane Lynch Is Ready to Reprise Her Role as Sue Sylvester in the 'Glee' Reboot
+[28] Jane Lynch Is Ready to Reprise Her Role as Sue Sylvester in the 'Glee' Reboot
 Source: The Hollywood Reporter | Status: expanded | Words: 758
 Published: 2026-11-17T21:32:44+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/jane-lynch-would-return-glee-revival-1236757757
@@ -1021,7 +1041,7 @@ More recently, though, Colfer said that he'd had a "nice conversation with someo
 He even suggested some potential storylines for his character: "I would love to see him like a Miranda Priestly-type, running his own fashion blog or a magazine. I could also see him on tour with Chappell Roan, styling her. There's a lot of fun avenues they could explore."
 
 ============================================================
-[28] How Patrick Stewart Felt After His Fight With James Corden At The Glamour Awards
+[29] How Patrick Stewart Felt After His Fight With James Corden At The Glamour Awards
 Source: CinemaBlend | Status: expanded | Words: 265
 Published: 2026-11-17T21:31:00+00:00
 URL: https://www.cinemablend.com/television/how-patrick-stewart-felt-after-fight-james-corden-glamour-awards
@@ -1041,7 +1061,7 @@ The resurfaced viral video was the most I've seen of James Corden since he retir
 It's important to know the context of how both sides felt after the fact, because unfortunately, I think people unfairly pushed a narrative about the interaction that wasn't true. The implication was that Patrick Stewart hated James Corden, who has been a polarizing figure since stepping into the limelight.
 
 ============================================================
-[29] Charlie Heaton &#038; Al Pacino Romantic Fantasy Drama 'Billy Knight' Acquired By Magenta Edge Films
+[30] Charlie Heaton &#038; Al Pacino Romantic Fantasy Drama 'Billy Knight' Acquired By Magenta Edge Films
 Source: Deadline | Status: expanded | Words: 578
 Published: 2026-11-17T21:26:25+00:00
 URL: https://deadline.com/2026/11/charlie-heaton-al-pacino-billy-knight-1237227001
@@ -1067,7 +1087,7 @@ The feature was produced by Prominent Productions, Firebrand Media Group, and RN
 The distribution deal for Billy Knight was negotiated by C.J. Vranca and Bill Vergos on behalf of Magenta Edge Films, and Josh Clayton on behalf of Elias Film productions. Roth is represented by Keyun &#x2018;Country' Parker of Parker's Communication and Entertainment Services.
 
 ============================================================
-[30] NBC Celebrates 100th Anniversary With Amy Poehler, Jimmy Fallon and More Stars at Rainbow Room Soirée
+[31] NBC Celebrates 100th Anniversary With Amy Poehler, Jimmy Fallon and More Stars at Rainbow Room Soirée
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-17T21:25:18+00:00
 URL: https://variety.com/2026/tv/news/nbc-100th-anniversary-party-1236950781
@@ -1091,7 +1111,7 @@ Raising a glass to the network's history, Cavanagh said in a toast: "NBC has pla
 The cocktail party is one of many celebrations honoring NBC's 100th anniversary. A primetime special will air live on NBC on Dec. 10, uniting legendary casts, talent and performers for musical performances, comedic tributes, and surprise reunions.
 
 ============================================================
-[31] Harry Potter May Be Headed to the Small Screen For Christmas But Time Is Running Out to Stream the Movies
+[32] Harry Potter May Be Headed to the Small Screen For Christmas But Time Is Running Out to Stream the Movies
 Source: ComicBook.com | Status: expanded | Words: 541
 Published: 2026-11-17T21:21:14+00:00
 URL: https://comicbook.com/movies/news/harry-potter-may-be-headed-to-the-small-screen-for-christmas-but-time-is-running-out-to-stream-the-movies
@@ -1115,7 +1135,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Recasting The Original Back to the Future for 2026
+[33] Recasting The Original Back to the Future for 2026
 Source: ComicBook.com | Status: expanded | Words: 1123
 Published: 2026-11-17T21:20:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-back-to-the-future-for-2026
@@ -1153,7 +1173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] ‘3 Body Problem’ Sets Season 2 Release Date at Netflix (TV News Roundup)
+[34] ‘3 Body Problem’ Sets Season 2 Release Date at Netflix (TV News Roundup)
 Source: Variety | Status: expanded | Words: 1614
 Published: 2026-11-17T21:17:35+00:00
 URL: https://variety.com/2026/tv/news/tv-news-roundup-week-of-nov-16-1236949183
@@ -1233,7 +1253,7 @@ The 40-title slate was announced in January. It marks Dhar Mann Studios' first m
 The five series and their release dates are below. Subscribers can access each title a week earlier. "The Brothers Who Love Me" &#x2014; Nov. 25 "Rescue Mission" &#x2014; Dec. 1 "Married to the Wind" &#x2014; Dec. 8 "Rhythm of the Heart" &#x2014; Dec. 15 "The Rockstar Who Wants Me" &#x2014; Dec. 22
 
 ============================================================
-[34] ‘The Body’ Creator Quinn Shephard on Quitting Acting and Turning Religious Trauma Into Queer, Catholic Ecstasy
+[35] ‘The Body’ Creator Quinn Shephard on Quitting Acting and Turning Religious Trauma Into Queer, Catholic Ecstasy
 Source: Variety | Status: expanded | Words: 2024
 Published: 2026-11-17T21:12:06+00:00
 URL: https://variety.com/2026/tv/news/quinn-shephard-religious-trauma-queer-horror-1236949615
@@ -1279,7 +1299,7 @@ There's a throughline that runs through Shephard's work and the films gravitated
 As Shephard puts it, "People who go to church searching for a religious experience, and me and my friends in Silver Lake doing a guided mushroom trip and talking about connecting with ancestral energy or whatever &#x2014; it's all the same human desire."
 
 ============================================================
-[35] Dune Director Ranks the Three Movies, And His Answer for the Best One Makes Sense
+[36] Dune Director Ranks the Three Movies, And His Answer for the Best One Makes Sense
 Source: ComicBook.com | Status: expanded | Words: 431
 Published: 2026-11-17T21:10:58+00:00
 URL: https://comicbook.com/movies/news/dune-director-ranks-the-three-movies-and-his-answer-for-the-best-one-makes-sense
@@ -1305,7 +1325,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] How to Watch 'He Said, She Said: Till Death Do Us Part,' Detailing a Private Custody Battle Turned Public Dispute
+[37] How to Watch 'He Said, She Said: Till Death Do Us Part,' Detailing a Private Custody Battle Turned Public Dispute
 Source: The Hollywood Reporter | Status: expanded | Words: 291
 Published: 2026-11-17T21:08:22+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-he-said-she-said-till-death-do-us-part-true-crime-doc-1236757716
@@ -1329,7 +1349,7 @@ Paramount+ Premium (formerly known as Paramount+ with Showtime) is $13.99 per mo
 As for students , verify your student status here for 50 percent off any Paramount+ plan for the first 12 months. Learn more and claim the deal now at ParamountPlus.com .
 
 ============================================================
-[37] Palm Springs Film Awards Honorees: 'The Odyssey' Cast Set For Ensemble Performance Award
+[38] Palm Springs Film Awards Honorees: 'The Odyssey' Cast Set For Ensemble Performance Award
 Source: Deadline | Status: expanded | Words: 1198
 Published: 2026-11-17T21:08:00+00:00
 URL: https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429
@@ -1383,7 +1403,7 @@ The Invite centers on dinner party between two neighboring couples spirals into 
 The pic premiered this year at Sundance and hit theaters in late June, becoming one of the year's top-grossing limited debuts. It has grossed $61.2 million to become an indie summer hit both domestically and overseas.
 
 ============================================================
-[38] Super Dragon Ball Heroes Deserves an Official English Release
+[39] Super Dragon Ball Heroes Deserves an Official English Release
 Source: ComicBook.com | Status: expanded | Words: 525
 Published: 2026-11-17T21:05:00+00:00
 URL: https://comicbook.com/anime/feature/super-dragon-ball-heroes-deserves-an-official-english-release
@@ -1407,7 +1427,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Bat, Bond and Beyond: How Robert Pattinson Landed 007 (and What Comes Next)
+[40] Bat, Bond and Beyond: How Robert Pattinson Landed 007 (and What Comes Next)
 Source: The Hollywood Reporter | Status: expanded | Words: 1120
 Published: 2026-11-17T21:00:15+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-landed-007-what-next-1236757722
@@ -1457,7 +1477,7 @@ Borys Kit and Aaron Couch contributed to this report.
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe.
 
 ============================================================
-[40] Kids Competition Series 'Shrunk' Set at Amazon Kids+, CBC, ITV From Insight, Dark Slope, Irad Eyal (EXCLUSIVE)
+[41] Kids Competition Series 'Shrunk' Set at Amazon Kids+, CBC, ITV From Insight, Dark Slope, Irad Eyal (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 461
 Published: 2026-11-17T21:00:00+00:00
 URL: https://variety.com/2026/tv/news/kids-competition-series-shrunk-amazon-kids-cbc-itv-1236950683
@@ -1485,7 +1505,7 @@ Shrunk is created by Atoosa Mohajer and Dan Fill for Dark Slope; Tanya Low and L
 "We're delighted to partner with Dark Slope to bring this epic series to life for Amazon Kids+, CBC, and ITV," added Lysakowski. "It's a unique collaboration and we're using cutting edge technology to give kids a once-in-a-lifetime opportunity to compete on a one-of-a-kind playground."
 
 ============================================================
-[41] The Legend of Zelda: Ocarina of Time's Story is a Tragedy Disguised as an Adventure
+[42] The Legend of Zelda: Ocarina of Time's Story is a Tragedy Disguised as an Adventure
 Source: ComicBook.com | Status: expanded | Words: 1231
 Published: 2026-11-17T21:00:00+00:00
 URL: https://comicbook.com/gaming/feature/the-legend-of-zelda-ocarina-of-times-story-is-a-tragedy-disguised-as-an-adventure
@@ -1519,7 +1539,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Diane Keaton's 'Memory Is Honored in Everything‘ in 'Family Stone' Sequel, Says Star Dermot Mulroney
+[43] Diane Keaton's 'Memory Is Honored in Everything‘ in 'Family Stone' Sequel, Says Star Dermot Mulroney
 Source: Variety | Status: expanded | Words: 495
 Published: 2026-11-17T20:48:43+00:00
 URL: https://variety.com/2026/film/news/dermot-mulroney-diane-keaton-family-stone-sequel-1236950731
@@ -1549,7 +1569,7 @@ Mulroney was promoting the sophomore season of "The Hunting Wives," where he sta
 Recalling reading the Season 2 script for the first time, Mulroney said, "Everything I think might happen doesn't and whatever they come up with is 10 times better than anything I thought."
 
 ============================================================
-[43] Vans Warped Tour Orlando: Bands Support Each Other Over Two Days of Camaraderie and Rock Music After Flights Were Grounded
+[44] Vans Warped Tour Orlando: Bands Support Each Other Over Two Days of Camaraderie and Rock Music After Flights Were Grounded
 Source: The Hollywood Reporter | Status: expanded | Words: 1332
 Published: 2026-11-17T20:42:46+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/2026vans-warped-tour-orlando-bands-recap-1236757258
@@ -1589,7 +1609,7 @@ A half-pipe kept folks entertained with skateboarders doing stunts, while BMX at
 The weekend ended with a literal bang, as Sunday's closer, The Used, performed a cover of Nirvana's &#8220;Smells Like Teen Spirit&#8221; while fireworks exploded in the night sky.
 
 ============================================================
-[44] The War on Drugs Wake Up a 97-Year-Old New Jersey Theater With Spellbinding, Two-Hour Set Featuring New Songs
+[45] The War on Drugs Wake Up a 97-Year-Old New Jersey Theater With Spellbinding, Two-Hour Set Featuring New Songs
 Source: Variety | Status: expanded | Words: 554
 Published: 2026-11-17T20:41:22+00:00
 URL: https://variety.com/2026/music/news/the-war-on-drugs-new-songs-loews-jersey-theatre-1236949930
@@ -1617,7 +1637,7 @@ While the new single is surely an indication, a new War on Drugs album has yet t
 No song was more exciting than "An Ocean in Between the Waves," its machine-like drumbeat a canvas for Granduciel to paint &#x2014; his guitar a roaring, distorted beast. The song title is fitting; so much of a War on Drugs concert feels like the sea. You're drifting, lulled by currents that swell so slowly you barely notice, the band moving in tidal unison. Every so often, you spot it on the horizon: a joyous, intoxicating surge. Before you know it, you've been swept up and carried to shore.
 
 ============================================================
-[45] Joseph Zada Spent a Month Watching "Everything Woody Harrelson Has Ever Done" to Prepare for 'Hunger Games' Role
+[46] Joseph Zada Spent a Month Watching "Everything Woody Harrelson Has Ever Done" to Prepare for 'Hunger Games' Role
 Source: The Hollywood Reporter | Status: expanded | Words: 476
 Published: 2026-11-17T20:39:27+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/joseph-zada-woody-harrelson-hunger-games-premiere-1236757437
@@ -1641,7 +1661,7 @@ As for how they navigated shaking off that material when leaving set, Zada admit
 The Hunger Games: Sunrise on the Reaping hits theaters on Friday.
 
 ============================================================
-[46] Keke Palmer &#038; Lena Dunham Circling Universal Rom-Com From Writers Tracy Oliver &#038; Scott King
+[47] Keke Palmer &#038; Lena Dunham Circling Universal Rom-Com From Writers Tracy Oliver &#038; Scott King
 Source: Deadline | Status: expanded | Words: 599
 Published: 2026-11-17T20:30:00+00:00
 URL: https://deadline.com/2026/11/keke-palmer-lena-dunham-rom-com-universal-1237226622
@@ -1665,7 +1685,7 @@ Dunham just announced a five-episode limited series revival of her lauded HBO se
 Best known as a contestant on ABC's The Bachelor turned lead on spin-off The Bachelorette &#x2014; where she became the first Black lead in the history of the franchise &#x2014; Lindsay has made appearances on a pair of HBO Max series: Hacks , where she played herself, and Made for Love . The Universal rom-com would mark her first feature producing credit. She is repped by Entertainment 360 and Myman Greenspan Fox.
 
 ============================================================
-[47] Instagram Testing Joke-Stealing Detection to Crack Down on Fake AI Comics
+[48] Instagram Testing Joke-Stealing Detection to Crack Down on Fake AI Comics
 Source: The Hollywood Reporter | Status: expanded | Words: 470
 Published: 2026-11-17T20:28:06+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/instagram-joke-detection-fake-ai-comedians-1236757682
@@ -1695,7 +1715,7 @@ In October, two comics posted detailed side-by-side breakdowns showing how their
 &#8220;So another AI bot just stole my joke,&#8221; added Julia Jasunas. &#8220;I've seen a couple other videos of other comedians posting about the exact same problem, and the thing that's the most concerning is these AI bots are going viral, and people think that they're real people. Who does comedy in Daisy Duke shorts?&#8221;
 
 ============================================================
-[48] Festival In Focus: Qatar Ramps Up International Film &#038; TV Ambitions As Local Talent Shines
+[49] Festival In Focus: Qatar Ramps Up International Film &#038; TV Ambitions As Local Talent Shines
 Source: Deadline | Status: expanded | Words: 1264
 Published: 2026-11-17T20:21:47+00:00
 URL: https://deadline.com/2026/11/festival-in-focus-qatar-industry-days-doha-1237226931
@@ -1769,7 +1789,7 @@ Al Khanji hopes films like his will bring a fresh perspective on the region.
 "The more we have people telling human stories, the better the area will be understood,&#8221; he says.
 
 ============================================================
-[49] Michiel Huisman, Samuel Armfield &#038; Erik Alens Join Apple TV’s Wyatt Russell-Led Monsterverse Series
+[50] Michiel Huisman, Samuel Armfield &#038; Erik Alens Join Apple TV’s Wyatt Russell-Led Monsterverse Series
 Source: Deadline | Status: expanded | Words: 423
 Published: 2026-11-17T20:21:41+00:00
 URL: https://deadline.com/2026/11/michiel-huisman-samuel-armfield-erik-alens-monsterverse-1237226910
@@ -1791,126 +1811,4 @@ Legendary's Monsterverse is an expansive cross-platform story universe centered 
 The new series is executive produced by Harold and Tory Tunnell for Safehouse Pictures alongside Russell, Chris Black, Kyle Bradstreet, Alex Boden, Dillard, Andy Goddard and James Skotchdopole. Hiro Matsuoka and Takemasa Arita executive produce on behalf of Toho Co., Ltd., the owner of the Godzilla character.
 
 Huisman is repped by UTA, Authentic Talent & Lit, and Conway Van Gelder Grant. Armfield is repped by The BWH Agency. Alens is repped by Independent Talent Group, Mosaic, and Ziffren Law.
-
-============================================================
-[50] Paul Bettany and Ruaridh Mollica Can Finally Talk About Those 'VisionQuest' Spoilers
-Source: The Hollywood Reporter | Status: expanded | Words: 4899
-Published: 2026-11-17T20:18:37+00:00
-URL: https://www.hollywoodreporter.com/tv/tv-features/visionquest-fiale-spoilers-paul-bettany-ruaridh-mollica-1236757670
-------------------------------------------------------------
-SUMMARY:
-A week on from that buzzy finale, the co-stars, who play synthezoid Vision and his superpowered son Tommy Maximoff, tell all to THR about filming the final chapter of the ‘WandaVision’ trilogy and what that heartfelt family reunion (minus one key character) means for their futures in the MCU. "As long as there are interesting and fun stories for Vision, I’ll be putting on my tights," quips Bettany.
-
-CONTENT / EXTRACTED DETAILS:
-[This story contains MAJOR spoilers from the finale of VisionQuest , &#8220;Forever.&#8221;]
-
-For all its existential theatrics, Marvel's VisionQuest was always going to tell a profoundly human love story between a synthezoid father, Vision (Paul Bettany), and the long-lost son he finally claims as his own, Tommy Maximoff (Ruaridh Mollica).
-
-Created by Terry Matalas , the new Disney+ series picks up the threads left dangling after WandaVision and Agatha All Along , where White Vision vanished into the sky with his restored memories and Tommy's soul was reincarnated into the body of teenager Thomas Shepherd. Over the course of eight episodes, VisionQuest finds both characters wrestling with their fractured sense of identity. Vision works to piece together his humanity while keeping his paternal instincts at arm's length &#x2014; fearing that acknowledging Tommy means accepting the loss of Wanda Maximoff (Elizabeth Olsen) &#x2014; even as Tommy struggles to reconcile his new life with his latent super-speed and a deep longing for the family he barely remembers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Movies 'Vision Quest' at 40: Matthew Modine Explains How the Coming-of-Age Classic Landed Him 'Full Metal Jacket' TV James Spader Returning as Ultron for Marvel's Vision Series
-
-Vision and Tommy's parallel journeys collide in the finale, when grief pushes a newly unleashed Ultron (James Spader) &#x2014; Vision's own mercurial A.I. father figure &#x2014; to launch a deadly nanobot swarm on London after Jocasta (T'Nia Miller), the companion he unwittingly falls for, is killed. Rather than defeating his creator through brute force, Vision pulls Ultron into a shared sitcom mindscape &#x2014; a poignant callback to WandaVision &#x2014; to talk him through his pain and convince him to stand down. The gambit saves the city at the cost of Vision's own power core, leaving Tommy and his newly arrived twin brother Billy (Joe Locke) to combine their powers and revive their father, cementing the family bond Vision spent all season running from. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Having finally reclaimed his humanity (and transformed back to his original red self), Vision decides to finally release the various A.I.s from his mindscape, dismantling the internal sanctuary he once used to shut out the world so he can build a real life with his now-grown sons.
-
-By the end of VisionQuest , Vision is "fully ready to engage with planet Earth [and] the people in it, rather than this space that he has created where he can just hide and ruminate in his own mind," Bettany tells The Hollywood Reporter . Still, the English actor &#x2014; who first played the synthezoid in 2015 &#x2014; insists that he doesn't know what the future holds for his character: "As long as there are interesting and fun stories for Vision, I'll be putting on my tights."
-
-Similarly, Mollica claims that he does not know when he will play Tommy again, but he knows how his character fits into the MCU canon. "I loved the Young Avengers comics," says the Scottish-Italian actor. "I really started reading them all as I was going through the audition process for character research. Those stories are so cool, and it'd be cool to explore that one day."
-
-In separate conversations last week, which have been edited into the extended Q&A below, Bettany and Mollica spoke to THR about playing out Vision and Tommy's parallel trajectories, sharing the screen with Locke's Billy for the first time, and their hopes for a full Maximoff family reunion.
-
-Jac Schaeffer initially conceived WandaVision as the first show of an MCU trilogy, but she reportedly stepped away from this Vision sequel to focus on Agatha All Along , and Terry Matalas quickly stepped in to redevelop the show. Paul, what exactly was your collective vision &#x2014; no pun intended &#x2014; for this final installment, and how involved were you in crafting the story as an executive producer? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-PAUL BETTANY It was actually a great thing that we had five years to figure this out. We were able to sit with ideas about what the show could be. It's easy to think of Marvel as a kind of infernal machine churning out endless product, and actually, it's very boutique in that you can count the people on one hand that you're actually speaking to about a project. When Terry came on, he and I went and had a delicious lunch, and he was very collaborative, which is in keeping with how all of my experiences with Marvel have been. He was asking what I wanted to do, and I knew that we were going to have Tommy in it and eventually Billy &#x2014; it feels so weird to say because I've been keeping that so secretive for so long! ( Laughs. )
-
-To that end, I wanted to make it really about fathers and sons. I thought it would be a really cool counterprogramming to WandaVision , which was a lot of female energy, to end it with something that was a lot of positive male energy and see how different characters deal with their grief. So when Terry said, "I have an idea. What about we get the band back together and we get James Spader?" I was like, "That's it! Because now we can do pain and trauma being passed down from father to son, but do it with robots and lasers and fighting and all of that great Marvel stuff."
-
-Ruaridh, you didn't even know what you were auditioning for until you met Paul and Terry for a screen test in Los Angeles. How did those early conversations inform your approach to playing Tommy, given that he is also grappling with dual identities like Vision? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-RUARIDH MOLLICA The hardest part was figuring out the inner conflict within Tommy right at the start in the first few episodes, where he is denying his existence as Tommy Maximoff, and he's very much holding onto his life as Thomas Shepherd. He grew up an orphaned kid, he's not had a lot of support and love in his life, and all he really wants to be is seen. So when you throw something else into the mix that he others himself with, it makes that harder to accept. He's really struggling with the impossibility of these nightmares that he's having.
-
-Through those conversations, we really wanted to lean into his utter fear. In that first scene where Tommy meets Vision, I'm strapped in the chair in St. Mayben's [the psychiatric facility where Thomas Shepherd was held after Tommy's consciousness was moved into his body], and White Vision goes underneath the red light, and it makes up the red face of all of these nightmares that my character had been having. I put a picture of Paul's face as Red Vision on my wall and wrote "Devil! Nightmare!" around it, because it was so important to be afraid of him at the start.
-
-And then it meant a really natural progression into slowly trusting and that back and forth of slowly accepting the truth. I guess we're both doing that simultaneously. To see them on such a parallel journey is really funny sometimes because they're both wanting the same thing and both unable to accept it. But that's what's so beautiful about that relationship, because they need each other to do that. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-For most of the season, Vision acts like a father to Tommy while refusing to claim the title, fearing that acknowledging his son means accepting the loss of Wanda and the destruction of their family. It isn't until he confronts that grief and embraces his humanity that he can finally step wholeheartedly back into fatherhood.
-
-BETTANY You've identified what the whole show really is about, which is an acceptance of who you are and being cool with your identity. There is a moment where I'm with Tommy at the pool in episode three, and I tell him, "This isn't you. I just haven't been listening well enough, and you are who you think you are." I think that's a really powerful thing to say to young people.
-
-I've had the fortune &#x2014; because I've been playing this character so long &#x2014; of meeting the people who are fans of that character. If you listen and you are open, you will hear what feels important about Vision to them &#x2014; and I really did listen. There was a lot of similarity in the people who were fans of Vision, and I realized, "Oh, that was me when I was young. I was the bullied kid. I was the kid who didn't feel like he fit in anywhere, who was so concerned that there wasn't going to be a place for him in the adult world." And then you understand what that contract is between the audience and Vision.
-
-So that moment foreshadows the moment where Vision finally accepts who he is and what has happened to him, which Terry and I wanted to be the moment that Vision becomes his most powerful. It's true of humans: [The moment] you really accept who you are and what has happened to you and are okay with that is when you become the most powerful version of yourself. So because we're in a superhero show with robots, that's where he gets his powers back. The initial remit from Kevin Feige was: How do we get cool White Vision back to warm Red Vision? We thought it'd be so great and a nice bit of clockwork storytelling if that is the reason that he becomes whole again. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid5' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Vision's personal breakthrough comes in episode seven, when he finally confronts the grief of losing his family &#x2014; allowing him to transform back into his red self. He only reaches that point after an encounter in his mindscape with two figures whose own complicated father-son dynamic forces him to reflect on his role as a parent: Dr. Phineas Horton, the WWII-era scientist who built the first synthetic man, and J.I.M., his emotionally conflicted creation. Considering you had to play all three characters in that scene, what was the biggest challenge of acting opposite yourself multiple times?
-
-BETTANY I'm always up for a challenge, and it was the most challenging three days mentally, but not really for the reasons one might think. I had a brilliant stunt man called John who was up for learning all of the lines, and he would play the scenes with me. But the problem is when you're working on your script, you know the story and the lines, but you don't know how the other actor is going to say those lines. It made me really relish working with actual other actors who are not me, because, for instance, [when] you're working with James Spader, there's never a scene where he doesn't do something to surprise you, and that's gold dust as an actor working opposite them. Whilst I am working opposite John, I basically know what I'm going to do when I'm the other person.
-
-So it was a tricky three days, but it was such a laugh to know what we were trying to accomplish. There was some pressure on that scene, because it's really where you are landing the plane in terms of Vision coming to terms with who he is. The last thing we shot was White Vision's coverage. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid6' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Terry, who was directing episodes seven and eight, did a fantastic job with me. He's an actor's director, and he pushed me. It's a silly thing, right? You think of sad things and make yourself upset, and unless you're an insane person, it's hard to want to stay in that place. You get in there and you want out; you want to get the shot. I said, "I don't know, Terry. I think we've got it." He walked me around the corner and we sat down together, and he went, "I think we got it, but I was wondering: We do still have a little bit of time left, and if you have one [more]&#x2026;" He was, in that very gentle way, pushing me to dig deeper &#x2014; and that's the take [of Vision's breakdown] he used.
-
-As Vision rediscovers his own powers, Tommy &#x2014; whose superhero name is Speed &#x2014; is also just beginning to realize that he has powers he can't control yet. Ruaridh, how did you figure out what those powers would actually look like in live action?
-
-MOLLICA One of my favorite parts about superhero films and shows is when they're figuring out their powers and don't quite know how they work yet. At the start, it had to manifest as smaller things. So exploring how that would exist in the transference of energy from the electrical cattle prod in episode two felt like a good way to let that out first, where even Tommy's not sure what happened. It planted seeds of the truth in his psyche, but it wasn't a big enough event for him to be like, "Oh wow, I have superpowers," because it could still be played off as a freak accident. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid7' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-But it was really cool doing the one in the swimming pool with Paul when I bring him back to life, exploring how speed manifests in being able to change the molecular structure and put that atomic speed into the water to create enough electrical charge to bring him back. We did things multiple times so they'd be stacked over each other in post and used a lot of flickering light and the camera at a certain frame rate [to create that effect].
-
-The running was great, though. When I say, "I'm Tommy Maximoff," [in the finale], that was the first time I actually sprinted. It was my favorite moment to shoot the whole show because it felt so badass, and Terry was just like, "Just fucking leg it." And I just ran ! I was like, "This is my big sprint moment. I've got to sprint." And only Terry could take the epic superhero moment and make it hilarious by having a father-son argument while running around the table .
-
-Did you have any particular conversations about Tommy's green Adidas jacket, given that it is the closest he gets to wearing a super suit this season?
-
-MOLLICA At the start of the show, we actually did plan to fit a superhero suit, and it was only later on as we got into the show that [we realized] Billy could create his suit because of his powers, but there was actually no way for Tommy to find a speed suit. I guess we leaned more into how Spider-Man made his first suit. We wanted to do a really strong nod to the suit and have that essence of the comic book green. Obviously, we did get our speed goggles, which are such a signature part of Speed. I think the direction of the track suit and that kind of vibe goes hand in hand with his superpower and the nod to running. It's kind of funny &#x2014; of course, Tommy was like, "Wow, I'm super Speed. What would I wear? Oh yeah, running gear." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid8' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Paul, you mentioned that the plan was always to have Billy reunite with Vision and Tommy by the end of VisionQuest . Ruaridh, at what point did Terry clue you in that the twins would be reuniting and using their combined powers to save their father?
-
-MOLLICA I didn't know before we'd started shooting or anything because I don't think those scripts had been written yet. I'm sure the ideas were already there, but it must have been almost halfway through when I found out Joe was coming back. I actually think I knew Joe was coming back before he did! ( Laughs. )
-
-It was absolutely epic to read that in the script, but doing those scenes in real life and bringing that off of the page was just so magical &#x2014; pardon the pun &#x2014; because it's really a different visual language that gets brought in with Joe's character that is his signature blues and purples and witchy hexes. It was like stepping into a whole different world, which was really quite exciting. There was that really tough day where we meet each other in the hex for the first time [at the start of the finale]. It was lit by all real candles, so that was the hottest room in the world, so much so that I think me and Joe spent a lot of time laughing.
-
-Tommy initially believes that Billy is too far away to help him, but Tommy could not save Vision alone. Can you give voice to what is going through Tommy's mind when he sees Billy come through that portal?
-
-MOLLICA I think he just feels held and united in a way that I don't think he ever has felt before. Tommy really goes into that moment believing that he can bring Vision back. And when he can't, I think he starts to doubt his strength: "How could I possibly lose the father that I only just found?" Terry and I really agreed that Tommy should be crying in this moment. For him, he has just lost the most important person in his life that he only just found. And having Billy come in that moment to help save the day really solidifies this theme of what WandaVision was, which is that strength of family to tackle things. Obviously, for Wanda, it was to tackle her grief; in this situation, it's to resurrect. There's such beauty in that theme. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid9' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-What else do you each remember from shooting that emotional father-sons reunion?
-
-BETTANY It was really uncomfortable. ( Laughs. ) I was wildly overacting, and my eye had been blown out from the day before or something from overacting again. [Vision's] being sort of electric shocked, I guess, to try and bring him back to life, and I was on top of that goddamn nest. ( Laughs. ) But, actually, it was a lot of fun and it felt like a moment of, the sun is shining, and [ imitates a warm hug ] God is in His heaven. I wanted it to be, as I did a lot of moments, redolent of things that people know. I think that every parent knows what it is when you've been away from your children to just be able to pull your children into you and hold onto them. So, yeah, it was a lovely moment for me.
-
-MOLLICA That finale scene was actually my last day on the whole job. So to have Joe there for that as well was actually really beautiful, and it was quite a momentous way to end everything &#x2014; and it was really powerful.
-
-Making the show was the single most incredible and biggest moment of my whole life so far. So to have had Paul in there with me at the screen test, where I was learning about everything for the first time and finding out I got the job, and then to be with him at the end &#x2014; it's just that funny thing of art imitating life. Our relationship on the show, I feel like, really reflects our relationship in real life. I am always asking Paul for advice, and I feel very supported by him as a titan of the MCU. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid10' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Paul, you recently joked that you blew a bunch of blood vessels in your eye while shooting the show, but I didn't realize that it happened toward the end of filming the finale. Were you really overacting?
-
-BETTANY Well, you can imagine the pressure of thinking, "Okay, so I've got a device on my head that's sucking out my brain somehow. What's that going to look like?" So you do it and that's all fine, and then you realize, "Fuck! I've got to do this for six hours, or whatever." ( Laughs. ) And you're kind of going [ imitates grimacing ] for six hours. At some point, [I began] making a self-deprecating joke about wildly overacting and blowing out my eye and it being a lesson in "less is more," because I don't know how many thousands and thousands of dollars it must have cost to paint my [bloodied] eye out.
-
-In their final scene together, Vision and Tommy talk about having dinner with Billy in Eastview. What do you imagine their lives together will look like now? How does Vision feel about having to parent his boys now as young men?
-
-MOLLICA I think they'll just make up for so much lost time; they'll just want to be together and do regular father-son things. I imagine all the memories they had of their time in WandaVision &#x2014; I think their first Halloween again together will be funny. I imagine it will still sometimes be awkward and clunky, like that scene in episode six when we're both alive [after the shootout] and I get out the back of Paladin's van, and Vision's like, "Well&#x2026; I'm glad you're alright." And I'm like, "I'm glad you're alright." There's those silly, awkward moments that will always exist in that relationship because that is what family is. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid11' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-BETTANY I think right now [Vision's] thrilled and high on it all, and I'm sure the reality of all of that will cause complications. I have a similar thing that happened in my actual life when I married Jennifer [Connelly]. She already had a son. I become a sort of instant father, and that is incredibly exciting. And then the reality of it is there is a lot of work really to build that connection.
-
-I don't know how to play a robot. I never have. I've never tried to. I always try to find human paradigms because I don't know what else to do. Vision has the problem that he seems to have a biological son in the world, but that's impossible &#x2014; and yet, somehow, it is true. He has biological children. [My stepson] Kai is not mine biologically, but somehow he feels part of me &#x2014; and it's just true. I feel no differently toward him than I do my actual biological children. They feel exactly the same. Some impossible osmosis has happened that we have become a part of each other. So I think I've relied very heavily on that experience for doing this fun, ridiculous notion of a robot having biological children in the world.
-
-In their final scene together, Tommy asks Vision if he thinks there is any chance, with the two of them and Billy still around, that they may see Wanda again. Did you and the creative team ever consider bringing Wanda back for the finale? [ Writer's note: The finale features a post-credits scene &#x2014; not included in press screeners &#x2014; of Robert Downey Jr's Doctor Doom awakening Wanda, who had seemingly been crushed under a mountain at the end of Multiverse of Madness . ] blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid12' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-BETTANY Yes, there were conversations, and in the end, I think it was the right decision. It would seem that we have managed to make the fans care about [Vision's] journey, and for the moment he becomes most powerful to be an acceptance of what he has lost, and then to just immediately give him back [what he lost], I think could have destroyed the end of the quest for him. Because the quest in this, as it turns out, is not to find Wanda &#x2014; it's to find himself. He has always been for Wanda. He's always sort of existed for her&#x2026; and [a decision] was made at a high level that, "No, this is Vision's story, and it needs to finish as Vision's story." I'm (a) very flattered by that, and (b) I think it was probably the right decision. Who knows what the future [will hold]? If you tie too many of those things up, what are you going to do next?
-
-Do you think Wanda and Vision would still work as a couple? Would they find a way back to each other?
-
-BETTANY Well, wouldn't that be fascinating to find out? My instinct is that whilst there can be tumultuous moments, rather like Romeo and Juliet, you just have to imagine that they would. I do!
-
-Of course, besides wanting to see Vision and Wanda back together, a lot of fans are waiting with bated breath for her to reunite with her sons. Ruaridh, you've affectionately referred to Tommy and Billy as the "queer twin brothers" of the MCU. What has it meant to you to be an openly bisexual actor playing a bisexual character on a project of this scale? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid13' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-MOLLICA I feel so lucky (a) to be in this world of the MCU, but (b) to get to portray a character that champions the sexuality that I am as well. It's so important to have that on such a big platform that people can watch and hopefully feel seen themselves. I do think bisexual representation in big media is confusing. People don't really know how to tackle it or address it, so I feel really, really happy to be hopefully a good example for that, which is why I want to be vocal about it. Hopefully, in the future, we explore some of Tommy's other relationships that exist in the comics.
-
-Have you talked to Joe at all about the pressure and privilege of bringing that kind of queer visibility and representation to the MCU? Does it come up in conversation often between the two of you?
-
-MOLLICA Yeah, it totally does. He's such an important figure in queer media [because of Heartstopper ], and to be talking to him who is openly gay and has done Agatha and is in the MCU, and to have someone to ask what that is like was really important.
-
-As if this role could not be more tailor made for you, Ruaridh, you actually earned an undergraduate degree in computer science before deciding to become an actor. Were you thinking at all about the accuracy of the coding or artificial intelligence terminology while filming the show?
-
-MOLLICA [ Giddily ] I actually really did think about it. I would be reading the scripts trying to be like, "What have they said there? Does that make sense?" Obviously, I wanted all the code talk and things like that to make sense. For me, it was actually really reassuring because when I read it for the first time, almost all of it is based in so much truth. I'm watching it again as it's coming out and noticing all these other things and turning to my friend and going, "Yeah, that's actually how we would do that in real life." I really geeked out being in Vision's mindspace. Obviously, I didn't have a lot of scenes in there, but sometimes I would go over and have a little poke around. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid14' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-I just loved that imagining of an A.I. trying to make things look normal. [Costume designer] Sarah Young is posting all the details of the costumes on her Instagram at the moment, and one of Vision's shirts has three collars and three cuffs all stacked on top of each other. It's just things like that that I think are brilliant and so true. If an A.I. was to make a shirt, it probably would have three collars.
-
-All episodes of VisionQuest are now streaming on Disney+. Read THR 's finale interview with showrunner Terry Matalas here .
 
