@@ -1,9 +1,41 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T07:21:27.428Z
+Last Updated: 2026-11-17T08:01:28.665Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Fremantle Revenue Rises 7.8% in Q3 on 'Kill Jackie' as RTL Group Flags TV Ad Slump
+[1] John Malkovich, Rosalind Eleazar to Star in Rebecca Reid's London West End Play 'History'
+Source: Variety | Status: expanded | Words: 475
+Published: 2026-11-17T08:00:00+00:00
+URL: https://variety.com/2026/theater/news/john-malkovich-rosalind-eleazar-history-west-end-play-1236948962
+------------------------------------------------------------
+SUMMARY:
+John Malkovich and Rosalind Eleazar will headline "History," a new play by Rebecca Reid, at London's Wyndham's Theatre from May 17 to Aug. 7, 2027. The play follows Wren, whose creative life has faded since she had a baby. She takes a reckless step by inviting her ex, James, to lunch. He once defined her, […]
+
+CONTENT / EXTRACTED DETAILS:
+John Malkovich and Rosalind Eleazar will headline &#8220; History ,&#8221; a new play by Rebecca Reid, at London's Wyndham's Theatre from May 17 to Aug. 7, 2027.
+
+The play follows Wren, whose creative life has faded since she had a baby. She takes a reckless step by inviting her ex, James, to lunch. He once defined her, and the meeting shows that a chapter she considered closed remains open.
+
+Matthew Dunster directs the limited run, which is Reid's first West End production as a playwright. Fiery Angel and Kater Gordon are producing, and further casting has yet to be revealed. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Taiwan Creative Content Fest Opens as Chair Sue Wang Says 'Culture Is Power' Amid AI Shift AI's Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc 'The Technological Sublime'
+
+Malkovich, a two-time Academy Award nominee who has also been nominated for a Golden Globe and a BAFTA, currently appears in Martin McDonagh's &#8220;Wild Horse Nine,&#8221; a Searchlight Pictures release. He is a founding member of Chicago's Steppenwolf Theatre Company.
+
+Malkovich said: &#8220;I couldn't be more delighted to start work in the months to come on this fascinating new play, opposite Rosalind Eleazar and directed by Matthew Dunster.&#8221;
+
+Eleazar plays Louisa Guy in Apple TV+'s &#8220;Slow Horses&#8221; and stars in the title role of A24's &#8220;Misty Green.&#8221; That performance has drawn honors from several festivals, including the Toronto Film Festival and the Hamptons International Film Festival. Her stage credits include &#8220;Small Hotel&#8221; alongside Ralph Fiennes at Theatre Royal Bath, and an earlier engagement at Wyndham's Theatre in &#8220;The Starry Messenger,&#8221; where she appeared with Matthew Broderick.
+
+Eleazar said: &#8220;The prospect of working with John has long been a dream of mine and so bringing this story to life with this team is super exciting.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Reid is an author, screenwriter and journalist whose six novels include &#8220;Perfect Liars,&#8221; &#8220;Truth Hurts&#8221; and &#8220;Two Wrongs.&#8221; Her stage adaptation of &#8220;Single White Female&#8221; recently completed a half-year ATG tour.
+
+Reid said: &#8220;It's a funny, sexy and provocative story about marriage, power, escapism, motherhood and making bad, selfish, delicious choices.&#8221;
+
+Dunster, a four-time Olivier nominee, has directed or written more than 60 theater productions. His Broadway production of &#8220;Hangmen&#8221; earned five Tony nominations, and his credits include &#8220;The Hunger Games on Stage&#8221; and &#8220;2:22 &#x2013; A Ghost Story,&#8221; whose West End run reached 694 performances. Gordon, an Emmy winner for her writing on &#8220;Mad Men,&#8221; also helped bring &#8220;2:22 &#x2013; A Ghost Story&#8221; to the stage.
+
+Dunster said: &#8220;John brings the heft of greatness. Rosalind is electrifying on stage and screen.&#8221;
+
+============================================================
+[2] Fremantle Revenue Rises 7.8% in Q3 on 'Kill Jackie' as RTL Group Flags TV Ad Slump
 Source: Variety | Status: expanded | Words: 623
 Published: 2026-11-17T07:20:28+00:00
 URL: https://variety.com/2026/tv/news/fremantle-q3-revenue-rises-kill-jackie-rtl-flags-ad-slump-1236950073
@@ -33,7 +65,7 @@ TV advertising revenue fell 5.2% over the nine months and 8% in the third quarte
 Fremantle produces more than 11,000 hours of programming a year and has teams in 28 countries. It remains on track to reach its 9% margin target in 2026, RTL Group said.
 
 ============================================================
-[2] India's Music Economy Hits $1.8 Billion as Independent Music Claims 43% of Streams, EY Report Finds
+[3] India's Music Economy Hits $1.8 Billion as Independent Music Claims 43% of Streams, EY Report Finds
 Source: Variety | Status: expanded | Words: 945
 Published: 2026-11-17T07:09:41+00:00
 URL: https://variety.com/2026/music/news/india-music-economy-indie-share-climbs-ey-1236950066
@@ -75,7 +107,7 @@ Youssou N'Dour, vice-president of CISAC (the International Confederation of Soci
 For a sense of what an export push could deliver, the report points to South Korea, where K-pop generated more than $3 billion in overseas music-led revenue in 2025.
 
 ============================================================
-[3] Over 400 U.K. Industry Figures Demand End to “Culture of Open Secrets” After Russell Brand Trial
+[4] Over 400 U.K. Industry Figures Demand End to “Culture of Open Secrets” After Russell Brand Trial
 Source: The Hollywood Reporter | Status: expanded | Words: 762
 Published: 2026-11-17T06:30:26+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/russell-brand-open-letter-400-industry-figures-1236756889
@@ -109,7 +141,7 @@ Fletcher writes that the fear of losing work or other opportunities is "a tool o
 The signatories call on "every union, every company and every industry organisation" to stop allowing and perpetuating a "systemic cycle of abuse, whether through unconscious inaction or deliberate distraction."
 
 ============================================================
-[4] Bae Is Back: Prime Video Sets Launch Date For 'Call Me Bae' Season 2; Watch Teaser
+[5] Bae Is Back: Prime Video Sets Launch Date For 'Call Me Bae' Season 2; Watch Teaser
 Source: Deadline | Status: expanded | Words: 572
 Published: 2026-11-17T06:25:00+00:00
 URL: https://deadline.com/2026/11/call-me-bae-season-2-release-date-prime-video-1237224995
@@ -139,7 +171,7 @@ Johar added: &#8220;The love and response to Season 1 reaffirmed that audiences 
 &#8220;With Season 2, we wanted to take that world further, exploring new facets of Bae while retaining the humor, heart, and irreverent spirit that was widely loved. We are excited to reunite with Prime Video to bring viewers a new phase of Bae's life, as she and her beloved behens embark on another chapter filled with laughter, emotion, and plenty of chaos.&#8221;
 
 ============================================================
-[5] 'Cliff Booth' First Reactions: Brad Pitt's Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood
+[6] 'Cliff Booth' First Reactions: Brad Pitt's Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood
 Source: Variety | Status: expanded | Words: 698
 Published: 2026-11-17T06:23:16+00:00
 URL: https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975
@@ -171,7 +203,7 @@ Pitt won the Oscar for best supporting actor for playing Cliff Booth in &#8220;O
 &#8220;The Further Mis-Adventures of Cliff Booth&#8221; opens exclusively in Imax theaters on Nov. 25 and will be available to stream on Netflix starting Dec. 23. Check out first reactions below:
 
 ============================================================
-[6] David Fincher's 'The Further Mis-Adventures of Cliff Booth': First Reactions
+[7] David Fincher's 'The Further Mis-Adventures of Cliff Booth': First Reactions
 Source: The Hollywood Reporter | Status: expanded | Words: 484
 Published: 2026-11-17T05:45:43+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981
@@ -199,7 +231,7 @@ Despite handing over the directing duties to his friend Fincher, Tarantino has b
 See social media reaction to The Further Mis-Adventures of Cliff Booth below.
 
 ============================================================
-[7] Brad Pitt Says 'Ocean's 14' Not Shooting Until 'Late' 2027
+[8] Brad Pitt Says 'Ocean's 14' Not Shooting Until 'Late' 2027
 Source: Variety | Status: expanded | Words: 470
 Published: 2026-11-17T05:20:08+00:00
 URL: https://variety.com/2026/film/columns/brad-pitt-oceans-14-shooting-late-2027-1236950020
@@ -231,7 +263,7 @@ Pitt and Fincher first worked together 32 years ago making "Seven" in 1994. "It'
 Pitt also said he is eager to do sequel to his hit racing film "F1: The Movie."
 
 ============================================================
-[8] Jon Stewart Weighs In on Robert Pattinson’s James Bond Casting: ‘You Already Got Batman’
+[9] Jon Stewart Weighs In on Robert Pattinson’s James Bond Casting: ‘You Already Got Batman’
 Source: Variety | Status: expanded | Words: 433
 Published: 2026-11-17T05:05:31+00:00
 URL: https://variety.com/2026/tv/news/jon-stewart-daily-show-robert-pattinson-james-bond-1236950007
@@ -255,7 +287,7 @@ What happens is Huang's affair, as Stewart recounts the alleged events. "Holy sh
 Check out the entire monologue below.
 
 ============================================================
-[9] Tallinn Market Debates Estonia's Film Sector and How Foreign Shoots "Bring Both Value and Tension"
+[10] Tallinn Market Debates Estonia's Film Sector and How Foreign Shoots "Bring Both Value and Tension"
 Source: The Hollywood Reporter | Status: expanded | Words: 469
 Published: 2026-11-17T05:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-estonia-film-sector-foreign-shoots-value-tension-1236756913
@@ -283,7 +315,7 @@ His suggestions for the Estonian sector and its support: adopt a long-term audio
 The big cutting-edge film studio complex Ida Hub just opened last month, with the goal of making Estonia's Ida-Viru region a key production hub. But M&#xE4;nnik highlighted: &#8220;Production conditions are only one part of how the ecosystem works.&#8221;
 
 ============================================================
-[10] Elon Musk Blasts 'SNL' For Jeremy Culhane's Impression Of Him: "They Need To Try Harder"
+[11] Elon Musk Blasts 'SNL' For Jeremy Culhane's Impression Of Him: "They Need To Try Harder"
 Source: Deadline | Status: expanded | Words: 313
 Published: 2026-11-17T04:30:21+00:00
 URL: https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296
@@ -309,7 +341,7 @@ In a previous post on X, Musk also shared a Venn diagram with Humor in one circl
 Watch SNL &#8216;s cold open in the video below featuring Culhane as Musk.
 
 ============================================================
-[11] Jamie Dornan Admits He "Loved Shoplifting" as a Kid
+[12] Jamie Dornan Admits He "Loved Shoplifting" as a Kid
 Source: The Hollywood Reporter | Status: expanded | Words: 428
 Published: 2026-11-17T04:27:19+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/jamie-dornan-loved-shoplifting-kid-andy-cohen-1236756865
@@ -341,7 +373,7 @@ Last week, he told Entertainment Tonight that he &#8220;actually cried&#8221; af
 "It's like a dream," Dornan added. "It's an absolute dream and an honor to be entering that world in any capacity, let alone playing a character of such significance and such admiration, and that we all love and love what Viggo did with that role in those three films."
 
 ============================================================
-[12] Avengers: Secret Wars Director Teases Marvel Film Will Make a Big Change From Other MCU Movies
+[13] Avengers: Secret Wars Director Teases Marvel Film Will Make a Big Change From Other MCU Movies
 Source: ComicBook.com | Status: expanded | Words: 664
 Published: 2026-11-17T04:09:39+00:00
 URL: https://comicbook.com/movies/news/avengers-secret-wars-director-teases-marvel-film-will-make-a-big-change-from-other-mcu-movies
@@ -367,7 +399,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Wondermind Investor Lawsuit Against Selena Gomez and Co-Founders Dismissed
+[14] Wondermind Investor Lawsuit Against Selena Gomez and Co-Founders Dismissed
 Source: Variety | Status: expanded | Words: 298
 Published: 2026-11-17T04:07:09+00:00
 URL: https://variety.com/2026/biz/news/wondermind-lawsuit-selena-gomez-dismissed-1236949959
@@ -387,7 +419,7 @@ The lawsuit claimed the Wondermind team falsely represented the company's trajec
 "The allegations that Selena Gomez engaged in any way whatsoever in any purported &#x2018;fraud' or other wrongdoing are completely meritless, both factually and legally,&#8221; Rosengart told People at the time. &#8220;We will vigorously defend these false allegations and indeed are filing a motion to dismiss the baseless claims against her."
 
 ============================================================
-[14] Kevin Feige Reveals The 6 Words That Led to Robert Downey Jr. Returning to the MCU as Doctor Doom
+[15] Kevin Feige Reveals The 6 Words That Led to Robert Downey Jr. Returning to the MCU as Doctor Doom
 Source: ComicBook.com | Status: expanded | Words: 464
 Published: 2026-11-17T04:02:31+00:00
 URL: https://comicbook.com/movies/news/kevin-feige-reveals-the-6-words-that-led-to-robert-downey-jr-returning-to-the-mcu-as-doctor-doom
@@ -413,7 +445,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] 5 Dead Superheroes Who Took Forever to Come Back to Life
+[16] 5 Dead Superheroes Who Took Forever to Come Back to Life
 Source: ComicBook.com | Status: expanded | Words: 912
 Published: 2026-11-17T03:46:00+00:00
 URL: https://comicbook.com/comics/list/5-dead-superheroes-who-took-forever-to-come-back-to-life
@@ -441,7 +473,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] 5 Dark Fantasy Anime to Watch on Crunchyroll in November 2026
+[17] 5 Dark Fantasy Anime to Watch on Crunchyroll in November 2026
 Source: ComicBook.com | Status: expanded | Words: 1050
 Published: 2026-11-17T03:45:41+00:00
 URL: https://comicbook.com/anime/list/5-dark-fantasy-anime-to-watch-on-crunchyroll-in-november-2026
@@ -477,7 +509,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Robert Pattinson's James Bond Will Make Movie History By Changing 1 Word From the Rest of the Franchise
+[18] Robert Pattinson's James Bond Will Make Movie History By Changing 1 Word From the Rest of the Franchise
 Source: ComicBook.com | Status: expanded | Words: 491
 Published: 2026-11-17T03:27:00+00:00
 URL: https://comicbook.com/movies/feature/robert-pattinsons-james-bond-will-make-movie-history-by-changing-1-word-from-the-rest-of-the-franchise
@@ -499,7 +531,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] X-Men Reboot Casting Has a New Mystique Frontrunner, According to MCU Report &#038; She's a Scream Queen
+[19] X-Men Reboot Casting Has a New Mystique Frontrunner, According to MCU Report &#038; She's a Scream Queen
 Source: ComicBook.com | Status: expanded | Words: 468
 Published: 2026-11-17T03:26:39+00:00
 URL: https://comicbook.com/movies/news/x-men-reboot-casting-has-a-new-mystique-frontrunner-according-to-mcu-report-shes-a-scream-queen
@@ -525,13 +557,13 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Ray Tintori Dies: Filmmaker Who Worked On 'Beasts Of The Southern Wild' Was 43
+[20] Ray Tintori Dies: Filmmaker Who Worked On 'Beasts Of The Southern Wild' Was 43
 Source: Deadline | Status: expanded | Words: 319
 Published: 2026-11-17T03:14:46+00:00
 URL: https://deadline.com/2026/11/ray-tintori-dead-filmmaker-heidi-gardner-1237226073
 ------------------------------------------------------------
 SUMMARY:
-Ray Tintori, a director and screenwriter of shorts and music videos and a founding member of the Court 13 filmmaking collective with whom he created of Beasts of the Southern Wild, has died. TMZ reported the news, citing the New York Medical Examiner. Tintori was 43. The Oscar-nominated Beasts of the Southern Wild was directed […]
+Ray Tintori, a director and screenwriter of shorts and music videos and a founding member of the Court 13 filmmaking collective with whom he created of Beasts of the Southern Wild, has died. Authorities confirmed to Deadline that his death is "under investigation by the New York City Office of Chief Medical Examiner, with an […]
 
 CONTENT / EXTRACTED DETAILS:
 Ray Tintori , a director and screenwriter of shorts and music videos and a founding member of the Court 13 filmmaking collective with whom he created of Beasts of the Southern Wild , has died. TMZ reported the news, citing the New York Medical Examiner. Tintori was 43.
@@ -547,7 +579,7 @@ He also directed the music videos off MGMT's first record as well as those for T
 Tintori dated former Saturday Night Live castmember Heidi Gardner in 2025.
 
 ============================================================
-[20] Attack on Titan Doesn't Need a Comeback After Its Perfect Ending
+[21] Attack on Titan Doesn't Need a Comeback After Its Perfect Ending
 Source: ComicBook.com | Status: expanded | Words: 686
 Published: 2026-11-17T03:09:18+00:00
 URL: https://comicbook.com/anime/feature/attack-on-titan-doesnt-need-a-comeback-after-its-perfect-ending
@@ -575,7 +607,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Elizabeth Debicki Says 'Tenet' Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’
+[22] Elizabeth Debicki Says 'Tenet' Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’
 Source: Variety | Status: expanded | Words: 360
 Published: 2026-11-17T03:03:47+00:00
 URL: https://variety.com/2026/film/columns/elizabeth-debicki-tenet-co-star-robert-pattinson-james-bond-1236949754
@@ -601,7 +633,7 @@ Amy Pascal, who has produced the "Spider-Man" franchise and several 007 films, a
 "Before anything else, I want to express my deep gratitude to the remarkable actors who joined us on this journey," Villeneuve said. "We were surrounded by extraordinary talent, but there can only be one 007. I am overjoyed to welcome Robert Pattinson as our new James Bond. He has the timeless soul of 007 and brings a spirit that is completely new. I cannot wait to begin."
 
 ============================================================
-[22] 'The Fantasticks' Review: A Welcome Broadway Debut Seven Decades In The Making
+[23] 'The Fantasticks' Review: A Welcome Broadway Debut Seven Decades In The Making
 Source: Deadline | Status: expanded | Words: 1232
 Published: 2026-11-17T03:00:00+00:00
 URL: https://deadline.com/2026/11/the-fantasticks-broadway-review-1237223063
@@ -641,7 +673,7 @@ Even without doing a word-for-word comparison of the original Tom Jones (no, not
 Title: The Fantasticks Venue: Broadway's Hayes Theater Director & Choreographer: Christopher Gattelli Book: Tom Jones Music: Harvey Schmidt Cast: Maxim Chlumecky, Kevin del Aguila, David Patrick Kelly, Leslie Rodriguez Kritzer, Nathan Levy, Ruthie Ann Miles, Zane Phillips, Ahmad Simmons Running time: 2 hr 5 min (including intermission)
 
 ============================================================
-[23] Brad Pitt Explains Why Leonardo DiCaprio’s Cameo in ‘Cliff Booth’ Movie Fell Apart
+[24] Brad Pitt Explains Why Leonardo DiCaprio’s Cameo in ‘Cliff Booth’ Movie Fell Apart
 Source: The Hollywood Reporter | Status: expanded | Words: 428
 Published: 2026-11-17T02:59:56+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581
@@ -665,7 +697,7 @@ Both Pitt and DiCaprio earned Oscar nominations for their Once Upon a Time perfo
 The Further Mis-Adventures of Cliff Booth starts its IMAX run on Nov. 25 and starts streaming Dec. 23 on Netflix.
 
 ============================================================
-[24] Obsession Director's New Movie Adds Matthew Lillard in Secret Role During Reshoots
+[25] Obsession Director's New Movie Adds Matthew Lillard in Secret Role During Reshoots
 Source: ComicBook.com | Status: expanded | Words: 436
 Published: 2026-11-17T02:52:57+00:00
 URL: https://comicbook.com/uncategorized/news/obsession-directors-new-movie-adds-matthew-lillard-in-secret-role-during-reshoots
@@ -689,7 +721,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’
+[26] Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’
 Source: Variety | Status: expanded | Words: 455
 Published: 2026-11-17T02:31:53+00:00
 URL: https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899
@@ -713,7 +745,7 @@ Zendaya and Holland tied the knot in early 2026 , according to the actress' long
 But "The Odyssey" isn't the first film set they've shared. The couple first met on the set of Marvel's "Spider-Man: Homecoming," and continued to co-star in "Spider-Man: Far From Home," "Spider-Man: No Way Home" and "Spider-Man: Brand New Day." In May, Zendaya told Elle that working on the films felt like a "family affair." "I get to go to work every day with my best friend, the person that I love," she said. "We bring our dogs to work; it's like a family affair. We grew up on those movies! It's like coming home."
 
 ============================================================
-[26] Big Brother (And Survivor’s) Rick Devens Has 8 Words Of Advice For Anyone Wanting To Be A Reality Star
+[27] Big Brother (And Survivor’s) Rick Devens Has 8 Words Of Advice For Anyone Wanting To Be A Reality Star
 Source: CinemaBlend | Status: expanded | Words: 158
 Published: 2026-11-17T02:31:00+00:00
 URL: https://www.cinemablend.com/television/big-brother-survivor-rick-devens-8-words-of-advice-future-reality-star
@@ -729,7 +761,7 @@ I think that's some universal advice most reality stars would give, which is why
 All this to say, not every person on reality television is Rick Devens. He's speaking with the bias of someone who was put on Survivor initially and welcomed back because of how he played. It's that same fearlessness that got him on Big Brother , hoping that "Chaos Devens" would be activated.
 
 ============================================================
-[27] The Perfect Sci-Fi Action Sequel Is Leaving Netflix Very Soon - and It Still Looks Amazing After 40 Years
+[28] The Perfect Sci-Fi Action Sequel Is Leaving Netflix Very Soon - and It Still Looks Amazing After 40 Years
 Source: ComicBook.com | Status: expanded | Words: 534
 Published: 2026-11-17T02:15:00+00:00
 URL: https://comicbook.com/movies/news/the-best-sci-fi-action-sequel-of-all-time-is-leaving-netflix-very-soon-and-it-still-looks-amazing-after-40-years
@@ -751,7 +783,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Elon Musk Thinks Jeremy Culhane Needs to "Try Harder" With His 'SNL' Impression
+[29] Elon Musk Thinks Jeremy Culhane Needs to "Try Harder" With His 'SNL' Impression
 Source: The Hollywood Reporter | Status: expanded | Words: 425
 Published: 2026-11-17T02:03:18+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/elon-musk-criticizes-jeremy-culhane-snl-impression-1236756733
@@ -781,7 +813,7 @@ In an attempt to change the subject, much like the billionaire has done in real-
 Prior to Culhane joining SNL during season 51, Mike Myers previously portrayed Musk in 2025. The X owner also hosted the show in 2021.
 
 ============================================================
-[29] Oprah's Favorite Things 30th Anniversary List Includes Actor-Owned Apparel, Celeb-Approved Skin Care and More
+[30] Oprah's Favorite Things 30th Anniversary List Includes Actor-Owned Apparel, Celeb-Approved Skin Care and More
 Source: The Hollywood Reporter | Status: expanded | Words: 614
 Published: 2026-11-17T02:02:43+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/oprahs-favorite-things-list-2026-celeb-products-shop-online-1236756439
@@ -815,7 +847,7 @@ Complete with fig bruschetta, savory fig jam, fig vinegar, and organic extra vir
 Capture your essential health biomarkers; see a breakdown of your fat and muscle across five body zones, monitor your heart with a 6-lead ECG, and track your electrodermal activity for cues on how your body handles stress and recovery. The scale even pairs with smartphones to connect users to medical professionals, turn data into a health plan, optimize sleep, and so much more. It's no wonder Oprah calls it an "ingenious machine."
 
 ============================================================
-[30] 90 Day: Hunt For Love Might Be Nearing Its Most Controversial Episode Yet, And Jamal And Razvan Are Involved
+[31] 90 Day: Hunt For Love Might Be Nearing Its Most Controversial Episode Yet, And Jamal And Razvan Are Involved
 Source: CinemaBlend | Status: expanded | Words: 246
 Published: 2026-11-17T02:01:00+00:00
 URL: https://www.cinemablend.com/television/90-day-hunt-for-love-possibly-nearing-controversial-episode-jamal-and-razvan
@@ -835,7 +867,7 @@ Razvan has since spoken on the alleged incident on 90 Day: Hunt For Love , and w
 It would appear that he's sticking with the narrative that he did not utter the slur, which makes me curious if the 90 Day: Hunt For Love team has footage of it. If so, will it air in the episode, and will we get to see Razvan's removal? Those are the big questions that remain unanswered amid this situation.
 
 ============================================================
-[31] Korean Entertainment Hybe and CAA Form Strategic Partnership
+[32] Korean Entertainment Hybe and CAA Form Strategic Partnership
 Source: The Hollywood Reporter | Status: expanded | Words: 340
 Published: 2026-11-17T01:57:21+00:00
 URL: https://www.hollywoodreporter.com/music/music-industry-news/hybe-caa-form-strategic-partnership-1236756762
@@ -857,7 +889,7 @@ Hybe is home to some of the biggest K-pop groups both domestically and globally.
 "Hybe has created a cultural movement," CAA CEO and co-chairman Bryan Lourd said in a statement. "Hybe artists do not just entertain; they connect with audiences in extraordinary and innovative ways that define the future of our industry and the intersection of art, influence, and fandom. We are honored to help carry that forward, building on CAA's experience and relationships across the region, to show the world what is possible when two organizations that believe in creative talent come together."
 
 ============================================================
-[32] Spider-Man: Brand New Day Re-Release Includes The Scene That Should Have Never Been Cut &#038; New “Surprises”
+[33] Spider-Man: Brand New Day Re-Release Includes The Scene That Should Have Never Been Cut &#038; New “Surprises”
 Source: ComicBook.com | Status: expanded | Words: 426
 Published: 2026-11-17T01:47:37+00:00
 URL: https://comicbook.com/movies/news/spider-man-brand-new-day-re-release-includes-the-scene-that-should-have-never-been-cut-new-surprises
@@ -881,7 +913,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] The Secret Behind Anthony Hopkins’ Hannibal Lecter Set a Bar Movies Still Haven’t Matched Again
+[34] The Secret Behind Anthony Hopkins’ Hannibal Lecter Set a Bar Movies Still Haven’t Matched Again
 Source: ComicBook.com | Status: expanded | Words: 649
 Published: 2026-11-17T01:37:00+00:00
 URL: https://comicbook.com/movies/feature/the-secret-behind-anthony-hopkins-hannibal-lecter-set-a-bar-movies-still-havent-matched-again
@@ -907,7 +939,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Turns Out, When You Play A Disney Princess They Let You Sleep In Walt's Disneyland Apartment
+[35] Turns Out, When You Play A Disney Princess They Let You Sleep In Walt's Disneyland Apartment
 Source: CinemaBlend | Status: expanded | Words: 325
 Published: 2026-11-17T01:31:00+00:00
 URL: https://www.cinemablend.com/theme-parks/playing-disney-princess-earns-access-walts-disneyland-apartment-ginnifer-goodwin
@@ -925,7 +957,7 @@ Most Disneyland fans are likely aware of Walt’s apartment above the firehouse 
 Unfortunately, for me and Goodwin, the apartment of Pirates of the Caribbean is no longer an option for hosting an in-park sleepover. In 2017, the space was reimagined into an exclusive dining experience, 21 Royal . Technically, this experience is open to all guests, but it comes with a pretty hefty price tag: $18,000 for up to 12 guests. I guess that’s another item I’m definitely not going to cross off my bucket list!
 
 ============================================================
-[35] Ray Tintori, Music Video Director and Filmmaker, Dies at 43
+[36] Ray Tintori, Music Video Director and Filmmaker, Dies at 43
 Source: Variety | Status: expanded | Words: 471
 Published: 2026-11-17T01:27:22+00:00
 URL: https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816
@@ -953,7 +985,7 @@ Tintori's thesis film &#8220;Death to the Tinman&#8221; premiered at Sundance, w
 The son of film editor and NYU Kanbar Institute chair John Tintori and the late script supervisor Mary Cybulski, he graduated from Wesleyan University.
 
 ============================================================
-[36] CAA and Hybe Launch Strategic Partnership
+[37] CAA and Hybe Launch Strategic Partnership
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-17T01:24:12+00:00
 URL: https://variety.com/2026/biz/news/caa-hybe-strategic-partnership-1236949852
@@ -975,7 +1007,7 @@ The partnership also aims to accelerate strategic and commercial initiatives acr
 Earlier this month, BTS' world tour pushed Hybe to its highest quarterly revenue and operating profit in its history . Revenue for the third quarter totaled $1.13 billion with an operating profit of $140.2 million.
 
 ============================================================
-[37] Marvel Star's Unfairly Panned Superhero Movie Deserves to be Watched Before It Leaves Netflix
+[38] Marvel Star's Unfairly Panned Superhero Movie Deserves to be Watched Before It Leaves Netflix
 Source: ComicBook.com | Status: expanded | Words: 505
 Published: 2026-11-17T01:00:00+00:00
 URL: https://comicbook.com/movies/news/marvel-stars-unfairly-panned-superhero-movie-deserves-to-be-watched-before-it-leaves-netflix
@@ -997,7 +1029,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Microdrama Writers At DramaWave Unionize With WGA West
+[39] Microdrama Writers At DramaWave Unionize With WGA West
 Source: Deadline | Status: expanded | Words: 339
 Published: 2026-11-17T01:00:00+00:00
 URL: https://deadline.com/2026/11/microdrama-writers-dramawave-unionize-wga-west-1237225626
@@ -1019,7 +1051,7 @@ Bargaining dates for the first contract have not yet been determined.
 Adds WGAW President Michele Mulroney: "DramaWave is a top microdrama app because its writers tell stories that captivate audiences worldwide. We are proud to welcome them into our union. Microdramas are a growing part of the entertainment industry and it's critical that these writing jobs be union jobs."
 
 ============================================================
-[39] CAA Inks With Hybe To Rep Korean Firm's Artists, IP &#038; Brands
+[40] CAA Inks With Hybe To Rep Korean Firm's Artists, IP &#038; Brands
 Source: Deadline | Status: expanded | Words: 344
 Published: 2026-11-17T01:00:00+00:00
 URL: https://deadline.com/2026/11/hybe-caa-artist-representation-1237226005
@@ -1041,7 +1073,7 @@ Hybe, which rebranded from Big Machine Entertainment in 2021, is a global entert
 Beyond music, Hybe continues to expand across concerts, video content, gaming, original stories, retail, and fan platforms.
 
 ============================================================
-[40] 'Percy Jackson And The Olympians' Season 3 Release Schedule: When Do New Episodes Come Out?
+[41] 'Percy Jackson And The Olympians' Season 3 Release Schedule: When Do New Episodes Come Out?
 Source: Deadline | Status: expanded | Words: 690
 Published: 2026-11-17T00:43:03+00:00
 URL: https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036
@@ -1085,7 +1117,7 @@ The titular Titan's curse refers to the burden Atlas usually bears by holding up
 Thus, Percy and Thalia must set aside their differences and join forces with the Hunters of Artemis to embark on a quest to save her and try once more to put a stop to Luke resurrecting the Titan Lord Kronos, who sired all of the gods and has tried to put an end to their reign before.
 
 ============================================================
-[41] Jennifer Lawrence Reunites With 'Hunger Games' Co-Star Josh Hutcherson at 'Sunrise on the Reaping' World Premiere
+[42] Jennifer Lawrence Reunites With 'Hunger Games' Co-Star Josh Hutcherson at 'Sunrise on the Reaping' World Premiere
 Source: Variety | Status: expanded | Words: 573
 Published: 2026-11-17T00:32:42+00:00
 URL: https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116
@@ -1113,7 +1145,7 @@ Lawrence told Variety during her "No Hard Feelings" press tour in 2023 that she 
 See photos from the premiere below.
 
 ============================================================
-[42] Johnny Depp Didn’t Just Leave Hollywood. He Left The US
+[43] Johnny Depp Didn’t Just Leave Hollywood. He Left The US
 Source: CinemaBlend | Status: expanded | Words: 280
 Published: 2026-11-17T00:31:00+00:00
 URL: https://www.cinemablend.com/movies/johnny-depp-talks-about-leaving-hollywood-and-us-bahamas
@@ -1133,7 +1165,7 @@ His current living situation is especially interesting considering how frequentl
 Of course, his relationship with Hollywood became considerably more complicated in recent years. Depp stepped away from major American studio productions amid legal battles with his ex-wife, Amber Heard , including their highly publicized 2022 defamation trial. He continued working internationally, appearing in the French film Jeanne du Barry and directing Modi: Three Days on the Wing of Madness .
 
 ============================================================
-[43] 5 Times DC Changed a Superhero's Look and Got It Completely Wrong
+[44] 5 Times DC Changed a Superhero's Look and Got It Completely Wrong
 Source: ComicBook.com | Status: expanded | Words: 1284
 Published: 2026-11-17T00:13:00+00:00
 URL: https://comicbook.com/comics/list/5-times-dc-changed-a-superheros-look-and-got-it-completely-wrong
@@ -1169,7 +1201,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Stranger Things’ Jamie Campbell Bower Reflects on Vecna, And His Comments Address A Fan Complaint [Exclusive]
+[45] Stranger Things’ Jamie Campbell Bower Reflects on Vecna, And His Comments Address A Fan Complaint [Exclusive]
 Source: ComicBook.com | Status: expanded | Words: 430
 Published: 2026-11-17T00:00:00+00:00
 URL: https://comicbook.com/tv-shows/news/stranger-things-jamie-campbell-bower-reflects-on-vecna-and-his-comments-address-a-fan-complaint-exclusive
@@ -1191,7 +1223,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Robert Pattinson Manifested His James Bond Casting 14 Years Ago
+[46] Robert Pattinson Manifested His James Bond Casting 14 Years Ago
 Source: The Hollywood Reporter | Status: expanded | Words: 470
 Published: 2026-11-16T23:49:25+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-manifested-james-bond-casting-2012-1236756679
@@ -1219,7 +1251,7 @@ Director Denis Villeneuve and producers Amy Pascal and David Heyman ultimately d
 " James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime," Pattinson said in a statement about his casting. "I'm deeply grateful to Denis, Amy, David, Tanya and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn't be more excited about this partnership and the work ahead with this fantastic team."
 
 ============================================================
-[46] John Summit's Tour Bus Involved in Deadly Crash in Florida
+[47] John Summit's Tour Bus Involved in Deadly Crash in Florida
 Source: The Hollywood Reporter | Status: expanded | Words: 365
 Published: 2026-11-16T23:43:47+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/john-summit-tour-bus-involved-deadly-crash-1236756628
@@ -1247,7 +1279,7 @@ THR has reached out to Summit's rep for comment.
 About 30 minutes before the crash, Summit took to X to call the Grammy Awards &#8220;a fucking joke&#8221; after getting snubbed from the nominations list this year. "I'm not just talking about myself either there's zero respect for real electronic dance music & dj's," he wrote . "The whole dance category is just music industry fueled pop stars."
 
 ============================================================
-[47] At Least Robert Pattinson Looks the Part…According to Ian Fleming
+[48] At Least Robert Pattinson Looks the Part…According to Ian Fleming
 Source: The Hollywood Reporter | Status: expanded | Words: 416
 Published: 2026-11-16T23:36:33+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-looks-like-james-bond-ian-fleming-sketch-1236756573
@@ -1269,7 +1301,7 @@ The result was a long angular face with heavy brows, a narrow nose, sharp cheekb
 The funny thing is, the newspaper's illustrator, John McLusky, pretty much ignored Fleming's ideas and drew his own Bond with a much more rugged appearance &#x2014; narrower eyes, a more expansive jawline, and a broad, cleft chin. In other words, a face that looked uncannily like&#x2026; Sean Connery, who'd be cast in the part a half-decade later.
 
 ============================================================
-[48] An Unorthodox Star Wars Viewing Order Has Been Proposed By a Star Wars Icon &#038; It Actually Makes Sense
+[49] An Unorthodox Star Wars Viewing Order Has Been Proposed By a Star Wars Icon &#038; It Actually Makes Sense
 Source: ComicBook.com | Status: expanded | Words: 556
 Published: 2026-11-16T23:33:45+00:00
 URL: https://comicbook.com/movies/news/an-unorthodox-star-wars-viewing-order-has-been-proposed-by-a-star-wars-icon-it-actually-makes-sense
@@ -1295,7 +1327,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Chris Long To Direct First Episode Of Fox Legal Drama 'Katie Greaves' Starring Edie Falco
+[50] Chris Long To Direct First Episode Of Fox Legal Drama 'Katie Greaves' Starring Edie Falco
 Source: Deadline | Status: expanded | Words: 382
 Published: 2026-11-16T23:33:44+00:00
 URL: https://deadline.com/2026/11/chris-long-direct-first-episode-katie-greaves-edie-falco-1237225773
@@ -1311,52 +1343,4 @@ The series centers on a whip-smart, fiercely committed attorney (Falco) who step
 Katie Greaves (wt) is executive produced by White, Falco and Scott Fee's Ridley Scott and David W. Zucker. Fox Entertainment Studios produces with worldwide distribution by Fox Entertainment Global. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 Widely known for his work on The Americans , Long recently served as executive producer and primary director of FX's limited series The Patient , starring Steve Carrell and Domhall Gleeson. On the film side, he most recently finished directing Chicago-based thriller The Up and Comer , based Howard Roughan's novel. The film stars Nate Mann, Shay Mitchell, Andrew Burnap, Rebecca De Mornay, Noah Emmerich, Sarah Bolger, Kunal Nayyar, and is slated for release in 2027. Long is currently in development with Wolf Entertainment and long-time collaborators Ken Woodruff and Erin Donovan on an international crime drama set in Marseille. He is represented by WME and Rain Management.
-
-============================================================
-[50] John Oliver Fills in for Tom Papa at Michael J. Fox Foundation Gala After FAA Ground Stop
-Source: The Hollywood Reporter | Status: expanded | Words: 937
-Published: 2026-11-16T23:31:31+00:00
-URL: https://www.hollywoodreporter.com/news/general-news/john-oliver-tom-papa-michael-j-fox-gala-faa-ground-stop-1236756623
-------------------------------------------------------------
-SUMMARY:
-Friday's four-hour halt to flights taking off across the U.S. also served as fodder for Josh Johnson's stand-up set, where he poked fun at last week's Microsoft outage as well.
-
-CONTENT / EXTRACTED DETAILS:
-By Saturday, air travel across the U.S. had resumed after the Federal Aviation Administration's four-hour nationwide ground stop on Friday .
-
-But the effects of the stoppage were still unfolding, including in the entertainment world. At Saturday night's Michael J. Fox Foundation for Parkinson's Research gala in New York, host Denis Leary told the crowd that while they were fortunate that not many of the stars set to appear were affected by the ground stop, stand-up comedian Tom Papa, who was scheduled to perform at the benefit, was stuck in Los Angeles due to the grounding. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Music Grammys: Michael J. Fox, Tim Curry, 'Wicked: For Good,' 'The Pitt' Among Hollywood Nominees Lifestyle Baby2Baby Gala Fetes Demi Moore and Raises Over $20M for the Cause
-
-In fact, he'd boarded his flight and was about to take off before the FAA ground stop on Friday.
-
-But luckily the Michael J. Fox Foundation found another stand-up comedian in New York who could fill in: John Oliver . The Last Week Tonight host was a surprise performer at the star-studded annual benefit, where he initially joked that he was disappointing the audience after they'd already been told the scheduled comedian wasn't coming and Leary got the crowd thinking maybe Jon Stewart would be filling in since he mentioned that Oliver knows Stewart.
-
-The FAA flight stoppage also served as fodder for fellow stand-up and Jon Stewart associate, Josh Johnson, as the Daily Show host used the beginning of his stand-up set to poke fun at Transportation Secretary Sean Duffy's reality TV past on The Real World: Boston and how the way he'd said a cyberattack wasn't responsible for Friday's ground stop (the FAA insisted the pause was due to air traffic control communication issues) made Johnson think it was definitely a cyberattack. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Johnson also got some mileage out of the Microsoft outage that lasted from midday Thursday into early Friday , joking that it was great for people who were bad at their jobs, because they could simply claim they sent an email that no one could check.
-
-&#8220;This is a dream come true for a low-tier employee,&#8221; he said.
-
-Elsewhere at the event, which raised a record-breaking $6 million, former Late Show hosts Stephen Colbert and David Letterman made separate appearances where they jokingly stressed their ongoing relevance despite their CBS late night shows coming to an end.
-
-Colbert joked, as he introduced a video of scientists working on medical treatments for Parkinson's as the Fox Foundation aims to find a cure for the neurodegenerative disorder, that being at the glitzy event at the Waldorf-Astoria in Manhattan made him &#8220;feel like [he has] a job.&#8221; And Letterman complimented the well-heeled audience in the hotel ballroom as he took a video on his phone to &#8220;prove to people that he's still in show business.&#8221;
-
-The event ended with what's become a tradition at the gala of Fox joining the headlining musician onstage for a Back to the Future -inspired rendition of &#8220;Johnny B. Goode.&#8221; This year, Fox joined John Mayer and Brad Paisley along with No Doubt's Tom Dumont and Shoshana Bean. And Mayer, like Chris Martin , shared that the &#8220;new sound&#8221; Fox showed off as Marty McFly had made him want to pick up a guitar when he was a kid.
-
-At the end of the benefit, Fox grabbed the microphone and joked that being able to perform with Mayer, Paisley and others was &#8220;definitely worth having Parkinson's for&#8221; and expressed a renewed commitment to finding a cure. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-&#8220;We're gonna get it done,&#8221; he said.
-
-Earlier on the red carpet , Fox's friends and former colleagues spoke about how happy they were that he'd been able to return to acting this year in Shrinking .
-
-&#8220;When I saw the footage I said, &#8216;This is such a perfect pairing [of Fox and Harrison Ford's character who has Parkinson's], under a perfect premise,'&#8221; Leary told The Hollywood Reporter .
-
-Fox's former Spin City co-star Alan Ruck suggested that the work done through Fox's foundation and improvements in Parkinson's treatments may have contributed to him being able to act again.
-
-&#8220;I know that the medicine has improved a lot since the year 2000, because that's when he stepped away from Spin ,&#8221; Ruck offered. &#8220;Because it wasn't enough for him to go to work. It was debilitating. But the medicine has improved so much, now he's on Shrinking . He's done a number of things since then so that's encouraging that all of this research is paying off. And through this foundation, he is helping people's lives improve.&#8221;
-
-And Leary, who'd worked with Fox on FX's Rescue Me , teased that he might have another acting gig for his friend.
-
-&#8220;I think he's a great actor. So I jealously always want to create a character for him in whatever I'm doing. So I'm actually thinking about creating a character for him in this next thing I'm going to do,&#8221; Leary told THR .
-
-Other stars who attended the event included Christopher Lloyd, Clark Gregg, Ted McGinley, Susie Essman, Ali Wentworth, George Stephanopoulos, Willie Geist and Terry Crews, whose wife Rebecca King Crews has been living with Parkinson's, going public with her diagnosis earlier this year .
 
