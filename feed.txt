@@ -1,9 +1,57 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T19:04:13.106Z
+Last Updated: 2026-11-17T19:24:15.775Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 'American Epic': Chris Pine &#038; Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series
+[1] Penn &#038; Teller Join Short Film 'The Inspector' as "Executive Magic Producers" (Exclusive)
+Source: The Hollywood Reporter | Status: expanded | Words: 380
+Published: 2026-11-17T19:22:36+00:00
+URL: https://www.hollywoodreporter.com/movies/movie-news/penn-teller-join-short-film-the-inspector-1236757369
+------------------------------------------------------------
+SUMMARY:
+The Spanish short is written and directed by Jandro, one of Spain's biggest magician acts.
+
+CONTENT / EXTRACTED DETAILS:
+Penn & Teller have pulled off their newest trick, coming on board Spanish short film The Inspector as its "executive magic producers."
+
+The move puts the pair in league with Spanish magician, filmmaker and television personality Jandro, who wrote, directed, and produced the dark comedy thriller, which is seeking to become an Oscar contender this awards season. The parties already worked together when Janto appeared on pair's magic competition series Fool Us .
+
+Penn and Teller will now lend their support and name for the movie's awards campaign. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV The CW Sets Biggest-Ever Summer Lineup With 11 Series TV Alyson Hannigan Joins 'Penn & Teller: Fool Us' as Host
+
+Inspector , set in Spain, tells the story of a fraudulent gas inspector who targets vulnerable elderly people, exploiting their trust to gain access to their homes and steal their valuables. His next victim is Carmen, a sweet grandmother with a collection of valuable antiques. He soon gets more than he bargained for. The 12-minute, genre-bending short film combines thriller, mystery and dark comedy.
+
+"Jandro, like Hitchcock, understands cinematic sleight of hand. The Inspector is my kind of movie," said Teller in a statement. "If you like Penn & Teller, you'll love The Inspector. It's tricky.&#8221;
+
+Jandro is one of Spain's most well-known magicians and one of the most recognizable faces in Spanish television, having spent 15 years as a writer and performer on the popular Spanish late-night show El Hormiguero. He earned fame in magic circles by hoodwinking Penn & teller as part of their Fool Us competition series. He won that contest six times. He also won the award for Spanish Champion of Comedy Magic in his home country. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+Inspector has already been making its own magic on the festival circuit. The short has played in roughly 200 festivals, winning 50 awards across 22 countries. The film has played at four Oscar qualifying festivals including Sitges in Spain, ShortShorts in Japan, Ireland's Foyle, and Edmonton in Canada. It is now vying for an Oscar nom.
+
+============================================================
+[2] Emergency Broadcast System Test Still On For Today, Homeland Security Says
+Source: Deadline | Status: expanded | Words: 398
+Published: 2026-11-17T19:07:00+00:00
+URL: https://deadline.com/2026/11/emergency-broadcast-system-test-november-17-1237226846
+------------------------------------------------------------
+SUMMARY:
+Despite a series of technology outages the past week on email systems, aviation communications, airlines, banks, national security networks, and more, the Federal Emergency Management Agency says the long scheduled test today of the Emergency Broadcast System will go ahead. "This is a nationwide test of the Emergency Alert System, issued by the Federal Emergency […]
+
+CONTENT / EXTRACTED DETAILS:
+Despite a series of technology outages the past week on email systems, aviation communications, airlines, banks, national security networks, and more, the Federal Emergency Management Agency says the long scheduled test today of the Emergency Broadcast System will go ahead.
+
+&#8220;This is a nationwide test of the Emergency Alert System, issued by the Federal Emergency Management Agency,&#8221; the one-minute long message will states, FEMA said. &#8220;This is only a test. No action is required by the public.&#8221;
+
+Set to hit at 11:20 a.m. PT/2:30 p.m. ET, the test will appear on &#8220;radio and television broadcasters, cable systems, satellite radio and television providers and wireline video,&#8221; notes the Department of Homeland Security . According to FEMA , there will be a brief interruption, but &#8220;No blackouts, no secret emergencies&#8221; connected to the test. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News Senator's Letters Offer Preview Of Democrats' Plans To Investigate FCC, Big Tech And Perhaps Big Mergers News FCC's Sole Democrat Calls On Broadcast Lobby To Push Back On Trump-Backed Chairman's Regulatory Threats Over Election Coverage
+
+FYI &#8211; FEMA falls under the jurisdiction of the DHS.
+
+"During an emergency, every second is crucial," FEMA Administrator Cameron Hamilton said in a statement Monday. "FEMA's alert and warning systems ensure that no second is wasted getting you the critical information needed to keep you safe. Operational tests, like the one to be conducted tomorrow, allow us to identify and fix potential issues before an actual emergency occurs."
+
+As you might recall from 2023, the feds are obliged by the IPAWS Modernization Act of 2015 to conduct a EAS test every three years. A more localized test of today's test took place in Alaska with no problems.
+
+A further safeguard is in place that if today's test encountered difficulties. FEMA explained back in September: &#8220;If an actual emergency or significant weather event occurs on test day, FEMA and the FCC may postpone the test. The backup date for the nationwide test is December 3, 2026.&#8221;
+
+============================================================
+[3] 'American Epic': Chris Pine &#038; Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-17T19:03:52+00:00
 URL: https://theplaylist.net/american-epic-chris-pine-nicolas-cage-a24-las-vegas-series-20261117
@@ -15,7 +63,7 @@ CONTENT / EXTRACTED DETAILS:
 Nicolas Cage , hot off making Prime Video 's popular superhero show " Spider-Noir " and enlisted last month to co-star with Antonio Banderas for HBO Max 's next season of " True Detective ," has landed another TV role, " American Epic ." This marks Cage's THIRD major television role in recent years after spending most of his acting career on the big screen and only just dipping his toes into TV projects. Continue reading 'American Epic': Chris Pine & Nicolas Cage Return To TV For A24's Las Vegas-Set Casino Mogul Series at The Playlist.
 
 ============================================================
-[2] 'The Odyssey' to Receive Ensemble Performance Award at Palm Springs International Film Festival (Exclusive)
+[4] 'The Odyssey' to Receive Ensemble Performance Award at Palm Springs International Film Festival (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 403
 Published: 2026-11-17T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/odyssey-ensemble-performance-award-palm-springs-festival-1236757227
@@ -37,7 +85,31 @@ The Odyssey was the first feature film to be entirely shot in Imax. It also star
 Previously announced honorees at the fest include Andrew Garfield (Spotlight Award, Actor); The Invite's Seth Rogen, Olivia Wilde, Pen&#xE9;lope Cruz, Edward Norton (Vanguard Award); La Bola Negra's directors Javier Calvo and Javier Ambrossi, as well as actors Guitarricadelafuente, Miguel Bernardeau and Pen&#xE9;lope Cruz (International Star Award); Martin McDonagh (Outstanding Achievement in Directing Award) ; Inde Navarette (Rising Star Award); and Andrew Scott (Desert Palm Achievement Award, Actor).
 
 ============================================================
-[3] 16 Black Friday Sales on LEGO, Funko, and Video Games to Shop Now
+[5] Jon Cryer Joins 'Cupertino' As Judge In Top-Secret Court
+Source: Deadline | Status: expanded | Words: 458
+Published: 2026-11-17T19:00:00+00:00
+URL: https://deadline.com/2026/11/jon-cryer-cast-cupertino-1237226024
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Jon Cryer has been set as a guest star on CBS' Cupertino, playing the role of Judge Van Linkerspleen, a federal judge working in a top-secret court. He's an individual thinker who tries to judge fairly in an environment that only values compliance. Cupertino is a David vs. Goliath legal drama set in the […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Jon Cryer has been set as a guest star on CBS &#8216; Cupertino , playing the role of Judge Van Linkerspleen, a federal judge working in a top-secret court. He's an individual thinker who tries to judge fairly in an environment that only values compliance.
+
+Cupertino is a David vs. Goliath legal drama set in the heart of Silicon Valley that follows a lawyer (Mike Colter) who is being cheated out of his stock options by his former employer, a tech start-up. Refusing to back down, he joins forces with another recently fired attorney (Rachel Keller) to represent those taken advantage of by the tech elite and help them fight back in a high-stakes battle against the Goliaths controlling Silicon Valley. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'NCIS: Origins' Sets Gibbs Up For Meeting Across Time In New Teaser As Lala Mystery Intensifies News CBS Midseason Premiere Dates: 'Cupertino' Moves, 'Ghosts' & 'Eternally Yours' Pair Up, 'Sheriff Country' & 'FBI' Slide, 'Survivor' Gets Supersized (Again)
+
+The series also stars Ella Stiller, Nik Dodani, Busy Philipps, and Ren&#xE9;e Elise Goldsberry. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+&#8220;Jon Cryer was perfect, playing a judge you couldn't tell was a good guy or a bad guy. We needed someone who could deliver the comedy but also dig into the moral dilemma of a judge who needs to follow the law in a deeply flawed system,&#8221; shared Robert King and Michelle King, showrunners, co-creators and executive producers of Cupertino .
+
+The series airs on Thursdays at 10 PM ET/PT on CBS. Beginning January 17, Cupertino moves to Sundays at 10 to 11 PM.
+
+In addition to the Kings, the series is executive produced by Liz Glotzer and Sam Hoffman.
+
+Cryer earned two Emmy Awards for his portrayal of Alan Harper on the CBS comedy series Two and a Half Men , first in the Supporting Actor category and then going on to win for Lead Actor. He followed the series with work on NBC's Extended Family, in which Cryer starred and served as executive producer, and played the villain Lex Luthor on the CW's Supergirl . Additional credits include The Famous Teddy Z , Getting Persona l, Partners, The Trouble with Normal , No Small Affair , Pretty in Pink , Hot Shots , and Hiding Out. Cryer is repped by UTA, Artists First, and Myman Greenspan Fox.
+
+============================================================
+[6] 16 Black Friday Sales on LEGO, Funko, and Video Games to Shop Now
 Source: ComicBook.com | Status: expanded | Words: 672
 Published: 2026-11-17T18:59:13+00:00
 URL: https://comicbook.com/crate/crate-deals/deals/early-black-friday-sales-2026
@@ -81,7 +153,7 @@ Amazon &#8212; There are lots of deals on everything from video games to accesso
 Costco &#8212; One of Costco's best video game deals is on the PlayStation 5 Digital Slim Console with a pair of White DualSense Controllers for $649.99. You'll also find several home arcade cabinets on sale, like the Arcade1Up Sonic the Hedgehog Home Arcade Machine for $539.99 (was $639.99).
 
 ============================================================
-[4] Derek DelGaudio and Frank Oz Reunite for 'Unknown Caller' at New York's Public Theater (EXCLUSIVE)
+[7] Derek DelGaudio and Frank Oz Reunite for 'Unknown Caller' at New York's Public Theater (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 410
 Published: 2026-11-17T18:55:00+00:00
 URL: https://variety.com/2026/legit/news/derek-delgaudio-frank-oz-unknown-caller-public-theater-1236950300
@@ -105,7 +177,7 @@ Oz says working with DelGaudia is like &#8220;jumping off a cliff together into 
 "Derek DelGaudio is a magician of the soul. His performances bring us face to face not with illusions, which are just a vehicle, but with mysteries: the unanswerable questions at the heart of our lives," said the Public's artistic director Oskar Eustis. "Like his director and collaborator Frank Oz, he's transcended any genre and become, simply, one of our most visionary artists."
 
 ============================================================
-[5] The Full Circle Moment Robert Pattinson (Kinda) Told Us Zendaya Is Responsible For His 007 Role
+[8] The Full Circle Moment Robert Pattinson (Kinda) Told Us Zendaya Is Responsible For His 007 Role
 Source: CinemaBlend | Status: expanded | Words: 209
 Published: 2026-11-17T18:49:41+00:00
 URL: https://www.cinemablend.com/movies/full-circle-moment-robert-pattinson-kinda-told-us-zendaya-responsible-007-role-james-bond-denis-villeneuve
@@ -123,7 +195,7 @@ You can see the whole answer from the Q&A here:
 Which brings us to James Bond. After working with Villeneuve on Dune: Part Three , Pattinson was obviously excited about working with the Canadian director again, and now he’ll get his chance in a big way. He’ll be stepping into massive shoes once filled by the likes of Sean Connery , Roger Moore, Pierce Brosnan , Daniel Craig , and all the other actors who have played Bond over the years.
 
 ============================================================
-[6] SAG-AFTRA Reaches New Tentative Contract With Netflix
+[9] SAG-AFTRA Reaches New Tentative Contract With Netflix
 Source: Deadline | Status: expanded | Words: 196
 Published: 2026-11-17T18:44:59+00:00
 URL: https://deadline.com/2026/11/sag-aftra-new-tentative-contract-netflix-1237226841
@@ -143,7 +215,7 @@ The performers' union has had a standalone contract with Netflix Studios since 2
 The Netflix agreement applies to scripted, dramatic episodic and feature-length productions made by Netflix Studios, LLC. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[7] Broadway's Seaview Taps New York-Based Exec &#038; Former Clinton Non-Prof Advisor Justin Klein As COO; Ups Anna Mack Pardee
+[10] Broadway's Seaview Taps New York-Based Exec &#038; Former Clinton Non-Prof Advisor Justin Klein As COO; Ups Anna Mack Pardee
 Source: Deadline | Status: expanded | Words: 849
 Published: 2026-11-17T18:44:31+00:00
 URL: https://deadline.com/2026/11/seaview-justin-klein-anna-mack-pardee-broadway-1237226711
@@ -179,7 +251,7 @@ In a statement, Pardee said, "Since joining Seaview, I've had the great privileg
 Klein and Pardee will report directly to Nobile.
 
 ============================================================
-[8] Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview]
+[11] Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview]
 Source: The Playlist | Status: summary_only | Words: 120
 Published: 2026-11-17T18:41:42+00:00
 URL: https://theplaylist.net/jason-hehir-sctv-documentary-martin-scorsese-catherine-ohara-interview-20261117
@@ -191,7 +263,7 @@ CONTENT / EXTRACTED DETAILS:
 For anyone who grew up in Canada during the 1970s and ’80s, “ SCTV ” was practically a religion, an absurdist, wonderfully irreverent comedy institution that helped shape an entire generation’s sense of humor. Yet, south of the border, the show remained something of a cult curiosity, even as its astonishing ensemble of comedians went on to become household names. Now, 50 years after its debut, Netflix has finally given the series its due, making the original episodes available to stream alongside an affectionate, often hilarious, and unexpectedly moving documentary about its creation and enduring influence. Continue reading Jason Hehir On ‘SCTV: The Greatest Show You’ve Never Heard Of,’ Martin Scorsese’s Unreleased Reunion &#038; Catherine O’Hara [Interview] at The Playlist.
 
 ============================================================
-[9] Fremantle U.S. COO Suzanne Lopez Exiting After Over 20 Years
+[12] Fremantle U.S. COO Suzanne Lopez Exiting After Over 20 Years
 Source: Deadline | Status: expanded | Words: 262
 Published: 2026-11-17T18:38:34+00:00
 URL: https://deadline.com/2026/11/fremantle-us-coo-suzanne-lopez-exiting-1237226765
@@ -213,7 +285,7 @@ Lopez's departure comes after former Endemol Shine North America chief Sharon Le
 Lopez has been with Fremantle since March 2004.
 
 ============================================================
-[10] 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys
+[13] 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys
 Source: The Hollywood Reporter | Status: expanded | Words: 453
 Published: 2026-11-17T18:30:03+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-dad-2026-holiday-present-ideas-1236553994
@@ -243,7 +315,7 @@ Looking for something else? Check out THR &#x2018;s full assortment of holiday g
 Erin Lassner is THR 's E-Commerce Writer. She covers shopping across beauty, fashion and lifestyle, testing and reviewing the buzziest new products on the market.
 
 ============================================================
-[11] This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff
+[14] This Week's FBI Had A Surprising Update, And I Needed To Know About A Potential Spinoff
 Source: CinemaBlend | Status: expanded | Words: 254
 Published: 2026-11-17T18:29:00+00:00
 URL: https://www.cinemablend.com/television/fbi-surprising-update-i-need-know-potential-spinoff-shantel-vansanten-john-boyd
@@ -259,7 +331,7 @@ Shantel VanSanten returned to FBI as Special Agent Nina Chase in Monday’s epis
 FBI has been growing as a franchise, like any Dick Wolf series, so it’s totally logical to wonder about a spinoff coming from this update. Having two fan-favorite characters moving across the country for the job would certainly be a missed opportunity for another series, in my humble opinion. While it sounds like there aren’t any plans, and Boyd seems to be sticking around on FBI for the time being, if VanSanten has her way, we very well could be getting a Scolina spinoff at some point in the future. While we wait and hope for that, I'm just glad that it seems like Nina is finally getting closure .
 
 ============================================================
-[12] One Year Later, My Dress-Up Darling Still Leaves Fans Hanging With No Season 3
+[15] One Year Later, My Dress-Up Darling Still Leaves Fans Hanging With No Season 3
 Source: ComicBook.com | Status: expanded | Words: 563
 Published: 2026-11-17T18:28:47+00:00
 URL: https://comicbook.com/anime/feature/one-year-later-my-dress-up-darling-still-leaves-fans-hanging-with-no-season-3
@@ -285,7 +357,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Sundance Institute Partners With Dior to Support Female Filmmakers Through New Initiatives
+[16] Sundance Institute Partners With Dior to Support Female Filmmakers Through New Initiatives
 Source: The Hollywood Reporter | Status: expanded | Words: 606
 Published: 2026-11-17T18:26:02+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sundance-institute-dior-female-filmmakers-new-initiatives-1236757304
@@ -307,7 +379,7 @@ But wait, there's more: the Sundance and Dior initiative launches will be the to
 Added Michelle Satter , founding senior director of artist programs for the Sundance Institute: &#8220;At Sundance Institute, we believe every woman deserves the freedom to tell her story in her own voice, on her own terms. This shared commitment comes to life through the inaugural Miss Dior x Women at Sundance Institute Award, honoring a filmmaker whose creative vision makes a meaningful impact, and our ongoing Momentum Fellowship, which supports women directing their second or third fiction or nonfiction feature. Together, we're investing in the voices, visions and stories that will move our culture forward. We look forward to celebrating this partnership at the Women's Celebration Brunch presented by Dior during our upcoming Sundance Film Festival in Boulder.&#8221;
 
 ============================================================
-[14] Film Adaptation of 'Saint Philomene's Infirmary for Magical Creatures' Set from Danny Daneau, Laura C. Lopez
+[17] Film Adaptation of 'Saint Philomene's Infirmary for Magical Creatures' Set from Danny Daneau, Laura C. Lopez
 Source: The Hollywood Reporter | Status: expanded | Words: 332
 Published: 2026-11-17T18:26:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/saint-philomenes-infirmary-for-magical-creatures-movie-1236757328
@@ -333,7 +405,7 @@ Black Bar Mitzvah, headed by Jay Ellis and Aaron Bergman, is the production comp
 Lopez and Daneau are repped by M88 and HJTH.
 
 ============================================================
-[15] MLB The Show 27 Announced With First New Details
+[18] MLB The Show 27 Announced With First New Details
 Source: ComicBook.com | Status: expanded | Words: 418
 Published: 2026-11-17T18:22:22+00:00
 URL: https://comicbook.com/gaming/news/mlb-the-show-27-announced-with-first-new-details
@@ -357,7 +429,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Blink-182 and Pierce the Veil to Headline When We Were Young 2027
+[19] Blink-182 and Pierce the Veil to Headline When We Were Young 2027
 Source: Variety | Status: expanded | Words: 338
 Published: 2026-11-17T18:19:08+00:00
 URL: https://variety.com/2026/music/news/blink-182-pierce-the-veil-headline-when-we-were-young-2027-1236950552
@@ -377,7 +449,7 @@ The announcement of the 2027 festival comes after organizers announced in this p
 When We Were Young had its inaugural year in 20 at Santa Ana, CA's Observatory. It then moved to Las Vegas for its second iteration in 2022, where it has returned every year through 2025. Headliners in the past have included Blink-182 , Panic! at the Disco, My Chemical Romance, Paramore and more.
 
 ============================================================
-[17] 'Hershey' Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic
+[20] 'Hershey' Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic
 Source: The Hollywood Reporter | Status: expanded | Words: 842
 Published: 2026-11-17T18:18:37+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/hershey-review-finn-wittrock-alexandra-daddario-chocolate-1236757233
@@ -407,7 +479,7 @@ Wittrock, eventually outfitted with a period-perfect moustache, does a reasonabl
 The film ends in predictable fashion, with vintage photographs of the real-life figures and present-day footage of the school and its grateful students. That's followed by one of those annoying "Pay It Forward" pitches, gamely delivered by Wittrock and Daddario, urging us to pour more money into the studio's coffers under the guise of philanthropy.
 
 ============================================================
-[18] Spider-Man: Beyond the Spider-Verse Needs to Do Something the First Two Movies Never Could
+[21] Spider-Man: Beyond the Spider-Verse Needs to Do Something the First Two Movies Never Could
 Source: ComicBook.com | Status: expanded | Words: 784
 Published: 2026-11-17T18:18:00+00:00
 URL: https://comicbook.com/movies/feature/spider-man-beyond-the-spider-verse-needs-to-do-something-the-first-two-movies-never-could
@@ -431,7 +503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Roadside Attractions Acquires U.S. Rights to Thriller 'One Second After' Based on William R. Forstchen Novel (EXCLUSIVE)
+[22] Roadside Attractions Acquires U.S. Rights to Thriller 'One Second After' Based on William R. Forstchen Novel (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-17T18:15:00+00:00
 URL: https://variety.com/2026/film/news/roadside-attractions-acquires-one-second-after-movie-1236949333
@@ -453,7 +525,7 @@ Josh Holloway stars alongside Hannah John-Kamen, Steven Ogg, Famke Janssen and M
 Roadside Attraction's other upcoming films include "The Gallerist," a crime comedy starring Natalie Portman, Jenna Ortega, Da'Vine Joy Randolph, Sterling K. Brown and Zach Galifianakis, and "Babies" starring Seth Rogen, Anna Kendrick, Issa Rae and Dan Stevens.
 
 ============================================================
-[20] Only Murders in the Building Changes Title for Season 6, Reveals All 3 Doctor Whos in the Cast
+[23] Only Murders in the Building Changes Title for Season 6, Reveals All 3 Doctor Whos in the Cast
 Source: ComicBook.com | Status: expanded | Words: 148
 Published: 2026-11-17T18:14:46+00:00
 URL: https://comicbook.com/tv-shows/news/only-murders-in-the-building-changes-title-for-season-6-reveals-all-3-doctor-whos-in-the-cast
@@ -469,7 +541,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Jena Malone, Suzanna Son &#038; Sofia Mortera Wrap On Indie 'Kismet' From Giovanna Molina
+[24] Jena Malone, Suzanna Son &#038; Sofia Mortera Wrap On Indie 'Kismet' From Giovanna Molina
 Source: Deadline | Status: expanded | Words: 652
 Published: 2026-11-17T18:13:44+00:00
 URL: https://deadline.com/2026/11/jena-malone-suzanna-son-to-star-kismet-1237226780
@@ -495,7 +567,7 @@ Mortera voices Young Priscilla in Netflix's animated feature Steps and has appea
 A Mexican-Italian-American filmmaker from Brooklyn, NY, Molina's work explores stories of isolation, belief and surrealism within a female coming-of-age context. She has received grants and fellowships from Sundance, PBS, The Future of Film is Female and the Saul Zaentz Innovation Fund. Her film Quaker had its world premiere at the 75th Berlin Film Festival and won Best Narrative Short at Bend Film Festival. She holds an MFA in Directing from the UCLA School of Theater, Film and Television and a BA from Johns Hopkins University, with degrees in The Writing Seminars and Film & Media Studies. She is represented by Circle Management + Production.
 
 ============================================================
-[22] The Best 'Star Wars' Gifts to Shop in 2026: Film Premiere Tickets, a $500 Grogu Animatronic, Limited-Edition Collectibles and More
+[25] The Best 'Star Wars' Gifts to Shop in 2026: Film Premiere Tickets, a $500 Grogu Animatronic, Limited-Edition Collectibles and More
 Source: Variety | Status: expanded | Words: 273
 Published: 2026-11-17T18:07:10+00:00
 URL: https://variety.com/shop/star-wars-best-gifts-1203079097
@@ -515,7 +587,7 @@ There are also plenty of gifts for fans who prefer to wear their fandom, from Pa
 Below, find the best new "Star Wars" gifts to shop in 2026.
 
 ============================================================
-[23] Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown
+[26] Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-17T18:06:19+00:00
 URL: https://theplaylist.net/robert-pattinson-the-batman-part-iii-matt-reeves-james-bond-20261117
@@ -527,7 +599,7 @@ CONTENT / EXTRACTED DETAILS:
 Yesterday, many were happy to see that British actor Robert Pattinson had landed the James Bond role for " Bond 26 ," but were quickly questioning his future as the Caped Crusader. With him currently in production on " The Batman Part II " and a third film (assumed to be titled " The Batman Part III ") not yet finalized, fans are a little on edge about the whole thing and whether he'll be coming back to complete that trilogy. Continue reading Robert Pattinson Reportedly Not Obligated For 'The Batman Part III,' Despite Matt Reeves' Participation Being Unknown at The Playlist.
 
 ============================================================
-[24] Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie
+[27] Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie
 Source: The Playlist | Status: summary_only | Words: 92
 Published: 2026-11-17T18:06:10+00:00
 URL: https://theplaylist.net/timothee-chalamet-mystery-filmmaker-denis-villeneuve-sci-fi-project-20261117
@@ -539,7 +611,7 @@ CONTENT / EXTRACTED DETAILS:
 At just 30, Timothée Chalamet has already worked with some of Hollywood’s most celebrated directors, and apparently another major collaboration is on the horizon. The “ Dune: Part Three ” star is teasing a mystery project with a filmmaker he won’t name, while also revealing an intriguing Hollywood what-if involving Denis Villeneuve , who once turned down a major science-fiction movie because he didn’t feel ready to make it. Continue reading Timothée Chalamet Teases Mystery Project With “Phenomenal Filmmaker” &#038; Reveals Denis Villeneuve Turned Down A Major Sci-Fi Movie at The Playlist.
 
 ============================================================
-[25] I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting
+[28] I’m Worried NBC Is Going To Misunderstand Why The Traitors New Blood Isn't Hitting
 Source: CinemaBlend | Status: expanded | Words: 1734
 Published: 2026-11-17T18:05:00+00:00
 URL: https://www.cinemablend.com/television/traitors-nbc-issue-runtime-newbies
@@ -593,7 +665,7 @@ Television It Took 4 Episodes Of Survivor 51 For Fans To Get Mad At Producers, B
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[26] 'Heated Rivalry' Star Connor Storrie, 'Obsession' Ingenue Inde Navarette and 'Backrooms' Filmmaker Kane Parsons Set as BAFTA U.S. Breakouts
+[29] 'Heated Rivalry' Star Connor Storrie, 'Obsession' Ingenue Inde Navarette and 'Backrooms' Filmmaker Kane Parsons Set as BAFTA U.S. Breakouts
 Source: The Hollywood Reporter | Status: expanded | Words: 511
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bafta-us-breakouts-2026-connor-storrie-inde-navarette-1236756614
@@ -615,7 +687,7 @@ BAFTA Breakthrough, supported by Apple TV, is now in its seventh year. It's desc
 The roster was selected by a jury that included Adolpho Veloso, Alysa Nahmias, Arseni Khachaturan, Julia Kim, Peter Teschner, Rolfe Kent, Sonia Kennebeck, Bella Gonzales and Nana Mensah for film and TV, and Bethany Higa, Bhamini Lakshminarayan, Del Walker, Mai Koythong, Michael Surya, Nick Apostolides, Robert Dominguez and Virginia Leo for games. Alums include Stephanie Economou, HIKARI, Nava Mau, Bao Nguyen, Fernando Reyes Medina, Karrie Shirou Shao, Erica Tremblay, Cheyenne Pualani Morrin, Sean Wang, Erika Ishii, Eva Victor and Chase Infiniti.
 
 ============================================================
-[27] Peacock Reveals 'The Traitors' Season 5 Premiere Date, First Look
+[30] Peacock Reveals 'The Traitors' Season 5 Premiere Date, First Look
 Source: Variety | Status: expanded | Words: 423
 Published: 2026-11-17T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/the-traitors-season-5-premiere-date-peacock-first-look-1236950496
@@ -673,7 +745,7 @@ The format was devised by IDTV and RTL. Cumming is an executive producer in addi
 Here's a first look at Season 5:
 
 ============================================================
-[28] Classic Comedy Performances From Dave Chappelle, Chris Rock, Bob Newhart and More Headed to Streaming
+[31] Classic Comedy Performances From Dave Chappelle, Chris Rock, Bob Newhart and More Headed to Streaming
 Source: The Hollywood Reporter | Status: expanded | Words: 397
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dave-chappelle-chris-rock-bob-newhart-classic-comedy-streaming-1236757197
@@ -695,7 +767,7 @@ The aim is to introduce classic material to viewers unfamiliar with the comedian
 800 Pound Gorilla Media, which is celebrating its 10th anniversary, champions comedians through production, distribution, digital programming and creator-first partnerships. The company reaches more than 20 million comedy fans each month across its platforms and social channels. Its growing slate of partnerships includes Nateland, Comedy Central Records, Kevin Hart's Laugh Out Loud Network, All Things Comedy and streaming platforms including Tubi. Through Gorilla Comedy+, the company continues to expand its efforts to connect comedians and audiences around the world.
 
 ============================================================
-[29] "In a Very Primal Way It's About Who We Are as Queer Men in Our 60s": 'THR Presents' Q&#038;A With 'Tip Toe' Star Alan Cumming and Creator Russell T Davies
+[32] "In a Very Primal Way It's About Who We Are as Queer Men in Our 60s": 'THR Presents' Q&#038;A With 'Tip Toe' Star Alan Cumming and Creator Russell T Davies
 Source: The Hollywood Reporter | Status: expanded | Words: 485
 Published: 2026-11-17T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/alan-cumming-russell-t-davies-tip-toe-interview-thr-presents-1236754405
@@ -717,7 +789,7 @@ Davies created the show with the UK's Channel Four, and while he was ferociously
 Watch the rest of the conversation between Cumming and Davies in the video above. This edition of THR Presents is sponsored by Starz .
 
 ============================================================
-[30] The Hunger Games: Sunrise on the Reaping Early Rotten Tomatoes Score Continues a Franchise Trend
+[33] The Hunger Games: Sunrise on the Reaping Early Rotten Tomatoes Score Continues a Franchise Trend
 Source: ComicBook.com | Status: expanded | Words: 633
 Published: 2026-11-17T17:55:54+00:00
 URL: https://comicbook.com/movies/news/the-hunger-games-sunrise-on-the-reaping-early-rotten-tomatoes-score-continues-a-franchise-trend
@@ -743,7 +815,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Shonen Jump Creator Breaks Silence on Ending Their Series After 5 Years &#038; Teases Epilogue
+[34] Shonen Jump Creator Breaks Silence on Ending Their Series After 5 Years &#038; Teases Epilogue
 Source: ComicBook.com | Status: expanded | Words: 549
 Published: 2026-11-17T17:55:00+00:00
 URL: https://comicbook.com/anime/news/shonen-jump-creator-breaks-silence-on-ending-their-series-after-5-years-teases-epilogue
@@ -769,7 +841,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] PlayStation Plus Subscribers Are Losing Access to 3 Games in December 2026
+[35] PlayStation Plus Subscribers Are Losing Access to 3 Games in December 2026
 Source: ComicBook.com | Status: expanded | Words: 371
 Published: 2026-11-17T17:52:01+00:00
 URL: https://comicbook.com/gaming/news/playstation-ps-plus-games-december-2026-removed
@@ -793,7 +865,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Why Denis Villeneuve Cast Robert Pattinson as James Bond: 'I Need to Believe This Man Is a Killer'
+[36] Why Denis Villeneuve Cast Robert Pattinson as James Bond: 'I Need to Believe This Man Is a Killer'
 Source: Variety | Status: expanded | Words: 497
 Published: 2026-11-17T17:51:26+00:00
 URL: https://variety.com/2026/film/news/denis-villeneuve-robert-pattinson-james-bond-explained-1236950238
@@ -819,7 +891,7 @@ Pattinson shared in his own statement: "James Bond is one of the most legendary 
 Villeneuve and Pattinson will begin filming Bond 26 sometime in 2027.
 
 ============================================================
-[34] Robert Pattinson's Batman Future May Already Be Over Before He Was Cast as James Bond
+[37] Robert Pattinson's Batman Future May Already Be Over Before He Was Cast as James Bond
 Source: ComicBook.com | Status: expanded | Words: 542
 Published: 2026-11-17T17:49:58+00:00
 URL: https://comicbook.com/movies/news/robert-pattinsons-batman-future-may-already-be-over-before-he-was-cast-as-james-bond
@@ -845,7 +917,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Kevin James Doyle Releasing Edinburgh Fringe Show 'After Endgame: A Comedy About Chess' As Special
+[38] Kevin James Doyle Releasing Edinburgh Fringe Show 'After Endgame: A Comedy About Chess' As Special
 Source: Deadline | Status: expanded | Words: 513
 Published: 2026-11-17T17:45:21+00:00
 URL: https://deadline.com/2026/11/kevin-james-doyle-after-endgame-special-where-to-watch-1237226740
@@ -867,7 +939,7 @@ Doyle is Creative Producer at SoHo Playhouse, where he founded and leads SoHo Pl
 Doyle is otherwise known for co-hosting The Bradshaw Boys , a Sex and the City podcast featuring appearances by all four principal actresses, and co-creating Great Times with Cory and Kevin , a New York City comedy show running since 2014.
 
 ============================================================
-[36] 'Asphalt' and 'Sandbag Dam' Among Lee Strasberg Film Festival 10th Edition Award Winners
+[39] 'Asphalt' and 'Sandbag Dam' Among Lee Strasberg Film Festival 10th Edition Award Winners
 Source: Variety | Status: expanded | Words: 402
 Published: 2026-11-17T17:45:00+00:00
 URL: https://variety.com/2026/film/news/lee-strasberg-film-festival-10th-edition-award-winners-1236949361
@@ -921,7 +993,7 @@ Zack Kozlow "Dead Deer High" (Jack)
 "The Last Goodbye," Kailey Wolf, Director
 
 ============================================================
-[37] As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning
+[40] As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning
 Source: CinemaBlend | Status: expanded | Words: 226
 Published: 2026-11-17T17:43:06+00:00
 URL: https://www.cinemablend.com/movies/johnny-depp-faces-pirates-of-the-caribbean-6-rumors-another-star-weighs-in-returning-mackenzie-crook
@@ -939,7 +1011,7 @@ Somehow, they survived three movies filled with undead pirates, sea monsters and
 Bruckheimer previously confirmed that he's been speaking with Depp about a sixth movie , although the project remains in development. Depp recently suggested he'd be interested in helping give the franchise a proper sendoff, particularly if it meant working with Bruckheimer again.
 
 ============================================================
-[38] Children of Blood and Bone Author Celebrates Upcoming Movie After Saying She Would Never See It
+[41] Children of Blood and Bone Author Celebrates Upcoming Movie After Saying She Would Never See It
 Source: ComicBook.com | Status: expanded | Words: 480
 Published: 2026-11-17T17:37:59+00:00
 URL: https://comicbook.com/movies/news/children-of-blood-and-bone-author-celebrates-upcoming-movie-after-saying-she-would-never-see-it
@@ -961,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Natalie Portman to Present Sundance's Inaugural Women Filmmakers Award as Part of Fest's New Dior Partnership
+[42] Natalie Portman to Present Sundance's Inaugural Women Filmmakers Award as Part of Fest's New Dior Partnership
 Source: Variety | Status: expanded | Words: 470
 Published: 2026-11-17T17:37:12+00:00
 URL: https://variety.com/2026/film/news/dior-sundance-partnership-natalie-portman-1236950491
@@ -989,7 +1061,7 @@ The Dior partnership also builds on Sundance Institute's existing efforts to sup
 &#8220;We're proud to partner with Dior in championing women artists whose bold, original stories deepen our understanding of the human experience and shape the future of independent storytelling,&#8221; said Michelle Satter, Sundance Institute's founding senior director of artist programs.
 
 ============================================================
-[40] 'Cross' &#038; 'The Greatest' Director Stacey Muhammad Aboard For 'Wells', Movie About Civil Rights &#038; Suffrage Pioneer Ida B. Wells
+[43] 'Cross' &#038; 'The Greatest' Director Stacey Muhammad Aboard For 'Wells', Movie About Civil Rights &#038; Suffrage Pioneer Ida B. Wells
 Source: Deadline | Status: expanded | Words: 503
 Published: 2026-11-17T17:34:24+00:00
 URL: https://deadline.com/2026/11/ida-b-wells-movie-cross-greatest-director-stacey-muhammad-1237226683
@@ -1017,7 +1089,7 @@ Bailey-Ford's credits include Color Book (Netflix), On a Wing and a Prayer (MGM/
 Stacey Muhammad is represented by UTA and More/Medavoy Management.
 
 ============================================================
-[41] GTA 6's Lucia Actress Finally Confirmed After Years of Speculation
+[44] GTA 6's Lucia Actress Finally Confirmed After Years of Speculation
 Source: ComicBook.com | Status: expanded | Words: 429
 Published: 2026-11-17T17:34:00+00:00
 URL: https://comicbook.com/gaming/news/gta-6s-lucia-actress-finally-confirmed-after-years-of-speculation
@@ -1045,7 +1117,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Fubo Shares Jump As Disney-Controlled Pay-TV Operator Posts Record Fiscal 2026 Revenue
+[45] Fubo Shares Jump As Disney-Controlled Pay-TV Operator Posts Record Fiscal 2026 Revenue
 Source: Deadline | Status: expanded | Words: 549
 Published: 2026-11-17T17:32:39+00:00
 URL: https://deadline.com/2026/11/fubo-disney-pay-tv-streaming-q4-2026-earnings-1237226659
@@ -1077,7 +1149,7 @@ In her quarterly letter to shareholders, Bowen noted the completion of a strateg
 Ad revenue in the quarter jumped 22% to $119.1 million. &#8220;We continued to benefit from a significant lift in CPMs and fill rates, including as a result of the integration of Fubo ad inventory on the Disney Advertising Server,&#8221; Bowen wrote in the shareholder letter.
 
 ============================================================
-[43] 'The Odyssey,' 'Dune 3,' 'Michael' and More Top Artisans Honored at Hamilton Behind the Camera Awards
+[46] 'The Odyssey,' 'Dune 3,' 'Michael' and More Top Artisans Honored at Hamilton Behind the Camera Awards
 Source: Variety | Status: expanded | Words: 1509
 Published: 2026-11-17T17:30:00+00:00
 URL: https://variety.com/2026/artisans/news/hamilton-behind-the-camera-awards-odyssey-dune-1236949383
@@ -1147,7 +1219,7 @@ Refree revealed he and directors Javier Calvo and Javier Ambrossi &#x2014; commo
 The composer also teased that Calvo and Ambrossi already &#8220;have an idea&#8221; for their next project, and he trusts &#8220;they are going to make an incredible step forward.&#8221;
 
 ============================================================
-[44] New Boruto Preview Teases Disappointing Shift Away From a Major Fight
+[47] New Boruto Preview Teases Disappointing Shift Away From a Major Fight
 Source: ComicBook.com | Status: expanded | Words: 494
 Published: 2026-11-17T17:29:05+00:00
 URL: https://comicbook.com/anime/feature/new-boruto-preview-teases-disappointing-shift-away-from-a-major-fight
@@ -1169,7 +1241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Connor Storrie, Inde Navarrette, Kane Parsons Among 14 Industry Insiders Tapped for 2026 BAFTA Breakthrough U.S. Cohort
+[48] Connor Storrie, Inde Navarrette, Kane Parsons Among 14 Industry Insiders Tapped for 2026 BAFTA Breakthrough U.S. Cohort
 Source: Variety | Status: expanded | Words: 259
 Published: 2026-11-17T17:27:22+00:00
 URL: https://variety.com/2026/biz/news/connor-storrie-inde-navarrette-parsons-bafta-breakthrough-1236950441
@@ -1187,7 +1259,7 @@ The program, now in its seventh edition, is designed to support promising creati
 Here's a full list of the 2026 BAFTA Breakthrough U.S. Cohort
 
 ============================================================
-[46] Jennifer Dodge and Traci Balthazor To Oversee Animation Across Both Paramount And Warner Bros As Bill Damaschke Departs
+[49] Jennifer Dodge and Traci Balthazor To Oversee Animation Across Both Paramount And Warner Bros As Bill Damaschke Departs
 Source: Deadline | Status: expanded | Words: 246
 Published: 2026-11-17T17:23:04+00:00
 URL: https://deadline.com/2026/11/jennifer-dodge-traci-balthazor-paramount-and-warner-bros-bill-damaschke-1237226675
@@ -1203,7 +1275,7 @@ The news was deliverd by an internal memo from Dana Goldberg and Josh Greenstein
 This comes as the studio sets its structure for the motion picture group with it also being announced that Kira Goldberg would be joining the studio as President of Paramount Motion Picture as well as Josh Goldstine being confirmed as thehead of worldwide marketing and distribution across Paramount and WB. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[47] The Game Awards 2026 Full Nominees Announced
+[50] The Game Awards 2026 Full Nominees Announced
 Source: ComicBook.com | Status: expanded | Words: 224
 Published: 2026-11-17T17:21:49+00:00
 URL: https://comicbook.com/gaming/news/the-game-awards-2026-full-nominees-announced
@@ -1219,92 +1291,4 @@ The Game Awards will be livestreamed on December 10th at 4:30 pm PT/ 7:30 pm EST
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[48] Hayden Panettiere’s Mother Breaks Silence On Missing The Late Actress’ Funeral
-Source: CinemaBlend | Status: expanded | Words: 194
-Published: 2026-11-17T17:19:47+00:00
-URL: https://www.cinemablend.com/television/hayden-panettiere-mother-breaks-silence-missing-late-actress-funeral
-------------------------------------------------------------
-SUMMARY:
-Panettiere's celebration of life happened in late September.
-
-CONTENT / EXTRACTED DETAILS:
-Back in August, the public was devastated to learn that actress Hayden Panettiere died at age 36 . This was a huge shock, especially considering her brother died just a few years earlier . Fans are still mourning and re-watching her work on projects like Heroes , and plenty of people were surprised when Panettiere's mother Lesley Vogel didn't attend her celebration of life back in September. Now Vogel is speaking out and explaining her absence for the services.
-
-During the interview, she shared that she and Hayden Panettiere drifted away from each other after the Scream actress' relationship with ex Brian Hickerson started picking up. They mother and daughter seemingly had a difficult relationship, some of which was mentioned in the actress' memoir This Is Me: A Reckoning. Still, it was surprising for some that Vogel didn't attend the funeral services.
-
-Clearly this was a complicated situation, which might explain why Hayden Panettiere's mother ultimately decided not to attend her funeral. She knew there'd be discourse about her either way, but is seemingly at peace with her decision. Inside Edition contacted Brian Hickerson for a comment, but did not hear back from him.
-
-============================================================
-[49] Jeff Goldstein Exits As Global Theatrical Distribution Boss After 48-Year Warner Bros Run
-Source: Deadline | Status: expanded | Words: 632
-Published: 2026-11-17T17:16:19+00:00
-URL: https://deadline.com/2026/11/warner-bros-jeff-goldstein-distribution-exits-1237148114
-------------------------------------------------------------
-SUMMARY:
-Warner Bros veteran and current head of global theatrical distribution Jeff Goldstein is leaving the studio following Paramount's acquisition of the studio back in October. He will remain a consultant. Goldstein's retirement after a more than 48-year run comes amid news Tuesday of a major Skydance executive reorg after the absorbing of Warner Bros: Netflix […]
-
-CONTENT / EXTRACTED DETAILS:
-Forty-eight-year-plus Warner Bros vet and head of global theatrical distribution, Jeff Goldstein , is leaving the studio following Paramount's acquisition of the studio back in October. He will remain a consultant.
-
-Following Paramount's immediate acquisition of Warners, Goldstein and Warners theatrical marketing were reporting into Josh Goldstine, Paramount's Head of Global Marketing and Theatrical.
-
-Goldstein's vacancy will now be filled by current Paramount domestic distribution boss Shaun Barber and Paramount international distribution chief Mark Viane. All of this comes before Paramount's release of Warner Bros/Legendary's expected mega holiday tentpole Dune: Part III which Goldstein laid the distribution attack plan on, including 70MM Imax ticket sellouts. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Executives Skydance Bosses Throw Shade On Warner Bros Film Slate; Q4 Profit Will Take $200M Hit News Former 'Bachelor' Host Chris Harrison On Cease-And-Desist Over Fox Nation's 'The Vow': "Jealousy Is A Tough Thing"
-
-Where to begin on Goldstein's long accomplishments? Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-He was raised to Head of Global Distribution early last year in what turned out to be a milestone year for Warners since 2019 with $4.3B at the global box office off such hits as A Minecraft Movie, Weapons, Final Destination: Bloodlines, Superman as well as multi Oscar winners One Battle After Another and Sinners. Over the last year he's been master-minding the Imax release of Legendary's Dune: Part 3 which has sold out a bulk of its Imax 70MM seats in an echo of the success of Universal's Christopher Nolan directed The Odyssey.
-
-Goldstein was heavily involved in the releases of the Harry Potter and Dark Knight franchises, and Zack Synder DC movies as EVP when Dan Fellman was the president of domestic distribution, but more importantly he was a champion in getting cinemas reopened post Covid for the theatrical release of Nolan's Tenet (a pretty good feat sans the bulk of the LA market and NYC). Following that, Goldstein had to manage and make the best of Jason Kilar's controversial theatrical day-and-date strategy during the remainder of Covid, beginning with 2020's Wonder Woman 1984 and ending with 2021's The Matrix Resurrections. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Goldstein joined Warners in 1978 as a sales trainee in the Los Angeles office before relocating to the company's regional offices in Florida, Ohio and Massachusetts (anecdotally, I've enjoyed hearing his stories about his dealings with my hometown movie cinema in Brattleboro, VT, the Latchis Theatre). Goldstein became branch manager of the Boston office in 1980 and returned to LA in 1987 as a Western division sales manager. A year later, he was promoted to VP and Western division manager.
-
-In 1996, he was raised to SVP domestic distribution. In 1998, he became SVP and assistant general sales manager. In April 1999, he became SVP and general sales manager, before becoming EVP and general sales manager under Domestic Distribution President Fellman.
-
-After Fellman retired as President after a 37 year run at Warners in December 2015, Goldstein was promoted to President of Domestic Distribution in 2016.
-
-On the Paramount side under the new Skydance, Josh Goldstine will continue to lead worldwide marketing and distribution. Goldstine previously was the marketing czar at Warner Bros working alongside Goldstein from January 2021-2025. Shaun Barber is the Head of Domestic Theatrical Distribution while Mark Viane is the President of International Distribution.
-
-============================================================
-[50] Music Industry Moves: Felipe Holguin Named CEO of Universal Music Latin America and Iberian Peninsula
-Source: Variety | Status: expanded | Words: 1024
-Published: 2026-11-17T17:14:14+00:00
-URL: https://variety.com/2026/music/news/felipe-holguin-named-ceo-universal-music-latin-america-1236950449
-------------------------------------------------------------
-SUMMARY:
-Universal Music Group has named Felipe Holguin as CEO of Universal Music Latin America &#38; Iberian Peninsula, effective immediately. He will report to Lucian Grainge, Chairman and CEO of UMG, and will take on the role long held by Jesús López, who will shift to a new role as Chairman Emeritus of Global Talent Services, […]
-
-CONTENT / EXTRACTED DETAILS:
-Universal Music Group has named Felipe Holguin as CEO of Universal Music Latin America & Iberian Peninsula, effective immediately. He will report to Lucian Grainge, Chairman and CEO of UMG, and will take on the role long held by Jes&#xFA;s L&#xF3;pez, who will shift to a new role as Chairman Emeritus of Global Talent Services, UMG's artist management and services company he conceived.
-
-Holguin was previously with Univision Communications, where he served as CEO of Fusion Media Group. During his tenure he integrated digital acquisitions and grew the company's English-language division to 92 million monthly unique visitors. He also served as Executive Vice President of Digital, News and Music at Univision, including its music streaming and audio platform and televised music award-show franchises. Earlier in his career, Holguin co-founded Page One Media, publisher of Poder, a business magazine for Hispanic leaders. The company was sold to Televisa. Most recently, Holguin worked with Hybe Latin America on strategy and operations. He previously worked with Exile Content Studio on the launch, growth, and sale of its music business to Hybe. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Brandi Carlile's All-Requests Tour Isn't Just a Magnificent Stunt, but an Unusually Moving Transaction Between Performer and Audience: Concert Review
-
-Grainge said: "Latin music has led the way in opening global audiences to artists around the world, showing how music can cross borders while staying rooted in the cultures that give it life. Its many voices and sounds continue to expand what's possible and point toward what's next. Felipe combines deep respect for artistry and the Latin creative ecosystem with expertise across business, technology, and data. I'm excited to see him work with our teams to invest in the extraordinary and the unexpected and to create more global opportunities for artists." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-L&#xF3;pez said: "I'm proud to welcome Felipe to UMG. He's an accomplished leader with a clear vision for the future, and I'm confident he'll build on the extraordinary foundation our teams have created. I look forward to supporting the company as we continue our shared mission of helping artists realize the full scope of their ambitions."
-
-+ Duetti has secured $665 million to fund further investment in independent music catalogs. The package includes a $450 million asset-backed securitization, anchored by investment firm Carlyle. It also includes $165 million of additional credit capacity from Viola Credit and a $50 million side facility with Flexpoint Ford and Truist Bank. Duetti says it has raised over $1.3 billion and completed more than 1,600 catalog investments since its founding in 2022, bringing its total owenership to more than 50,000 masters and compositions from more than 3,000 recording artists.
-
-CEO and co-founder Lior Tibon said: "This funding marks a significant milestone for Duetti, firmly placing us among a distinguished group of music rights platforms operating at real scale, which allows us to unlock substantial benefits in terms of market intelligence and operating capabilities.
-
-"Our third ABS transaction in just two years is more than five times the size of our inaugural deal in 2024, demonstrating our rapid growth, strong track record and increasing institutional demand for our catalog and business model."
-
-+ ASCAP has announced the appointment of veteran executive and Nashville native Samantha Saturn as General Manager of ASCAP Nashville, effective December 1, 2026.
-
-In this newly established leadership position, Saturn will be responsible for directing day-to-day operations in the Nashville office and will dual-report directly to ASCAP Chief Operating Officer and Chief Financial Officer Brian Roberts and Executive Vice President and Head of Creative Membership Nicole George-Middleton, both based at ASCAP's New York City headquarters.
-
-Most recently, Saturn served for nearly eight years as Chief Marketing Officer of SESAC Music Group, where she led global brand strategy, corporate communications, affiliate engagement, and digital licensing modernization, and co-founded Artville, a citywide public visual arts festival in Nashville. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-"Creating this new role reflects our commitment to Music City and our vibrant new Nashville office in Wedgewood-Houston," said Elizabeth Matthews, ASCAP Chief Executive Officer. "As a native Nashvillian who is widely respected and deeply connected across creative and music industry circles, Samantha brings the relationships and strategic vision needed to effectively represent ASCAP and champion our members."
-
-+ BMI has promoted Shannon Sanders to AVP, Creative, Nashville. In the role, Sanders will continue to sign and develop new talent and foster emerging and established songwriters through educational programs, showcase events and industry networking opportunities. He reports to BMI Vice President, Creative, Nashville, Clay Bradley.
-
-He joined BMI in 2020 after more than 30 years' experience as a songwriter, producer and musical director. Prior to joining BMI, he founded and served as Program Director of Nashville's 102.1 the Ville, a radio station dedicated to classic soul, R&B, and local artists.
-
-"Shannon's extensive industry experience and unwavering commitment to songwriters make him an invaluable member of BMI's Creative team," said Bradley. "He's been a constant champion of Nashville's diverse music community, honoring its rich heritage while creating new opportunities for writers across all genres. Shannon has also helped to expand and strengthen BMI's programs and relationships, and I look forward to working with him to build on that success."
-
-+ Sacramento-bored, Nashville-based singer-songwriter JT Loux has signed with Big Loud Rock and launched the partnership with a new single, "Killing Me Slow," co-written with and produced by Stevie Aiello of Thirty Seconds to Mars. He will be touring this fall, playing select dates with Girl Tones and Low Cut Connie.
-
-Big Loud Co-Founder and President of Big Loud Rock Joey Moi added, "I heard &#x2018;Killing Me Slow' one time and could sing the chorus five days later. That's the test for me. JT's structure is always right; he's intentional about every riff, and he's already doing so much of the heavy lifting himself. It was an easy yes."
 
