@@ -1,9 +1,39 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T17:16:04.172Z
+Last Updated: 2026-11-17T17:18:11.295Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Music Industry Moves: Felipe Holguin Named CEO of Universal Music Latin America and Iberian Peninsula
+[1] Jeff Goldstein After 48-Year Run At Warner Bros, Exits As Global Distribution Boss
+Source: Deadline | Status: expanded | Words: 632
+Published: 2026-11-17T17:16:19+00:00
+URL: https://deadline.com/2026/11/warner-bros-jeff-goldstein-distribution-exits-1237148114
+------------------------------------------------------------
+SUMMARY:
+Forty-eight-year-plus Warner Bros vet and head of global theatrical distribution, Jeff Goldstein, is leaving the studio following Paramount's acquisition of the studio back in October. He will remain a consultant. Following Paramount's immediate acquisition of Warners, Goldstein and Warners theatrical marketing were reporting into Josh Goldstine, Paramount's Head of Global Marketing and Theatrical. Goldstein's vacancy […]
+
+CONTENT / EXTRACTED DETAILS:
+Forty-eight-year-plus Warner Bros vet and head of global theatrical distribution, Jeff Goldstein , is leaving the studio following Paramount's acquisition of the studio back in October. He will remain a consultant.
+
+Following Paramount's immediate acquisition of Warners, Goldstein and Warners theatrical marketing were reporting into Josh Goldstine, Paramount's Head of Global Marketing and Theatrical.
+
+Goldstein's vacancy will now be filled by current Paramount domestic distribution boss Shaun Barber and Paramount international distribution chief Mark Viane. All of this comes before Paramount's release of Warner Bros/Legendary's expected mega holiday tentpole Dune: Part III which Goldstein laid the distribution attack plan on, including 70MM Imax ticket sellouts. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Executives Skydance Bosses Throw Shade On Warner Bros Film Slate; Q4 Profit Will Take $200M Hit News Former 'Bachelor' Host Chris Harrison On Cease-And-Desist Over Fox Nation's 'The Vow': "Jealousy Is A Tough Thing"
+
+Where to begin on Goldstein's long accomplishments? Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+He was raised to Head of Global Distribution early last year in what turned out to be a milestone year for Warners since 2019 with $4.3B at the global box office off such hits as A Minecraft Movie, Weapons, Final Destination: Bloodlines, Superman as well as multi Oscar winners One Battle After Another and Sinners. Over the last year he's been master-minding the Imax release of Legendary's Dune: Part 3 which has sold out a bulk of its Imax 70MM seats in an echo of the success of Universal's Christopher Nolan directed The Odyssey.
+
+Goldstein was heavily involved in the releases of the Harry Potter and Dark Knight franchises, and Zack Synder DC movies as EVP when Dan Fellman was the president of domestic distribution, but more importantly he was a champion in getting cinemas reopened post Covid for the theatrical release of Nolan's Tenet (a pretty good feat sans the bulk of the LA market and NYC). Following that, Goldstein had to manage and make the best of Jason Kilar's controversial theatrical day-and-date strategy during the remainder of Covid, beginning with 2020's Wonder Woman 1984 and ending with 2021's The Matrix Resurrections. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Goldstein joined Warners in 1978 as a sales trainee in the Los Angeles office before relocating to the company's regional offices in Florida, Ohio and Massachusetts (anecdotally, I've enjoyed hearing his stories about his dealings with my hometown movie cinema in Brattleboro, VT, the Latchis Theatre). Goldstein became branch manager of the Boston office in 1980 and returned to LA in 1987 as a Western division sales manager. A year later, he was promoted to VP and Western division manager.
+
+In 1996, he was raised to SVP domestic distribution. In 1998, he became SVP and assistant general sales manager. In April 1999, he became SVP and general sales manager, before becoming EVP and general sales manager under Domestic Distribution President Fellman.
+
+After Fellman retired as President after a 37 year run at Warners in December 2015, Goldstein was promoted to President of Domestic Distribution in 2016.
+
+On the Paramount side under the new Skydance, Josh Goldstine will continue to lead worldwide marketing and distribution. Goldstine previously was the marketing czar at Warner Bros working alongside Goldstein from January 2021-2025. Shaun Barber is the Head of Domestic Theatrical Distribution while Mark Viane is the President of International Distribution.
+
+============================================================
+[2] Music Industry Moves: Felipe Holguin Named CEO of Universal Music Latin America and Iberian Peninsula
 Source: Variety | Status: expanded | Words: 1024
 Published: 2026-11-17T17:14:14+00:00
 URL: https://variety.com/2026/music/news/felipe-holguin-named-ceo-universal-music-latin-america-1236950449
@@ -45,7 +75,27 @@ He joined BMI in 2020 after more than 30 years' experience as a songwriter, prod
 Big Loud Co-Founder and President of Big Loud Rock Joey Moi added, "I heard &#x2018;Killing Me Slow' one time and could sing the chorus five days later. That's the test for me. JT's structure is always right; he's intentional about every riff, and he's already doing so much of the heavy lifting himself. It was an easy yes."
 
 ============================================================
-[2] Skydance Film Re-Org: Kira Goldberg Joins Paramount, Jesse Ehrman Upped to Run Warner Bros.
+[3] I’m Worried For Dancing With The Stars' Maura Higgins After Latest Rumor Ahead Of Semifinals
+Source: CinemaBlend | Status: expanded | Words: 312
+Published: 2026-11-17T17:12:09+00:00
+URL: https://www.cinemablend.com/television/worried-about-dancing-with-the-stars-maura-higgins-after-rumor-before-semifinals
+------------------------------------------------------------
+SUMMARY:
+Will she end up making the finals?
+
+CONTENT / EXTRACTED DETAILS:
+Maura Higgins became a quick fan favorite on Dancing with the Stars , but I'm worried she could miss the Season 35 finals. With the semifinals and one vote before the finale, I'm afraid her run on the 2026 TV schedule may be at an end. Now, it seems I may have more reason to be concerned about what lies ahead.
+
+On the heels of a tough Grammy night featuring the "Thong Song," it was clear Higgins' rib injury was more than a storyline for DWTS to play up. Now, per a new rumor from The Sun , Higgins allegedly had to cancel a rehearsal and seek medical attention while preparing for Dancing with the Stars ' semifinals. Her rib was reportedly re-injured over the weekend, leaving some questions about how she'll be able to perform during the live episode.
+
+As viewers learned in last week's episode, Higgins didn't break her rib, but the swelling and damage caused so much pain that she briefly considered throwing in the towel. It'd be a shame to see, given just how far she's come since the beginning , but obviously, her health takes priority.
+
+As of late, I've written about how Tatyana Ali and Jan Ravnik's advancement could set up a fan favorite going home instead of them on Semifinals night. Maura Higgins and Mark Ballas were on my shortlist of people who could go home , and honestly, I think it's all going to come down to who gives the best performance.
+
+One can never rule out the impact of fans, however, and I do wonder how this rumor could impact their thoughts on whether she should advance. Part of me thinks she could gain sympathy, assuming she wants to keep going, and get the pass to have another week to recover, give it her all, and try to win DWTS on finale night.
+
+============================================================
+[4] Skydance Film Re-Org: Kira Goldberg Joins Paramount, Jesse Ehrman Upped to Run Warner Bros.
 Source: The Hollywood Reporter | Status: expanded | Words: 1251
 Published: 2026-11-17T17:11:36+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/kira-goldberg-joins-paramount-jesse-ehrman-upped-at-warner-1236757226
@@ -99,7 +149,7 @@ Our shared responsibility is to give our filmmakers, storytellers and teams the 
 We know how much work is underway across the company, and we're grateful for the care, focus and dedication you bring to it every day. We look forward to all that we will build and accomplish together.
 
 ============================================================
-[3] Nightwing Is a DC Icon but He’s Overrated for These 5 Reasons
+[5] Nightwing Is a DC Icon but He’s Overrated for These 5 Reasons
 Source: ComicBook.com | Status: expanded | Words: 1090
 Published: 2026-11-17T17:11:00+00:00
 URL: https://comicbook.com/comics/list/nightwing-is-a-dc-icon-but-hes-overrated-for-these-5-reasons
@@ -137,7 +187,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Another Day, Another Outage: As CNN Reports On NSA Network Down, News Outlets Seize On Back-To-Back Incidents Of Cyber Chaos
+[6] Another Day, Another Outage: As CNN Reports On NSA Network Down, News Outlets Seize On Back-To-Back Incidents Of Cyber Chaos
 Source: Deadline | Status: expanded | Words: 709
 Published: 2026-11-17T17:10:48+00:00
 URL: https://deadline.com/2026/11/cnn-nsa-outage-cyber-attack-worries-1237226613
@@ -169,7 +219,7 @@ He added, &#8220;AI is adding a complexity here because we're using AI to find v
 Meanwhile, at 2:20 p.m. ET on Tuesday, TV viewers will be treated to a test of the emergency alert system, conducted across broadcasters, cable systems, satellite radio and wireline video providers, per the FCC. The timing may be disconcerting right on the heels of the outages, but it's required by law at least once every three years. Viewers also will be fully warned: It's a test, and it's only a test.
 
 ============================================================
-[5] GTA 6 Just Got Nominated for Game of the Year, But There Still Aren't Any Reviews
+[7] GTA 6 Just Got Nominated for Game of the Year, But There Still Aren't Any Reviews
 Source: ComicBook.com | Status: expanded | Words: 413
 Published: 2026-11-17T17:10:09+00:00
 URL: https://comicbook.com/gaming/news/gta-6-just-got-nominated-for-game-of-the-year-but-there-still-arent-any-reviews
@@ -191,7 +241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] The Game Awards Nominations 2026: 'GTA 6' Lands Game of the Year Nom Ahead of Thursday Release
+[8] The Game Awards Nominations 2026: 'GTA 6' Lands Game of the Year Nom Ahead of Thursday Release
 Source: Variety | Status: expanded | Words: 1255
 Published: 2026-11-17T17:10:02+00:00
 URL: https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480
@@ -437,7 +487,7 @@ TTK Testing (Sable Digital for Roblox)
 Variety is a member of The Game Awards voting jury.
 
 ============================================================
-[7] British Lawmakers To Probe Use Of NDAs In Entertainment Industry
+[9] British Lawmakers To Probe Use Of NDAs In Entertainment Industry
 Source: Deadline | Status: expanded | Words: 545
 Published: 2026-11-17T17:07:01+00:00
 URL: https://deadline.com/2026/11/ndas-entertainment-investigated-culture-committee-brand-1237226649
@@ -471,7 +521,7 @@ Nandy has repeatedly backed CIISA and chided some entertainment industry compani
 Earlier, Dogra said indies who work with Channel 4 will now have to be mandatorily registered with CIISA.
 
 ============================================================
-[8] Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership
+[10] Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership
 Source: Variety | Status: expanded | Words: 124
 Published: 2026-11-17T17:04:45+00:00
 URL: https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394
@@ -487,7 +537,7 @@ Kira Goldberg and Don Granger will serve as president of Paramount's Motion Pict
 Shaun Barber and Mark Viane will oversee domestic and international distribution, respectively for both Paramount and Warner Bros. With their promotions, Jeff Goldstein, a 48-year veteran of Warner Bros. Pictures who was most recently the head of global distribution, will retire. He's expected to transition to a consulting role. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[9] Ted: The Animated Series Trailer Expands Seth MacFarlane's Universe on Peacock - Watch Now
+[11] Ted: The Animated Series Trailer Expands Seth MacFarlane's Universe on Peacock - Watch Now
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-17T17:03:51+00:00
 URL: https://comicbook.com/tv-shows/news/ted-the-animated-series-trailer-expands-seth-macfarlanes-universe-on-peacock-watch-now
@@ -513,7 +563,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Report Reveals How &#038; When Climate Issues Appear In Film &#038; TV Scripts
+[12] Report Reveals How &#038; When Climate Issues Appear In Film &#038; TV Scripts
 Source: Deadline | Status: expanded | Words: 430
 Published: 2026-11-17T17:03:15+00:00
 URL: https://deadline.com/2026/11/report-reveals-when-climate-issues-in-film-tv-scripts-1237226626
@@ -541,7 +591,7 @@ Films, meanwhile, were more likely than TV episodes to include climate terms.
 Measuring the occurrence of climate language by platform saw Apple TV top of the pile, ahead of Prime Video and then Netflix. Among the U.S. broadcast nets, Fox ranked first, ahead of ABC.
 
 ============================================================
-[11] Climate Change Visibility Rises in Mainstream TV and Film, USC Norman Lear Center Study Shows
+[13] Climate Change Visibility Rises in Mainstream TV and Film, USC Norman Lear Center Study Shows
 Source: Variety | Status: expanded | Words: 708
 Published: 2026-11-17T17:02:00+00:00
 URL: https://variety.com/2026/film/news/climate-change-tv-film-increase-usc-study-1236947436
@@ -577,7 +627,7 @@ Climate-Related Language Across Genres: Medical &#x2014; 17.4% Romance &#x2014; 
 Threatening Emotional Tone Moving Toward Agency: Across 100 storylines where climate was prominent, 63% began with threat as the dominant tone. By the end of the storyline, mood shifts toward agency appeared in 44% of stories, wonder in 26% and threat shrank to 25%.
 
 ============================================================
-[12] Zelda: Ocarina of Time Just Broke a Major Record Last Held by Tears of the Kingdom
+[14] Zelda: Ocarina of Time Just Broke a Major Record Last Held by Tears of the Kingdom
 Source: ComicBook.com | Status: expanded | Words: 416
 Published: 2026-11-17T17:01:09+00:00
 URL: https://comicbook.com/gaming/news/zelda-ocarina-of-time-just-broke-a-major-record-last-held-by-tears-of-the-kingdom
@@ -601,7 +651,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] 'Madden' Review: Nicolas Cage Plays John Madden as the Disheveled Buddha of Football in David O. Russell's Eccentric Stunt of a Sports Biopic
+[15] 'Madden' Review: Nicolas Cage Plays John Madden as the Disheveled Buddha of Football in David O. Russell's Eccentric Stunt of a Sports Biopic
 Source: Variety | Status: expanded | Words: 1399
 Published: 2026-11-17T17:00:09+00:00
 URL: https://variety.com/2026/film/reviews/madden-review-nicolas-cage-david-o-russell-1236948801
@@ -633,7 +683,7 @@ The wild card of &#8220;Madden&#8221; &#x2014; because you wouldn't even expect 
 The Madden we see is a couch potato too. He's the apotheosis of the football coach: that furious roly-poly American archetype (Lombardi, Shula, Schembechler) who's a former so-so athlete and now operates strictly from the neck up. Madden becomes a celebrity, a pitchman for everything from Miller Lite to Tinactin, and he puts the turducken on the map &#x2014;&#xA0;that pileup of poultry that's a turkey, a duck, and a chicken in one. &#8220;Madden&#8221; is a turducken of a movie, a football saga stuffed inside a domestic geek romance wrapped in a Wikipedia biopic on Scorsese stimulants. What's catchy about it is that it stays true to John Madden &#x2014; to how uncool he was, and how it was that very quality that made him the slovenly Buddha of football.
 
 ============================================================
-[14] Gotham Film Awards To Honor 'Being Heumann' With Ensemble Tribute
+[16] Gotham Film Awards To Honor 'Being Heumann' With Ensemble Tribute
 Source: Deadline | Status: expanded | Words: 425
 Published: 2026-11-17T17:00:00+00:00
 URL: https://deadline.com/2026/11/being-heumann-gotham-film-awards-ensemble-tribute-1237226533
@@ -657,7 +707,7 @@ Being Heumann opened this year's Toronto Film Festival before hitting theaters N
 The pic joins Ellen Burstyn (Performer Tribute), Elsinore (Legacy Tribute), Michael (Musical Tribute), La Bola Negra (Vanguard Tribute), Ink helmer Danny Boyle (Director Tribute) and Wildwood studio Laika (Anniversary Tribute) on the honorees list for the Gotham Film Awards ceremony, set for November 30 at Cipriani Wall Street in New York City. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[15] Billy Evans Fires Back at Amanda Seyfried and Nathan Fielder: “It’s My Life and I Love It”
+[17] Billy Evans Fires Back at Amanda Seyfried and Nathan Fielder: “It’s My Life and I Love It”
 Source: The Hollywood Reporter | Status: expanded | Words: 5986
 Published: 2026-11-17T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/billy-evans-amanda-seyfried-nathan-fielder-see-everything-1236756656
@@ -925,7 +975,7 @@ It is so weird. It's hard to describe to you, and I think I'm still trying to wo
 And it's kind of exacerbated by the fact that I can't talk to my best friend about it because she hasn't seen it. That's the weirdest part in this to me. I've described things to her, but she hasn't seen any of it.
 
 ============================================================
-[16] 'Madden' Review: Nicolas Cage and Christian Bale Go for Broke in a Cartoonish Biopic From David O. Russell That's Strictly for Football Fanatics
+[18] 'Madden' Review: Nicolas Cage and Christian Bale Go for Broke in a Cartoonish Biopic From David O. Russell That's Strictly for Football Fanatics
 Source: The Hollywood Reporter | Status: expanded | Words: 1175
 Published: 2026-11-17T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/madden-review-nicolas-cage-christian-bale-david-o-russell-1236756928
@@ -961,7 +1011,7 @@ The heart of the film, ostensibly, is the friendship between John and Al, but it
 Madden is an improvement on his last feature, the laborious 2022 screwball comedy Amsterdam . But like that movie it's busy and abrasive, without being entertaining beyond the curiosity of Nicolas Cage bouncing around in a mound of prosthetics.
 
 ============================================================
-[17] New Report Finds Climate Change Storytelling Is Up
+[19] New Report Finds Climate Change Storytelling Is Up
 Source: The Hollywood Reporter | Status: expanded | Words: 601
 Published: 2026-11-17T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/new-report-climate-change-storytelling-up-1236750603
@@ -985,7 +1035,7 @@ Added USC Norman Lear Center director of research Erica Rosenthal, &#8220;We wer
 &#8220;This is the first study to look at both how often climate comes up in Hollywood's scripts and how it's actually portrayed on screen. While modest in volume, climate visibility is growing in depth and range,&#8221; said Good Energy head of narrative research and strategy Bruno Olmedo-Quiroga. &#8220;Across more than 35,000 scripts, the climate conversation came up in about one in seven, on every major network and streamer, in comedies, romances and even horror. Writers are already bringing climate into every kind of story. And we now know what they portray, the characters at their center, and how their emotional journeys unfold.&#8221;
 
 ============================================================
-[18] Amelia Dimoldenberg on Ending 'Chicken Shop Date,' the Biggest Celeb Flirts and What's Next: 'I'm Taking Time to Write'
+[20] Amelia Dimoldenberg on Ending 'Chicken Shop Date,' the Biggest Celeb Flirts and What's Next: 'I'm Taking Time to Write'
 Source: Variety | Status: expanded | Words: 616
 Published: 2026-11-17T16:54:03+00:00
 URL: https://variety.com/2026/digital/global/amelia-dimoldenberg-chicken-shop-date-end-biggest-celeb-flirts-1236950107
@@ -1021,7 +1071,7 @@ As for what's next, Dimoldenberg &#x2014; who has a feature film and drama serie
 &#8220;I'm taking time to write, and I feel like co-producing something is always going to be the thing that I want to do, again to make sure that I can have as much control as possible,&#8221; she said. &#8220;There are so many different things that can happen in the future, and I'm excited.&#8221;
 
 ============================================================
-[19] ‘Ted: The Animated Series’ Trailer: Seth MacFarlane, Amanda Seyfried &#038; Mark Wahlberg Reunite As The Foul-Mouthed Bear Tackles Marriage &#038; Fatherhood
+[21] ‘Ted: The Animated Series’ Trailer: Seth MacFarlane, Amanda Seyfried &#038; Mark Wahlberg Reunite As The Foul-Mouthed Bear Tackles Marriage &#038; Fatherhood
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-17T16:53:56+00:00
 URL: https://theplaylist.net/ted-the-animated-series-trailer-seth-macfarlane-mark-wahlberg-peacock-20261117
@@ -1033,7 +1083,7 @@ CONTENT / EXTRACTED DETAILS:
 Seth MacFarlane ’s foul-mouthed teddy bear is back, and this time, he and his best friend have to contend with the indignities of middle age. Peacock has released the official red-band trailer for “ Ted: The Animated Series ,” a sequel to MacFarlane’s hit films that reunites Mark Wahlberg , Amanda Seyfried , and Jessica Barth with the franchise’s creator. And while Ted and John may have grown older, the prospect of marriage, children, and actual adult responsibilities doesn’t appear to have made them any more mature. Continue reading ‘Ted: The Animated Series’ Trailer: Seth MacFarlane, Amanda Seyfried & Mark Wahlberg Reunite As The Foul-Mouthed Bear Tackles Marriage & Fatherhood at The Playlist.
 
 ============================================================
-[20] Kira Goldberg Leaving Netflix As VP Film To Join Paramount As President Of Motion Picture Group
+[22] Kira Goldberg Leaving Netflix As VP Film To Join Paramount As President Of Motion Picture Group
 Source: Deadline | Status: expanded | Words: 244
 Published: 2026-11-17T16:50:32+00:00
 URL: https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627
@@ -1053,7 +1103,7 @@ Goldberg's departure also comes four months after she was promoted , adding live
 The former 20th Century Fox exec, who joined Netflix in 2018, already oversaw thrillers, dramas and faith based films. In addition to hit Netflix thriller Apex, she also shepherded popular family dramas like Remarkably Bright Creatures and The Life List .
 
 ============================================================
-[21] 'Survivor 51' Star Kristin Flickinger on Her Chaotic Exit, Being an Unexpected Threat and Overwhelming Fan Response
+[23] 'Survivor 51' Star Kristin Flickinger on Her Chaotic Exit, Being an Unexpected Threat and Overwhelming Fan Response
 Source: The Hollywood Reporter | Status: expanded | Words: 2299
 Published: 2026-11-17T16:49:15+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/survivor-51-kristin-flickinger-exit-interview-1236754098
@@ -1113,7 +1163,7 @@ Okay, for the Summit. This is a funny, this is a silly one, but when I got selec
 Survivor airs new episodes Wednesday at 8 p.m. on CBS , streaming on Paramount+.
 
 ============================================================
-[22] New PS5 Console Update Released Just Before GTA 6 Launch
+[24] New PS5 Console Update Released Just Before GTA 6 Launch
 Source: ComicBook.com | Status: expanded | Words: 378
 Published: 2026-11-17T16:49:00+00:00
 URL: https://comicbook.com/gaming/news/ps5-playstation-5-console-system-update-november-17
@@ -1135,7 +1185,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Raúl Esparza Missing Two Days Of Broadway's 'Galileo' After Suffering Concussion During Rehearsal; Michael Park Stepping In
+[25] Raúl Esparza Missing Two Days Of Broadway's 'Galileo' After Suffering Concussion During Rehearsal; Michael Park Stepping In
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-17T16:48:34+00:00
 URL: https://deadline.com/2026/11/raul-esparza-michael-park-broadway-galileo-1237226617
@@ -1165,7 +1215,7 @@ In addition to Esparza and Park, the musical features Jeremy Kushnier, Joy Woods
 Galileo features a book by Danny Strong and an original score by Zoe Sarnak and Michael Weiner, and is directed by Michael Mayer and choreographed by David Neumann. Producers are Amanda Lipitz, Henry Tisch and Jordan Roth.
 
 ============================================================
-[24] Disney Breaks Down $3 Billion In Planned Cost Savings
+[26] Disney Breaks Down $3 Billion In Planned Cost Savings
 Source: Deadline | Status: expanded | Words: 537
 Published: 2026-11-17T16:45:27+00:00
 URL: https://deadline.com/2026/11/disney-breaks-down-3-billion-in-cost-savings-1237225761
@@ -1189,7 +1239,7 @@ There have been ongoing layoffs at Disney throughout the year following Josh D'A
 According to sources, the new round of layoffs will be made across multiple divisions, including TV networks and the motion picture studio. As is customary in the run-up to staff reductions, managers of the affected teams have been given targets, with some asked to achieve as much as 20% in annual cost savings, Deadline has heard.
 
 ============================================================
-[25] 'Bond 26': Florence Pugh Teases Calling Denis Villeneuve About Playing Bond Villain Opposite 'Dune: Part Three' Co-Star Robert Pattinson
+[27] 'Bond 26': Florence Pugh Teases Calling Denis Villeneuve About Playing Bond Villain Opposite 'Dune: Part Three' Co-Star Robert Pattinson
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-17T16:42:42+00:00
 URL: https://theplaylist.net/bond-26-florence-pugh-bond-villain-20261117
@@ -1201,7 +1251,7 @@ CONTENT / EXTRACTED DETAILS:
 Well, it looks like another actor is tossing their hat in the ring to play the villain of Denis Villeneuve 's " Bond 26 ," and it is one of his own actors this time, with Florence Pugh making a humorous pitch on stage while attending ELLE's Women In Hollywood event last night at the Beverly Wilshire in Los Angeles, California. Going on to mention she had been in contact with the French-Canadian director, congratulating him on casting Robert Pattinson as his new James Bond. Continue reading 'Bond 26': Florence Pugh Teases Calling Denis Villeneuve About Playing Bond Villain Opposite 'Dune: Part Three' Co-Star Robert Pattinson at The Playlist.
 
 ============================================================
-[26] Nvidia Stock Rises After Jensen Huang Says He’d Be ‘Honored’ to Return as CEO in Wake of Sex Scandal
+[28] Nvidia Stock Rises After Jensen Huang Says He’d Be ‘Honored’ to Return as CEO in Wake of Sex Scandal
 Source: Variety | Status: expanded | Words: 204
 Published: 2026-11-17T16:34:00+00:00
 URL: https://variety.com/2026/biz/news/nvidia-stock-up-jensen-huang-public-statement-1236950343
@@ -1217,7 +1267,7 @@ Nvidia &#8216;s stock price shot up from a lull after Jensen Huang said on Tuesd
 The statement was first issued to the Wall Street Journal, which posted its story around 10:55 a.m. ET. Nvidia's stock price at the time hovered at $150.09, though it shot up to $155.36 by 11:21 a.m. ET. Nvidia reports its third-quarter earnings for its 2027 fiscal year Tuesday afternoon.
 
 ============================================================
-[27] Jon Stewart’s Unexpected Batman Comment After Pattinson Landed Bond Had Me Laughing Out Loud
+[29] Jon Stewart’s Unexpected Batman Comment After Pattinson Landed Bond Had Me Laughing Out Loud
 Source: CinemaBlend | Status: expanded | Words: 341
 Published: 2026-11-17T16:32:38+00:00
 URL: https://www.cinemablend.com/movies/jon-stewart-unexpected-batman-comment-pattinson-landed-bond-laughing-out-loud
@@ -1239,7 +1289,7 @@ Of course, Stewart was having fun with the news, and I don't think anybody serio
 Robert Pattinson's first James Bond movie doesn't have a release date yet, although production is expected to begin sometime in 2027. Meanwhile, The Batman: Part II is currently scheduled for February 2028.
 
 ============================================================
-[28] 'Ted' Animated Series Drops Foul-Mouthed, Pot-Filled First Trailer
+[30] 'Ted' Animated Series Drops Foul-Mouthed, Pot-Filled First Trailer
 Source: Variety | Status: expanded | Words: 295
 Published: 2026-11-17T16:30:00+00:00
 URL: https://variety.com/2026/tv/news/ted-animated-series-trailer-peacock-1236950271
@@ -1261,7 +1311,7 @@ The logline for the show states, "Picking up twelve years after the conclusion o
 "Ted: The Animated Series" is created by MacFarlane, Paul Corrigan and Brad Walsh. Corrigan and Walsh were also executive producers and showrunners on the prequel series and serve in the same roles on the animated series. Rough Draft Studios provides the animation. MacFarlane executive produces via Fuzzy Door along with Erica Huggins, Alana Kleiman, Jason Clark, Aimee Carlson and Claudia Katz. The series is produced by Universal Global Television and MRC.
 
 ============================================================
-[29] 'NCIS: Origins' Sets Gibbs Up For Meeting Across Time In New Teaser As Lala Mystery Intensifies
+[31] 'NCIS: Origins' Sets Gibbs Up For Meeting Across Time In New Teaser As Lala Mystery Intensifies
 Source: Deadline | Status: expanded | Words: 485
 Published: 2026-11-17T16:30:00+00:00
 URL: https://deadline.com/2026/11/ncis-origins-gibbs-teaser-s3-episode-6-1237225533
@@ -1289,7 +1339,7 @@ North teases what else viewers will see in &#8220;Shot Through The Heart.&#8221;
 &#8220;Let's just say fans of Top Gun won't be disappointed. Plus, Austin's Gibbs and Lala aren't the only blasts from the past visiting Mark. Also, Franks and Lala make a decision that will later change everyone's lives forever. Oh, and Randy [Caleb Foote] meets his brunette doppelganger, which is a lot of fun. NCIS&#xA0; fans, old and new, won't want to miss this one,&#8221; he said.
 
 ============================================================
-[30] David Ayer to Become a Partner at Ryan Kavanaugh’s New Location-Defying AI Company (Exclusive)
+[32] David Ayer to Become a Partner at Ryan Kavanaugh’s New Location-Defying AI Company (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 811
 Published: 2026-11-17T16:30:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/david-ayer-acme-ai-grey-box-locations-1236756850
@@ -1301,7 +1351,7 @@ CONTENT / EXTRACTED DETAILS:
 He may have headed into the rugged with Heart of the Beast , but David Ayer says he may now have a new and more technological solution to shooting in the wilderness: AI . The director is joining ACME AI as a principal and managing partner, and will be involved in the operations of the firm. Founded by former Relativity Media co-founder Ryan Kavanaugh , ACME and its "Grey Box" tech allows directors and actors to shoot full-fledged scenes in far-flung locales without going anywhere. &#8220;When I got in there and saw what the tech can do I felt like a cowboy coming in off the range and seeing the first automobile," Ayer tells The Hollywood Reporter . "I thought &#8216;I better learn how to drive this car or I'm going to be out a of a job.'&#8221; The Model T in question is known as performance transfer, and essentially it keeps above-the-line work intact while radically reducing the need for, and expense of, much of the below-the-line kind. ACME is part of a new wave of filmmaker-centric companies &#x2014; they also include Jon Erwin's Innovative Dreams and Matt Stone and Trey Parker's Deep Voodoo &#x2014; that allow for actors to perform dynamically in front of real-looking backdrops without ever leaving a soundstage. Romantic shots in the foreground of the Eiffel Tower? Check. Chase scenes through the streets of Tokyo? Why not? Essentially performance transfer functions as a digital green screen, but for everything. Proponents say the technique preserves all the physical aspects of a performance (and actors' jobs) at far lower cost to a studio or the climate; think of it as Zoom work for thespians. Critics, however, say it risks losing the magic and serendipity of physical locations and hurts the livelihoods of on-set workers besides. (Department heads such as production designers and lighting artists would in many cases still be used, but in a more supervisory/advisory way than on a physical set.) Ayer says the chance to bring productions in at a much lower budget and nab greenlights that would otherwise prove out of reach makes it worth the tradeoff. &#8220;As a storyteller half my job is litigating over budget," he says. "This pulls so many stories within striking distance." ACME believes that, without the need to pack up and travel to a particular piece of geography and then set up shoots there, its tech can lead to a reduction in time and money at a rate of between 50 and 75 percent. To create the tech, ACME mapped many lenses and lighting packages to allow for a greater photorealism, and combined it with models that allow for the re-creation of the physical world. ACME's Grey Box currently exists in Los Angeles on a dedicated stage, but the system could theoretically be replicated in other locations. (The company will rent the tech out to studios the way many soundstages currently do.) Doug Liman recently completed shooting the origins-of-crypto drama Bitcoin starring Casey Affleck using ACME's Grey Box. The movie explores the mysterious origins of the title currency's pseudonymous founder Satoshi Nakamoto without, for the most part, leaving the stage despite the Australian and other global settings. The idea of making big-budget-looking movies possible at mid-budget prices could, if successful, prompt a host of downstream questions. Will audiences stop valuing (and paying for) high-octane spectacle in the same way given how much easier it will be to produce? Will a whole system of crews and physical locations be displaced? Will studio executives eventually put pressure even on mid-budget projects to lower their costs given the expectation of cheaper methods? And who, besides Christopher Nolan and Tom Cruise, will actually be allowed to shoot in intensive physical locations for months at a time? A former Navy enlistee, Ayer has had an eventful Hollywood trajectory. After an early career writing or directing acclaimed law-and-order-themed dramas ( Training Day , End of Watch) he entered the DCEU with 2016's controversial Suicide Squad (on which he famously had a very different cut ). He has entered a new act with a spate of successes in the past few years, including the Jason Statham action film The Beekeeper and this fall's dog survival thriller Beast s tarring Brad Pitt. It garnered strong reviews and became a solid worldwide hit . Ayer says he has at multiple projects in development that can be redirected to the Grey Box. He believes many entities in the creative ecosystem will benefit from such a re-channeling, including actors and directors. &#8220;The staging starts to feel more like a Broadway play, where you know exactly what you're going to get," he says. "If I'm not worried about getting kicked off a location or a lightning storm shutting me down, it takes away a lot of the friction of filmmaking and just lets me focus on the fine craft of directing."
 
 ============================================================
-[31] The Reactions To Brad Pitt’s New Cliff Booth Movie Are Wild, And I Didn’t Expect One Reference
+[33] The Reactions To Brad Pitt’s New Cliff Booth Movie Are Wild, And I Didn’t Expect One Reference
 Source: CinemaBlend | Status: expanded | Words: 403
 Published: 2026-11-17T16:20:03+00:00
 URL: https://www.cinemablend.com/movies/reactions-brad-pitts-new-cliff-booth-movie-are-wild-didnt-expect-one-reference-david-fincher-quentin-tarantino
@@ -1325,7 +1375,7 @@ Pretty much every reaction that I’ve read this morning is glowing, even when c
 He also called it a “love letter” to Hollywood, which was the descriptor that many would hang on the first movie starring Pitt as the stuntman Cliff Booth alongside Leonardo DiCaprio . DiCaprio doesn’t appear in this one, nor do the other stars of the Tarantino classic, like Margot Robbie. This is Brad Pitt and Elizabeth Debicki, according to the reviews, and that is A-OK with me.
 
 ============================================================
-[32] Home Alone Sequel Video Brings Back Macaulay Culkin After 34 Years
+[34] Home Alone Sequel Video Brings Back Macaulay Culkin After 34 Years
 Source: ComicBook.com | Status: expanded | Words: 355
 Published: 2026-11-17T16:17:07+00:00
 URL: https://comicbook.com/movies/news/home-alone-sequel-video-brings-back-macaulay-culkin-after-34-years
@@ -1345,7 +1395,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Palworld Puts a Brief Pause on New Updates, But the Reason Makes Perfect Sense
+[35] Palworld Puts a Brief Pause on New Updates, But the Reason Makes Perfect Sense
 Source: ComicBook.com | Status: expanded | Words: 519
 Published: 2026-11-17T16:16:47+00:00
 URL: https://comicbook.com/gaming/news/palworld-puts-a-brief-pause-on-new-updates-but-the-reason-makes-perfect-sense
@@ -1371,7 +1421,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Jeremy Conway, Agent for Anthony Hopkins and Brian Cox, Dies at 87
+[36] Jeremy Conway, Agent for Anthony Hopkins and Brian Cox, Dies at 87
 Source: The Hollywood Reporter | Status: expanded | Words: 538
 Published: 2026-11-17T16:15:38+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/jeremy-conway-dead-anthony-hopkins-brian-cox-agent-1236757164
@@ -1403,7 +1453,7 @@ In a statement, CvGG said that Conway "set a golden standard for agenting. Havin
 According to the Times , survivors include his partner, Neville, nephews Christopher and Stephen and niece Joanna.
 
 ============================================================
-[35] Georgia Lee Boards ‘Zhong Kui: Demon Slayer’ As Showrunner; Janet Yang &#038; Simon Yam To Also Executive Produce
+[37] Georgia Lee Boards ‘Zhong Kui: Demon Slayer’ As Showrunner; Janet Yang &#038; Simon Yam To Also Executive Produce
 Source: Deadline | Status: expanded | Words: 917
 Published: 2026-11-17T16:15:00+00:00
 URL: https://deadline.com/2026/11/georgia-lee-zhong-kui-demon-slayer-janet-yang-simon-yam-1237224818
@@ -1443,7 +1493,7 @@ Yam, one of Hong Kong's most iconic actors, said: "Chinese culture has thousands
 Zhong Kui: Demon Slayer i s currently in development. Zimo Huang is represented by Brian Goldberg of Ascent. Georgia Lee is represented by Lee Rosenbaum of RLG LLP, and Abby Glusker and Mickey Berman of UTA. Matlock Stone is represented by Chace McGuire of Myman Greenspan.
 
 ============================================================
-[36] Black Clover Season 2 Gives Noelle the Reunion She's Been Waiting 9 Years For
+[38] Black Clover Season 2 Gives Noelle the Reunion She's Been Waiting 9 Years For
 Source: ComicBook.com | Status: expanded | Words: 484
 Published: 2026-11-17T16:12:56+00:00
 URL: https://comicbook.com/anime/feature/black-clover-season-2-gives-noelle-the-reunion-shes-been-waiting-9-years-for
@@ -1467,7 +1517,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Andrew Renzi's North of Now Signs First-Look Deal With Skydance Sports Entertainment (Exclusive)
+[39] Andrew Renzi's North of Now Signs First-Look Deal With Skydance Sports Entertainment (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 407
 Published: 2026-11-17T16:12:37+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/andrew-renzi-first-look-deal-skydance-sports-north-of-now-1236757093
@@ -1495,7 +1545,7 @@ Skydance Sports Entertainment has had a prolific year that included Rafa for Net
 North of Now is represented by WME.
 
 ============================================================
-[38] ‘Only Murders In The Building’ Season 6 Trailer: Olivia Colman, David Tennant &#038; More Join The London Mystery On December 8
+[40] ‘Only Murders In The Building’ Season 6 Trailer: Olivia Colman, David Tennant &#038; More Join The London Mystery On December 8
 Source: The Playlist | Status: summary_only | Words: 134
 Published: 2026-11-17T16:12:21+00:00
 URL: https://theplaylist.net/only-murders-building-season-6-trailer-olivia-colman-david-tennant-20261117
@@ -1507,7 +1557,7 @@ CONTENT / EXTRACTED DETAILS:
 For five seasons, Steve Martin , Martin Short , and Selena Gomez have repeatedly discovered that the Arconia may be the most murder-prone apartment building in Manhattan. But the sixth season of “Only Murders In The Building” finally takes Charles, Oliver, and Mabel outside New York City—and surrounds them with a formidable new collection of suspects. READ MORE: 62 TV Shows To Watch Fall 2026: ‘VisionQuest,’ ‘Blade Runner 2099,’ ‘East Of Eden,’ ‘Pride And Prejudice,’ & More The new trailer previews their trip to London, where they encounter an exceptionally stacked guest cast led by Olivia Colman , David Tennant , Nicola Coughlan , and Martin Freeman . Continue reading ‘Only Murders In The Building’ Season 6 Trailer: Olivia Colman, David Tennant & More Join The London Mystery On December 8 at The Playlist.
 
 ============================================================
-[39] 'Only Murders' Leaves the Building for London in Season 6 Trailer
+[41] 'Only Murders' Leaves the Building for London in Season 6 Trailer
 Source: The Hollywood Reporter | Status: expanded | Words: 443
 Published: 2026-11-17T16:11:44+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-trailer-1236757136
@@ -1529,7 +1579,7 @@ Fey will reprise her role as Cinda in the season. Meryl Streep, Da'Vine Joy Rand
 Martin and showrunner John Hoffman created Only Murders and executive produce season six with Short, Gomez, Dan Fogelman, Jess Rosenthal, Ben Smith, Jennifer Crittenden and Gabrielle Allan.
 
 ============================================================
-[40] Denis Villeneuve Says His James Bond Has To Be A Believable “Assassin” With “Anger Deep In The Eye,” Charisma &#038; Sensuality
+[42] Denis Villeneuve Says His James Bond Has To Be A Believable “Assassin” With “Anger Deep In The Eye,” Charisma &#038; Sensuality
 Source: The Playlist | Status: summary_only | Words: 94
 Published: 2026-11-17T16:05:47+00:00
 URL: https://theplaylist.net/denis-villeneuve-james-bond-assassin-robert-pattinson-20261117
@@ -1541,7 +1591,7 @@ CONTENT / EXTRACTED DETAILS:
 If you’re wondering what Denis Villeneuve was looking for in his next James Bond , and presumably why he ultimately chose Robert Pattinson for the coveted 007 role, look no further. In a new interview with GQ , the “ Dune ” filmmaker laid out exactly what he believes makes a great Bond, from the character’s capacity for violence to his charisma, sensuality, and dark sense of humor. Continue reading Denis Villeneuve Says His James Bond Has To Be A Believable “Assassin” With “Anger Deep In The Eye,” Charisma & Sensuality at The Playlist.
 
 ============================================================
-[41] Macaulay Culkin Returns as Kevin McCallister in McDonalds' 'Home Alone' Christmas Ad
+[43] Macaulay Culkin Returns as Kevin McCallister in McDonalds' 'Home Alone' Christmas Ad
 Source: Variety | Status: expanded | Words: 477
 Published: 2026-11-17T16:04:19+00:00
 URL: https://variety.com/2026/tv/news/macaulay-culkin-kevin-mcdonalds-home-alone-ak-1236950303
@@ -1565,7 +1615,7 @@ Even Hollywood's most beloved figures might make a return for commercial purpose
 The commercial may have been more challenging than the movie, suggested Ryan, who did ads for Burger King and deodorant in a different era. "I always felt like movies were easier, frankly, with less attention to detail, you know?" she told Variety during an interview in 2025 . "There is a lot that 30 seconds or 45 seconds or 60 seconds have to communicate. It's a different animal."
 
 ============================================================
-[42] ‘3 Body Problem' Season 2 Teaser Warns "They're Coming To Exterminate Us"; First Photos Unveiled
+[44] ‘3 Body Problem' Season 2 Teaser Warns "They're Coming To Exterminate Us"; First Photos Unveiled
 Source: Deadline | Status: expanded | Words: 568
 Published: 2026-11-17T16:02:47+00:00
 URL: https://deadline.com/2026/11/3-body-problem-season-2-trailer-photos-netflix-1237226524
@@ -1597,7 +1647,7 @@ Season 2 will premiere on Thursday, January 14 with all six episodes dropping at
 Check out the trailer above and several first-look photos below.
 
 ============================================================
-[43] Florence Pugh Wants James Bond Role Alongside Robert Pattinson, But Not as the Bond Girl
+[45] Florence Pugh Wants James Bond Role Alongside Robert Pattinson, But Not as the Bond Girl
 Source: ComicBook.com | Status: expanded | Words: 456
 Published: 2026-11-17T16:02:35+00:00
 URL: https://comicbook.com/movies/news/florence-pugh-wants-james-bond-role-alongside-robert-pattinson-but-not-as-the-bond-girl
@@ -1623,7 +1673,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] John Malkovich &#038; Rosalind Eleazar Set For West End Production Of New Play 'History'
+[46] John Malkovich &#038; Rosalind Eleazar Set For West End Production Of New Play 'History'
 Source: Deadline | Status: expanded | Words: 519
 Published: 2026-11-17T16:01:16+00:00
 URL: https://deadline.com/2026/11/john-malkovich-rosalind-eleazar-west-end-london-history-1237226542
@@ -1653,7 +1703,7 @@ Eleazar is best known for playing Louisa Guy in Slow Horses , now in production 
 &#8220;John brings the heft of greatness,&#8221; director Dunster said. &#8220;Rosalind is electrifying on stage and screen. I feel very lucky to be working with this team on Rebecca's play."
 
 ============================================================
-[45] 'Only Murders In The Building's Season 6 Trailer Reveals "The Girl With The Curls" &#038; British Brazzos
+[47] 'Only Murders In The Building's Season 6 Trailer Reveals "The Girl With The Curls" &#038; British Brazzos
 Source: Deadline | Status: expanded | Words: 555
 Published: 2026-11-17T16:00:00+00:00
 URL: https://deadline.com/2026/11/only-murders-in-the-buildings-season-6-trailer-1237225973
@@ -1677,7 +1727,7 @@ The trailer didn't have many character reveals; however, it is clear that Freema
 &#8220;I hate this guy. No one makes fun of our Charles except us,&#8221; she tells Oliver, who giggles.
 
 ============================================================
-[46] Sharon Horgan Honored By Canneseries 2027
+[48] Sharon Horgan Honored By Canneseries 2027
 Source: Deadline | Status: expanded | Words: 269
 Published: 2026-11-17T16:00:00+00:00
 URL: https://deadline.com/2026/11/canneseries-2027-industry-honour-sharon-horgan-1237226502
@@ -1701,7 +1751,7 @@ Canneseries Industry will take place from February 15 to 17 next year, holding i
 Canneseries is moving two months earlier next year and will therefore precede rival event Series Mania, a different scripted TV event that takes place in France.
 
 ============================================================
-[47] Mentalist Oz Pearlman Sets December Release For First Netflix Special 'Magic Of The Mind'
+[49] Mentalist Oz Pearlman Sets December Release For First Netflix Special 'Magic Of The Mind'
 Source: Deadline | Status: expanded | Words: 417
 Published: 2026-11-17T16:00:00+00:00
 URL: https://deadline.com/2026/11/oz-pearlman-netflix-special-premiere-date-1237225528
@@ -1725,7 +1775,7 @@ Pearlman has since made over 200 television appearances on national and internat
 Last year becoming a New York Times bestselling author with the release of Read Your Mind: Proven Habits for Success from the World's Greatest Mentalist , Pearlman is managed by Elisa Rosen and repped by CAA.
 
 ============================================================
-[48] Fanatics Studios Hires Jamal Henderson as Its First-Ever President of Film and TV (EXCLUSIVE)
+[50] Fanatics Studios Hires Jamal Henderson as Its First-Ever President of Film and TV (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 421
 Published: 2026-11-17T16:00:00+00:00
 URL: https://variety.com/2026/tv/news/fanatics-studios-jamal-henderson-president-film-tv-1236949403
@@ -1747,54 +1797,4 @@ Henderson is an Emmy Award-winning producer whose credits at SpringHill include 
 "There's never been a bigger opportunity in sports storytelling, and we intend to lead what comes next," said Ratner. "Jamal is one of the most respected and well-connected executives in sports and entertainment, with a proven ability to turn ambitious ideas into premium content. With Jamal leading film and television for us, we can create original franchises with global appeal while making the studio a powerful part of the broader Fanatics flywheel." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 "Fanatics Studios is in a powerful position to rethink what a modern entertainment studio can be, with access to some of the biggest names and stories in sports and culture," said Henderson. "Michael (Ratner) and Michael (Rubin) have built incredible momentum in a short amount of time, and I'm excited to build on what's already in motion. Now it's about translating that early success into original content and franchises that break through at a scale few studios can match."
-
-============================================================
-[49] Rosalía, Hilary Duff, and Slayyyter to Be Honored at Variety’s Hitmakers Event
-Source: Variety | Status: expanded | Words: 838
-Published: 2026-11-17T16:00:00+00:00
-URL: https://variety.com/2026/music/news/rosalia-hilary-duff-slayyyter-announced-variety-hitmakers-1236949945
-------------------------------------------------------------
-SUMMARY:
-Variety announced today that Rosalía, Hilary Duff, and Slayyyter will receive accolades at Variety’s 10th Annual Hitmakers Celebration in Los Angeles on December 5. Rosalía, who is nominated for nine awards at the 2027 Grammys, will receive the Hitmakers Masterpiece of the Decade honor for her groundbreaking album “LUX,” Hilary Duff will receive the Generational […]
-
-CONTENT / EXTRACTED DETAILS:
-Variety announced today that Rosal&#xED;a, Hilary Duff , and Slayyyter will receive accolades at Variety's 10th Annual Hitmakers Celebration in Los Angeles on December 5.
-
-Rosal&#xED;a, who is nominated for nine awards at the 2027 Grammys, will receive the Hitmakers Masterpiece of the Decade honor for her groundbreaking album "LUX," Hilary Duff will receive the Generational Icon Award, and Slayyyter will receive the Breakthrough Artist of the Year Award. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Emile Hirsch to Star in Texas-Set Thriller 'The Violet Crown' (EXCLUSIVE)
-
-Other honorees include RAYE (Hitmaker of the Year), Olivia Rodrigo (Songwriter of the Year), Katseye (Group of the Year), and Sienna Spiro (Visionary Voice), with many more to be announced in the coming weeks. TikTok is a Premier Partner of the event.
-
-A two-time Grammy and 13-time Latin Grammy Award-winning artist and producer, Rosal&#xED;a is currently riding the success of her "LUX" album, released in 2025, which earned five Billboard No. 1 chart placements, entered the Billboard 200 at No. 4 and is nominated for nine 2027 Grammy Awards. Numerous outlets all named it among the year's best albums, and it has since picked up seven Latin Grammy nominations, while "La Perla" is nominated for best Latin song at the MTV Video Music Awards. Her earlier work laid the groundwork for that momentum: in 2022, she wrote, performed, recorded, and produced "Motomami," which debuted at No. 1 on Spotify's Global Album Chart, earned the year's highest Metacritic score, and fueled the sold-out Motomami World Tour. Before that, her breakthrough sophomore album, "El Mal Querer," reimagined flamenco for a new era and won a Grammy and eight Latin Grammys, including album of the year, while also making her the first Spanish-language artist nominated for best new artist at the Grammys. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Hilary Duff made a triumphant return to music this year with "luck&#x2026; or something," her sixth studio album and first in a decade, via Atlantic Records. Co-written by Duff and produced by her husband, Grammy-winning songwriter and producer Matthew Koma, alongside Brian Phillips, the confessional pop record explores motherhood, marriage, and self-discovery in her 30s, led by singles "Mature," "Roommates," and "Weather for Tennis." The album debuted at No. 3 on the Billboard 200&#x2014;marking her highest chart debut since 2007 and her sixth career Top 5 entry&#x2014;while hitting No. 1 in Canada and Australia and earning "Best Albums of 2026" honors from Variety, Billboard, and Rolling Stone. A multiplatinum artist and 2026 TIME 100 honoree, Duff has also built a multifaceted career as an acclaimed actor (including an award-nominated role on "Younger"), producer, entrepreneur, philanthropist, and New York Times best-selling author. Following the surprise release of her re-recorded hits EP "(Mine)" and her new "Holiday Things" EP, Duff is currently in the middle of her sold-out global headline run, the lucky me tour&#x2014;recently named Outstanding Pop Tour of the Year by Billboard &#x2014; which has already expanded into 2027.
-
-While her early releases established a devoted cult following, Slayyyter's "WOR$T GIRL IN AMERICA" marked her boldest reinvention yet. Her third studio album is authentically her. The 4x Grammy nominee revisited her upbringing in St. Louis, and decided to make "iPod music" &#x2014; a free-for-all of feral punk, corroded pop, and raunchy rap &#x2014; conjuring the "Midwest-core tweaker bar rat" characters of her youth. Early singles "BEAT UP CHANEL$," "CANNIBALISM!,&#8221; and &#8220;CRANK &#8221; steadily built hype for the project ahead of its release, with fans fervently embracing the raw, swaggering SLAYYYTER that emerged from the ashes of her past selves. The album became her highest-charting album to date, debuting at No. 22 on the Billboard 200 and No. 1 on Top Dance Albums, while earning widespread critical acclaim from outlets including Rolling Stone, Billboard, Pitchfork, and many more. Its success also earned SLAYYYTER two 2026 MTV VMA nominations, including &#x2018;Best Dance' with "DANCE&#x2026;" This year, she brought that momentum to major festivals such as Coachella, Governors Ball, Lollapalooza, with audiences doubling in size each time. Slayyyter's fourth studio album, "wor$t man in america" is scheduled for release on December 4. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-"We're so excited to add these three stellar names to Hitmakers, whose music has soundtracked the past year in totally different ways," said Variety's Executive Editor, Music Jem Aswad. "Rosal&#xED;a has set a new bar for artistry, ambition and vision with her incredible "LUX" album, video and tour. Hilary Duff chose the perfect time to return to music, invigorating fans old and new with "luck&#x2026; or something" and her fantastic live shows. And Slayyyter's two albums show her versatility as a singer and songwriter &#x2014; and her concerts prove that she is a straight-up rock star. We can't wait to honor them on December 5."
-
-============================================================
-[50] ‘Vampire Diaries’ Stars Paul Wesley and Nina Dobrev Reunite for ‘Sultry’ Quinn Audio Erotica Series (EXCLUSIVE)
-Source: Variety | Status: expanded | Words: 460
-Published: 2026-11-17T16:00:00+00:00
-URL: https://variety.com/2026/tv/news/vampire-diaries-paul-wesley-nina-dobrev-quinn-audio-erotica-1236949251
-------------------------------------------------------------
-SUMMARY:
-Stelena fans, unite. Nina Dobrev and Paul Wesley, who co-starred in one of The CW's biggest hits, "The Vampire Diaries," are reuniting for in a new three-episode audio romance for Quinn. “The Haunting of Pendle Creek” follows exes and true-crime podcasters Scarlett (Dobrev) and Ezra (Wesley), who are investigating mysterious disappearances in Pendle Creek. "The […]
-
-CONTENT / EXTRACTED DETAILS:
-Stelena fans, unite. Nina Dobrev and Paul Wesley , who co-starred in one of The CW's biggest hits, &#8220; The Vampire Diaries ,&#8221; are reuniting for in a new three-episode audio romance for Quinn .
-
-"The Haunting of Pendle Creek" follows exes and true-crime podcasters Scarlett (Dobrev) and Ezra (Wesley), who are investigating mysterious disappearances in Pendle Creek. &#8220;The deeper they dig, the more they begin to suspect that the chilling local legend of this picturesque New England town might be real,&#8221; the synopis reads. &#8220;As a blood moon rises and the case turns far more dangerous than they could have expected, Scarlett and Ezra must confront a charming predator and the feelings they've never quite buried.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Emile Hirsch to Star in Texas-Set Thriller 'The Violet Crown' (EXCLUSIVE)
-
-The female-led story was what attracted Dobrev. &#8220;We spend so much time with male protagonists so I really love the fact that this is female-centric,&#8221; she says. &#8220;I was also excited to partner together with Paul again. It felt like old times!&#8221; He echoes that: "I was excited to work with Nina again &#x2014; it's been a while. Also, I have such an appreciation for empowering female stories.&#8221;
-
-While Wesley says he tries to &#8220;avoid vampire shows at all costs,&#8221; he quips that he brought his fangs to this shoot. &#8220;That's the first time I've done anything vampire-related since the show." He never saw a world in which he and Dobrev would be narrating erotica together, &#8220;but here we are smutting it up &#8230; Even though we played romantic interests for so long, it's been a minute and now we're such good friends, so it was very funny. We had fun."
-
-Naturally, that meant a lot of laughs happening during the recording process. &#8220;Being in the booth together was truly so much fun &#x2014; to be able to see each other and react off of each other,&#8221; says Dobrev. &#8220;We just kept laughing, especially in the sultry moments.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-This marks the fourth Quinn Originals duet production, following &#8220;Ember & Ice&#8221; (Hudson Williams and Connor Storrie), &#8220;Rent Free&#8221; (Mika Abdalla and Stephen Kalyn) and &#8220;Olympus U &#8220;(Lili Reinhart and Tom Bateman).
-
-"Stefan and Elena are one of the most iconic couples in TV history. Fans are always tuning back into the world of &#8216;The Vampire Diaries,' especially in the fall,&#8221; says Caroline Spiegel, founder and CEO of Quinn. "We were so thrilled to bring this reunion to life!"
-
-&#8220;The Haunting of Pendle Creek&#8221; is available now on Quinn .
 
