@@ -5,13 +5,58 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T19:52:14.624Z"
+    "updated_at": "2026-11-17T20:03:11.499Z"
   },
   "articles": [
     {
+      "id": "0e29bd37-0e41-4e8c-ace4-c88e94724752",
+      "title": "Jack McBrayer To Host NBC's 'Countdown To Macy’s Thanksgiving Day Parade' Featuring Interviews With Leslie Odom Jr &#038; McKenna Grace",
+      "summary": "EXCLUSIVE: NBC is gearing up for the 100th edition of its annual Thanksgiving celebration and will be bringing back the hour-long Countdown to Macy’s Thanksgiving Day Parade the night before. This year, the special will be hosted by Emmy-nominated actor and comedian Jack McBrayer and feature interviews with parade performers Mckenna Grace and Leslie Odom […]",
+      "content": "EXCLUSIVE: NBC is gearing up for the 100th edition of its annual Thanksgiving celebration and will be bringing back the hour-long Countdown to Macy's Thanksgiving Day Parade the night before.\n\nThis year, the special will be hosted by Emmy-nominated actor and comedian Jack McBrayer and feature interviews with parade performers Mckenna Grace and Leslie Odom Jr ., Deadline can reveal exclusively.\n\nThe episode will air November 25 at 8 p.m. ET and also simulcast on Peacock.\n\nOn the eve of the 100th Macy's Thanksgiving Day Parade , the countdown special will give audiences an all-access look at the Macy's Parade Studio to discover exactly what it takes to create the famous floats and balloons prior to their journey through the streets of New York, including the iconic characters making their grand return to the parade after decades away. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nCreator Taylen Biggs will serve as a special 34th Street correspondent at Herald Square, providing behind-the-scenes coverage of Parade rehearsals on the eve of the 100th march. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nThe special will also feature superfans whose lives have been changed by the parade, as well as a preview of the The Divine Nine Unity Step Team's parade performance.\n\nCountdown to Macy's Thanksgiving Day Parade is produced by Done + Dusted. Katy Mullan and Jim Cantiello serve as executive producers.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/jack-mcbrayer-host-nbc-macys-thanksgiving-countdown-special-1237226859",
+      "published_at": "2026-11-17T20:00:00+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-17T105631.316.png",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 287,
+      "extracted_at": "2026-11-17T20:03:10.906Z",
+      "updated_at": "2026-11-17T20:03:10.906Z"
+    },
+    {
+      "id": "0e5781fc-cddc-49c5-a564-7a629e20dbdc",
+      "title": "'The Body' Debuts With 5.1 Million Views in Five Days",
+      "summary": "\"The Body,\" a teen psychological drama created by Quinn Shephard, debuted as the No. 3 TV title on Netflix for the week of Nov. 9-16. The series premiered on Nov. 11, and in its first five days of streaming it reached 5.1 million views. Two TV titles outranked it: docuseries \"Taken: Natalee Holloway\" with 7.2 […]",
+      "content": "&#8220; The Body ,&#8221; a teen psychological drama created by Quinn Shephard, debuted as the No. 3 TV title on Netflix for the week of Nov. 9-16. The series premiered on Nov. 11, and in its first five days of streaming it reached 5.1 million views.\n\nTwo TV titles outranked it: docuseries &#8220;Taken: Natalee Holloway&#8221; with 7.2 million views in its second week on the chart, and Season 2 of &#8220;Black Doves&#8221; with 6.6 million, also making its second chart appearance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/tv/news/the-body-ratings-netflix-views-1236950624",
+      "published_at": "2026-11-17T20:00:00+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/The_Body_n_S1_E6_00_42_33_11RC.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 102,
+      "extracted_at": "2026-11-17T20:03:11.083Z",
+      "updated_at": "2026-11-17T20:03:11.083Z"
+    },
+    {
+      "id": "9b9b19af-0f6d-413e-85cd-7a1bbe719f5c",
+      "title": "I'm Usually A Rock Girlie, But I'm Coming Around On One Of The Voice's Country Singers This Season",
+      "summary": "Is Season 30 of The Voice making me a little bit country?",
+      "content": "Spoiler alert! This story discusses the Live Shows' Y2K Week on The Voice Season 30, which aired November 16. Episodes are available to stream the day after they air with a Peacock subscription .\n\nCountry singer Joe Henley ( not to be confused with Joe Hendry ) is only 19 and had never played a gig before auditioning for The Voice , which only makes his journey on the show more impressive. After grabbing the attention of Kelly Clarkson and Riley Green during the Blind Auditions, making it through the Battle Rounds, and hands-down reclaiming his spot on Team Riley for Cut Week , he took on Lee Ann Womack’s “I Hope You Dance.”\n\nSure, Team Adam and Team Kelly have the numbers advantage, with three singers still left on each of their teams while the other coaches only have two. I can’t believe I’m still on the country train, but I actually think that Team has a very good chance of winning in his first season, whether that’s with Joe Henley or the duo Ferryn & Brinkley. He’s proven to have an excellent ear for talent and has given great advice and guidance to his team as their performances have only gotten stronger.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/im-rock-girlie-really-coming-the-voice-season-30-joe-henley",
+      "published_at": "2026-11-17T19:56:55+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RoY3cfu5KeWHNhwhsKQhsg-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 204,
+      "extracted_at": "2026-11-17T20:03:11.344Z",
+      "updated_at": "2026-11-17T20:03:11.344Z"
+    },
+    {
       "id": "6302852e-b0e4-4bfd-9d0d-adfb95e03d8a",
       "title": "How Do Fans Feel About Robert Pattinson As James Bond 007? New Comicbook Poll Has a Clear Answer",
-      "summary": "Amazon - MGM Robert Pattinson is the new James Bond, and news of his casting went viral in a matter of hours after the initial announcement. In just 24 hours, there has been literal worldwide chatter and debate about Pattinson's casting as Bond. But aside from questions about hw playing Bond affects Pattinson's future as Batman, or how […]",
+      "summary": "Robert Pattinson is the new James Bond, and news of his casting went viral in a matter of hours after the initial announcement. In just 24 hours, there has been literal worldwide chatter and debate about Pattinson's casting as Bond. But aside from questions about hw playing Bond affects Pattinson's future as Batman, or how […]",
       "content": "We here at ComicBook decided to do some polling on the issue and see how Bond fans were feeling. Turns out that fans are generally okay with the choice, even if they don't overwhelmingly love the choice. And considering some of the backlash that Robert Pattinson has received from previous casting announcements, that's pretty solid ground to be on, at the start.\n\nNow that you&#39;ve had the day to thinka bout it, how do you feel about Robert Pattinson&#39;s casting as James Bond\n\nPer the results of our polling, the majority of fans seem to &#8220;love&#8221; Pattinson being cast as Bond (35%). The second-highest majority (30%) seems to &#8220;like&#8221; the idea, even if they don't &#8220;love it. The third-highest group (23.4%) said that Pattinson wasn't their first choice, while only about 11% of fans said they &#8220;hate&#8221; the casting.\n\nAgain, those poll numbers are pretty solid, given what Pattinson has faced in the past. When he was cast as Bruce Wayne/Batma in Matt Reeves's reboot film, The Batman , there was some immediate backlash to it. Pattinson's physique was criticized, his past role in The Twilight Saga was dragged up and used against him, and the term &#8220;Emo-Batman&#8221; followed him well after the film's release. It's been in the four years between The Batman and the start of production on The Batman: Part II that Pattinson has seemed to gain significant clout as Batman.\n\nComparatively, it's looking like both males and females across many different demographics are pleased with Pattinson as Bond. Action fans can see the vision after Pattinson won them over in films like Christopher Nolan's Tenet (where he played a Bond-style spy), and as Batman; female fans haven't been shy about posting their delight at seeing Twilight &#8216;s Edward Cullen age into a James Bond role. Bond fan-fiction is about to go crazy .\n\nRobert Pattinson will make his debut as James Bond in Bond 26 (official title TBA). The film is expected to release in 2028 and will be directed by Denis Villeneuve ( Dune trilogy), working off a script by Steven Knight ( Peaky Blinders ).\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
       "source": "ComicBook.com",
       "source_url": "https://comicbook.com/movies/news/how-do-fans-feel-about-robert-pattinson-as-james-bond-007-new-comicbook-poll-has-a-clear-answer",
@@ -712,51 +757,6 @@
       "word_count": 513,
       "extracted_at": "2026-11-17T17:46:03.932Z",
       "updated_at": "2026-11-17T17:46:03.932Z"
-    },
-    {
-      "id": "78d04b34-bc82-4680-938e-c15474024619",
-      "title": "'Asphalt' and 'Sandbag Dam' Among Lee Strasberg Film Festival 10th Edition Award Winners",
-      "summary": "The Lee Strasberg Film Festival unveiled the winners of this year’s awards following the conclusion of the three-day festival on Nov. 15 at the Lee Strasberg Theatre &#38; Film Institute in West Hollywood. Mehdi Ouahab’s “Asphalt” took home four awards, including Best of Fest. Čejen Černić Čanak’s “Sandbag Dam” followed closely behind, receiving three awards, […]",
-      "content": "The Lee Strasberg Film Festival unveiled the winners of this year's awards following the conclusion of the three-day festival on Nov. 15 at the Lee Strasberg Theatre & Film Institute in West Hollywood.\n\nMehdi Ouahab's \"Asphalt\" took home four awards, including Best of Fest. &#x10C;ejen &#x10C;erni&#x107; &#x10C;anak's \"Sandbag Dam\" followed closely behind, receiving three awards, including Best Narrative Feature Film. There were also awards for each genre, including comedy, drama, horror and thriller. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Brandi Carlile's All-Requests Tour Isn't Just a Magnificent Stunt, but an Unusually Moving Transaction Between Performer and Audience: Concert Review\n\nAl Pacino served as lead juror alongside Henri Esteve, Hayley Orrantia, Wade Allain-Marcus, Hyejin \"Grace\" Park and Brittany Alexia Young.\n\nThe 2026 Official Selection featured 26 films from around the world, including 23 short films and three feature films. This year's awards aimed to recognize outstanding work across acting, directing and filmmaking across a variety of genres.\n\n\"Reaching the festival's 10th edition is incredibly rewarding,\" festival director Sasha Krane said. \"LSFF has continued to grow and carve out a unique space in the film festival landscape, one that places the actor and the art of performance at its heart. We're proud to continue that tradition and look forward to what's in store.\"\n\nCelebrating its 10th year, the Lee Strasberg Film Festival continues the Lee Strasberg Film Institute's commitment to bringing artists together, supporting independent filmmakers and celebrating acting. Alumni of the institute include Pacino, Marilyn Monroe, Scarlett Johansson, John Leguizamo, Angelina Jolie, Alec Baldwin, Rosario Dawson, Lady Gaga, Chris Evans, Laura Dern and Rachel Brosnahan. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nSee below for the full list of winners.\n\n\"Asphalt\" Mehdi Ouahab, Director\n\n\"Sandbag Dam,\" &#x10C;ejen &#x10C;erni&#x107; &#x10C;anak, Director\n\nPauline Serieys \"Asphalt\" (Sabine)\n\nMarc Bodnar \"Asphalt\" (Vincent)\n\nFilip &#x160;ovagovi&#x107; \"Sandbag Dam\" (Franjo)\n\nLav Novosel & Andrija &#x17D;unac \"Sandbag Dam\" (Marko & Slaven)\n\n\"Glorious Summer\" Magdalena Fejdasz-Hanczewska, Helena Ganjalyan, Daniela Kom&#x119;dera and Weronika Humaj\n\n\"The Sight Unseen,\" Shawn Antoine II, Director\n\n\"Pericarp\" Ryan Henry Knight, Director\n\n\"N&#x16A;R\" Ryan Youngblood, Director\n\n\"The Most Honest Thing in the Room,\" Chris Johnson, Director\n\n\"Mouthfeel,\" Max Tullio, Director\n\nMichelle Twarowska \"The Last Goodbye\" (Basia)\n\nZack Kozlow \"Dead Deer High\" (Jack)\n\n\"The Last Goodbye,\" Kailey Wolf, Director",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/news/lee-strasberg-film-festival-10th-edition-award-winners-1236949361",
-      "published_at": "2026-11-17T17:45:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Sandbag-Dam-Best-Narrative-Feature-Dir.-Cejen-Cernic-Canak.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 402,
-      "extracted_at": "2026-11-17T17:46:04.183Z",
-      "updated_at": "2026-11-17T17:46:04.183Z"
-    },
-    {
-      "id": "ee838ce6-1dcf-42c1-b21f-4ec7d9d30b78",
-      "title": "As Johnny Depp Faces Pirates Of The Caribbean 6 Rumors, Another Star Weighs In On Returning",
-      "summary": "I'd love to see these characters back aboard the Black Pearl.",
-      "content": "Johnny Depp returning to theaters in Ebenezer on the 2026 movie schedule , renewed interest has grown in whether he'll ever play Captain Jack Sparrow again . Producer Jerry Bruckheimer has already confirmed that discussions have taken place about bringing Depp back for Pirates of the Caribbean 6 , although nothing has been officially announced. Now another familiar face from the original movies has weighed in, and I have to admit, this is one reunion I'd love to see happen.\n\nI would absolutely love this. Pintel and Ragetti were two of my favorite supporting characters from the original trilogy, and their ridiculous behavior provided some great comic relief between all the sword fights and increasingly more extravagant set pieces.\n\nSomehow, they survived three movies filled with undead pirates, sea monsters and increasingly complicated betrayals. That's honestly impressive considering how frequently they seemed to have no idea what was going on. While I certainly want to see Johnny Depp return as Jack Sparrow, I think bringing back characters like these could be just as important to making another Pirates movie feel connected to the originals.\n\nBruckheimer previously confirmed that he's been speaking with Depp about a sixth movie , although the project remains in development. Depp recently suggested he'd be interested in helping give the franchise a proper sendoff, particularly if it meant working with Bruckheimer again.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/johnny-depp-faces-pirates-of-the-caribbean-6-rumors-another-star-weighs-in-returning-mackenzie-crook",
-      "published_at": "2026-11-17T17:43:06+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/39fx7Y2VJtaYjG4df7sLLh-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 226,
-      "extracted_at": "2026-11-17T17:48:03.229Z",
-      "updated_at": "2026-11-17T17:48:03.229Z"
-    },
-    {
-      "id": "30fe561e-739e-401c-beda-aa8bf9303765",
-      "title": "Children of Blood and Bone Author Celebrates Upcoming Movie After Saying She Would Never See It",
-      "summary": "The Children of Blood and Bone franchise is finally making its way to the big screen on Jan. 15, 2027, and after months of the author of the books, Tomi Adeyemi, describing her experience with the movie adaptation as a very negative one, she has just shared a surprisingly positive message about the film's upcoming […]",
-      "content": "However, Adeyemi has shared a range of experiences in regards to the making of the film, at one point saying that she will not watch the movie and at another saying that the process of the adaptation was one of the worst things she has ever had to live through . In light of those previous comments, it seemed unlikely that there would be any positive commentary from Adeyemi ahead of the movie's debut, but now, she has taken fans by surprise with a brand-new post sharing considerably more positive thoughts on the project. Check out her exact comments below.\n\nAdeyemi took to Instagram this week with her surprisingly positive and uplifting message about the upcoming theatrical release of Children of Blood and Bone , writing, among other things, &#8220;This entire franchise started as an impossible dream. It was impossible from the start, and as we near the world premiere for this project, it still feels impossible that a girl could run into ceramic tiles of the Orisha in a tiny gift shop in Brazil and then create a world that a new generation of kids could get lost in&#8230;This film was made for all of us. It's the culmination of hard work from so many people — from the director @gpbmadeit to the hundreds of people in front of and behind the camera who worked themselves to the bone to honor and amaze you. It is meant to celebrate you and uplift you, and moving forward, that is all I want to do.&#8221; The post ends, &#8220;I can't wait see you at the theaters.&#8221;\n\nUnderstandably, fans have been caught by surprise with this message, and the comments in response to Adeyemi's post make that clear. One commenter wrote, &#8220;No disrespect girl, but didn't you say you're not gonna support? I hope they paid you triple,&#8221; and another said, &#8220;This is just getting confusing. You probably shouldn't have released anything in the first place. Because this is not a good look.&#8221; However, many commenters are just happy to see Adeyemi now showing support for the movie, with one person writing, &#8220;I'm glad to see you promoting this Tomi, truly. I'm very excited to see this movie, especially since I read the first book back in 2018. My only sadness is that we might not be able to see the second and third books adapted. I hope that does change because this series is truly amazing and deserves to be seen on the big screen.&#8221;\n\nWill you be going to see Children of Blood and Bone , and have the conversations around the adaptation swayed your opinion at all? Share your thoughts down below.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/movies/news/children-of-blood-and-bone-author-celebrates-upcoming-movie-after-saying-she-would-never-see-it",
-      "published_at": "2026-11-17T17:37:59+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 480,
-      "extracted_at": "2026-11-17T17:40:08.583Z",
-      "updated_at": "2026-11-17T17:40:08.583Z"
     }
   ]
 }
