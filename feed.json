@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T22:50:38.047Z"
+    "updated_at": "2026-11-17T22:58:27.380Z"
   },
   "articles": [
+    {
+      "id": "fc7c29a2-afac-4257-be4d-7a80a53ce1f0",
+      "title": "Jeff Bezos Says He Was \"Heavily Involved\" in Casting Robert Pattinson as James Bond",
+      "summary": "The Amazon founder told a conference Tuesday that he and the film leadership were initially biased against Pattinson before realizing they found their man.",
+      "content": "The names Bezos, Jeff Bezos . And he just chose the next James Bond .\n\nThe Amazon founder and chairman told a conference Tuesday that he &#8220;was heavily involved&#8221; in selecting Robert Pattinson as the new James Bond, working alongside the Amazon MGM leadership team, producers Amy Pascal and David Heyman, and director Denis Villeneuve.\n\n&#8220;We ran a really tight process, and we made the final decision on Friday,&#8221; Bezos said at Semafor's Silicon Valley & The World conference. &#8220;There were a big group initially, and we selected down to five finalists, and then we did real old-fashioned screen tests of those five finalists.&#8221;\n\nBy now, those finalists are well known: Callum Turner, Josh O'Connor, Jack Lowden, Nicholas Hoult, and Pattinson, the man who ultimately secured Bond's tuxedo.\n\nBezos says that they ran an elaborate screen test, with each actor performing three scenes with full costumes and sets.\n\n&#8220;They were all amazing, but there was something special about Rob and his performances, and it was kind of immediately un-debated. Denis, the director was, we all sort of gravitated to him,&#8221; Bezos recalled. &#8220;By the way, initially, I would say we were slightly biased a little against him just because he's already so famous. We sort of thought, maybe we should have somebody a little more unknown. But in the screening tests, it was so obvious: He is James Bond.&#8221;\n\nThe casting of Pattinson is without question the biggest move yet by Amazon since it acquired MGM and since it bought out the Broccoli family for control of the franchise.\n\nThe irony is not lost on people that the Bond franchise is filled with tech tycoons and media industrialists as villains, from Hugo Drax in Moonraker to Max Zorin in A View to a Kill to Elliott Carver in Tomorrow Never Dies .\n\nNow James Bond is firmly controlled by one of the world's richest man, and a mogul whose empire spans tech, media, entertainment and even rockets into space. And this time he was the one helping to call the shots.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909",
+      "published_at": "2026-11-17T22:57:03+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 341,
+      "extracted_at": "2026-11-17T22:58:27.221Z",
+      "updated_at": "2026-11-17T22:58:27.221Z"
+    },
     {
       "id": "90f15814-393c-4c5b-a782-3a4285f136a5",
       "title": "Trae Crowder Sets Comedy Interview Series 'Help Me Out Here' With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest",
@@ -742,21 +757,6 @@
       "word_count": 567,
       "extracted_at": "2026-11-17T20:08:58.656Z",
       "updated_at": "2026-11-17T20:08:58.656Z"
-    },
-    {
-      "id": "adf7de7e-3da0-434a-b84d-99987ba6c5ac",
-      "title": "Joaquin Phoenix Stars in Jonathan Glazer-Directed Film for Gentle Monster's AI-Powered Glasses",
-      "summary": "The buzzy debut for the brand's Intelligent Eyewear collection seems to be a big hit already: Pre-orders for the 16-piece collection, powered by Google and Samsung, are already sold-out.",
-      "content": "Joaquin Phoenix has teamed with filmmaker Jonathan Glazer to star in a trippy new campaign for Gentle Monster's AI-powered eyewear collection.\n\nThe actor, who famously starred in Spike Jonze's 2013 film Her about a man's relationship with an operating system, wears pieces from the brand's Intelligent Eyewear line as he finds himself in a series of odd scenes. And that is by design, as Gentle Monster details that the campaign skipped a &#8220;straightforward depiction of technology&#8221; in favor of a story that drops viewers &#8220;within a world where the unexpected becomes increasingly ordinary.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Movies 'NAZA' Review: A Sober and Indispensable Doc Highlights the Immoral, State-of-the-Art Killing Machine Employed by the IDF in Gaza Movies László Nemes Says an \"Orgy of Antisemitism\" Is \"Overtaking the West\"\n\nIt finds Phoenix's character, a salesman named Rogers, arriving to a hotel to check-in for two nights. After settling into his room and falling asleep, the man wakes up and lumbers down the hall only to find two costumed characters, one red and one yellow, having a fistfight in a light-drenched room. &#8220;Can you please keep it down? I'm trying to get some sleep,&#8221; he says to the fighters. &#8220;I don't want to be that guy. But really.&#8221; After a knockout, one of the characters approaches Rogers and speaks in an unintelligible language, which he is able to translate using his glasses. After the climactic scene, Rogers checks out early and makes a brisk exit as he's watched intently by multiple hotel staffers. &#8220;The result is a cinematic experience that prioritizes atmosphere, emotion, and imagination over conventional product storytelling,&#8221; reads the Gentle Monster press release.\n\nThe 16-piece collection is powered by Google and Samsung and comes in a variety of shapes, colors and lens options ranging in price from $449 to $489. According to Gentle Monster's website, the bulk of pre-orders are already sold-out. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nIn an interview with GQ , Phoenix said he had been wanting to work with Glazer for quite some time. The filmmaker is known for a long list of credits that includes Under the Skin, Birth, Sexy Beast and The Zone of Interest . He's also directed spots for Prada and Apple.\n\n&#8220;I've known him for years, and when we all approached him, we came up with this really interesting and offbeat idea that just [had so] much mood. He just gets super excited and inspired,&#8221; Phoenix told the outlet. But even though viewers may think of his 2013 film in connection to his new AI-fueled campaign, Phoenix told GQ that it wasn't really even on his mind at all. &#8220;It's funny because I think that sometimes films have more of, maybe, an impact on the people that view them than for me, but I hadn't thought about that. Somebody just made a joke about it actually, and I was like, &#8216;Oh yeah, you're right.'&#8221;\n\nAs for Glazer, he told GQ that the concept came to life for him with the character at rest: &#8220;The first image I had was him asleep, maybe dreaming, with the glasses all wonky across his face. The rest kind of grew from there.&#8221;\n\nGentle Monster is shining a light on its Intelligent Eyewear collection at a New York public preview now open at 23 Wall Street through Nov. 23.",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/lifestyle/style/joaquin-phoenix-ai-glasses-gentle-monster-jonathan-glazer-1236757559",
-      "published_at": "2026-11-17T20:04:19+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 588,
-      "extracted_at": "2026-11-17T20:06:31.926Z",
-      "updated_at": "2026-11-17T20:06:31.926Z"
     }
   ]
 }
