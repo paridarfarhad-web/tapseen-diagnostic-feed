@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T22:42:27.005Z"
+    "updated_at": "2026-11-17T22:44:26.692Z"
   },
   "articles": [
+    {
+      "id": "9bcf2e00-0017-4255-8627-356ca07fdd5c",
+      "title": "Jennifer Lawrence's 'Hunger Games' Premiere Look Proves the Boudoir Coat Is Back: Here's Where to Shop Similar Styles Online",
+      "summary": "Naked dressing out. Fur, in. At the premiere of \"The Hunger Games: Sunrise on the Reaping\" on Monday night, Jennifer Lawrence embraced one of the biggest outerwear trends this season: the fur-trimmed satin coat. The actress, who reprises her beloved role as Katniss in the prequel film, walked the carpet in a floor-length black silk […]",
+      "content": "At the premiere of \" The Hunger Games: Sunrise on the Reaping \" on Monday night, Jennifer Lawrence embraced one of the biggest outerwear trends this season: the fur-trimmed satin coat.\n\nThe actress, who reprises her beloved role as Katniss in the prequel film, walked the carpet in a floor-length black silk coat from Jonathan Anderson's Dior Pre-Fall 2026 collection . The robe-like design featured an oversized white fur collar, colorful floral embroidery cascading down one side and a dramatic front slit, which Lawrence paired with black satin mules by Gianvito Rossi and vintage diamond-and-onyx earrings from Fred Leighton. Related Stories ‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody ‘Obsession’ Director Curry Barker Pitched Nathan Fielder a Collaboration After Watching ‘You Can See Everything’: ‘I Put It Out in the Water’\n\nThe boudoir-inspired silhouette, which combines silky fabrics, sweeping hemlines and oversized fur collars, has become a favorite among designers and celebrities alike. London-based designer Conner Ives helped popularize the look with his demi-couture silk robes, first introduced on his Fall 2025 runway and subsequently worn by Zo&#xEB; Kravitz, Sienna Miller, Hailey Bieber and Kendall Jenner. Lawrence herself wore one of Ives' black fur-trimmed designs at the \"Die, My Love\" premiere in London last year.\n\nThe trend extends well beyond Ives. Miu Miu incorporated fuzzy fur trimming into distressed leather outerwear for Fall 2026, while Dries Van Noten embraced satin finishes on its runway. Balenciaga, Zuhair Murad and St&#xE9;phane Rolland have also explored dramatic, robe-inspired silhouettes in their recent couture collections.\n\nWhile Lawrence's Dior creation and Ives' silk robes carry luxury price tags, shoppers don't have to spend thousands to get a similar look. More affordable retailers, including Zara, Mango and ASOS, have embraced exaggerated faux-fur collars, belted silhouettes and floor-sweeping coats.\n\nShop a few styles similar to Lawrence's Dior ensemble &#x2014; at a variety of price points &#x2014; below:",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905",
+      "published_at": "2026-11-17T22:43:29+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445903.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 315,
+      "extracted_at": "2026-11-17T22:44:26.534Z",
+      "updated_at": "2026-11-17T22:44:26.534Z"
+    },
     {
       "id": "df0e162b-e879-44e9-b12d-09ae36c86c5f",
       "title": "CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That's Not Safe",
@@ -742,21 +757,6 @@
       "word_count": 287,
       "extracted_at": "2026-11-17T20:03:10.906Z",
       "updated_at": "2026-11-17T20:03:10.906Z"
-    },
-    {
-      "id": "0e5781fc-cddc-49c5-a564-7a629e20dbdc",
-      "title": "'The Body' Debuts With 5.1 Million Views in Five Days",
-      "summary": "\"The Body,\" a teen psychological drama created by Quinn Shephard, debuted as the No. 3 TV title on Netflix for the week of Nov. 9-16. The series premiered on Nov. 11, and in its first five days of streaming it reached 5.1 million views. Two TV titles outranked it: docuseries \"Taken: Natalee Holloway\" with 7.2 […]",
-      "content": "&#8220; The Body ,&#8221; a teen psychological drama created by Quinn Shephard, debuted as the No. 3 TV title on Netflix for the week of Nov. 9-16. The series premiered on Nov. 11, and in its first five days of streaming it reached 5.1 million views.\n\nTwo TV titles outranked it: docuseries &#8220;Taken: Natalee Holloway&#8221; with 7.2 million views in its second week on the chart, and Season 2 of &#8220;Black Doves&#8221; with 6.6 million, also making its second chart appearance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/tv/news/the-body-ratings-netflix-views-1236950624",
-      "published_at": "2026-11-17T20:00:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/The_Body_n_S1_E6_00_42_33_11RC.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 102,
-      "extracted_at": "2026-11-17T20:03:11.083Z",
-      "updated_at": "2026-11-17T20:03:11.083Z"
     }
   ]
 }
