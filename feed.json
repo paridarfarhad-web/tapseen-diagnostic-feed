@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-17T19:24:15.775Z"
+    "updated_at": "2026-11-17T19:30:16.501Z"
   },
   "articles": [
+    {
+      "id": "66ca4db7-8ba5-4db6-81db-bc686dd7efc7",
+      "title": "Apple Hit With Outages in iCloud, Apple Pay and More Services",
+      "summary": "Apple reported outages across several of its platforms on Tuesday, including iCloud, Apple Pay, the App Store and more. The company's system status page as of 2:30 p.m. ET showed full or partial outages affecting platforms like the iCloud website, Apple's business services, on-device AppleCare support and more. Users reported outages earlier on Tuesday across […]",
+      "content": "Apple reported outages across several of its platforms on Tuesday, including iCloud, Apple Pay, the App Store and more.\n\nThe company's system status page as of 2:30 p.m. ET showed full or partial outages affecting platforms like the iCloud website, Apple's business services, on-device AppleCare support and more. Users reported outages earlier on Tuesday across services like Apple Pay and the App Store, according to the tracking service Downdetector, though those appear to have resolved. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nApple did not respond to an immediate request for comment.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/digital/news/apple-hit-with-outages-icloud-apple-pay-more-services-1236950588",
+      "published_at": "2026-11-17T19:28:34+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2024/06/Apple-logo.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 106,
+      "extracted_at": "2026-11-17T19:30:16.345Z",
+      "updated_at": "2026-11-17T19:30:16.345Z"
+    },
     {
       "id": "2e93e774-84cf-469c-9278-5928cb2293a4",
       "title": "Penn &#038; Teller Join Short Film 'The Inspector' as \"Executive Magic Producers\" (Exclusive)",
@@ -742,21 +757,6 @@
       "word_count": 246,
       "extracted_at": "2026-11-17T17:24:19.558Z",
       "updated_at": "2026-11-17T17:24:19.558Z"
-    },
-    {
-      "id": "ccde3810-fca1-458c-abda-b01cad0e8f36",
-      "title": "The Game Awards 2026 Full Nominees Announced",
-      "summary": "The nominees for The Game Awards 2026 have been revealed after months of speculation. With the ceremony being held on December 10th in Los Angeles, The Game Awards, for many, is a celebration of all things gaming in 2026. Going into it's 13th ceremony, the Geoff Keighley-hosted show has grown in popularity, especially with the […]",
-      "content": "Last year, Sandfall Interactive's Clair Obscur: Expedition 33 swept The Game Awards, taking home nine Game Awards out of a record 13 nominations. While last year's lineup was great, this year's lineup has a ton of heavy-hitters. Titles like Resident Evil Requiem , The Legend of Zelda: Ocarina of Time , and 007 First Light are present, racking up a few nominations in big categories. However, it's Grand Theft Auto VI that takes the cake, garnering numerous nominations, including Game of the Year. It's important to note that Players Choice, the fully fan-voted category, won't be revealed until a later date. For now, you can vote for your favorites in all categories on the official The Game Awards website . You can find the complete list of nominees for The Game Awards 2026 below:\n\nThe Game Awards will be livestreamed on December 10th at 4:30 pm PT/ 7:30 pm EST. As mentioned before, if you want to vote, head over to The Game Awards website to make your picks. Any notable snubs? What game do you think should win Game of the Year? Leave a comment below!\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/the-game-awards-2026-full-nominees-announced",
-      "published_at": "2026-11-17T17:21:49+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 224,
-      "extracted_at": "2026-11-17T17:24:20.880Z",
-      "updated_at": "2026-11-17T17:24:20.880Z"
     }
   ]
 }
