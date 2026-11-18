@@ -1,9 +1,143 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-17T23:42:32.590Z
+Last Updated: 2026-11-18T00:02:49.885Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Denis Villeneuve Says 'Dune: Part Three' Is "Something Even Better" Than The First Two Films
+[1] New Doomsday Footage Has Turned the Best MCU Movie into a #1 Streaming Hit Again
+Source: ComicBook.com | Status: expanded | Words: 528
+Published: 2026-11-18T00:00:00+00:00
+URL: https://comicbook.com/movies/news/new-doomsday-footage-has-turned-the-best-mcu-movie-into-a-1-streaming-hit-again
+------------------------------------------------------------
+SUMMARY:
+Courtesy of The Walt Disney Company What superhero fatigue? Although it seemed for a while that Marvel Studios were losing their edge and their core cinema audience - thanks in part to the arrival of Disney+ and quick turnarounds from theaters to streaming - Avengers: Doomsday is already set to be the biggest movie of the year, and potentially all time. […]
+
+CONTENT / EXTRACTED DETAILS:
+Avengers: Endgame is seen by many as the perfect comic book movie, bringing together a decade's worth of on-screen representations of Marvel Comics heroes in one of the most elaborate and spectacular final acts ever seen. While the movie helped close out the first 11 years of Marvel Studios' highly ambitious output, it was not the end of the story and was, in fact, just the beginning of a new chapter as the MCU headed into a tangled and sprawling branched universe of alternate worlds and fractured storylines. As the Multiverse Saga now concludes with Avengers: Doomsday and Avengers: Secret Wars, Avengers: Endgame Encore tells the same story as it did in 2019, but pulls back the curtain on some minor changes and three new moments that completely change the ending of that story .
+
+While Endgame's main story remains unchanged in this new version, the film begins it's changes by extending the final scene in which Steve Rogers and Peggy Carter are enjoying their life together after Steve decided to stay in the past and live through the decades he had missed. In the new version of this scene, their moment is cut short by a knock at the door, with Loki arriving in the costume he was seen wearing in Season 1 of his own series offering to help the couple. What he wants to help with is yet to be seen, but clearly has implications for Doomsday , with Steve returning to the story as one of the main heroes &#8211; albeit not as Captain America. A second scene features Bruce Banner in self confinement after the events of Spider-Man: Brand New Day , working on several projects underground where the Hulk can be contained. However, his safety doesn't come with Doom protection and he is spirited away by the Doctor for an unknown purpose, presumably to be part of his army.
+
+The final scene, which was only shown in certain screenings, returns to the Time Variance Authority, with Mobius back working to keep the multiverse in check. As alarms begin to sound, the clearest lead-in to Doomsday arrives with multiple universes colliding, 3000 in total. With the chilling line, &#8220;The multiverse is collapsing,&#8221; the die is cast, and the end of the MCU as we know it has been set in motion. Yet this is one last glimpse of Doomsday for those who stick around to the very end of the credits, where the chiming sound of Iron Man forging his first suit becomes the sound of Doctor Doom making his own mask. Same mask, different task, as Robert Downey Jr. said when his casting was revealed. How the story now plays out will be seen one of the biggest cinema events in history this December, as Avengers: Doomsday arrives to rule the box office this festive period .
+
+Has Avengers: Endgame Encore hyped you up for Doomsday ? Let us know your thoughts in the comments.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[2] Federal Appeals Court Judges Press Nexstar About Its Quest To Narrow Tegna Merger Order
+Source: Deadline | Status: expanded | Words: 912
+Published: 2026-11-17T23:54:49+00:00
+URL: https://deadline.com/2026/11/federal-appeals-court-judges-nexstar-tegna-merger-1237226972
+------------------------------------------------------------
+SUMMARY:
+A three-judge panel at the U.S. Court of Appeals for the Ninth Circuit peppered a Nexstar Media Group lawyer with questions about the company's efforts to salvage its contested acquisition of rival Tegna. Pay-TV operator DirecTV and attorneys general of 13 states sued last March to block the $6.2 billion transaction, which would create a […]
+
+CONTENT / EXTRACTED DETAILS:
+A three-judge panel at the U.S. Court of Appeals for the Ninth Circuit peppered a Nexstar Media Group lawyer with questions about the company's efforts to salvage its contested acquisition of rival Tegna.
+
+Pay-TV operator DirecTV and attorneys general of 13 states sued last March to block the $6.2 billion transaction, which would create a local TV station behemoth with reach to some 80% of U.S. households. The day after the suit was filed, the FCC approved the merger and Nexstar swiftly declared it closed.
+
+Just as the companies were starting to integrate, however, a federal judge granted the lawsuit plaintiffs' request for a temporary restraining order, freezing the deal pending a trial. While Tegna shareholders were paid out and the company's stock ceased trading, the company's Virginia-based operations have been kept separate from Nexstar's Texas-based footprint pending the outcome of the suit. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Channel 4 Boss Says "We Cannot Apologize Enough" To Russell Brand Victim Whose Complaint Was Twice Not Dealt With By Broadcaster News David Walliams Being Investigated By Police
+
+Nexstar lawyer Deanne Maynard sought to lay out the company's view that the TRO should only apply to stations in 31 markets where the two companies both own stations. She asserted that the plaintiffs accepted that reduced scope in legal briefs filed during the appeal. Numerous times as she was starting to make her point, though, she was frequently interrupted by federal judges Marsha Berzon, Johnnie Rawlinson and Xavier Rodriguez during the proceeding in a Pasadena, CA courtroom. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+&#8220;In this broadcast merger context,&#8221; Maynard argued, &#8220;it's very common to hold separate stations. Across Democratic and Republican administrations, the federal DOJ has challenged mergers making very similar claims to the ones that plaintiffs make here.&#8221;
+
+The judges all voiced skepticism that there was a clear playbook to reduce the number of stations to be held separate to just 31, rather than just blocking the entire deal, as the TRO did. &#8220;My major concern here is that we're an appellate court,&#8221; Berzon said. &#8220;The district court is there, he's considered what's feasible and what isn't, and for us to start redoing that, we'd have to have a very high confidence that there was a feasible alternative.&#8221; She later interjected, &#8220;This is a discrete kind of issue which requires an understanding of a large, integrated organization and how it can function.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Rodriguez raised the possibility that the appellate court could remand the matter to the district court. &#8220;Why do we have to decide anything now?&#8221;
+
+That question hung in the air as attorneys for DirecTV and the states stated their case. Emily Curran of the California Department of Justice, said focusing on 31 stations rather than the full Tegna portfolio &#8220;is not a coherent proposal.&#8221; In the lower-court proceedings, she said, &#8220;We presented evidence that a full unwinding of the merger, such that the previous version of Tegna would be fully restored, would restore that lost competition, for the simple reason that the day before the merger, it was competing. And it was competing as a integrated entity that was a successful company.&#8221;
+
+Ben Horwich of DirecTV said the plaintiffs &#8220;challenged the transaction that they put together.&#8221; It is not the job of the plaintiffs, or the court, he added, &#8220;to figure out how to achieve their business objectives by fashioning some other transaction.&#8221;
+
+While Maynard referred to the process of narrowing down the scope of the TRO as routine, Horwich countered that the question of antitrust harm raised in merger reviews has doomed some multi-billion-dollar deals. Sinclair's attempts to merge with Tribune, and Tegna's thwarted combination with private equity firm Standard General &#8220;couldn't go forward, because there were these concerns.&#8221;
+
+In the case of Nexstar-Tegna, he added, the notion of a subset of Tegna being kept separate as a quasi-subsidiary pending the outcome of the suit doesn't fit with Nexstar's M&A strategy. Already, eight agonizing months have passed without the usual post-merger focus on synergies and efficiencies, with Nexstar stock slipping 10% during the legal limbo period.
+
+&#8220;It is the defendant's own business thesis that you need to be at least a certain size to cut it in this industry,&#8221; Horwich said. &#8220;To be successful, to be competitive.&#8221; Carving out 31 stations, he said, would be tantamount to &#8220;creating a bunch of orphan stations, and then trying to find homes for them. That's not what we're aiming for here. We want the competition we had before the illegal hardship.&#8221;
+
+After the oral arguments, the judges took the case under advisement and will now work on arriving at a decision, which is expected sometime in the early part of 2027. If the panel rules against Nexstar, the company could request an en banc hearing or appeal the matter to the U.S. Supreme Court.
+
+Meanwhile, a jury trial of the lawsuit has been scheduled for next July in the U.S. District Court for the Eastern District of California.
+
+============================================================
+[3] Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing Dungey
+Source: Variety | Status: expanded | Words: 1232
+Published: 2026-11-17T23:47:53+00:00
+URL: https://variety.com/2026/tv/news/howard-lee-exits-skydance-global-cable-media-1236951079
+------------------------------------------------------------
+SUMMARY:
+Skydance's merged cable networks has a new division name: Skydance Global Cable Media. Warner Bros. TV Group and U.S. Networks head Channing Dungey also revealed the structure under the new entity, which combines the Warner Bros. Discovery and Paramount Global cable networks under one roof. As part of that new organization, longtime Discovery exec Howard […]
+
+CONTENT / EXTRACTED DETAILS:
+Skydance's merged cable networks has a new division name: Skydance Global Cable Media . Warner Bros. TV Group and U.S. Networks head Channing Dungey also revealed the structure under the new entity, which combines the Warner Bros. Discovery and Paramount Global cable networks under one roof.
+
+As part of that new organization, longtime Discovery exec Howard Lee , who had most recently served as chief creative officer of US Networks, is exiting. Lee's oversight had included Discovery Channel, TLC, HGTV, Food Network and more. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Alanis Morissette Blends Theatrical Sketches, Memoir Talk and Massive Hits in Captivating 'Butterfly With a Machete' Residency: Concert Review Ben Affleck Raved About Robert Pattinson’s ‘The Odyssey’ Performance, Recalls Matt Damon: He Said ‘It Was Like Watching a Guy Run Into an Avalanche’
+
+&#8220;One of the hardest parts of any transition is saying goodbye to talented leaders who have contributed so much and, just as importantly, have been trusted colleagues, friends, and mentors,&#8221; Dungey said in a memo to staff. &#8220;I want to express my sincere thanks to Howard Lee for his excellent leadership. I'm deeply grateful for the immense talent, commitment, and passion he brought to Warner Bros. Discovery's US Networks over the years and wish him the best in his future endeavors.&#8221;
+
+As part of merging a huge portfolio of more than 50 cable networks, Dungey divided them into four buckets: unscripted lifestyle, broad-based entertainment, talent/music/live and comedy/animation.
+
+In unscripted lifestyle, Food Network prexy Betsy Sanner Ayala will add Discovery, HGTV and Magnolia oversight, with Discovery head of content Joe Boyle reporting to her.
+
+In broad-based entertainment, TNT/TBS/ID president Jason Sarlanis will also now oversee TLC, with TLC head of content Alon Orstein reporting to him.
+
+In the talent/music/live division, OWN president Tina Perry will add BET and MTV/VH1 to her oversight. Sitarah Pendelton will continue as head of content for MTV/VH1, Brian Rikuda will serve as head of BET, and Aisha Summers-Burke will continue as head of BET content. All three execs report to Perry. (BET Media Group head Louis Carr announced his exit on Monday.) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Nickelodeon and Nickelodeon Animation Studios, Adult Swim, Cartoon Network, Warner Bros. Animation, Cartoon Network Studios and Hanna-Barbera Studios Europe will now be part of Skydance Television Animation, overseen by president Michael Ouweleen. Ouweleen will also continue oversight of Cartoon Network and Adult Swim. Overseeing the studios assets (Nickelodeon Animation Studios, Warner Bros. Animation, Cartoon Network Studios, and Hanna-Barbera Studios Europe) will be Peter Girardi and Alec Botnick, both reporting to Ouweleen. Botnick will continue to oversee Nickelodeon programming with Laurel Weir. Meanwhile, Comedy Central oversight will remain with Ari Pearce, reporting to Ouweleen.
+
+As we bring together our renowned cable brands across Warner Bros. Discovery and Paramount, I'm pleased to share an organizational update that will help us leverage the full strength of our combined portfolio and position us for future success.
+
+Our newly formed group will be called Skydance Global Cable Media and will encompass a premier roster of 50+ cable networks, including such iconic brands as Adult Swim, BET, Comedy Central, Discovery, Food Network, HGTV, ID, MTV, TLC, and Nickelodeon, among many others. Together, these brands deliver culture-defining entertainment, compelling kids and family programming, and leading lifestyle content to audiences around the world.
+
+The breadth and quality of programming this team delivers is truly unmatched, from Adult Swim's Rick & Morty to TLC's &#8220;90 Day Fianc&#xE9;&#8221; franchise, from Discovery's &#8220;Puppy Bowl&#8221; and &#8220;Shark Week&#8221; to the Soul Train Awards on BET and the VMAs on MTV, our brands are bigger than television. They are part of our audiences' daily lives in meaningful and unique ways, and I look forward to stewarding their legacies into the future alongside you.
+
+As we look ahead, our focus is clear: create exceptional stories, unlock the full potential of our programming, franchises and brands, and deepen our relationship with audiences. The quality and reach of our programming, together with the extraordinary talent across our organization, give us a strong foundation for what comes next.
+
+To help achieve these strategic goals, we have created four distinct segments within the group. I'm pleased to announce our new structure and creative leadership for Skydance Global Cable Media: blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+Unscripted Lifestyle: Betsy Sanner Ayala, currently President of Food Network, will continue in that role and also oversee Discovery, HGTV, and Magnolia. Joe Boyle will continue as Head of Content for Discovery, reporting into Betsy.
+
+Broad-Based Entertainment: Jason Sarlanis, currently President of TNT, TBS, and ID, will continue in that role, and will also oversee TLC. Alon Orstein will continue as Head of Content for TLC, reporting into Jason.
+
+Talent, Music, and Live: Tina Perry, currently President of OWN, will continue in that role and add BET and MTV/VH1 to her purview. Sitarah Pendelton will continue as Head of Content for MTV/VH1, Brian Rikuda will serve as Head of BET, and Aisha Summers-Burke will continue as Head of BET Content, all reporting into Tina.
+
+Our fourth network group will be comprised of Comedy and Animation. Skydance Television is now the home of some of the most incredible animation networks and studios in the industry, including Nickelodeon and Nickelodeon Animation Studios, Adult Swim, Cartoon Network, Warner Bros. Animation, Cartoon Network Studios, and Hanna-Barbera Studios Europe. I'm pleased to say that all these beloved assets will now be together as part of Skydance Television Animation, and this group will be overseen by Michael Ouweleen, President. Michael will also continue with day-to-day oversight of Cartoon Network and Adult Swim. Reporting to Michael and leading the work overseeing the studios assets (Nickelodeon Animation Studios, Warner Bros. Animation, Cartoon Network Studios, and Hanna-Barbera Studios Europe) will be Peter Girardi and Alec Botnick. Alec will also continue to oversee programming on Nickelodeon along with Laurel Weir. In addition, Comedy Central will roll up to Michael, with Ari Pearce continuing day-to-day oversight of the network.
+
+I'm excited about this new structure and feel confident that this incredible team of leaders will help defend our core business while building out a multi-platform strategy for these brands that will allow us to reach audiences wherever they may be. We are continuing to work through the process and will share more about the international business in the coming weeks.
+
+One of the hardest parts of any transition is saying goodbye to talented leaders who have contributed so much and, just as importantly, have been trusted colleagues, friends, and mentors. I want to express my sincere thanks to Howard Lee for his excellent leadership. I'm deeply grateful for the immense talent, commitment, and passion he brought to Warner Bros. Discovery's US Networks over the years and wish him the best in his future endeavors. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+I know we have a lot of work ahead and I am excited to get started. With our unrivaled portfolio of brands, incredibly talented teams, and shared passion for making great TV, there is nothing we can't achieve together.
+
+============================================================
+[4] Comedians Leah Rudick &#038; Jessica Michelle Singleton Launch 'People Pleasers' Podcast With PodcastOne
+Source: Deadline | Status: expanded | Words: 561
+Published: 2026-11-17T23:46:30+00:00
+URL: https://deadline.com/2026/11/leah-rudick-jessica-michelle-singleton-people-pleasers-podcast-1237227106
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Comedian Leah Rudick and Jessica Michelle Singleton have announced the launch of People Pleasers, a new comedy podcast with a multi-year deal with PodcastOne, which will serve as its exclusive sales and distribution network. With People Pleasers, Rudick and Singleton are set to offer an unfiltered weekly conversation about self-improvement, self-sabotage, and the never-ending […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Comedian Leah Rudick and Jessica Michelle Singleton have announced the launch of People Pleasers , a new comedy podcast with a multi-year deal with PodcastOne , which will serve as its exclusive sales and distribution network.
+
+With People Pleasers , Rudick and Singleton are set to offer an unfiltered weekly conversation about self-improvement, self-sabotage, and the never-ending quest to get everyone to like them. Each week, the duo tackles everything from woo-woo self-improvement and personal reinvention to blatant self-sabotage and the everyday absurdities of navigating life. Think of it as a conversation with your best (and possibly worst) millennial girlfriends. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Jessica Michelle Singleton Sets YouTube Premiere Date For Debut Comedy Special 'Hi Y'all!' Podcast 'Friday Night Lights' Podcast Hosted By Zach Gilford, Scott Porter And Mae Whitman Launching At PodcastOne
+
+Kit Gray, PodcastOne's President and Co-Founder, told us: &#8220;When we founded PodcastOne, one of our tentpole goals was to amplify women's voices and we're thrilled to continue that legacy with the launch of People Pleasers . Leah and Jessica are two of the most sought after women in comedy and we feel privileged to provide them the space to create content that audiences and advertisers seek.&#8221; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Rudick is a Los Angeles-based actor, writer, and comedian who has amassed nearly two million followers across social media with her viral original characters, including Wealthy Woman, Joannie, and Love Coach. Known for her signature offbeat, &#8216;weird girl' comedy, she was named one of Deadline's Stand-Ups to Keep an Eye On in 2026 . Her credits include HBO's High Maintenance , IFC's Commuters and Dropout TV's Crowd Control . She has performed at Moontower, Just for Laughs, SF Sketchfest, and Laughing Skull festivals, and her debut comedy hour, Spiraling , is available on both Amazon and Apple TV.
+
+Also a comedian, writer, and actor, Singleton broke out in Hulu's Iliza's Locals , the stand-up series from Iliza Shlesinger. Her comedy specials and Don't Tell Comedy performances have garnered millions of views, with her sophomore comedy album, Horny for Death , debuting at No. 1 on iTunes and Amazon. Singleton has toured internationally alongside some of comedy's biggest names, including Tom Segura, Theo Von, Mark Normand, Bobby Lee and Hannah Berner. Her screen credits include Showtime's The Comedy Store docuseries and writing for The Roast of Whitney Cummings . She released her debut hour special, Hi Y'all! , in 2025. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+PodcastOne's roster of podcasts spans news, comedy, true crime, sports and society and culture and includes shows such as Karma and Chaos , Off the Vine with Kaitlyn Bristowe , LadyGang , Court Junkie , The Prosecutors and Varnamtown . Their shows are available through PodcastOne, Apple Podcasts, Spotify, YouTube, iHeart, Amazon and wherever podcasts are heard.
+
+Both Rudick and Singleton are managed by Nate Dixon at Mosaic.
+
+============================================================
+[5] Denis Villeneuve Says 'Dune: Part Three' Is "Something Even Better" Than The First Two Films
 Source: Deadline | Status: expanded | Words: 340
 Published: 2026-11-17T23:41:16+00:00
 URL: https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247
@@ -29,7 +163,7 @@ The film stars Timoth&#xE9;e Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebe
 Watch Villeneuve's full interview in the video below.
 
 ============================================================
-[2] Thom Velde, Former AMC Theatres Executive, Dies at 83
+[6] Thom Velde, Former AMC Theatres Executive, Dies at 83
 Source: Variety | Status: expanded | Words: 324
 Published: 2026-11-17T23:41:15+00:00
 URL: https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046
@@ -51,7 +185,7 @@ A celebration of life will be held Dec. 8 at 3 p.m. at Woodland Hills Community 
 "Thom was an avid golfer and a devoted college football fan," his family noted. &#8220;Above all, he loved his family and friends, who will remember his strength of character, his generosity and the way he made time for the people in his life. He was always willing to lend a hand and had a special gift for keeping friendships alive over the years."
 
 ============================================================
-[3] Robert Pattinson Is Actually the Most Book-Accurate James Bond Yet, According To Ian Fleming Himself
+[7] Robert Pattinson Is Actually the Most Book-Accurate James Bond Yet, According To Ian Fleming Himself
 Source: ComicBook.com | Status: expanded | Words: 504
 Published: 2026-11-17T23:37:46+00:00
 URL: https://comicbook.com/movies/news/robert-pattinson-is-actually-the-most-book-accurate-james-bond-yet-according-to-ian-fleming-himself
@@ -77,7 +211,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] The Wild Way Yellowjackets’ Cast Is Left In The Dark About Spoilers
+[8] The Wild Way Yellowjackets’ Cast Is Left In The Dark About Spoilers
 Source: CinemaBlend | Status: expanded | Words: 221
 Published: 2026-11-17T23:31:00+00:00
 URL: https://www.cinemablend.com/television/wild-way-yellowjackets-cast-left-in-the-dark-spoilers-sophie-nelisse
@@ -93,7 +227,7 @@ Well, my mind is blown. While Yellowjackets fans are being kept away from spoile
 Celebrities: sometimes they really are just like us. Despite being the actors bringing Yellowjackets to life, they were left with episode cliffhangers in the midst of shooting Season 4. I have to wonder if Sophie Nélisse and her co-stars even know all the twists that are coming with the show's final season on the air.
 
 ============================================================
-[5] 'Wicker' Star Alexander Skarsgard Will Be Pushed Differently for Golden Globes Than Other Awards (Exclusive)
+[9] 'Wicker' Star Alexander Skarsgard Will Be Pushed Differently for Golden Globes Than Other Awards (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 528
 Published: 2026-11-17T23:29:52+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/wicker-alexander-skarsgard-awards-categories-1236757905
@@ -119,13 +253,13 @@ Skarsgard, who won a Golden Globe for Big Little Lies in 2018 and was nominated 
 Wicker , based on the short story The Wicker Husband by Ursula Wills, was adapted for the screen and directed by Alex Huston Fischer and Eleanor Wilson. Its strongest award prospects are probably in the best makeup and hairstyling and best visual effects Oscar races.
 
 ============================================================
-[6] 'Grand Theft Auto VI' Speeds Away With Eight Game Awards Nominations For 2026
+[10] 'Grand Theft Auto VI' Speeds Away With Eight Game Awards Nominations For 2026
 Source: Deadline | Status: expanded | Words: 1257
 Published: 2026-11-17T23:28:21+00:00
 URL: https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159
 ------------------------------------------------------------
 SUMMARY:
-Grand Theft Auto VI has already racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory, as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year. The other Game […]
+Grand Theft Auto VI already has racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year. The other Game […]
 
 CONTENT / EXTRACTED DETAILS:
 Grand Theft Auto VI has already racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory, as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year.
@@ -201,7 +335,7 @@ The Game Awards is executive produced by Geoff Keighley and Kimmie Kim. Richard 
 This year's show will stream for free across more than 40 digital video platforms including Disney+, Live TV on PS5, Prime Video, Roblox, Steam, TikTok Live, Twitch, X and YouTube. It will air live from the Peacock Theater in Los Angeles on Thursday, December 10, 2026.
 
 ============================================================
-[7] New Remain Trailer Reveals a Different Kind of Ghost Story From The Sixth Sense Director - WATCH
+[11] New Remain Trailer Reveals a Different Kind of Ghost Story From The Sixth Sense Director - WATCH
 Source: ComicBook.com | Status: expanded | Words: 538
 Published: 2026-11-17T23:28:04+00:00
 URL: https://comicbook.com/movies/news/new-remain-trailer-reveals-a-different-kind-of-ghost-story-from-the-sixth-sense-director-watch
@@ -225,7 +359,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Thom Velde Dies: Longtime Head Film Buyer For AMC Theatres Was 83
+[12] Thom Velde Dies: Longtime Head Film Buyer For AMC Theatres Was 83
 Source: Deadline | Status: expanded | Words: 303
 Published: 2026-11-17T23:26:32+00:00
 URL: https://deadline.com/2026/11/thom-velde-dead-amc-theatres-head-film-buyer-1237227193
@@ -249,13 +383,13 @@ He is survived by his wife, Deborah; daughters Andrea Ter-Velde (John McLoughlin
 A celebration of life is set for 3 p.m. December 8 at Woodland Hills Community Church, with a reception to follow there. Velde's family said donations in his memory may be made to to the Will Rogers Motion Picture Pioneers Foundation or the Motion Picture & Television Fund .
 
 ============================================================
-[9] Skydance Cable Shake-Up: Betsy Sanner Ayala, Jason Sarlanis, Tina Perry &#038; Michael Ouweleen To Oversee Programming, Howard Lee Exiting
+[13] Skydance Cable Shakeup: Betsy Sanner Ayala, Jason Sarlanis, Tina Perry &#038; Michael Ouweleen To Oversee Programming; Howard Lee Exiting
 Source: Deadline | Status: expanded | Words: 620
 Published: 2026-11-17T23:25:00+00:00
 URL: https://deadline.com/2026/11/skydance-global-cable-media-restructure-1237227161
 ------------------------------------------------------------
 SUMMARY:
-EXCLUSIVE: Skydance has restructured its cable network division and named four executives to oversee programming, weeks after bringing together Warner Bros. Discovery and Paramount. The company has formed Skydance Global Cable Media, which will include brands such as Adult Swim, BET, Comedy Central, Discovery, Food Network, HGTV, ID, MTV, TLC, and Nickelodeon. This comes after […]
+EXCLUSIVE: Skydance has restructured its cable network division and named four executives to oversee programming, weeks after bringing together Warner Bros Discovery and Paramount. The company has formed Skydance Global Cable Media, which will include brands such as Adult Swim, BET, Comedy Central, Discovery, Food Network, HGTV, ID, MTV, TLC and Nickelodeon. This comes after […]
 
 CONTENT / EXTRACTED DETAILS:
 EXCLUSIVE : Skydance has restructured its cable network division and named four executives to oversee programming, weeks after bringing together Warner Bros. Discovery and Paramount.
@@ -285,7 +419,7 @@ As part of the restructure Howard Lee, who was previously Chief Creative Officer
 Dungey just informed staffers of the news in a memo, seen by Deadline. "The breadth and quality of programming this team delivers is truly unmatched, from Adult Swim's Rick & Morty to TLC's 90 Day Fianc&#xE9; franchise, from Discovery's Puppy Bowl and Shark Week to The Soul Train Awards on BET and The VMAs on MTV, our brands are bigger than television. They are part of our audiences' daily lives in meaningful and unique ways, and I look forward to stewarding their legacies into the future alongside you," she wrote (see full memo below).
 
 ============================================================
-[10] The Rings of Power Fans May Not Like the Dynamic Between These Characters, But It Makes Perfect Sense
+[14] The Rings of Power Fans May Not Like the Dynamic Between These Characters, But It Makes Perfect Sense
 Source: ComicBook.com | Status: expanded | Words: 1290
 Published: 2026-11-17T23:22:00+00:00
 URL: https://comicbook.com/tv-shows/feature/the-rings-of-power-fans-may-not-like-the-dynamic-between-these-characters-but-it-makes-perfect-sense
@@ -325,7 +459,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] Terri J. Vaughn Signs With Zero Gravity Management
+[15] Terri J. Vaughn Signs With Zero Gravity Management
 Source: Deadline | Status: expanded | Words: 395
 Published: 2026-11-17T23:21:18+00:00
 URL: https://deadline.com/2026/11/terri-j-vaughn-zero-gravity-management-1237226966
@@ -349,7 +483,7 @@ Behind the camera, Vaughn has spent years building her production company, TJV E
 Vaughn will continue to be repped by Lily-Black Entertainment and Strategic Public Relations.
 
 ============================================================
-[12] 5 Great Iron Man Armors That Nobody Talks About
+[16] 5 Great Iron Man Armors That Nobody Talks About
 Source: ComicBook.com | Status: expanded | Words: 867
 Published: 2026-11-17T23:16:21+00:00
 URL: https://comicbook.com/comics/list/5-great-iron-man-armors-that-nobody-talks-about
@@ -377,7 +511,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor
+[17] Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor
 Source: Variety | Status: expanded | Words: 791
 Published: 2026-11-17T23:15:57+00:00
 URL: https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245
@@ -413,13 +547,13 @@ Netflix hasn't taken a film to Cannes since 2017, when it premiered both Bong Jo
 The streamer has, however, softened its stance on theatrical releases considerably. "La Bola Negra" is in the middle of a 46-day theatrical rollout, the longest Netflix has given any of its films to date. Next year, "Narnia: The Magician's Nephew" will have an exclusive theatrical run, as will Taika Waititi's animated take on Roald Dahl, "Charlie vs. the Chocolate Factory."
 
 ============================================================
-[14] Jeff Daniels Set For Ramy Youssef's 'Martha &#038; Muhammad' At A24
+[18] Jeff Daniels Set For Ramy Youssef's 'Martha &#038; Muhammad' At A24
 Source: Deadline | Status: expanded | Words: 257
 Published: 2026-11-17T23:10:00+00:00
 URL: https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139
 ------------------------------------------------------------
 SUMMARY:
-EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef's A24 feature comedy Martha &#38; Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Youssef's feature directorial debut. Daniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in 2013, and […]
+EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef's A24 feature comedy Martha &#38; Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Ramy alum Youssef's feature directorial debut. Daniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in […]
 
 CONTENT / EXTRACTED DETAILS:
 EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef &#8216;s A24 feature comedy Martha & Muhammad alongside previously announced Amanda Seyfried and Sharon Stone.
@@ -433,7 +567,7 @@ Daniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in 2013 , and 
 Daniels is represented by LBI, Martino Management, and Yorn Levine.
 
 ============================================================
-[15] Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as James Bond and Admits Initial Fears 'Because He's Already So Famous'
+[19] Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as James Bond and Admits Initial Fears 'Because He's Already So Famous'
 Source: Variety | Status: expanded | Words: 534
 Published: 2026-11-17T23:03:42+00:00
 URL: https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970
@@ -457,7 +591,7 @@ While Bezos never mentioned by name, industry analysts seemingly had a handle on
 Amazon finalized its deal for MGM, the studio behind James Bond, in 2022. However, they didn't have creative control of the franchise until they bought out longtime Bond producers Michael G. Wilson and Barbara Broccoli for $20 million. Denis Villeneuve and Pattinson's film will be the first released after the deal.
 
 ============================================================
-[16] Thom Velde, Longtime AMC Theatres Executive, Dies at 83
+[20] Thom Velde, Longtime AMC Theatres Executive, Dies at 83
 Source: The Hollywood Reporter | Status: expanded | Words: 307
 Published: 2026-11-17T23:03:14+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/thom-velde-dead-amc-theatres-executive-1236757931
@@ -483,7 +617,7 @@ Donations in his memory may be made to the Will Rogers Motion Picture Pioneers F
 "Thom was an avid golfer and a devoted college football fan," they continued. "Above all, he loved his family and friends, who will remember his strength of character, his generosity and the way he made time for the people in his life. He was always willing to lend a hand and had a special gift for keeping friendships alive over the years."
 
 ============================================================
-[17] IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees
+[21] IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees
 Source: The Hollywood Reporter | Status: expanded | Words: 1343
 Published: 2026-11-17T23:02:25+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-ida-documentary-awards-nominations-nominees-list-1236757888
@@ -639,7 +773,7 @@ Overlooked : A Silent Extinction United Kingdom | National Film and Television S
 Renacimiento Guatemala, Chile | Universidad de Chile Directors: Karel Barra & Ana Turbay | Producer: Ana Turbay
 
 ============================================================
-[18] Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
+[22] Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
 Source: The Hollywood Reporter | Status: expanded | Words: 341
 Published: 2026-11-17T22:57:03+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909
@@ -667,7 +801,7 @@ The irony is not lost on people that the Bond franchise is filled with tech tyco
 Now James Bond is firmly controlled by one of the world's richest man, and a mogul whose empire spans tech, media, entertainment and even rockets into space. And this time he was the one helping to call the shots.
 
 ============================================================
-[19] Trae Crowder Sets Comedy Interview Series 'Help Me Out Here' With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest
+[23] Trae Crowder Sets Comedy Interview Series 'Help Me Out Here' With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest
 Source: Deadline | Status: expanded | Words: 588
 Published: 2026-11-17T22:49:49+00:00
 URL: https://deadline.com/2026/11/trae-crowder-sets-help-me-out-here-series-atc-1237227172
@@ -691,7 +825,7 @@ A nationally touring comedian, writer, best-selling author and political comment
 All Things Comedy's podcast network is home to dozens of shows, including Monday Morning Podcast with Bill Burr, The Dollop with Dave Anthony and Gareth Reynolds, TigerBelly with Bobby Lee and Khalyla Kuhn, and Rick Glassman's Take Your Shoes Off . Outside of podcasting, they recently produced the upcoming feature comedy Golf Trip with Live Nation and HartBeat, as well as Marie Faustin's Why Are You Single? for Tubi and The Bad Game Show with Andrew Santino & Bobby Lee.
 
 ============================================================
-[20] 5 Sentinels That Could Destroy the MCU's X-Men Before They Get Started
+[24] 5 Sentinels That Could Destroy the MCU's X-Men Before They Get Started
 Source: ComicBook.com | Status: expanded | Words: 952
 Published: 2026-11-17T22:46:00+00:00
 URL: https://comicbook.com/comics/list/5-sentinels-that-could-destroy-the-mcus-x-men-before-they-get-started
@@ -729,7 +863,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team
+[25] Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team
 Source: Deadline | Status: expanded | Words: 761
 Published: 2026-11-17T22:45:00+00:00
 URL: https://deadline.com/2026/11/matt-shakman-launches-foolscap-production-banner-1237227137
@@ -757,7 +891,7 @@ VP Dillon has worked across high-profile projects for Disney, Netflix, Marvel an
 VP Gutman began her career at 20th Century Fox Television and ABC Signature Studios before transitioning to producing with James Frey. During her time alongside Frey, she worked on projects including the series Relationship Status (Verizon Go90), American Gothic (CBS) and The Kicks (Amazon) and the feature film Queen & Slim . She then produced Rebel and Hulu's Good American Family with Stearn through his deal at ABC. Currently, she's in prep on Season 2.
 
 ============================================================
-[22] ‘Dancing With the Stars’: All 34 Winners
+[26] ‘Dancing With the Stars’: All 34 Winners
 Source: The Hollywood Reporter | Status: expanded | Words: 1911
 Published: 2026-11-17T22:44:43+00:00
 URL: https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list
@@ -853,7 +987,7 @@ Robert Irwin and Witney Carson won the coveted mirrorball of DWTS &#8216; 2025 i
 The winner of Dancing With the Stars season 35 is soon-to-be-announced when the finale airs on Nov. 24. With the semi-final round of competition about to kick off, the champion will be one of the following celebrities still in the running: Tatyana Ali , Ezra Frech , Amber Glenn , Maura Higgins, Harry Shum Jr. or Connor Wood .
 
 ============================================================
-[23] Jennifer Lawrence's 'Hunger Games' Premiere Look Proves the Boudoir Coat Is Back: Here's Where to Shop Similar Styles Online
+[27] Jennifer Lawrence's 'Hunger Games' Premiere Look Proves the Boudoir Coat Is Back: Here's Where to Shop Similar Styles Online
 Source: Variety | Status: expanded | Words: 315
 Published: 2026-11-17T22:43:29+00:00
 URL: https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905
@@ -875,7 +1009,7 @@ While Lawrence's Dior creation and Ives' silk robes carry luxury price tags, sho
 Shop a few styles similar to Lawrence's Dior ensemble &#x2014; at a variety of price points &#x2014; below:
 
 ============================================================
-[24] CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That's Not Safe
+[28] CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That's Not Safe
 Source: Variety | Status: expanded | Words: 2088
 Published: 2026-11-17T22:41:27+00:00
 URL: https://variety.com/2026/music/news/cma-awards-predictions-2026-nominees-ella-langley-1236950822
@@ -969,7 +1103,7 @@ Will win: Tucker Wetmore Could win: Stephen Wilson Jr.
 Wetmore is the only one here with No. 1 hits, which ought to be enough to push him across the line as voters face the inevitable question of how they think their choice will hold up 10 or 15 years from now. He'd be a worthy winner, but so would any of the others, most of all the critically beloved Faith and Wilson. Faith just picked up a key Grammy nomination&#8230; which of course means little in this context, but just saying&#8230; she's interesting and she's a keeper. So is Wilson, who has a much larger profile at present, including a lot of left-over love from how he killed it on last year's telecast, twice. Wetmore is the horse to bet on, but this might be closer to a photo finish than most would suspect.
 
 ============================================================
-[25] Leading Cyber Expert: “We Are Entering the Flickers”
+[29] Leading Cyber Expert: “We Are Entering the Flickers”
 Source: The Hollywood Reporter | Status: expanded | Words: 1288
 Published: 2026-11-17T22:36:17+00:00
 URL: https://www.hollywoodreporter.com/business/digital/hack-cybersecurity-outages-flights-what-should-i-do-1236757846
@@ -981,7 +1115,7 @@ CONTENT / EXTRACTED DETAILS:
 One hallmark of living in late-stage 2026 is the possibility that we'll wake up and the news site we visit is down, or trying to steal our money. If we muster the courage to get out of bed, we shouldn't expect to talk to anyone or go anywhere, as chances are that Outlook is offline or the FAA has grounded flights . Perhaps a bleak portrait, but one that has been painted in the past week with a host of cyber-security fails &#x2014; &#8220;an advent calendar of societal collapse,&#8221; as Jon Stewart put it on The Daily Show Monday night. A slew of those fails have affected the media and entertainment worlds already, with CNN part of said crypto-swipe Tuesday morning and plenty of executives and workers stuck on the ground Friday. So far cyber experts don't believe anything coordinated is happening here, even if some cable-news figures aren't so sure . But even without a single unifying bad actor, the picture is bleak. Fading infrastructure combined with new AI tools that can easily exploit it can only spell trouble. For an industry still scarred by the 2014 Sony hack and all it exposed, the news hits hard. And Hollywood conducts a lot more business digitally these days than it did then, from all the Fandango ticket-ordering to the Spotify-streaming to the Disney+-subscribing. Cyber attacks and a faulty Internet hold the possibility of a major industry disruption. So how worried should the business &#x2014; and we as individuals &#x2014; actually be? For that we called Brett J. Goldstein. Goldstein (no relation to the Richmond barker, oi) holds an esteemed perch in American cyber defense, having occupied the role of director of the Defense Digital Service in the DoD under late-era Trump I and early Biden. He's also a former Chief Information Officer for the city of Chicago and currently holds a professorship at Vanderbilt University in Nashville, where he runs a lab examining such threats. We caught up with him by Signal Tuesday. For anyone looking at all the failures and groundings in the past week, it can be hard not to connect the dots. Do you see them as related in any way or the result of one actor? I don't know that there's reason to believe its coordinated but it's certainly a scary sequence of events which is very troubling. The loss of email or problems with Chase or groundings at United &#x2014; just because it's not coordinated doesn't mean it's not a cumulative problem. What are the roots of that problem in your view? What we are seeing is an under-investment in our infrastructure that is coming home to roost. You used to be able to hide &#x2014; it used to take a determined researcher to find a security weakness. But now thanks to AI we can't really hide. AI can find a needle in a haystack as never before. And so we have weaknesses as never before. Just look at PHP (a failure in Internet code baked-in during the 1990s that has been unearthed by AI). So we have to start fixing all of it, and we can't put it off even one day. It feels like we have spent decades eating poorly and now, facing a potential heart attack, we're trying to avoid it with a crash diet. Is this possible to fix quickly? I don't know that it's impossible but it's certainly true we have a lot of sins to pay for. We need to pay our tech debt. There really are only two scenarios: the next few years will be either bumpy or really freaking bad. Everyone needs to change the way they're thinking to make sure it's the first one. So a best-case scenario is bumpiness. What does that look like? I think we are entering a period of the flickers and I think this past week has really demonstrated that. My sense is this is the beginning. You wrote in a Washington Pos t op-ed last week about those flickers. &#8220;For you, it looks like this. Your bank's app is down. The pharmacy cannot pull up your prescription. Your paycheck is late &#x2014; not stolen, just late because the payroll company unplugged its system to be safe. None of it is a catastrophe on its own. All of it, every week, is a different country from the one we live in now." That is what will happen and all we can do is start fixing things across various sectors to shorten the period it happens. And [AI] frontier labs need to be a part of the solution too. If we bring quality [solutions] and stability we can make it less bumpy. But I don't think we can avoid that we are entering the flickers. So we just need to start updating our systems. What does that mean for individuals? This feels like good advice if you run an IT department but what about as consumers? Signal over text, obviously. But what about everything else? Is clicking on CNN actually bad? Is my credit card exposed just because it's on file at Hulu? Should we all just be moving to clay tablets? I would just say do all the things you're supposed to do and don't put it off. If a Chrome update button pops up for the love of Job click the freaking button. If there's a patch, install it. Two-factor authentication and strong passwords and passkeys of course. If there's something more complicated in your life consult a cyber expert. You need to do all of the steps, not some of the steps, not most of the steps. Noting is foolproof but there are ways to protect yourself more. Many people in the entertainment industry are especially worried because they still feel the aftereffects of the Sony hack. I talked to someone recently who was exposed and the way they spoke can only be described as a kind of PTSD. How likely is something on that scale happening again? I think there's a lot of variance in the media sector just like there is in all sectors. Some companies and some individuals are reasonably protected and vigilant. And then with others it's like &#8220;Oh my God, you're so high profile and you're not taking care of business." But if the question is it more likely or less likely, of course it's more likely. A few years ago when you thought about [a hack] it needed to be an adversary with a lot of tenacity and effort. Now AI-enabled scenarios make it so someone with no scruples can, without much effort, look at 100 things at once. The business side of Hollywood seems at risk as well. Streaming services rely on smooth digital interactions to conduct business; even a few seconds is critical, never mind compromised data or a daylong outage. How vulnerable are all those platforms? This is super-impactful for commerce. My core point if you're in a position to do something at an organization is to set priorities. Yes you can do all the fancy front-facing AI stuff you're doing but if you're not doing the other stuff &#x2014; if you're not making sure the underlying platform is fundamentally sound and sustainable &#x2014; none of that matters. OK, I've been putting it off. You've gotten into the bumpy scenario. What's the really freaking bad one? Well, I'll just say your whole day is tied to a system, and what happens if that system starts to unravel? If you can't trust it? If it's not just about a grounded flight which forces you to drive but everything else? But again, it's an inflection point for us as a society. It's not too late. We do have a choice.
 
 ============================================================
-[26] ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity
+[30] ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-17T22:35:53+00:00
 URL: https://theplaylist.net/threeasfour-full-circle-review-sean-ono-lennon-20261117
@@ -993,7 +1127,7 @@ CONTENT / EXTRACTED DETAILS:
 What happens when extraordinary talent, boundless imagination, and an uncompromising artistic vision aren’t enough to survive? That’s the bittersweet question at the heart of “threeASFOUR: Full Circle,” a sympathetic, surprisingly poignant documentary from Sean Ono Lennon about three avant-garde fashion designers whose greatest strengths may also be their greatest vulnerabilities. For more than 25 years, the collective has pushed the boundaries of fashion, earning museum exhibitions, prestigious awards, and celebrity admirers. Continue reading ‘threeASFOUR: Full Circle’ Review: Sean Ono Lennon’s Bittersweet Portrait Of Fashion, Idealism &#038; The Cost Of Creativity at The Playlist.
 
 ============================================================
-[27] 'Much Ado About Nothing' With Tom Hiddleston &#038; Hayley Atwell Takes Hefty $2.4M; Billy Crystal's '860' Breaks House Record - Broadway Box Office
+[31] 'Much Ado About Nothing' With Tom Hiddleston &#038; Hayley Atwell Takes Hefty $2.4M; Billy Crystal's '860' Breaks House Record - Broadway Box Office
 Source: Deadline | Status: expanded | Words: 664
 Published: 2026-11-17T22:33:50+00:00
 URL: https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593
@@ -1031,7 +1165,7 @@ In the 25th week of the 2026-27 season, Broadway has grossed $803,067,274 season
 All figures courtesy of The Broadway League. For more box office information visit the League's web .
 
 ============================================================
-[28] I’ve Been Wondering About The Penguin Season 2 Amid DC Shakeups, So What’s Happening?
+[32] I’ve Been Wondering About The Penguin Season 2 Amid DC Shakeups, So What’s Happening?
 Source: CinemaBlend | Status: expanded | Words: 201
 Published: 2026-11-17T22:31:00+00:00
 URL: https://www.cinemablend.com/television/ive-been-wondering-the-penguin-season-2-dc-shakeups-whats-happening
@@ -1047,7 +1181,7 @@ The idea of Lauren LeFranc producing a Poison Ivy TV series is a thrilling one, 
 Sofia was one of the main protagonists of The Penguin, and the actress' performance was incredible and earned her an Emmy Award. Unfortunately, Milioti won't be part of The Batman: Part II , despite her popularity among fans. What's more, Colin Farrell claimed he's only in two scenes of the forthcoming sequel. So why not put Cobblepot and Falcone center stage for a second installment of the acclaimed HBO series?
 
 ============================================================
-[29] Here's How to Play GTA 6 Early Ahead of Its Official Release Date and Unlock Time
+[33] Here's How to Play GTA 6 Early Ahead of Its Official Release Date and Unlock Time
 Source: ComicBook.com | Status: expanded | Words: 495
 Published: 2026-11-17T22:30:00+00:00
 URL: https://comicbook.com/gaming/news/gta-6-release-early-timezone-trick-new-zealand
@@ -1071,7 +1205,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Shutters Opens Doors to Annual Membership Club
+[34] Shutters Opens Doors to Annual Membership Club
 Source: The Hollywood Reporter | Status: expanded | Words: 314
 Published: 2026-11-17T22:27:59+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/shutters-on-the-beach-santa-monica-annual-membership-club-1236757829
@@ -1091,7 +1225,7 @@ Per the hotel, the exclusive offer &#8220;represents the ultimate level of exper
 Just like the hotel, reservations are required : The membership offering is limited to 20 spots per year with guest and family passes available as add-ons. See below for views inside the property and its Shutters Reserve amenities.
 
 ============================================================
-[31] Anne Hathaway Welcomes Third Child With Husband Adam Shulman
+[35] Anne Hathaway Welcomes Third Child With Husband Adam Shulman
 Source: The Hollywood Reporter | Status: expanded | Words: 404
 Published: 2026-11-17T22:22:26+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/anne-hathaway-welcomes-third-child-1236730455
@@ -1119,7 +1253,7 @@ Once her final film of the year, Verity , was released in October, Hathaway quip
 &#8220;There's been more than enough of me for quite some time,&#8221; she previously said on CBS Mornings . &#8220;And I've been really, really happy, but I think it's time to leave the party.&#8221;
 
 ============================================================
-[32] Marvel Started Planning for Robert Downey Jr.'s Doctor Doom Before Jonathan Majors Was Fired and 'Avengers: The Kang Dynasty' Fell Apart, Says Kevin Feige
+[36] Marvel Started Planning for Robert Downey Jr.'s Doctor Doom Before Jonathan Majors Was Fired and 'Avengers: The Kang Dynasty' Fell Apart, Says Kevin Feige
 Source: Variety | Status: expanded | Words: 506
 Published: 2026-11-17T22:20:09+00:00
 URL: https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563
@@ -1143,7 +1277,7 @@ According to Feige, Marvel first got in touch with Robert Downey Jr's agent (tel
 &#8220;Avengers: Doomsday&#8221; opens in theaters Dec. 18.
 
 ============================================================
-[33] The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson
+[37] The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson
 Source: Variety | Status: expanded | Words: 2092
 Published: 2026-11-17T22:15:00+00:00
 URL: https://variety.com/lists/robert-pattinson-james-bond-villains-actors-picks
@@ -1233,7 +1367,7 @@ In “I'm Still Here,” Fernanda Torres played Eunice Paiva, a woman standing u
 Imagine Torres as the power behind the throne: a Rio de Janeiro media baroness who smiles for the cameras while quietly buying off half the government?
 
 ============================================================
-[34] Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+[38] Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
 Source: The Hollywood Reporter | Status: expanded | Words: 810
 Published: 2026-11-17T22:10:41+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786
@@ -1275,7 +1409,7 @@ Matt Damon paid tribute to Morton, who was unable to attend due to illness. In p
 It was a sentiment that echoed Coon's earlier call for women to turn the night's celebration into something more lasting. &#8220;Nights like these shouldn't be one-off nights where we celebrate,&#8221; Coon said. &#8220;They should be the beginning of those conversations.&#8221;
 
 ============================================================
-[35] Wait, The Actual Contestants On The Mob Weren't Told The Rules?
+[39] Wait, The Actual Contestants On The Mob Weren't Told The Rules?
 Source: CinemaBlend | Status: expanded | Words: 251
 Published: 2026-11-17T22:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/actual-contestants-on-the-mob-werent-told-rules-willam-belli
@@ -1291,7 +1425,7 @@ Well, my mind is blown. It was hard enough to nail down the rules and format of 
 Willam might be the only contestant from RuPaul's Drag Race to get disqualified, but that doesn't mean she went against the rules in every situation. After all, The Mob cast were starting a brand new competition series, and didn't have any previous episodes to use as a reference. The folks who caught on seemed to make it the farthest, but it was curtains for other favorites like Willam, Bruno, and Debi Mazar.
 
 ============================================================
-[36] ‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score
+[40] ‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score
 Source: Variety | Status: expanded | Words: 110
 Published: 2026-11-17T22:00:06+00:00
 URL: https://variety.com/2026/film/awards/ida-documentary-awards-2026-nominations-full-list-1236950889
@@ -1305,7 +1439,7 @@ This year's nominees include " You Can See Everything ," " To Hold a Mountain " 
 The 42nd annual IDA Documentary Awards will also present the following honors: Related Stories 'The Hunger Games: Sunrise on the Reaping' First Reactions Call Prequel the 'Rogue One' of the Franchise and Praise Joseph Zada as Haymitch Jennifer Lawrence Says Playing Katniss Again After 11 Years in 'Hunger Games: Sunrise on the Reaping' Was 'Crazy,' 'Unbelievable' and 'So Beautiful'
 
 ============================================================
-[37] 2 of the Greatest Stealth Games Ever Released 20+ Years Ago and Completely Reshaped the Genre
+[41] 2 of the Greatest Stealth Games Ever Released 20+ Years Ago and Completely Reshaped the Genre
 Source: ComicBook.com | Status: expanded | Words: 843
 Published: 2026-11-17T22:00:00+00:00
 URL: https://comicbook.com/gaming/feature/2-of-the-greatest-stealth-games-ever-released-20-years-ago-and-completely-reshaped-the-genre
@@ -1337,7 +1471,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Broadway Box Office: 'Inter Alia,' Starring Rosamund Pike, Starts Strong, '860' Breaks Play House Record
+[42] Broadway Box Office: 'Inter Alia,' Starring Rosamund Pike, Starts Strong, '860' Breaks Play House Record
 Source: The Hollywood Reporter | Status: expanded | Words: 279
 Published: 2026-11-17T21:52:19+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-inter-alia-rosamund-pike-860-record-1236757799
@@ -1359,7 +1493,7 @@ Blue Man Group, which is hitting Broadway for the first time, had a rough start,
 Here There Are Blueberries opened to positive reviews Nov. 9, and brought in $834,112 across opening week, which included the comped opening night. The show played to 99 percent capacity.
 
 ============================================================
-[39] Classic Xbox 360 Game From 2010 Revealed to Be Getting a New Remaster
+[43] Classic Xbox 360 Game From 2010 Revealed to Be Getting a New Remaster
 Source: ComicBook.com | Status: expanded | Words: 416
 Published: 2026-11-17T21:45:00+00:00
 URL: https://comicbook.com/gaming/news/xbox-360-games-remaster-2010-new-super-meat-boy
@@ -1383,7 +1517,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of 'Hunger Games' Actors At 'Sunrise On The Reaping' Premiere
+[44] Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of 'Hunger Games' Actors At 'Sunrise On The Reaping' Premiere
 Source: Deadline | Status: expanded | Words: 714
 Published: 2026-11-17T21:44:22+00:00
 URL: https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905
@@ -1421,7 +1555,7 @@ In part, he said in opening remarks, "because I had the privilege of reading ano
 Nina Jacobson and Francis Lawrence at The Hunger Games: Sunrise On The Reaping premiere
 
 ============================================================
-[41] 'The Traitors' Season 5 Sets Release Date as First Trailer Highlights "Chorus of Chaos" to Come
+[45] 'The Traitors' Season 5 Sets Release Date as First Trailer Highlights "Chorus of Chaos" to Come
 Source: The Hollywood Reporter | Status: expanded | Words: 458
 Published: 2026-11-17T21:35:04+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/the-traitors-season-5-trailer-release-date-1236757779
@@ -1443,7 +1577,7 @@ The season five cast of The Traitors will feature Chenoweth; Leavitt; RuPaul's D
 Season four of The Traitors dominated at the 2025 Emmys, winning in the reality competition program category for the third year in a row. The show took home all seven awards it was nominated for, with Alan Cumming winning his third consecutive Emmy for best reality host, also marking the second year in a row that The Traitors won all of the Emmys it was nominated for.
 
 ============================================================
-[42] Jane Lynch Is Ready to Reprise Her Role as Sue Sylvester in the 'Glee' Reboot
+[46] Jane Lynch Is Ready to Reprise Her Role as Sue Sylvester in the 'Glee' Reboot
 Source: The Hollywood Reporter | Status: expanded | Words: 758
 Published: 2026-11-17T21:32:44+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/jane-lynch-would-return-glee-revival-1236757757
@@ -1489,7 +1623,7 @@ More recently, though, Colfer said that he'd had a "nice conversation with someo
 He even suggested some potential storylines for his character: "I would love to see him like a Miranda Priestly-type, running his own fashion blog or a magazine. I could also see him on tour with Chappell Roan, styling her. There's a lot of fun avenues they could explore."
 
 ============================================================
-[43] How Patrick Stewart Felt After His Fight With James Corden At The Glamour Awards
+[47] How Patrick Stewart Felt After His Fight With James Corden At The Glamour Awards
 Source: CinemaBlend | Status: expanded | Words: 265
 Published: 2026-11-17T21:31:00+00:00
 URL: https://www.cinemablend.com/television/how-patrick-stewart-felt-after-fight-james-corden-glamour-awards
@@ -1509,7 +1643,7 @@ The resurfaced viral video was the most I've seen of James Corden since he retir
 It's important to know the context of how both sides felt after the fact, because unfortunately, I think people unfairly pushed a narrative about the interaction that wasn't true. The implication was that Patrick Stewart hated James Corden, who has been a polarizing figure since stepping into the limelight.
 
 ============================================================
-[44] Charlie Heaton &#038; Al Pacino Romantic Fantasy Drama 'Billy Knight' Acquired By Magenta Edge Films
+[48] Charlie Heaton &#038; Al Pacino Romantic Fantasy Drama 'Billy Knight' Acquired By Magenta Edge Films
 Source: Deadline | Status: expanded | Words: 578
 Published: 2026-11-17T21:26:25+00:00
 URL: https://deadline.com/2026/11/charlie-heaton-al-pacino-billy-knight-1237227001
@@ -1535,7 +1669,7 @@ The feature was produced by Prominent Productions, Firebrand Media Group, and RN
 The distribution deal for Billy Knight was negotiated by C.J. Vranca and Bill Vergos on behalf of Magenta Edge Films, and Josh Clayton on behalf of Elias Film productions. Roth is represented by Keyun &#x2018;Country' Parker of Parker's Communication and Entertainment Services.
 
 ============================================================
-[45] NBC Celebrates 100th Anniversary With Amy Poehler, Jimmy Fallon and More Stars at Rainbow Room Soirée
+[49] NBC Celebrates 100th Anniversary With Amy Poehler, Jimmy Fallon and More Stars at Rainbow Room Soirée
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-17T21:25:18+00:00
 URL: https://variety.com/2026/tv/news/nbc-100th-anniversary-party-1236950781
@@ -1559,7 +1693,7 @@ Raising a glass to the network's history, Cavanagh said in a toast: "NBC has pla
 The cocktail party is one of many celebrations honoring NBC's 100th anniversary. A primetime special will air live on NBC on Dec. 10, uniting legendary casts, talent and performers for musical performances, comedic tributes, and surprise reunions.
 
 ============================================================
-[46] Harry Potter May Be Headed to the Small Screen For Christmas But Time Is Running Out to Stream the Movies
+[50] Harry Potter May Be Headed to the Small Screen For Christmas But Time Is Running Out to Stream the Movies
 Source: ComicBook.com | Status: expanded | Words: 541
 Published: 2026-11-17T21:21:14+00:00
 URL: https://comicbook.com/movies/news/harry-potter-may-be-headed-to-the-small-screen-for-christmas-but-time-is-running-out-to-stream-the-movies
@@ -1577,196 +1711,6 @@ But while it is very much going to be a wait and see situation for the televisio
 For now, fans who love the original films can stream them on Peacock before they leave on December 1st.
 
 Will you be checking out HBO’s Harry Potter or are you a ride or die for the original films? Let us know in the comments.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[47] Recasting The Original Back to the Future for 2026
-Source: ComicBook.com | Status: expanded | Words: 1123
-Published: 2026-11-17T21:20:00+00:00
-URL: https://comicbook.com/movies/list/recasting-the-original-back-to-the-future-for-2026
-------------------------------------------------------------
-SUMMARY:
-Recasting the classic sci-fi movie Back to the Future isn't an easy task. For my money, the original cast would be impossible to top. Michael J. Fox and Christopher Lloyd made Marty McFly and Doc Brown so iconic that nobody else could possibly take those parts. But Hollywood has always had a thing for reviving […]
-
-CONTENT / EXTRACTED DETAILS:
-Of course, that's not to say I want the actors to merely mimic the performances that came before them &#8211; no way! I want the actors to get what made these characters so fun in the first place, then make it their own. Some selections might be a no-brainer, others might be a little curious, but if I was assembling a cast for a new take on one of the most fun adventure movies of all time, these are the actors I'd seriously consider.
-
-Lorraine is looking for someone with that girl-next-door charm. Attractive and easy-going, Lorraine never feels like she's a diva who obsesses about her appearance. She also has an innocent quality, though, which requires the actress to bring more emotional depth to her character on occasion. That's why I'd cast Bailee Madison. She just has that natural screen warmth that she brought to her last several roles, which proved she can be an innocent in a way that doesn't feel weak or shallow.
-
-But I'd also want Lorraine to be so much more than just another pretty teenage girl. I'd want her to have a personality, some conviction, even if she doesn't always display it. The tension between her and George is so central to the story that I think we'd also need to see her more fragile side. I think Madison could do both. She has a real presence on screen that would make it possible to make Lorraine a real girl, not a perfect creation of moviemaking.
-
-George is just your everyday dorky, nerdy guy, shy and unsure of himself, generally not the kind of person you would expect to be a leader. This is why his character development is so satisfying. Seeing him finally grow some balls and stand up to Biff is one of the best moments in the classic film. My choice? Michael Cera. Easy. He's been cast as a nerd in just about every role he's ever played, and that sort of awkward but endearing disposition seems perfect for George.
-
-An alternative? Jon Heder. His role in Napoleon Dynamite showed that he's capable of playing a character whose oddness provides humor without feeling contrived. Any screen time Cera or Heder would provide would only add humor to the role without turning George into an outright joke. The challenge, then, is creating the shift between the empathetic beginning and the cheers at the end when George finally gets his voice. While I prefer Cera for his screen persona that's the closest to George, I think Heder could pull it off.
-
-Biff may prove the most difficult of this list to replace. Thomas F. Wilson brought so much charisma to the part, that it probably isn't worth trying to do Biff any justice. The actor had the body, the attitude and enough violence to make sure he was the perfect bad guy. In a current adaptation, Belmont Cameli would be at the top of my list. He was the bodybuilder/smart-mouth average boy in the Saved by the Bell series reboot, and this job would be a perfect fit for his personality.
-
-Jesse Plemons would be a less &#8220;expected&#8221; choice, but again, that's part of the fun here. Plemons is especially adept at playing roles that seem fine on the surface, yet hide depths of darkness. If you took Plemons' characteristics and the sort of creepy-and-calculating attitude that goes with them, and combined them with Biff's attitude, maybe you'd get an entirely unique bully that would nevertheless be as memorable as the one Thomas F. Wilson created. Cameli is likely the safer option, particularly if the film is determined to stay true to the source character. Still, I would be absolutely intrigued to see what Plemons could bring to the table.
-
-Doc Brown is where a reboot could become really exciting. He's one of the coolest, weirdest, most fun characters in movie history. With the crazy hair, the wide-eyed stare, the completely unpredictable speech pattern, Christopher Lloyd brought us a performance that's really hard to imitate. So picture Jim Carrey as the new Doc. Go watch him in the earlier part of his career, especially The Mask and Ace Ventura: Pet Detective. Jim's got all the crazy faces, goofy physical comedy, and incessant manic energy to portray a scientist that is kooky enough to put a time machine in his garage.
-
-But if anyone would be a clear favourite it's Carrey. Peter Capaldi could actually be a break from the norm, though. After his run as the Doctor, Capaldi showed that he has a real knack for bringing out the personality of an eccentric, without resorting to silly faces or pratfalls all the time. He could give Doc a slightly more refined quality, making him a genius who is, literally, a few steps ahead of everyone else. Carrey's probably got bigger laughs in him, but Capaldi's probably got a more surprising take.
-
-Marty McFly is that little piece of the puzzle that on the surface seems like it should be a simple casting choice. To get a new Marty in there all you have to do is find a well-known social media host or actor who has that awkward combo of funny and strange down pat, right? Michael J. Fox made that role his own. Who could hold a candle? Hollywood will no doubt consider Tom Holland. He's a familiar face that already has a career of playing precocious action hero types. But I think he's all right as a young Peter Parker. Uncharted proved that being a known name isn't necessarily an automatic good fit for a lead in a franchise movie.
-
-My choice would be Jack Griffo. He's got the sitcom type on The Thundermans and totally nails that easy family/adventure feel. On top of that, he seems like he's very much himself and a good fit. He's chill and charming with that genuine friendly quality and his own quirky streak. Reading his social media videos he comes off as a confident, outgoing guy, yet not cocky or mean. He would fit perfectly to bringing his own vibe to Marty without being so big of a movie star that the audience isn't sure who he is or jumping into the role of someone else. Basically, he's the right actor for the part and would allow those that deserve it a chance to be seen.
-
-Who do you think should play these characters in a reboot? Or, maybe Back to the Future could make for a sci-fi series ?
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[48] ‘3 Body Problem’ Sets Season 2 Release Date at Netflix (TV News Roundup)
-Source: Variety | Status: expanded | Words: 1614
-Published: 2026-11-17T21:17:35+00:00
-URL: https://variety.com/2026/tv/news/tv-news-roundup-week-of-nov-16-1236949183
-------------------------------------------------------------
-SUMMARY:
-Netflix’s sci-fi thriller “3 Body Problem” returns for Season 2 on Jan. 14. The series, based on the popular “Remembrance of Earth’s Past” book series by Chinese author Liu Cixin, explores complex questions about the nature of the universe, leading a group of scientists to partner with a detective to confront an existential planetary threat […]
-
-CONTENT / EXTRACTED DETAILS:
-Netflix's sci-fi thriller " 3 Body Problem " returns for Season 2 on Jan. 14.
-
-The series, based on the popular "Remembrance of Earth's Past" book series by Chinese author Liu Cixin, explores complex questions about the nature of the universe, leading a group of scientists to partner with a detective to confront an existential planetary threat in the wake of the Chinese Cultural Revolution in the 1960s. Related Stories Mckenna Grace Rejects 'Nudity or Hypersexual Things' in Acting Roles: 'My Dream Is to Be a Disney Princess Someday' Jennifer Lawrence Reunites With 'Hunger Games' Co-Star Josh Hutcherson at 'Sunrise on the Reaping' World Premiere
-
-In Season 2, "the alien invasion nears and humanity prepares to meet them &#x2014; on Earth and beyond. While a space fleet embarks on a mission that spans centuries, a secret locked inside of one man's mind might be humanity's only hope for survival." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-The trailer and teaser images give a first look at this season's otherworldly forces as the alien invasion nears. Some are devout San-Ti followers, like Tatiana (Marlo Kelly), and will stop at nothing to help the alien agenda.
-
-Returning alongside Kelly are Jovan Adepo as Saul Durand, Liam Cunningham as Thomas Wade, Eiza Gonz&#xE1;lez as Auggie Salazar, Jess Hong as Jin Cheng, Benedict Wong as Da Shi, Sea Shimooka as Sophon and Saamer Usmani as Raj Varma. New recruits also join the human forces in Season 2, with Claudia Doumit (&#8220;SOULM8TE,&#8221; &#8220;The Boys&#8221;) joining the cast as Captain Van Rijn and Ellie de Lange (&#8220;Run Away,&#8221; &#8220;Wolf Hall,&#8221; &#8220;The Serpent&#8221;) as Ayla.
-
-The series is created and executive produced by David Benioff and D.B. Weiss ("Game of Thrones") and Alexander Woo ("True Blood," "The Terror"). The first season was released in 2024.
-
-See first look images and watch the trailer below. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Masterpiece PBS has announced a new period crime drama "Fleet Street" from the creators of "Miss Scarlet," Rachael New and Ben Edwards.
-
-Set in 1901 London, the death of a local florist tied to the royals captures the attention of aspiring journalist Kitty Parker (Silvia Presente) and The Morning Herald reporter Samuel Wallace (Guy Remmers), giving the duo their first lead. A missing son, anonymous messages and a gruesome death send them on an investigation that could shape their careers or put them in imminent danger.
-
-Filming for the six-part first season will begin in December, and the series will launch in the U.K. on UKTV's free streaming service U and air on U&Drama. "Fleet Street" is co-produced by Mikey Productions Limited and Masterpiece. Executive producing are New, Edwards, Patricia Lenahan and Patrick Irwin for Mikey Productions Limited. Susanne Simpson is the executive producer for Masterpiece, and Claire Hookway and Karin Marelle are the executive producers for UKTV. Ivan &#x17D;ivkovi&#x107; serves as lead director.
-
-"My Next Guest Needs No Introduction with David Letterman" returns for its seventh season Dec. 15 on Netflix, with a new trailer available now.
-
-The forthcoming season of the Emmy Award-winning series features conversations with actors Matt Damon and Julia Roberts, late-night host Jimmy Kimmel and professional climber Alex Honnold. Previous guests include Barack Obama, Tina Fey, Julia Louis-Dreyfus, JAY-Z, Robert Downey Jr., Volodymyr Zelenskyy, Dave Chappelle, Michael B. Jordan, Miley Cyrus, Caitlin Clark, Billie Eilish and Adam Sandler.
-
-"My Next Guest Needs No Introduction with David Letterman" brings Letterman back to hosting, following his 33-year career in late night television. The series has received eight Emmy nominations in its six seasons and won for Outstanding Hosted Nonfiction Series or Special in 2024.
-
-The series is produced by Jax Media/Imagine Entertainment and Worldwide Pants, Inc. Executive producers are Tom Keaney and Mary Barclay for Worldwide Pants and Justin Wilkes, Michael Steed, Isabel Richardson and Yolanda T. Cochran for Jax Media/Imagine Entertainment. Producers are Tommy Alter, John Nemeth, Hunter Speese and Adam Donnelly for Jax Media/Imagine Entertainment. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Watch the trailer for "My Next Guest Needs No Introduction with David Letterman" Season 7 below.
-
-Michael Par&#xE9; ("Eddie and the Cruisers," "Streets of Fire") is making his vertical microseries debut in the vertTV thriller "The Squatter Hunter," which premieres Tuesday on the vertTV app.
-
-Par&#xE9; plays an ex-military operative hired off the books to help a grieving daughter (Chelsea Rose Cook) reclaim her childhood home from a hostile squatter (Shayne Davis) after police are unable to intervene in the civil dispute, escalating the standoff into a life-or-death showdown.
-
-Alongside Par&#xE9;, the series stars Savoy Bailey, Diane Robin and Demetris Owens and reunites "90210" stars Tori Spelling and Brian Austin Green. It is directed by David DeCoteau from a script by Adam Rockoff.
-
-Happy holidays from the Griffin family!
-
-The long-running animated sitcom "Family Guy" is celebrating with a Hulu exclusive holiday special which premieres on Nov. 30 on Hulu and Hulu on Disney+ for bundle subscribers in the U.S., and will exclusively stream internationally on Disney+ in most markets.
-
-The synopsis for the episode, titled "The Peter Cause," reads: "It's Christmas in Quahog, and Peter and the guys compete to become the town's official Santa. Peter loses, and he can either process his disappointment in a mature manner, or give fans a memorable episode of &#x2018;Family Guy.' Thankfully, he chooses option number two."
-
-Watch the trailer for the special below:
-
-Jessica Kent and Adam Horne will be promoted to partner at Schreck Rose Dapello Adams Berlin & Dunham LLP, an entertainment law firm with offices in New York and Beverly Hills, starting on Jan. 1.
-
-Kent began her legal career at Schreck Rose as an intern in 2015 before joining the firm after law school in 2016. Over her career, she has built her practice across Hollywood and Broadway, representing actors, writers and directors within film, television and stage.
-
-Horne began his legal career as an associate at Mayer Brown in New York before joining Schreck Rose's New York office in 2019, where he has built a practice representing writers, actors, comedians, directors, podcasters and digital creators. During his time at the firm he has worked with the teams representing Kevin Hart, Bill Burr, Jim Gaffigan, Ed Helms and Aubrey Plaza and has been a member of Schreck Rose's comedy practice. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Tis the season to light the Rockefeller Center Christmas Tree! The two-hour "Christmas in Rockefeller Center" special will air live on Dec. 2 at 8 p.m. ET on NBC and simulcast on Peacock.
-
-Cynthia Erivo will make her hosting debut and perform during the live tree lighting special. The Emmy, Tony and Grammy Award winner will be joined by Kelly Clarkson, EJAE, Kirk Franklin, Wynonna Judd, JYT, Alanis Morissette, Brad Paisley, Alex Warren and more. The Radio City Rockettes will continue their holiday performance tradition. "TODAY" anchors Carson Daly, Craig Melvin and Al Roker will also be part of the celebration.
-
-"'Christmas in Rockefeller Center' captures the spirit and magic of the holiday season, bringing together unforgettable performances, the energy of New York and a timeless tradition that connects generations," said Jen Neal, Executive Vice President, Live Events and Specials, NBC & Peacock. "It's incredibly special that we get to bring this moment to life year after year and share the excitement with millions of viewers."
-
-"Christmas in Rockefeller Center" is produced by Universal Television in association with Jesse Collins Entertainment. Jesse Collins, Dionne Harmon and Jeannae Rouzan-Clay executive produce, with Glenn Weiss as director.
-
-An additional live hour of the special will be broadcast on NBC stations and some nationwide affiliates at 7 p.m. ET. Telemundo's simulcast of "Navidades en Rockefeller Center (Christmas in Rockefeller Center)" will air live at 9 p.m. ET. "Christmas with Snoop" will follow the special, airing at 10 p.m. ET on NBC and next day on Peacock.
-
-Dhar Mann Studios, Fox Entertainment and Holywater Tech announced the first five original scripted vertical dramas from their multi-year partnership.
-
-The five series will debut on Holywater Tech's My Drama platform, beginning Nov. 25 and rolling out weekly through Dec. 22. The series feature storylines ranging from complicated relationships and family drama to dangerous secrets and unexpected second changes. The slate was developed specifically for vertical viewing.
-
-&#8220;When viewers ask you to make something, you want to get it right for them. Our audience is already watching vertical dramas, and they've asked us to join them there," said Erin McFarlane, Dhar Mann Studios' head of film and TV. "We've taken that to heart. We want these shows to have the romance, suspense and surprises they enjoy, and to give them that connection they feel with a Dhar Mann story&#x2014;seeing a little of themselves in someone and really wanting things to work out for them." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-The 40-title slate was announced in January. It marks Dhar Mann Studios' first major expansion into vertical dramas with Holywater Tech's mobile-first platform, with FOX Entertainment Global's distribution.
-
-The five series and their release dates are below. Subscribers can access each title a week earlier. "The Brothers Who Love Me" &#x2014; Nov. 25 "Rescue Mission" &#x2014; Dec. 1 "Married to the Wind" &#x2014; Dec. 8 "Rhythm of the Heart" &#x2014; Dec. 15 "The Rockstar Who Wants Me" &#x2014; Dec. 22
-
-============================================================
-[49] ‘The Body’ Creator Quinn Shephard on Quitting Acting and Turning Religious Trauma Into Queer, Catholic Ecstasy
-Source: Variety | Status: expanded | Words: 2024
-Published: 2026-11-17T21:12:06+00:00
-URL: https://variety.com/2026/tv/news/quinn-shephard-religious-trauma-queer-horror-1236949615
-------------------------------------------------------------
-SUMMARY:
-At 31, Quinn Shephard is behind some of the most projects about teen girls on television. In 2024, she created Hulu's subversive true crime series "Under the Bridge," and on Nov. 11, Netflix released her newest effort: "The Body," a queer psychological drama set at a Catholic high school in 2004 that debuted at No. […]
-
-CONTENT / EXTRACTED DETAILS:
-At 31, Quinn Shephard is behind some of the most projects about teen girls on television. In 2024, she created Hulu's subversive true crime series &#8220;Under the Bridge,&#8221; and on Nov. 11, Netflix released her newest effort: &#8220; The Body ,&#8221; a queer psychological drama set at a Catholic high school in 2004 that debuted at No. 3 on the streamer's weekly viewership rankings. But 20 years ago, her foray into the teen genre began with an unauthorized adaptation of a popular book series that got trapped in development hell. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Jennifer Lawrence Reunites With 'Hunger Games' Co-Star Josh Hutcherson at 'Sunrise on the Reaping' World Premiere Meta to Help Bring ‘The Hunger Games: Sunrise on the Reaping’ to 3D Screens — and Its $1,299 VR Glasses
-
-"I was trying to make a movie by the time I was 10," recalls Shephard. "My parents found offer letters that I was writing to, like, my dad's best friend: &#x2018;Will you play Mr. Scary in my "Junie B. Jones" adaptation?'" But the project "couldn't get off the ground because we lost the key location," she says, laughing. (She never remotely considered the possibility that her elementary school principal had been joking when he offered her some classrooms. "I was like, &#x2018;OK, here's the shooting schedule,' and he was like, &#x2018;No, I didn't mean that.' I was mad ," she says. "&#x2018;Why would you tell me I could?' I was so fucking annoying. But I don't think I knew how to be any other way, unfortunately.")
-
-Shephard began her career, and life, as an actress. She barely remembers how it all began beyond the encouragement she received from her mother, Laurie, a former actress, and says that in her earliest memories, she's in Prague surrounded by her family while shooting the Andie MacDowell-led drama film "Harrison's Flowers" at just 4 years old. "I grew up in Central Jersey and went to public school, so being on set was my main access to things that felt bigger than that world," she says. Her mother had worked in soap operas and commercials until she retired to focus on raising &#x2014; and managing &#x2014; Quinn. "My parents raised me to have dreams, and to believe that those dreams were possible," Shephard says. "So when I was 15 and wrote a movie, my mom was like, &#x2018;Let's get into notes. How are we going to make this?' I had a delusional confidence from growing up on set and seeing how it worked. It didn't feel any more complicated than any other job. In fact, it felt sensible." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-When asked to sum up her media diet as a kid, Shephard rattles off a list of films that includes "The Crucible," "Girl, Interrupted," "Jennifer's Body," "Donnie Darko" &#x2014; you get the picture. "Stuff that's vibey and moody with a dark sense of humor," she says. "The Sparkle Motion sequence in &#x2018;Donnie Darko' was one of the moments where I was like, &#x2018;I want to do whatever this is.'"
-
-So she did. Through a public arts program that was "mostly just me and a bunch of boys," Shephard began producing her own work around age 12. She and her classmates stunned their parents into silence with dark short films in which she, for example, played one of a psych ward patient's multiple personalities. She was auditioning for professional projects at the same time, but needless to say, she wasn't a Disney-style child actress. The audition circuit for East coast youths produced an alternative kind of star: Shephard cites Rachel Brosnahan, Taissa Farmiga and even Timoth&#xE9;e Chalamet as some of the names running in the same circles.
-
-Armed with the "delusional confidence" those experiences gave her, a teenage Shephard began working on the script that would eventually become "Blame," her debut feature film as a writer-director. "Not a single fact about how that movie got made makes any sense," Shephard says. She ended up shooting the film at age 20 and premiering it two years later &#x2014; but not before a flaky investor almost blew up the whole project in her face. "It's something I could literally never do now. I don't have the blind faith and stamina I had to have at that age to make that movie, and the level of ego I must have had to be like, &#x2018;I can pull off a whole feature!' I cannot process it, but it happened, and thank God."
-
-The investor, an indie director Shephard had been working with on another project, took advantage of her moxie and naivet&#xE9; to keep stringing her along &#x2014; though for what reason, she still doesn't understand. &#8220;He was always like, &#x2018;Money's coming. Money's coming,'" she recalls. "I remember the last text I sent him. I was like, &#x2018;Hey, my parents are about to putting things on credit cards. I don't want to put us into debt. I need to know if this is real.' And he was like, &#x2018;Put it on the credit cards. Tell your parents it's all good. I got you. The money's coming.' And he ghosted." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Shephard was already deep into the preparation process, and her high profile co-star, Chris Messina, was days away from arriving. So she and her parents decided to empty her college fund and the money she'd earned as a child actor, which had been untouched for years outside of careful investments. That got them through production, and post-production unfolded slowly: "I would do an acting job, then I would use that to pay for a sound mix. I would do another acting job, then I'd use that to get on a bus to Montreal and work with a friend of a friend's colorist who gave me a deal." And so on and so forth until "Blame" debuted at the Tribeca Film Festival, where it was warmly reviewed. Another one of Shephard's co-stars, her then-girlfriend Nadia Alexander, was named best actress in a U.S. narrative feature.
-
-Making &#8220;Blame&#8221; led to a major transition in Shephard's career: She quit acting. "I was so grateful for the experiences that I had as a kid, and the access that it gave me to film, but I realized that I hadn't consciously chosen to be an actor," she says. "I was like, &#x2018;If I change my mind, I could always slide back in.' But I just haven't. It feels so foreign to me now. It's such a distant part of myself that it's kind of funny to me now that I used to do it."
-
-She made her second film in 2022, a dramedy called "Not Okay" that taught her how difficult filmmaking is even when you step outside of the indie world. "It was actually crazy, because I was shooting a movie with Searchlight, but the process was not wildly different. You never feel like you have enough money. You never feel like you have enough time. Everything's always hectic. It's just that with more money, you can get cranes if you want cranes."
-
-"The Body" is Shephard's best and most ambitious project to date, and it came from a combination of the processes behind "Blame" and Not Okay." Like the latter, she had studio backing (this time from Netflix), but more importantly, like the former, she trusted in the merits of a script she'd written when she was younger.
-
-The series follows the spread of mass hysteria through a small town after a girl named Grace (Sofia Wylie) falls into a coma after attending a Halloween party where her Catholic school dance teammates pressured her to take Ecstasy. As the girls hide what they did, they pretend they're being visited by Grace in intense religious visions. But soon enough, half the town believes that Grace is God, or at least one of his agents. They find genuine solace in worshipping her. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Shephard wrote a version of the show 10 years ago without a clear thesis in mind, though she has a better idea of why the idea came to her in retrospect. "I always related to religious horror in a way that I didn't fully understand, these themes of shame and passion and ecstasy," she says. And as I got older and started working on this show, I was like, &#x2018;Oh, it's the perfect metaphor for a queer girl's coming-of age. Worshipful experiences that give meaning to your life, and then deep repression. Religious horror has always explored that in a way that felt really accessible to me. It made sense."
-
-Though Shephard was never baptized into Christianity, she did occasionally going to church with her paternal grandmother &#x2014; who was an Evangelical deliverance minister &#x2014; as a young child. "I was so into it. I loved it. I was like, &#x2018;I'm dancing. I'm singing. I'm talking to Jesus. I'm loving it," she says. "But, as I'm prone to do, I took an incident a little too seriously and got very obsessed and upset." She somehow wound up seeing a play meant for adults about "people being afraid they're going to hell or killing themselves over adultery or something." Shephard's mother, who had been wracked with Catholic guilt earlier in her life and didn't want the same for her daughter, decided that was enough was enough. But for a time, the abrupt end to her foray into Christianity only intensified Shephard's interest: She recalls reading her children's Bible in secret to figure out what was so forbidden about it.
-
-As Shephard grew up, her separation from Christianity was unsurprisingly more political (and personal) in nature. "I associated it with oppression of the queer community and rejection of people for being different," she says. But she didn't know how to reckon with the pull she still felt toward some sort of faith. "Like, I'll cry if I go to a church. Especially an ecstatic, charismatic church where people are singing and dancing. It's so moving."
-
-She continues, "I've never been an atheist. I've always been curious. I've always believed in ghosts &#x2014; I saw some when I was a kid." But it wasn't until working with the other writers on "The Body" that Shephard fully unpacked these experiences. "Writing this show has weirdly healed my relationship with faith to the point where I can sit with the more religious side of my family and have a really meaningful conversation about it &#x2014; as long as we don't talk about politics," she says. "Because now I've had such a journey: What is my spirituality? What do I believe in? And I've engaged so much with journalism on unexplainable things. I'm so spiritually curious, and spent so much time talking to people about their relationship with faith for this show that I had a breakthrough, like, &#x2018;I think I get it.' Hopefully, it comes through that all of us who work on the show are very faith-positive, but system-critical." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-There's a throughline that runs through Shephard's work and the films gravitated to in her youth, even beyond the obvious aesthetic elements: meditation on what it means to deeply want something, be it power, love, sex or answers. The honest beauty and painful consequences that come with desire are as alive in John Proctor and Abigail Williams in &#8220;The Crucible&#8221; as they are in the schoolgirls of "The Body."
-
-As Shephard puts it, "People who go to church searching for a religious experience, and me and my friends in Silver Lake doing a guided mushroom trip and talking about connecting with ancestral energy or whatever &#x2014; it's all the same human desire."
-
-============================================================
-[50] Dune Director Ranks the Three Movies, And His Answer for the Best One Makes Sense
-Source: ComicBook.com | Status: expanded | Words: 431
-Published: 2026-11-17T21:10:58+00:00
-URL: https://comicbook.com/movies/news/dune-director-ranks-the-three-movies-and-his-answer-for-the-best-one-makes-sense
-------------------------------------------------------------
-SUMMARY:
-Director Denis Villeneuve has cemented his name among the greatest sci-fi directors for turning Frank Herbert's novels Dune and Dune: Messiah into one of the biggest blockbuster movie trilogies of the 2020s. That trilogy is about to come to an end when Dune: Part Three faces off against Avengers: Doomsday on December 18th; in the […]
-
-CONTENT / EXTRACTED DETAILS:
-However, not only was Villeneuve up to the task, but he had an entire logical breakdown for why he clearly views one Dune film as being a major leap forward for him as a director.
-
-&#8220;Yeah, the thing is for me, my deep feeling – and maybe I should not say that – but my deep feeling is that I felt deeply that the second one was much better than the first one,&#8221; Villeneuve explained to GQ . &#8220;Because I had learned: the rhythm and the storytelling were better. And the first one was more contemplative – it was meant to be like that, but I wanted to drift into something a bit more muscular.&#8221;
-
-What's wild about hearing Villeneuve say all that is that it almost directly mirrors the consensus from viewers. Dune (2021) was often called &#8220;boring&#8221; due to its slow pace and emotionally detached point of view. It's often joked that the first Dune functions just as well as a silent film or a music video, because of how it largely runs off of imagery and vibes. When Dune: Part Two was released, it was clear that Villeneuve was leaning into more traditional action-adventure movie tropes, delivering a much more grounded story and stunning action sequences to break up the artistic imagery and deeper socio-political themes of the story.
-
-Villeneuve teases that his evolution as a director didn't stop with Dune: Part Two . He claims that Dune: Part Three will represent another jump forward in his filmmaking, crafting an epic saga as a suitable finale to the trilogy. &#8220;I feel that I did something even better with the third one,&#8221; he said. &#8220;That's my deep [feeling]; as an artist, I feel that I was able to do something that I was not able to achieve in the first two ones. There's a tension there; there's an emotional journey that is stronger, which I'm really happy with.&#8221;
-
-However, Villeneuve has been around the cinematic block enough times to know that however well he may feel he did with Dune: Part Three , the final verdict will be up to the fans: &#8220;How will it be perceived? How will you receive it? That doesn't belong to me. But me, as a filmmaker, I'm satisfied that there was a progression.&#8221;
-
-Dune: Part Three will be released in theaters and IMAX on December 18th.
 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
