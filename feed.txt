@@ -1,9 +1,49 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T13:43:32.495Z
+Last Updated: 2026-11-18T13:45:35.216Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ’S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
+[1] IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000
+Source: Deadline | Status: expanded | Words: 949
+Published: 2026-11-18T13:44:39+00:00
+URL: https://deadline.com/2026/11/idfa-forum-2026-awards-announced-1237227889
+------------------------------------------------------------
+SUMMARY:
+Winners of the IDFA Forum prizes were announced at an awards ceremony in Amsterdam Wednesday, honoring projects presented in the festival’s co-production and co-financing market. How Love Moves by Pallavi Paul won the Al Jazeera Documentary Co-Production Award, which comes with a $25,000 prize. The award recognizes projects "addressing an urgent issue of our time, […]
+
+CONTENT / EXTRACTED DETAILS:
+Winners of the IDFA Forum prizes were announced at an awards ceremony in Amsterdam Wednesday, honoring projects presented in the festival's co-production and co-financing market.
+
+How Love Moves by Pallavi Paul won the Al Jazeera Documentary Co-Production Award, which comes with a $25,000 prize. The award recognizes projects &#8220;addressing an urgent issue of our time, presented in the Pitch or Roundtable categories.&#8221; How Love Moves is no stranger to the festival: it received IDFA Bertha Fund support through the IBF Classic scheme, in the Development category in 2024 and the Production and post-production category in 2025. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Documentary Cinephil Boards Alexandru Solomon's Romanian Election Doc 'Small Expectations' - IDFA Documentary IDFA Artistic Director Isabel Arrate Fernandez On Festival's Competition Lineups, "Huge" Interest In Elizabeth Holmes Doc, And AI In Documentaries
+
+Jurors Mohamed Elmongy and Brigid O'Shea wrote of How Love Moves , "As the selectors of the Al Jazeera Co-Production award we took carefully into consideration the urgency and relevance of each selected project for IDFA Forum as well as the aesthetic, artistic, and creative qualities they hold. We unanimously agreed to give this award to a politically and creatively sophisticated project, exploring the vulnerability of communities deemed dangerous and wrong through state-inflicted violence. In doing so, we believe audiences around the world will have access to a place and the people living there who otherwise we may never encounter, and correct or add a new layer of complexity beyond the mainstream narrative. And more importantly, it is an exciting opportunity to support a woman-director's voice, we hope at a critical junction in the life of her project." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The ARTE European Talent Development Award, recognizing a project in development or early production presented in the Forum's Pitch or Roundtable categories, went to Stitch by Stitch by Alina Baitokova. That award comes with a &#x20AC;10,000 prize.
+
+Jurors Olga Chernykh, Anne-Laure N&#xE9;grin, and Hanne Phlypo said of Stitch by Stitch , "We were honored to be invited on the jury and listen to so many powerful stories from around the world. We had a long jury deliberation, and many projects were highly appreciated. We recognized the incredible courage of the filmmakers bringing us these stories. If we could, we would have awarded more, and we hope these projects will find their way to be supported, and maybe already found support here at the international market of IDFA." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The jurors continued, "However, as we needed to pick only one project, we decided to award a project from a country whose stories are rarely told, with high need in support right now, and to give a director tools to move the project ahead and tell the story that shows people struggling for their life in a rarely seen part of the globalization. It's a film brought by a promising team, a delicate emerging voice. Therefore, the jury decided to award a film that takes us to Kyrgyzstan, Stitch by Stitch directed by Alina Baitokova, produced by Adilet Karzhoev and Marianna Kaat."
+
+The award for Best Pitch Project comes with a &#x20AC;1,500 prize.
+
+The award for Best Roundtable Project is accompanied by a &#x20AC;1,500 prize.
+
+In other IDFA Forum prizes, the award for Best Rough Cut Project went to Resisting Residents by Nikos Pilos and Arsinoi Pilou.
+
+" Resisting Residents is a powerful reminder of how cinema can champion what we believe in," wrote said jurors Chalida Uabumrungjit and Cleo Veger. "This brave documentary captures a community standing firm for their homes, their dignity, and their right to live together, proving that film can be an essential voice for justice and human solidarity. We were moved by the courage of the residents, who take in newcomers, face their own conflicts and fight eviction together, and by a film team honest enough to show all of it. Shot by a two-person crew living inside the community, it's close, trusting and alive, and we can't wait to see it finished."
+
+The award comes with a &#x20AC;1,500 prize.
+
+Resisting Residents also won the InVision Subtitling Award, presented by Walter Groenewegen, which provides closed captioning and subtitles for a project presented in the Rough Cut category.
+
+The IDFA DocLab Forum Award for Best Project was claimed by This Pleasant Lady by Victoria Mapplebeck. "The jury unanimously agrees that this project is inspirational and addresses serious subjects in an irreverent but impactful way that will engage with audiences no matter of their cultural background or ages. The spirit of the project and the artist fits the vibe of IDFA DocLab. We're also now encouraged to create our own fuck you list!" said jury members Min-Wei Kuo and David Massey.
+
+The award is accompanied by a &#x20AC;1,500 prize.
+
+Jurors additionally recognized Time Hunter XR: Colonial Protocols by Mark Mushiva and Daniel Chein. "The jury want to give a Special Mention to a project that really thinks carefully about how the experience will take audiences on a journey that explores themes of time travel, sci-fi, and embodied archive. The project creates an imaginative and engaging experience that brings forward the perspectives of people whose voices deserve to be heard, and histories that deserve to be told."
+
+============================================================
+[2] ’S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 598
 Published: 2026-11-18T13:42:43+00:00
 URL: https://variety.com/2026/film/global/s-o-s-caribbean-romcom-sold-by-latido-films-first-teaser-1236950584
@@ -39,7 +79,7 @@ There is, however, a hint in the teaser's parting shot, however, that love could
 "For a sales agent, the most interesting and stimulating to be in on a project from its birth, as was the case with 'S.O.S.' said Latido Films Head of International Sales Juan Torres. "The understanding with 64A is remarkable and we are confident this will have a knock-on in the film's commercial results."
 
 ============================================================
-[2] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
+[3] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
 Source: Deadline | Status: expanded | Words: 480
 Published: 2026-11-18T13:30:00+00:00
 URL: https://deadline.com/2026/11/imax-giovanni-dolci-new-coo-role-1237227028
@@ -65,7 +105,7 @@ The 30-year Imax veteran has led theater operations and key partner relationship
 Imax has been on a tear over the past few years as PLFs and event cinema became a key part of the post-Covid theatrical experience for consumers and studios. The company reported strong quarterly earnings earlier this month powered by The Odyssey .
 
 ============================================================
-[3] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
+[4] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
 Source: The Hollywood Reporter | Status: expanded | Words: 6529
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/lee-chang-dong-possible-love-interview-1236757129
@@ -267,7 +307,7 @@ My last question isn't my own. I recently interviewed Na Hong-jin in Seoul about
 I would say that I am a very timid person, and because of that, I tend to spend too much time thinking about how I should live &#x2014; and it makes me very, very tired. (Laughs)
 
 ============================================================
-[4] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
+[5] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
 Source: The Hollywood Reporter | Status: expanded | Words: 1721
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ray-panthaki-clarence-maclin-film-in-starland-interview-1236758272
@@ -321,7 +361,7 @@ That said, Panthaki's passion is coming through again. &#8220;I have ideas that 
 Watch a teaser for In Starland right here.
 
 ============================================================
-[5] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
+[6] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
 Source: CinemaBlend | Status: expanded | Words: 1381
 Published: 2026-11-18T13:23:30+00:00
 URL: https://www.cinemablend.com/television/ncis-sydney-returning-reminding-fans-about-franchises-other-canceled-shows
@@ -373,7 +413,7 @@ Television I Am Pleased To Report NCIS Bringing Back Mark Harmon, Michael Weathe
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[6] Amanda Seyfried And Elizabeth Holmes’ Partner Had Very Different Intentions In The Infamous Dinner Scene In You Can See Everything
+[7] Amanda Seyfried And Elizabeth Holmes’ Partner Had Very Different Intentions In The Infamous Dinner Scene In You Can See Everything
 Source: CinemaBlend | Status: expanded | Words: 1426
 Published: 2026-11-18T13:08:44+00:00
 URL: https://www.cinemablend.com/movies/amanda-seyfried-elizabeth-holmes-partner-billy-evans-had-very-different-intentions-infamous-dinner-scene-you-can-see-everything
@@ -423,7 +463,7 @@ Movies I Was So Curious What It Was Like Being In The Room With Elizabeth Holmes
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[7] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
+[8] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
 Source: The Hollywood Reporter | Status: expanded | Words: 1493
 Published: 2026-11-18T13:05:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024
@@ -475,7 +515,7 @@ Borys Kit and Aaron Couch contributed to this report.
 This story appeared in the Nov. 17 issue of The Hollywood Reporter magazine. Click here to subscribe.
 
 ============================================================
-[8] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
+[9] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
 Source: Deadline | Status: expanded | Words: 788
 Published: 2026-11-18T13:00:00+00:00
 URL: https://deadline.com/2026/11/barlow-bear-to-die-for-love-musical-unofficial-bridgerton-1237227778
@@ -509,7 +549,7 @@ Executive producers of To Die For Love are Agnes Chu, Benj Pasek, Justin Paul, D
 For Atlantic Records, Noah Hubbell serves as executive music producer and Cynthia Meng as music director, with all tracks produced by Emily Bear, Abigail Barlow, Noah Hubbell, and Grant Steller, and mixing and mastering by Jay Marcovitz.
 
 ============================================================
-[9] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
+[10] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 391
 Published: 2026-11-18T13:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/smartless-medias-podcast-1236757059
@@ -531,7 +571,7 @@ Kelly, while hosting and executive producing the Canadian podcast, is also vp of
 Small Town Narcos, written by Kelly and Eunice Kim, is produced by SmartLess Media and New Metric Media for the CBC. The executive producer credits are shared by Arnett, Bateman, Hayes, Richard Korson, Bernie Kaminski, Mark Montefiore, Kelly, Chris Okea and Cesil Fernandes, with Kim serving as senior producer.
 
 ============================================================
-[10] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
+[11] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
 Source: Variety | Status: expanded | Words: 374
 Published: 2026-11-18T13:00:00+00:00
 URL: https://variety.com/2026/film/news/sony-future-filmmaker-jury-2027-edition-1236951115
@@ -551,7 +591,7 @@ This year's awards are introducing a new Immersive category, presented by Meta, 
 The 2027 Sony Future Filmmaker Awards will include a four-day program at the Sony Pictures Studios in Culver City from June 7-10 giving recognizing filmmaking talent, giving their work a global stage and connecting them directly with the industry. Submissions for the 2027 edition close on Dec. 15. Filmmakers can enter short films across six categories: fiction, non-fiction, immersive, animation, student and future format. The Awards shortlist will be announced in the spring.
 
 ============================================================
-[11] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
+[12] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
 Source: ComicBook.com | Status: expanded | Words: 1241
 Published: 2026-11-18T12:55:00+00:00
 URL: https://comicbook.com/comics/list/5-metropolis-disasters-that-make-gothams-worst-nightmares-look-like-a-good-day
@@ -587,7 +627,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
+[13] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
 Source: Deadline | Status: expanded | Words: 1223
 Published: 2026-11-18T12:53:29+00:00
 URL: https://deadline.com/2026/11/qatar-film-committee-hassan-al-thawadi-2nd-industry-days-1237227861
@@ -653,7 +693,7 @@ Arab storytelling remains underrepresented globally. Our goal is to help create 
 One of the lessons of the World Cup is that when you invest with a clear long-term purpose, you can build capability and create a legacy that extends far beyond the event itself. Film has that same ability to bring people together and broaden representation. We are still at the beginning of that journey, but the direction is very clear.
 
 ============================================================
-[13] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
+[14] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
 Source: ComicBook.com | Status: expanded | Words: 728
 Published: 2026-11-18T12:44:00+00:00
 URL: https://comicbook.com/tv-shows/feature/an-mcu-favorites-forgotten-marvel-return-happened-twelve-years-ago-expanding-their-franchise-even-more
@@ -683,7 +723,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
+[15] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
 Source: Variety | Status: expanded | Words: 772
 Published: 2026-11-18T12:41:51+00:00
 URL: https://variety.com/2026/film/global/rob-lowe-ben-shapiro-confession-film-script-1236951750
@@ -719,7 +759,7 @@ He acknowledged that it was "the greatest irony" given the subject of the movie 
 "I feel like that's what's lacking," he added. "People do not have any type of leash for other people in their orbit. But to me, that's what you want: people who think differently than you. And by the way, I'm not saying I agree with any of these people, but I don't want to hear the same conversation and the same story over and over. And I really appreciate different opinions."
 
 ============================================================
-[15] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
+[16] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-18T12:35:44+00:00
 URL: https://variety.com/2026/film/global/hope-ikpoku-jr-mejia-exclusive-horror-film-one-night-1236951736
@@ -745,7 +785,7 @@ Andrews co-wrote the screenplay with Stephen Laughton and produced the film thro
 Both Ikpoku Jr. and Mejia are repped by 42 management.
 
 ============================================================
-[16] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
+[17] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
 Source: ComicBook.com | Status: expanded | Words: 739
 Published: 2026-11-18T12:13:00+00:00
 URL: https://comicbook.com/movies/list/4-excellent-robert-pattinson-performances-outside-of-the-batman-including-his-james-bond-audition
@@ -771,7 +811,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
+[18] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
 Source: Variety | Status: expanded | Words: 1490
 Published: 2026-11-18T12:07:33+00:00
 URL: https://variety.com/2026/film/global/marrakech-atlas-workshops-cannes-venice-1236951646
@@ -829,7 +869,7 @@ The event's evolution, says Zardi, points to a commitment "to avoid having a sin
 The Marrakech Film Festival runs Nov. 20-28.
 
 ============================================================
-[18] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
+[19] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
 Source: CinemaBlend | Status: expanded | Words: 357
 Published: 2026-11-18T12:00:00+00:00
 URL: https://www.cinemablend.com/television/marshals-isnt-only-taylor-sheridan-project-missing-indigenous-women-wind-river
@@ -849,7 +889,7 @@ These days, when Taylor Sheridan and his work get brought up, his shows, like Ye
 Overall, I found Wind River to be an incredibly moving film while also being peppered with the Taylor Sheridan writing and action his shows are known for. I also appreciated how it managed to be an entertaining thriller while also poignantly handling such an important and delicate topic.
 
 ============================================================
-[19] Noel Clarke Sexual Offenses Trial Set For Next Year
+[20] Noel Clarke Sexual Offenses Trial Set For Next Year
 Source: Deadline | Status: expanded | Words: 243
 Published: 2026-11-18T11:53:51+00:00
 URL: https://deadline.com/2026/11/noel-clarke-sexual-offenses-trial-november-2027-1237227838
@@ -869,7 +909,7 @@ Clarke, the British actor who starred in Doctor Who and Kidulthood , has pleaded
 Clarke has not worked in the entertainment industry in any substantial on-screen capacity for years, since The Guardian published allegations about him. He lost his libel case against The Guardian last year after seeking &#xA3;70M ($92M) in damages. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[20] 'Fjord' DP Tudor Vladimir Panduru On Crafting Long Takes With Cristian Mungiu &#038; Challenges Of Shooting In Remote Norway — ToruńCamerimage
+[21] 'Fjord' DP Tudor Vladimir Panduru On Crafting Long Takes With Cristian Mungiu &#038; Challenges Of Shooting In Remote Norway — ToruńCamerimage
 Source: Deadline | Status: expanded | Words: 907
 Published: 2026-11-18T11:52:55+00:00
 URL: https://deadline.com/2026/11/fjord-dp-tudor-vladimir-panduru-cristian-mungiu-norway-1237226492
@@ -909,7 +949,7 @@ Panduru says that one of the most challenging sequences was the "jump in the wat
 "Because we shoot in these long takes, the most important thing was to have the emotional trajectory of the situation," he says. "We thought a lot about how to achieve that moment in a technical way, and we thought about cranes and drones, but it wasn't the right thing. I proposed to Cristian to test to see if I could physically jump in the water with them and we did it in a weekend and it worked."
 
 ============================================================
-[21] This Masters of the Universe Auction Is Proving Skeletor is More Popular Than He-Man
+[22] This Masters of the Universe Auction Is Proving Skeletor is More Popular Than He-Man
 Source: ComicBook.com | Status: expanded | Words: 493
 Published: 2026-11-18T11:52:00+00:00
 URL: https://comicbook.com/collectibles/news/this-masters-of-the-universe-auction-is-proving-skeletor-is-more-popular-than-he-man
@@ -927,7 +967,7 @@ What became more impressive was the turnaround in opinions of the film and an un
 Would you like to own a piece of Masters of the Universe ? Should the movie get a sequel? Let us know your thoughts in the comments.
 
 ============================================================
-[22] ‘Chronicles From The Siege’ Producers Pull Palestinian Berlinale Prizewinner From Marrakech
+[23] ‘Chronicles From The Siege’ Producers Pull Palestinian Berlinale Prizewinner From Marrakech
 Source: Deadline | Status: expanded | Words: 539
 Published: 2026-11-18T11:42:32+00:00
 URL: https://deadline.com/2026/11/chronicles-siege-producers-pull-palestinian-drama-marrakech-1237227819
@@ -961,7 +1001,7 @@ It went on to win the Best First Feature Award in a politically-charged awards c
 This speech alongside a number of public condemnations of Israel's actions in Gaza by other winners triggered a conservative and far-right backlash against the festival management in the days after the festival, which nearly cost Berlinale director Tricia Tuttle her job.
 
 ============================================================
-[23] Well Go USA Acquires Nazi Revenge Film ‘Vindicta’ — AFM
+[24] Well Go USA Acquires Nazi Revenge Film ‘Vindicta’ — AFM
 Source: Deadline | Status: expanded | Words: 359
 Published: 2026-11-18T11:35:27+00:00
 URL: https://deadline.com/2026/11/well-go-usa-vindicta-afm-1237227828
@@ -985,7 +1025,7 @@ Sedlar added: &#8220;We are thrilled to partner with Well Go USA for the North A
 Producers are aiming for an early 2027 theatrical release date. The film is represented for international sales by OneTwoThree Media.
 
 ============================================================
-[24] Berlin Prizewinner 'Chronicles From the Siege' Pulled From Marrakech Festival by Algerian Producer Over Morocco-Israel Ties
+[25] Berlin Prizewinner 'Chronicles From the Siege' Pulled From Marrakech Festival by Algerian Producer Over Morocco-Israel Ties
 Source: Variety | Status: expanded | Words: 501
 Published: 2026-11-18T11:33:19+00:00
 URL: https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684
@@ -1021,7 +1061,7 @@ Inspired by Al-Khatib's personal experience during the siege of Yarmouk Camp in 
 The film interweaves stories of friendship, intimacy and survival, exploring how life under siege transforms even the simplest human experiences into struggles for survival.
 
 ============================================================
-[25] Grand Theft Auto 6’s Metacritic Score Makes It the Highest Rated Game Ever
+[26] Grand Theft Auto 6’s Metacritic Score Makes It the Highest Rated Game Ever
 Source: ComicBook.com | Status: expanded | Words: 402
 Published: 2026-11-18T11:30:00+00:00
 URL: https://comicbook.com/gaming/news/grand-theft-auto-6s-metacritic-score-makes-it-one-of-2026s-best-games
@@ -1045,7 +1085,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Marrakech Film Festival Grows Its Awards-Season Clout With 'Artificial,' 'The Debut,' 'Fjord' and Other Oscar Hopefuls
+[27] Marrakech Film Festival Grows Its Awards-Season Clout With 'Artificial,' 'The Debut,' 'Fjord' and Other Oscar Hopefuls
 Source: Variety | Status: expanded | Words: 1483
 Published: 2026-11-18T11:17:24+00:00
 URL: https://variety.com/2026/film/global/artificial-the-debut-oscar-campaigns-marrakech-1236951607
@@ -1095,7 +1135,7 @@ Bonhomme says the Marrakech fest already "expressed our solidarity with the team
 "We welcome at the festival lots of filmmakers coming from countries that are directly affected by the war [in Gaza]. We also welcome films that deal directly with the current war," he says. "We also are in North Africa, which is a region that is also very protected from what's happening in the Middle East. So we have the possibility in Marrakech to still be a safe place where we can give a certain resonance of what's happening there."
 
 ============================================================
-[27] Netflix UK Swoops For Ms Apple's Pre-School Learning Adventures
+[28] Netflix UK Swoops For Ms Apple's Pre-School Learning Adventures
 Source: Deadline | Status: expanded | Words: 421
 Published: 2026-11-18T11:09:20+00:00
 URL: https://deadline.com/2026/11/netflix-uk-ms-apple-adventures-british-ms-rachel-1237227810
@@ -1119,7 +1159,7 @@ Grant said: &#8220;We're so excited to be bringing Ms Apple to Netflix UK and Ir
 Ms Apple's &#8220;Learn with Ms Apple&#8221; channel is repped globally by MVE , which said Ms Apple has &#8220;created something so special.&#8221; &#8220;Bringing her learning adventures to Netflix is an exciting next step in her journey,&#8221; added the agency. &#8220;We're proud to represent her and can't wait for families to enjoy her content.&#8221;
 
 ============================================================
-[28] Grand Theft Auto VI Is One of Gaming's Greatest Achievements (Review)
+[29] Grand Theft Auto VI Is One of Gaming's Greatest Achievements (Review)
 Source: ComicBook.com | Status: expanded | Words: 1925
 Published: 2026-11-18T11:00:00+00:00
 URL: https://comicbook.com/gaming/review/grand-theft-auto-6-review
@@ -1177,7 +1217,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Noel Clarke Trial Set for 2027 Over Alleged Sex Offenses
+[30] Noel Clarke Trial Set for 2027 Over Alleged Sex Offenses
 Source: Variety | Status: expanded | Words: 424
 Published: 2026-11-18T10:50:34+00:00
 URL: https://variety.com/2026/film/global/noel-clarke-southwark-crown-court-1236951670
@@ -1209,7 +1249,7 @@ In a statement in September, CPS prosecutor Bethan David said: "Our prosecutors 
 Clarke is known for playing Mickey Smith in "Doctor Who" from 2005 to 2010. He also wrote, directed and starred in a trio of teen crime dramas in the mid 2000s, &#8220;Kidulthood,&#8221; &#8220;Adulthood&#8221; and &#8220;Brotherhood,&#8221; before going on to co-created critically acclaimed Sky series &#8220;Bulletproof&#8221; with Ashley Walters.
 
 ============================================================
-[30] Saudi Arabia's Red Sea Film Festival Forges 'Strategic' Partnership With Cairo Film Festival
+[31] Saudi Arabia's Red Sea Film Festival Forges 'Strategic' Partnership With Cairo Film Festival
 Source: Variety | Status: expanded | Words: 523
 Published: 2026-11-18T10:48:27+00:00
 URL: https://variety.com/2026/film/festivals/red-sea-cairo-film-festivals-strategic-partnership-1236951676
@@ -1237,7 +1277,7 @@ The Red Sea Film Foundation has supported the restoration of more than 20 films,
 Commented Faisal Baltyuor, CEO of the Red Sea Film Foundation: &#8220;Egypt has played a defining role in the history of Arab cinema, and Cairo International Film Festival continues to be one of the region's most important platforms for filmmakers and audiences alike. We are proud to strengthen our relationship through a partnership that reflects our shared commitment to supporting outstanding films, creating opportunities for filmmakers, and preserving our cinematic heritage.&#8221;
 
 ============================================================
-[31] Alan Cumming, Verity Power and Maria Friedman on Their Scottish, Spunky 'My Fair Lady': 'It's Not Your Granny's'
+[32] Alan Cumming, Verity Power and Maria Friedman on Their Scottish, Spunky 'My Fair Lady': 'It's Not Your Granny's'
 Source: Variety | Status: expanded | Words: 1420
 Published: 2026-11-18T10:31:47+00:00
 URL: https://variety.com/2026/theater/news/alan-cumming-my-fair-lady-henry-higgins-scottish-1236950477
@@ -1289,7 +1329,7 @@ Along with Cumming and Power, the cast includes Martin Ball as Colonel Pickering
 Asked what will land hardest with audiences now, Power points to the pressure on women to be polite, sound right and look a certain way, citing the lip filler and Botox ads that appear unsolicited on her phone. &#8220;It happened then, and it happens now, and it will sadly probably happen forever,&#8221; she says. &#8220;But it is something that we can take hold of and scrunch up in a ball and chuck away and go, &#8216;No, we're fab as we are.'&#8221;
 
 ============================================================
-[32] 4 Lesser-Known Sci-Fi Movies That Scored Over 90% With Audiences on Rotten Tomatoes
+[33] 4 Lesser-Known Sci-Fi Movies That Scored Over 90% With Audiences on Rotten Tomatoes
 Source: ComicBook.com | Status: expanded | Words: 1113
 Published: 2026-11-18T10:22:00+00:00
 URL: https://comicbook.com/movies/list/4-lesser-known-sci-fi-movies-that-scored-over-90-with-audiences-on-rotten-tomatoes
@@ -1321,7 +1361,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Tallinn TV Beats Prizes: ‘Intimacy on Prescription,’ About Sex Therapy, Bags Top Award: ‘Good TV Is Very Connected to Good Sex’
+[34] Tallinn TV Beats Prizes: ‘Intimacy on Prescription,’ About Sex Therapy, Bags Top Award: ‘Good TV Is Very Connected to Good Sex’
 Source: Variety | Status: expanded | Words: 836
 Published: 2026-11-18T10:20:20+00:00
 URL: https://variety.com/2026/tv/global/tallinn-tv-beats-prizes-intimacy-on-prescription-tanner-1236951667
@@ -1357,7 +1397,7 @@ Nearly 30 series at different stages of production were showcased during the 6 t
 The Tallinn Black Nights Film Festival 's industry sidebar Industry@Tallinn & Baltic Event closes on Friday.
 
 ============================================================
-[34] Jean-Pierre &#038; Luc Dardenne Set For European Film Academy Lifetime Achievement Award
+[35] Jean-Pierre &#038; Luc Dardenne Set For European Film Academy Lifetime Achievement Award
 Source: Deadline | Status: expanded | Words: 692
 Published: 2026-11-18T10:00:00+00:00
 URL: https://deadline.com/2026/11/jean-pierre-luc-dardenne-european-film-academy-honor-1237227768
@@ -1403,7 +1443,7 @@ They also have a long relationship with European Film Academy. In 1997, Gigi, Mo
 The brothers will receive their Lifetime Achievement Award at the European Awards Ceremony on January 17, 2027.
 
 ============================================================
-[35] European Lifetime Achievement Award for the Dardenne Brothers
+[36] European Lifetime Achievement Award for the Dardenne Brothers
 Source: The Hollywood Reporter | Status: expanded | Words: 480
 Published: 2026-11-18T10:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/dardenne-brothers-european-film-award-lifetime-achievement-1236757154
@@ -1429,7 +1469,7 @@ The Dardennes typically work with non-professional actors but made an exception 
 The Dardennes won their first European Film Award for Best Documentary for Gigi, Monica&#8230; back in 1997 and took the European Screenwriter Award for The Kid With a Bike in 2011. Surprisingly, given their reputation and the consistent quality of their work, the Dardennes have never been nominated for an Academy Award.
 
 ============================================================
-[36] Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027
+[37] Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027
 Source: The Hollywood Reporter | Status: expanded | Words: 328
 Published: 2026-11-18T09:40:25+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/harry-styles-glastonbury-billie-eilish-fender-headliners-1236758327
@@ -1455,7 +1495,7 @@ Over 200,000 people will flood Worthy Farm for five days from June 23 next year.
 The gates will open at Worthy Farm in Somerset to 200,000 fans on Wednesday 23 June, with music on the main stages kicking off on Friday 25 June.
 
 ============================================================
-[37] The Legend of Zelda Movie Has One Challenge That Other Video Game Adaptations Never Faced
+[38] The Legend of Zelda Movie Has One Challenge That Other Video Game Adaptations Never Faced
 Source: ComicBook.com | Status: expanded | Words: 790
 Published: 2026-11-18T09:32:00+00:00
 URL: https://comicbook.com/uncategorized/feature/the-legend-of-zelda-movie-has-one-challenge-that-other-video-game-adaptations-never-faced
@@ -1479,7 +1519,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Disney+ Adapting Bob Mortimer's Debut Novel 'The Satsuma Complex' For TV
+[39] Disney+ Adapting Bob Mortimer's Debut Novel 'The Satsuma Complex' For TV
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-18T09:23:53+00:00
 URL: https://deadline.com/2026/11/the-satsuma-complex-disney-adapting-bob-mortimer-tv-1237227802
@@ -1505,7 +1545,7 @@ The Satsuma Complex will be EP'd by Shindler for Quay Street Productions, part o
 Jain has been given a bigger budget of latee. At yesterday's Disney results, the Mouse House said again it will triple its local originals over the next three years.
 
 ============================================================
-[39] 'Hazara Town' Review: A Restrained but Deeply Affecting Doc Portrait of an Afghan Refugee Family Living in Limbo
+[40] 'Hazara Town' Review: A Restrained but Deeply Affecting Doc Portrait of an Afghan Refugee Family Living in Limbo
 Source: Variety | Status: expanded | Words: 787
 Published: 2026-11-18T09:19:16+00:00
 URL: https://variety.com/2026/film/reviews/hazara-town-review-1236948926
@@ -1529,7 +1569,7 @@ Machid, a studious bookworm with a love of Judy Blume, dreams of richer educatio
 Also an accomplished cinematographer, Dai shoots these individually unremarkable episodes of daily survival &#x2014; and occasional celebration &#x2014; with a grace and sensitivity that cumulatively builds to something more than just diaristic in effect: &#8220;Hazara Town&#8221; is a quietly emphatic statement of presence for lives all too easily disappeared, or dismissed as statistics. And while it provides no tidy resolution to this collective narrative, there's at least a temporary, heart-filling interlude of reunion, before life pulls in a multitude of directions: For the refugee family, there's as much anguish in movement as in stillness, but a shred of hope too.
 
 ============================================================
-[40] ‘NAZA’ Team Sticking To Plan To Release Shattering Documentary On The Guardian Website Within Weeks — IDFA
+[41] ‘NAZA’ Team Sticking To Plan To Release Shattering Documentary On The Guardian Website Within Weeks — IDFA
 Source: Deadline | Status: expanded | Words: 1035
 Published: 2026-11-18T09:10:47+00:00
 URL: https://deadline.com/2026/11/naza-panel-2026-idfa-festival-1237227793
@@ -1569,7 +1609,7 @@ James Wilson, the Oscar-nominated producer ( Zone of Interest ) said the message
 Abraham concluded by saying, "People talk about films changing the world. I don't think that a film can really do that, but I think films can definitely, as Jim [Wilson] was saying, they can definitely be part of a network, of a larger kind of energy that exists in the world, which is pushing for change, which is pushing for humanity and empathy."
 
 ============================================================
-[41] Harry Styles, Billie Eilish, Sam Fender and Cher to Headline Glastonbury Festival
+[42] Harry Styles, Billie Eilish, Sam Fender and Cher to Headline Glastonbury Festival
 Source: Variety | Status: expanded | Words: 133
 Published: 2026-11-18T09:09:29+00:00
 URL: https://variety.com/2026/music/global/glastonbury-lineup-harry-styles-billie-eilish-sam-fender-cher-1236951618
@@ -1585,7 +1625,7 @@ This marks Styles' and Fender's first time headlining the Pyramid Stage, while i
 After taking a fallow year this summer to allow Worthy Farm's land to recover, the U.K. festival is set to return June 23-27. As always, the lineup spans genres and generations, including Massive Attack, Sombr, Little Simz, Chase & Status, the XX, Lily Allen, Ezra Collective, Kraftwerk, Ad&#xE9;la, Angine de Poitrine, the Avalanches, Blood Orange and more. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[42] Paramount+ Drops Trailer For Minnie Driver Heist Drama 'The Day'; Launch Date Revealed
+[43] Paramount+ Drops Trailer For Minnie Driver Heist Drama 'The Day'; Launch Date Revealed
 Source: Deadline | Status: expanded | Words: 369
 Published: 2026-11-18T09:00:00+00:00
 URL: https://deadline.com/2026/11/paramount-plus-the-day-minnie-driver-trailer-launch-date-1237226465
@@ -1607,7 +1647,7 @@ Luca Pasqualino ( Rivals , The Musketeers ) and Louisa Harland ( Renegade Nell ,
 Mike Benson and Andy Morgan are the exec producers for Clapperboard, alongside Daniel March from Dynamic Television, and Tamryn Reinecke. Jake Rollins isp roducer, and Andy Tohill ( The Dig , Dalgliesh ) and Ryan Tohill ( The Dig , Dalgliesh ) co-directed.
 
 ============================================================
-[43] 'Shōgun' Post House SSVFX Hires Jennifer Thompson To Run Studio Operations
+[44] 'Shōgun' Post House SSVFX Hires Jennifer Thompson To Run Studio Operations
 Source: Deadline | Status: expanded | Words: 538
 Published: 2026-11-18T09:00:00+00:00
 URL: https://deadline.com/2026/11/ssvfx-hires-jennifer-thompson-head-studio-1237226413
@@ -1637,7 +1677,7 @@ Jake Walshe, CEO of the Screen Scene Group, said: &#8220;We are delighted to wel
 Thompson added: &#8220;With an incredible depth of creative talent, experienced production leadership and new opportunities opening up for Ireland internationally, we're in a fantastic position to build new partnerships, embrace emerging technologies and take on even bigger and more ambitious projects.&#8221;
 
 ============================================================
-[44] Hong Kong Golden Horse Nominee 'We Are Born Good' Heads to U.K. With Trinity CineAsia (EXCLUSIVE)
+[45] Hong Kong Golden Horse Nominee 'We Are Born Good' Heads to U.K. With Trinity CineAsia (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 543
 Published: 2026-11-18T09:00:00+00:00
 URL: https://variety.com/2026/film/news/hong-kong-golden-horse-nominee-we-are-born-good-uk-1236950196
@@ -1665,7 +1705,7 @@ Cedric Behrel, managing director of Trinity CineAsia, said: &#8220;Following our
 Trinity CineAsia's recent U.K. and European releases include Bi Gan's Cannes special prize winner &#8220;Resurrection,&#8221; global animation box office champ &#8220;Ne Zha 2,&#8221; Jackie Chan crime actioner &#8220;The Shadow's Edge&#8221; and Teochew-language breakout &#8220;Dear You.&#8221;
 
 ============================================================
-[45] Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi
+[46] Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi
 Source: Variety | Status: expanded | Words: 1635
 Published: 2026-11-18T08:53:00+00:00
 URL: https://variety.com/2026/film/global/jafar-panahi-defense-statement-1236951044
@@ -1701,7 +1741,7 @@ Below is the full list of signatories, although it is growing longer by the day 
 The International Coalition for Filmmakers at Risk Alberto Barbera, Director, Venice Film Festival Vanja Kaludjercic, International Film Festival Rotterdam Tricia Tuttle, Director, Berlinale Giona Nazzaro, Artistic Director, Locarno Film Festival Dennis Lim, Artistic Director, New York Film Festival Julie Huntsinger, Executive Director, Telluride Film Festival Isabel Arrate Fernandez and Cees van t'Hulenaar, Directors, International Documentary Film Festival Amsterdam (IDFA) Nashen Moodley, Director, Sydney International Film Festival The German Film Academy The Austrian Film Academy Acad&#xE9;mie des C&#xE9;sar Arash T. Riahi, Co-chair, Austrian Film Academy Karel Och, Artistic Director and Krystof Mucha, Executive Director, Karlovy Vary IFF Tokyo International Film Festival Hong Kong International Film Festival Busan International Film Festival Kawakita Memorial Film Institute Andr&#xE9;s Bayona, Director, Bogot&#xE1; International Film Festival Renata de Almeida, Director, S&#xE3;o Paulo International Film Festival Ilda Santiago, Director, Rio de Janeiro International Film Festival Laurence Kardish, Co-Director, FilmColumbia Festival, New York Margarita D&#xED;az, General Director, Cartagena International Film Festival Tabitha Jackson, Director, Film Forum Jean Tsien, Governor, Academy of Motion Picture Arts and Sciences Chris Hegedus, Governor, Academy of Motion Picture Arts and Sciences Roger Ross Williams, Governor, Academy of Motion Picture Arts and Sciences Chris Tashima, Governor, Academy of Motion Picture Arts and Sciences Barry Jenkins, Director Mark Cousins, Director Michael Moore, Director Ellen Kuras, Director, Cinematographer Laura Poitras, Filmmaker Mark Ruffalo, Actor, Producer Tilda Swinton, Performer/Producer Kleber Mendon&#xE7;a Filho, Writer, Filmmaker & Film Programmer Alice Braga, Actress Petra Costa, Director Joanna Natasegara, Violet Films Julia Pacetti, AMPAS Eric Sloss, Executive Joslyn Barnes, Producer, Writer, AMPAS, BAFTA, WGA, PGA, DPA, IDA Rabab Haj Yahya, AMPAS &#8211; Documentary Branch Emilie Lesclaux, Producer, Cinemasc&#xF3;pio Eliza Capai, Filmmaker Matheus Farias, Director Anita Rocha da Silveira, Director and Scriptwriter Mauricio Zacharias, Screenwriter Heloisa Passos, Filmmaker and Cinematographer Jeferson De, Director Tatiana Leite, Producer Jean-Michel Frodon, Critic and Professor J&#xE9;r&#xF4;me Bonnell, Director Arnaud des Palli&#xE8;res, Director Philippe Faucon, Director and Producer Pascale Ferran, Director Mariana Oliva, Producer, AMPAS Documentary Branch Sylvain George, Filmmaker Arthur Harari, Filmmaker Teddy Leifer, Rise Films Catherine Breillat, Director Joana Hadjithomas & Khalil Joreige, Artists and Filmmakers Olivier Assayas, Director Dominik Moll, Film director Bertrand Bonello, Director Jacques Audiard, Cin&#xE9;aste Gabriel Mascaro, Director Asif Kapadia, Director Jos&#xE9; Joffily, Director, AMPAS Documentary Branch Robin Campillo, Cin&#xE9;aste Claire Simon, Cin&#xE9;aste/Filmmaker Abigail Anketell-Jones, Violet Films Rithy Panh, Director Mstyslav Chernov, Film Director Marjan Safinia, Filmmaker, AMPAS Documentary Branch Orwa Nyrabia, Producer/Filmmaker Gini Reticker, AMPAS Connie Field, AMPAS Miao Wang, Filmmaker Nazrin Choudhury, AMPAS Laura Nix, AMPAS Documentary Branch Dan Cogan, Story Syndicate Natasha Dack Ojumu, AMPAS, BAFTA Violet Feng, Director and Producer Alicia Sams, Producer/Director, AMPAS Documentary Branch Esther Kling, AMPAS Casting Directors Branch Nigel Noble, Academy Award Documentary Winner Susan Margolin, Producer, AMPAS, BAFTA, PGA, DPA, IDA Joan Churchill, Filmmaker Pan Nalin, Director, AMPAS, European Film Academy, French Film Academy (Cesars) Lindsey Dryden, Director & Producer, AMPAS Documentary Branch Alysa Nahmias, Director Rob Epstein, Filmmaker Alice Henty, Producer, Maylo Films Alison Klayman, Director Grace Lee, Filmmaker, AMPAS Documentary Branch Beth Aala, Filmmaker, AMPAS Documentary Branch Joe Berlinger, AMPAS, BAFTA, DGA, WGA, PGA, NBR, ATAS Christopher Makoto Yogi, Director Mich&#xE8;le Stephenson, Filmmaker, AMPAS Documentary Branch Sarah Beddington, Filmmaker, Director Jes Vesconte, Film Worker Ina Fichman, Producer, Intuitive Pictures, Canada, AMPAS, IDA, DOC Canada, PGA Kimberly Reed, Director/Producer Robin Hessman, AMPAS Documentary Branch, PGA Deborah Shaffer, AMPAS Kellen Quinn, Producer Julian Cautherley, Producer AMPAS Kavery Kaul, Director-Producer Ferne Pearlstein, AMPAS Documentary Branch Alexandra Strauss, Film Editor, AMPAS Robert Edwards, Filmmaker/Screenwriter-WGA Mirra Bank, Filmmaker Karen Dufilho, Producer, AMPAS Animation Branch Marty Syjuco, Filmmaker Tala Hadid, Director Stephanie Lowry, AMPAS Music Branch C Vasarhelyi, Filmmaker Ellen Tolmie, Documentarian Jennifer Tiexiera, Filmmaker, AMPAS Documentary Branch, IDA Board Member Alex Gibney, Director Liz Garbus, Filmmaker Eric Hynes, Curator Meena Nanji, Director Carl Deal, Independent Filmmaker Amy Ziering, Filmmaker AMPAS Sara Silveira, Producer Juliana Rojas, Filmmaker Andrea Barata Ribeiro, Producer Joseph Patel, Filmmaker La&#xED;s Bodanzky, Filmmaker Hilla Medalia, AMPAS Daniel Filho, Director May Leung, Producer, AMPAS Visual Effects Signe Byrge S&#xF8;rensen, Producer, Final Cut for Real Robert Bahar, Filmmaker, AMPAS Ryan Krivoshey, Distributor/Producer Tia Lessin, Filmmaker Elsewhere Films Arhynn Descy, Composer, AMPAS Music Branch Abigail Disney, Filmmaker Rachel Antell, Co-Director, Archival Producers Alliance Vanessa Hope, Filmmaker Robert Kenner, Director Tom Hurwitz, ASC, Cinematographer/Filmmaker Steve Maing, Filmmaker Simon Kilmurry, Producer Lucrecia Martel, Directora de cine argentina Per K. Kirkegaard, Film Editor, AMPAS Documentary Branch Shrihari Sathe, Filmmaker, AMPAS, PGA Plinio Profeta, Composer, AMPAS Ross Kauffman, Filmmaker, AMPAS Documentary Branch Rodrigo Teixeira, AMPAS Jeffrey Friedman, Filmmaker, AMPAS, DGA Carlos Segundo, Director Sabrina Schmidt Gordon, AMPAS, Documentary Filmmaker Benjamin Domenech, Producer Jed DeMoss, Producer Lana Wilson, Filmmaker Nick Broomfield, AMPAS Maria Carlota Bruno, Producer JT Takagi, AMPAS Documentary Branch Kristi Jacobson, Filmmaker Pedro Kos, Filmmaker, AMPAS Gonzalo Maza, Screenwriter, AMPAS Karen Akerman, Editor, AMPAS Documentary Branch Em&#xED;lio Domingos, Filmmaker, AMPAS Documentary Branch Otto Guerra, Animation Director Steven Markovitz, Producer Gary Byungseok Kam, Producer, AMPAS Documentary Branch Claudia Kopke, AMPAS, Costume Designer Branch Catherine Gund, Director, Producer, AMPAS Documentary Branch Sahar Driver, Color Congress Vera Hamburger, Production Designer Sushmit Ghosh, Director Kirby Dick, Filmmaker, AMPAS Orlando von Einsiedel, Filmmaker Helena Solberg, Director Sonia Kennebeck, Director Amelia Hapsari, Filmmaker, AMPAS Documentary Branch Michael Collins, Director, AMPAS Documentary Branch Kate Amend, ACE, Editor, AMPAS Documentary Branch Jeff Reichert, Filmmaker Anna Van Steen, AMPAS Shari Springer Berman, Filmmaker Bernardo Uzeda, AMPAS, Sound Branch Lisa Cort&#xE9;s, Director, AMPAS, Documentary Branch Brett Story, Filmmaker, AMPAS Aviva Slesin, Documentary Filmmaker, AMPAS, DGA Julie Goldman, Producer Rintu Thomas, Filmmaker, AMPAS Documentary Branch John Early, Filmmaker Deborah Dickson, Director, DGA, AMPAS Sonya Childress, Color Congress, AMPAS Documentary Branch Diana Bustamante, Producer-Filmmaker Geeta Gandbhir, Filmmaker Apichatpong Weerasethakul, Filmmaker Lynne Littman, Filmmaker Andrew Stephen Lee, Filmmaker
 
 ============================================================
-[46] Harry Styles, Billie Eilish &#038; Sam Fender To Headline Glastonbury 2027
+[47] Harry Styles, Billie Eilish &#038; Sam Fender To Headline Glastonbury 2027
 Source: Deadline | Status: expanded | Words: 402
 Published: 2026-11-18T08:52:40+00:00
 URL: https://deadline.com/2026/11/glastonbury-harry-styles-billie-eilish-sam-fender-cher-1237227792
@@ -1731,7 +1771,7 @@ Glastonbury takes place June 23-27 and is the UK's biggest music festival.
 This year's Glasto will prove to be a stern test for the BBC . The 2025 edition devolved into chaos when the broadcaster failed to remove from iPlayer a live stream of controversial rap punk band Bob Vylan, whose lead singer chanted &#8220;death to the IDF&#8221; and complained about working for a "f***ing Zionist." The corporation has since bought in a new set of processes and has a new Director General.
 
 ============================================================
-[47] The Worst Star Wars Release of All Time Turns 48, But Even The Mandalorian Still Referenced It
+[48] The Worst Star Wars Release of All Time Turns 48, But Even The Mandalorian Still Referenced It
 Source: ComicBook.com | Status: expanded | Words: 767
 Published: 2026-11-18T08:45:00+00:00
 URL: https://comicbook.com/movies/feature/the-worst-star-wars-release-of-all-time-turns-48-but-even-the-mandalorian-still-referenced-it
@@ -1761,7 +1801,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market
+[49] 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market
 Source: The Hollywood Reporter | Status: expanded | Words: 513
 Published: 2026-11-18T08:23:05+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/intimacy-on-prescription-main-prize-tallinn-tv-beats-market-1236758301
@@ -1791,7 +1831,7 @@ The Irish-Canadian series Tanner , produced by F&#xED;b&#xED;n Films and Rhombus
 The synopsis for this project is short and to the point, reading: &#8220;A former intelligence officer's search for a missing boy exposes a threat to democracy itself.&#8221;
 
 ============================================================
-[49] Nawazuddin Siddiqui's Indian 'House' Adaptation 'Dr. Hassan' Sets December Premiere on JioHotstar (EXCLUSIVE)
+[50] Nawazuddin Siddiqui's Indian 'House' Adaptation 'Dr. Hassan' Sets December Premiere on JioHotstar (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 668
 Published: 2026-11-18T08:15:00+00:00
 URL: https://variety.com/2026/tv/news/nawazuddin-siddiqui-house-adaptation-dr-hassan-premiere-1236950232
@@ -1821,28 +1861,4 @@ Created by David Shore, the original &#8220;House&#8221; starred Hugh Laurie and
 Linfield Ng, VP of format sales and production at NBCUniversal Formats, said the company was pleased to be working with Banijay Asia and JioHotstar once again. &#8220;With an exceptional cast and creative team, we're excited to see this latest adaptation offer a fresh perspective on a globally loved series,&#8221; Ng said.
 
 The India titles form part of a wider push across Asia for NBCUniversal Formats, which had 39 seasons on air in 17 territories in 2025.
-
-============================================================
-[50] Harry Shum Jr. Honors Late 'Glee' Co-Star Naya Rivera During 'Dancing With the Stars' Semifinals: 'We Miss You, Baby Girl'
-Source: Variety | Status: expanded | Words: 369
-Published: 2026-11-18T07:17:09+00:00
-URL: https://variety.com/2026/tv/news/dancing-with-the-stars-harry-shum-jr-glee-naya-rivera-1236951568
-------------------------------------------------------------
-SUMMARY:
-SPOILER ALERT: This post contains spoilers from the Nov. 17 episode of "Dancing With the Stars," now streaming on Hulu. Harry Shum Jr. pulled on the heartstrings of "Glee" fans everywhere during the "Dancing With the Stars" semi-finals. For the second dance on Tuesday night's episode, Shum Jr. and partner Jenna Johnson performed a quickstep […]
-
-CONTENT / EXTRACTED DETAILS:
-SPOILER ALERT: This post contains spoilers from the Nov. 17 episode of &#8220; Dancing With the Stars ,&#8221; now streaming on Hulu.
-
-Harry Shum Jr. pulled on the heartstrings of &#8220;Glee&#8221; fans everywhere during the &#8220;Dancing With the Stars&#8221; semi-finals. For the second dance on Tuesday night's episode, Shum Jr. and partner Jenna Johnson performed a quickstep to "Valerie,&#8221; paying tribute to Naya Rivera , who sang the song during &#8220;Glee&#8221; Season 2. Related Stories 'Only Murders in the Building' Season 6: Main Trio Takes on London Investigation in Star-Studded First Trailer Disney and the NFL Launch Limited-Edition Mickey & Friends Merch Ahead of Super Bowl LXI
-
-"I'm excited because that song [&#x2018;Valerie'] was just so meaningful to a lot of &#8216;Glee' fans," he said during the episode. &#8220;&#8216;Glee' definitely changed my life &#x2014; gave me the opportunity to not only dance, but act, and I never thought I would be able to dance to that song again.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-After the routine, he told co-host Julianne Hough, "I feel like &#8216;Dancing With the Stars' is synonymous with &#8216;Glee,' and to be able to dance to Naya's version, it means so much to so many people, including myself. We miss you, baby girl."
-
-Rivera, who starred on the Fox musical comedy with Shum from 2009 to 2015, died in 2020 at 33.
-
-Despite two perfect scores on Tuesday's semi-finals, Shum Jr. and Johnson were eliminated &#x2014; one week after Johnson's husband, Val Chermerkovskiy, and Jenna Dewan were sent home.
-
-After his elimination, Shum told E! News that the online conversation this season has been &#8220;so chaotic,&#8221; and he's hopeful it changes going forward. &#8220;There's a lot of trauma bond just because this year has been a little crazy,&#8221; he said. &#8220;Social media is a little nuts. I hope they address that at a certain point, because I think there's a good amount of bullying that doesn't feel really good, and I think the rest of the cast feels it.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
