@@ -1,15 +1,75 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T23:26:02.842Z
+Last Updated: 2026-11-18T23:32:06.307Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Elon Musk Feels "Pretty Foolish" For Donating Mega-Bucks To Losing MAGA In Midterms
+[1] ‘Primetime’ Cinematographer &#038; Editor On Making Robert Pattinson Look Like A “Superhero” &#038; Breakdown Viral Meme Catchphrase
+Source: Deadline | Status: expanded | Words: 756
+Published: 2026-11-18T23:31:25+00:00
+URL: https://deadline.com/2026/11/primetime-cinematograhper-editor-video-interview-1237228520
+------------------------------------------------------------
+SUMMARY:
+In A24’s Primetime, the first predator confrontation unfolds in a bright, colorful home. For cinematographer David Bolen, that contrast was central to the scene’s tension. “This was like, we all felt a lot of anxiety about shooting this because we were like, ‘OK, this is the first predator encounter. This sets the tone for everything. […]
+
+CONTENT / EXTRACTED DETAILS:
+In A24 &#x2019;s Primetime , the first predator confrontation unfolds in a bright, colorful home. For cinematographer David Bolen , that contrast was central to the scene&#x2019;s tension. &#x201C;This was like, we all felt a lot of anxiety about shooting this because we were like, &#x2018;OK, this is the first predator encounter. This sets the tone for everything. So we have to make sure it&#x2019;s good,&#x2019;&#x201D; he tells Deadline.
+
+Director Lance Oppenheim was drawn to &#x201C;really intense things happening in really brightly lit, beautiful homes,&#x201D; Bolen says. &#x201C;Someone&#x2019;s life is kind of over, but it&#x2019;s happening in this really bright, colorful space. So there&#x2019;s an interesting dynamic there.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+As the film re-creates the To Catch a Predator standoff, Chris Hansen ( newly minted James Bond actor Robert Pattinson ) confronts a man (Tony Revolori) who thought he was meeting a teenage girl. Bolen says the brightness leaves the man nowhere to hide. &#x201C;The light is shining directly on him, and no matter what, the cameras are going to capture him," he says. "There&#x2019;s an uneasiness about this happening that there&#x2019;s no place for this predator to hide. Right now, Chris Hansen has him exactly where he wants him.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Bolen and his gaffer pushed direct sunlight through the windows as Hansen descends the stairs, giving him a halo. &#x201C;This in many ways is his superhero shot,&#x201D; Bolen says. &#x201C;He&#x2019;s coming down from the stairs; he&#x2019;s presenting himself as the full Chris Hansen for the first time. So early on with my gaffer, I decided, &#x2018;OK, we&#x2019;re going to backlight him really, really heavy with direct sunlight. There&#x2019;s these windows above him right now, and we&#x2019;re pushing giant sunlight streaks through him to give him that kind of angelic feel. And that was to play into this like, yeah, he&#x2019;s a superhero in this moment. This is Chris Hansen.&#x2019;&#x201D;
+
+Editor Daniel Garber found another way to stretch the unease in a moment that went viral on social media when Hansen confronted the predator, saying: &#x201C;You see how this looks right?&#x201D; Was Garber surprised by the internet craze or did he have an inkling beforehand? &#x201C;In the edit, we&#x2019;re also trying to establish a lot of that unsettling atmosphere through the rhythm of it,&#x201D; he says. &#x201C;There are a lot of moments where we&#x2019;re holding on Chris as long as possible, really trying to milk the silences. And I think that draws out a lot of the uncanniness of this whole encounter.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Garber adds: &#x201C;Rob&#x2019;s performance is one of the most amazing things that I got to deal with in this film. He was, I think, always thinking about Chris Hansen not necessarily as a real person, but as the persona who exists as a meme online at this point. And so a lot of that process of studying the meme of Chris Hansen, I think comes through in the way that he portrays Chris in these moments.&#x201D;
+
+Further describing the iconic line, Garber continues: &#x201C;I think it went viral in part because Rob had developed all of these very specific physical performances that he knew would be the kind of moments that really stick in people&#x2019;s heads. Rob probably knew from the get-go which moments were going to go viral, and I don&#x2019;t know if I knew exactly, but I think we had a hunch.&#x201D;
+
+The kind of experimentation that this film required depends on deep trust. In The Process interview, Bolen and Garber explain that they have worked together for nearly a decade, building a shorthand that lets one department inspire the next. &#x201C;We&#x2019;re going to experiment, and we&#x2019;re going to try things, and we&#x2019;re not always going to be perfect, but we all support each other,&#x201D; Bolen says. &#x201C;Filmmaking&#x2019;s really hard, and it can be tough on you personally, and when you feel like you have family around you in the collaborators, that&#x2019;s really special.&#x201D;
+
+To learn more in-depth about the cinematography and editing involved in Primetime , watch the video above.
+
+============================================================
+[2] Elon Musk Admits He Feels 'Pretty Foolish' Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is 'Not MAGA'
+Source: Variety | Status: expanded | Words: 803
+Published: 2026-11-18T23:30:57+00:00
+URL: https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400
+------------------------------------------------------------
+SUMMARY:
+Elon Musk spent big backing Republicans in the 2026 midterm elections — which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate. Musk spent nearly $500 million during the 2026 midterm elections, including $200 million to try to defeat Senator-elect James Talarico in Texas. "I feel pretty foolish […]
+
+CONTENT / EXTRACTED DETAILS:
+Elon Musk spent big backing Republicans in the 2026 midterm elections — which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate .
+
+Musk spent nearly $500 million during the 2026 midterm elections, including $200 million to try to defeat Senator-elect James Talarico in Texas.
+
+"I feel pretty foolish about having spent so much money and and not seeing much for it," Musk conceded, "or maybe it it would have been much worse without that." Musk appeared virtually Wednesday at the New York Times&#x2019; 2026 DealBook Summit in New York City, connecting via videoconference from China, where the tech mogul is part of President Donald Trump's American delegation to the region. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'PUBG' Live-Action Series From Donald Glover, Stephen Glover in Development at Netflix How Netflix‘s Animated 'Steps’ Reimagines the Cinderella Story Through the Eyes of Her Asian Stepsisters and Finds a New Kind of Happily Ever After
+
+Earlier at the conference, Skydance CEO David Ellison said Musk — whose roles include founder, CEO and chief engineer of SpaceX and CEO of Tesla — is an investor in Skydance, the company formed through the megamerger of Paramount and Warner Bros. Discovery. (The subject of Skydance did not come up in Musk's appearance.)
+
+On the topic of the midterms, Musk said he believes the newly elected governor of Texas, Gina Hinojosa, "I think is going to be quite moderate. I think I don't think she's sort of a far-left governor, and and based on everything I've heard about her, I think things will be fine in Texas with [Hinojosa] as governor."
+
+Musk, who ranks as the world's wealthiest individual, insisted that "I'm not MAGA" — even though he has worn "Make American Great Again" hats and served as head of DOGE, the Trump administration's ad-hoc cost-cutting department, for several months in 2025 before he exited as a &#x201C;special government employee" amid a dispute with Trump. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Said Musk, "I'm not sure what MAGA means" but "if that means sort of blind adherence to a set of policies by the Republican Party then I certainly don't have that. I think there are positives and negatives in both parties… but politics is very tribal, and for a lot of people. A lot of people cannot see any good in in the other party, and they cannot see any bad in their own party because they're more or less invested in their party like it's their hometown sports team, and it's just their team, and they won't accept that there's anything that the other team can do that's good or anything that their team can do that's bad."
+
+Musk last month said SpaceX and Tesla are exploring a potential merger. "There's more and more areas of interaction or overlap with SpaceX and Tesla that that didn't exist before," he said. "So if you'd asked me five years ago, do I ever think there's any purpose in SpaceX and Tesla getting together? I would have said no." He continued, "really, it's just a question of do SpaceX and Tesla execute better together and create more value than if they're apart… and that would be up to the shareholders to decide."
+
+Musk also spoke about Nvidia CEO Jensen Huang's resignation last week , after the revelation that he had engaged in several affairs, including with an alleged Chinese spy and an Nvidia employee. Musk, who as suggested Huang be reinstated as Nvidia's CEO, said Haung's removal as chief executive of the AI company was like "kicking Michael Jordan off your team," while also acknowledging that Huang "certainly made some mistakes."
+
+Musk, interviewed by the New York Times' Andrew Ross Sorkin, discussed the controversy over Starlink's recent restrictions on satellite internet access to the Ukrainian military amid the war being waged on the country by Russia. Musk said, "From the beginning, I've said that Starlink is a civilian system. It is not meant to to be used for offensive drone strikes that kill people…. If you want to do that you need to do Starshield, which is a separate system that is controlled by the U.S. government, but do not ask me as as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers."
+
+Musk appeared at the DealBook conference in 2023 , where he accused advertisers who had pulled ads from X over his support of an antisemitic conspiracy theory of &#x201C;blackmail&#x201D; and told them — calling out Bob Iger, then CEO of Disney, by name — to "Go fuck yourself."
+
+============================================================
+[3] Elon Musk Feels "Pretty Foolish" For Donating Mega-Bucks To Losing MAGA In Midterms
 Source: Deadline | Status: expanded | Words: 580
 Published: 2026-11-18T23:25:34+00:00
 URL: https://deadline.com/2026/11/elon-musk-midterms-regrets-1237228534
 ------------------------------------------------------------
 SUMMARY:
-In a rare instance of humility and insight, the world's sometimes richest man admitted today he has expensive egg on his face out of MAGA's results in the midterm elections. “I feel pretty foolish having spent so much money and not seeing much for it," Elon Musk said Wednesday at the New York Times' Dealbook […]
+In a rare instance of humility and insight, Elon Musk admitted today he has expensive egg on his face out of MAGA's results in the midterm elections. “I feel pretty foolish having spent so much money and not seeing much for it," the world's sometimes richest man said Wednesday at the New York Times' Dealbook […]
 
 CONTENT / EXTRACTED DETAILS:
 In a rare instance of humility and insight, the world's sometimes richest man admitted today he has expensive egg on his face out of MAGA 's results in the midterm elections.
@@ -29,7 +89,7 @@ Insisting he is "not MAGA," Texas-based Musk offered hope he could work with new
 Musk added: "I do think that it's good to have some balance of power. You know, like not have as a general rule have not not have the presidency, senate, and House, all be of the same party." He continued: "What was my actual goal here Which failed, by the way, obviously, was to have the Senate be 51 Republican …obviously, the Republicans were routed in this in this election."
 
 ============================================================
-[2] The Latest 90 Day Fiancé Split Has Me Thinking One Spinoff Needs A Serious Overhaul
+[4] The Latest 90 Day Fiancé Split Has Me Thinking One Spinoff Needs A Serious Overhaul
 Source: CinemaBlend | Status: expanded | Words: 258
 Published: 2026-11-18T23:21:00+00:00
 URL: https://www.cinemablend.com/television/latest-90-day-fiance-split-has-me-thinking-90-day-the-last-resort-needs-overhaul
@@ -49,7 +109,7 @@ Only three couples that have participated in 90 Day: Hunt For Love are currently
 This is a question I'll continue to ask, especially in light of what happened between Shekinah and Sarper Güven. Shekinah claimed that the experience made their relationship worse , and by watching the season, I could see how that was the case.
 
 ============================================================
-[3] 3 More Cult Sci-Fi Movies That Were Too Weird For Mainstream Audiences, Including A Controversial Dystopian Comedy
+[5] 3 More Cult Sci-Fi Movies That Were Too Weird For Mainstream Audiences, Including A Controversial Dystopian Comedy
 Source: ComicBook.com | Status: expanded | Words: 751
 Published: 2026-11-18T23:17:00+00:00
 URL: https://comicbook.com/movies/list/3-more-cult-sci-fi-movies-that-were-too-weird-for-mainstream-audiences-including-a-controversial-dystopian-comedy
@@ -73,7 +133,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 5 Comic Sidekicks Who Outclass Their Mentors (Even If They Don't Look the Part)
+[6] 5 Comic Sidekicks Who Outclass Their Mentors (Even If They Don't Look the Part)
 Source: ComicBook.com | Status: expanded | Words: 1305
 Published: 2026-11-18T23:07:00+00:00
 URL: https://comicbook.com/comics/list/5-comic-sidekicks-who-outclass-their-mentors-even-if-they-dont-look-the-part
@@ -113,7 +173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Ebenezer Was Johnny Depp’s Big Screen ‘Test’ (And Studios Barely Gave Him A Passing Grade)
+[7] Ebenezer Was Johnny Depp’s Big Screen ‘Test’ (And Studios Barely Gave Him A Passing Grade)
 Source: CinemaBlend | Status: expanded | Words: 253
 Published: 2026-11-18T23:06:00+00:00
 URL: https://www.cinemablend.com/movies/ebenezer-johnny-depps-big-screen-test-studios-barely-gave-him-passing-grade
@@ -129,7 +189,7 @@ At the time of writing this story, Ebenzer has made $43.4 million on a reported 
 We should probably take these quotes with a grain of salt, but it should be interesting to see where/if Johnny Depp appears in another major film production. He returned to acting in Jeanne du Barry , but that was a French film produced outside of the Hollywood machine. While he's got plenty of beloved movies on his resume, it's unclear if moviegoing audiences can get past the Amber Heard ordeal and still want to show up in theaters to see him on the big screen.
 
 ============================================================
-[6] 'Yaga' Creator Wanted To Sexualize Men "The Way Female Bodies Are Looked At" In Thriller Genre
+[8] 'Yaga' Creator Wanted To Sexualize Men "The Way Female Bodies Are Looked At" In Thriller Genre
 Source: Deadline | Status: expanded | Words: 291
 Published: 2026-11-18T23:04:03+00:00
 URL: https://deadline.com/2026/11/yaga-creator-sexualize-men-way-female-bodies-thriller-genre-1237228493
@@ -151,7 +211,7 @@ In Yaga , private investigator Charlie Rapp (Reid) is hired to find Henry Park (
 New episodes of Yaga are available to stream Fridays on Crave in Canada and AMC+ in the US, with the final two episodes set for Nov. 27.
 
 ============================================================
-[7] Michelle Monaghan &#038; Justin Theroux Are Having A 'Sleepover' With Blumhouse Atomic &#038; Universal
+[9] Michelle Monaghan &#038; Justin Theroux Are Having A 'Sleepover' With Blumhouse Atomic &#038; Universal
 Source: Deadline | Status: expanded | Words: 543
 Published: 2026-11-18T23:01:01+00:00
 URL: https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526
@@ -177,7 +237,7 @@ Monaghan was most recently seen in Netflix&#x2019;s The Whisper Man . Upcoming s
 Chase's Insidious: Out of the Further is the second highest grossing in the 16-year old franchise minting $172M worldwide. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[8] Blade Runner 2099: Michelle Yeoh Reveals How An Unexpected Character Inspired Her Performance in Prime Video's Series [EXCLUSIVE]
+[10] Blade Runner 2099: Michelle Yeoh Reveals How An Unexpected Character Inspired Her Performance in Prime Video's Series [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 530
 Published: 2026-11-18T23:00:51+00:00
 URL: https://comicbook.com/tv-shows/news/blade-runner-2099-michelle-yeoh-reveals-how-roy-batty-inspired-her-character-in-prime-video-series-exclusive
@@ -205,7 +265,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Blumhouse Atomic's 'Sleepover' to Star Michelle Monaghan, Justin Theroux
+[11] Blumhouse Atomic's 'Sleepover' to Star Michelle Monaghan, Justin Theroux
 Source: The Hollywood Reporter | Status: expanded | Words: 320
 Published: 2026-11-18T23:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/blumhouse-atomic-sleepover-michelle-monaghan-justin-theroux-1236758889
@@ -229,7 +289,7 @@ Two-time Emmy winner Theroux was recently on screen with Netflix's Running Point
 Monaghan is repped by Gersh, Anonymous Content, Entertainment 360, Narrative, and Sloane Offer. Theroux is repped by CAA, Lighthouse Management & Media, Ingenuity Group and Toczek Suddleson Law Group.
 
 ============================================================
-[10] Michelle Monaghan and Justin Theroux to Star in ‘Sleepover’ From Blumhouse Atomic and Universal
+[12] Michelle Monaghan and Justin Theroux to Star in ‘Sleepover’ From Blumhouse Atomic and Universal
 Source: Variety | Status: expanded | Words: 489
 Published: 2026-11-18T23:00:00+00:00
 URL: https://variety.com/2026/film/news/michelle-monaghan-justin-theroux-sleepover-blumhouse-atomic-1236952362
@@ -255,7 +315,7 @@ Jason Blum serves as producer. Chase and McGuire serve as executive producers, w
 Monaghan is represented by Gersh, Anonymous Content, Entertainment 360, Narrative and Sloane, Offer, Weber & Dern. Theroux is represented by CAA, Lighthouse Management & Media, Ingenuity Group and Toczek Suddleson Law Group.
 
 ============================================================
-[11] ‘Secret Lives of Mormon Wives’ EPs on How ‘Orange County’ Became the First Franchise Extension, Season 2 Hopes and “Exploring” More Spinoffs
+[13] ‘Secret Lives of Mormon Wives’ EPs on How ‘Orange County’ Became the First Franchise Extension, Season 2 Hopes and “Exploring” More Spinoffs
 Source: The Hollywood Reporter | Status: expanded | Words: 1116
 Published: 2026-11-18T22:59:42+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/secret-lives-mormon-wives-orange-county-season-2-future-spinoffs-1236758893
@@ -307,7 +367,7 @@ As for the future of Mormon Wives: Orange County , he jokes, &#x201C;As far as p
 Season one of The Secret Lives of Mormon Wives: Orange County is available to stream on Hulu .
 
 ============================================================
-[12] The Next Bond Theme: From Taylor Swift to Raye, 16 Singers Who Could Croon for Robert Pattinson’s 007
+[14] The Next Bond Theme: From Taylor Swift to Raye, 16 Singers Who Could Croon for Robert Pattinson’s 007
 Source: Variety | Status: expanded | Words: 1537
 Published: 2026-11-18T22:58:41+00:00
 URL: https://variety.com/lists/bond-theme-contenders-robert-pattinson
@@ -349,7 +409,7 @@ Sure, there's novelty in getting Pattinson's longtime fiancée in the mix to sin
 The Paramore belter has shown, between her band's genre experimentation and her own freewheeling solo material, that she's not constrained by sound. Although 007-style bombast would be yet another gear, it'd be fascinating for to try that style on for size. Besides, the Villeneuve Bond will inevitably be edgy: Williams is the perfect choice to bring some grit to the secret agent glam. Besides, Pattinson ushered in an era of the emo Batman … could an emo Bond be next? If so, who better than Williams to sing his feelings! — W.E.
 
 ============================================================
-[13] Jared Padalecki And Leighton Meester Bonded Over Gossip Girl And Gilmore Girls In A G-Oriented Way I Didn't See Coming
+[15] Jared Padalecki And Leighton Meester Bonded Over Gossip Girl And Gilmore Girls In A G-Oriented Way I Didn't See Coming
 Source: CinemaBlend | Status: expanded | Words: 340
 Published: 2026-11-18T22:50:00+00:00
 URL: https://www.cinemablend.com/streaming-news/jared-padalecki-leighton-meester-bonded-gossip-girl-gilmore-girls-guarding-stars
@@ -369,7 +429,7 @@ Yeah, this book-to-screen adaptation of Katherine Center’s The Bodyguard is fu
 So, the double-G connection, if you will, really served them well on this. While Meester and Padalecki were never on the same shows, they both broke big through projects that aired on The CW, and having that background helped them get off to a great start in Guarding Stars .
 
 ============================================================
-[14] Rose Byrne on What Lured Her to 'The Good Daughter' and Why That Complicated Ending Wraps the Series
+[16] Rose Byrne on What Lured Her to 'The Good Daughter' and Why That Complicated Ending Wraps the Series
 Source: The Hollywood Reporter | Status: expanded | Words: 2657
 Published: 2026-11-18T22:38:43+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/rose-byrne-the-good-daughter-finale-ending-show-1236758885
@@ -457,7 +517,7 @@ I think diving back into this genre was really interesting for me [because] I ha
 All six episodes of The Good Daughter are streaming on Peacoc k.
 
 ============================================================
-[15] Tom Holland’s Funny Reaction To Seeing Zendaya In The Odyssey Is Just Too Perfect
+[17] Tom Holland’s Funny Reaction To Seeing Zendaya In The Odyssey Is Just Too Perfect
 Source: CinemaBlend | Status: expanded | Words: 210
 Published: 2026-11-18T22:35:00+00:00
 URL: https://www.cinemablend.com/movies/tom-holland-funny-reaction-seeing-zendaya-the-odyssey-just-too-perfect-christopher-nolan
@@ -473,7 +533,7 @@ Now, Holland did have a front-row seat to watch her work her magic. The spouses 
 The high praise is valid, as there’s good reason why Nolan chose Zendaya to play the goddess of wisdom. You just have to look at this past year alone to see how versatile she is, and she’s not even done. She still has the upcoming Dune : Part Three hitting the 2026 schedule on December 18 and will also be heard in the upcoming fifth Shrek movie.
 
 ============================================================
-[16] Oh Man, Nic Cage And Christian Bale Were In Prosthetics While Meeting Their Madden Co-Stars
+[18] Oh Man, Nic Cage And Christian Bale Were In Prosthetics While Meeting Their Madden Co-Stars
 Source: CinemaBlend | Status: expanded | Words: 248
 Published: 2026-11-18T22:21:12+00:00
 URL: https://www.cinemablend.com/movies/nicolas-cage-christian-bale-wearing-prosthetic-meeting-madden-co-stars-kathryn-hahn-sienna-miller
@@ -489,7 +549,7 @@ Miller plays the role of Carol Sagal Davis – the wife of late Oakland Raiders 
 Something I can’t help but wonder is whether Cage’s Longlegs co-stars ever met him when he wasn’t dressed as the titular serial killer . I can’t imagine Cage sparking unease on set whenever he wasn’t giving that creepy and perfect performance . Yet I can definitely admit I’d still be genuinely creeped out just by being in his presence.
 
 ============================================================
-[17] 5 1990s Anime Classics That Still Hit Today
+[19] 5 1990s Anime Classics That Still Hit Today
 Source: ComicBook.com | Status: expanded | Words: 1126
 Published: 2026-11-18T22:21:00+00:00
 URL: https://comicbook.com/anime/list/5-1990s-anime-classics-that-still-hit-today
@@ -529,7 +589,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Where to Watch the 2026 CMA Awards, Featuring Taylor Swift's Return to the Stage
+[20] Where to Watch the 2026 CMA Awards, Featuring Taylor Swift's Return to the Stage
 Source: The Hollywood Reporter | Status: expanded | Words: 459
 Published: 2026-11-18T22:05:23+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-cma-awards-2026-free-stream-taylor-swift-performance-1236758756
@@ -563,7 +623,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 Visit Sling.com to check station availability, and compare streaming packages with THR 's Sling breakdown here .
 
 ============================================================
-[19] Spyro: A Realm Beyond Teases New Reveal for The Game Awards
+[21] Spyro: A Realm Beyond Teases New Reveal for The Game Awards
 Source: ComicBook.com | Status: expanded | Words: 888
 Published: 2026-11-18T22:05:12+00:00
 URL: https://comicbook.com/gaming/news/spyro-a-realm-beyond-teases-new-reveal-for-the-game-awards
@@ -595,7 +655,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] 'GTA VI' Industry Domination Will Not End Anytime Soon
+[22] 'GTA VI' Industry Domination Will Not End Anytime Soon
 Source: The Hollywood Reporter | Status: expanded | Words: 733
 Published: 2026-11-18T21:54:31+00:00
 URL: https://www.hollywoodreporter.com/business/digital/gta-vi-sales-reviews-pc-release-grand-theft-auto-6-online-1236758402
@@ -633,7 +693,7 @@ Van Dreunen says GTA VI will be the dominant video game for "easily" a year, and
 GTA VI officially releases on Thursday. Completely unrelated, boss, I feel a cold coming on…
 
 ============================================================
-[21] David Ellison Goes Personal: Raised By Single Mom, Bonded With Dad As Teen, Massive VHS Collection
+[23] David Ellison Goes Personal: Raised By Single Mom, Bonded With Dad As Teen, Massive VHS Collection
 Source: Deadline | Status: expanded | Words: 1175
 Published: 2026-11-18T21:51:35+00:00
 URL: https://deadline.com/2026/11/david-ellison-skydance-family-mother-father-1237228366
@@ -699,7 +759,7 @@ Back to family, Sorkin noted the Skydance portfolio includes Succession , Yellow
 &#x201C;There's nothing more important to me. My kids, my wife and I. We've been married for 15 years. We've been together for 20 years. And you know family cannot be more important to me. And apologies if [it&#x2019;s] a little boring because I pretty much work and I hang out with my family, my kids, and those are the things that really matter to me.&#x201D;
 
 ============================================================
-[22] ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess
+[24] ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-18T21:48:15+00:00
 URL: https://theplaylist.net/heartland-review-jessica-chastain-shana-feste-20261118
@@ -711,7 +771,7 @@ CONTENT / EXTRACTED DETAILS:
 Picture this. A screenwriter walks into a room full of studio executives and pitches a thriller about a rising country singer who disappears in Nashville. The police are inexplicably indifferent, her family is getting nowhere, and so who do they enlist to play detective? Her aunt, a disgraced country music star whose career imploded two decades earlier, who returns home to kick up some dust and play amateur snoop. Oh, and she’s played by Jessica Chastain , an Academy Award-winning actress who, for reasons that become increasingly difficult to fathom, has agreed to star in this thing. Continue reading ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess at The Playlist.
 
 ============================================================
-[23] Kathryn Newton, Nina Dobrev, Adam Devine &#038; Scott Eastwood To Star In Rom-Com 'Sorry About My Friends'
+[25] Kathryn Newton, Nina Dobrev, Adam Devine &#038; Scott Eastwood To Star In Rom-Com 'Sorry About My Friends'
 Source: Deadline | Status: expanded | Words: 541
 Published: 2026-11-18T21:48:03+00:00
 URL: https://deadline.com/2026/11/kathryn-newton-nina-dobrev-adam-devine-sorry-about-my-friends-1237228476
@@ -735,7 +795,7 @@ Eastwood comes to the new film with rom-com experience from Jason Orley's Amazon
 Hardcastle is a British filmmaker whose first feature, the Rebel Wilson comedy Senior Year , topped Netflix's charts in over 60 countries. He's also a prolific television director whose credits include the pilot of Richard Lovely for Fox starring Tom Lennon and the pilot of American Woman , which was picked up to series at Paramount, as well as episodes of Grace & Frankie , You're the Worst , Crazy Ex-Girlfriend and Superstore . He recently wrapped directing a block of Elle for Hello Sunshine and Amazon, and Einstein for CBS, and is repped by Artists First and Paradigm.
 
 ============================================================
-[24] GTA 6 Removes a Major GTA 5 Feature, But the Reasoning Makes Sense
+[26] GTA 6 Removes a Major GTA 5 Feature, But the Reasoning Makes Sense
 Source: ComicBook.com | Status: expanded | Words: 494
 Published: 2026-11-18T21:44:32+00:00
 URL: https://comicbook.com/gaming/news/gta-6-removes-a-major-gta-5-feature-but-the-reasoning-makes-sense
@@ -763,7 +823,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] 'Sentimental Value' Casting Guru Recalls Meta Stellan Skarsgard and Elle Fanning Experience
+[27] 'Sentimental Value' Casting Guru Recalls Meta Stellan Skarsgard and Elle Fanning Experience
 Source: The Hollywood Reporter | Status: expanded | Words: 723
 Published: 2026-11-18T21:44:22+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sentimental-value-stellan-skarsgard-elle-fanning-meta-story-1236758742
@@ -791,7 +851,7 @@ The casting director also shared insight into how Elle Fanning ended up in the f
 Haga also recalled Fanning's first visit to Oslo to do fittings and rehearsals. "The house that's in the film is a house in Oslo that they had rented for half a year or so," she said. "The rehearsals in the film are happening in the house where he's filming, and we also did the rehearsals in the house, and they asked me to read the other female parts of the scenes. So that was cool for me to be part of a scene with Stellan and Elle, and that was the first time I met her. But it was so meta because we were rehearsing a rehearsal scene and doing it on the location, and she had come over from the U.S., which was her first time in Oslo &#x2014; like her character. So it was super weird, but very fun."
 
 ============================================================
-[26] I Enjoyed The Circle’s Hulu Premiere, But One Major Change Upset Me More Than I Thought It Would
+[28] I Enjoyed The Circle’s Hulu Premiere, But One Major Change Upset Me More Than I Thought It Would
 Source: CinemaBlend | Status: expanded | Words: 200
 Published: 2026-11-18T21:42:16+00:00
 URL: https://www.cinemablend.com/streaming-news/enjoyed-the-circle-hulu-premiere-but-host-change-upset-me
@@ -809,7 +869,7 @@ It may just take time for me to get used to Tinx (Christina Najjar), who comes i
 Tinx has the resume for the role, but one episode in, I don't really see the same personality in her that I saw in Michelle Buteau. Granted, it's been one episode, and if we were all judged by our first day on the job, many of us would probably in trouble.
 
 ============================================================
-[27] PS5 Users Can't Believe PSN Is Struggling Before GTA 6 Launch: "Sony's Servers Called Out Sick Too"
+[29] PS5 Users Can't Believe PSN Is Struggling Before GTA 6 Launch: "Sony's Servers Called Out Sick Too"
 Source: ComicBook.com | Status: expanded | Words: 516
 Published: 2026-11-18T21:42:12+00:00
 URL: https://comicbook.com/gaming/news/ps5-users-cant-believe-psn-is-struggling-before-gta-6-launch-sonys-servers-called-out-sick-too
@@ -839,7 +899,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Robert Downey Jr. Breaks Down His MCU Return in New Avengers: Doomsday Video, And Why He's Back
+[30] Robert Downey Jr. Breaks Down His MCU Return in New Avengers: Doomsday Video, And Why He's Back
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-18T21:35:08+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-breaks-down-his-mcu-return-in-new-avengers-doomsday-video-and-why-hes-back
@@ -865,7 +925,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] 'Longlegs' Producer Dan Kagan And His Banner Traffic Ink Partnership With Plan B
+[31] 'Longlegs' Producer Dan Kagan And His Banner Traffic Ink Partnership With Plan B
 Source: Deadline | Status: expanded | Words: 409
 Published: 2026-11-18T21:30:00+00:00
 URL: https://deadline.com/2026/11/longlegs-dan-kagan-plan-b-1237228224
@@ -891,7 +951,7 @@ Some of Plan B's other recent credits include Heart of the Beast and Jane Schoen
 Kagan is represented by CAA and Granderson Des Rochers.
 
 ============================================================
-[30] As U.S. Infrastructure Crumbles, ABC's 'World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID
+[32] As U.S. Infrastructure Crumbles, ABC's 'World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID
 Source: Variety | Status: expanded | Words: 503
 Published: 2026-11-18T21:24:55+00:00
 URL: https://variety.com/2026/tv/news/abc-world-news-tonight-ratings-best-since-covid-1236952295
@@ -913,7 +973,7 @@ Over the entire week (except for Monday, which wasn't included due to Monday Nig
 Season to date, &#x201C;World News Tonight&#x201D; is up 14% year-to-year in total viewers (8.679 million vs. 7.586 million), up 34% with adults 25-54 (1.214 million vs. 907,000) and up 40% with adults 18-49 (883,000 vs. 629,000), based on Most Current Big Data+Panel Ratings. ABC notes that &#x201C;World News Tonight&#x201D; is posting its best ratings since the 2020-2021 season and that its total viewers lead over &#x201C;NBC Nightly News&#x201D; is its largest advantage in 32 years, and its lead over &#x201C;CBS Evening News&#x201D; is its largest advantage in at least 35 years.
 
 ============================================================
-[31] ESPN Now Has 54 Million Pay-TV Subscribers, Nearly Half Its 2011 Peak Of 100 Million
+[33] ESPN Now Has 54 Million Pay-TV Subscribers, Nearly Half Its 2011 Peak Of 100 Million
 Source: Deadline | Status: expanded | Words: 517
 Published: 2026-11-18T21:24:42+00:00
 URL: https://deadline.com/2026/11/espn-pay-tv-subscribers-million-disney-streaming-1237228395
@@ -939,7 +999,7 @@ As it approaches its 50th anniversary in 2029, ESPN is racking up some milestone
 Longtime investor Hearst Corp. now has an 18% stake in ESPN, putting Disney's current ownership at 72%.
 
 ============================================================
-[32] Dragon Ball Super Needs to Reveal More of Its Multiverse
+[34] Dragon Ball Super Needs to Reveal More of Its Multiverse
 Source: ComicBook.com | Status: expanded | Words: 791
 Published: 2026-11-18T21:18:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-needs-to-reveal-more-of-its-multiverse
@@ -969,7 +1029,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Bear Grylls, Dhar Mann, Erin Foster, Lonnie Ali, Cameron Alexander and Sonja Warfield to Be Honored at Variety’s Third Annual Faith &#038; Spirituality in Entertainment Honors
+[35] Bear Grylls, Dhar Mann, Erin Foster, Lonnie Ali, Cameron Alexander and Sonja Warfield to Be Honored at Variety’s Third Annual Faith &#038; Spirituality in Entertainment Honors
 Source: Variety | Status: expanded | Words: 849
 Published: 2026-11-18T21:12:57+00:00
 URL: https://variety.com/2026/biz/news/honorees-faith-spirituality-honors-1236952264
@@ -1007,7 +1067,7 @@ Wilson is the Emmy-nominated and SAG award-winning actor best known for playing 
 Past honorees have included Mo Amer, Tiffany Haddish, Viola Davis, Sheryl Lee Ralph, Jay Shetty, and Julius Tennon.
 
 ============================================================
-[34] Ron Howard Wasn't Sure He Was the Right Director for 'Avedon'; This Is What Changed His Mind
+[36] Ron Howard Wasn't Sure He Was the Right Director for 'Avedon'; This Is What Changed His Mind
 Source: The Hollywood Reporter | Status: expanded | Words: 815
 Published: 2026-11-18T21:09:09+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ron-howard-avedon-scad-interview-1236743055
@@ -1039,7 +1099,7 @@ Added Howard of how Richard might approach AI, &#x201C;My guess is also with his
 Watch the full Q&A in the video above.
 
 ============================================================
-[35] Florence Pugh Is Tired Of People Making Stuff Up About Her Body (Especially Her Nose): ‘I’m Disturbed’
+[37] Florence Pugh Is Tired Of People Making Stuff Up About Her Body (Especially Her Nose): ‘I’m Disturbed’
 Source: CinemaBlend | Status: expanded | Words: 411
 Published: 2026-11-18T21:07:42+00:00
 URL: https://www.cinemablend.com/movies/florence-pugh-responds-body-comments-plastic-surgery-ozempic
@@ -1063,7 +1123,7 @@ Pugh remarked that on one occasion, the size of her thighs were even pointed out
 These days, as there's a lot of changing body norms in the media, partially propelled by the rise of GLP-1s , Florence Pugh continues to fight for loving bodies as they are in her latest social media post. You can see her in both Avengers: Doomsday and Dune : Part Three on December 18.
 
 ============================================================
-[36] I Wasn't Expecting Eternally Yours To Set Up So Many Big Things In Its First Season (And, I'm Pumped)
+[38] I Wasn't Expecting Eternally Yours To Set Up So Many Big Things In Its First Season (And, I'm Pumped)
 Source: CinemaBlend | Status: expanded | Words: 228
 Published: 2026-11-18T21:05:00+00:00
 URL: https://www.cinemablend.com/television/eternally-yours-many-big-things-first-season-pumped
@@ -1081,7 +1141,7 @@ That brings me to Episode 6, “Eternal Sunshine of Phyllis’s Mind,” where I
 The final setup, which is definitely my favorite, also comes from last week’s episode. Phyllis is one of the best parts of Eternally Yours so far, but I was curious if they would address how messed up it is that her memories are always being wiped.
 
 ============================================================
-[37] 5 Comic Book Movies That Are Actually Better Than The Comics They’re Based On (1 Was Nominated For 2 Oscars)
+[39] 5 Comic Book Movies That Are Actually Better Than The Comics They’re Based On (1 Was Nominated For 2 Oscars)
 Source: ComicBook.com | Status: expanded | Words: 1144
 Published: 2026-11-18T21:01:00+00:00
 URL: https://comicbook.com/movies/list/5-comic-book-movies-that-are-actually-better-than-the-comics-theyre-based-on-1-was-nominated-for-2-oscars
@@ -1109,7 +1169,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically
+[40] Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically
 Source: Variety | Status: expanded | Words: 518
 Published: 2026-11-18T21:00:00+00:00
 URL: https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229
@@ -1123,7 +1183,7 @@ Willa and Women Make Movies have teamed up to distribute documentary &#x201C; Lo
 &#x2018;Love Apptually&#x2019; is a 7th Empire Media production, presented by Willa in association with Minderoo Pictures and the Concordia Fellowship, with support from the Alfred P. Sloan Foundation and the Perspective Fund. The film is produced by Kantayya and Woodward. Executive producers include Davis Guggenheim, Rahdi Taylor, Doron Weber, and Malinda Wink, with co-executive producers Meryl Metni, Natasha Dolby and David Dolby. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[39] Sasha Lane, Alia Shawkat &#038; Simon Rex Wrap On Horror Thriller 'Nepo Babies'
+[41] Sasha Lane, Alia Shawkat &#038; Simon Rex Wrap On Horror Thriller 'Nepo Babies'
 Source: Deadline | Status: expanded | Words: 469
 Published: 2026-11-18T20:55:15+00:00
 URL: https://deadline.com/2026/11/sasha-lane-alia-shawkat-simon-rex-wrap-nepo-babies-1237228406
@@ -1151,7 +1211,7 @@ Rex is coming off films including The Leader , Operation Taco Gary's and Easy's 
 Kessler is repped by IAG and Reel Talent; Argy by UTA and Yorn Levine; Farnsworth by BRS/Gage and Venture Entertainment Partners; Martini by UTA and Untitled; Zelnick by WME, Mosaic and Ziffren Brittenham; and Perskie by WME and Hirsch Wallerstein Hayum.
 
 ============================================================
-[40] Whoops, The Devil Wears Prada 2 Designer Seemingly Leaked Info About Anne Hathaway’s Baby
+[42] Whoops, The Devil Wears Prada 2 Designer Seemingly Leaked Info About Anne Hathaway’s Baby
 Source: CinemaBlend | Status: expanded | Words: 273
 Published: 2026-11-18T20:51:48+00:00
 URL: https://www.cinemablend.com/movies/the-devil-wears-prada-2-designer-leaked-gender-anne-hathaway-baby
@@ -1169,7 +1229,7 @@ Now, we know her baby’s gender too. It’s unclear if the actress was aware of
 At the time of this writing, Hathaway has not posted about giving birth. In fact, since she vanished in a plume of smoke, she’s only posted twice – once on October 27 to promote Verity’s VOD release (which was filmed when they made the movie) and another time on November 12 to wish Ryan Gosling a happy birthday (they share the same birthday, by the way). So, it’s unclear how she’d feel about this information regarding her baby’s gender being public knowledge.
 
 ============================================================
-[41] Sarah Has 'One Month' to Leave Her Parents' Home. She's 45. (Exclusive Clip, Director Chat)
+[43] Sarah Has 'One Month' to Leave Her Parents' Home. She's 45. (Exclusive Clip, Director Chat)
 Source: The Hollywood Reporter | Status: expanded | Words: 998
 Published: 2026-11-18T20:49:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-film-one-month-interview-exclusive-clip-1236758323
@@ -1209,7 +1269,7 @@ As you can see in the exclusive clip that THR could premiere above, music is a k
 "Maybe the hardest thing for this film was getting the music," Vitkova-Kosev says. "It took me a year and a half. I did it on my own. I didn't hire anybody to do that. I was in contact with the companies, and the first thing that they had to understand was that we had limitations in the budget. So basically, my choice as a producer was to not pay myself for my work as a screenwriter, director, and producer, but pay for the music. I feel music is important and something that will stay."
 
 ============================================================
-[42] Marvel Just Reimagined Doctor Octopus in the Most Disturbing Way Possible
+[44] Marvel Just Reimagined Doctor Octopus in the Most Disturbing Way Possible
 Source: ComicBook.com | Status: expanded | Words: 887
 Published: 2026-11-18T20:48:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-just-reimagined-doctor-octopus-in-the-most-disturbing-way-possible
@@ -1241,7 +1301,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] 'Dìdi's Sean Wang To Direct 'How To Rule The World' For Warner Bros.
+[45] 'Dìdi's Sean Wang To Direct 'How To Rule The World' For Warner Bros.
 Source: Deadline | Status: expanded | Words: 616
 Published: 2026-11-18T20:45:00+00:00
 URL: https://deadline.com/2026/11/sean-wang-to-direct-how-to-rule-the-world-warner-bros-1237228369
@@ -1269,7 +1329,7 @@ In 2024, Wang was named a BAFTA Breakthrough Artist and received the Sundance Va
 Baker is repped by CAA and published by Penguin Press.
 
 ============================================================
-[44] I Didn’t Expect Jennifer Love Hewitt’s Intense Take On Reuniting With Ryan Phillippe For 9-1-1
+[46] I Didn’t Expect Jennifer Love Hewitt’s Intense Take On Reuniting With Ryan Phillippe For 9-1-1
 Source: CinemaBlend | Status: expanded | Words: 298
 Published: 2026-11-18T20:44:56+00:00
 URL: https://www.cinemablend.com/television/jennifer-love-hewitt-shares-intense-take-reunion-ryan-phillippe-9-1-1
@@ -1287,7 +1347,7 @@ I love that even though they’ve worked together before, Hewitt can still have 
 As for right now, details surrounding the next 9-1-1 and 9-1-1: Nashville crossover have not been revealed, and I'm eager to see what brings Rogue to Los Angeles. After trying to track down a serial killer in Nashville who is using biblical plagues, hopefully this trip out West will be a bit lighter for him. Of course, if anyone can help him, it’s Hewitt’s Maddie Buckley-Han, who is arguably the best 9-1-1 dispatcher in LA.
 
 ============================================================
-[45] Disney's Hexed Team Reveal How Film's Witch School Is Totally Different From Wicked, Harry Potter [EXCLUSIVE]
+[47] Disney's Hexed Team Reveal How Film's Witch School Is Totally Different From Wicked, Harry Potter [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 748
 Published: 2026-11-18T20:43:57+00:00
 URL: https://comicbook.com/movies/news/disneys-hexed-team-reveal-how-films-witch-school-is-totally-different-from-wicked-harry-potter-exclusive
@@ -1317,7 +1377,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] GTA 6 - When Can You Get a New Car?
+[48] GTA 6 - When Can You Get a New Car?
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-18T20:37:55+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-when-can-you-get-a-new-car
@@ -1343,7 +1403,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD's Meg Maro To Depart
+[49] Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD's Meg Maro To Depart
 Source: Deadline | Status: expanded | Words: 287
 Published: 2026-11-18T20:31:17+00:00
 URL: https://deadline.com/2026/11/skydance-chief-marketing-officer-rebecca-mall-leam-meg-maro-1237228359
@@ -1363,7 +1423,7 @@ Also new is the creation of a Franchise and Kids & Family marketing unit lead by
 Departing in the restructuring is Meg Maro, WBD's Global Head of Franchise, who will leave at the end of year.
 
 ============================================================
-[48] Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai &#038; Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
+[50] Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai &#038; Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
 Source: Deadline | Status: expanded | Words: 529
 Published: 2026-11-18T20:30:00+00:00
 URL: https://deadline.com/2026/11/doc-talk-anne-lai-jessie-fairbanks-sam-pollard-jm-harper-1237227326
@@ -1383,40 +1443,4 @@ Harper joins Doc Talk along with Pollard, discussing his award-winning documenta
 That&#x2019;s on the new episode of Doc Talk hosted by Oscar winner John Ridley ( 12 Years a Slave , Shirley ) and Matt Carey, Deadline&#x2019;s senior documentary editor. The pod is a production of Deadline and Ridley&#x2019;s N&#x14D; Studios.
 
 Listen to the episode above or on major podcast platforms including Spotify , iHeart and Apple .
-
-============================================================
-[49] Robert Pattinson Allegedly Got A Big Payday Just For Auditioning For Bond (And More Money Is On The Way)
-Source: CinemaBlend | Status: expanded | Words: 279
-Published: 2026-11-18T20:28:10+00:00
-URL: https://www.cinemablend.com/movies/robert-pattinson-alleged-big-payday-james-bond-audition-contract
-------------------------------------------------------------
-SUMMARY:
-It really pays to play the MI6 agent.
-
-CONTENT / EXTRACTED DETAILS:
-After considerable speculation and a plethora of reports, it was finally confirmed this week that Robert Pattinson would take on the mantle of James Bond . I personally didn’t have my money on the Batman actor trading in his cape for a suit, but I'm not mad at it! Now, additional details are starting to reach the surface, as it's been alleged that Pattinson was pulled into an audition after executives were struggling to make a decision. With that, he was allegedly paid a large sum of money to test for the role, and it seems a lot more of that green could come his way.
-
-Pattinson -- who has since been congratulated by the British Royal Family and more -- the Royal Family welcomed him as the next Bond. Apparently, the Drama star has signed a three-year deal to play Commander Bond and could allegedly make somewhere between £58 million ($76 million) and £75 million ($98 million). Again, none of this is confirmed, but such a paycheck would make sense, given the deal and the sheer size of this storied IP.
-
-Details on Bond 26 are being kept under wraps, including the title and premise. At this point, it also feels unlikely that it'll be released in 2027. However, we do know that Denis Villeneuve will be directing the movie, meaning this will be a Dune reunion for him and Pattinson. There is a lot of speculation surrounding who will join Pattinson, as names are being thrown out for the next Bond villain. And, of course, many are wondering who will be the next Bond girl with rumors placing Margaret Qualley in the lead as a strong candidate.
-
-============================================================
-[50] Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition
-Source: Deadline | Status: expanded | Words: 208
-Published: 2026-11-18T20:20:33+00:00
-URL: https://deadline.com/2026/11/newsmax-fox-roku-antitrust-lawsuit-1237228360
-------------------------------------------------------------
-SUMMARY:
-Newsmax has filed an antitrust lawsuit challenging Fox Corp.'s $22 billion acquisition of Roku, a transaction that was closed earlier this month. In the lawsuit, filed in federal court in San Jose, claimed that the Justice Department "allowed this merger to an effective monopoly to close unchallenged," while Newsmax's legal team dismissed a set of […]
-
-CONTENT / EXTRACTED DETAILS:
-Newsmax has filed an antitrust lawsuit challenging Fox Corp. 's $22 billion acquisition of Roku , a transaction that was closed earlier this month.
-
-In the lawsuit, filed in federal court in San Jose, claims that the Justice Department "allowed this merger to an effective monopoly to close unchallenged," dismissing a set of commitments that Fox made as "ill-defined" and with "no evident enforcement mechanism."
-
-Newsmax contends that Roku's Roku Channel with Fox's Tubi have a combined 70% share in the market for free ad supported television streaming channels.
-
-"DOJ virtually never clears a transaction combining the two leading competitors in a concentrated market; it typically demands divestiture of one or the other to protect competition," Newsmax's legal team wrote in their lawsuit . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-A Fox Corp. spokesperson did not immediately return a request for comment.
 
