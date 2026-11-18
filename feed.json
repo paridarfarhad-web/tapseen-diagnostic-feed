@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T01:10:45.185Z"
+    "updated_at": "2026-11-18T01:18:39.178Z"
   },
   "articles": [
+    {
+      "id": "3cc1580c-20ca-4146-9aad-eec21fe83f6e",
+      "title": "Darian Lanzetta Out At Mattel Studios",
+      "summary": "EXCLUSIVE: Darian Lanzetta is out at Mattel Studios, sources tell Deadline. The circumstances surrounding Lanzetta's departure weren't disclosed. No next destination was given. Reps for Mattel Studios declined to comment. Lanzetta joined the company as Senior Executive, Film in June 2025 — when toy maker Mattel merged its film and television divisions under the banner […]",
+      "content": "EXCLUSIVE: Darian Lanzetta is out at Mattel Studios , sources tell Deadline. The circumstances surrounding Lanzetta's departure weren't disclosed. No next destination was given. Reps for Mattel Studios declined to comment. Lanzetta joined the company as Senior Executive, Film in June 2025 &#x2014; when toy maker Mattel merged its film and television divisions under the banner of Mattel Studios. During her time there, she worked alongside senior exec Tom McNulty to lead the development and production of films based on Mattel IP. She reported to President and Chief Content Officer Robbie Brenner. Lanzetta spent her entire pre-studio career at CAA, where she helped build Mattel's filmed entertainment slate, ahead of its big breakout moment with Greta Gerwig's Barbie . She began her entertainment career as an intern in the agency's New York office while still a student at NYU before elevating to assistant, trainee and in May 2017, motion picture literary agent. As an agent, Lanzetta worked with writers, directors and producers, both emerging and established, with a focus on championing women and underrepresented artists, generally. Stay tuned for info on where the well-liked Lanzetta lands.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/darian-lanzetta-exits-mattel-studios-1237227411",
+      "published_at": "2026-11-18T01:16:34+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/DarianLanzettaheadshot-CREDIT-Gabrielle-Makower-copy.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 186,
+      "extracted_at": "2026-11-18T01:18:39.023Z",
+      "updated_at": "2026-11-18T01:18:39.023Z"
+    },
     {
       "id": "299afc47-5df8-46fb-9a75-eecc40e990e1",
       "title": "Christopher Nolan's Underrated 2020 Spy-Thriller Is Perfect Proof of Why Robert Pattinson Will Be A Great James Bond",
@@ -742,21 +757,6 @@
       "word_count": 251,
       "extracted_at": "2026-11-17T22:12:31.405Z",
       "updated_at": "2026-11-17T22:12:31.405Z"
-    },
-    {
-      "id": "b73ef92f-c299-46ee-aba5-2dca9711ae7b",
-      "title": "‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score",
-      "summary": "This year’s International Documentary Association Documentary Awards nominations have been announced. Asmahan Bkerat’s “Concrete Land” leads the field with six nominations, followed by Biljana Tutorov and Petar Glomazić’s “To Hold a Mountain” with five. Mehrdad Oskouei and Soraya Akhlaghi’s “A Fox Under a Pink Moon” and Pegah Ahangarani’s “Rehearsals for a Revolution” also scored strong […]",
-      "content": "This year's nominees include \" You Can See Everything ,\" \" To Hold a Mountain \" and \"Rehearsals for a Revolution,\" as well as films from Baz Luhrmann, Ahmir \"Questlove\" Thompson and Laura Poitras. IDA received a record 650 submissions from 95 countries, with 32 countries represented among this year's nominees.\n\nThe 42nd annual IDA Documentary Awards will also present the following honors: Related Stories 'The Hunger Games: Sunrise on the Reaping' First Reactions Call Prequel the 'Rogue One' of the Franchise and Praise Joseph Zada as Haymitch Jennifer Lawrence Says Playing Katniss Again After 11 Years in 'Hunger Games: Sunrise on the Reaping' Was 'Crazy,' 'Unbelievable' and 'So Beautiful'",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/awards/ida-documentary-awards-2026-nominations-full-list-1236950889",
-      "published_at": "2026-11-17T22:00:06+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/08/Concrete-Land.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 110,
-      "extracted_at": "2026-11-17T22:00:49.497Z",
-      "updated_at": "2026-11-17T22:00:49.497Z"
     }
   ]
 }
