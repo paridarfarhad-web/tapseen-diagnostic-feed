@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T22:21:59.444Z"
+    "updated_at": "2026-11-18T22:26:07.552Z"
   },
   "articles": [
+    {
+      "id": "f1efbfba-d954-4722-b38a-2eaa68fb1888",
+      "title": "Oh Man, Nic Cage And Christian Bale Were In Prosthetics While Meeting Their Madden Co-Stars",
+      "summary": "Talk about some wild introductions.",
+      "content": "Nicolas Cage and Christian Bale may seem like two very different kinds of actors, but they do have something in common. They both truly commit to their roles no matter how bonkers or over-the-top they are. Bale and Cage have played characters who’ve gone bananas on screen, and that’s also the case with their latest movie, Madden . In the sports biopic, Cage and Bale play John Madden and Al Davis, respectively and wear a lot of prosthetics for the roles. And, as CinemaBlend learned, that’s surprisingly how their co-stars met them.\n\nMiller plays the role of Carol Sagal Davis – the wife of late Oakland Raiders owner Al Davis – so she and Bale spent quite a bit of time together on set. For me, the mere thought of meeting Bale when he’s not in character seems intimidating, so I can’t even fathom the idea of being introduced to him while he’s decked out in prosthetics. What also has me chuckling is the thought of the Oscar winner keeping his character’s distinct accent while introducing himself to Miller. Nevertheless, it sounds like the two got along just fine.\n\nSomething I can’t help but wonder is whether Cage’s Longlegs co-stars ever met him when he wasn’t dressed as the titular serial killer . I can’t imagine Cage sparking unease on set whenever he wasn’t giving that creepy and perfect performance . Yet I can definitely admit I’d still be genuinely creeped out just by being in his presence.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/nicolas-cage-christian-bale-wearing-prosthetic-meeting-madden-co-stars-kathryn-hahn-sienna-miller",
+      "published_at": "2026-11-18T22:21:12+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/2njFAnwSnF5FSQHxpfZtg5-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 248,
+      "extracted_at": "2026-11-18T22:25:45.794561+00:00",
+      "updated_at": "2026-11-18T22:25:45.794561+00:00"
+    },
     {
       "id": "e1c1c779-2d91-43a1-8c4f-3d3047a94cef",
       "title": "5 1990s Anime Classics That Still Hit Today",
@@ -742,21 +757,6 @@
       "word_count": 717,
       "extracted_at": "2026-11-18T19:39:38.881248+00:00",
       "updated_at": "2026-11-18T19:39:38.881248+00:00"
-    },
-    {
-      "id": "b687ea3d-9054-4ff8-b741-3d5e659d9254",
-      "title": "Angry Caregivers Are Using SNL’s Sister To Call Out Family Members On Social Media",
-      "summary": "One of the best SNL sketches in years is producing some strong reactions.",
-      "content": "The goal of sharing a Saturday Night Live sketch is typically to elicit a laugh, but now and again, one makes such a thoughtful or important point that people use it as a conversation starter or as evidence to prove a point. That’s exactly what’s going on with last weekend’s Sister sketch , a fake commercial about how caregiving responsibilities overwhelmingly fall on the women in the family. Tens of thousands have taken to social media to share or retweet the sketch alongside comments about how they feel seen, and now, we’ve reached the point where people are using it to call out their own family members.\n\nActually, I probably phrased that second one too nicely. What many people are doing is throwing up their middle fingers at family members and telling stories about their avoidance and/ or woeful incompetence. Here’s a story with more than 69,000 likes …\n\nThat wild story is definitely not an outlier either. The angry rants are just pouring out of people, an overwhelming majority of whom are women who feel like they are left doing everything while their siblings live their lives. Some are mad about how they did everything until their parent died, only to find out their absentee sibling(s) got the exact same inheritance. Others are mad about how their family members infrequently show up and then critique the job they were doing and question the decisions they make.\n\nSeriously, don’t take my word for it. Look wherever the Sister sketch is embedded. You’ll immediately start running into story after story of angry people who need to let it out. I saw one woman calling out the parent they’re looking after for raising her brother to think he didn’t need to help. I’ve seen numerous lawyers , nurses , dementia care workers and doctors saying they see the same dynamic over and over again. I saw one woman say her brother who lives near her mom can’t be bothered to help; so, she has to travel across the country to handle things.\n\nIt’s clear this sketch, which is filled with fun little easter eggs , struck a nerve, but it seems like in a very therapeutic way. It’s allowing people to give voice to frustrations they’ve clearly had for a long time, and if it leads to even some family members doing a little self-reflecting and helping out a bit more, it’ll be a huge victory. You can watch the sketch in full below...\n\nSaturday Night Live is off for a few weeks for the holidays, but it’ll return in early December with the next new episode guest hosted by Amanda Seyfried . Fingers crossed she’s able to give us something that makes even a fraction of the cultural footprint. You can catch previously aired episodes streaming with a Peacock subscription .",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/snl-sister-social-media",
-      "published_at": "2026-11-18T19:38:45+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WTJedYzDp5kMtagtsty4NT-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 470,
-      "extracted_at": "2026-11-18T19:43:38.30169+00:00",
-      "updated_at": "2026-11-18T19:43:38.30169+00:00"
     }
   ]
 }
