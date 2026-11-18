@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T09:33:15.807Z"
+    "updated_at": "2026-11-18T09:41:20.507Z"
   },
   "articles": [
+    {
+      "id": "8c488f60-0562-44b5-bbf1-992ffd01bc5f",
+      "title": "Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027",
+      "summary": "Pop icon Cher has nabbed the festival's Legends slot.",
+      "content": "The rumors are true: Harry Styles is set to headline next year's Glastonbury festival.\n\nHe'll take to the Pyramid Stage alongside fellow headliners Sam Fender and Billie Eilish , as U.S. icon Cher is also set to play Britain's biggest music festival in the Legends slot.\n\nThe Kiss All the Time. Disco, Occasionally singer has long been rumored to headline Glastonbury for the first time in 2027.\n\nNewcastle's Fender is best known for hits like &#8220;Rein Me In&#8221; with Olivia Dean and &#8220;Seventeen Going Under.&#8221; Eilish is an American pop superstar who made history as the youngest-ever solo act to headline the Pyramid Stage at age 20 in 2022. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories TV 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market Oscars 2027: International Films in Focus Visar Morina on 'Shame and Money,' the Kosovo Drama That Won Sundance and Qualified for the Oscars\n\nAmong other acts set to hit the U.K.'s go-to music event are Sombr, Lily Allen, The Streets, Chase & Status, Kacey Musgraves, Primal Scream and Ad&#xE9;la. Last month, tickets &#x2014;&#xA0;at a record price of over &#xA3;400 ($526) &#x2014;&#xA0;sold out in just 42 minutes last month.\n\n&#8220;We are so happy to be coming back after our fallow year and, as we head into winter after that peaceful period, we wanted to give you an early musical taster of what's to come at Glastonbury 2027 with this spread of incredible artists,&#8221; said organizer Emily Eavis, daughter of Glastonbury founder Michael Eavis. &#8220;We can't wait to see you down here on Worthy Farm in June for some much-needed good times!&#8221;\n\nOver 200,000 people will flood Worthy Farm for five days from June 23 next year.\n\nThe gates will open at Worthy Farm in Somerset to 200,000 fans on Wednesday 23 June, with music on the main stages kicking off on Friday 25 June.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/music/music-news/harry-styles-glastonbury-billie-eilish-fender-headliners-1236758327",
+      "published_at": "2026-11-18T09:40:25+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 328,
+      "extracted_at": "2026-11-18T09:41:20.352Z",
+      "updated_at": "2026-11-18T09:41:20.352Z"
+    },
     {
       "id": "84874896-306c-4d11-b9f3-36f20536aacc",
       "title": "The Legend of Zelda Movie Has One Challenge That Other Video Game Adaptations Never Faced",
@@ -71,7 +86,7 @@
     {
       "id": "b83bcc3f-be41-420b-b77a-96b6e48d6696",
       "title": "Harry Styles, Billie Eilish, Sam Fender and Cher to Headline Glastonbury Festival",
-      "summary": "Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles, Billie Eilish, Sam Fender and Cher. This will be Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher is presumably taking the festival's Sunday afternoon Legends slot. After taking […]",
+      "summary": "Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles, Billie Eilish, Sam Fender and Cher. This will be Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher, who has also never played Glasto, is presumably taking the festival's […]",
       "content": "Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles , Billie Eilish , Sam Fender and Cher .\n\nThis marks Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher is presumably taking the festival's Sunday afternoon Legends slot.\n\nAfter taking a fallow year this summer to allow Worthy Farm's land to recover, the U.K. festival is set to return June 23-27. As always, the lineup spans genres and generations, including Massive Attack, Sombr, Little Simz, Chase & Status, the XX, Lily Allen, Ezra Collective, Kraftwerk, Ad&#xE9;la, Angine de Poitrine, the Avalanches, Blood Orange and more. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
       "source": "Variety",
       "source_url": "https://variety.com/2026/music/global/glastonbury-lineup-harry-styles-billie-eilish-sam-fender-cher-1236951618",
@@ -742,21 +757,6 @@
       "word_count": 448,
       "extracted_at": "2026-11-18T01:10:45.028Z",
       "updated_at": "2026-11-18T01:10:45.028Z"
-    },
-    {
-      "id": "d7964651-2403-4ef7-9f78-9a4e44285a1a",
-      "title": "'Dancing With the Stars' Couples Perform Double Dances as Another Top-Scoring Duo Exits Before Season 35 Finale: See the Scores, Who Went Home",
-      "summary": "Contestants performed a ballroom dance, and a second performance in the Latin style in Tuesday's semi-finals.",
-      "content": "[This story contains spoilers for episode 11 of Dancing With the Stars season 35.]\n\nCouples are competing for a chance to appear in the Dancing With the Stars season 35 finale next week, but first they have to impress in the semi-final round.\n\nContestants will compete in two dances in the semi-finals: one in a ballroom dance style, and a second performance in the Latin style. With six couples left in the competition, it appears there will be a five-couple finale, but only time will tell if one (or more) duos will be eliminated by the end of Tuesday night's episode. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories TV 'The Traitors' Season 5 Sets Release Date as First Trailer Highlights \"Chorus of Chaos\" to Come TV ABC Reveals NFL Quarterback as Next Star of 'The Bachelor'\n\nCelebrities still competing on season 35 include Tatyana Ali , Ezra Frech , Amber Glenn , Maura Higgins, Harry Shum Jr. and Connor Wood .\n\nJenna Dewan was shockingly eliminated from DWTS last week during the Grammy Night episode , which also scored the best ratings of the season to date. The episode averaged 7.39 million viewers on ABC and Disney+ in Nielsen's final same-day ratings.\n\nThe couple with the lowest combined total of judges' scores and viewer votes is eliminated at the end of each DWTS episode. Each viewer is allowed up to 10 votes per couple, per voting method (via ABC 's website and by text).\n\nLive voting takes place during the East Coast airing of each show and ends shortly after the final performance; that means if you're a West Coast viewer and want to vote , you must do so between 5 p.m. PT and roughly 6:45 p.m. PT, as voting ends after the final performance.\n\nSee the full list of scores for the DWTS season 35 semi-finals (including their ballroom and Latin dances) below. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nEzra Frech and Daniella Karagach Amber Glenn and Pasha Pashkov Maura Higgins and Mark Ballas Tatyana Ali and Jan Ravnik Connor Wood and Rylee Arnold Harry Shum Jr. and Jenna Johnson\n\nEzra Frech and Daniella Karagach Amber Glenn and Pasha Pashkov Maura Higgins and Mark Ballas Tatyana Ali and Jan Ravnik Connor Wood and Rylee Arnold Harry Shum Jr. and Jenna Johnson\n\nSeason 35 of Dancing With the Stars airs Tuesdays at 8 p.m., simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter 's DWTS coverage here .",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850",
-      "published_at": "2026-11-18T00:58:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 451,
-      "extracted_at": "2026-11-18T00:58:35.898Z",
-      "updated_at": "2026-11-18T00:58:35.898Z"
     }
   ]
 }
