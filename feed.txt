@@ -1,9 +1,65 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T09:01:21.660Z
+Last Updated: 2026-11-18T09:11:20.227Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Paramount+ Drops Trailer For Minnie Driver Heist Drama 'The Day'; Launch Date Revealed
+[1] ‘NAZA’ Team Sticking To Plan To Release Shattering Documentary On The Guardian Website Within Weeks — IDFA
+Source: Deadline | Status: expanded | Words: 1035
+Published: 2026-11-18T09:10:47+00:00
+URL: https://deadline.com/2026/11/naza-panel-2026-idfa-festival-1237227793
+------------------------------------------------------------
+SUMMARY:
+The explosive documentary NAZA has become a worldwide box office sensation, earning $15 million to date. But if co-directors Yuval Abraham and Rachel Szor had prevailed, it might have gone straight from its Venice Film Festival premiere to The Guardian website. “At first me and Rachel thought, let's put it out online the next day,” […]
+
+CONTENT / EXTRACTED DETAILS:
+The explosive documentary NAZA has become a worldwide box office sensation, earning $15 million to date. But if co-directors Yuval Abraham and Rachel Szor had prevailed, it might have gone straight from its Venice Film Festival premiere to The Guardian website.
+
+"At first me and Rachel thought, let's put it out online the next day," Abraham explained as he appeared for a panel discussion about the film at International Documentary Festival Amsterdam ( IDFA ). Their partners on the project convinced the filmmakers that a theatrical release should be part of how NAZA reached viewers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"It's different audiences," commented Fionualla Jamison, managing director of sales agent-distributor mk2. "Online &#8212; it's not necessarily everyone who's going to be aware, who has that viewing habit to go watch something on The Guardian website or on YouTube, depending what people's setups are. So, we felt it was something that could absolutely exist alongside for different audiences and at cinemas." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+"Our North Star always has been how we're going to get this film to people," said Lindsay Poulton, head of documentaries at The Guardian, who produced the film alongside The Guardian's Harry Davies and James Wilson of JW Films. "I think sitting in a cinema has been an important part of that. We've talked publicly as well about how the film is going to be available on our platform."
+
+Poulton and fellow panelists reiterated The Guardian intends to make the film available for free on its website in early December, although a specific date hasn't been revealed. In the meantime, the documentary has played theatrically in 50 countries, and recorded a remarkable 1.6 million admissions .
+
+Abraham, part of the Oscar-winning quartet of directors of No Other Land , along with Szor, became a believer in the theatrical component. Appearing on the panel by remote from The Guardian offices in London, he said he realized, "The film being immediately accessible doesn't necessarily translate to maximum impact. There is something to be gained from also doing this theatrical run." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+NAZA presents interviews with 24 anonymous members of Israeli intelligence and Israel Defense Forces personnel who describe how Israeli military leaders callously disregarded the potential loss of Palestinian civilian life as they pursued Hamas targets in Gaza. The whistleblowers claim this included deliberating striking Hamas militants at night in their homes with full knowledge those attacks would likely lead to the deaths of innocent women and children. The IDF has denied violating human rights standards and the Geneva Convention in its prosecution of the war. It has also denied an assertion in the film that the IDF used AI to select targets.
+
+The release of NAZA has triggered furor within Israel's right-wing. The country's Culture Minister, Miki Zohar, vowed to strip Abraham and Szor of their Israeli citizenship , a move later endorsed by Prime Minister Benjamin Netanyahu . Supporters of the Israeli government went so far as to quickly produce a counter documentary titled NAZA: The Real Story , mimicking the style of Abraham and Szor's film by shooting it on rooftops at night in Tel Aviv.
+
+"There's a film out there that's very misleading. Obviously, it's not a coincidence," Abraham stated. "They call themselves NAZA . They're trying to mislead people into thinking that they are the real NAZA film."
+
+The director also told the audience at the DeLaMar Theater venue at IDFA that Israel's military has released "this kind of guidebook for commanders giving them instructions or explaining to them how to speak with their soldiers about NAZA . So, it's like for commanders in the Israeli Air Force and other officers sort of an explanation as to how you can deal with the claims that are raised in the film. And of course, they say what you'd expect them to say. And very high up it says that the purpose of this guidebook is to strengthen the soldier's sense of the &#8212; they use this term &#x2018;righteousness of the path, that what we are doing is right.'"
+
+Abraham said he didn't view the existence of the guidebook or the counter documentary in wholly negative terms.
+
+"There's also something positive about it which I think when you get people to be so defensive, when commanders feel a need to get this kind of guidebook to reassure their soldiers that the path is right and that the army is moral and immune from criticism and that they say NAZA [a Hebrew acronym meaning collateral damage], it's not a bad term," he noted. "There's something also about being defensive, which is a reflection of the sense that you are scrutinized, the sense that you are under magnifying glass&#x2026; They feel like they're not only watching, they're also being watched. They're not only surveilling in a sense; they're also being surveilled or looked at. And that's good."
+
+James Wilson, the Oscar-nominated producer ( Zone of Interest ) said the message of NAZA won't be derailed by efforts at misinformation.
+
+"It's about horror. It's about mass murder that our society, the West, has been completely implicit in," he insisted. "It couldn't be about something more important and serious and sort of abyssal in its horror&#x2026; It's like an alarm. It's a fucking alarm and we all have to bear witness to that as it's happening."
+
+Abraham concluded by saying, "People talk about films changing the world. I don't think that a film can really do that, but I think films can definitely, as Jim [Wilson] was saying, they can definitely be part of a network, of a larger kind of energy that exists in the world, which is pushing for change, which is pushing for humanity and empathy."
+
+============================================================
+[2] Harry Styles, Billie Eilish, Sam Fender and Cher to Headline Glastonbury Festival
+Source: Variety | Status: expanded | Words: 133
+Published: 2026-11-18T09:09:29+00:00
+URL: https://variety.com/2026/music/global/glastonbury-lineup-harry-styles-billie-eilish-sam-fender-cher-1236951618
+------------------------------------------------------------
+SUMMARY:
+Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles, Billie Eilish, Sam Fender and Cher. This marks Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher is presumably taking the festival's Sunday afternoon Legends slot. After taking a […]
+
+CONTENT / EXTRACTED DETAILS:
+Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles , Billie Eilish , Sam Fender and Cher .
+
+This marks Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher is presumably taking the festival's Sunday afternoon Legends slot.
+
+After taking a fallow year this summer to allow Worthy Farm's land to recover, the U.K. festival is set to return June 23-27. As always, the lineup spans genres and generations, including Massive Attack, Sombr, Little Simz, Chase & Status, the XX, Lily Allen, Ezra Collective, Kraftwerk, Ad&#xE9;la, Angine de Poitrine, the Avalanches, Blood Orange and more. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+============================================================
+[3] Paramount+ Drops Trailer For Minnie Driver Heist Drama 'The Day'; Launch Date Revealed
 Source: Deadline | Status: expanded | Words: 369
 Published: 2026-11-18T09:00:00+00:00
 URL: https://deadline.com/2026/11/paramount-plus-the-day-minnie-driver-trailer-launch-date-1237226465
@@ -25,7 +81,7 @@ Luca Pasqualino ( Rivals , The Musketeers ) and Louisa Harland ( Renegade Nell ,
 Mike Benson and Andy Morgan are the exec producers for Clapperboard, alongside Daniel March from Dynamic Television, and Tamryn Reinecke. Jake Rollins isp roducer, and Andy Tohill ( The Dig , Dalgliesh ) and Ryan Tohill ( The Dig , Dalgliesh ) co-directed.
 
 ============================================================
-[2] 'Shogun' Post House SSVFX Hires Jennifer Thompson To Run Studio Operations
+[4] 'Shogun' Post House SSVFX Hires Jennifer Thompson To Run Studio Operations
 Source: Deadline | Status: expanded | Words: 538
 Published: 2026-11-18T09:00:00+00:00
 URL: https://deadline.com/2026/11/ssvfx-hires-jennifer-thompson-head-studio-1237226413
@@ -55,7 +111,7 @@ Jake Walshe, CEO of the Screen Scene Group, said: &#8220;We are delighted to wel
 Thompson added: &#8220;With an incredible depth of creative talent, experienced production leadership and new opportunities opening up for Ireland internationally, we're in a fantastic position to build new partnerships, embrace emerging technologies and take on even bigger and more ambitious projects.&#8221;
 
 ============================================================
-[3] Hong Kong Golden Horse Nominee 'We Are Born Good' Heads to U.K. With Trinity CineAsia (EXCLUSIVE)
+[5] Hong Kong Golden Horse Nominee 'We Are Born Good' Heads to U.K. With Trinity CineAsia (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 543
 Published: 2026-11-18T09:00:00+00:00
 URL: https://variety.com/2026/film/news/hong-kong-golden-horse-nominee-we-are-born-good-uk-1236950196
@@ -83,7 +139,7 @@ Cedric Behrel, managing director of Trinity CineAsia, said: &#8220;Following our
 Trinity CineAsia's recent U.K. and European releases include Bi Gan's Cannes special prize winner &#8220;Resurrection,&#8221; global animation box office champ &#8220;Ne Zha 2,&#8221; Jackie Chan crime actioner &#8220;The Shadow's Edge&#8221; and Teochew-language breakout &#8220;Dear You.&#8221;
 
 ============================================================
-[4] Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi
+[6] Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi
 Source: Variety | Status: expanded | Words: 1635
 Published: 2026-11-18T08:53:00+00:00
 URL: https://variety.com/2026/film/global/jafar-panahi-defense-statement-1236951044
@@ -119,7 +175,7 @@ Below is the full list of signatories, although it is growing longer by the day 
 The International Coalition for Filmmakers at Risk Alberto Barbera, Director, Venice Film Festival Vanja Kaludjercic, International Film Festival Rotterdam Tricia Tuttle, Director, Berlinale Giona Nazzaro, Artistic Director, Locarno Film Festival Dennis Lim, Artistic Director, New York Film Festival Julie Huntsinger, Executive Director, Telluride Film Festival Isabel Arrate Fernandez and Cees van t'Hulenaar, Directors, International Documentary Film Festival Amsterdam (IDFA) Nashen Moodley, Director, Sydney International Film Festival The German Film Academy The Austrian Film Academy Acad&#xE9;mie des C&#xE9;sar Arash T. Riahi, Co-chair, Austrian Film Academy Karel Och, Artistic Director and Krystof Mucha, Executive Director, Karlovy Vary IFF Tokyo International Film Festival Hong Kong International Film Festival Busan International Film Festival Kawakita Memorial Film Institute Andr&#xE9;s Bayona, Director, Bogot&#xE1; International Film Festival Renata de Almeida, Director, S&#xE3;o Paulo International Film Festival Ilda Santiago, Director, Rio de Janeiro International Film Festival Laurence Kardish, Co-Director, FilmColumbia Festival, New York Margarita D&#xED;az, General Director, Cartagena International Film Festival Tabitha Jackson, Director, Film Forum Jean Tsien, Governor, Academy of Motion Picture Arts and Sciences Chris Hegedus, Governor, Academy of Motion Picture Arts and Sciences Roger Ross Williams, Governor, Academy of Motion Picture Arts and Sciences Chris Tashima, Governor, Academy of Motion Picture Arts and Sciences Barry Jenkins, Director Mark Cousins, Director Michael Moore, Director Ellen Kuras, Director, Cinematographer Laura Poitras, Filmmaker Mark Ruffalo, Actor, Producer Tilda Swinton, Performer/Producer Kleber Mendon&#xE7;a Filho, Writer, Filmmaker & Film Programmer Alice Braga, Actress Petra Costa, Director Joanna Natasegara, Violet Films Julia Pacetti, AMPAS Eric Sloss, Executive Joslyn Barnes, Producer, Writer, AMPAS, BAFTA, WGA, PGA, DPA, IDA Rabab Haj Yahya, AMPAS &#8211; Documentary Branch Emilie Lesclaux, Producer, Cinemasc&#xF3;pio Eliza Capai, Filmmaker Matheus Farias, Director Anita Rocha da Silveira, Director and Scriptwriter Mauricio Zacharias, Screenwriter Heloisa Passos, Filmmaker and Cinematographer Jeferson De, Director Tatiana Leite, Producer Jean-Michel Frodon, Critic and Professor J&#xE9;r&#xF4;me Bonnell, Director Arnaud des Palli&#xE8;res, Director Philippe Faucon, Director and Producer Pascale Ferran, Director Mariana Oliva, Producer, AMPAS Documentary Branch Sylvain George, Filmmaker Arthur Harari, Filmmaker Teddy Leifer, Rise Films Catherine Breillat, Director Joana Hadjithomas & Khalil Joreige, Artists and Filmmakers Olivier Assayas, Director Dominik Moll, Film director Bertrand Bonello, Director Jacques Audiard, Cin&#xE9;aste Gabriel Mascaro, Director Asif Kapadia, Director Jos&#xE9; Joffily, Director, AMPAS Documentary Branch Robin Campillo, Cin&#xE9;aste Claire Simon, Cin&#xE9;aste/Filmmaker Abigail Anketell-Jones, Violet Films Rithy Panh, Director Mstyslav Chernov, Film Director Marjan Safinia, Filmmaker, AMPAS Documentary Branch Orwa Nyrabia, Producer/Filmmaker Gini Reticker, AMPAS Connie Field, AMPAS Miao Wang, Filmmaker Nazrin Choudhury, AMPAS Laura Nix, AMPAS Documentary Branch Dan Cogan, Story Syndicate Natasha Dack Ojumu, AMPAS, BAFTA Violet Feng, Director and Producer Alicia Sams, Producer/Director, AMPAS Documentary Branch Esther Kling, AMPAS Casting Directors Branch Nigel Noble, Academy Award Documentary Winner Susan Margolin, Producer, AMPAS, BAFTA, PGA, DPA, IDA Joan Churchill, Filmmaker Pan Nalin, Director, AMPAS, European Film Academy, French Film Academy (Cesars) Lindsey Dryden, Director & Producer, AMPAS Documentary Branch Alysa Nahmias, Director Rob Epstein, Filmmaker Alice Henty, Producer, Maylo Films Alison Klayman, Director Grace Lee, Filmmaker, AMPAS Documentary Branch Beth Aala, Filmmaker, AMPAS Documentary Branch Joe Berlinger, AMPAS, BAFTA, DGA, WGA, PGA, NBR, ATAS Christopher Makoto Yogi, Director Mich&#xE8;le Stephenson, Filmmaker, AMPAS Documentary Branch Sarah Beddington, Filmmaker, Director Jes Vesconte, Film Worker Ina Fichman, Producer, Intuitive Pictures, Canada, AMPAS, IDA, DOC Canada, PGA Kimberly Reed, Director/Producer Robin Hessman, AMPAS Documentary Branch, PGA Deborah Shaffer, AMPAS Kellen Quinn, Producer Julian Cautherley, Producer AMPAS Kavery Kaul, Director-Producer Ferne Pearlstein, AMPAS Documentary Branch Alexandra Strauss, Film Editor, AMPAS Robert Edwards, Filmmaker/Screenwriter-WGA Mirra Bank, Filmmaker Karen Dufilho, Producer, AMPAS Animation Branch Marty Syjuco, Filmmaker Tala Hadid, Director Stephanie Lowry, AMPAS Music Branch C Vasarhelyi, Filmmaker Ellen Tolmie, Documentarian Jennifer Tiexiera, Filmmaker, AMPAS Documentary Branch, IDA Board Member Alex Gibney, Director Liz Garbus, Filmmaker Eric Hynes, Curator Meena Nanji, Director Carl Deal, Independent Filmmaker Amy Ziering, Filmmaker AMPAS Sara Silveira, Producer Juliana Rojas, Filmmaker Andrea Barata Ribeiro, Producer Joseph Patel, Filmmaker La&#xED;s Bodanzky, Filmmaker Hilla Medalia, AMPAS Daniel Filho, Director May Leung, Producer, AMPAS Visual Effects Signe Byrge S&#xF8;rensen, Producer, Final Cut for Real Robert Bahar, Filmmaker, AMPAS Ryan Krivoshey, Distributor/Producer Tia Lessin, Filmmaker Elsewhere Films Arhynn Descy, Composer, AMPAS Music Branch Abigail Disney, Filmmaker Rachel Antell, Co-Director, Archival Producers Alliance Vanessa Hope, Filmmaker Robert Kenner, Director Tom Hurwitz, ASC, Cinematographer/Filmmaker Steve Maing, Filmmaker Simon Kilmurry, Producer Lucrecia Martel, Directora de cine argentina Per K. Kirkegaard, Film Editor, AMPAS Documentary Branch Shrihari Sathe, Filmmaker, AMPAS, PGA Plinio Profeta, Composer, AMPAS Ross Kauffman, Filmmaker, AMPAS Documentary Branch Rodrigo Teixeira, AMPAS Jeffrey Friedman, Filmmaker, AMPAS, DGA Carlos Segundo, Director Sabrina Schmidt Gordon, AMPAS, Documentary Filmmaker Benjamin Domenech, Producer Jed DeMoss, Producer Lana Wilson, Filmmaker Nick Broomfield, AMPAS Maria Carlota Bruno, Producer JT Takagi, AMPAS Documentary Branch Kristi Jacobson, Filmmaker Pedro Kos, Filmmaker, AMPAS Gonzalo Maza, Screenwriter, AMPAS Karen Akerman, Editor, AMPAS Documentary Branch Em&#xED;lio Domingos, Filmmaker, AMPAS Documentary Branch Otto Guerra, Animation Director Steven Markovitz, Producer Gary Byungseok Kam, Producer, AMPAS Documentary Branch Claudia Kopke, AMPAS, Costume Designer Branch Catherine Gund, Director, Producer, AMPAS Documentary Branch Sahar Driver, Color Congress Vera Hamburger, Production Designer Sushmit Ghosh, Director Kirby Dick, Filmmaker, AMPAS Orlando von Einsiedel, Filmmaker Helena Solberg, Director Sonia Kennebeck, Director Amelia Hapsari, Filmmaker, AMPAS Documentary Branch Michael Collins, Director, AMPAS Documentary Branch Kate Amend, ACE, Editor, AMPAS Documentary Branch Jeff Reichert, Filmmaker Anna Van Steen, AMPAS Shari Springer Berman, Filmmaker Bernardo Uzeda, AMPAS, Sound Branch Lisa Cort&#xE9;s, Director, AMPAS, Documentary Branch Brett Story, Filmmaker, AMPAS Aviva Slesin, Documentary Filmmaker, AMPAS, DGA Julie Goldman, Producer Rintu Thomas, Filmmaker, AMPAS Documentary Branch John Early, Filmmaker Deborah Dickson, Director, DGA, AMPAS Sonya Childress, Color Congress, AMPAS Documentary Branch Diana Bustamante, Producer-Filmmaker Geeta Gandbhir, Filmmaker Apichatpong Weerasethakul, Filmmaker Lynne Littman, Filmmaker Andrew Stephen Lee, Filmmaker
 
 ============================================================
-[5] Harry Styles, Billie Eilish &#038; Sam Fender To Headline Glastonbury 2027
+[7] Harry Styles, Billie Eilish &#038; Sam Fender To Headline Glastonbury 2027
 Source: Deadline | Status: expanded | Words: 402
 Published: 2026-11-18T08:52:40+00:00
 URL: https://deadline.com/2026/11/glastonbury-harry-styles-billie-eilish-sam-fender-cher-1237227792
@@ -149,7 +205,7 @@ Glastonbury takes place June 23-27 and is the UK's biggest music festival.
 This year's Glasto will prove to be a stern test for the BBC . The 2025 edition devolved into chaos when the broadcaster failed to remove from iPlayer a live stream of controversial rap punk band Bob Vylan, whose lead singer chanted &#8220;death to the IDF&#8221; and complained about working for a "f***ing Zionist." The corporation has since bought in a new set of processes and has a new Director General.
 
 ============================================================
-[6] The Worst Star Wars Release of All Time Turns 48, But Even The Mandalorian Still Referenced It
+[8] The Worst Star Wars Release of All Time Turns 48, But Even The Mandalorian Still Referenced It
 Source: ComicBook.com | Status: expanded | Words: 767
 Published: 2026-11-18T08:45:00+00:00
 URL: https://comicbook.com/movies/feature/the-worst-star-wars-release-of-all-time-turns-48-but-even-the-mandalorian-still-referenced-it
@@ -179,7 +235,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market
+[9] 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market
 Source: The Hollywood Reporter | Status: expanded | Words: 513
 Published: 2026-11-18T08:23:05+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/intimacy-on-prescription-main-prize-tallinn-tv-beats-market-1236758301
@@ -209,7 +265,7 @@ The Irish-Canadian series Tanner , produced by F&#xED;b&#xED;n Films and Rhombus
 The synopsis for this project is short and to the point, reading: &#8220;A former intelligence officer's search for a missing boy exposes a threat to democracy itself.&#8221;
 
 ============================================================
-[8] Nawazuddin Siddiqui's Indian 'House' Adaptation 'Dr. Hassan' Sets December Premiere on JioHotstar (EXCLUSIVE)
+[10] Nawazuddin Siddiqui's Indian 'House' Adaptation 'Dr. Hassan' Sets December Premiere on JioHotstar (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 668
 Published: 2026-11-18T08:15:00+00:00
 URL: https://variety.com/2026/tv/news/nawazuddin-siddiqui-house-adaptation-dr-hassan-premiere-1236950232
@@ -241,7 +297,7 @@ Linfield Ng, VP of format sales and production at NBCUniversal Formats, said the
 The India titles form part of a wider push across Asia for NBCUniversal Formats, which had 39 seasons on air in 17 territories in 2025.
 
 ============================================================
-[9] Harry Shum Jr. Honors Late 'Glee' Co-Star Naya Rivera During 'Dancing With the Stars' Semifinals: 'We Miss You, Baby Girl'
+[11] Harry Shum Jr. Honors Late 'Glee' Co-Star Naya Rivera During 'Dancing With the Stars' Semifinals: 'We Miss You, Baby Girl'
 Source: Variety | Status: expanded | Words: 369
 Published: 2026-11-18T07:17:09+00:00
 URL: https://variety.com/2026/tv/news/dancing-with-the-stars-harry-shum-jr-glee-naya-rivera-1236951568
@@ -265,7 +321,7 @@ Despite two perfect scores on Tuesday's semi-finals, Shum Jr. and Johnson were e
 After his elimination, Shum told E! News that the online conversation this season has been &#8220;so chaotic,&#8221; and he's hopeful it changes going forward. &#8220;There's a lot of trauma bond just because this year has been a little crazy,&#8221; he said. &#8220;Social media is a little nuts. I hope they address that at a certain point, because I think there's a good amount of bullying that doesn't feel really good, and I think the rest of the cast feels it.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[10] Series Mania Forum Sets Canada-Quebec as 2027 Guests of Honor
+[12] Series Mania Forum Sets Canada-Quebec as 2027 Guests of Honor
 Source: Variety | Status: expanded | Words: 1146
 Published: 2026-11-18T07:08:58+00:00
 URL: https://variety.com/2026/tv/global/series-mania-canada-quebec-2027-guests-of-honor-1236951570
@@ -327,7 +383,7 @@ Herszberg underscored Canada and Quebec's capacity to make shows which, however 
 "And &#x2018;Empathy' is about very positive people trying to help other people. It taking place in a mental institution, but with the talent of Florence Longpr&#xE9; and cast, it's an emotional show, extraordinary, " she adds.
 
 ============================================================
-[11] 'Dune: Prophecy' Star Tabu Joins YRF Entertainment's Netflix Rescue Drama 'Tunnel Men' (EXCLUSIVE)
+[13] 'Dune: Prophecy' Star Tabu Joins YRF Entertainment's Netflix Rescue Drama 'Tunnel Men' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 349
 Published: 2026-11-18T06:30:00+00:00
 URL: https://variety.com/2026/tv/news/dune-prophecy-star-tabu-yrf-netflix-series-tunnel-men-1236950175
@@ -353,7 +409,7 @@ The series is Saugata Mukherjee's first since he became head of content at YRF E
 The project extends a relationship between YRF Entertainment and Netflix that began in 2023 with &#8220;The Romantics.&#8221;
 
 ============================================================
-[12] 'Panchayat' Season 5 Sets December Date on Prime Video (EXCLUSIVE)
+[14] 'Panchayat' Season 5 Sets December Date on Prime Video (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 445
 Published: 2026-11-18T06:25:00+00:00
 URL: https://variety.com/2026/tv/news/panchayat-season-5-december-date-prime-video-1236950181
@@ -381,7 +437,7 @@ Vijay Koshy, president of TVF, said &#8220;Panchayat&#8221; had grown into far m
 Whether Banrakas can deliver on his promises will become clear when the season drops Dec. 3.
 
 ============================================================
-[13] Former Bond Villain Rami Malek Says Robert Pattinson Will Be an ‘Extraordinary’ 007: ‘I Could Not Be More Proud’
+[15] Former Bond Villain Rami Malek Says Robert Pattinson Will Be an ‘Extraordinary’ 007: ‘I Could Not Be More Proud’
 Source: Variety | Status: expanded | Words: 448
 Published: 2026-11-18T05:18:33+00:00
 URL: https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518
@@ -405,7 +461,7 @@ Pattinson's announcement as the next Bond put an end to long-swirling rumors sur
 And while Malek might not be tossing his hat into the ring for the villain role, Variety 's top picks for the part include Riz Ahmed, Timoth&#xE9;e Chalamet, Idris Elba, Michael Fassbender, Rebecca Ferguson, Kristen Stewart and more.
 
 ============================================================
-[14] Doomsday Film Rating Warning Makes It the Most Violent Avengers Movie Yet
+[16] Doomsday Film Rating Warning Makes It the Most Violent Avengers Movie Yet
 Source: ComicBook.com | Status: expanded | Words: 434
 Published: 2026-11-18T04:40:49+00:00
 URL: https://comicbook.com/movies/news/doomsday-film-rating-warning-makes-it-the-most-violent-avengers-movie-yet
@@ -431,7 +487,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] F1 Las Vegas Grand Prix 2026: Celebrity Sightings, the Biggest Parties and Where to Watch, Stay, Shop and Dine (Updating)
+[17] F1 Las Vegas Grand Prix 2026: Celebrity Sightings, the Biggest Parties and Where to Watch, Stay, Shop and Dine (Updating)
 Source: The Hollywood Reporter | Status: expanded | Words: 3545
 Published: 2026-11-18T04:40:39+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/f1-las-vegas-grand-prix-2026-race-events-tickets-parties-1236757141
@@ -539,7 +595,7 @@ FQ Lounge With The Female Quotient and F1 Academy When Nov. 20, 10:30 a.m.&#x201
 F1 Business Summit When Nov. 19, 8 a.m.&#x2013;1 p.m. Where The Colosseum at Caesars Palace What Heather McMahan hosts a morning devoted to the business surrounding Formula 1, with announced speakers including Stefano Domenicali and Liberty Media's Derek Chang. The program brings sport into the chat with entertainment, hospitality, fashion and investment as top-of-mind topics. Tickets From $550; VIP packages, $2,500. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid12' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
 
 ============================================================
-[16] Amitabh Bachchan, Amish Tripathi-Backed AAA Game 'The Age of Bhaarat' Taps India's Annapurna Studios for Motion Capture (EXCLUSIVE)
+[18] Amitabh Bachchan, Amish Tripathi-Backed AAA Game 'The Age of Bhaarat' Taps India's Annapurna Studios for Motion Capture (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 491
 Published: 2026-11-18T04:30:00+00:00
 URL: https://variety.com/2026/gaming/news/amitabh-bachchan-backed-game-the-age-of-bhaarat-annapurna-studios-1236950323
@@ -567,7 +623,7 @@ C. V. Rao, chief technology officer of Annapurna Studios, said the company was l
 Both companies are framing the tie-up as part of the push behind India's AVGC sector &#x2013; animation, visual effects, gaming and comics &#x2013; and in keeping with the spirit of the government's Make in India initiative, with local talent and infrastructure put to work on gaming IP built for a worldwide market.
 
 ============================================================
-[17] New Man of Tomorrow &#038; Brainiac Details Confirm Justice League Setup Rumors
+[19] New Man of Tomorrow &#038; Brainiac Details Confirm Justice League Setup Rumors
 Source: ComicBook.com | Status: expanded | Words: 429
 Published: 2026-11-18T04:17:15+00:00
 URL: https://comicbook.com/movies/news/new-man-of-tomorrow-brainiac-details-confirm-justice-league-setup-rumors
@@ -589,7 +645,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Emma Chamberlain, Wesley Wang, Aryna Sabalenka and More Unveil New Projects for YouTube
+[20] Emma Chamberlain, Wesley Wang, Aryna Sabalenka and More Unveil New Projects for YouTube
 Source: Variety | Status: expanded | Words: 2539
 Published: 2026-11-18T04:12:22+00:00
 URL: https://variety.com/2026/digital/news/emma-chamberlain-wesley-wang-aryna-sabalenka-youtube-1236950705
@@ -677,7 +733,7 @@ Lilly Singh | "Eligible Aunties" | New series premieres 2027
 Eligible Aunties is a warm, funny, character-driven unscripted docu-follow series hosted by Lilly Singh that trades shallow villa romances for mature women with real emotional intelligence and emotional baggage. With Singh acting as the ultimate cheerleader and trusted confidante, the show follows a diverse cast of older single women navigating modern dating apps, new romance rules, and their meddling families. Directly serving a rapidly growing demographic of older unmarried adults craving real connections, the series highlights the joy and chaos of putting yourself back on the market. Ultimately, it proves that while finding love doesn't get easier with age, it definitely gets more interesting. Eligible Aunties is produced by Unicorn Island Productions and created and hosted by Lilly Singh.
 
 ============================================================
-[19] YouTube Hits Back At Rivals With New Slate Featuring Rising Creators, Established Stars &#038; Hot New Directors
+[21] YouTube Hits Back At Rivals With New Slate Featuring Rising Creators, Established Stars &#038; Hot New Directors
 Source: Deadline | Status: expanded | Words: 894
 Published: 2026-11-18T04:00:00+00:00
 URL: https://deadline.com/2026/11/youtube-new-slate-emma-chamberlain-phil-rosenthal-1237226843
@@ -715,7 +771,7 @@ At the time, CEO Neal Mohan told Deadline , "We fundamentally do two things: one
 Sean Downey, Google President of Americas and Global Partners, said at tonight's event, "YouTube creators are not just shaping modern culture, they are redefining the entire entertainment landscape. This slate of shows demonstrates how creators are commanding primetime attention on the big screen and building unmatched fan loyalty. For brands, this isn't about buying thirty seconds of ad space; it's about moving past standard commercial breaks and partnering directly with the storytellers who are defining modern culture."
 
 ============================================================
-[20] The Matrix Creators File to Win Back Franchise Rights from David Ellison’s Skydance &#038; It Could Block Upcoming Sequel
+[22] The Matrix Creators File to Win Back Franchise Rights from David Ellison’s Skydance &#038; It Could Block Upcoming Sequel
 Source: ComicBook.com | Status: expanded | Words: 477
 Published: 2026-11-18T03:56:33+00:00
 URL: https://comicbook.com/movies/news/the-matrix-creators-file-to-win-back-franchise-rights-from-david-ellisons-skydance-it-could-block-upcoming-sequel
@@ -739,7 +795,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] 7 Scene-Stealing Gifts for the 2026 Holiday Season
+[23] 7 Scene-Stealing Gifts for the 2026 Holiday Season
 Source: Variety | Status: expanded | Words: 118
 Published: 2026-11-18T03:49:25+00:00
 URL: https://variety.com/2026/shopping/news/scene-stealing-gifts-2026-holiday-season-shop-online-1236949260
@@ -753,7 +809,7 @@ The holidays are officially in full swing, and finding the perfect gift just got
 Many of these picks are on sale right now and selling fast, so shop early and wrap up something they'll be talking about long after the credits roll. Related Stories The Game Awards Nominations 2026: 'GTA 6' Lands Game of the Year Nom Ahead of Thursday Release Why Denis Villeneuve Cast Robert Pattinson as James Bond: 'I Need to Believe This Man Is a Killer'
 
 ============================================================
-[22] 4 More Anime Still Coming to Netflix in 2026
+[24] 4 More Anime Still Coming to Netflix in 2026
 Source: ComicBook.com | Status: expanded | Words: 867
 Published: 2026-11-18T03:40:42+00:00
 URL: https://comicbook.com/anime/list/4-more-anime-still-coming-to-netflix-in-2026
@@ -787,7 +843,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] A Fantastic Four &#038; Doomsday Star Made His Forgotten MCU Debut 7 Years Ago, And Got a Good Ending
+[25] A Fantastic Four &#038; Doomsday Star Made His Forgotten MCU Debut 7 Years Ago, And Got a Good Ending
 Source: ComicBook.com | Status: expanded | Words: 712
 Published: 2026-11-18T03:35:00+00:00
 URL: https://comicbook.com/movies/feature/a-fantastic-four-doomsday-star-made-his-forgotten-mcu-debut-7-years-ago-and-got-a-good-ending
@@ -819,7 +875,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Denis Villeneuve Reveals the 1 James Bond Quality He Looked For, And It's the Opposite of Pattinson's Batman
+[26] Denis Villeneuve Reveals the 1 James Bond Quality He Looked For, And It's the Opposite of Pattinson's Batman
 Source: ComicBook.com | Status: expanded | Words: 573
 Published: 2026-11-18T03:33:00+00:00
 URL: https://comicbook.com/movies/news/denis-villeneuve-reveals-the-1-james-bond-quality-he-looked-for-and-its-the-opposite-of-pattinsons-batman
@@ -845,7 +901,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Jane Lynch On 'Glee' Reboot &#038; If She'd Return: "I Would Love To Do Sue Sylvester For The Rest Of My Life"
+[27] Jane Lynch On 'Glee' Reboot &#038; If She'd Return: "I Would Love To Do Sue Sylvester For The Rest Of My Life"
 Source: Deadline | Status: expanded | Words: 348
 Published: 2026-11-18T03:30:00+00:00
 URL: https://deadline.com/2026/11/jane-lynch-glee-sue-sylvester-reboot-1237227696
@@ -875,7 +931,7 @@ Colfer continued, "But from what I've heard, it sounded very funny, and it sound
 Watch Lynch on The Jennifer Hudson Show in the video below.
 
 ============================================================
-[26] Emma Chamberlain Returning to YouTube With Original Series 'What Are You Waiting For?' (Exclusive)
+[28] Emma Chamberlain Returning to YouTube With Original Series 'What Are You Waiting For?' (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 418
 Published: 2026-11-18T03:30:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/emma-chamberlain-returns-youtube-what-are-you-waiting-for-1236756526
@@ -901,7 +957,7 @@ It's also a coup for the platform, which has been trying to entice top creators 
 &#8220;Working with a TV studio to create YouTube content is a full 180 from what I have done in the past, producing everything myself with very little help, but I knew this was crucial,&#8221; she added. &#8220;I met with Joe Lewis and Amplify Pictures and explained a little idea I had for a docuseries. To my surprise, they loved it and wanted to make it with me.&#8221;
 
 ============================================================
-[27] Naruto's Creator Has the Chance to Redeem Himself From His Biggest Failure
+[29] Naruto's Creator Has the Chance to Redeem Himself From His Biggest Failure
 Source: ComicBook.com | Status: expanded | Words: 729
 Published: 2026-11-18T03:20:47+00:00
 URL: https://comicbook.com/anime/feature/narutos-creator-has-the-chance-to-redeem-himself-from-his-biggest-failure
@@ -931,7 +987,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Ron Howard Reveals His Only Condition for Making The Grinch 2: “Jim &#038; I Are Aligned On One Thing”
+[30] Ron Howard Reveals His Only Condition for Making The Grinch 2: “Jim &#038; I Are Aligned On One Thing”
 Source: ComicBook.com | Status: expanded | Words: 450
 Published: 2026-11-18T03:09:34+00:00
 URL: https://comicbook.com/movies/news/ron-howard-reveals-his-only-condition-for-making-the-grinch-2-jim-i-are-aligned-on-one-thing
@@ -953,7 +1009,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Demon Slayer's Infinity Castle Future Faces a Major Problem
+[31] Demon Slayer's Infinity Castle Future Faces a Major Problem
 Source: ComicBook.com | Status: expanded | Words: 651
 Published: 2026-11-18T03:04:31+00:00
 URL: https://comicbook.com/anime/feature/demon-slayers-infinity-castle-future-faces-a-major-problem
@@ -981,7 +1037,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] 'Dancing With The Stars' Season 35 Recap: A Fierce Semifinals Competition Sends A Perfect-Score Couple Home
+[32] 'Dancing With The Stars' Season 35 Recap: A Fierce Semifinals Competition Sends A Perfect-Score Couple Home
 Source: Deadline | Status: expanded | Words: 1220
 Published: 2026-11-18T03:00:03+00:00
 URL: https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-semifinals-1237227408
@@ -1025,7 +1081,7 @@ Actress Tatyana Ali with Jan Ravnik . These two are bringing the energy back to 
 Sadly, these were the last dances for Harry Shum Jr. and Jenna Johnson. Next week is the finale!
 
 ============================================================
-[31] Obsession Director Debunks the Biggest Theory About Who Was Possessing Nikki
+[33] Obsession Director Debunks the Biggest Theory About Who Was Possessing Nikki
 Source: ComicBook.com | Status: expanded | Words: 438
 Published: 2026-11-18T02:59:44+00:00
 URL: https://comicbook.com/movies/news/obsession-director-debunks-the-biggest-theory-about-who-was-possessing-nikki
@@ -1047,7 +1103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] ‘Dancing With the Stars’ Sets First-Ever Live Finale for Season 35
+[34] ‘Dancing With the Stars’ Sets First-Ever Live Finale for Season 35
 Source: Variety | Status: expanded | Words: 303
 Published: 2026-11-18T02:42:21+00:00
 URL: https://variety.com/2026/tv/news/dancing-with-the-stars-live-finale-season-35-1236951307
@@ -1071,7 +1127,7 @@ Season 35 cast members also included now-eliminated celebrities Jenna Dewan, Jac
 "Dancing with the Stars" is produced in front of a live audience by BBC Studios Los Angeles Productions.
 
 ============================================================
-[33] Indian Mythology Meets Mumbai Noir in Animated Feature 'Bombay Eternal' From 'Rana Naidu' Producer Locomotive Global, AI Outfit Studio Blo (EXCLUSIVE)
+[35] Indian Mythology Meets Mumbai Noir in Animated Feature 'Bombay Eternal' From 'Rana Naidu' Producer Locomotive Global, AI Outfit Studio Blo (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 622
 Published: 2026-11-18T02:30:00+00:00
 URL: https://variety.com/2026/film/news/indian-mythology-mumbai-noir-animated-film-bombay-eternal-1236950223
@@ -1103,7 +1159,7 @@ More of the film will be revealed in stages. Much of its wider story world is be
 Indian artists and technicians have long worked on major international animation projects. With &#8220;Bombay Eternal,&#8221; the partners are betting India can now originate animated IP of its own, much as Korean and Chinese animation have shown that stories rooted in one culture can find audiences far from home.
 
 ============================================================
-[34] 5 Marvel Comics That May Be The Greatest of All-Time
+[36] 5 Marvel Comics That May Be The Greatest of All-Time
 Source: ComicBook.com | Status: expanded | Words: 1127
 Published: 2026-11-18T02:19:00+00:00
 URL: https://comicbook.com/uncategorized/list/5-marvel-comics-that-may-be-the-greatest-of-all-time
@@ -1141,7 +1197,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Marvel Already Proved the Biggest Doomsday Complaint Is BS, And They Did It Eight Years Ago
+[37] Marvel Already Proved the Biggest Doomsday Complaint Is BS, And They Did It Eight Years Ago
 Source: ComicBook.com | Status: expanded | Words: 750
 Published: 2026-11-18T02:04:00+00:00
 URL: https://comicbook.com/movies/feature/marvel-already-proved-the-biggest-doomsday-complaint-is-bs-and-they-did-it-eight-years-ago
@@ -1171,7 +1227,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Why Prince Harry And Meghan Markle May Have Made Those US Holiday Plans
+[38] Why Prince Harry And Meghan Markle May Have Made Those US Holiday Plans
 Source: CinemaBlend | Status: expanded | Words: 192
 Published: 2026-11-18T01:48:40+00:00
 URL: https://www.cinemablend.com/streaming-news/why-prince-harry-meghan-markle-uk-move-us-holiday-plans-sandringham
@@ -1187,7 +1243,7 @@ Prince Harry and Meghan Markle spent their first two Christmas holidays with the
 It's also worth taking into account that Meghan Markle and her mother have been reportedly leaning on each other following Markle’s father facing allegations of possessing child sexual abuse material. Thomas Markle Sr. was arrested by federal agents on November 6 and could serve prison time.
 
 ============================================================
-[37] Hunter Schafer Responds to Those MCU Mystique Casting Rumors Despite Recent Claims She Passed on the Role
+[39] Hunter Schafer Responds to Those MCU Mystique Casting Rumors Despite Recent Claims She Passed on the Role
 Source: ComicBook.com | Status: expanded | Words: 432
 Published: 2026-11-18T01:43:03+00:00
 URL: https://comicbook.com/movies/news/hunter-schafer-responds-to-those-mcu-mystique-casting-rumors-despite-recent-claims-she-passed-on-the-role
@@ -1209,7 +1265,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] IDA Awards Nominations: ‘Concrete Land’ Lands 6, With 'To Hold A Mountain' Close Behind; Elizabeth Holmes Doc In The Mix
+[40] IDA Awards Nominations: ‘Concrete Land’ Lands 6, With 'To Hold A Mountain' Close Behind; Elizabeth Holmes Doc In The Mix
 Source: Deadline | Status: expanded | Words: 1812
 Published: 2026-11-18T01:36:45+00:00
 URL: https://deadline.com/2026/11/ida-documentary-awards-2026-nominations-1237227351
@@ -1441,7 +1497,7 @@ Directors: Karel Barra & Ana Turbay | Producer: Ana Turbay
 The 42nd Annual IDA Documentary Awards will also present the following special honors: the Career Achievement Award for the late Chilean filmmaker Patricio Guzm&#xE1;n ; the Truth to Power Award for Amy Goodman and Juan Gonz&#xE1;lez of Democracy Now! ; the Emerging Filmmaker Award for Maia Lekow and Christopher King (directors of How to Build a Library ); and the Amicus Award for Cannes Docs , the documentary program of the March&#xE9; du Film led by Pierre-Alexis Chevit.
 
 ============================================================
-[39] ‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time
+[41] ‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time
 Source: Deadline | Status: expanded | Words: 478
 Published: 2026-11-18T01:35:00+00:00
 URL: https://deadline.com/2026/11/dancing-with-the-stars-finale-live-across-the-country-1237226920
@@ -1473,7 +1529,7 @@ The show also scored its first Emmy nomination in the Outstanding Reality Compet
 Dancing with the Stars is produced by BBC Studios . Conrad Green serves as showrunner and exec produces alongside Ryan O'Dowd. Deena Katz serves as co-executive producer.
 
 ============================================================
-[40] 5 Marvel Mutants Who Should Lead X-Force in the MCU, And One Has Never Been in Live Action
+[42] 5 Marvel Mutants Who Should Lead X-Force in the MCU, And One Has Never Been in Live Action
 Source: ComicBook.com | Status: expanded | Words: 926
 Published: 2026-11-18T01:33:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-mutants-who-should-lead-x-force-in-the-mcu-and-one-has-never-been-in-live-action
@@ -1511,7 +1567,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] The Last Of Us’ Gabriel Luna Discusses The Cast Wrapping The Final Season, And I’m Already Emotional
+[43] The Last Of Us’ Gabriel Luna Discusses The Cast Wrapping The Final Season, And I’m Already Emotional
 Source: CinemaBlend | Status: expanded | Words: 356
 Published: 2026-11-18T01:31:00+00:00
 URL: https://www.cinemablend.com/television/the-last-of-us-gabriel-luna-cast-wrapping-final-season-im-emotional
@@ -1529,7 +1585,7 @@ Since the Naughty Dog video game-turned-TV series is a massive production, it so
 I can only imagine the tears that will be flowing and the emotions that will be felt as the final days of the HBO series come to an end, and everyone says their final goodbyes. Fans anxiously anticipating the third season will have to pack their patience pants while waiting for details on when it will officially premiere. In the meantime, the first two seasons of The Last of Us are streaming with an HBO Max subscription .
 
 ============================================================
-[42] Ron Howard Cautions 'Grinch' Sequel With Jim Carrey Will Only Move Forward If "One Thing" Happens
+[44] Ron Howard Cautions 'Grinch' Sequel With Jim Carrey Will Only Move Forward If "One Thing" Happens
 Source: The Hollywood Reporter | Status: expanded | Words: 464
 Published: 2026-11-18T01:21:19+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080
@@ -1555,7 +1611,7 @@ If the sequel comes to fruition, the Apollo 13 filmmaker said it &#8220;will sti
 "We're gonna move cautiously but hopefully toward another movie because we both believe in the premise," Howard added. "With a little luck, we'll get to revisit that world."
 
 ============================================================
-[43] Darian Lanzetta Out At Mattel Studios
+[45] Darian Lanzetta Out At Mattel Studios
 Source: Deadline | Status: expanded | Words: 186
 Published: 2026-11-18T01:16:34+00:00
 URL: https://deadline.com/2026/11/darian-lanzetta-exits-mattel-studios-1237227411
@@ -1567,7 +1623,7 @@ CONTENT / EXTRACTED DETAILS:
 EXCLUSIVE: Darian Lanzetta is out at Mattel Studios , sources tell Deadline. The circumstances surrounding Lanzetta's departure weren't disclosed. No next destination was given. Reps for Mattel Studios declined to comment. Lanzetta joined the company as Senior Executive, Film in June 2025 &#x2014; when toy maker Mattel merged its film and television divisions under the banner of Mattel Studios. During her time there, she worked alongside senior exec Tom McNulty to lead the development and production of films based on Mattel IP. She reported to President and Chief Content Officer Robbie Brenner. Lanzetta spent her entire pre-studio career at CAA, where she helped build Mattel's filmed entertainment slate, ahead of its big breakout moment with Greta Gerwig's Barbie . She began her entertainment career as an intern in the agency's New York office while still a student at NYU before elevating to assistant, trainee and in May 2017, motion picture literary agent. As an agent, Lanzetta worked with writers, directors and producers, both emerging and established, with a focus on championing women and underrepresented artists, generally. Stay tuned for info on where the well-liked Lanzetta lands.
 
 ============================================================
-[44] Christopher Nolan's Underrated 2020 Spy-Thriller Is Perfect Proof of Why Robert Pattinson Will Be A Great James Bond
+[46] Christopher Nolan's Underrated 2020 Spy-Thriller Is Perfect Proof of Why Robert Pattinson Will Be A Great James Bond
 Source: ComicBook.com | Status: expanded | Words: 448
 Published: 2026-11-18T01:09:37+00:00
 URL: https://comicbook.com/movies/feature/christopher-nolans-underrated-2020-spy-thriller-is-perfect-proof-of-why-robert-pattinson-will-be-a-great-james-bond
@@ -1591,7 +1647,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] 'Dancing With the Stars' Couples Perform Double Dances as Another Top-Scoring Duo Exits Before Season 35 Finale: See the Scores, Who Went Home
+[47] 'Dancing With the Stars' Couples Perform Double Dances as Another Top-Scoring Duo Exits Before Season 35 Finale: See the Scores, Who Went Home
 Source: The Hollywood Reporter | Status: expanded | Words: 451
 Published: 2026-11-18T00:58:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850
@@ -1623,7 +1679,7 @@ Ezra Frech and Daniella Karagach Amber Glenn and Pasha Pashkov Maura Higgins and
 Season 35 of Dancing With the Stars airs Tuesdays at 8 p.m., simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter 's DWTS coverage here .
 
 ============================================================
-[46] Ron Howard Says a Jim Carrey ‘Grinch’ Sequel Won’t Get Made Unless ‘It Has a Chance to Be Great’: We’re Moving ‘Cautiously'
+[48] Ron Howard Says a Jim Carrey ‘Grinch’ Sequel Won’t Get Made Unless ‘It Has a Chance to Be Great’: We’re Moving ‘Cautiously'
 Source: Variety | Status: expanded | Words: 435
 Published: 2026-11-18T00:47:42+00:00
 URL: https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121
@@ -1645,7 +1701,7 @@ The original Christmas classic first premiered back in 2000 and was a box office
 Last year, Howard told Vulture that the actor "started having panic attacks" during the early days of filming because of how uncomfortable the transformation was on his body, adding: "I would see him lying down on the floor in between setups with a brown paper bag. Literally on the floor. He was miserable." Howard also revealed that Carrey was "ready to give his" $20 million salary back.
 
 ============================================================
-[47] Don Toliver Announces Sixth Album 'Nitrous,' Due Next Month
+[49] Don Toliver Announces Sixth Album 'Nitrous,' Due Next Month
 Source: Variety | Status: expanded | Words: 325
 Published: 2026-11-18T00:38:24+00:00
 URL: https://variety.com/2026/music/news/don-toliver-announces-sixth-album-nitrous-release-date-1236951108
@@ -1667,7 +1723,7 @@ Yesterday, Toliver made waves with a substantial five nominations for the 2027 G
 Check out the &#8220;Nitrous&#8221; album cover below:
 
 ============================================================
-[48] Jennifer Lopez Revealed The Origins Of The JLo Nickname (And I Had No Idea)
+[50] Jennifer Lopez Revealed The Origins Of The JLo Nickname (And I Had No Idea)
 Source: CinemaBlend | Status: expanded | Words: 200
 Published: 2026-11-18T00:31:00+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lopez-revealed-origins-jlo-nickname-had-no-idea
@@ -1681,44 +1737,4 @@ When it comes to celebrity nicknames , is there any better than “JLo”? Jenni
 Heavy D was a Jamaican-American rapper who had hits such as “Now That We Found Love”, “Got Me Waiting” and “We Got Our Own Thang” in the late 1980s and early 1990s. The rapper tragically died at the age of 44 of a pulmonary embolism back in 2011. As JLo recalled, Heavy D wasn’t only the first person to give her the nickname, it also inspired her to name her second album, J.Lo . When talking about the origin of the name, she also added this:
 
 The JLo album came out back in 2001, and the rest is history; she’s been JLo ever since. Along with the album title itself, Lopez noted that she also started being called the nickname in rap songs like Pitbull’s “Culo,” Jay-Z ’s “Lost One”.
-
-============================================================
-[49] Avengers: Doomsday’s Steve Rogers Reveal Means an Avengers: Endgame Retcon
-Source: ComicBook.com | Status: expanded | Words: 459
-Published: 2026-11-18T00:26:59+00:00
-URL: https://comicbook.com/movies/news/avengers-doomsdays-steve-rogers-reveal-means-an-avengers-endgame-retcon
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Marvel Numerous questions still surround the reveal that Steve Rogers will be returning to the MCU in Avengers: Doomsday, and now, a brand new description has suggested that this return will also mean a significant change to Avengers: Endgame. At the end of Avengers: Endgame, Steve's fate seemed clear. After returning the Infinity Stones to their […]
-
-CONTENT / EXTRACTED DETAILS:
-Clearly, Steve's story wasn't quite the happily ever after it seemed to be, based on his upcoming appearance in Doomsday , and the bonus scenes in Avengers: Endgame Encore only cemented that, as it was revealed that Loki actually arrived and interrupted Steve's dance with Peggy, signaling that this decision to stay in the past may indeed have caused a multiverse-threatening event—which has now been supported by comments that Steve was to blame for the events of Doomsday . With all of that in mind, fans had begun to suspect that the Steve of Doomsday simply wasn't the same Steve who appeared as an old man at the end of Endgame . However, a new Steve Rogers description has seemingly given an answer, and it may very well mean a major Endgame retcon.
-
-For a while, the idea that this might be an entirely different Steve in Doomsday made sense, as it at least explained how audiences could have seen Steve return as an old man in Endgame if, apparently, his decision to stay in the past broke the multiverse. As compelling as that theory was, though, a new Steve Rogers description for the upcoming movie heavily hints that's not the case. Specifically, the description reads, &#8220;After returning the Infinity Stones and finally sharing that long-promised dance with Peggy Carter, Steve Rogers believed he had closed the final chapter of his journey. Yet, destiny rarely lets a true soldier rest. When a terrifying new danger threatens worlds across the multiverse, Steve has no choice but to answer the call once again.&#8221;
-
-This description certainly suggests that Doomsday Steve will, in fact, be the very same Steve audiences last saw in Endgame (including Endgame Encore ), so that, by extension, means that Steve's &#8216;ending' in that story almost certainly has to be retconned. The implication, at the end of Endgame , when Steve returned as an old man, was that he had stayed in the past but then lived a happy and full life. However, the emergence of Doom and the very fact that Loki appeared due to Steve's actions, all but guarantee that this will not really be his fate, raising questions about how Steve even appeared as an old man at all. Presumably, both Doomsday and Avengers: Secret Wars will confirm a rather different end to Steve's story, which almost certainly means a major Endgame retcon.
-
-How do you think Doomsday (and possibly Secret Wars ) will explain this part of Steve's story? Let us know in the comments down below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] The Most Controversial Star Wars Character Has an Original Collectible That Fans Won't Want to Miss
-Source: ComicBook.com | Status: expanded | Words: 411
-Published: 2026-11-18T00:17:00+00:00
-URL: https://comicbook.com/collectibles/news/the-most-controversial-star-wars-character-has-an-original-collectible-that-fans-wont-want-to-miss
-------------------------------------------------------------
-SUMMARY:
-The Star Wars prequel trilogy wasn't exactly well received when it first released. While opinions on it have softened over the years, and parts of it are even appreciated today, it was quite different in 1999 and the early 2000s. From Midi-chlorians being the building blocks of the Force, to the overall acting, fans tore […]
-
-CONTENT / EXTRACTED DETAILS:
-The prop head was part of a costume rig that actor Ahmed Best wore in The Phantom Menace , along with being the character's voice. Best wore this prop on top of his head, with the actor's face being digitally removed, while rest of the character's body was made out of prosthetics and other practical effects. The head prop is made out of foam rubber, featuring intricate details and eyes crafted out of resin. Lucasfilm decided upon this particular method as it would give other actors proper reference points and eye-lines when interacting with Jar Jar. While the prop and its details look to have mostly withstood the test of time, the right eye has unfortunately drooped a bit, making it look like Jar Jar had a few too many drinks.
-
-While Jar Jar played an important role in the movie, essentially serving as an emissary between the Naboo royalty and the Gungans, George Lucas also decided to make him the comic relief. His speech and mannerisms were clumsy, and naysayers thought it was one of the worst parts of the prequel trilogy. Apart from Jar Jar, Ahmed Best unfortunately also received a lot of toxic hate from fans and critics alike. However, the hate has thankfully simmered down over the years, with many fans also feeling apologetic for reactions. In a moment of redemption Best recently returned to Star Wars as Jedi Master Kelleran Beq in season 3 of The Mandalorian , saving Grogu from the attack on the Jedi temple in a flashback sequence.
-
-With everything that has happened over the years, this Jar Jar head prop is a reminder of the tumultuous reception that The Phantom Menace and Jar Jar Binks initially received. In fact, things have changed so much that fans now look back at the prequel trilogy in fondness. But while Darth Maul, his cool double sided lightsaber , and Anakin's story are constantly lauded as the high points, fans are still split on how they feel about Jar Jar. I personally think it was a miss, but the sheer hate that was spewed because of it was definitely unwarranted, especially towards the actor. No matter how you feel about it now, there's no denying that this Jar Jar head prop is an important piece of Star Wars history, and makes for a fantastic collectible.
-
-Do you think the character of Jar Jar Binks has been redeemed over the years? Let us know in the comments.
 
