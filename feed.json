@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T03:42:52.709Z"
+    "updated_at": "2026-11-18T03:50:46.559Z"
   },
   "articles": [
+    {
+      "id": "1610fccb-3009-448d-90af-1b95100fb255",
+      "title": "7 Scene-Stealing Gifts for the 2026 Holiday Season",
+      "summary": "The holidays are officially in full swing, and finding the perfect gift just got a lot easier. From the tech lover and the wellness enthusiast to the homebody and the friend who has everything, we rounded up the season’s standout gifts that feel thoughtful, a little bit luxe and worthy of a spotlight. Many of […]",
+      "content": "The holidays are officially in full swing, and finding the perfect gift just got a lot easier. From the tech lover and the wellness enthusiast to the homebody and the friend who has everything, we rounded up the season's standout gifts that feel thoughtful, a little bit luxe and worthy of a spotlight.\n\nMany of these picks are on sale right now and selling fast, so shop early and wrap up something they'll be talking about long after the credits roll. Related Stories The Game Awards Nominations 2026: 'GTA 6' Lands Game of the Year Nom Ahead of Thursday Release Why Denis Villeneuve Cast Robert Pattinson as James Bond: 'I Need to Believe This Man Is a Killer'",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/shopping/news/scene-stealing-gifts-2026-holiday-season-shop-online-1236949260",
+      "published_at": "2026-11-18T03:49:25+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1450616619.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 118,
+      "extracted_at": "2026-11-18T03:50:46.402Z",
+      "updated_at": "2026-11-18T03:50:46.402Z"
+    },
     {
       "id": "d13e1cf1-cad3-434a-8a9a-0462d8cc5a0d",
       "title": "4 More Anime Still Coming to Netflix in 2026",
@@ -742,21 +757,6 @@
       "word_count": 791,
       "extracted_at": "2026-11-17T23:24:44.035Z",
       "updated_at": "2026-11-17T23:24:44.035Z"
-    },
-    {
-      "id": "9dc93133-9bf1-4168-bf12-0cdec2092752",
-      "title": "Jeff Daniels Set For Ramy Youssef's 'Martha &#038; Muhammad' At A24",
-      "summary": "EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef's A24 feature comedy Martha &#38; Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Ramy alum Youssef's feature directorial debut. Daniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in […]",
-      "content": "EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef &#8216;s A24 feature comedy Martha & Muhammad alongside previously announced Amanda Seyfried and Sharon Stone.\n\nPlot and character details are being kept secret in what is Youssef's feature directorial debut.\n\nThree-time Emmy nominated and Golden Globe winning Youssef also wrote the screenplay. The multi-hyphenate's Cairo Cowboy will produce alongside Eli Bush, Ronald Bronstein, and Josh Safdie for Central, Christopher Storer and Tyson Bidner for American Light & Fixture, and A24, who will also finance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nDaniels won a Drama Series Lead Actor Emmy for HBO's The Newsroom in 2013 , and Supporting Actor in Limited Series for Godless in 2018. He is starring in the upcoming Joseph Gordon-Levitt directed sci-fi thriller 2034 and Josh Wakely's sci-fi thriller Starman. He recently starred in The Brink of War as Ronald Regan and starred in the Netflix David E. Kelley miniseries based on the Tom Wolfe novel, A Man in Full. Daniels is also a 5x Golden Globe nominee, 5x SAG Actors Award nominee and Tony Award nominee Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nDaniels is represented by LBI, Martino Management, and Yorn Levine.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139",
-      "published_at": "2026-11-17T23:10:00+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Jeff-Daniels-Ramy-Youssef.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 257,
-      "extracted_at": "2026-11-17T23:12:27.495Z",
-      "updated_at": "2026-11-17T23:12:27.495Z"
     }
   ]
 }
