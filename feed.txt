@@ -1,9 +1,75 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T21:49:55.969Z
+Last Updated: 2026-11-18T21:52:03.071Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess
+[1] David Ellison Goes Personal: Raised By Single Mom, Bonded With Dad As Teen, Massive VHS Collection
+Source: Deadline | Status: expanded | Words: 1175
+Published: 2026-11-18T21:51:35+00:00
+URL: https://deadline.com/2026/11/david-ellison-skydance-family-mother-father-1237228366
+------------------------------------------------------------
+SUMMARY:
+“I was raised by a single mother, by my mom. My parents got divorced when I was 3, and I really started building my relationship with my father when I was 13 years old through aviation,” said David Ellison, getting a bit more personal than usual at the New York Times DealBook Summit on Wednesday. […]
+
+CONTENT / EXTRACTED DETAILS:
+&#x201C;I was raised by a single mother, by my mom. My parents got divorced when I was 3, and I really started building my relationship with my father when I was 13 years old through aviation,&#x201D; said David Ellison , getting a bit more personal than usual at the New York Times DealBook Summit on Wednesday.
+
+His father is Oracle co-founder Larry Ellison .
+
+&#x201C;You didn't have a relationship with your father till you were 13?&#x201D; asked moderator Aaron Ross Sorkin.
+
+&#x201C;We saw each other, you know, once a year, every other year. We couldn't be closer now. I want to be clear. We really built a phenomenal relationship through aviation. We started flying model airplanes&#x201D; then graduated to real planes. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+&#x201C;Basically, we learned how to fly together, and kind of the weekend ritual was every Saturday, every Sunday, I'd go do an hour of flight training. He'd be on the ground and study. He'd go do an hour of flight training, I'd be on the ground and study.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Ellison said he traveled to air shows across the country, including Oshkosh [Air Show] &#x2013; &#x201C;which, for those who don't know, is kind of like the Super Bowl of aviation events &#x2026; It was an incredible thing to get to do in early life.&#x201D;
+
+He said he was aware of his tech lord father&#x2019;s status but &#x201C;my parents definitely made a concerted effort to make sure that we had a really grounded and normal childhood.&#x201D;
+
+The younger Ellison fell in love with movies and storytelling as a kid going to the cinema &#x201C;every single weekend.&#x201D;
+
+&#x201C;By the way, my father loves film as well. But you know, it was really something the three of us kind of all loved growing up,&#x201D; he said, referring to his mother and his sister Megan Ellison, the founder and CEO of Annapurna Pictures.
+
+&#x201C;Literally, we had, I still have it, a VHS collection that was like 3,000 [tapes]. We used to joke it was like Blockbuster at home. And Sunday was the one day, when you were a kid, when you can kind of do whatever you wanted. And me and Megan would be like, let's watch all five Rocky movies, or, you know, let's watch the Star Wars trilogy." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+David Ellison founded and grew Skydance , then acquired Paramount in August 2025. He said he and former Paramount owner Shari Redstone &#x201C;used to have a standing breakfast where I would ask her if she would ever be open to selling the company. For several years, the answer was always no. And one day the answer was yes.&#x201D;
+
+Sorkin pressed him on the hypothetical &#x201C;dinner table conversation&#x201D; where he told Larry Ellison he wanted to buy the company and needed the financial backing. &#x201C;How do you convince him?&#x201D;
+
+&#x201C;Look, one of the things I think people have to understand &#x2026; is my father is an incredible partner &#x2026; But he demands an incredible performance, an incredible result as a result of this investment,&#x201D; Ellison said.
+
+So, &#x201C;When you're doing this, and he's got to put in $40 billion, is he giving you a hard time if something's not right?&#x201D; asked Sorkin.
+
+&#x201C;The answer is, of course. I mean, come on,&#x201D; Ellison responded.
+
+Then came the Warner Bros Discovery acquisition , which closed last month.
+
+&#x201C;We talked throughout the deal process, literally every day. We probably talk on average four days a week, and we talk about strategy. We talk about where we want to creatively take the company. Yesterday, we were we were talking about artificial intelligence and how that's going to impact our business.&#x201D;
+
+Inevitably, Ellison was asked about Digger , the loss-making Tom Cruise-starring Warner Bros film released early last month.
+
+&#x201C;I've made eight movies with Tom. I think he's one of the seminal artists of our time. We're literally working on a sequel to Days of Thunder right now, and then we want to try to roll right into [the next] Top Gun after that,&#x201D; he said.
+
+&#x201C;I spent the last 16 years of my life on the filmmaking side of this business. I have lived on set. I've slept on Hans Zimmer's couch. I've been in editing rooms for 20 hours nonstop. I do understand the creative process of this business. And the goal has to be, in any film that you make, is how do you reach the broadest possible audience for that particular story. And there is no one-size-fits-all approach. We will make franchise movies. We will make original stories. We will make genre pictures. We will tell stories aimed at audiences from every single walk of life. What is important is that you basically size the budget to the potential addressable audience.&#x201D;
+
+He said Skydance co-film head Dana Goldberg is someone who can absolutely say no to him.
+
+&#x201C;Do you think she has better judgment than you do when it comes to relighting bills?&#x201D; asked Sorkin.
+
+&#x201C;She has been my partner at Skydance for 16 years, and &#x2026; this is a team sport,&#x201D; Ellison said.
+
+Back to family, Sorkin noted the Skydance portfolio includes Succession , Yellowstone , The Godfather and Billions , asking Ellison if his family was closest to the Roys, the Duttons, the Corleones or the Axelrods.
+
+&#x201C;Is none of the above an option?&#x201D; asked the Skydance chief.
+
+&#x201C;You could try to pick one,&#x201D; urged Sorkin.
+
+&#x201C;The answer is I actually love all of those stories,&#x201D; Ellison said, adding, &#x201C;Look, you mention family &#x2026; and you asked earlier why I haven't spoken as much publicly, and one of the answers is I probably should have done more of that previously. I've always valued privacy. I've got girls that are 3 and 5. And one of the things that I am really grateful for is, despite the last name, my family was able to shield a very large part of my childhood &#x2026; And I want to give the same to my kids. I want them to have a grounded life. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+&#x201C;There's nothing more important to me. My kids, my wife and I. We've been married for 15 years. We've been together for 20 years. And you know family cannot be more important to me. And apologies if [it&#x2019;s] a little boring because I pretty much work and I hang out with my family, my kids, and those are the things that really matter to me.&#x201D;
+
+============================================================
+[2] ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-18T21:48:15+00:00
 URL: https://theplaylist.net/heartland-review-jessica-chastain-shana-feste-20261118
@@ -15,7 +81,7 @@ CONTENT / EXTRACTED DETAILS:
 Picture this. A screenwriter walks into a room full of studio executives and pitches a thriller about a rising country singer who disappears in Nashville. The police are inexplicably indifferent, her family is getting nowhere, and so who do they enlist to play detective? Her aunt, a disgraced country music star whose career imploded two decades earlier, who returns home to kick up some dust and play amateur snoop. Oh, and she’s played by Jessica Chastain , an Academy Award-winning actress who, for reasons that become increasingly difficult to fathom, has agreed to star in this thing. Continue reading ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess at The Playlist.
 
 ============================================================
-[2] Kathryn Newton, Nina Dobrev, Adam Devine &#038; Scott Eastwood To Star In Rom-Com 'Sorry About My Friends'
+[3] Kathryn Newton, Nina Dobrev, Adam Devine &#038; Scott Eastwood To Star In Rom-Com 'Sorry About My Friends'
 Source: Deadline | Status: expanded | Words: 541
 Published: 2026-11-18T21:48:03+00:00
 URL: https://deadline.com/2026/11/kathryn-newton-nina-dobrev-adam-devine-sorry-about-my-friends-1237228476
@@ -39,7 +105,7 @@ Eastwood comes to the new film with rom-com experience from Jason Orley's Amazon
 Hardcastle is a British filmmaker whose first feature, the Rebel Wilson comedy Senior Year , topped Netflix's charts in over 60 countries. He's also a prolific television director whose credits include the pilot of Richard Lovely for Fox starring Tom Lennon and the pilot of American Woman , which was picked up to series at Paramount, as well as episodes of Grace & Frankie , You're the Worst , Crazy Ex-Girlfriend and Superstore . He recently wrapped directing a block of Elle for Hello Sunshine and Amazon, and Einstein for CBS, and is repped by Artists First and Paradigm.
 
 ============================================================
-[3] GTA 6 Removes a Major GTA 5 Feature, But the Reasoning Makes Sense
+[4] GTA 6 Removes a Major GTA 5 Feature, But the Reasoning Makes Sense
 Source: ComicBook.com | Status: expanded | Words: 494
 Published: 2026-11-18T21:44:32+00:00
 URL: https://comicbook.com/gaming/news/gta-6-removes-a-major-gta-5-feature-but-the-reasoning-makes-sense
@@ -67,7 +133,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 'Sentimental Value' Casting Guru Recalls Meta Stellan Skarsgard and Elle Fanning Experience
+[5] 'Sentimental Value' Casting Guru Recalls Meta Stellan Skarsgard and Elle Fanning Experience
 Source: The Hollywood Reporter | Status: expanded | Words: 723
 Published: 2026-11-18T21:44:22+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sentimental-value-stellan-skarsgard-elle-fanning-meta-story-1236758742
@@ -95,7 +161,7 @@ The casting director also shared insight into how Elle Fanning ended up in the f
 Haga also recalled Fanning's first visit to Oslo to do fittings and rehearsals. "The house that's in the film is a house in Oslo that they had rented for half a year or so," she said. "The rehearsals in the film are happening in the house where he's filming, and we also did the rehearsals in the house, and they asked me to read the other female parts of the scenes. So that was cool for me to be part of a scene with Stellan and Elle, and that was the first time I met her. But it was so meta because we were rehearsing a rehearsal scene and doing it on the location, and she had come over from the U.S., which was her first time in Oslo &#x2014; like her character. So it was super weird, but very fun."
 
 ============================================================
-[5] I Enjoyed The Circle’s Hulu Premiere, But One Major Change Upset Me More Than I Thought It Would
+[6] I Enjoyed The Circle’s Hulu Premiere, But One Major Change Upset Me More Than I Thought It Would
 Source: CinemaBlend | Status: expanded | Words: 200
 Published: 2026-11-18T21:42:16+00:00
 URL: https://www.cinemablend.com/streaming-news/enjoyed-the-circle-hulu-premiere-but-host-change-upset-me
@@ -113,7 +179,7 @@ It may just take time for me to get used to Tinx (Christina Najjar), who comes i
 Tinx has the resume for the role, but one episode in, I don't really see the same personality in her that I saw in Michelle Buteau. Granted, it's been one episode, and if we were all judged by our first day on the job, many of us would probably in trouble.
 
 ============================================================
-[6] PS5 Users Can't Believe PSN Is Struggling Before GTA 6 Launch: "Sony's Servers Called Out Sick Too"
+[7] PS5 Users Can't Believe PSN Is Struggling Before GTA 6 Launch: "Sony's Servers Called Out Sick Too"
 Source: ComicBook.com | Status: expanded | Words: 516
 Published: 2026-11-18T21:42:12+00:00
 URL: https://comicbook.com/gaming/news/ps5-users-cant-believe-psn-is-struggling-before-gta-6-launch-sonys-servers-called-out-sick-too
@@ -143,7 +209,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Robert Downey Jr. Breaks Down His MCU Return in New Avengers: Doomsday Video, And Why He's Back
+[8] Robert Downey Jr. Breaks Down His MCU Return in New Avengers: Doomsday Video, And Why He's Back
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-18T21:35:08+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-breaks-down-his-mcu-return-in-new-avengers-doomsday-video-and-why-hes-back
@@ -169,7 +235,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] 'Longlegs' Producer Dan Kagan And His Banner Traffic Ink Partnership With Plan B
+[9] 'Longlegs' Producer Dan Kagan And His Banner Traffic Ink Partnership With Plan B
 Source: Deadline | Status: expanded | Words: 409
 Published: 2026-11-18T21:30:00+00:00
 URL: https://deadline.com/2026/11/longlegs-dan-kagan-plan-b-1237228224
@@ -195,7 +261,7 @@ Some of Plan B's other recent credits include Heart of the Beast and Jane Schoen
 Kagan is represented by CAA and Granderson Des Rochers.
 
 ============================================================
-[9] As U.S. Infrastructure Crumbles, ABC's 'World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID
+[10] As U.S. Infrastructure Crumbles, ABC's 'World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID
 Source: Variety | Status: expanded | Words: 503
 Published: 2026-11-18T21:24:55+00:00
 URL: https://variety.com/2026/tv/news/abc-world-news-tonight-ratings-best-since-covid-1236952295
@@ -217,7 +283,7 @@ Over the entire week (except for Monday, which wasn't included due to Monday Nig
 Season to date, &#x201C;World News Tonight&#x201D; is up 14% year-to-year in total viewers (8.679 million vs. 7.586 million), up 34% with adults 25-54 (1.214 million vs. 907,000) and up 40% with adults 18-49 (883,000 vs. 629,000), based on Most Current Big Data+Panel Ratings. ABC notes that &#x201C;World News Tonight&#x201D; is posting its best ratings since the 2020-2021 season and that its total viewers lead over &#x201C;NBC Nightly News&#x201D; is its largest advantage in 32 years, and its lead over &#x201C;CBS Evening News&#x201D; is its largest advantage in at least 35 years.
 
 ============================================================
-[10] ESPN Now Has 54 Million Pay-TV Subscribers, Nearly Half Its 2011 Peak Of 100 Million
+[11] ESPN Now Has 54 Million Pay-TV Subscribers, Nearly Half Its 2011 Peak Of 100 Million
 Source: Deadline | Status: expanded | Words: 517
 Published: 2026-11-18T21:24:42+00:00
 URL: https://deadline.com/2026/11/espn-pay-tv-subscribers-million-disney-streaming-1237228395
@@ -243,7 +309,7 @@ As it approaches its 50th anniversary in 2029, ESPN is racking up some milestone
 Longtime investor Hearst Corp. now has an 18% stake in ESPN, putting Disney's current ownership at 72%.
 
 ============================================================
-[11] Dragon Ball Super Needs to Reveal More of Its Multiverse
+[12] Dragon Ball Super Needs to Reveal More of Its Multiverse
 Source: ComicBook.com | Status: expanded | Words: 791
 Published: 2026-11-18T21:18:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-needs-to-reveal-more-of-its-multiverse
@@ -273,7 +339,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Bear Grylls, Dhar Mann, Erin Foster, Lonnie Ali, Cameron Alexander and Sonja Warfield to Be Honored at Variety’s Third Annual Faith &#038; Spirituality in Entertainment Honors
+[13] Bear Grylls, Dhar Mann, Erin Foster, Lonnie Ali, Cameron Alexander and Sonja Warfield to Be Honored at Variety’s Third Annual Faith &#038; Spirituality in Entertainment Honors
 Source: Variety | Status: expanded | Words: 849
 Published: 2026-11-18T21:12:57+00:00
 URL: https://variety.com/2026/biz/news/honorees-faith-spirituality-honors-1236952264
@@ -311,7 +377,7 @@ Wilson is the Emmy-nominated and SAG award-winning actor best known for playing 
 Past honorees have included Mo Amer, Tiffany Haddish, Viola Davis, Sheryl Lee Ralph, Jay Shetty, and Julius Tennon.
 
 ============================================================
-[13] Ron Howard Wasn't Sure He Was the Right Director for 'Avedon'; This Is What Changed His Mind
+[14] Ron Howard Wasn't Sure He Was the Right Director for 'Avedon'; This Is What Changed His Mind
 Source: The Hollywood Reporter | Status: expanded | Words: 815
 Published: 2026-11-18T21:09:09+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ron-howard-avedon-scad-interview-1236743055
@@ -343,7 +409,7 @@ Added Howard of how Richard might approach AI, &#x201C;My guess is also with his
 Watch the full Q&A in the video above.
 
 ============================================================
-[14] Florence Pugh Is Tired Of People Making Stuff Up About Her Body (Especially Her Nose): ‘I’m Disturbed’
+[15] Florence Pugh Is Tired Of People Making Stuff Up About Her Body (Especially Her Nose): ‘I’m Disturbed’
 Source: CinemaBlend | Status: expanded | Words: 411
 Published: 2026-11-18T21:07:42+00:00
 URL: https://www.cinemablend.com/movies/florence-pugh-responds-body-comments-plastic-surgery-ozempic
@@ -367,7 +433,7 @@ Pugh remarked that on one occasion, the size of her thighs were even pointed out
 These days, as there's a lot of changing body norms in the media, partially propelled by the rise of GLP-1s , Florence Pugh continues to fight for loving bodies as they are in her latest social media post. You can see her in both Avengers: Doomsday and Dune : Part Three on December 18.
 
 ============================================================
-[15] I Wasn't Expecting Eternally Yours To Set Up So Many Big Things In Its First Season (And, I'm Pumped)
+[16] I Wasn't Expecting Eternally Yours To Set Up So Many Big Things In Its First Season (And, I'm Pumped)
 Source: CinemaBlend | Status: expanded | Words: 228
 Published: 2026-11-18T21:05:00+00:00
 URL: https://www.cinemablend.com/television/eternally-yours-many-big-things-first-season-pumped
@@ -385,7 +451,7 @@ That brings me to Episode 6, “Eternal Sunshine of Phyllis’s Mind,” where I
 The final setup, which is definitely my favorite, also comes from last week’s episode. Phyllis is one of the best parts of Eternally Yours so far, but I was curious if they would address how messed up it is that her memories are always being wiped.
 
 ============================================================
-[16] 5 Comic Book Movies That Are Actually Better Than The Comics They’re Based On (1 Was Nominated For 2 Oscars)
+[17] 5 Comic Book Movies That Are Actually Better Than The Comics They’re Based On (1 Was Nominated For 2 Oscars)
 Source: ComicBook.com | Status: expanded | Words: 1144
 Published: 2026-11-18T21:01:00+00:00
 URL: https://comicbook.com/movies/list/5-comic-book-movies-that-are-actually-better-than-the-comics-theyre-based-on-1-was-nominated-for-2-oscars
@@ -413,7 +479,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically
+[18] Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically
 Source: Variety | Status: expanded | Words: 518
 Published: 2026-11-18T21:00:00+00:00
 URL: https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229
@@ -427,7 +493,7 @@ Willa and Women Make Movies have teamed up to distribute documentary &#x201C; Lo
 &#x2018;Love Apptually&#x2019; is a 7th Empire Media production, presented by Willa in association with Minderoo Pictures and the Concordia Fellowship, with support from the Alfred P. Sloan Foundation and the Perspective Fund. The film is produced by Kantayya and Woodward. Executive producers include Davis Guggenheim, Rahdi Taylor, Doron Weber, and Malinda Wink, with co-executive producers Meryl Metni, Natasha Dolby and David Dolby. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[18] Sasha Lane, Alia Shawkat &#038; Simon Rex Wrap On Horror Thriller 'Nepo Babies'
+[19] Sasha Lane, Alia Shawkat &#038; Simon Rex Wrap On Horror Thriller 'Nepo Babies'
 Source: Deadline | Status: expanded | Words: 469
 Published: 2026-11-18T20:55:15+00:00
 URL: https://deadline.com/2026/11/sasha-lane-alia-shawkat-simon-rex-wrap-nepo-babies-1237228406
@@ -455,7 +521,7 @@ Rex is coming off films including The Leader , Operation Taco Gary's and Easy's 
 Kessler is repped by IAG and Reel Talent; Argy by UTA and Yorn Levine; Farnsworth by BRS/Gage and Venture Entertainment Partners; Martini by UTA and Untitled; Zelnick by WME, Mosaic and Ziffren Brittenham; and Perskie by WME and Hirsch Wallerstein Hayum.
 
 ============================================================
-[19] Whoops, The Devil Wears Prada 2 Designer Seemingly Leaked Info About Anne Hathaway’s Baby
+[20] Whoops, The Devil Wears Prada 2 Designer Seemingly Leaked Info About Anne Hathaway’s Baby
 Source: CinemaBlend | Status: expanded | Words: 273
 Published: 2026-11-18T20:51:48+00:00
 URL: https://www.cinemablend.com/movies/the-devil-wears-prada-2-designer-leaked-gender-anne-hathaway-baby
@@ -473,7 +539,7 @@ Now, we know her baby’s gender too. It’s unclear if the actress was aware of
 At the time of this writing, Hathaway has not posted about giving birth. In fact, since she vanished in a plume of smoke, she’s only posted twice – once on October 27 to promote Verity’s VOD release (which was filmed when they made the movie) and another time on November 12 to wish Ryan Gosling a happy birthday (they share the same birthday, by the way). So, it’s unclear how she’d feel about this information regarding her baby’s gender being public knowledge.
 
 ============================================================
-[20] Sarah Has 'One Month' to Leave Her Parents' Home. She's 45. (Exclusive Clip, Director Chat)
+[21] Sarah Has 'One Month' to Leave Her Parents' Home. She's 45. (Exclusive Clip, Director Chat)
 Source: The Hollywood Reporter | Status: expanded | Words: 998
 Published: 2026-11-18T20:49:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-film-one-month-interview-exclusive-clip-1236758323
@@ -513,7 +579,7 @@ As you can see in the exclusive clip that THR could premiere above, music is a k
 "Maybe the hardest thing for this film was getting the music," Vitkova-Kosev says. "It took me a year and a half. I did it on my own. I didn't hire anybody to do that. I was in contact with the companies, and the first thing that they had to understand was that we had limitations in the budget. So basically, my choice as a producer was to not pay myself for my work as a screenwriter, director, and producer, but pay for the music. I feel music is important and something that will stay."
 
 ============================================================
-[21] Marvel Just Reimagined Doctor Octopus in the Most Disturbing Way Possible
+[22] Marvel Just Reimagined Doctor Octopus in the Most Disturbing Way Possible
 Source: ComicBook.com | Status: expanded | Words: 887
 Published: 2026-11-18T20:48:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-just-reimagined-doctor-octopus-in-the-most-disturbing-way-possible
@@ -545,7 +611,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] 'Dìdi's Sean Wang To Direct 'How To Rule The World' For Warner Bros.
+[23] 'Dìdi's Sean Wang To Direct 'How To Rule The World' For Warner Bros.
 Source: Deadline | Status: expanded | Words: 616
 Published: 2026-11-18T20:45:00+00:00
 URL: https://deadline.com/2026/11/sean-wang-to-direct-how-to-rule-the-world-warner-bros-1237228369
@@ -573,7 +639,7 @@ In 2024, Wang was named a BAFTA Breakthrough Artist and received the Sundance Va
 Baker is repped by CAA and published by Penguin Press.
 
 ============================================================
-[23] I Didn’t Expect Jennifer Love Hewitt’s Intense Take On Reuniting With Ryan Phillippe For 9-1-1
+[24] I Didn’t Expect Jennifer Love Hewitt’s Intense Take On Reuniting With Ryan Phillippe For 9-1-1
 Source: CinemaBlend | Status: expanded | Words: 298
 Published: 2026-11-18T20:44:56+00:00
 URL: https://www.cinemablend.com/television/jennifer-love-hewitt-shares-intense-take-reunion-ryan-phillippe-9-1-1
@@ -591,7 +657,7 @@ I love that even though they’ve worked together before, Hewitt can still have 
 As for right now, details surrounding the next 9-1-1 and 9-1-1: Nashville crossover have not been revealed, and I'm eager to see what brings Rogue to Los Angeles. After trying to track down a serial killer in Nashville who is using biblical plagues, hopefully this trip out West will be a bit lighter for him. Of course, if anyone can help him, it’s Hewitt’s Maddie Buckley-Han, who is arguably the best 9-1-1 dispatcher in LA.
 
 ============================================================
-[24] Disney's Hexed Team Reveal How Film's Witch School Is Totally Different From Wicked, Harry Potter [EXCLUSIVE]
+[25] Disney's Hexed Team Reveal How Film's Witch School Is Totally Different From Wicked, Harry Potter [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 748
 Published: 2026-11-18T20:43:57+00:00
 URL: https://comicbook.com/movies/news/disneys-hexed-team-reveal-how-films-witch-school-is-totally-different-from-wicked-harry-potter-exclusive
@@ -621,7 +687,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] GTA 6 - When Can You Get a New Car?
+[26] GTA 6 - When Can You Get a New Car?
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-18T20:37:55+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-when-can-you-get-a-new-car
@@ -647,7 +713,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD's Meg Maro To Depart
+[27] Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD's Meg Maro To Depart
 Source: Deadline | Status: expanded | Words: 287
 Published: 2026-11-18T20:31:17+00:00
 URL: https://deadline.com/2026/11/skydance-chief-marketing-officer-rebecca-mall-leam-meg-maro-1237228359
@@ -667,7 +733,7 @@ Also new is the creation of a Franchise and Kids & Family marketing unit lead by
 Departing in the restructuring is Meg Maro, WBD's Global Head of Franchise, who will leave at the end of year.
 
 ============================================================
-[27] Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai &#038; Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
+[28] Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai &#038; Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
 Source: Deadline | Status: expanded | Words: 529
 Published: 2026-11-18T20:30:00+00:00
 URL: https://deadline.com/2026/11/doc-talk-anne-lai-jessie-fairbanks-sam-pollard-jm-harper-1237227326
@@ -689,7 +755,7 @@ That&#x2019;s on the new episode of Doc Talk hosted by Oscar winner John Ridley 
 Listen to the episode above or on major podcast platforms including Spotify , iHeart and Apple .
 
 ============================================================
-[28] Robert Pattinson Allegedly Got A Big Payday Just For Auditioning For Bond (And More Money Is On The Way)
+[29] Robert Pattinson Allegedly Got A Big Payday Just For Auditioning For Bond (And More Money Is On The Way)
 Source: CinemaBlend | Status: expanded | Words: 279
 Published: 2026-11-18T20:28:10+00:00
 URL: https://www.cinemablend.com/movies/robert-pattinson-alleged-big-payday-james-bond-audition-contract
@@ -705,7 +771,7 @@ Pattinson -- who has since been congratulated by the British Royal Family and mo
 Details on Bond 26 are being kept under wraps, including the title and premise. At this point, it also feels unlikely that it'll be released in 2027. However, we do know that Denis Villeneuve will be directing the movie, meaning this will be a Dune reunion for him and Pattinson. There is a lot of speculation surrounding who will join Pattinson, as names are being thrown out for the next Bond villain. And, of course, many are wondering who will be the next Bond girl with rumors placing Margaret Qualley in the lead as a strong candidate.
 
 ============================================================
-[29] Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition
+[30] Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition
 Source: Deadline | Status: expanded | Words: 208
 Published: 2026-11-18T20:20:33+00:00
 URL: https://deadline.com/2026/11/newsmax-fox-roku-antitrust-lawsuit-1237228360
@@ -725,7 +791,7 @@ Newsmax contends that Roku's Roku Channel with Fox's Tubi have a combined 70% sh
 A Fox Corp. spokesperson did not immediately return a request for comment.
 
 ============================================================
-[30] Florence Pugh Says It's "Disturbing Having My Body Dissected," Slams Surgery and Ozempic Accusations: "Be Mindful"
+[31] Florence Pugh Says It's "Disturbing Having My Body Dissected," Slams Surgery and Ozempic Accusations: "Be Mindful"
 Source: The Hollywood Reporter | Status: expanded | Words: 999
 Published: 2026-11-18T20:17:11+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/florence-pugh-disturbing-body-dissected-surgery-ozempic-1236758648
@@ -761,7 +827,7 @@ She also explained that she's been prioritizing growing muscle because "I think 
 "I&#x2019;ve always been aware that seeing a confident woman be happy in her skin is triggering to a lot of people and for long time just accepted that I will receive commentary like that. But now this..? I&#x2019;m asking us all to just be mindful. We are all real people, living real lives," she concluded.
 
 ============================================================
-[31] How to Watch the CMA Awards (And Taylor Swift's Performance) Live Online
+[32] How to Watch the CMA Awards (And Taylor Swift's Performance) Live Online
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-18T20:16:47+00:00
 URL: https://variety.com/2026/music/news/how-to-watch-cmas-taylor-swift-performance-live-online-1236952238
@@ -783,7 +849,7 @@ The list of artists taking the stage goes on with Cody Johnson, Tim McGraw, The 
 Lainey Wilson returns as host for the third year. Show veteran Robert Deaton returns as executive producer, Alan Carter is back as director and Jon Macks is the telecast&#x2019;s head writer.
 
 ============================================================
-[32] Demon Slayer Was a Huge Disappointment This Year &#038; It’s Not Because of Infinity Castle
+[33] Demon Slayer Was a Huge Disappointment This Year &#038; It’s Not Because of Infinity Castle
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-18T20:14:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-was-a-huge-disappointment-this-year-its-not-because-of-infinity-castle
@@ -807,7 +873,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Avengers: Doomsday Reveals Best Look Yet at X-Men Favorite Ahead of Marvel Return 23 Years in the Making
+[34] Avengers: Doomsday Reveals Best Look Yet at X-Men Favorite Ahead of Marvel Return 23 Years in the Making
 Source: ComicBook.com | Status: expanded | Words: 602
 Published: 2026-11-18T20:13:28+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-reveals-best-look-yet-at-x-men-favorite-ahead-of-marvel-return-23-years-in-the-making
@@ -833,7 +899,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Awards Season Calendar 2026-2027: Every Key Date on the Road to the Oscars
+[35] Awards Season Calendar 2026-2027: Every Key Date on the Road to the Oscars
 Source: Variety | Status: expanded | Words: 677
 Published: 2026-11-18T20:05:44+00:00
 URL: https://variety.com/lists/awards-season-calendar-2026-2027-oscars-golden-globes-dates
@@ -1009,7 +1075,7 @@ Wednesday, June 2: 26th Tribeca Festival begins (through June 13)
 Sunday, June 13: 80th Tony Awards
 
 ============================================================
-[35] Documentary 'Porno Para Ricardo,' About Cuban Punk Musician Gorki, Shows 'the Struggle of a Free Spirit Trapped in a Cage'
+[36] Documentary 'Porno Para Ricardo,' About Cuban Punk Musician Gorki, Shows 'the Struggle of a Free Spirit Trapped in a Cage'
 Source: Variety | Status: expanded | Words: 952
 Published: 2026-11-18T20:03:31+00:00
 URL: https://variety.com/2026/film/global/gorki-porno-para-ricardo-1236952214
@@ -1065,7 +1131,7 @@ Jakrlov&#xE1;&#x2019;s greatest challenge in completing &#x201C;Porno Para Ricar
 Gorki now resides in Mexico, where he is awaiting a decision on a U.S. visa that would reunite him with his wife, daughter and grandson in Florida, Jakrlov&#xE1; says.
 
 ============================================================
-[36] 'Collect &#038; Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series
+[37] 'Collect &#038; Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series
 Source: The Playlist | Status: summary_only | Words: 106
 Published: 2026-11-18T20:03:05+00:00
 URL: https://theplaylist.net/collect-praise-trailer-druski-netflix-comedy-series-20261118
@@ -1077,7 +1143,7 @@ CONTENT / EXTRACTED DETAILS:
 Coming off strong viewership hosting " Saturday Night Live " (a two-year high for the late-night sketch show), on-the-rise comedian Druski is behind the new original Netflix comedy series project " Collect & Prais e." The outlandish project sees the funny man, known for pushing buttons and skewing good taste for gut-busting laughs, play a greedy pastor (in the vein of " The Righteous Gemstones "), but with a strong focus on satirizing Black church culture and everything else in between (get out the fainting couch). Continue reading 'Collect & Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series at The Playlist.
 
 ============================================================
-[37] New Avengers: Doomsday Footage May Have Confirmed a Massive Rumor About the Opening Scene
+[38] New Avengers: Doomsday Footage May Have Confirmed a Massive Rumor About the Opening Scene
 Source: ComicBook.com | Status: expanded | Words: 576
 Published: 2026-11-18T19:59:53+00:00
 URL: https://comicbook.com/movies/news/new-avengers-doomsday-footage-may-have-confirmed-a-massive-rumor-about-the-opening-scene
@@ -1105,7 +1171,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Kylie Cantrall Surprises Fans With Private Acoustic Set in Downtown L.A.
+[39] Kylie Cantrall Surprises Fans With Private Acoustic Set in Downtown L.A.
 Source: The Hollywood Reporter | Status: expanded | Words: 965
 Published: 2026-11-18T19:56:56+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/kylie-cantrall-surprise-acoustic-concert-los-angeles-moxy-1236758661
@@ -1141,7 +1207,7 @@ Valley Girl Problems, released via Republic Records, follows on the heels of her
 Moxy Hotels says that its music series aims to create a space where Gen Z can be connected with artists, events and moments shaping culture.
 
 ============================================================
-[39] The Best Gifts for Musicians and Music Fans in 2026: Fender Guitars, DJ Decks, Vinyl Sets and More
+[40] The Best Gifts for Musicians and Music Fans in 2026: Fender Guitars, DJ Decks, Vinyl Sets and More
 Source: Variety | Status: expanded | Words: 1624
 Published: 2026-11-18T19:53:21+00:00
 URL: https://variety.com/2026/shopping/news/musician-gift-guide-2026-shop-online-1236945286
@@ -1197,7 +1263,7 @@ Bob Dylan&#x2019;s Rolling Thunder Revue is one of the most famous tours in musi
 For the Tom Petty fanatic in your life, the &#x201C;Origins&#x201D; box set covers the rocker&#x2019;s early years in the 1970s, when he and the Heartbreakers churned out some of the best rock songs of all time, like &#x201C;American Girl&#x201D; and &#x201C;Breakdown.&#x201D; The four-CD set includes 50th-anniversary editions of the band&#x2019;s first two albums and a blistering 1977 set from the Record Plant, as well as a DVD of their 1978 Old Grey Whistle Test appearance, a Blu-ray of Atmos mixes and a 46-page fanzine.
 
 ============================================================
-[40] Netflix to Adapt ‘Grendel’ Comic Books Into Adult Animated TV Series
+[41] Netflix to Adapt ‘Grendel’ Comic Books Into Adult Animated TV Series
 Source: The Hollywood Reporter | Status: expanded | Words: 409
 Published: 2026-11-18T19:50:45+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/netflix-adapt-grendel-comic-books-adult-animated-tv-series-1236758655
@@ -1221,7 +1287,7 @@ Netflix&#x2019;s adaptation of the series will be executive produced by Chris To
 When it is released, Grendel will join Netflix&#x2019;s library of adult animated shows including BoJack Horseman, Big Mouth , Love, Death & Robots and Mating Season .
 
 ============================================================
-[41] Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
+[42] Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
 Source: Variety | Status: expanded | Words: 594
 Published: 2026-11-18T19:49:37+00:00
 URL: https://variety.com/2026/film/news/academy-museum-winter-film-series-colman-domingo-sing-sing-1236952141
@@ -1251,7 +1317,7 @@ Jan. 2-31 &#x2014; Trust the Artists: A Celebration of the Mirisch Company Jan. 
 Feb. 4-15 &#x2014; Unapologetically So &#x2026; Black Queer Women and Femmes on Screen Feb. 6 &#x2014; Spotlight: &#x201C;Veteran&#x201D; (2015) and &#x201C;Veteran 2: I, the Executioner&#x201D; (2024) with Ryoo Seung-wan and Jung Hae-in Feb. 6 &#x2014; Inside Horror: Casting a Final Girl With Terri Taylor Feb. 6 &#x2014; In Focus: Black Horror Stories Feb. 18-28 &#x2014; Shohei Imamura: Below the Horizon Feb. 26 &#x2014; Gallery Spotlight: Archiving the Life of Marilyn Monroe Feb. 27 &#x2014; Finding Your Story Workshop With Carlos L&#xF3;pez Estrada Feb. 28 &#x2014; Drop-In Workshop: Tactile Filmmaking &#x2014; Stop-Motion Animation Inspired by The Horror Show
 
 ============================================================
-[42] Carrie Coon, Nia Long and Women of Awards Season Talk Personal Stories, Playing Real-Life People and More at Variety’s High Tea
+[43] Carrie Coon, Nia Long and Women of Awards Season Talk Personal Stories, Playing Real-Life People and More at Variety’s High Tea
 Source: Variety | Status: expanded | Words: 1890
 Published: 2026-11-18T19:49:30+00:00
 URL: https://variety.com/2026/film/news/variety-high-tea-celebrating-the-women-of-awards-season-1236950562
@@ -1327,7 +1393,7 @@ While all these talented professionals bring their unique perspectives and lived
 &#x201C;At the end of the day, all of us feel the same things, all of us understand the same things and that is the most powerful thing we carry as women,&#x201D; Long said. &#x201C;We have to have more of those conversations in order to create unity and power among all of us to actually keep creating.&#x201D;
 
 ============================================================
-[43] Vince Lombardi Biopic In Works From Producers James Manera And Massimiliano Musina
+[44] Vince Lombardi Biopic In Works From Producers James Manera And Massimiliano Musina
 Source: Deadline | Status: expanded | Words: 715
 Published: 2026-11-18T19:45:00+00:00
 URL: https://deadline.com/2026/11/vince-lombardi-biopic-1237226964
@@ -1359,7 +1425,7 @@ Lombardi&#x2019;s personal philosophy of chasing excellence, reaching one&#x2019
 Harris Tulchin of Harris Tulchin & Associates will serve as co-executive producer and provide entertainment legal services for the project.
 
 ============================================================
-[44] Newsmax Sues to Block Fox-Roku Deal
+[45] Newsmax Sues to Block Fox-Roku Deal
 Source: The Hollywood Reporter | Status: expanded | Words: 717
 Published: 2026-11-18T19:38:57+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/newsmax-sues-block-fox-roku-deal-1236758649
@@ -1393,7 +1459,7 @@ Fox will have the ability to handicap rivals by giving its own services premium 
 The megamerger had been more than a year in the making, though it closed in just five months.
 
 ============================================================
-[45] Angry Caregivers Are Using SNL’s Sister To Call Out Family Members On Social Media
+[46] Angry Caregivers Are Using SNL’s Sister To Call Out Family Members On Social Media
 Source: CinemaBlend | Status: expanded | Words: 470
 Published: 2026-11-18T19:38:45+00:00
 URL: https://www.cinemablend.com/television/snl-sister-social-media
@@ -1415,7 +1481,7 @@ It’s clear this sketch, which is filled with fun little easter eggs , struck a
 Saturday Night Live is off for a few weeks for the holidays, but it’ll return in early December with the next new episode guest hosted by Amanda Seyfried . Fingers crossed she’s able to give us something that makes even a fraction of the cultural footprint. You can catch previously aired episodes streaming with a Peacock subscription .
 
 ============================================================
-[46] PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release
+[47] PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release
 Source: ComicBook.com | Status: expanded | Words: 232
 Published: 2026-11-18T19:36:33+00:00
 URL: https://comicbook.com/gaming/news/psn-playstation-network-down-gta-6-release
@@ -1435,7 +1501,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] ‘Stick’ Soundtrack: All The Songs You’ll Hear In The Apple TV Golf Series
+[48] ‘Stick’ Soundtrack: All The Songs You’ll Hear In The Apple TV Golf Series
 Source: Deadline | Status: expanded | Words: 315
 Published: 2026-11-18T19:34:58+00:00
 URL: https://deadline.com/feature/stick-soundtrack-songs-owen-wilson-golf-show-1236424017
@@ -1471,7 +1537,7 @@ Episode 7 - "Dreams Never Remembered"
 Episode 10 - "D&#xE9;j&#xE0; Vu All Over Again"
 
 ============================================================
-[48] Rola Bauer, Executive Producer on Robin Wright's 'The Girlfriend,' Joins Monte-Carlo Television Festival as Creative Director
+[49] Rola Bauer, Executive Producer on Robin Wright's 'The Girlfriend,' Joins Monte-Carlo Television Festival as Creative Director
 Source: Variety | Status: expanded | Words: 1176
 Published: 2026-11-18T19:33:17+00:00
 URL: https://variety.com/2026/tv/global/rola-bauer-monte-carlo-television-festival-1236952076
@@ -1527,7 +1593,7 @@ C&#xE9;cile Menoni, executive director of the Monte-Carlo Television Festival, s
 &#x201C;The expansion of our advisory board with seven new ambassadors is another important step in this direction. Each of them already knows the festival, shares our attachment to its identity and brings valuable experience, perspectives and connections. Together with Rola, they will contribute to preparing the 2027 edition, developing new international collaborations and reinforcing Monte-Carlo's position as a meeting place for the people and productions shaping the future of television."
 
 ============================================================
-[49] I Found Out Who Voiced Obsession’s One Wish Willow Guy (And Other Cool BTS Details)
+[50] I Found Out Who Voiced Obsession’s One Wish Willow Guy (And Other Cool BTS Details)
 Source: CinemaBlend | Status: expanded | Words: 477
 Published: 2026-11-18T19:30:05+00:00
 URL: https://www.cinemablend.com/movies/who-voiced-obsession-one-wish-willow-guy-bts-details-curry-barker-interview
@@ -1549,16 +1615,4 @@ What a fun cameo! I had no idea Barker was the voice , but it’s a fun little t
 One more BTS detail I want to share has to do with what didn’t make it into the film. Obsession really goes hard in the paint on the movie rating scale, so I was curious if there was a scene the director had to remove because it went too far. The answer is, yes, there was one moment.
 
 So, what was that “one thing”? During a Q&A (via Deadline ), Barker revealed it was the scene where Nikki kills Sarah by smashing her head into the steering wheel. Barker said there was originally “about six or seven more smashes." The MPA ratings board was going to give the movie a NC-17 rating because of it. At first, Barker wasn’t happy about making the change, but when he saw the movie with an audience (and heard their reactions), he realized the number they landed on was “the right number” to choose.
-
-============================================================
-[50] Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11
-Source: The Playlist | Status: summary_only | Words: 86
-Published: 2026-11-18T19:25:23+00:00
-URL: https://theplaylist.net/ryan-gosling-project-hail-mary-returning-december-11-20261118
-------------------------------------------------------------
-SUMMARY:
-Phil Lord and Christopher Miller 's crowd-pleasing sci-fi comedy " Project Hail Mary " (an adaptation of the Andy Weir novel, the same author known for " The Martian ") starring Ryan Gosling is going to be heading back to U.S. and Canadian theaters next month ahead of a busy holiday season. Alongside that announcement, the studio has dropped a trailer to help promote the movie's return. Continue reading Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11 at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-Phil Lord and Christopher Miller 's crowd-pleasing sci-fi comedy " Project Hail Mary " (an adaptation of the Andy Weir novel, the same author known for " The Martian ") starring Ryan Gosling is going to be heading back to U.S. and Canadian theaters next month ahead of a busy holiday season. Alongside that announcement, the studio has dropped a trailer to help promote the movie's return. Continue reading Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11 at The Playlist.
 
