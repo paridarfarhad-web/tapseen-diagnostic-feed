@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T15:57:43.550Z"
+    "updated_at": "2026-11-18T15:59:41.597Z"
   },
   "articles": [
+    {
+      "id": "19ff9b07-17c9-40a8-ab7a-dc1a0a79253e",
+      "title": "New PS5 Console Update Has to Be Downloaded to Play GTA 6",
+      "summary": "With Grand Theft Auto 6 finally arriving on November 19, fans don't have long to wait before they can jump into Leonida, but PlayStation 5 players have one more thing to check off their list first. Sony has issued a new PS5 system software update that players must download before they can play GTA 6. […]",
+      "content": "The last thing any player wants is to have to download a system update when trying to boot up GTA 6 for the first time . This is especially true for those who have preloaded the game or taken time off from work to play it. However, having the game installed doesn't necessarily mean the system update has been downloaded and it is best to verify this ahead of time. Be sure to check your console's system software now to see if you need to update.\n\nThe latest PS5 firmware update is available now and it is required before being able to play Grand Theft Auto 6 . The update is approximately 1.2GB, making it relatively small and should go through quickly. Still, any delay on November 19th means less time playing GTA 6 . According to Sony's patch notes, the update introduces security fixes to the PS5 system software. However, the company hasn't explained why this particular update is mandatory for GTA 6 .\n\nThis is the third PS5 firmware update released within a month making the matter more curiosity. The updates did occur around times there were reports of hackers attempting to bypass the PS5's security protections. This could be for increased security, especially around such a large release, but Sony have not confirmed this.\n\nSony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI. Players should download this update prior to midnight on November 19 so that they’re ready to play on launch day, November 19.\n\nFortunately, installing the update is straightforward. The update is found in the Settings menu, particularly in the System tab. From there, simply open the System Software tab and verify there are no available updates or go ahead and update your console via the System Software Update and Settings button. If you have automatic system updates enabled, the update may already be installed. Still, it is highly recommended to check just to be safe.\n\nIt's worth emphasizing that this is a PS5 system update, not a separate Grand Theft Auto 6 patch. Players who have already downloaded the game will still need the latest firmware before launching it. With the game launching tomorrow, there is only a single day to update your console to prepare for GTA 6 .\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/gaming/news/new-ps5-console-update-has-to-be-downloaded-to-play-gta-6",
+      "published_at": "2026-11-18T15:58:43+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 422,
+      "extracted_at": "2026-11-18T15:59:41.440Z",
+      "updated_at": "2026-11-18T15:59:41.440Z"
+    },
     {
       "id": "29108d6e-a643-42cd-8c24-9e2fb0ba8298",
       "title": "Hakeem Jeffries Poised To Become Next House Speaker After Winning Overwhelming Support Of Democratic Caucus",
@@ -742,21 +757,6 @@
       "word_count": 102,
       "extracted_at": "2026-11-18T14:05:32.723Z",
       "updated_at": "2026-11-18T14:05:32.723Z"
-    },
-    {
-      "id": "b745f207-ca96-4c9f-80c6-28d9d0e9a37d",
-      "title": "Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy",
-      "summary": "A dress fit for a monarch.",
-      "content": "I’ve been living for the Sunrise on the Reaping method dressing as of late. While McKenna Grace has nailed her Jennifer Lawrence-inspired looks , I’d be remiss not to shout out the Capital-level looks Elle Fanning has been serving. In the role of Effie Trinkett, Fanning is decked out in colorful and extravagant costumes, and the actor has used that as inspiration for her press tour looks. So I’m not surprised that her newest \"Sunrise\" dress for the Hunger Games prequel has a sheer cutout and gives massive Capital energy.\n\nFanning has been having fun ever since she landed the role of Effie -- who she'd long been fancast as -- and she is not disappointing the fanbase. The outfits for this press tour have been nothing short of remarkable. Quite frankly, Fanning and Grace have been giving fans everything they didn’t know they wanted on that front. Whether it’s wearing a dancing ballerina as a hat or sporting a literal print of the arena, both actors have taken a visual approach to promoting the movie that's been perfect.\n\nFans are clearly thankful that the studio listened to their suggestion and cast Fanning as Effie. Luckily, we won’t have to wait much longer before we get to see Fanning in all of her Effie glory either. Sunrise on the Reaping will hit the 2026 movie schedule on November 20 after what feels like forever. I'm beyond curious to see how Fanning makes the role her own, but I'm also confident she'll crush it. OG Effie actress Elizabeth Banks has also praised Fanning's castin g .",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/elle-fanning-sunrise-dress-hunger-games-sheer-cutout-capitol-energy",
-      "published_at": "2026-11-18T13:56:34+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/frGcSa6EqJZ3BQ4f7qMY7V-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 265,
-      "extracted_at": "2026-11-18T14:01:38.830Z",
-      "updated_at": "2026-11-18T14:01:38.830Z"
     }
   ]
 }
