@@ -1,9 +1,55 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T15:01:35.339Z
+Last Updated: 2026-11-18T15:03:35.917Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ‘Slow Horses’ Actress Ruth Bradley to Be Honored at the Oscar Wilde Awards (Exclusive)
+[1] 'Grand Theft Auto VI': What The Critics Are Saying As The Rockstar Games Series Finally Returns
+Source: Deadline | Status: expanded | Words: 639
+Published: 2026-11-18T15:02:55+00:00
+URL: https://deadline.com/2026/11/grand-theft-auto-6-what-the-critics-reviews-1237227874
+------------------------------------------------------------
+SUMMARY:
+Grand Theft Auto is finally back. The sixth edition in the long-running Rockstar Games series returned this morning, and it has earned rave reviews from critics. In a glowing New York Times review titled Grand Theft Auto VI Will Steal Your Heart, writer Yussef Cole said the game showed “surprising depth,” anchored by its two […]
+
+CONTENT / EXTRACTED DETAILS:
+Grand Theft Auto is finally back.
+
+The sixth edition in the long-running Rockstar Games series returned this morning, and it has earned rave reviews from critics.
+
+In a glowing New York Times review titled Grand Theft Auto VI Will Steal Your Heart, writer Yussef Cole said the game showed "surprising depth," anchored by its two main characters, Lucia Caminos and Jason Duval, and a rich in-game world.
+
+"The nature of the narrative is less one of rags to riches than a story about desperation and survival, and the tension of throwing in one's lot with untrustworthy allies,&#8221; Cole wrote. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Video Games 'Grand Theft Auto VI' Turns Chaos & Crime Into Cash & Clout With Record-Shattering Launch News 'Grand Theft Auto VI' Speeds Away With Eight Game Awards Nominations For 2026
+
+Cole added that the game "largely lives up to its sky-high expectations." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+In a five-star review, The Guardian said Rockstar has created "the most extraordinarily, indulgently detailed virtual world that we have yet seen."
+
+"Reviewing it feels a bit like trying to review, say, Paris: it contains so many potential experiences that it's hard to know where to start," the critic joked.
+
+The Washington Post described GTA VI as an "astonishing American epic" in another glowing review.
+
+"Written, programmed and performed by a cast and crew of tens of thousands, Grand Theft Auto VI is more than a typical video game; it is a great gathering of art forms and talent, an unruly, comprehensive cultural atlas of American life and manners," the newspaper said. "Its triumph lies in encounters I just described, where race, class, gender, money and attention shape our circumstances and what we decide to do about them."
+
+Bloomberg has said the game is a "masterpiece" that depicts such "lifelike graphical fidelity that it can be hard to distinguish the video game from real-life footage."
+
+Gaming outlet IGN said Grand Theft Auto 6 was "one of the most impressive games ever made" and praised specific in-game details such as the extensive tracklist.
+
+"The mammoth tracklist otherwise includes the return of classic stations V-Rock, Emotion, and Vice City FM, all of which are absolutely overflowing with solid gold (as is new metal station The Chamber)," the outlet wrote. "Just those four stations alone &#x2013; which account for the lion's share of my listening &#x2013; feature nearly 200 songs between them." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+In a comprehensive review, Empire Magazine described the game as a "grand satire of Americana" that hits "painfully close to the mark."
+
+"A twisted reflection of the contemporary US that makes for a damning, if wildly entertaining, state of the union," the magazine concluded.
+
+Grand Theft Auto 6 currently holds a 99 rating on Metacritic, matching The Legend of Zelda: Ocarina of Time for the highest rating ever given to a game on the site.
+
+GTA 6 reportedly crossed $1.5 billion in revenue two days before its release, thanks to pre-orders, according to market intelligence firm Sensor Tracker.
+
+"Next to James Bond, there might not be another franchise of this scale that has been as consistent with its brand," Larry Vincent, professor of Marketing at USC Marshall School of Business, told Deadline's Dominic Patten in a interview for a lengthy piece on the game's release.
+
+You can read that feature here .
+
+============================================================
+[2] ‘Slow Horses’ Actress Ruth Bradley to Be Honored at the Oscar Wilde Awards (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 317
 Published: 2026-11-18T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/oscar-wilde-awards-ruth-bradley-slow-horses-1236757718
@@ -25,7 +71,7 @@ The daughter of Irish actress Charlotte Bradley, she will next be seen in Walk t
 Bradley has also stood out on television on Love/Hate &#x2014; for which she twice won the best actress prize at the Irish Film and Television Awards &#x2014; The Fall , Electric Dreams , Humans , Ted Lasso , The Gold and The Guilt , and in such films as In Her Skin (2009) and Embers (2023).
 
 ============================================================
-[2] Tom Hiddleston’s Loki Update Means Avengers: Doomsday Won’t Make One Terrible Mistake
+[3] Tom Hiddleston’s Loki Update Means Avengers: Doomsday Won’t Make One Terrible Mistake
 Source: ComicBook.com | Status: expanded | Words: 444
 Published: 2026-11-18T14:55:52+00:00
 URL: https://comicbook.com/movies/news/tom-hiddlestons-loki-update-means-avengers-doomsday-wont-make-one-terrible-mistake
@@ -47,7 +93,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] A Mischief of Magpies #3 Is a Moving, Perfect Finale to an All Time Fantasy Great [REVIEW]
+[4] A Mischief of Magpies #3 Is a Moving, Perfect Finale to an All Time Fantasy Great [REVIEW]
 Source: ComicBook.com | Status: expanded | Words: 636
 Published: 2026-11-18T14:53:00+00:00
 URL: https://comicbook.com/comics/review/a-mischief-of-magpies-3-is-a-moving-perfect-finale-to-an-all-time-fantasy-great-review
@@ -71,7 +117,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Ella Langley, Morgan Wallen &#038; Tim McGraw Among Early CMA Award Winners
+[5] Ella Langley, Morgan Wallen &#038; Tim McGraw Among Early CMA Award Winners
 Source: Deadline | Status: expanded | Words: 264
 Published: 2026-11-18T14:32:24+00:00
 URL: https://deadline.com/2026/11/cma-awards-winners-ella-langley-1237227915
@@ -95,7 +141,7 @@ Langley's "Choosin' Texas" video was directed by Langley, Caylee Robillard and W
 The 60th Annual CMA Awards is a production of the Country Music Association. Robert Deaton serves as Executive Producer, Alan Carter is Director, and Jon Macks is Head Writer.
 
 ============================================================
-[5] ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion
+[6] ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-18T14:32:23+00:00
 URL: https://theplaylist.net/hunger-games-sunrise-on-the-reaping-review-joseph-zada-francis-lawrence-20261118
@@ -107,7 +153,7 @@ CONTENT / EXTRACTED DETAILS:
 Fourteen years after the release of Gary Ross ’ “ The Hunger Games ,” it’s remarkable that the franchise, once seen as another attempt to cash in on “ Harry Potter ,” has arguably become one of our most consistent and vital franchises. Having transcended the YA boom that birthed it—a fate not afforded to “ Divergent ” or “ The Maze Runner ”— Suzanne Collins ’ dystopian world continues to speak to audiences confronting an uncertain future. Continue reading ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion at The Playlist.
 
 ============================================================
-[6] Mckenna Grace Spreads Her Wings at 'Hunger Games' Premiere in New York City, Cynthia Erivo Performs at Lincoln Center and More Celeb Red Carpet Photos: November 2026
+[7] Mckenna Grace Spreads Her Wings at 'Hunger Games' Premiere in New York City, Cynthia Erivo Performs at Lincoln Center and More Celeb Red Carpet Photos: November 2026
 Source: Variety | Status: expanded | Words: 132
 Published: 2026-11-18T14:30:20+00:00
 URL: https://variety.com/gallery/jceleb-red-carpet-photos-november-2026
@@ -125,7 +171,7 @@ See the best celebrity red-carpet and event photos from November 2026 below. Kee
 Fight night: &#8220;I Play Rocky&#8221; stars AnnaSophia Robb and Anthony Ippolito attend the 50th anniversary screening of &#8220;Rocky&#8221; at the Academy Museum of Motion Pictures on Nov. 17 in Los Angeles.
 
 ============================================================
-[7] 'Grand Theft Auto VI' Turns Chaos &#038; Crime Into Cash &#038; Clout With Record-Shattering Launch
+[8] 'Grand Theft Auto VI' Turns Chaos &#038; Crime Into Cash &#038; Clout With Record-Shattering Launch
 Source: Deadline | Status: expanded | Words: 1802
 Published: 2026-11-18T14:30:18+00:00
 URL: https://deadline.com/2026/11/gta-6-launch-biggest-ever-video-game-1237218665
@@ -189,7 +235,7 @@ Another voice in all this belongs to producer and actor Matthew Waterson. Best k
 Anthony D'Alessandro & Dade Hayes contributed to this report
 
 ============================================================
-[8] Glam Slam: Hollywood’s Top 26 Beauty Moments of 2026
+[9] Glam Slam: Hollywood’s Top 26 Beauty Moments of 2026
 Source: The Hollywood Reporter | Status: expanded | Words: 3286
 Published: 2026-11-18T14:30:00+00:00
 URL: https://www.hollywoodreporter.com/lists/top-hollywood-beauty-trends-2026
@@ -255,7 +301,7 @@ Nicole Fell contributed to this report.
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[9] ‘Selling Sunset’ Sets Season 10 Premiere and Announces Full Cast; Christine Quinn and Heather Rae El Moussa Officially Return (EXCLUSIVE)
+[10] ‘Selling Sunset’ Sets Season 10 Premiere and Announces Full Cast; Christine Quinn and Heather Rae El Moussa Officially Return (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 727
 Published: 2026-11-18T14:30:00+00:00
 URL: https://variety.com/2026/tv/news/selling-sunset-season-10-premiere-date-full-cast-1236946229
@@ -283,7 +329,7 @@ All appears to have been forgiven now, though. Since leaving the show, Quinn wen
 From left to right, top row: Bre Tiesi, Christine Quinn, Heather Rae El Moussa, Amanza Smith . From left to right, bottom row : Jordyn Taylor, Sasha Lance, Tara Burns, Sonni Pacheco.
 
 ============================================================
-[10] Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie &#038; What Changed Her Mind About Producing Solo [Interview]
+[11] Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie &#038; What Changed Her Mind About Producing Solo [Interview]
 Source: The Playlist | Status: summary_only | Words: 167
 Published: 2026-11-18T14:26:00+00:00
 URL: https://theplaylist.net/emma-thomas-breaks-the-box-for-the-odyssey-teases-nolan-is-mulling-next-movie-what-changed-her-mind-about-producing-solo-interview-20261118
@@ -295,7 +341,7 @@ CONTENT / EXTRACTED DETAILS:
 She's an Oscar winner, a PGA Award winner, and a BAFTA Award winner, but it often feels as though Emma Thomas doesn't get the kudos she deserves. As Christopher Nolan 's longtime producing partner, she has shepherded all 13 of his directorial efforts from the indie-budgeted thrillers "Following" and "Memento" to a genre-defying "Dark Knight" trilogy to 19th-century London with "The Prestige" to a WWII epic in "Dunkirk" to the far reaches of space with "Interstellar," and a Best Picture win with "Oppenheimer" and a $2 billion global grosser this past summer with "The Odyssey." But she only has one film on her resume that Nolan didn't direct, Zack Snyder's "Man of Steel." She has a few executive producer credits on the side, but for the most part, hasn't taken the reins of a project with a different filmmaker. Continue reading Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie & What Changed Her Mind About Producing Solo [Interview] at The Playlist.
 
 ============================================================
-[11] 'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
+[12] 'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
 Source: Variety | Status: expanded | Words: 205
 Published: 2026-11-18T14:23:49+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803
@@ -313,7 +359,7 @@ The review embargo on &#8220; Grand Theft Auto VI &#8221; has finally lifted and
 &#8220;GTA 6&#8221; officially launches Thursday in the U.S. but has begun rolling out worldwide as the clock strikes midnight on Nov. 19 in different territories, starting with New Zealand, which got access to the game Wednesday at 6 a.m. ET.
 
 ============================================================
-[12] X-Orcists #1 Kicks Off This Unique New Mutant Book With a Banger (Review)
+[13] X-Orcists #1 Kicks Off This Unique New Mutant Book With a Banger (Review)
 Source: ComicBook.com | Status: expanded | Words: 864
 Published: 2026-11-18T14:22:00+00:00
 URL: https://comicbook.com/comics/review/x-orcists-1-kicks-off-this-unique-new-mutant-book-with-a-banger-review
@@ -341,7 +387,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] DOC NYC Doc ‘Dryads,’ From Mallorca-Based Miguel Eeks, Explores ‘the Mystery of Creation Through Music’
+[14] DOC NYC Doc ‘Dryads,’ From Mallorca-Based Miguel Eeks, Explores ‘the Mystery of Creation Through Music’
 Source: Variety | Status: expanded | Words: 967
 Published: 2026-11-18T14:18:48+00:00
 URL: https://variety.com/2026/film/global/doc-nyc-doc-dryads-explores-the-mystery-of-creation-music-1236950808
@@ -389,7 +435,7 @@ Nature and chance contribute something essential to the creative process that li
 The 17th year DOC NYC Manhattan runs Nov. 11-19 and continues online through Nov. 29.
 
 ============================================================
-[14] Vin Diesel To Star In Original Action Movie 'Burial Hill' From 'Caine' Writer &#038; 'Luther' Director; Amazon Striking Big Deal
+[15] Vin Diesel To Star In Original Action Movie 'Burial Hill' From 'Caine' Writer &#038; 'Luther' Director; Amazon Striking Big Deal
 Source: Deadline | Status: expanded | Words: 625
 Published: 2026-11-18T14:18:12+00:00
 URL: https://deadline.com/2026/11/vin-diesel-cast-action-movie-burial-hill-amazon-big-deal-1237227833
@@ -423,7 +469,7 @@ CAA Media Finance arranged financing and handles domestic rights.
 Vin Diesel is represented by CAA and Linden Entertainment. Jamie Payne is represented by UTA and Independent Talent Group. Mike McGrale is represented by CAA and Heroes and Villains Entertainment.
 
 ============================================================
-[15] 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel
+[16] 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel
 Source: The Playlist | Status: summary_only | Words: 115
 Published: 2026-11-18T14:17:57+00:00
 URL: https://theplaylist.net/cliff-booth-trailer-brad-pitt-netflix-20261118
@@ -435,7 +481,7 @@ CONTENT / EXTRACTED DETAILS:
 Earlier this week, press and reviewers got the first glimpse of the next David Fincher film, " The Further Mis-Adventures of Cliff Booth ," which sees Brad Pitt back as the titular WWII hero/stuntman as he now navigates the Neo-Noir genre in a new story penned by Quentin Tarantino as the period setting jumps from 1969 to 1977. READ MORE: David Fincher Says ‘Cliff Booth’ Was Essentially Two Movies Long & He Cut 60 Pages From The Script A new trailer promoting the minor theatrical release and getting audiences to buy their tickets has dropped. Continue reading 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel at The Playlist.
 
 ============================================================
-[16] Imax Promotes Giovanni Dolci to COO Amid C-Suite Moves
+[17] Imax Promotes Giovanni Dolci to COO Amid C-Suite Moves
 Source: The Hollywood Reporter | Status: expanded | Words: 273
 Published: 2026-11-18T14:14:32+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/imax-giovanni-dolci-coo-1236758378
@@ -457,7 +503,7 @@ Welton will lead partnerships beyond the company's core theatrical business, wor
 &#8220;Mark has been instrumental in building Imax, and few people know our company and industry like he does. He is exactly the right person to turn the strength of our brand into new sources of growth," Gelfond added.
 
 ============================================================
-[17] Marvel Carefully Orchestrated the Return of Every Major Avengers Villain in 2026 Ahead of Doomsday
+[18] Marvel Carefully Orchestrated the Return of Every Major Avengers Villain in 2026 Ahead of Doomsday
 Source: ComicBook.com | Status: expanded | Words: 628
 Published: 2026-11-18T14:06:00+00:00
 URL: https://comicbook.com/movies/feature/marvel-carefully-orchestrated-the-return-of-every-major-avengers-villain-in-2026-ahead-of-doomsday
@@ -485,7 +531,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Detective Comics #1115 Masterfully Adapts One of Batman's Most Underrated Stories for Superman (Review)
+[19] Detective Comics #1115 Masterfully Adapts One of Batman's Most Underrated Stories for Superman (Review)
 Source: ComicBook.com | Status: expanded | Words: 791
 Published: 2026-11-18T14:03:00+00:00
 URL: https://comicbook.com/comics/review/detective-comics-1115-masterfully-adapts-one-of-batmans-most-underrated-stories-for-superman-review
@@ -515,7 +561,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] New 'Friday The 13th' Movie Unveils Cast, Title &#038; Release Date
+[20] New 'Friday The 13th' Movie Unveils Cast, Title &#038; Release Date
 Source: Deadline | Status: expanded | Words: 920
 Published: 2026-11-18T14:00:00+00:00
 URL: https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827
@@ -547,7 +593,7 @@ Over the decades, Friday the 13th has spawned video games, immersive experiences
 White is repped by Brand in Motion; Lind by CAA, Authentic and Brecheen Feldman Breimer; Cornett by Gersh, LBI Entertainment and Walter Entertainment & Media Law; Buckingham by Buchwald and Industry Entertainment; Lowe by UTA, Untitled and Latham & Watkins; Madison by Formation Talent Agency, Kevin Donahue Management and Hansen, Jacobson, Teller; Turner by Paradigm, Play Management and Forward Talent; Sato by Buchwald and Skrzyniarz & Mallean; Sill by Griffin Talent and Luber Roklin Entertainment; Diaz by Innovative; Young by Eris Talent Agency, Stride Management and Nelson Davis; Brown by Avenue Agency; and Guzman by Formation Talent.
 
 ============================================================
-[20] Radial Taps Nacelle Company For 'Icons Unearthed' Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino &#038; 'Transformers'
+[21] Radial Taps Nacelle Company For 'Icons Unearthed' Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino &#038; 'Transformers'
 Source: Deadline | Status: expanded | Words: 676
 Published: 2026-11-18T14:00:00+00:00
 URL: https://deadline.com/2026/11/radial-entertainment-icons-unearthed-docs-1237227824
@@ -581,7 +627,7 @@ Icons Unearthed: Quentin Tarantino Movies explores the filmmaker's rise from vid
 The deal was negotiated by Katie Carroll, Director, Originals & Business Development at Radial Entertainment, and Hud Woodle, VP International Sales at The Nacelle Company.
 
 ============================================================
-[21] Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul
+[22] Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul
 Source: The Hollywood Reporter | Status: expanded | Words: 2977
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/alix-earle-interiew-tiktok-beauty-brand-reale-actives-1236757261
@@ -641,7 +687,7 @@ Running a business with multiple revenue streams and being smart about money wer
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[22] New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)
+[23] New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 304
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/new-york-knicks-star-josh-hart-book-deal-harpercollins-1236757115
@@ -663,7 +709,7 @@ Senior VP & publisher Lisa Sharkey and senior VP & publisher Nancy Inteli negoti
 "Josh brings the same incredible energy to storytelling that he brings to the court," adds Inteli. "Like Josh himself, the picture book is full of warmth, humor, and especially heart. Families will want to read it again and again."
 
 ============================================================
-[23] Disney and AWS Team Up to Create AI-Powered 'Star Wars' Robots
+[24] Disney and AWS Team Up to Create AI-Powered 'Star Wars' Robots
 Source: The Hollywood Reporter | Status: expanded | Words: 823
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851
@@ -697,7 +743,7 @@ Still, the new robots demonstrate how Disney may ultimately use AI to improve it
 &#8220;Ultimately the goal for Imagineering is to create a living world populated by all the characters you know and love,&#8221; Laughlin says. &#8220;Some of those are going to be audio-animatronics, some of those are going to be robots, some of those are going to be live performers, and some might be puppets. And I think our ability to blend all of those performances together is what makes us uniquely Disney and a one-of-one company in terms of delivering that kind of experience.&#8221;
 
 ============================================================
-[24] Venus and Serena Williams Set to Launch Season 2 of 'Stockton Street' Podcast on Dear Media (EXCLUSIVE)
+[25] Venus and Serena Williams Set to Launch Season 2 of 'Stockton Street' Podcast on Dear Media (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 738
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/digital/news/venus-serena-williams-season-2-stockton-street-podcast-1236950857
@@ -735,7 +781,7 @@ Through "Stockton Street," Venus and Serena explore where they came from, who th
 The season will consist of 24 episodes with new installments dropping weekly on all major podcast platforms. Dear Media, Isha Price, Jessica Steindorff and Nine Two Six Media serve as producers.
 
 ============================================================
-[25] 'KPop Demon Hunters' Star EJAE Fronts Zac Posen's New GapStudio Winter Collection
+[26] 'KPop Demon Hunters' Star EJAE Fronts Zac Posen's New GapStudio Winter Collection
 Source: Variety | Status: expanded | Words: 402
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/shopping/news/kpop-demon-hunters-ejae-zac-posen-gap-collection-shop-1236951776
@@ -761,7 +807,7 @@ The release continues Posen's efforts to elevate Gap's fashion credentials throu
 The GapStudio Winter 2026 collection will be available beginning Nov. 20 on Gap.com and at select Gap stores, with prices ranging from $54 to $268.
 
 ============================================================
-[26] Taylor Swift's CMA Return Helped Disney Sell More Ads
+[27] Taylor Swift's CMA Return Helped Disney Sell More Ads
 Source: Variety | Status: expanded | Words: 585
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795
@@ -789,7 +835,7 @@ Financial-services provider Ally is also new to the program's ad roster. A new c
 Advertisers interested in live specials are eager "to go beyond just the 30-second spot," says Campbell. He believes new opportunities that weave marketing alongside musical content is driving "increases in overall commitments to our live specials." There are, Disney no doubt hopes, a lot more to come.
 
 ============================================================
-[27] Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask &#038; Why He’s In No Rush To Chase The Next Role [Interview]
+[28] Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask &#038; Why He’s In No Rush To Chase The Next Role [Interview]
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-18T14:00:00+00:00
 URL: https://theplaylist.net/mike-faist-east-of-eden-interview-charles-trask-20261118
@@ -801,7 +847,7 @@ CONTENT / EXTRACTED DETAILS:
 The tragedy of Charles Trask in Zoe Kazan ’s remarkable adaptation of “ East Of Eden ” is that he desperately loves his brother but has almost no idea how to express it. Charles is angry, volatile, resentful, and consumed by an almost unbearable sense of inadequacy. Yet beneath all that bitterness is someone capable of enormous tenderness, even if he has spent much of his life convincing himself he doesn’t deserve any. Continue reading Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask & Why He’s In No Rush To Chase The Next Role [Interview] at The Playlist.
 
 ============================================================
-[28] Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy
+[29] Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy
 Source: CinemaBlend | Status: expanded | Words: 265
 Published: 2026-11-18T13:56:34+00:00
 URL: https://www.cinemablend.com/movies/elle-fanning-sunrise-dress-hunger-games-sheer-cutout-capitol-energy
@@ -817,7 +863,7 @@ Fanning has been having fun ever since she landed the role of Effie -- who she'd
 Fans are clearly thankful that the studio listened to their suggestion and cast Fanning as Effie. Luckily, we won’t have to wait much longer before we get to see Fanning in all of her Effie glory either. Sunrise on the Reaping will hit the 2026 movie schedule on November 20 after what feels like forever. I'm beyond curious to see how Fanning makes the role her own, but I'm also confident she'll crush it. OG Effie actress Elizabeth Banks has also praised Fanning's castin g .
 
 ============================================================
-[29] DWTS' Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate
+[30] DWTS' Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate
 Source: CinemaBlend | Status: expanded | Words: 274
 Published: 2026-11-18T13:54:19+00:00
 URL: https://www.cinemablend.com/television/dwts-glee-tribute-made-me-cry-the-background-made-me-irate-brandon-alan
@@ -837,7 +883,7 @@ When Harry Shum Jr. pointed up at heaven after his final pose, it was clear that
 This was a classy and touching tribute to Shum's late co-star, which is why the juxtaposition between his words and Alan Bersten and Brandon Armstrong doing a bit for the TikTok live felt so upsetting. The pros were just doing their job, but I wish they were listening and reading the room during this emotional moment.
 
 ============================================================
-[30] IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000
+[31] IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000
 Source: Deadline | Status: expanded | Words: 949
 Published: 2026-11-18T13:44:39+00:00
 URL: https://deadline.com/2026/11/idfa-forum-2026-awards-announced-1237227889
@@ -877,7 +923,7 @@ The award is accompanied by a &#x20AC;1,500 prize.
 Jurors additionally recognized Time Hunter XR: Colonial Protocols by Mark Mushiva and Daniel Chein. "The jury want to give a Special Mention to a project that really thinks carefully about how the experience will take audiences on a journey that explores themes of time travel, sci-fi, and embodied archive. The project creates an imaginative and engaging experience that brings forward the perspectives of people whose voices deserve to be heard, and histories that deserve to be told."
 
 ============================================================
-[31] ‘S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
+[32] ‘S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 598
 Published: 2026-11-18T13:42:43+00:00
 URL: https://variety.com/2026/film/global/s-o-s-caribbean-romcom-sold-by-latido-films-first-teaser-1236950584
@@ -913,7 +959,7 @@ There is, however, a hint in the teaser's parting shot, however, that love could
 "For a sales agent, the most interesting and stimulating to be in on a project from its birth, as was the case with 'S.O.S.' said Latido Films Head of International Sales Juan Torres. "The understanding with 64A is remarkable and we are confident this will have a knock-on in the film's commercial results."
 
 ============================================================
-[32] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
+[33] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
 Source: Deadline | Status: expanded | Words: 480
 Published: 2026-11-18T13:30:00+00:00
 URL: https://deadline.com/2026/11/imax-giovanni-dolci-new-coo-role-1237227028
@@ -939,7 +985,7 @@ The 30-year Imax veteran has led theater operations and key partner relationship
 Imax has been on a tear over the past few years as PLFs and event cinema became a key part of the post-Covid theatrical experience for consumers and studios. The company reported strong quarterly earnings earlier this month powered by The Odyssey .
 
 ============================================================
-[33] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
+[34] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
 Source: The Hollywood Reporter | Status: expanded | Words: 6529
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/lee-chang-dong-possible-love-interview-1236757129
@@ -1141,7 +1187,7 @@ My last question isn't my own. I recently interviewed Na Hong-jin in Seoul about
 I would say that I am a very timid person, and because of that, I tend to spend too much time thinking about how I should live &#x2014; and it makes me very, very tired. (Laughs)
 
 ============================================================
-[34] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
+[35] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
 Source: The Hollywood Reporter | Status: expanded | Words: 1721
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ray-panthaki-clarence-maclin-film-in-starland-interview-1236758272
@@ -1195,7 +1241,7 @@ That said, Panthaki's passion is coming through again. &#8220;I have ideas that 
 Watch a teaser for In Starland right here.
 
 ============================================================
-[35] 5 Young Avengers/Champions Members Marvel Needs to Introduce Before the Team's MCU Debut
+[36] 5 Young Avengers/Champions Members Marvel Needs to Introduce Before the Team's MCU Debut
 Source: ComicBook.com | Status: expanded | Words: 962
 Published: 2026-11-18T13:25:00+00:00
 URL: https://comicbook.com/movies/list/5-young-avengers-champions-members-marvel-needs-to-introduce-before-the-teams-mcu-debut
@@ -1233,7 +1279,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
+[37] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
 Source: CinemaBlend | Status: expanded | Words: 1381
 Published: 2026-11-18T13:23:30+00:00
 URL: https://www.cinemablend.com/television/ncis-sydney-returning-reminding-fans-about-franchises-other-canceled-shows
@@ -1285,7 +1331,7 @@ Television I Am Pleased To Report NCIS Bringing Back Mark Harmon, Michael Weathe
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[37] Amanda Seyfried And Elizabeth Holmes’ Partner Had Different Intentions In You Can See Everything's Infamous Dinner Scene
+[38] Amanda Seyfried And Elizabeth Holmes’ Partner Had Different Intentions In You Can See Everything's Infamous Dinner Scene
 Source: CinemaBlend | Status: expanded | Words: 1426
 Published: 2026-11-18T13:08:44+00:00
 URL: https://www.cinemablend.com/movies/amanda-seyfried-elizabeth-holmes-partner-billy-evans-had-very-different-intentions-infamous-dinner-scene-you-can-see-everything
@@ -1335,7 +1381,7 @@ Movies I Was So Curious What It Was Like Being In The Room With Elizabeth Holmes
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[38] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
+[39] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
 Source: The Hollywood Reporter | Status: expanded | Words: 1493
 Published: 2026-11-18T13:05:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024
@@ -1387,7 +1433,7 @@ Borys Kit and Aaron Couch contributed to this report.
 This story appeared in the Nov. 17 issue of The Hollywood Reporter magazine. Click here to subscribe.
 
 ============================================================
-[39] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
+[40] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
 Source: Deadline | Status: expanded | Words: 788
 Published: 2026-11-18T13:00:00+00:00
 URL: https://deadline.com/2026/11/barlow-bear-to-die-for-love-musical-unofficial-bridgerton-1237227778
@@ -1421,7 +1467,7 @@ Executive producers of To Die For Love are Agnes Chu, Benj Pasek, Justin Paul, D
 For Atlantic Records, Noah Hubbell serves as executive music producer and Cynthia Meng as music director, with all tracks produced by Emily Bear, Abigail Barlow, Noah Hubbell, and Grant Steller, and mixing and mastering by Jay Marcovitz.
 
 ============================================================
-[40] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
+[41] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 391
 Published: 2026-11-18T13:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/smartless-medias-podcast-1236757059
@@ -1443,7 +1489,7 @@ Kelly, while hosting and executive producing the Canadian podcast, is also vp of
 Small Town Narcos, written by Kelly and Eunice Kim, is produced by SmartLess Media and New Metric Media for the CBC. The executive producer credits are shared by Arnett, Bateman, Hayes, Richard Korson, Bernie Kaminski, Mark Montefiore, Kelly, Chris Okea and Cesil Fernandes, with Kim serving as senior producer.
 
 ============================================================
-[41] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
+[42] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
 Source: Variety | Status: expanded | Words: 374
 Published: 2026-11-18T13:00:00+00:00
 URL: https://variety.com/2026/film/news/sony-future-filmmaker-jury-2027-edition-1236951115
@@ -1463,7 +1509,7 @@ This year's awards are introducing a new Immersive category, presented by Meta, 
 The 2027 Sony Future Filmmaker Awards will include a four-day program at the Sony Pictures Studios in Culver City from June 7-10 giving recognizing filmmaking talent, giving their work a global stage and connecting them directly with the industry. Submissions for the 2027 edition close on Dec. 15. Filmmakers can enter short films across six categories: fiction, non-fiction, immersive, animation, student and future format. The Awards shortlist will be announced in the spring.
 
 ============================================================
-[42] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
+[43] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
 Source: ComicBook.com | Status: expanded | Words: 1241
 Published: 2026-11-18T12:55:00+00:00
 URL: https://comicbook.com/comics/list/5-metropolis-disasters-that-make-gothams-worst-nightmares-look-like-a-good-day
@@ -1499,7 +1545,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
+[44] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
 Source: Deadline | Status: expanded | Words: 1223
 Published: 2026-11-18T12:53:29+00:00
 URL: https://deadline.com/2026/11/qatar-film-committee-hassan-al-thawadi-2nd-industry-days-1237227861
@@ -1565,7 +1611,7 @@ Arab storytelling remains underrepresented globally. Our goal is to help create 
 One of the lessons of the World Cup is that when you invest with a clear long-term purpose, you can build capability and create a legacy that extends far beyond the event itself. Film has that same ability to bring people together and broaden representation. We are still at the beginning of that journey, but the direction is very clear.
 
 ============================================================
-[44] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
+[45] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
 Source: ComicBook.com | Status: expanded | Words: 728
 Published: 2026-11-18T12:44:00+00:00
 URL: https://comicbook.com/tv-shows/feature/an-mcu-favorites-forgotten-marvel-return-happened-twelve-years-ago-expanding-their-franchise-even-more
@@ -1595,7 +1641,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
+[46] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
 Source: Variety | Status: expanded | Words: 772
 Published: 2026-11-18T12:41:51+00:00
 URL: https://variety.com/2026/film/global/rob-lowe-ben-shapiro-confession-film-script-1236951750
@@ -1631,7 +1677,7 @@ He acknowledged that it was "the greatest irony" given the subject of the movie 
 "I feel like that's what's lacking," he added. "People do not have any type of leash for other people in their orbit. But to me, that's what you want: people who think differently than you. And by the way, I'm not saying I agree with any of these people, but I don't want to hear the same conversation and the same story over and over. And I really appreciate different opinions."
 
 ============================================================
-[46] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
+[47] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-18T12:35:44+00:00
 URL: https://variety.com/2026/film/global/hope-ikpoku-jr-mejia-exclusive-horror-film-one-night-1236951736
@@ -1657,7 +1703,7 @@ Andrews co-wrote the screenplay with Stephen Laughton and produced the film thro
 Both Ikpoku Jr. and Mejia are repped by 42 management.
 
 ============================================================
-[47] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
+[48] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
 Source: ComicBook.com | Status: expanded | Words: 739
 Published: 2026-11-18T12:13:00+00:00
 URL: https://comicbook.com/movies/list/4-excellent-robert-pattinson-performances-outside-of-the-batman-including-his-james-bond-audition
@@ -1683,7 +1729,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
+[49] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
 Source: Variety | Status: expanded | Words: 1490
 Published: 2026-11-18T12:07:33+00:00
 URL: https://variety.com/2026/film/global/marrakech-atlas-workshops-cannes-venice-1236951646
@@ -1741,7 +1787,7 @@ The event's evolution, says Zardi, points to a commitment "to avoid having a sin
 The Marrakech Film Festival runs Nov. 20-28.
 
 ============================================================
-[49] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
+[50] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
 Source: CinemaBlend | Status: expanded | Words: 357
 Published: 2026-11-18T12:00:00+00:00
 URL: https://www.cinemablend.com/television/marshals-isnt-only-taylor-sheridan-project-missing-indigenous-women-wind-river
@@ -1759,24 +1805,4 @@ He also reiterated that this is a “real-life issue,” as women and men go mis
 These days, when Taylor Sheridan and his work get brought up, his shows, like Yellowstone and Landman , are typically what we’re talking about. However, before he was one of television's biggest writers and producers, his movies made quite the splash. In fact, Wind River is considered one of his best . It specifically focuses on a case involving an American Indian woman who is found dead in the middle of winter.
 
 Overall, I found Wind River to be an incredibly moving film while also being peppered with the Taylor Sheridan writing and action his shows are known for. I also appreciated how it managed to be an entertaining thriller while also poignantly handling such an important and delicate topic.
-
-============================================================
-[50] Noel Clarke Sexual Offenses Trial Set For Next Year
-Source: Deadline | Status: expanded | Words: 243
-Published: 2026-11-18T11:53:51+00:00
-URL: https://deadline.com/2026/11/noel-clarke-sexual-offenses-trial-november-2027-1237227838
-------------------------------------------------------------
-SUMMARY:
-Doctor Who star Noel Clarke’s sexual offenses trial has been provisionally set for late next year. Clarke appeared at Southwark Crown Court in London earlier today to confirm his name and be told the provisional start date for his trial, per Sky News. Judge Tony Baumgartner set the date for November 8, 2027 and said […]
-
-CONTENT / EXTRACTED DETAILS:
-Doctor Who star Noel Clarke 's sexual offenses trial has been provisionally set for late next year.
-
-Clarke appeared at Southwark Crown Court in London earlier today to confirm his name and be told the provisional start date for his trial, per Sky News.
-
-Judge Tony Baumgartner set the date for November 8, 2027 and said it could last around six to eight weeks. Southwark is the same court where Russell Brand was just sentenced to more than 10 years in prison for rape and sexual assault.
-
-Clarke, the British actor who starred in Doctor Who and Kidulthood , has pleaded not guilty to all charges. The alleged offenses took place between 2007 and 2016, involving five women. Detectives had been investigating Clarke for a year, arresting the actor on September 25, 2025. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Clarke has not worked in the entertainment industry in any substantial on-screen capacity for years, since The Guardian published allegations about him. He lost his libel case against The Guardian last year after seeking &#xA3;70M ($92M) in damages. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
