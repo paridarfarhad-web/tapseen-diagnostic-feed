@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-18T15:49:38.147Z"
+    "updated_at": "2026-11-18T15:57:43.550Z"
   },
   "articles": [
+    {
+      "id": "29108d6e-a643-42cd-8c24-9e2fb0ba8298",
+      "title": "Hakeem Jeffries Poised To Become Next House Speaker After Winning Overwhelming Support Of Democratic Caucus",
+      "summary": "Hakeem Jeffries is poised to become the next speaker of the House after Democrats overwhelmingly nominated him in a caucus vote on Wednesday. Jeffries, currently House minority leader, would make history as the first Black speaker of the chamber. He also would be second in line for the presidency, after Vice President JD Vance. The […]",
+      "content": "Hakeem Jeffries is poised to become the next speaker of the House after Democrats overwhelmingly nominated him in a caucus vote on Wednesday.\n\nJeffries, currently House minority leader, would make history as the first Black speaker of the chamber. He also would be second in line for the presidency, after Vice President JD Vance.\n\nThe speaker election will take place when new members are sworn in in January.\n\nThe vote was not close: Jeffries got 251 yes votes and 11 no votes, CNN and other outlets reported.\n\nDemocrats are expected to hold around 260 seats when the next Congress starts, to Republicans 175. The blue tsunami ended years of single-digit margins in House votes, something that led to a protracted process to elect Kevin McCarthy as speaker when Republicans regained control of the chamber in 2023. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nIn the Senate, Minority Leader Chuck Schumer's effort to return to majority leader when Democrats take control is being challenged by Sen. Chris Van Hollen (D-MD), who has said that the midterm results showed that voters are looking for a change. Schumer has insisted that he will win the leadership battle, expected to take place next month.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/hakeem-jeffries-speaker-democrats-1237227947",
+      "published_at": "2026-11-18T15:56:28+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2025/03/GettyImages-2203037679.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 265,
+      "extracted_at": "2026-11-18T15:57:43.396Z",
+      "updated_at": "2026-11-18T15:57:43.396Z"
+    },
     {
       "id": "ff144895-c88a-4529-8cbd-e1f4a7ccf5cf",
       "title": "Box Office: 'Hunger Games: Sunrise on the Reaping' Targets Huge Debut Above $100 Million",
@@ -742,21 +757,6 @@
       "word_count": 265,
       "extracted_at": "2026-11-18T14:01:38.830Z",
       "updated_at": "2026-11-18T14:01:38.830Z"
-    },
-    {
-      "id": "bf195490-27c3-47c8-8b18-b1e9e2335415",
-      "title": "DWTS' Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate",
-      "summary": "Talk about emotional whiplash.",
-      "content": "Spoilers ahead for the most recent episode of Dancing with the Stars .\n\nThe last two weeks saw DWTS contestants with dance experience voted off, largely thanks to the fans. Harry Shum Jr'.s final performance was to the Glee version of \"Valerie\", with him pointing up to heaven after the final pose, and talking about Naya Rivera to host Juliane Hough in the Skybox. It was a beautiful way to honor the late actress, but it was spoiled a bit by pros Alan Bersten and Brandon Armstrong recording content for the TikTok live in the background.\n\nEven before Harry Shum Jr. spoke about Naya Rivera, the late actress' presence was felt throughout his quickstep. Rather than dancing to the Amy Winehouse version of \"Valerie\" the Dancing with the Stars band performed the Glee arrangement that was famously sung by Rivera in one of the show's most iconic moments. What's more, a few dance moves were even lifted straight from the choreo performed by Shum and Heather Morris in that number. You can check out that quick moment below.\n\nWhen Harry Shum Jr. pointed up at heaven after his final pose, it was clear that Naya Rivera was on his mind. The tribute became all the more clear up in the Skybox, with the Grey's Anatomy star telling Hough:\n\nThis was a classy and touching tribute to Shum's late co-star, which is why the juxtaposition between his words and Alan Bersten and Brandon Armstrong doing a bit for the TikTok live felt so upsetting. The pros were just doing their job, but I wish they were listening and reading the room during this emotional moment.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/dwts-glee-tribute-made-me-cry-the-background-made-me-irate-brandon-alan",
-      "published_at": "2026-11-18T13:54:19+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/vX7tbo4nnATKP5DRypP4BW-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 274,
-      "extracted_at": "2026-11-18T14:01:39.413Z",
-      "updated_at": "2026-11-18T14:01:39.413Z"
     }
   ]
 }

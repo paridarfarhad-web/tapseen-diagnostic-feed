@@ -1,9 +1,31 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T15:49:38.147Z
+Last Updated: 2026-11-18T15:57:43.551Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Box Office: 'Hunger Games: Sunrise on the Reaping' Targets Huge Debut Above $100 Million
+[1] Hakeem Jeffries Poised To Become Next House Speaker After Winning Overwhelming Support Of Democratic Caucus
+Source: Deadline | Status: expanded | Words: 265
+Published: 2026-11-18T15:56:28+00:00
+URL: https://deadline.com/2026/11/hakeem-jeffries-speaker-democrats-1237227947
+------------------------------------------------------------
+SUMMARY:
+Hakeem Jeffries is poised to become the next speaker of the House after Democrats overwhelmingly nominated him in a caucus vote on Wednesday. Jeffries, currently House minority leader, would make history as the first Black speaker of the chamber. He also would be second in line for the presidency, after Vice President JD Vance. The […]
+
+CONTENT / EXTRACTED DETAILS:
+Hakeem Jeffries is poised to become the next speaker of the House after Democrats overwhelmingly nominated him in a caucus vote on Wednesday.
+
+Jeffries, currently House minority leader, would make history as the first Black speaker of the chamber. He also would be second in line for the presidency, after Vice President JD Vance.
+
+The speaker election will take place when new members are sworn in in January.
+
+The vote was not close: Jeffries got 251 yes votes and 11 no votes, CNN and other outlets reported.
+
+Democrats are expected to hold around 260 seats when the next Congress starts, to Republicans 175. The blue tsunami ended years of single-digit margins in House votes, something that led to a protracted process to elect Kevin McCarthy as speaker when Republicans regained control of the chamber in 2023. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+In the Senate, Minority Leader Chuck Schumer's effort to return to majority leader when Democrats take control is being challenged by Sen. Chris Van Hollen (D-MD), who has said that the midterm results showed that voters are looking for a change. Schumer has insisted that he will win the leadership battle, expected to take place next month.
+
+============================================================
+[2] Box Office: 'Hunger Games: Sunrise on the Reaping' Targets Huge Debut Above $100 Million
 Source: Variety | Status: expanded | Words: 619
 Published: 2026-11-18T15:47:58+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-reaping-box-office-hunger-games-opening-weekend-1236950225
@@ -27,7 +49,7 @@ Elsewhere this weekend, &#8220;I Play Rocky&#8221; is targeting $10 million to $
 As the end of the year approaches, domestic ticket sales are impressively 20% above the same point in 2025 . With potential blockbusters like "Avengers: Doomsday," &#8220;Dune: Part Three&#8221; and "Jumanji: Open World." on the horizon, revenues are projected to eclipse $10 billion for the first time since COVID.
 
 ============================================================
-[2] New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming &#038; Full Cast Announced
+[3] New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming &#038; Full Cast Announced
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-18T15:45:39+00:00
 URL: https://theplaylist.net/new-friday-the-13th-film-titled-jason-full-cast-announced-20261118
@@ -39,7 +61,7 @@ CONTENT / EXTRACTED DETAILS:
 Last Friday, which just happened to be the 13th of November, was the perfect time to announce a NEW " Friday the 13th " movie being in the works. And this week we've learned that principal photography has been completed, with the full cast being revealed, and the new title is going to be simply " Jason ,” signaling the return of undead slasher Jason Voorhees after a long hiatus from theatrical outings since the 2009 Platinum Dunes -produced reboot. Continue reading New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming & Full Cast Announced at The Playlist.
 
 ============================================================
-[3] Democrats Boycott Senate Commerce Committee Vote To Advance Republican FCC Nominee
+[4] Democrats Boycott Senate Commerce Committee Vote To Advance Republican FCC Nominee
 Source: Deadline | Status: expanded | Words: 443
 Published: 2026-11-18T15:43:47+00:00
 URL: https://deadline.com/2026/11/fcc-nominee-democrats-boycott-trump-1237227971
@@ -69,7 +91,7 @@ He also noted that Thumann Severs was filling the vacancy of a Republican, Natha
 Thumann Severs is senior counsel to Carr, with a focus on the agency's wireline bureau, public safety and homeland security bureau and the consumer and government affairs bureau.
 
 ============================================================
-[4] I Didn’t See The Royal Family Responding To The New Bond Coming (But I’m Glad Ian Fleming’s Estate Did)
+[5] I Didn’t See The Royal Family Responding To The New Bond Coming (But I’m Glad Ian Fleming’s Estate Did)
 Source: CinemaBlend | Status: expanded | Words: 246
 Published: 2026-11-18T15:40:07+00:00
 URL: https://www.cinemablend.com/movies/royal-family-and-ian-fleming-estate-react-new-james-bond
@@ -87,7 +109,7 @@ I love that they chose that particular passage from Moonraker . Think about how 
 That's a lovely endorsement, especially since casting a new Bond tends to spark strong opinions. Fan reactions to Pattinson's casting have been pretty mixed, and I'm sure there will be plenty more debate once a trailer for his first 007 flick arrives. I appreciate that Fleming's estate welcomed him by reminding everyone why the character has survived so many reinventions.
 
 ============================================================
-[5] 5 1980s Cartoon Theme Songs That All ’80s Kids Remember More Than the Actual Shows
+[6] 5 1980s Cartoon Theme Songs That All ’80s Kids Remember More Than the Actual Shows
 Source: ComicBook.com | Status: expanded | Words: 1102
 Published: 2026-11-18T15:37:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-1980s-cartoon-theme-songs-that-all-80s-kids-remember-more-than-the-actual-shows
@@ -125,7 +147,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] 'Grand Theft Auto 6' Reviews: Critics Hail "The Most Impressive Video Game Ever"
+[7] 'Grand Theft Auto 6' Reviews: Critics Hail "The Most Impressive Video Game Ever"
 Source: The Hollywood Reporter | Status: expanded | Words: 800
 Published: 2026-11-18T15:36:39+00:00
 URL: https://www.hollywoodreporter.com/business/digital/grand-theft-auto-6-review-1236758379
@@ -161,7 +183,7 @@ Did anybody say anything negative? That's tougher to find, though The Guardian c
 The $79.99 game is released Nov. 19 and expected to disrupt Hollywood's entertainment releases , especially TV shows on streaming, though to what extent at this stage is difficult to measure.
 
 ============================================================
-[7] Sakamoto Days Season 2 Confirms Release Date Ahead of Shonen Jump Finale - Watch Trailer
+[8] Sakamoto Days Season 2 Confirms Release Date Ahead of Shonen Jump Finale - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 489
 Published: 2026-11-18T15:34:58+00:00
 URL: https://comicbook.com/anime/news/sakamoto-days-season-2-confirms-release-date-ahead-of-shonen-jump-finale-watch-trailer
@@ -185,7 +207,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Amazon's 'One Night in Idaho' Season 2 Reveals Premiere Date and Trailer (Exclusive)
+[9] Amazon's 'One Night in Idaho' Season 2 Reveals Premiere Date and Trailer (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 476
 Published: 2026-11-18T15:30:21+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/one-night-in-idaho-season-2-premiere-date-trailer-amazon-1236756348
@@ -211,7 +233,7 @@ Catching a Killer is directed by Matthew Galkin ( Murder in the Bayou ) and show
 One Night in Idaho season two is executive produced by Galkin, Garbus, King, Dan Cogan, Jon Bardin, Joshua Levine, Tommy Coriale, Patterson, Bill Robinson and Patrick Santa.
 
 ============================================================
-[9] Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision
+[10] Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision
 Source: Variety | Status: expanded | Words: 427
 Published: 2026-11-18T15:30:00+00:00
 URL: https://variety.com/2026/film/news/bruce-springsteen-concert-doc-when-the-walls-came-down-1236950655
@@ -235,7 +257,7 @@ Springsteen, the rock &#8216;n' roll visionary behind &#8220;Born to Run&#8221; 
 Worldwide sales are being handled by Submarine Entertainment and Sony Music Vision.
 
 ============================================================
-[10] Cult '90s Horror Movie Officially Getting a Sequel 31 Years Later, And the Title Is Perfect
+[11] Cult '90s Horror Movie Officially Getting a Sequel 31 Years Later, And the Title Is Perfect
 Source: ComicBook.com | Status: expanded | Words: 499
 Published: 2026-11-18T15:25:32+00:00
 URL: https://comicbook.com/movies/news/cult-90s-horror-movie-officially-getting-a-sequel-31-years-later-and-the-title-is-perfect
@@ -259,7 +281,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] How GTA 6 Reviews Stack Up to Every Other Grand Theft Auto Game
+[12] How GTA 6 Reviews Stack Up to Every Other Grand Theft Auto Game
 Source: ComicBook.com | Status: expanded | Words: 391
 Published: 2026-11-18T15:25:16+00:00
 URL: https://comicbook.com/gaming/news/how-gta-6-reviews-stack-up-to-every-other-grand-theft-auto-game
@@ -283,7 +305,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Little Black Dresses Have Been Everywhere, But Alexandra Daddario Mixed Things Up In Gold
+[13] Little Black Dresses Have Been Everywhere, But Alexandra Daddario Mixed Things Up In Gold
 Source: CinemaBlend | Status: expanded | Words: 1575
 Published: 2026-11-18T15:23:30+00:00
 URL: https://www.cinemablend.com/television/alexandra-daddario-wore-gold-dress-amid-black-dress-trend
@@ -341,7 +363,7 @@ Television Alexandra Daddario Jokes She’s ‘Ready For The Super Market' In Go
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[13] Bari Weiss Apparently ‘Arrived Like A Conquering Hero’ At CBS News. Why Things Reportedly Changed
+[14] Bari Weiss Apparently ‘Arrived Like A Conquering Hero’ At CBS News. Why Things Reportedly Changed
 Source: CinemaBlend | Status: expanded | Words: 257
 Published: 2026-11-18T15:19:11+00:00
 URL: https://www.cinemablend.com/television/bari-weiss-arrived-like-hero-cbs-news-why-things-reportedly-changed
@@ -357,7 +379,7 @@ The past few months have seen some of CBS News’ programming – like CBS Eveni
 In terms of that remark about “bad press and angry employees,” that seemingly refers to the reports and rumors that have been swirling around Bari Weiss’ tenure. Former CBS staffers have criticized her, with some even making claims of “journalistic interference” amid her time on the job. Veteran newsman Dan Rather also didn’t mince words about Weiss and other execs, as he accused them of “destroying” the network. Meanwhile, company sources have shared varied takes on working with Weiss , as some call the experience productive and others making claims of difficulties on that front.
 
 ============================================================
-[14] ‘American Theater’ Review: MAGA Politics, Cancel Culture &#038; The Joy Of Making Art Collide In An Immersive Doc
+[15] ‘American Theater’ Review: MAGA Politics, Cancel Culture &#038; The Joy Of Making Art Collide In An Immersive Doc
 Source: The Playlist | Status: summary_only | Words: 86
 Published: 2026-11-18T15:17:17+00:00
 URL: https://theplaylist.net/american-theater-review-brian-clowdus-documentary-20261118
@@ -369,7 +391,7 @@ CONTENT / EXTRACTED DETAILS:
 Considering how long American discourse wrapped itself around the axle of cancel culture, documentaries about the fallout from those social skirmishes of the late-2010s and early 2020s have been strangely absent. Executive-produced by Jeremy O. Harris (“ Zola ,” “ Slave Play ”), Nicholas Clark and Dylan Frederick ’s “ American Theater ” dives into the recent-past culture wars with gusto and verve. Continue reading ‘American Theater’ Review: MAGA Politics, Cancel Culture & The Joy Of Making Art Collide In An Immersive Doc at The Playlist.
 
 ============================================================
-[15] 'Bad Boys for Life' Directors Adil El Arbi and Bilall Fallah Invest in 'Sound of Metal' Producer Caviar (EXCLUSIVE)
+[16] 'Bad Boys for Life' Directors Adil El Arbi and Bilall Fallah Invest in 'Sound of Metal' Producer Caviar (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 414
 Published: 2026-11-18T15:15:00+00:00
 URL: https://variety.com/2026/film/global/bad-boys-for-life-adil-el-arbi-bilall-fallah-invest-caviar-1236951660
@@ -395,7 +417,7 @@ Added Caviar CEO Bert Hamelinck: "Caviar is and remains a talent-driven producti
 The investment is made through Los Morros BV, Arbi and Fallah's Belgian production company. Financial terms were not disclosed.
 
 ============================================================
-[16] Florence Pugh Fires Back at Video Claiming She Used Plastic Surgery to Change Her Face: 'Disturbing' How 'People Can't Tell the Difference Between Aging and Surgery'
+[17] Florence Pugh Fires Back at Video Claiming She Used Plastic Surgery to Change Her Face: 'Disturbing' How 'People Can't Tell the Difference Between Aging and Surgery'
 Source: Variety | Status: expanded | Words: 683
 Published: 2026-11-18T15:10:38+00:00
 URL: https://variety.com/2026/film/news/florence-pugh-plastic-surgery-claims-face-shape-change-1236951789
@@ -425,7 +447,7 @@ In a Dec. 2024 interview with The Sunday Times , Pugh called it "exhausting" to 
 Pugh is gearing up for a busy rest of the year with the same-day releases of &#8220; Avengers: Doomsday &#8221; and &#8220; Dune: Part Three ,&#8221; both of which hit theaters on Dec. 18.
 
 ============================================================
-[17] 'Grand Theft Auto VI': Could Video Game Franchise Become Film Or TV Show? "We're Very, Very Selective," Says Take-Two CEO
+[18] 'Grand Theft Auto VI': Could Video Game Franchise Become Film Or TV Show? "We're Very, Very Selective," Says Take-Two CEO
 Source: Deadline | Status: expanded | Words: 563
 Published: 2026-11-18T15:10:34+00:00
 URL: https://deadline.com/2026/11/grand-theft-auto-6-could-be-tv-show-film-1237227890
@@ -453,7 +475,7 @@ Grand Theft Auto 6 , which is the most expensive game ever developed, has taken 
 The sandbox game lets the player take control of two characters, Jason Duval and Lucia Caminos, a Bonnie and Clyde -style couple in Leonida, an open world setting based on Florida. As the eighth main game in the franchise, its development took far longer than any of its predecessors, with a full 13 years between its launch and Grand Theft Auto 5 .
 
 ============================================================
-[18] The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question
+[19] The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-18T15:05:56+00:00
 URL: https://theplaylist.net/the-wachowskis-reclaim-matrix-rights-from-skydance-matrix-5-20261118
@@ -465,7 +487,7 @@ CONTENT / EXTRACTED DETAILS:
 It is starting to sound like there are going to be some major headaches ahead for Skydance / Warner Bros. when it comes to " The Matrix " franchise and possibly their current attempts to bring " The Matrix 5 " to the big screen by writer/director Drew Goddard ("The Martian," "Bad Times at the El Royale"). The Wachowskis (Lana and Lilly), the co-creators and co-directors, are said to be pursuing a rights battle with the studio. Continue reading The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question at The Playlist.
 
 ============================================================
-[19] India’s ‘How Love Moves’ Among Top Winners at IDFA Industry Section Awards
+[20] India’s ‘How Love Moves’ Among Top Winners at IDFA Industry Section Awards
 Source: Variety | Status: expanded | Words: 1038
 Published: 2026-11-18T15:05:17+00:00
 URL: https://variety.com/2026/film/global/india-how-love-moves-idfa-industry-section-awards-1236951872
@@ -531,7 +553,7 @@ It is produced by Mapplebeck for First Person Films.
 Jury members Min-Wei Kuo and David Massey said, "The jury unanimously agrees that this project is inspirational and addresses serious subjects in an irreverent but impactful way that will engage with audiences no matter of their cultural background or ages. The spirit of the project and the artist fits the vibe of IDFA DocLab. We're also now encouraged to create our own fuck you list!"
 
 ============================================================
-[20] 'Grand Theft Auto VI': What The Critics Are Saying As The Rockstar Games Series Finally Returns
+[21] 'Grand Theft Auto VI': What The Critics Are Saying As The Rockstar Games Series Finally Returns
 Source: Deadline | Status: expanded | Words: 639
 Published: 2026-11-18T15:02:55+00:00
 URL: https://deadline.com/2026/11/grand-theft-auto-6-what-the-critics-reviews-1237227874
@@ -577,7 +599,7 @@ GTA 6 reportedly crossed $1.5 billion in revenue two days before its release, th
 You can read that feature here .
 
 ============================================================
-[21] ‘Slow Horses’ Actress Ruth Bradley to Be Honored at the Oscar Wilde Awards (Exclusive)
+[22] ‘Slow Horses’ Actress Ruth Bradley to Be Honored at the Oscar Wilde Awards (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 317
 Published: 2026-11-18T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/oscar-wilde-awards-ruth-bradley-slow-horses-1236757718
@@ -599,7 +621,7 @@ The daughter of Irish actress Charlotte Bradley, she will next be seen in Walk t
 Bradley has also stood out on television on Love/Hate &#x2014; for which she twice won the best actress prize at the Irish Film and Television Awards &#x2014; The Fall , Electric Dreams , Humans , Ted Lasso , The Gold and The Guilt , and in such films as In Her Skin (2009) and Embers (2023).
 
 ============================================================
-[22] 5 Most Unexpected Dave The Diver Crossovers You Didn't Even Know Existed
+[23] 5 Most Unexpected Dave The Diver Crossovers You Didn't Even Know Existed
 Source: ComicBook.com | Status: expanded | Words: 1535
 Published: 2026-11-18T15:00:00+00:00
 URL: https://comicbook.com/uncategorized/list/5-most-unexpected-dave-the-diver-crossovers-you-didnt-even-know-existed
@@ -645,7 +667,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Tom Hiddleston’s Loki Update Means Avengers: Doomsday Won’t Make One Terrible Mistake
+[24] Tom Hiddleston’s Loki Update Means Avengers: Doomsday Won’t Make One Terrible Mistake
 Source: ComicBook.com | Status: expanded | Words: 444
 Published: 2026-11-18T14:55:52+00:00
 URL: https://comicbook.com/movies/news/tom-hiddlestons-loki-update-means-avengers-doomsday-wont-make-one-terrible-mistake
@@ -667,7 +689,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] A Mischief of Magpies #3 Is a Moving, Perfect Finale to an All Time Fantasy Great [REVIEW]
+[25] A Mischief of Magpies #3 Is a Moving, Perfect Finale to an All Time Fantasy Great [REVIEW]
 Source: ComicBook.com | Status: expanded | Words: 636
 Published: 2026-11-18T14:53:00+00:00
 URL: https://comicbook.com/comics/review/a-mischief-of-magpies-3-is-a-moving-perfect-finale-to-an-all-time-fantasy-great-review
@@ -691,7 +713,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Ella Langley, Morgan Wallen &#038; Tim McGraw Among Early CMA Award Winners
+[26] Ella Langley, Morgan Wallen &#038; Tim McGraw Among Early CMA Award Winners
 Source: Deadline | Status: expanded | Words: 264
 Published: 2026-11-18T14:32:24+00:00
 URL: https://deadline.com/2026/11/cma-awards-winners-ella-langley-1237227915
@@ -715,7 +737,7 @@ Langley's "Choosin' Texas" video was directed by Langley, Caylee Robillard and W
 The 60th Annual CMA Awards is a production of the Country Music Association. Robert Deaton serves as Executive Producer, Alan Carter is Director, and Jon Macks is Head Writer.
 
 ============================================================
-[26] ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion
+[27] ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-18T14:32:23+00:00
 URL: https://theplaylist.net/hunger-games-sunrise-on-the-reaping-review-joseph-zada-francis-lawrence-20261118
@@ -727,7 +749,7 @@ CONTENT / EXTRACTED DETAILS:
 Fourteen years after the release of Gary Ross ’ “ The Hunger Games ,” it’s remarkable that the franchise, once seen as another attempt to cash in on “ Harry Potter ,” has arguably become one of our most consistent and vital franchises. Having transcended the YA boom that birthed it—a fate not afforded to “ Divergent ” or “ The Maze Runner ”— Suzanne Collins ’ dystopian world continues to speak to audiences confronting an uncertain future. Continue reading ‘The Hunger Games: Sunrise On The Reaping’ Review: Joseph Zada Is A Revelation In Francis Lawrence’s Devastating Tale Of Rebellion at The Playlist.
 
 ============================================================
-[27] Mckenna Grace Spreads Her Wings at 'Hunger Games' Premiere in New York City, Cynthia Erivo Performs at Lincoln Center and More Celeb Red Carpet Photos: November 2026
+[28] Mckenna Grace Spreads Her Wings at 'Hunger Games' Premiere in New York City, Cynthia Erivo Performs at Lincoln Center and More Celeb Red Carpet Photos: November 2026
 Source: Variety | Status: expanded | Words: 132
 Published: 2026-11-18T14:30:20+00:00
 URL: https://variety.com/gallery/jceleb-red-carpet-photos-november-2026
@@ -745,7 +767,7 @@ See the best celebrity red-carpet and event photos from November 2026 below. Kee
 Fight night: &#8220;I Play Rocky&#8221; stars AnnaSophia Robb and Anthony Ippolito attend the 50th anniversary screening of &#8220;Rocky&#8221; at the Academy Museum of Motion Pictures on Nov. 17 in Los Angeles.
 
 ============================================================
-[28] 'Grand Theft Auto VI' Turns Chaos &#038; Crime Into Cash &#038; Clout With Record-Shattering Launch
+[29] 'Grand Theft Auto VI' Turns Chaos &#038; Crime Into Cash &#038; Clout With Record-Shattering Launch
 Source: Deadline | Status: expanded | Words: 1802
 Published: 2026-11-18T14:30:18+00:00
 URL: https://deadline.com/2026/11/gta-6-launch-biggest-ever-video-game-1237218665
@@ -809,7 +831,7 @@ Another voice in all this belongs to producer and actor Matthew Waterson. Best k
 Anthony D'Alessandro & Dade Hayes contributed to this report
 
 ============================================================
-[29] Glam Slam: Hollywood’s Top 26 Beauty Moments of 2026
+[30] Glam Slam: Hollywood’s Top 26 Beauty Moments of 2026
 Source: The Hollywood Reporter | Status: expanded | Words: 3286
 Published: 2026-11-18T14:30:00+00:00
 URL: https://www.hollywoodreporter.com/lists/top-hollywood-beauty-trends-2026
@@ -875,7 +897,7 @@ Nicole Fell contributed to this report.
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[30] ‘Selling Sunset’ Sets Season 10 Premiere and Announces Full Cast; Christine Quinn and Heather Rae El Moussa Officially Return (EXCLUSIVE)
+[31] ‘Selling Sunset’ Sets Season 10 Premiere and Announces Full Cast; Christine Quinn and Heather Rae El Moussa Officially Return (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 727
 Published: 2026-11-18T14:30:00+00:00
 URL: https://variety.com/2026/tv/news/selling-sunset-season-10-premiere-date-full-cast-1236946229
@@ -903,7 +925,7 @@ All appears to have been forgiven now, though. Since leaving the show, Quinn wen
 From left to right, top row: Bre Tiesi, Christine Quinn, Heather Rae El Moussa, Amanza Smith . From left to right, bottom row : Jordyn Taylor, Sasha Lance, Tara Burns, Sonni Pacheco.
 
 ============================================================
-[31] Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie &#038; What Changed Her Mind About Producing Solo [Interview]
+[32] Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie &#038; What Changed Her Mind About Producing Solo [Interview]
 Source: The Playlist | Status: summary_only | Words: 167
 Published: 2026-11-18T14:26:00+00:00
 URL: https://theplaylist.net/emma-thomas-breaks-the-box-for-the-odyssey-teases-nolan-is-mulling-next-movie-what-changed-her-mind-about-producing-solo-interview-20261118
@@ -915,7 +937,7 @@ CONTENT / EXTRACTED DETAILS:
 She's an Oscar winner, a PGA Award winner, and a BAFTA Award winner, but it often feels as though Emma Thomas doesn't get the kudos she deserves. As Christopher Nolan 's longtime producing partner, she has shepherded all 13 of his directorial efforts from the indie-budgeted thrillers "Following" and "Memento" to a genre-defying "Dark Knight" trilogy to 19th-century London with "The Prestige" to a WWII epic in "Dunkirk" to the far reaches of space with "Interstellar," and a Best Picture win with "Oppenheimer" and a $2 billion global grosser this past summer with "The Odyssey." But she only has one film on her resume that Nolan didn't direct, Zack Snyder's "Man of Steel." She has a few executive producer credits on the side, but for the most part, hasn't taken the reins of a project with a different filmmaker. Continue reading Emma Thomas Breaks The Box For 'The Odyssey,' Teases Nolan Is "Mulling" Next Movie & What Changed Her Mind About Producing Solo [Interview] at The Playlist.
 
 ============================================================
-[32] 'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
+[33] 'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
 Source: Variety | Status: expanded | Words: 205
 Published: 2026-11-18T14:23:49+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803
@@ -933,7 +955,7 @@ The review embargo on &#8220; Grand Theft Auto VI &#8221; has finally lifted and
 &#8220;GTA 6&#8221; officially launches Thursday in the U.S. but has begun rolling out worldwide as the clock strikes midnight on Nov. 19 in different territories, starting with New Zealand, which got access to the game Wednesday at 6 a.m. ET.
 
 ============================================================
-[33] X-Orcists #1 Kicks Off This Unique New Mutant Book With a Banger (Review)
+[34] X-Orcists #1 Kicks Off This Unique New Mutant Book With a Banger (Review)
 Source: ComicBook.com | Status: expanded | Words: 864
 Published: 2026-11-18T14:22:00+00:00
 URL: https://comicbook.com/comics/review/x-orcists-1-kicks-off-this-unique-new-mutant-book-with-a-banger-review
@@ -961,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] DOC NYC Doc ‘Dryads,’ From Mallorca-Based Miguel Eeks, Explores ‘the Mystery of Creation Through Music’
+[35] DOC NYC Doc ‘Dryads,’ From Mallorca-Based Miguel Eeks, Explores ‘the Mystery of Creation Through Music’
 Source: Variety | Status: expanded | Words: 967
 Published: 2026-11-18T14:18:48+00:00
 URL: https://variety.com/2026/film/global/doc-nyc-doc-dryads-explores-the-mystery-of-creation-music-1236950808
@@ -1009,7 +1031,7 @@ Nature and chance contribute something essential to the creative process that li
 The 17th year DOC NYC Manhattan runs Nov. 11-19 and continues online through Nov. 29.
 
 ============================================================
-[35] Vin Diesel To Star In Original Action Movie 'Burial Hill' From 'Caine' Writer &#038; 'Luther' Director; Amazon Striking Big Deal
+[36] Vin Diesel To Star In Original Action Movie 'Burial Hill' From 'Caine' Writer &#038; 'Luther' Director; Amazon Striking Big Deal
 Source: Deadline | Status: expanded | Words: 625
 Published: 2026-11-18T14:18:12+00:00
 URL: https://deadline.com/2026/11/vin-diesel-cast-action-movie-burial-hill-amazon-big-deal-1237227833
@@ -1043,7 +1065,7 @@ CAA Media Finance arranged financing and handles domestic rights.
 Vin Diesel is represented by CAA and Linden Entertainment. Jamie Payne is represented by UTA and Independent Talent Group. Mike McGrale is represented by CAA and Heroes and Villains Entertainment.
 
 ============================================================
-[36] 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel
+[37] 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel
 Source: The Playlist | Status: summary_only | Words: 115
 Published: 2026-11-18T14:17:57+00:00
 URL: https://theplaylist.net/cliff-booth-trailer-brad-pitt-netflix-20261118
@@ -1055,7 +1077,7 @@ CONTENT / EXTRACTED DETAILS:
 Earlier this week, press and reviewers got the first glimpse of the next David Fincher film, " The Further Mis-Adventures of Cliff Booth ," which sees Brad Pitt back as the titular WWII hero/stuntman as he now navigates the Neo-Noir genre in a new story penned by Quentin Tarantino as the period setting jumps from 1969 to 1977. READ MORE: David Fincher Says ‘Cliff Booth’ Was Essentially Two Movies Long & He Cut 60 Pages From The Script A new trailer promoting the minor theatrical release and getting audiences to buy their tickets has dropped. Continue reading 'Cliff Booth' Trailer: Brad Pitt Is Back In His Oscar-Winning Role For '70s-Set Neo-Noir Sequel at The Playlist.
 
 ============================================================
-[37] Imax Promotes Giovanni Dolci to COO Amid C-Suite Moves
+[38] Imax Promotes Giovanni Dolci to COO Amid C-Suite Moves
 Source: The Hollywood Reporter | Status: expanded | Words: 273
 Published: 2026-11-18T14:14:32+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/imax-giovanni-dolci-coo-1236758378
@@ -1077,7 +1099,7 @@ Welton will lead partnerships beyond the company's core theatrical business, wor
 &#8220;Mark has been instrumental in building Imax, and few people know our company and industry like he does. He is exactly the right person to turn the strength of our brand into new sources of growth," Gelfond added.
 
 ============================================================
-[38] Marvel Carefully Orchestrated the Return of Every Major Avengers Villain in 2026 Ahead of Doomsday
+[39] Marvel Carefully Orchestrated the Return of Every Major Avengers Villain in 2026 Ahead of Doomsday
 Source: ComicBook.com | Status: expanded | Words: 628
 Published: 2026-11-18T14:06:00+00:00
 URL: https://comicbook.com/movies/feature/marvel-carefully-orchestrated-the-return-of-every-major-avengers-villain-in-2026-ahead-of-doomsday
@@ -1105,7 +1127,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Detective Comics #1115 Masterfully Adapts One of Batman's Most Underrated Stories for Superman (Review)
+[40] Detective Comics #1115 Masterfully Adapts One of Batman's Most Underrated Stories for Superman (Review)
 Source: ComicBook.com | Status: expanded | Words: 791
 Published: 2026-11-18T14:03:00+00:00
 URL: https://comicbook.com/comics/review/detective-comics-1115-masterfully-adapts-one-of-batmans-most-underrated-stories-for-superman-review
@@ -1135,7 +1157,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] New 'Friday The 13th' Movie Unveils Cast, Title &#038; Release Date
+[41] New 'Friday The 13th' Movie Unveils Cast, Title &#038; Release Date
 Source: Deadline | Status: expanded | Words: 920
 Published: 2026-11-18T14:00:00+00:00
 URL: https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827
@@ -1167,7 +1189,7 @@ Over the decades, Friday the 13th has spawned video games, immersive experiences
 White is repped by Brand in Motion; Lind by CAA, Authentic and Brecheen Feldman Breimer; Cornett by Gersh, LBI Entertainment and Walter Entertainment & Media Law; Buckingham by Buchwald and Industry Entertainment; Lowe by UTA, Untitled and Latham & Watkins; Madison by Formation Talent Agency, Kevin Donahue Management and Hansen, Jacobson, Teller; Turner by Paradigm, Play Management and Forward Talent; Sato by Buchwald and Skrzyniarz & Mallean; Sill by Griffin Talent and Luber Roklin Entertainment; Diaz by Innovative; Young by Eris Talent Agency, Stride Management and Nelson Davis; Brown by Avenue Agency; and Guzman by Formation Talent.
 
 ============================================================
-[41] Radial Taps Nacelle Company For 'Icons Unearthed' Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino &#038; 'Transformers'
+[42] Radial Taps Nacelle Company For 'Icons Unearthed' Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino &#038; 'Transformers'
 Source: Deadline | Status: expanded | Words: 676
 Published: 2026-11-18T14:00:00+00:00
 URL: https://deadline.com/2026/11/radial-entertainment-icons-unearthed-docs-1237227824
@@ -1201,7 +1223,7 @@ Icons Unearthed: Quentin Tarantino Movies explores the filmmaker's rise from vid
 The deal was negotiated by Katie Carroll, Director, Originals & Business Development at Radial Entertainment, and Hud Woodle, VP International Sales at The Nacelle Company.
 
 ============================================================
-[42] Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul
+[43] Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul
 Source: The Hollywood Reporter | Status: expanded | Words: 2977
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/alix-earle-interiew-tiktok-beauty-brand-reale-actives-1236757261
@@ -1261,7 +1283,7 @@ Running a business with multiple revenue streams and being smart about money wer
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[43] New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)
+[44] New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 304
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/new-york-knicks-star-josh-hart-book-deal-harpercollins-1236757115
@@ -1283,7 +1305,7 @@ Senior VP & publisher Lisa Sharkey and senior VP & publisher Nancy Inteli negoti
 "Josh brings the same incredible energy to storytelling that he brings to the court," adds Inteli. "Like Josh himself, the picture book is full of warmth, humor, and especially heart. Families will want to read it again and again."
 
 ============================================================
-[44] Disney and AWS Team Up to Create AI-Powered 'Star Wars' Robots
+[45] Disney and AWS Team Up to Create AI-Powered 'Star Wars' Robots
 Source: The Hollywood Reporter | Status: expanded | Words: 823
 Published: 2026-11-18T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851
@@ -1317,7 +1339,7 @@ Still, the new robots demonstrate how Disney may ultimately use AI to improve it
 &#8220;Ultimately the goal for Imagineering is to create a living world populated by all the characters you know and love,&#8221; Laughlin says. &#8220;Some of those are going to be audio-animatronics, some of those are going to be robots, some of those are going to be live performers, and some might be puppets. And I think our ability to blend all of those performances together is what makes us uniquely Disney and a one-of-one company in terms of delivering that kind of experience.&#8221;
 
 ============================================================
-[45] Venus and Serena Williams Set to Launch Season 2 of 'Stockton Street' Podcast on Dear Media (EXCLUSIVE)
+[46] Venus and Serena Williams Set to Launch Season 2 of 'Stockton Street' Podcast on Dear Media (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 738
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/digital/news/venus-serena-williams-season-2-stockton-street-podcast-1236950857
@@ -1355,7 +1377,7 @@ Through "Stockton Street," Venus and Serena explore where they came from, who th
 The season will consist of 24 episodes with new installments dropping weekly on all major podcast platforms. Dear Media, Isha Price, Jessica Steindorff and Nine Two Six Media serve as producers.
 
 ============================================================
-[46] 'KPop Demon Hunters' Star EJAE Fronts Zac Posen's New GapStudio Winter Collection
+[47] 'KPop Demon Hunters' Star EJAE Fronts Zac Posen's New GapStudio Winter Collection
 Source: Variety | Status: expanded | Words: 402
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/shopping/news/kpop-demon-hunters-ejae-zac-posen-gap-collection-shop-1236951776
@@ -1381,7 +1403,7 @@ The release continues Posen's efforts to elevate Gap's fashion credentials throu
 The GapStudio Winter 2026 collection will be available beginning Nov. 20 on Gap.com and at select Gap stores, with prices ranging from $54 to $268.
 
 ============================================================
-[47] Taylor Swift's CMA Return Helped Disney Sell More Ads
+[48] Taylor Swift's CMA Return Helped Disney Sell More Ads
 Source: Variety | Status: expanded | Words: 585
 Published: 2026-11-18T14:00:00+00:00
 URL: https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795
@@ -1409,7 +1431,7 @@ Financial-services provider Ally is also new to the program's ad roster. A new c
 Advertisers interested in live specials are eager "to go beyond just the 30-second spot," says Campbell. He believes new opportunities that weave marketing alongside musical content is driving "increases in overall commitments to our live specials." There are, Disney no doubt hopes, a lot more to come.
 
 ============================================================
-[48] Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask &#038; Why He’s In No Rush To Chase The Next Role [Interview]
+[49] Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask &#038; Why He’s In No Rush To Chase The Next Role [Interview]
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-18T14:00:00+00:00
 URL: https://theplaylist.net/mike-faist-east-of-eden-interview-charles-trask-20261118
@@ -1421,7 +1443,7 @@ CONTENT / EXTRACTED DETAILS:
 The tragedy of Charles Trask in Zoe Kazan ’s remarkable adaptation of “ East Of Eden ” is that he desperately loves his brother but has almost no idea how to express it. Charles is angry, volatile, resentful, and consumed by an almost unbearable sense of inadequacy. Yet beneath all that bitterness is someone capable of enormous tenderness, even if he has spent much of his life convincing himself he doesn’t deserve any. Continue reading Mike Faist On ‘East Of Eden,’ The Shame That Defines Charles Trask & Why He’s In No Rush To Chase The Next Role [Interview] at The Playlist.
 
 ============================================================
-[49] Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy
+[50] Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy
 Source: CinemaBlend | Status: expanded | Words: 265
 Published: 2026-11-18T13:56:34+00:00
 URL: https://www.cinemablend.com/movies/elle-fanning-sunrise-dress-hunger-games-sheer-cutout-capitol-energy
@@ -1435,24 +1457,4 @@ I’ve been living for the Sunrise on the Reaping method dressing as of late. Wh
 Fanning has been having fun ever since she landed the role of Effie -- who she'd long been fancast as -- and she is not disappointing the fanbase. The outfits for this press tour have been nothing short of remarkable. Quite frankly, Fanning and Grace have been giving fans everything they didn’t know they wanted on that front. Whether it’s wearing a dancing ballerina as a hat or sporting a literal print of the arena, both actors have taken a visual approach to promoting the movie that's been perfect.
 
 Fans are clearly thankful that the studio listened to their suggestion and cast Fanning as Effie. Luckily, we won’t have to wait much longer before we get to see Fanning in all of her Effie glory either. Sunrise on the Reaping will hit the 2026 movie schedule on November 20 after what feels like forever. I'm beyond curious to see how Fanning makes the role her own, but I'm also confident she'll crush it. OG Effie actress Elizabeth Banks has also praised Fanning's castin g .
-
-============================================================
-[50] DWTS' Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate
-Source: CinemaBlend | Status: expanded | Words: 274
-Published: 2026-11-18T13:54:19+00:00
-URL: https://www.cinemablend.com/television/dwts-glee-tribute-made-me-cry-the-background-made-me-irate-brandon-alan
-------------------------------------------------------------
-SUMMARY:
-Talk about emotional whiplash.
-
-CONTENT / EXTRACTED DETAILS:
-Spoilers ahead for the most recent episode of Dancing with the Stars .
-
-The last two weeks saw DWTS contestants with dance experience voted off, largely thanks to the fans. Harry Shum Jr'.s final performance was to the Glee version of "Valerie", with him pointing up to heaven after the final pose, and talking about Naya Rivera to host Juliane Hough in the Skybox. It was a beautiful way to honor the late actress, but it was spoiled a bit by pros Alan Bersten and Brandon Armstrong recording content for the TikTok live in the background.
-
-Even before Harry Shum Jr. spoke about Naya Rivera, the late actress' presence was felt throughout his quickstep. Rather than dancing to the Amy Winehouse version of "Valerie" the Dancing with the Stars band performed the Glee arrangement that was famously sung by Rivera in one of the show's most iconic moments. What's more, a few dance moves were even lifted straight from the choreo performed by Shum and Heather Morris in that number. You can check out that quick moment below.
-
-When Harry Shum Jr. pointed up at heaven after his final pose, it was clear that Naya Rivera was on his mind. The tribute became all the more clear up in the Skybox, with the Grey's Anatomy star telling Hough:
-
-This was a classy and touching tribute to Shum's late co-star, which is why the juxtaposition between his words and Alan Bersten and Brandon Armstrong doing a bit for the TikTok live felt so upsetting. The pros were just doing their job, but I wish they were listening and reading the room during this emotional moment.
 
