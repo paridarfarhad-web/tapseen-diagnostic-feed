@@ -1,9 +1,51 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T20:21:52.773Z
+Last Updated: 2026-11-18T20:31:57.124Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition
+[1] Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD's Meg Maro To Depart
+Source: Deadline | Status: expanded | Words: 287
+Published: 2026-11-18T20:31:17+00:00
+URL: https://deadline.com/2026/11/skydance-chief-marketing-officer-rebecca-mall-leam-meg-maro-1237228359
+------------------------------------------------------------
+SUMMARY:
+Chief Marketing Officer Rebecca Mall is the latest member of Skydance co-CEOs David Ellison and Ynon Kreiz's senior leadership team to unveil the structure of her unit a month after the completion of the Paramount-Warner Bros. Discovery merger. She did it in a company memo, which you can read below. With Mall at the helm, […]
+
+CONTENT / EXTRACTED DETAILS:
+Chief Marketing Officer Rebecca Mall is the latest member of Skydance co-CEOs David Ellison and Ynon Kreiz's senior leadership team to unveil the structure of her unit a month after the completion of the Paramount-Warner Bros. Discovery merger. She did it in a company memo, which you can read below.
+
+With Mall at the helm, Skydance will move to a centralized marketing operation, a change from the previous setup at Paramount and WBD where the various business divisions had their own CMOs.
+
+It is not a complete departure as Mike Benson, head if TV marketing; Shauna Spenley, head of DTC marketing; Josh Goldstine, head of Film marketing; will continue to report to their respective business leaders, George Cheeks, JB Perrette and Dana Goldberg & Josh Greenstein, respectively, with a dotted line to Mall. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News David Ellison Commits To Airing Alex Gibney 'Musk' Doc On HBO Max, Calls Skydance Investor "Greatest Entrepreneur Of Our Time" Executives David Ellison Denies 'Rush Hour 4' Was A Donald Trump Greenlight, Says Taylor Sheridan Ties Still Strong
+
+Also new is the creation of a Franchise and Kids & Family marketing unit lead by Nickelodeon's Angie Sharma will lead. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Departing in the restructuring is Meg Maro, WBD's Global Head of Franchise, who will leave at the end of year.
+
+============================================================
+[2] Doc Talk At Doc Stories: Podcast Encounters Festival Leaders Anne Lai &#038; Jessie Fairbanks, Filmmakers Sam Pollard, J.M. Harper
+Source: Deadline | Status: expanded | Words: 529
+Published: 2026-11-18T20:30:00+00:00
+URL: https://deadline.com/2026/11/doc-talk-anne-lai-jessie-fairbanks-sam-pollard-jm-harper-1237227326
+------------------------------------------------------------
+SUMMARY:
+Many of documentary’s leading lights gathered in San Francisco this month for Doc Stories, the prestigious four-day festival put on by SFFilm. Oscar winner Laura Poitras, two-time Oscar winner Ben Proudfoot, Oscar nominees Ava DuVernay and Sam Pollard, Sundance directing award winner J.M. Harper and more came to the City by the Bay for what […]
+
+CONTENT / EXTRACTED DETAILS:
+Many of documentary&#x2019;s leading lights gathered in San Francisco this month for Doc Stories, the prestigious four-day festival put on by SFFilm. Oscar winner Laura Poitras, two-time Oscar winner Ben Proudfoot, Oscar nominees Ava DuVernay and Sam Pollard, Sundance directing award winner J.M. Harper and more came to the City by the Bay for what has emerged as an increasingly important event on the nonfiction film calendar.
+
+For a third year in a row, Deadline&#x2019;s Doc Talk podcast joined the festivities. On the latest edition of the pod, we visit with Anne Lai, executive director of SFFilm, and director of programming Jessie Fairbanks for a conversation about the 12th edition of Doc Stories. The festival leaders tell us why they limit the event to a tightly curated lineup of 10 features and two shorts blocs. We also get into the breakout success of the Elizabeth Holmes-focused documentary You Can See Everything and whether it will be embraced by Oscar documentary branch voters, who sometimes sniff at stylistic innovations such as those deployed in Nathan Fielder and Lance Oppenheim's film. Lai tells us why she likens the doc branch to the Electoral College &#x2014; an institution noted for its power to upend the popular vote. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+We also spend time with Pollard to explore his Oscar-contending documentary Tutu , about the late Archbishop Desmond Tutu, who won the Nobel Peace Prize for helping to bring down South Africa&#x2019;s racist system of apartheid. As his film documents, President Nelson Mandela handed an exceedingly difficult task to the archbishop after white rule fell &#x2013; leading a Truth and Reconciliation Commission to come to terms with South Africa&#x2019;s long and brutal history of strict racial segregation. Pollard tells us why he believes the U.S. will never have its own Truth and Reconciliation Commission. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Harper joins Doc Talk along with Pollard, discussing his award-winning documentary Soul Patrol that examines a super-elite all-Black unit in the Vietnam War. At the age of 14, Harper became fascinated by the war, even though it had long since ended by the time he was born. The filmmaker explains why the war has absorbed his focus for so many years, and how his documentary grew out of reading the memoir Soul Patrol , written by Vietnam veteran Ed Emanuel. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+That&#x2019;s on the new episode of Doc Talk hosted by Oscar winner John Ridley ( 12 Years a Slave , Shirley ) and Matt Carey, Deadline&#x2019;s senior documentary editor. The pod is a production of Deadline and Ridley&#x2019;s N&#x14D; Studios.
+
+Listen to the episode above or on major podcast platforms including Spotify , iHeart and Apple .
+
+============================================================
+[3] Newsmax Files Antitrust Lawsuit Against Fox Corp. Over Roku Acquisition
 Source: Deadline | Status: expanded | Words: 208
 Published: 2026-11-18T20:20:33+00:00
 URL: https://deadline.com/2026/11/newsmax-fox-roku-antitrust-lawsuit-1237228360
@@ -23,7 +65,7 @@ Newsmax contends that Roku's Roku Channel with Fox's Tubi have a combined 70% sh
 A Fox Corp. spokesperson did not immediately return a request for comment.
 
 ============================================================
-[2] Florence Pugh Says It's "Disturbing Having My Body Dissected," Slams Surgery and Ozempic Accusations: "Be Mindful"
+[4] Florence Pugh Says It's "Disturbing Having My Body Dissected," Slams Surgery and Ozempic Accusations: "Be Mindful"
 Source: The Hollywood Reporter | Status: expanded | Words: 999
 Published: 2026-11-18T20:17:11+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/florence-pugh-disturbing-body-dissected-surgery-ozempic-1236758648
@@ -59,7 +101,7 @@ She also explained that she's been prioritizing growing muscle because "I think 
 "I&#x2019;ve always been aware that seeing a confident woman be happy in her skin is triggering to a lot of people and for long time just accepted that I will receive commentary like that. But now this..? I&#x2019;m asking us all to just be mindful. We are all real people, living real lives," she concluded.
 
 ============================================================
-[3] How to Watch the CMA Awards (And Taylor Swift's Performance) Live Online
+[5] How to Watch the CMA Awards (And Taylor Swift's Performance) Live Online
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-18T20:16:47+00:00
 URL: https://variety.com/2026/music/news/how-to-watch-cmas-taylor-swift-performance-live-online-1236952238
@@ -81,7 +123,7 @@ The list of artists taking the stage goes on with Cody Johnson, Tim McGraw, The 
 Lainey Wilson returns as host for the third year. Show veteran Robert Deaton returns as executive producer, Alan Carter is back as director and Jon Macks is the telecast&#x2019;s head writer.
 
 ============================================================
-[4] Demon Slayer Was a Huge Disappointment This Year &#038; It’s Not Because of Infinity Castle
+[6] Demon Slayer Was a Huge Disappointment This Year &#038; It’s Not Because of Infinity Castle
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-18T20:14:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-was-a-huge-disappointment-this-year-its-not-because-of-infinity-castle
@@ -105,7 +147,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Avengers: Doomsday Reveals Best Look Yet at X-Men Favorite Ahead of Marvel Return 23 Years in the Making
+[7] Avengers: Doomsday Reveals Best Look Yet at X-Men Favorite Ahead of Marvel Return 23 Years in the Making
 Source: ComicBook.com | Status: expanded | Words: 602
 Published: 2026-11-18T20:13:28+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-reveals-best-look-yet-at-x-men-favorite-ahead-of-marvel-return-23-years-in-the-making
@@ -131,7 +173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Awards Season Calendar 2026-2027: Every Key Date on the Road to the Oscars
+[8] Awards Season Calendar 2026-2027: Every Key Date on the Road to the Oscars
 Source: Variety | Status: expanded | Words: 677
 Published: 2026-11-18T20:05:44+00:00
 URL: https://variety.com/lists/awards-season-calendar-2026-2027-oscars-golden-globes-dates
@@ -307,7 +349,7 @@ Wednesday, June 2: 26th Tribeca Festival begins (through June 13)
 Sunday, June 13: 80th Tony Awards
 
 ============================================================
-[7] Documentary 'Porno Para Ricardo,' About Cuban Punk Musician Gorki, Shows 'the Struggle of a Free Spirit Trapped in a Cage'
+[9] Documentary 'Porno Para Ricardo,' About Cuban Punk Musician Gorki, Shows 'the Struggle of a Free Spirit Trapped in a Cage'
 Source: Variety | Status: expanded | Words: 952
 Published: 2026-11-18T20:03:31+00:00
 URL: https://variety.com/2026/film/global/gorki-porno-para-ricardo-1236952214
@@ -363,7 +405,7 @@ Jakrlov&#xE1;&#x2019;s greatest challenge in completing &#x201C;Porno Para Ricar
 Gorki now resides in Mexico, where he is awaiting a decision on a U.S. visa that would reunite him with his wife, daughter and grandson in Florida, Jakrlov&#xE1; says.
 
 ============================================================
-[8] 'Collect &#038; Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series
+[10] 'Collect &#038; Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series
 Source: The Playlist | Status: summary_only | Words: 106
 Published: 2026-11-18T20:03:05+00:00
 URL: https://theplaylist.net/collect-praise-trailer-druski-netflix-comedy-series-20261118
@@ -375,7 +417,7 @@ CONTENT / EXTRACTED DETAILS:
 Coming off strong viewership hosting " Saturday Night Live " (a two-year high for the late-night sketch show), on-the-rise comedian Druski is behind the new original Netflix comedy series project " Collect & Prais e." The outlandish project sees the funny man, known for pushing buttons and skewing good taste for gut-busting laughs, play a greedy pastor (in the vein of " The Righteous Gemstones "), but with a strong focus on satirizing Black church culture and everything else in between (get out the fainting couch). Continue reading 'Collect & Praise' Trailer: Mega-Popular Comedian Druski Plays Outlandish Money-Hungry Pastor In Netflix Comedy Series at The Playlist.
 
 ============================================================
-[9] New Avengers: Doomsday Footage May Have Confirmed a Massive Rumor About the Opening Scene
+[11] New Avengers: Doomsday Footage May Have Confirmed a Massive Rumor About the Opening Scene
 Source: ComicBook.com | Status: expanded | Words: 576
 Published: 2026-11-18T19:59:53+00:00
 URL: https://comicbook.com/movies/news/new-avengers-doomsday-footage-may-have-confirmed-a-massive-rumor-about-the-opening-scene
@@ -403,7 +445,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Kylie Cantrall Surprises Fans With Private Acoustic Set in Downtown L.A.
+[12] Kylie Cantrall Surprises Fans With Private Acoustic Set in Downtown L.A.
 Source: The Hollywood Reporter | Status: expanded | Words: 965
 Published: 2026-11-18T19:56:56+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/kylie-cantrall-surprise-acoustic-concert-los-angeles-moxy-1236758661
@@ -439,7 +481,7 @@ Valley Girl Problems, released via Republic Records, follows on the heels of her
 Moxy Hotels says that its music series aims to create a space where Gen Z can be connected with artists, events and moments shaping culture.
 
 ============================================================
-[11] The Best Gifts for Musicians and Music Fans in 2026: Fender Guitars, DJ Decks, Vinyl Sets and More
+[13] The Best Gifts for Musicians and Music Fans in 2026: Fender Guitars, DJ Decks, Vinyl Sets and More
 Source: Variety | Status: expanded | Words: 1624
 Published: 2026-11-18T19:53:21+00:00
 URL: https://variety.com/2026/shopping/news/musician-gift-guide-2026-shop-online-1236945286
@@ -495,7 +537,7 @@ Bob Dylan&#x2019;s Rolling Thunder Revue is one of the most famous tours in musi
 For the Tom Petty fanatic in your life, the &#x201C;Origins&#x201D; box set covers the rocker&#x2019;s early years in the 1970s, when he and the Heartbreakers churned out some of the best rock songs of all time, like &#x201C;American Girl&#x201D; and &#x201C;Breakdown.&#x201D; The four-CD set includes 50th-anniversary editions of the band&#x2019;s first two albums and a blistering 1977 set from the Record Plant, as well as a DVD of their 1978 Old Grey Whistle Test appearance, a Blu-ray of Atmos mixes and a 46-page fanzine.
 
 ============================================================
-[12] Netflix to Adapt ‘Grendel’ Comic Books Into Adult Animated TV Series
+[14] Netflix to Adapt ‘Grendel’ Comic Books Into Adult Animated TV Series
 Source: The Hollywood Reporter | Status: expanded | Words: 409
 Published: 2026-11-18T19:50:45+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/netflix-adapt-grendel-comic-books-adult-animated-tv-series-1236758655
@@ -519,7 +561,7 @@ Netflix&#x2019;s adaptation of the series will be executive produced by Chris To
 When it is released, Grendel will join Netflix&#x2019;s library of adult animated shows including BoJack Horseman, Big Mouth , Love, Death & Robots and Mating Season .
 
 ============================================================
-[13] Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
+[15] Academy Museum Unveils Winter Film Series With Colman Domingo, Eli Roth, Jessica Lange and More
 Source: Variety | Status: expanded | Words: 594
 Published: 2026-11-18T19:49:37+00:00
 URL: https://variety.com/2026/film/news/academy-museum-winter-film-series-colman-domingo-sing-sing-1236952141
@@ -549,7 +591,7 @@ Jan. 2-31 &#x2014; Trust the Artists: A Celebration of the Mirisch Company Jan. 
 Feb. 4-15 &#x2014; Unapologetically So &#x2026; Black Queer Women and Femmes on Screen Feb. 6 &#x2014; Spotlight: &#x201C;Veteran&#x201D; (2015) and &#x201C;Veteran 2: I, the Executioner&#x201D; (2024) with Ryoo Seung-wan and Jung Hae-in Feb. 6 &#x2014; Inside Horror: Casting a Final Girl With Terri Taylor Feb. 6 &#x2014; In Focus: Black Horror Stories Feb. 18-28 &#x2014; Shohei Imamura: Below the Horizon Feb. 26 &#x2014; Gallery Spotlight: Archiving the Life of Marilyn Monroe Feb. 27 &#x2014; Finding Your Story Workshop With Carlos L&#xF3;pez Estrada Feb. 28 &#x2014; Drop-In Workshop: Tactile Filmmaking &#x2014; Stop-Motion Animation Inspired by The Horror Show
 
 ============================================================
-[14] Carrie Coon, Nia Long and Women of Awards Season Talk Personal Stories, Playing Real-Life People and More at Variety’s High Tea
+[16] Carrie Coon, Nia Long and Women of Awards Season Talk Personal Stories, Playing Real-Life People and More at Variety’s High Tea
 Source: Variety | Status: expanded | Words: 1890
 Published: 2026-11-18T19:49:30+00:00
 URL: https://variety.com/2026/film/news/variety-high-tea-celebrating-the-women-of-awards-season-1236950562
@@ -625,7 +667,7 @@ While all these talented professionals bring their unique perspectives and lived
 &#x201C;At the end of the day, all of us feel the same things, all of us understand the same things and that is the most powerful thing we carry as women,&#x201D; Long said. &#x201C;We have to have more of those conversations in order to create unity and power among all of us to actually keep creating.&#x201D;
 
 ============================================================
-[15] Vince Lombardi Biopic In Works From Producers James Manera And Massimiliano Musina
+[17] Vince Lombardi Biopic In Works From Producers James Manera And Massimiliano Musina
 Source: Deadline | Status: expanded | Words: 715
 Published: 2026-11-18T19:45:00+00:00
 URL: https://deadline.com/2026/11/vince-lombardi-biopic-1237226964
@@ -657,7 +699,7 @@ Lombardi&#x2019;s personal philosophy of chasing excellence, reaching one&#x2019
 Harris Tulchin of Harris Tulchin & Associates will serve as co-executive producer and provide entertainment legal services for the project.
 
 ============================================================
-[16] Newsmax Sues to Block Fox-Roku Deal
+[18] Newsmax Sues to Block Fox-Roku Deal
 Source: The Hollywood Reporter | Status: expanded | Words: 717
 Published: 2026-11-18T19:38:57+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/newsmax-sues-block-fox-roku-deal-1236758649
@@ -691,7 +733,7 @@ Fox will have the ability to handicap rivals by giving its own services premium 
 The megamerger had been more than a year in the making, though it closed in just five months.
 
 ============================================================
-[17] Angry Caregivers Are Using SNL’s Sister To Call Out Family Members On Social Media
+[19] Angry Caregivers Are Using SNL’s Sister To Call Out Family Members On Social Media
 Source: CinemaBlend | Status: expanded | Words: 470
 Published: 2026-11-18T19:38:45+00:00
 URL: https://www.cinemablend.com/television/snl-sister-social-media
@@ -713,7 +755,7 @@ It’s clear this sketch, which is filled with fun little easter eggs , struck a
 Saturday Night Live is off for a few weeks for the holidays, but it’ll return in early December with the next new episode guest hosted by Amanda Seyfried . Fingers crossed she’s able to give us something that makes even a fraction of the cultural footprint. You can catch previously aired episodes streaming with a Peacock subscription .
 
 ============================================================
-[18] PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release
+[20] PlayStation Network Reportedly Down for Many Just Hours Before GTA 6 Release
 Source: ComicBook.com | Status: expanded | Words: 232
 Published: 2026-11-18T19:36:33+00:00
 URL: https://comicbook.com/gaming/news/psn-playstation-network-down-gta-6-release
@@ -733,7 +775,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] ‘Stick’ Soundtrack: All The Songs You’ll Hear In The Apple TV Golf Series
+[21] ‘Stick’ Soundtrack: All The Songs You’ll Hear In The Apple TV Golf Series
 Source: Deadline | Status: expanded | Words: 315
 Published: 2026-11-18T19:34:58+00:00
 URL: https://deadline.com/feature/stick-soundtrack-songs-owen-wilson-golf-show-1236424017
@@ -769,7 +811,7 @@ Episode 7 - "Dreams Never Remembered"
 Episode 10 - "D&#xE9;j&#xE0; Vu All Over Again"
 
 ============================================================
-[20] Rola Bauer, Executive Producer on Robin Wright's 'The Girlfriend,' Joins Monte-Carlo Television Festival as Creative Director
+[22] Rola Bauer, Executive Producer on Robin Wright's 'The Girlfriend,' Joins Monte-Carlo Television Festival as Creative Director
 Source: Variety | Status: expanded | Words: 1176
 Published: 2026-11-18T19:33:17+00:00
 URL: https://variety.com/2026/tv/global/rola-bauer-monte-carlo-television-festival-1236952076
@@ -825,7 +867,7 @@ C&#xE9;cile Menoni, executive director of the Monte-Carlo Television Festival, s
 &#x201C;The expansion of our advisory board with seven new ambassadors is another important step in this direction. Each of them already knows the festival, shares our attachment to its identity and brings valuable experience, perspectives and connections. Together with Rola, they will contribute to preparing the 2027 edition, developing new international collaborations and reinforcing Monte-Carlo's position as a meeting place for the people and productions shaping the future of television."
 
 ============================================================
-[21] I Found Out Who Voiced Obsession’s One Wish Willow Guy (And Other Cool BTS Details)
+[23] I Found Out Who Voiced Obsession’s One Wish Willow Guy (And Other Cool BTS Details)
 Source: CinemaBlend | Status: expanded | Words: 477
 Published: 2026-11-18T19:30:05+00:00
 URL: https://www.cinemablend.com/movies/who-voiced-obsession-one-wish-willow-guy-bts-details-curry-barker-interview
@@ -849,7 +891,7 @@ One more BTS detail I want to share has to do with what didn’t make it into th
 So, what was that “one thing”? During a Q&A (via Deadline ), Barker revealed it was the scene where Nikki kills Sarah by smashing her head into the steering wheel. Barker said there was originally “about six or seven more smashes." The MPA ratings board was going to give the movie a NC-17 rating because of it. At first, Barker wasn’t happy about making the change, but when he saw the movie with an audience (and heard their reactions), he realized the number they landed on was “the right number” to choose.
 
 ============================================================
-[22] Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11
+[24] Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11
 Source: The Playlist | Status: summary_only | Words: 86
 Published: 2026-11-18T19:25:23+00:00
 URL: https://theplaylist.net/ryan-gosling-project-hail-mary-returning-december-11-20261118
@@ -861,7 +903,7 @@ CONTENT / EXTRACTED DETAILS:
 Phil Lord and Christopher Miller 's crowd-pleasing sci-fi comedy " Project Hail Mary " (an adaptation of the Andy Weir novel, the same author known for " The Martian ") starring Ryan Gosling is going to be heading back to U.S. and Canadian theaters next month ahead of a busy holiday season. Alongside that announcement, the studio has dropped a trailer to help promote the movie's return. Continue reading Ryan Gosling's Charming Sci-Fi Hit 'Project Hail Mary' Returning To Theaters On December 11 at The Playlist.
 
 ============================================================
-[23] Avatar: Seven Havens Isn't Seen as a "Kids Show," Producers Explain
+[25] Avatar: Seven Havens Isn't Seen as a "Kids Show," Producers Explain
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-18T19:22:00+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-isnt-seen-as-a-kids-show-producers-explain
@@ -887,7 +929,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] African TV Giant Primedia Acquires The Africa Channel and Assets, Expanding its Reach Across the Continent and in U.S.
+[26] African TV Giant Primedia Acquires The Africa Channel and Assets, Expanding its Reach Across the Continent and in U.S.
 Source: Variety | Status: expanded | Words: 565
 Published: 2026-11-18T19:21:36+00:00
 URL: https://variety.com/2026/tv/news/primedia-africa-channel-paula-madison-narendra-reddy-1236952164
@@ -917,7 +959,7 @@ Reddy's appointment as CEO is designed to ensure consistency at the firm as the 
 (Pictured: Paula Madison , Narendra Reddy and Nikos Tziotis)
 
 ============================================================
-[25] Everything We Know About ‘Only Murders In The Building’ Season 6 So Far
+[27] Everything We Know About ‘Only Murders In The Building’ Season 6 So Far
 Source: Deadline | Status: expanded | Words: 769
 Published: 2026-11-18T19:19:44+00:00
 URL: https://deadline.com/feature/only-murders-in-the-building-season-6-news-updates-1236600966
@@ -981,7 +1023,7 @@ Tina Fey&#x2019;s Cinda Canning, or someone who looks a lot like her plus a red 
 "The character of Cinda started everything, so we&#x2019;re going back to the beginning. So the nature of what she&#x2019;s doing, what she is doing over in England, doing this thing now, why? I got to know more about it," Hoffman said. "It&#x2019;s an opportunity to tease something that opens up a whole new mystery in the home of the cozy murder mystery, which felt very exciting."
 
 ============================================================
-[26] Obi-Wan Kenobi Simps Would Have Loved To Own This Piece Of Ewan McGregor's Star Wars History
+[28] Obi-Wan Kenobi Simps Would Have Loved To Own This Piece Of Ewan McGregor's Star Wars History
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-18T19:05:00+00:00
 URL: https://comicbook.com/collectibles/news/obi-wan-kenobi-simps-would-have-loved-to-own-this-piece-of-ewan-mcgregors-star-wars-history
@@ -1001,7 +1043,7 @@ While this item is definitely an amazing collectible for fans and Obi-Wan stans,
 Who do you think is the greatest Jedi Master of all time? Let us know in the comments!
 
 ============================================================
-[27] I’ve Been Wondering If A Grand Theft Auto Movie Will Happen, And Someone Finally Asked An Exec
+[29] I’ve Been Wondering If A Grand Theft Auto Movie Will Happen, And Someone Finally Asked An Exec
 Source: CinemaBlend | Status: expanded | Words: 175
 Published: 2026-11-18T19:03:17+00:00
 URL: https://www.cinemablend.com/movies/been-wondering-if-grand-theft-auto-movie-will-happen-someone-finally-asked-exec
@@ -1017,7 +1059,7 @@ While appearing on The David Rubenstein Show , CEO Strauss Zelnick was asked abo
 “Line extensions” are when business use existing products or intellectual property to expand how they can take advantage of markets, like, for example, video game movie adaptations. Take-Two, as Zelnick points out, has been very careful with how they’ve expanded their brands outside of video games. No franchise shows that more than GTA. It seems ripe for adaptation and really has been for decades, but they have yet to pull the trigger. They do seem open to it, though.
 
 ============================================================
-[28] Frida Kahlo Musical In Development With Diane Paulus Directing, Latin Grammy Winner Silvana Estrada Composing Score &#038; Georgina Escobar Writing Book
+[30] Frida Kahlo Musical In Development With Diane Paulus Directing, Latin Grammy Winner Silvana Estrada Composing Score &#038; Georgina Escobar Writing Book
 Source: Deadline | Status: expanded | Words: 678
 Published: 2026-11-18T19:00:25+00:00
 URL: https://deadline.com/2026/11/frida-kahlo-musical-diane-paulus-silvana-estrada-broadway-1237228155
@@ -1049,7 +1091,7 @@ Escobar's work has been produced and developed Off Broadway at INTAR, The New Gr
 Estrada, who will write the new musical's lyrics and music, won a 2024 Latin Grammy Award for for Best New Artist for her debut album Marchita . Her songs include the acclaimed "Si Me Matan," a song addressing gender-based violence, and her second album, Vendr&#xE1;n Suaves Lluvias , was named the No. 3 album on Rolling Stone's Best Latin Albums of 2025 list. Its lead single, "Como un P&#xE1;jaro," has surpassed 30 million streams.
 
 ============================================================
-[29] Scott Speedman To Guest Star On 'Landman' Season 3
+[31] Scott Speedman To Guest Star On 'Landman' Season 3
 Source: Deadline | Status: expanded | Words: 415
 Published: 2026-11-18T19:00:00+00:00
 URL: https://deadline.com/2026/11/scott-speedman-cast-landman-season-3-1237227261
@@ -1069,7 +1111,7 @@ Landman &#xA0;is executive produced by Sheridan, David C. Glasser, David Hutkin,
 Speedman most recently starred as the titular character in ABC's R.J. Decker , which concluded its second season in late October. He also recently appeared in two of the network's popular series, Running Point and Grey's Anatomy , with more yet to come from the latter in Season 23. Speedman is perhaps best known for his roles in the coming-of-age story Felicity and John Wells' Animal Kingdom . His additional credits include Peacock's Teacup, Netflix's You, and ABC's Last Resort. In film, he has appeared in David Cronenberg&#x2019;s Crimes of the Future , Cellar Door, Sharp Stick, Best Sellers, Run This Town, Underworld and Underworld: Evolution , The Strangers, The Vow, Out of the Dark, Dark Blue, and Duets. Speedman is repped by CAA, Untitled Entertainment, and Johnson, Shapiro, Slewett, & Kole.
 
 ============================================================
-[30] Liz Meriwether To Receive ATX TV Festival's 2027 Showrunner Award
+[32] Liz Meriwether To Receive ATX TV Festival's 2027 Showrunner Award
 Source: Deadline | Status: expanded | Words: 283
 Published: 2026-11-18T19:00:00+00:00
 URL: https://deadline.com/2026/11/liz-meriwether-atx-tv-festival-2027-showrunner-award-1237227382
@@ -1087,7 +1129,7 @@ Meriwether is best known for her work as the creator and showrunner of Fox's hit
 The 2027 festival will run from June 3-6 in Austin, TX. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[31] Rose Byrne To Head 2027 Tropfest Jury
+[33] Rose Byrne To Head 2027 Tropfest Jury
 Source: Deadline | Status: expanded | Words: 384
 Published: 2026-11-18T19:00:00+00:00
 URL: https://deadline.com/2026/11/rose-byrne-tropfest-jury-2027-1237228289
@@ -1113,7 +1155,7 @@ The Tropfest Foundation, a not-for-profit organisation launched in 2025, is led 
 &#x201C;I have such fond memories of watching great shorts at Tropfest with thousands of people under the stars in my hometown of Sydney,&#x201D; Byrne said in a statement. &#x201C;I&#x2019;m thrilled to be back to lead the jury in 2027 and can&#x2019;t wait to see what stories Australia&#x2019;s next generation of filmmakers will tell.&#x201D;
 
 ============================================================
-[32] He Lives in Madonna’s Old Mansion. Now He’s Made a Movie About Cambodian Genocide
+[34] He Lives in Madonna’s Old Mansion. Now He’s Made a Movie About Cambodian Genocide
 Source: The Hollywood Reporter | Status: expanded | Words: 569
 Published: 2026-11-18T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/taz-f-stark-movie-cambodian-genocide-al-pacino-1236757944
@@ -1139,7 +1181,7 @@ The once star-studded D.C Kennedy Center Honors evcent is moving to new digs nex
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[33] Will the Kennedy Center Honors Go Full Trump?
+[35] Will the Kennedy Center Honors Go Full Trump?
 Source: The Hollywood Reporter | Status: expanded | Words: 487
 Published: 2026-11-18T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/news/politics-news/kennedy-center-honors-move-trump-name-1236757936
@@ -1165,7 +1207,7 @@ Taz F. Stark used to run the hottest club in London. Today, he&#x2019;s a first-
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[34] 'Furious' Creator Elizabeth Meriwether to Receive ATX TV Festival's 2027 Showrunner Award
+[36] 'Furious' Creator Elizabeth Meriwether to Receive ATX TV Festival's 2027 Showrunner Award
 Source: Variety | Status: expanded | Words: 390
 Published: 2026-11-18T19:00:00+00:00
 URL: https://variety.com/2026/awards/news/furious-liz-meriwether-atx-tv-festival-showrunner-award-1236952111
@@ -1189,7 +1231,7 @@ Meriwether is also known creating the hit Fox single-cam comedy "New Girl," whic
 &#x201C;From the pure joy of 'New Girl,' to the righteous anger of 'Furious,' to the sharp surreality and cultural relevance of 'The Dropout,' there are few writers in television that are willing - and able - to consistently challenge our expectations in the way that Liz's stories do," said Jenn Morgan, head of programming for the ATX TV Festival. "As a showrunner, she continues to prove that creative risks are worth taking, and that collaboration is essential to producing TV that stands the test of time. We&#x2019;re thrilled and honored to have Liz join us next summer, and to celebrate her remarkable career thus far."
 
 ============================================================
-[35] How NBC's Longtime Page Program Has Served as a Key Stepping Stone to Media Leadership
+[37] How NBC's Longtime Page Program Has Served as a Key Stepping Stone to Media Leadership
 Source: Variety | Status: expanded | Words: 1018
 Published: 2026-11-18T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/nbc-page-program-history-stepping-stone-kenneth-1236952075
@@ -1229,7 +1271,7 @@ Once an NBC page has completed a year in the program and worked in three differe
 And that&#x2019;s come true throughout the company, with execs like Hockmeyer. More than 20 years after she was a page, the experience is still top of mind. &#x201C;I could give you a tour of 30 Rock right now,&#x201D; she says. &#x201C;I can tell you about the floating studio floor in 8H, where Arturo Toscanini used to perform. I can still remember a couple of my key talking points!&#x201D;
 
 ============================================================
-[36] Comedian Morgan Jay Launches 'Music Therapy' Show With Guests Kam Patterson, Josh Johnson and More (EXCLUSIVE)
+[38] Comedian Morgan Jay Launches 'Music Therapy' Show With Guests Kam Patterson, Josh Johnson and More (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 583
 Published: 2026-11-18T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/morgan-jay-music-therapy-show-youtube-1236951468
@@ -1261,7 +1303,7 @@ As an actor, Jay's credits include &#x201C;Love Language,&#x201D; &#x201C;Stick,
 Watch the first episode of "Music Therapy" below.
 
 ============================================================
-[37] Nobody Prepared 4DX Audiences for Olivia Colman Having Sex With a Basket
+[39] Nobody Prepared 4DX Audiences for Olivia Colman Having Sex With a Basket
 Source: The Hollywood Reporter | Status: expanded | Words: 389
 Published: 2026-11-18T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/wicker-4dx-watching-experience-1236757950
@@ -1283,7 +1325,7 @@ The 60 participating theaters sold out for the Oct. 28 event (it was extended th
 Taz F. Stark used to run the hottest club in London. Today, he&#x2019;s a first-time director whose harrowing short film is wowing folks like Al Pacino, Bill Nighy and Rufus Swell; The once star-studded D.C Kennedy Center Honors evcent is moving to new digs next month. Will the president&#x2019;s name come along?
 
 ============================================================
-[38] Boy George on His Controversial Israel Trip, Ed Sheeran and the Friends He Lost Along the Way
+[40] Boy George on His Controversial Israel Trip, Ed Sheeran and the Friends He Lost Along the Way
 Source: The Hollywood Reporter | Status: expanded | Words: 1542
 Published: 2026-11-18T18:58:55+00:00
 URL: https://www.hollywoodreporter.com/music/music-features/boy-george-ed-sheeran-macklemore-robert-kraft-israel-1236758564
@@ -1357,7 +1399,7 @@ You have a choice who comes and sits at your dinner table, whether you're a bill
 I told my editor that "Do You Really Want to Hurt Me" is like a Jewish mother song.
 
 ============================================================
-[39] Screen Gems Sees Layoffs Under Newly Appointed Fede Goldenberg
+[41] Screen Gems Sees Layoffs Under Newly Appointed Fede Goldenberg
 Source: Deadline | Status: expanded | Words: 206
 Published: 2026-11-18T18:55:47+00:00
 URL: https://deadline.com/2026/11/screen-gems-layoffs-nathan-samdahl-ellie-walker-1237228290
@@ -1375,7 +1417,7 @@ Reporting to Sanford Panitch, President of Sony Pictures &#x2019; Motion Picture
 THR was first to the news of the cuts at Screen Gems. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[40] Basque Cinema Expands Its (Rapidly) Growing Footprint in Tallinn
+[42] Basque Cinema Expands Its (Rapidly) Growing Footprint in Tallinn
 Source: The Hollywood Reporter | Status: expanded | Words: 1543
 Published: 2026-11-18T18:54:52+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/basque-cinema-spotlight-tallinn-poff-films-caballe-festival-1236758394
@@ -1421,7 +1463,7 @@ She touts the work of David P&#xE9;rez Sa&#xF1;udo, who recently presented the b
 "I would also like to mention Nerea Torrijos, who was the head of costume design on Caball&#xE9; . She is a wonderful example of how Basque talent extends across every area of filmmaking," Ortega adds. This particularly personal testament is indicative of the kind of relationships the Basque audiovisual industry has so far managed to cultivate. Will Tallinn also succumb to the region's undeniable charm?
 
 ============================================================
-[41] One Piece's New Movie Could Change the Anime Forever
+[43] One Piece's New Movie Could Change the Anime Forever
 Source: ComicBook.com | Status: expanded | Words: 843
 Published: 2026-11-18T18:54:00+00:00
 URL: https://comicbook.com/anime/feature/one-pieces-new-movie-could-change-the-anime-forever
@@ -1449,7 +1491,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] 'Grendel' Animated Series Set at Netflix From 'Widow's Bay' Writer Years After Live-Action Adaptation Was Scrapped
+[44] 'Grendel' Animated Series Set at Netflix From 'Widow's Bay' Writer Years After Live-Action Adaptation Was Scrapped
 Source: Variety | Status: expanded | Words: 448
 Published: 2026-11-18T18:53:43+00:00
 URL: https://variety.com/2026/tv/news/grendel-animated-series-netflix-1236952144
@@ -1473,7 +1515,7 @@ Alongside Esfarjani, executive producers include Chris Tongue, Tim Wiesch and Ja
 "Being able to bring a character as iconic as 'Grendel' to life has been a true thrill,&#x201D; said Esfarjani. &#x201C;Having the support of Matt Wagner, my great EPs and the awesome team of Netflix has made it all the more exciting, and partnering with Bobbypills Studio has made it all a true joy.&#x201D;
 
 ============================================================
-[43] ‘Ginny &#038; Georgia’ Sets Season 4 Release Date, Drops First Look Photos
+[45] ‘Ginny &#038; Georgia’ Sets Season 4 Release Date, Drops First Look Photos
 Source: Variety | Status: expanded | Words: 322
 Published: 2026-11-18T18:53:22+00:00
 URL: https://variety.com/2026/tv/news/ginny-georgia-season-4-release-date-1236952146
@@ -1493,7 +1535,7 @@ Starring alongside Howey and Gentry in the fourth season are Felix Mallard, Sara
 See the first look photos below.
 
 ============================================================
-[44] Magic: The Gathering Officially Reveals New Dune Secret Lair Drop With Release Date and Prices
+[46] Magic: The Gathering Officially Reveals New Dune Secret Lair Drop With Release Date and Prices
 Source: ComicBook.com | Status: expanded | Words: 456
 Published: 2026-11-18T18:52:38+00:00
 URL: https://comicbook.com/gaming/news/mtg-magic-the-gathering-secret-lair-dune-release-price
@@ -1517,7 +1559,7 @@ For those who look to purchase all three of these Secret Lair x Dune drops, Wiza
 What do you happen to think about this upcoming Secret Lair release for Magic: The Gathering ? Are you planning to pick up any of these Dune cards for yourself, and if so, which of the three drops do you primarily have your eye on? Be sure to let me know down in the comments section.
 
 ============================================================
-[45] Tyler Posey Joins Netflix's 'Myron Bolitar' Series Adaptation As Recurring Guest
+[47] Tyler Posey Joins Netflix's 'Myron Bolitar' Series Adaptation As Recurring Guest
 Source: Deadline | Status: expanded | Words: 495
 Published: 2026-11-18T18:52:00+00:00
 URL: https://deadline.com/2026/11/tyler-posey-cast-myron-bolitar-netflix-series-1237228212
@@ -1545,7 +1587,7 @@ In addition to acting, Posey has also directed episodes of Teen Wolf and runs hi
 He is represented by IAG, Luber Roklin Entertainment and attorney Rick Genow.
 
 ============================================================
-[46] Why GTA 6 Doesn’t Have Prostitutes According to Rockstar &#038; the Answer May Not Satisfy Some Fans
+[48] Why GTA 6 Doesn’t Have Prostitutes According to Rockstar &#038; the Answer May Not Satisfy Some Fans
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-18T18:50:32+00:00
 URL: https://comicbook.com/gaming/news/why-gta-6-doesnt-have-prostitutes-according-to-rockstar-the-answer-may-not-satisfy-some-fans
@@ -1571,7 +1613,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] ‘Madden’ Review: David O. Russell’s Manic, Gonzo Football Folly Is WTF, Fascinating &#038; Too Bizarre To Look Away From
+[49] ‘Madden’ Review: David O. Russell’s Manic, Gonzo Football Folly Is WTF, Fascinating &#038; Too Bizarre To Look Away From
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-18T18:48:36+00:00
 URL: https://theplaylist.net/madden-review-david-o-russell-nicolas-cage-christian-bale-20261118
@@ -1583,7 +1625,7 @@ CONTENT / EXTRACTED DETAILS:
 Seemingly still canceled, persona non grata in the social media world, yet somehow commanding Oscar-winning A-list actors and convincing major studios to back his increasingly eccentric and erratic films, five-time Oscar-nominated filmmaker David O. Russell continues to fascinate, even as his career veers further off the rails. Following the too-whimsical “ Amsterdam ,” where the wheels first started to wobble, his latest curb-lurching swerve is “ Madden ,” a bizarre manic episode. Continue reading ‘Madden’ Review: David O. Russell’s Manic, Gonzo Football Folly Is WTF, Fascinating & Too Bizarre To Look Away From at The Playlist.
 
 ============================================================
-[48] The MCU’s Multiverse Saga Should Have Included These Alternate Earths (and It’s Not Too Late)
+[50] The MCU’s Multiverse Saga Should Have Included These Alternate Earths (and It’s Not Too Late)
 Source: ComicBook.com | Status: expanded | Words: 1343
 Published: 2026-11-18T18:47:07+00:00
 URL: https://comicbook.com/uncategorized/list/the-mcus-multiverse-saga-should-have-included-these-alternate-earths-and-its-not-too-late
@@ -1621,74 +1663,4 @@ What alternate Marvel Earths do you want to see in the MCU? Do you think Marvel 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Does Georgia Still Want to Be the Hollywood of the South?
-Source: The Hollywood Reporter | Status: expanded | Words: 1038
-Published: 2026-11-18T18:46:46+00:00
-URL: https://www.hollywoodreporter.com/business/business-news/georgia-hollywood-superman-film-tv-1236758433
-------------------------------------------------------------
-SUMMARY:
-At a time when the fight for productions is fierce, new governor Keisha Lance Bottoms faces a major question - and challenge.
-
-CONTENT / EXTRACTED DETAILS:
-A few years ago, if you wanted to shoot a movie in Georgia, you&#x2019;d better have made your reservations early.
-
-The lack of an annual cap on credit payouts, the solid 30 percent rebate, the allowance of (some) above-the-line expenses, and the lower cost of housing compared with New York and California made it so that every inch of the state&#x2019;s 21st century studio space and hotel inventory could get booked up.
-
-MacGyver , Ozark , Stranger Things , The Resident and nearly every significant Marvel TV and film project were all among those calling Georgia home even when many of their stories were set elsewhere. And then there was Tyler Perry&#x2019;s Fort McPherson studio and its 50,000 square feet of permanent sets, which opened in 2019 and housed numerous projects. The state&#x2019;s film and TV growth was astronomical &#x2014; over barely a dozen years beginning in 2010, studio square footage went from 45,000 all the way to 3 million.
-
-But while Perry continues to book productions at his landmark location, Hollywood activity has thinned markedly in the Peach State since 2022. The Georgia Film Office reports that production spend has cratered from a peak of $4.4 billion in 2022 to $2.3 billion in 2025 &#x2014; hardly peanuts ( Will Trent , The Rock&#x2019;s Lizard Music and Judd Apatow&#x2019;s The Comeback King have been among recent shoots) but a major fall. Total productions saw a similar drop, from 412 to 245.
-
-And the numbers continue to sink. Industry tracker ProdPro says that Georgia saw about $1.56 billion in film and TV production spend in the 12 months ending in September, down 15 percent from $1.84 billion in the prior 12-month period.
-
-There have been other worrisome developments. Lee Thomas, longtime head of the Georgia Film Office and the major force behind the surge, announced her retirement this summer. Her replacement has not been named. And then in early November, another blow: James Gunn, who famously loved Georgia and brought DC projects like Peacemaker and Superman to the sprawling Trillith Studios in Fayetteville, was ousted as head of the superhero division under new Skydance ownership.
-
-Gunn&#x2019;s love affair with Georgia runs deep; he shot the first two Guardians of the Galaxy movies for Marvel and even owned a home there. The director's big-budget Superman sequel Man of Tomorrow alone, which shot in the state this summer, gave Georgia its best production spend quarter for new shoots since early 2024, ProdPro notes. But his successor, Jeremy Latcham, and Latcham&#x2019;s boss, David Ellison, could shop for preferred alternatives with less allegiance to the past.
-
-Of course, there&#x2019;s an overall decline in streamer and studio projects in the post-strike and -COVID era. And there have been bright spots even in Georgia, such as reeling in American Idol from Los Angeles to shoot its upcoming season in the state. But overall the news has been dark.
-
-One big culprit of the Georgia drop? Generous tax credits overseas. A prominent TV producer says the location conversation with studios these days always starts with Budapest, then moves to Ireland before going to England. Marvel itself largely decamped for the U.K. in 2024. That puts Georgia in a tough spot.
-
-This could change if a federal tax credit can gain momentum and pass in the new congressional session. But such a passage is far from guaranteed, and it still might not induce projects to come home. And New York is proving a formidable American rival to Georgia, seeing gains in many key metrics, with plenty of studio space being built in New Jersey to augment the effort.
-
-Georgia&#x2019;s lame-duck Republican governor and legislature are unlikely to follow through on longtime threats to reduce the credit before leaving office next month. But whether a new Democratic state house and new Democratic Gov. Keisha Lance Bottoms can or will reenergize the business remains an open question. One question: the new film commissioner could work under Pat Wilson, the state&#x2019;s longtime commissioner of economic development &#x2014; or Bottoms could find someone to replace Wilson. (Thomas will do some contract work in the meantime.)
-
-A Georgia unraveling would spell more than an employment loss. Georgia crews tend to be more diverse than those in New York and Los Angeles, in particular with many Black women occupying positions they don&#x2019;t hold in other places. And when the new soap opera Beyond the Gates won the Daytime Emmy for lighting direction in October, the winners were both Black men, a rarity in the category.
-
-One encouraging sign for Georgia crews and the state&#x2019;s Hollywood allies: Perry&#x2019;s place in the Lance Bottoms administration. He was named to her transition team right after the election. But she has downplayed what that meant. &#x201C;I think what people miss,&#x201D; she told the popular morning program Yung Joc & The Streetz Morning Takeover when a host asked about the Perry appointment, &#x201C;is that these are just co-chairs &#x2026; we&#x2019;ll probably have 100 more.&#x201D; Lance Bottoms could have other priorities for tax money than putting it in producers&#x2019; pockets; the state recently ranked 49th in health care in one prominent annual study.
-
-During his successful reelection bid, Democratic senator Jon Ossoff faced criticism from opponent Mike Collins that he was more concerned with Hollywood, California than [the small town of] Hollywood, Georgia, a criticism Lance Bottoms could be sensitive to as well.
-
-And Perry himself is actually about to move to Puerto Rico to be closer to his son. He says activity at his studio will continue unabated, but what this all means for him and his Georgia advocacy remains to be seen. On the red carpet for his Tyler Perry&#x2019;s The Gospel of Christmas recently he didn&#x2019;t seem especially eager to talk about the credit. Asked about its future, he told THR , "Well as great as that's been [and it] has been amazing, for me, my focus is being pro-Georgia, and Keisha is pro-Georgia. So I want to make sure that businesses, people are taken care of."
-
-The state's Hollywood advocates could take comfort in at least one fact: AI hasn&#x2019;t cut into physical production in Georgia &#x2014; yet.
-
-This story appeared in the Nov. 12 issue of The Hollywood Reporter magazine. Click here to subscribe.
-
-============================================================
-[50] Santa Barbara Film Fest: Penélope Cruz Set for Arlington Artist of the Year Award (Exclusive)
-Source: The Hollywood Reporter | Status: expanded | Words: 549
-Published: 2026-11-18T18:41:59+00:00
-URL: https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-penelope-cruz-arlington-artist-2027-1236758189
-------------------------------------------------------------
-SUMMARY:
-The Oscar winner is having a banner year highlighted by standout performances in 'Bunker,' 'The Invite' and 'La Bola Negra.'
-
-CONTENT / EXTRACTED DETAILS:
-Pen&#xE9;lope Cruz, the Oscar-winning actress whose 2026 credits include the Sundance sensation The Invite , Toronto audience award winner La Bola Negra and forthcoming Bunker , has been tapped by the Santa Barbara International Film Festival to receive its Arlington Artist of the Year Award, The Hollywood Reporter can exclusively report.
-
-Cruz, the most celebrated Spanish film actress of all time and one of only a handful of Europeans who have become bona fide A-list stars in Hollywood, will collect her award at Santa Barbara's historic Arlington Theatre on Thursday, Feb. 11, 2027. It will be presented to her by a special guest at the end of an evening of clips and conversation about her entire career, which will be moderated by SBIFF fest executive director Roger Durling. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Movies IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees Movies 'The Odyssey' to Receive Ensemble Performance Award at Palm Springs International Film Festival (Exclusive)
-
-"Over the past three decades, Pen&#xE9;lope has evolved into one of cinema's most surprising and revelatory performers," Durling tells THR . "Witnessing her growth as an artist, and the depth and maturity she has brought to each new role, has been nothing short of extraordinary."
-
-Over the 34 years since Cruz's big screen debut in the Spanish film Jamon, Jamon opposite Javier Bardem, who is now her husband, she has consistently done extraordinary work on both sides of the Atlantic. She is probably best known, though, for her seven collaborations with the great Spanish auteur Pedro Almod&#xF3;var: 1997&#x2019;s Live Flesh , 1999&#x2019;s All About My Mother , 2006&#x2019;s Volver , 2009&#x2019;s Broken Embraces , 2013&#x2019;s I&#x2019;m So Excited! , 2019&#x2019;s Pain and Glory and 2021&#x2019;s Parallel Mothers . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-The only person who has won at least one acting award from each of the five most prominent European film academies, she also has starred in two films that won the best international feature Oscar (1992&#x2019;s Belle Epoque and All About My Mother ), became the first Spanish actress ever to be nominated for an acting Oscar (for Volver ), subsequently received three additional acting Oscar noms (for 2008&#x2019;s Vicky Cristina Barcelona , 2009&#x2019;s Nine and Parallel Mothers ), and became, in 2009, the first &#x2014; and, to this day, only &#x2014; Spanish actress to win an acting Oscar (for Vicky Cristina Barcelona ).
-
-But never has Cruz had a single year quite like 2026, in which she has given three great performances: as a bohemian sexologist Olivia Wilde&#x2019;s The Invite (A24); as a bawdy cabaret singer entertaining troops during the Spanish Civil War in Javier Ambrossi and Javier Calvo&#x2019;s La Bola Negra (Netflix); and as a book editor enduring marital strife in Florian Zeller&#x2019;s Bunker (Sony Classics).
-
-The Arlington Artist of the Year Award, named after the theater that has always been SBIFF's marquee venue, was created in 2025. The honor was presented to Timoth&#xE9;e Chalamet in 2025 and Kate Hudson earlier this year.
-
-The 42nd edition of SBIFF will take place Feb. 3-13, 2027.
 
