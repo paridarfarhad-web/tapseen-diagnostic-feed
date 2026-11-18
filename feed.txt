@@ -1,9 +1,319 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T13:45:35.216Z
+Last Updated: 2026-11-18T14:01:39.569Z
 Website: https://tapseen.com
 
 ============================================================
-[1] IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000
+[1] New 'Friday The 13th' Movie Unveils Cast, Title &#038; Release Date
+Source: Deadline | Status: expanded | Words: 920
+Published: 2026-11-18T14:00:00+00:00
+URL: https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: We recently announced the first Friday the 13th film in nearly two decades — and now, we have new details on the project, which wraps production today. The film, directed by the previously announced Steve Miner, is titled Jason. It's slated for a worldwide theatrical release on Friday, Aug. 13, 2027, with Cineverse overseeing […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: We recently announced the first Friday the 13th film in nearly two decades &#x2014; and now, we have new details on the project, which wraps production today.
+
+The film, directed by the previously announced Steve Miner, is titled Jason . It's slated for a worldwide theatrical release on Friday, Aug. 13, 2027, with Cineverse overseeing its North American distribution.
+
+The ensemble cast is led by Schuyler White ( Haunt ) as Jason Voorhees, the enigmatic masked murderer at the heart of the slasher series, and Natalie Alyn Lind ( Dutton Ranch ) as &#8220;final girl&#8221; Lauren.
+
+Others in the cast include Matt Cornett ( Every Year After ) as Asher, Lilia Buckingham ( Hocus Pocus 2 ) as Madison, John Owen Lowe ( Unstable ) as Jake, Summer Madison ( The Summer I Turned Pretty ) as Emily, Selena Turner ( Will Trent ) as Olive, Matthew Keoni Sato ( High School Musical: The Musical: The Series ) as Lucas, Brook Sill ( Stranger Things ) as Zoe, Guillermo Diaz ( Scandal ) as Rick, Johnell Young ( Wu-Tang: An American Saga ) as Frank, Sencere Messiah Brown ( Homage ) as Chase and Bryan Gael Guzman ( Nickel Boys ) as Dylan. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+White, a stunt coordinator and special effects artist, returns to the role of Jason after playing him in the recent short Sweet Revenge made to commemorate the 45th anniversary of Jason Universe.
+
+On the decision to cast him here, franchise steward Robbie Barsamian told us, &#8220;We spent months thinking about how to create the scariest, most imposing Jason and who truly deserved to wear the mask. Beyond his towering physical presence, we knew Schuyler understood what makes Jason tick&#x2014;and that he had the work ethic and genuine respect for this franchise to get it right. He approached this theatrical feature like the role of a lifetime, packing 30 pounds of solid muscle onto his 6'5&#8243; frame and studying the iconic Jasons who came before him so that he feels like an unstoppable force of nature. On set, we framed him low and tight, so the audience is right there in his space, looking up at him. This will be the most intimidating Jason that has ever been on screen.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+On casting Lind &#x2014; an actress seen on Dutton Ranch , The Goldbergs and Big Sky &#x2014; as the franchise's new final girl, Barsamian said, &#8220;Natalie is not only an excellent actress and incredibly hardworking, but also one of the biggest horror enthusiasts and fans of this franchise. When you put all that together you get something special. This franchise has had many strong female leads, but her performance might just be the strongest this franchise has ever had.&#8221;
+
+Jason marks the 13th entry of Friday the 13th , an iconic horror franchise that launched with a namesake 1980 slasher. Working from a script by emerging screenwriter David Fliegel, Miner returned to the director's chair after introducing Jason's machete in Friday the 13th Part II and unveiling his hockey mask for the first time in Friday the 13th Part III . The film was made independently to afford the Barsamian family, which financed and produced and control the franchise through their company Horror, Inc., total creative control.
+
+Directed by Sean S. Cunningham, the original Friday the 13th watches as a group of counselors at Camp Crystal Lake, preparing to reopen the summer camp, are stalked and killed by an unseen assailant, while the memory of a boy who drowned there years earlier hangs over the grounds. Produced independently for roughly $550,000 and acquired by Paramount in a bidding war, the film provided the foundation for a durable, low-budget sequel machine, with Paramount releasing early entries and and Warner Bros./New Line joining as distributor from the '90s on. The original film surprised with the revelation of ( SPOILER ) matriarch Pamela Voorhees as the murderous antagonist, while later entries embraced the machete-wielding Jason himself as the franchise's terrifying driving force.
+
+Over the decades, Friday the 13th has spawned video games, immersive experiences, comic books, collectibles, apparel and more, alongside the films. Horror, Inc. launched the Jason Universe to usher in a new era of expansion in the franchise in 2024, and most recently, the franchise has been back in circulation via Crystal Lake , Peacock and A24's prequel series, which premiered all eight episodes on Oct. 15.
+
+White is repped by Brand in Motion; Lind by CAA, Authentic and Brecheen Feldman Breimer; Cornett by Gersh, LBI Entertainment and Walter Entertainment & Media Law; Buckingham by Buchwald and Industry Entertainment; Lowe by UTA, Untitled and Latham & Watkins; Madison by Formation Talent Agency, Kevin Donahue Management and Hansen, Jacobson, Teller; Turner by Paradigm, Play Management and Forward Talent; Sato by Buchwald and Skrzyniarz & Mallean; Sill by Griffin Talent and Luber Roklin Entertainment; Diaz by Innovative; Young by Eris Talent Agency, Stride Management and Nelson Davis; Brown by Avenue Agency; and Guzman by Formation Talent.
+
+============================================================
+[2] Radial Taps Nacelle Company For 'Icons Unearthed' Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino &#038; 'Transformers'
+Source: Deadline | Status: expanded | Words: 676
+Published: 2026-11-18T14:00:00+00:00
+URL: https://deadline.com/2026/11/radial-entertainment-icons-unearthed-docs-1237227824
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Radial Entertainment has tapped with The Nacelle Company for Icons Unearthed pop-culture docs about Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino and Transformers. The deal comprises Icons Unearthed: Transformers, Icons Unearthed: Harrison Ford Movies, Icons Unearthed: Arnold Schwarzenegger Movies and Icons Unearthed: Quentin Tarantino Movies – all of which be branded as Radial Originals. Each […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Radial Entertainment has tapped with The Nacelle Company for Icons Unearthed pop-culture docs about Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino and Transformers .
+
+The deal comprises Icons Unearthed: Transformers , Icons Unearthed: Harrison Ford Movies , Icons Unearthed: Arnold Schwarzenegger Movies and Icons Unearthed: Quentin Tarantino Movies &#x2013; all of which be branded as Radial Originals.
+
+Each title comprises six hour-long episodes, making a total of 24. Rather than launching as a series, each title will release as a standalone offering. Related Stories News Radial Entertainment Completes Busy MIPCOM Week With 'Making A Serial Killer' Season 3 Order News 'World's Most Evil Prisoners' Becomes Radial Original For Season 4
+
+The Nacelle Company has been making and selling Icons Unearthed docs since 2022, with previous seasons of the Brian Volk-Weiss-created show playing on the likes of Vice TV and Amazon Freevee. They have covered topics such as Star Wars , the Marvel Universe and James Bond . The shows included in the Radial deal were made for latter seasons of the franchise. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Icons Unearthed: Transformers will races the famous franchise from Hasbro's search for a hit toy line and its collaboration with Marvel Comics through to the animated stories, Michael Bay's blockbuster films and the subsequent big-screen reinvention. Glenn Morshower, who played two separate characters in the Transformers movies, will contribute.
+
+Icons Unearthed: Harrison Ford Movies follows the actor's path from carpenter to leading man, exploring his work with George Lucas and Blade Runner and the evolution of his action-star persona through films including Patriot Games , Clear and Present Danger and Air Force One . Alison Doody, who appeared with Ford in Indiana Jones and the Last Crusade , features.
+
+Icons Unearthed: Arnold Schwarzenegger Movies charts the star's journey from championship bodybuilding to Hollywood, looking at his breakthrough roles, action-film collaborations and move into comedy with Twins and True Lies . It will feature Jesse Ventura, who starred with Schwarzenegger in Predator and The Running Man and similarly went into politics. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Icons Unearthed: Quentin Tarantino Movies explores the filmmaker's rise from video-store clerk to Oscar-winning Hollywood auteur, along with how his passions for kung-fu and Westerns have influenced his work. The career-spanning series covers Reservoir Dogs , Pulp Fiction , True Romance , Natural Born Killers , From Dusk Till Dawn , Kill Bill , Inglourious Basterds and Django Unchained , and features Bronson Pinchot, who acted in True Romance .
+
+&#8220;Our first pop-culture factual series is about going behind the screen to explore how iconic films and franchises took shape,&#8221; said David Buoymaster, Chief Investment Officer at Radial, which has a deep catalog of shows of films and shows launched across various platforms.
+
+"Nacelle is the perfect partner to bring that ambition to life through four distinct Icons Unearthed titles, each with the space to tell its own story. From Transformers to the films of Ford, Schwarzenegger and Tarantino, we're excited for our platform partners and pop-culture fans to discover the creative choices, collaborations and business decisions behind these screen legacies."
+
+&#8220;We couldn't be more thrilled to partner with Radial Entertainment to bring these new seasons of Icons Unearthed to the audience," added Nacelle CEO Brian Volk-Weiss. "These shows are packed with the kind of brand-new, behind-the-scenes stories and nostalgia fans love, and Radial is the perfect partner to help them reach even more viewers."
+
+The deal was negotiated by Katie Carroll, Director, Originals & Business Development at Radial Entertainment, and Hud Woodle, VP International Sales at The Nacelle Company.
+
+============================================================
+[3] Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul
+Source: The Hollywood Reporter | Status: expanded | Words: 2977
+Published: 2026-11-18T14:00:00+00:00
+URL: https://www.hollywoodreporter.com/lifestyle/style/alix-earle-interiew-tiktok-beauty-brand-reale-actives-1236757261
+------------------------------------------------------------
+SUMMARY:
+She showed 8 million followers her flaws, then sold them the fix. Inside the 25-year-old’s sold-out, no-days-off skin care business.
+
+CONTENT / EXTRACTED DETAILS:
+Keeping up with Alix Earle is beyond the capacity of most mere mortals. Over the past year alone, Earle could be found delivering a perfect foxtrot on Dancing With the Stars weeks before shimmying alongside Pedro Pascal and Cardi B on Bad Bunny's Super Bowl Halftime Show; vibing to Lady Gaga's Coachella set and hours later lecturing a Harvard Business School class about the creator economy; falling in sky-high platforms at Kendall Jenner's L.A. Halloween party, then strolling New York's CFDA Awards red carpet (bruises hidden) in a gown styled by Law Roach. For weeks this summer, she cruised in a yacht along the Sardinia coast with Kylie Jenner BFF Stassie Karanikolaou, flying to Los Angeles for the Sept. 1 premiere of her Netflix reality series Earle Meets World (a global top 10 debut just renewed for a second season), all while weathering headlines about a rumored fling with Tom Brady and the messy fallout of a business rift with Call Her Daddy &#8216;s Alex Cooper. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Lifestyle Oprah's Favorite Things 30th Anniversary List Includes Actor-Owned Apparel, Celeb-Approved Skin Care and More Lifestyle The 5 Best Red Light Therapy Panels for Improving Your Health At-Home
+
+The quickest way to locate this 25-year-old jet-set influencer is, of course, on TikTok , where her videos have attracted 8.7 million followers, with each post garnering view counts in the millions (not to mention 1.7 billion likes) for documenting all of the above in real time. Her meteoric rise on social media kicked off during the pandemic, filming &#8220;get ready with me&#8221; makeup tutorials in between marketing classes, wild party nights, battles with anxiety and a breast-implant &#8220;boobaversary,&#8221; while she attended the University of Miami. She reads as a sorority girl, but IRL, her vibe is more tough-cookie-from-a-Jersey-construction-family who exudes the kind of warmth that might have you bellied to the bar, sipping margs and having a kiki. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+At the moment, though, seated in a sunny conference room inside Reale Actives' Beverly Hills office, she's taking her magnetic energy and putting it to work on keeping her winning streak alive.
+
+Less than eight months ago, on March 31, Earle launched Reale Actives, a skin care brand formulated in collaboration with dermatologist Kiran Mian and tailored for sensitive and acne-prone skin. Developed in secret for two years, the four-product launch drew a record-breaking response from Earle's online community &#x2014; a fiercely supportive tribe, particularly after she shared a years-long, psychologically debilitating struggle with cystic acne. It generated $1 million in sales in less than five minutes. By midday, sales hit $5 million, and by 4 p.m., all products and sets had sold out completely.
+
+It's nearly lunchtime on a late-October day, and Earle, at the head of the table, is introducing five members of her team: CEO Andrea Blieden, director of influencer marketing and partnerships Katie Clementi, brand director Brianna Ellis-Mitchell, social director Logan Reynolds and, on Zoom, chief marketing officer Amanda Goetz. By year's end, there will be 23 full-time employees across two office floors.
+
+The brain trust is gathered to evaluate a top-secret item that will hit Reale Actives' site in March to mark the brand's one-year anniversary. Will it fit in with the rest of the product line, including the recently launched Go Calm serum? Is it giving REI? Does it need more branding? Maybe a free gift with purchase or a fun slogan? (&#8220;Zit girl&#8221; could work, but men buy the products, too, so maybe &#8220;dirty thoughts, clean skin&#8221;?) Do we like the shape? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Everyone weighs in. &#8220;Yes, I have my own opinions,&#8221; Earle says after the meeting ends, &#8220;but I trust their points of view. We all want the same thing: Everything we put our name on and ask our community to purchase with their hard-earned money must be the best product with the best quality.&#8221;
+
+Blieden, whose r&#xE9;sum&#xE9; includes executive posts at Kiehl's and The Body Shop, says Earle is totally dialed in and personally tests samples nonstop. &#8220;We have nine different text channels that include Alix,&#8221; she says. &#8220;She's not like other celebrity or influencer founders. She is truly involved.&#8221; True to form, Earle connects directly with her consumers whenever she can. &#8220;I've seen her in every situation when people approach her, and she always stops to talk, introduce herself and get names. She gets addresses and sends product,&#8221; says the CEO. Once, when a user was having a hard time with breakouts, Earle had the company fly the fan to New York for a consultation with the Reale Actives dermatologist. All this while assiduously keeping up her prolific content creation, often with multiple posts daily. The day I visited, Earle posted a GRWM video that featured her putting on makeup and selecting an office fit for our interview: a gray cashmere sweater and pants, Saint Laurent Brigitte patent pumps and a Mombasa purse. It has since been viewed 1.3 million times.
+
+&#8220;If you were to ask me, at any point before I was doing anything on social media, what I would want my career or end goal to be, I would have said having a brand of my own,&#8221; says Earle. &#8220;My dad and his brothers have a construction company together, and seeing how passionate they are about it has always been inspiring. I didn't know exactly what kind of company I wanted or that it would come so early for me. The second I got this massive opportunity online, it was great &#x2014; but I also understood that it can be fleeting. You have relevancy one moment, and it's gone the next.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Earle's father, Thomas &#8220;TJ&#8221; Earle, says he never doubted his daughter's ability to achieve a goal. &#8220;In her youth, she was a terrible basketball player, but she didn't care. She was really small, but she went out there and gave it 100 percent. It didn't matter that people thought she wasn't good at it,&#8221; says TJ, who heads up Earle construction while managing the careers of Alix and her influencer sister, Ashtin. (Alix is repped by a powerful team that also includes senior agents at UTA and attorney Kevin Yorn.) &#8220;She did the same on TikTok. She was always giving the camera to somebody and asking them to take videos of her wherever we went. We all made fun of her and gave her the nickname &#8216;TikTok.' She knew she wanted to do it and just kept powering through.&#8221;
+
+TJ recalls Alix, while still in college, calling home excitedly to say that brands were offering her $250 for sponsored posts. These days, she reportedly commands between $250,000 and $500,000 per post for a one-off brand collab. While TJ won't confirm exact figures, he says all her deals have one common denominator: &#8220;It always comes down to whether or not she truly likes it.&#8221; If she really likes it, he says she may &#8220;even do it for free.&#8221; Recently, Earle agreed to a deal to promote what she later said on TikTok was a foundation, but after trying the product, she realized she couldn't in good faith endorse it. She told her agent to cancel the contract. &#8220;In some way, it feels so silly to be throwing away insane amounts of money,&#8221; she says, &#8220;but I really do just believe in longevity and maintaining that trust with my audience.&#8221; (Earle endorses and backs Cymbiotika supplements, GORGIE energy drink, SipMargs margaritas and was an early investor in Poppi, which sold to PepsiCo for $1.95 billion.) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Before launching Reale Actives, Earle fielded offers to become the face of several brands, deals that came with the freedom to claim she &#8220;did everything&#8221; to build it but meant she didn't have to lift a finger beyond signing her checks. It never interested her. &#8220;This started as a concept in my head, and I want to be a part of every single little decision and detail,&#8221; Earle says. &#8220;The team does a great job of taking some of the front load off so that when we get in here, there are already different directions we can choose to go in.&#8221;
+
+Earle does the hiring interviews herself. &#8220;The first two roles I interviewed were for a CEO and dermatologist. I'd just graduated college, so I was trying to find people who would share the same passion for the brand because I didn't know how to rate their experience since I didn't have any.&#8221; Blieden says she interviewed with Earle four times, put together a project presentation and underwent a surprise test. &#8220;It had come down to me and another candidate, and on a Saturday, Alix sent us each a text message that said, &#8216;Hey, I've been thinking about some stuff about the brand. Would love to discuss it with you,' &#8221; recalls Blieden. &#8220;I responded in 1.2 seconds because I was so excited. I guess the other person responded Monday.&#8221;
+
+The hustle culture may not be for everyone, but there are no days off on social media. &#8220;She is lovely to work with, but she's a beast and doesn't mess around,&#8221; says the CEO. Adds TJ: &#8220;If you look at her calendar, it's filled seven days a week, crisscrossing the country, meetings, events, photo shoots. Nobody could keep up with her pace. She's just an animal.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid5' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Earle describes scrapping the launch video they'd &#8220;spent so much time and budget on.&#8221; The clip was just &#8220;vibes,&#8221; nothing memorable. They jettisoned it for a nearly nude video featuring Earle dripping wet, unretouched &#x2014; as all Reale Actives imagery has been since &#x2014; to normalize imperfect skin. &#8220;I wanted people to think that two things can coexist: The line can be efficacious for your skin, but it can also be daring, fun and sexy. Skin care doesn't have to be clinical and boring.&#8221;
+
+The rollout ran on Earle's knack for turning fans into co-conspirators, beginning with an Instagram account, @wtfisalixdoing, that dropped hints about the launch and continuing with influencers receiving locked suitcases containing a single puzzle piece, and a blank billboard in New York's SoHo that put the pieces together one by one until the puzzle was completed, at which time creators received codes for unlocking the Reale Actives swag inside their suitcases. The award-winning campaign spanned a week, after having been fueled for weeks prior by Easter eggs on Earle's social accounts.
+
+Nick Brown, co-founder of venture capital firm Imaginary, which backs the brand and has also invested in Kim Kardashian's Skims, Glossier, Farfetch and Tom Holland's Bero, explains what has become known as &#8220;the Alix Earle Effect.&#8221; &#8220;You can count on a very small number of hands the number of times a creator has been able to move product at such a force that you start to realize it as an investor,&#8221; he says. &#8220;It's seismic and not one-off. I kept seeing her do this &#x2014; for mass brands, masstige brands, luxury brands, in beauty and in apparel. She really has a deep understanding for the brands she connects with and, more specifically, the connection between her own passion and what her audience will respond to. That's why it's organic and works so well.&#8221; Brands that enjoyed the boom included Giorgio Armani Beauty, Drunk Elephant, Patrick Ta Beauty, Charlotte Tilbury, Mielle Organics and NYX Makeup. Now that she's applied her magic touch to Reale Actives, Brown confirms the business is already &#8220;very profitable&#8221; less than a year in and, he forecasts, is well on its way to becoming &#8220;a multi-hundred-million-dollar net revenue business.&#8221; Likening Reale Actives to Hailey Bieber's Rhode and Selena Gomez's Rare Beauty, he says, &#8220;She is constantly thinking about how to turn left, create an element of surprise and do something that's a slightly different riff on what's been done, enough to make people stop and say, &#8216;That was really cool.' She is otherworldly when it comes to that.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid6' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Despite what may seem like a charmed path to a reported $20 million net worth (so far), Earle has hit some speed bumps, facing criticism that it was her several rounds of Accutane, long considered a silver bullet, and not Reale Actives that cleared her skin. &#8220;I knew that was coming,&#8221; she says matter-of-factly. &#8220;But [the criticism] was not something I was afraid of because the truth is the truth. After I finished Accutane for the third time, my skin went back to being a mess and was probably worse than ever before. The moment that people started talking about it, I made a video and I showed my skin journey and was like, &#8216;Here's before I did Accutane, here's after I did Accutane, here's before I started the products and here's after I started the products.' I have nothing to hide. I'm not lying. I actually use these products and nothing else.&#8221;
+
+Earle also bore the brunt of the &#8220;negativity bandwagon&#8221; when she surfaced videos of her long (by American standards) European summer holiday. &#8220;Things got so negative this summer that it really helped me thicken my skin and gain a little bit more confidence in myself, knowing that you're not going to be able to correct every narrative out there,&#8221; she says. &#8220;As a female founder, people want to put you into this box of &#8216;you can't have.' But you can let loose and have fun and share the human moments that we all have.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid7' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Jumping from the phone screen to the small screen for Earle Meets World was also an adjustment. The series featured her divorced parents, TJ and Alisa Earle; her stepmom, Ashley (as in Dupr&#xE9;, the woman at the center of a 2008 sex scandal involving former New York Gov. Eliot Spitzer); four siblings and mom Alisa's boyfriend, Todd. &#8220;I was worried going into it because I wasn't sure if I would be able to connect with people in a different way than on socials,&#8221; she says. &#8220;But it gave people a completely different perspective on my life. As scary and embarrassing as those moments are, I really, really loved doing it.&#8221; Earle, who works with an acting coach, has passed on all scripts that have come her way, more out of fear of getting it wrong than anything else: &#8220;I only want to do something if it's the right fit or I could be good at embodying that character.&#8221;
+
+The season ended with Earle's first on-camera comments about the falling-out with Cooper. Back in 2023, Earle and her podcast, Hot Mess , became the first creators signed to Cooper's media network, Unwell. The deal lasted 18 months, at which point Earle found out she'd been dropped from Unwell when it broke in the media. &#8220;I constantly felt taken advantage of and used and mistreated and manipulated,&#8221; Earle said on her reality show, with her father adding that the podcast wasn't given basic resources like video crews. Cooper has yet to comment on the drama. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid8' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+Earle also recently faced a wave of criticism when she told a magazine that she's never read a book. &#8220;Let's clear the air: I have definitely read a book,&#8221; Earle tells me with a smile. &#8220;But no, I don't actively read. I'm not reading anything right now.&#8221; (Other than &#x2014; wink, wink &#x2014; Daddy Issues , by Sofia Franklyn, who also had beef with Cooper; Earle posted a photo of herself perusing the title on TikTok overlayed with audio from Barstool Sports podcast hosts Dan Katz and Eric Sollenberger criticizing her admission. The clip had drawn 9.3 million views as of press time.)
+
+A big teachable moment came in the form of her evolving relationship with her father as manager (dad-ager?): &#8220;She would not respond to emails, answer my calls or would roll her eyes at me in a meeting, which is typical stuff for a 20-something to do to their dad, but not someone you work with. Finally, I said, &#8216;Alix, listen, I've been doing this a long time with family, and here's how it needs to work. There's Dad, and then when it's business, you treat me no differently than you would treat anybody else on the team.' She's super respectful to everyone, so that was easy for her.&#8221;
+
+Running a business with multiple revenue streams and being smart about money were modeled by her dad, after all. She says, &#8220;I'm saving a lot, so some goes into a retirement fund, and I've invested in different stocks and bonds beyond the company investments. I always have the understanding that this can go away at any time, so I always keep that at the back of my mind.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid9' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
+
+============================================================
+[4] New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)
+Source: The Hollywood Reporter | Status: expanded | Words: 304
+Published: 2026-11-18T14:00:00+00:00
+URL: https://www.hollywoodreporter.com/business/business-news/new-york-knicks-star-josh-hart-book-deal-harpercollins-1236757115
+------------------------------------------------------------
+SUMMARY:
+The NBA star will publish a memoir next year, and a children's book after that.
+
+CONTENT / EXTRACTED DETAILS:
+New York Knicks guard Josh Hart has inked a two-book deal with News Corp.'s HarperCollins, The Hollywood Reporter has learned.
+
+Hart will write a memoir, Live to Serve , which will be released in July of next year, and a children's book, which will be released at a later date. The memoir will include Hart's humor, faith, and heart, and will chronicle his college career at Villanova through this year's NBA championship.
+
+Senior VP & publisher Lisa Sharkey and senior VP & publisher Nancy Inteli negotiated U.S. and Commonwealth rights to the books with Anthony Mattero at CAA.
+
+"I'm honored to be able to show readers how faith can shape the way they work, lead, compete, parent, and live their lives," says Hart. "I'm writing for athletes and fans, but also for parents, coaches, young people, business leaders, and anyone who has felt overlooked or wondered whether the work happening outside the spotlight still matters. My faith journey means everything to me as a player, a parent, a husband, and a human and I'm excited to bring readers along with me so they too can Live to Serve.
+
+&#8220;Josh Hart is the heartbeat of the New York Knicks. Whether he moves with the ball or without it, he serves his teammates and the greater good, and he gives glory to God first and foremost,&#8221; says Sharkey. &#8220;This book will inspire fans to learn more about Josh and will entertain them with his sense of humor, but most importantly, it will remind readers that on the court, a higher power always wins the game of life."
+
+"Josh brings the same incredible energy to storytelling that he brings to the court," adds Inteli. "Like Josh himself, the picture book is full of warmth, humor, and especially heart. Families will want to read it again and again."
+
+============================================================
+[5] Disney and AWS Team Up to Create AI-Powered 'Star Wars' Robots
+Source: The Hollywood Reporter | Status: expanded | Words: 823
+Published: 2026-11-18T14:00:00+00:00
+URL: https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851
+------------------------------------------------------------
+SUMMARY:
+The new creations, the Anzellans, will react to guests and each other in real-time, showcasing how AI could transform the theme park experience.
+
+CONTENT / EXTRACTED DETAILS:
+The Walt Disney Co. has hosted audio-animatronics at its theme parks going back to the opening of Walt Disney's Enchanted Tiki Room in 1963. The decades since have seen presidents, beloved film characters and even Walt Disney himself turned into the audio-animatronics, relying on robots paired with scripted moments to complete the illusion for visitors.
+
+But Disney and Amazon on Wednesday are pulling back the curtain on what Disney's Imagineers think may be the next big thing in audio-animatronic technology: Robots with distinct personalities that can react to each other, and to visitors, powered by AI. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Business Disney Beats Wall Street Expectations as Entertainment and Parks Power Latest Quarter Movies Darth Vader's Lightsaber Sets 'Star Wars' Auction Record Selling for Nearly $5 Million
+
+The audio-animatronic robots in question are The Anzellans: Vilo Vele, Kado Bre'a and Jibu Bre'a, an alien species from the Star Wars galaxy that featured in the 2026 film The Mandalorian and Grogu that will make their public debut at Amazon re:Invent in Las vegas later this month. They were designed by Disney's Imagineers, though they are powered by AWS.
+
+&#8220;The work that we're doing with Amazon dates back over a decade,&#8221; says Kyle Laughlin, senior VP, Walt Disney Imagineering R&D and Technology and Engineering, in an interview with The Hollywood Reporter . &#8220;We've continued to work together in many different forums, everything from Disney+ to supporting Imagineering and the work that we do every day, and these three Anzellans from the Star Wars universe, originally in Solo , but most recently in Mandalorian and Grogu , are these incredible droidsmiths that we wanted to bring to life.&#8221;
+
+The three robots each have cameras an microphones, with the AWS tech helping them determine what actions they take and alien phrases they should speak. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+Samira Panah Bakhtiar, GM of Telco, Media & Entertainment, Games, Advertising and Sports for AWS, notes that the script and movements were all created by Imagineers, and the aliens don't deviate from the movements and words written by the team, even if they use AI to help guide their actions.
+
+&#8220;One of the things I'm most proud of at Amazon is how we obsess over making our customers successful and working backwards from their needs, and in this case, in this specific project, a group of AWS team members leveraged our coding tool called Kiro to be able to help take a lot of the ideas that the Imagineering team had and be able to help rapidly get it into a place where we could execute,&#8221; Bakhtiar says.
+
+&#8220;I think that one of the unique things here is that each character is aware of three things happening at once,&#8221; she adds. &#8220;They're aware of the guests in front of them, they're aware of what's happening in the workshop, and then they're also perfectly aware of what the other characters are doing within the scene. And keeping track of all three of those at once really gives that experience that that they're alive, and their reflexes and their judgments like all become part of that really unique guest experience.&#8221;
+
+&#8220;I think what our guests you know are overwhelmingly saying all the time is that they want those character interactions that feel authentic and genuine, and as you mentioned, our audio animatronics today are very scripted in terms of how that interaction happens,&#8221; Laughlin adds. &#8220;When we launch with the Anzellans at [Amazon] re:Invent, it'll be really the first time in which we will personalize that experience based on who that guest is.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+For now, the Anzellans will only be available to view at re:Invent, though it doesn't take much to imagine that they will end up in the Star Wars: Galaxy's Edge worlds in California and Orlando eventually.
+
+Still, the new robots demonstrate how Disney may ultimately use AI to improve its real-world experiences, while leaning into the creativity of humans in the process. After all, a visit to Galaxy's Edge today will include actors dressed as characters, audio-animatronic robots, and even BDX droids, which are controlled by human operators.
+
+&#8220;Ultimately the goal for Imagineering is to create a living world populated by all the characters you know and love,&#8221; Laughlin says. &#8220;Some of those are going to be audio-animatronics, some of those are going to be robots, some of those are going to be live performers, and some might be puppets. And I think our ability to blend all of those performances together is what makes us uniquely Disney and a one-of-one company in terms of delivering that kind of experience.&#8221;
+
+============================================================
+[6] Venus and Serena Williams Set to Launch Season 2 of 'Stockton Street' Podcast on Dear Media (EXCLUSIVE)
+Source: Variety | Status: expanded | Words: 738
+Published: 2026-11-18T14:00:00+00:00
+URL: https://variety.com/2026/digital/news/venus-serena-williams-season-2-stockton-street-podcast-1236950857
+------------------------------------------------------------
+SUMMARY:
+Tennis superstars Venus and Serena Williams are doubling up again, serving aces as they launch the second season of their lifestyle podcast, “Stockton Street.” The podcast is named after the street where they grew up in Compton, California. The first episode will premiere on the Dear Me network on Dec. 2. Speaking with Variety, Venus […]
+
+CONTENT / EXTRACTED DETAILS:
+Tennis superstars Venus and Serena Williams are doubling up again, serving aces as they launch the second season of their lifestyle podcast, " Stockton Street ."
+
+The podcast is named after the street where they grew up in Compton, California. The first episode will premiere on the Dear Me network on Dec. 2.
+
+Speaking with Variety, Venus Williams said, "We are happy that so many people supported us in season one. We found that we got to spend time with each other, where we just sat down and talked. And I think most people don't get to do that. The unexpected thing out of this was that we found out we wanted to do it some more." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Hollywood Has Flipped on GenAI, Says 'Avatar' VFX House Weta FX Chief: 'If You Don’t Have an AI Strategy, Don’t Bother' Taiwan Creative Content Fest Takeaways: 'Avatar' VFX House Brings Its AI Ambitions to Taipei as Character IP Booms
+
+Serena Williams added, "I feel like Venus and I have so much to say and for so much of our lives, we've been motivating people through our actions, our game, tennis and through sport. Now, with all the experiences we've been through &#x2014; good and bad &#x2014; this podcast is an opportunity to talk about it and learn from it."
+
+"Stockton Street" also explores the sisters' personal journey through candid conversations, shared memories and perspectives. Alongside sibling banter, the podcast delves into topics such as opportunities, failures, success and life, with the pair frequently inviting guests from various walks of life to discuss health, wellness and pop culture.
+
+The show's first season featured guests included Shonda Rhimes, Alexis Ohanian, Mark Cuban, Kevin Hart, Jeanie Buss, Ciara and track stars Gabby Thomas, Melissa Jefferson-Wooden and Sha'Carri Richardson.
+
+Venus Williams teased more unexpected moments between the sisters. She said, "We were telling secrets that we didn't know &#x2014; or that we didn't even know we kept as secrets." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+One upcoming episode will feature a discussion on Serena Williams' retirement from tennis . "We filmed one episode yesterday, and I told Serena something that I had never told her before about her retirement and how it affected me. There are so many moments where we've had challenges; we failed. There are so many moments where we had successes and got through. I think people are looking to be able to hear that from us," Venus Williams said.
+
+Serena Williams retired from tennis after the 2022 U.S. Open. She is widely considered the GOAT of women's tennis. With 23 grand slam wins under her belt, she holds the record for most Grand Slam singles titles in the open era.
+
+Earlier this year, Serena Williams made her return to professional tennis, stepping back onto the court after nearly four years of retirement. Meanwhile, Venus Williams &#x2014; who has won seven Grand Slam singles titles &#x2014; continues to compete on the WTA Tour.
+
+Looking ahead to season two, Serena Williams shared that the podcast will feature more solo episodes and deeper discussions on important topics. "We're going to dive into women's health topics, and important conversations that people don't normally have." She added, "We're bringing more educational things to the podcast. We want to bring awareness to lots of different topics, but no one's talking about it on a platform that we are so fortunate to have."
+
+Through "Stockton Street," Venus and Serena explore where they came from, who they've become and what they're still discovering. Smart, funny, revealing and deeply personal, the podcast tackles themes of ambition, resilience, family and legacy.
+
+"Venus and Serena have shaped sports and culture in ways few people ever will, with influence that extends well beyond the court," said Michael Bosstick, Founder and CEO of Dear Media. "'Stockton Street' creates space for conversations you don't often get to hear, bringing together two extraordinary perspectives and some of the most compelling voices of our time. We're thrilled to welcome the show to Dear Media for its next chapter."
+
+The season will consist of 24 episodes with new installments dropping weekly on all major podcast platforms. Dear Media, Isha Price, Jessica Steindorff and Nine Two Six Media serve as producers.
+
+============================================================
+[7] 'KPop Demon Hunters' Star EJAE Fronts Zac Posen's New GapStudio Winter Collection
+Source: Variety | Status: expanded | Words: 402
+Published: 2026-11-18T14:00:00+00:00
+URL: https://variety.com/2026/shopping/news/kpop-demon-hunters-ejae-zac-posen-gap-collection-shop-1236951776
+------------------------------------------------------------
+SUMMARY:
+EJAE is bringing her star power to Gap. The singer-songwriter behind Netflix's blockbuster animated film "KPop Demon Hunters" is the face of GapStudio's Winter 2026 campaign, showcasing a new 12-piece collection designed by Zac Posen. Launching Nov. 20, the capsule marks the latest release from GapStudio, the retailer's elevated fashion line overseen by Posen, Gap […]
+
+CONTENT / EXTRACTED DETAILS:
+EJAE is bringing her star power to Gap . The singer-songwriter behind Netflix's blockbuster animated film &#8220; KPop Demon Hunters &#8221; is the face of GapStudio's Winter 2026 campaign, showcasing a new 12-piece collection designed by Zac Posen .
+
+Launching Nov. 20, the capsule marks the latest release from GapStudio, the retailer's elevated fashion line overseen by Posen, Gap Inc.'s executive vice president and creative director. The new collection takes a more dressed-up approach to the brand's signature American sportswear. Related Stories 'Rings of Power' Season 3 Premiere: [SPOILER] Dies in Shocking Murder, Sauron Assembles Ringwraiths and Jamie Campbell Bower Is Galadriel's Lover Celeborn Taiwan Creative Content Fest Takeaways: 'Avatar' VFX House Brings Its AI Ambitions to Taipei as Character IP Booms
+
+Centered on a black palette, with accents of royal blue, deep red, winter white and neutral tones, you'll find in the capsule denim, poplin and knitwear &#8212; this time with with sharper tailoring and exaggerated proportions. Standout pieces include a contoured rib maxi dress ($268), a structured denim jacket ($168), a denim double-breasted blazer ($198) and high-rise seamed stirrup jeans ($148).
+
+One of the collection's more playful designs is the Brannan Bear Sherpa Jacket ($268), a faux-fur outerwear piece complete with bear ears inspired by Gap's longtime mascot.
+
+&#8220;For Winter 2026, we wanted to move beyond traditional occasion wear with versatile pieces designed to be worn from day to night,&#8221; Posen said in a statement. &#8220;There's still that level of drama with thoughtful tailoring and exaggerated lines, but it's balanced by a focused palette that feels elegant and wearable.&#8221;
+
+EJAE rose to international prominence as the singing voice of Rumi, the lead character in Netflix's &#8220;KPop Demon Hunters,&#8221; and co-writer of the film's breakout hit &#8220;Golden.&#8221; The song became a global chart phenomenon and earned the singer-songwriter a Golden Globe for best original song. Her appearance in the GapStudio campaign represents another crossover into fashion for the musician, who previously worked behind the scenes writing songs for K-pop acts including Red Velvet, aespa and Twice.
+
+The release continues Posen's efforts to elevate Gap's fashion credentials through GapStudio, which launched as a more design-focused extension of the retailer's everyday wardrobe. Earlier this fall, the brand unveiled a 20-piece collection modeled by Esther McGregor and Alton Mason.
+
+The GapStudio Winter 2026 collection will be available beginning Nov. 20 on Gap.com and at select Gap stores, with prices ranging from $54 to $268.
+
+============================================================
+[8] Taylor Swift's CMA Return Helped Disney Sell More Ads
+Source: Variety | Status: expanded | Words: 585
+Published: 2026-11-18T14:00:00+00:00
+URL: https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795
+------------------------------------------------------------
+SUMMARY:
+Taylor Swift doesn’t work for the Walt Disney Company, but she may just have played a key role in helping the company carve out a little extra revenue. Swift hasn’t attended the Country Music Awards, televised on ABC, since 2013. On Friday, after the musician announced she would return to the program, Disney’s sales force […]
+
+CONTENT / EXTRACTED DETAILS:
+Taylor Swift doesn't work for the Walt Disney Company, but she may just have played a key role in helping the company carve out a little extra revenue.
+
+Swift hasn't attended the Country Music Awards, televised on ABC, since 2013. On Friday, after the musician announced she would return to the program, Disney's sales force opened some new streaming ad inventory tied to the event. Related Stories Hollywood Has Flipped on GenAI, Says 'Avatar' VFX House Weta FX Chief: 'If You Don’t Have an AI Strategy, Don’t Bother' Taiwan Creative Content Fest Takeaways: 'Avatar' VFX House Brings Its AI Ambitions to Taipei as Character IP Booms
+
+"We were sold out. &#x2029;We opened up additional opportunities because of Taylor, and we got additional interest, and we were seeing brands come in" all this week, says John Campbell, senior vice president of entertainment and streaming solutions at Disney Advertising, during a recent interview. "We can create demand 24 hours before the show." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Such activity may be encouraging not only for Disney, but for the broader media sector, which is placing a growing emphasis on live events in a bid to keep the large audiences advertisers crave coming to its screens. Disney has in the last year put together a large schedule of sporting events and spectacles, including the CMAs, the College Football Playoffs, Dick Clark's New Year's Rockin' Eve, the Grammys and the 2027 telecast of the Super Bowl &#8212; a string of big-ticket events that come with a large amount of advertising time that needs to be monetized.
+
+Disney's Campbell says ad revenue tied to the CMAs is up 20% compared to 2025's telecast, and cites Madison Avenue's desire for tentpole extravaganzas that are different from the rest of the TV schedule, as well as growing interest in creating bespoke promotions for social media and streaming video, along with traditional TV. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+General Motors' Chevrolet is returning for its tenth year as a presenting sponsor of the program. Its vehicles will be seen during the program, and country music artist Zach Top will appear in moments that celebrate country music and military service, among other things. Top will give fans a behind-the-scenes look at the creation of some of the vignettes he's in via ABC and CMA social channels.
+
+In a new venture, retailer Bed Bath & Bodyworks will be the presenting sponsor of live CMAs coverage on TikTok. Country star Lauren Alaina and digital creator Haley Baylee will serve up real-time content to fans, including branded moments, host integrations, interactive polls, and social engagement opportunities. "We know that fans want to interact with the show in so many different ways," says Campbell, who notes this new type of sponsorship "provides additional content and more value for fans."
+
+Financial-services provider Ally is also new to the program's ad roster. A new campaign will feature entrepreneur and reality show star Kristin Cavallari, and will surface during the show, on social and streaming venues and via linear TV commercials .
+
+Advertisers interested in live specials are eager "to go beyond just the 30-second spot," says Campbell. He believes new opportunities that weave marketing alongside musical content is driving "increases in overall commitments to our live specials." There are, Disney no doubt hopes, a lot more to come.
+
+============================================================
+[9] Elle Fanning’s 'Sunrise' Dress For The Hunger Games Has A Sheer Cutout And Big Capitol Energy
+Source: CinemaBlend | Status: expanded | Words: 265
+Published: 2026-11-18T13:56:34+00:00
+URL: https://www.cinemablend.com/movies/elle-fanning-sunrise-dress-hunger-games-sheer-cutout-capitol-energy
+------------------------------------------------------------
+SUMMARY:
+A dress fit for a monarch.
+
+CONTENT / EXTRACTED DETAILS:
+I’ve been living for the Sunrise on the Reaping method dressing as of late. While McKenna Grace has nailed her Jennifer Lawrence-inspired looks , I’d be remiss not to shout out the Capital-level looks Elle Fanning has been serving. In the role of Effie Trinkett, Fanning is decked out in colorful and extravagant costumes, and the actor has used that as inspiration for her press tour looks. So I’m not surprised that her newest "Sunrise" dress for the Hunger Games prequel has a sheer cutout and gives massive Capital energy.
+
+Fanning has been having fun ever since she landed the role of Effie -- who she'd long been fancast as -- and she is not disappointing the fanbase. The outfits for this press tour have been nothing short of remarkable. Quite frankly, Fanning and Grace have been giving fans everything they didn’t know they wanted on that front. Whether it’s wearing a dancing ballerina as a hat or sporting a literal print of the arena, both actors have taken a visual approach to promoting the movie that's been perfect.
+
+Fans are clearly thankful that the studio listened to their suggestion and cast Fanning as Effie. Luckily, we won’t have to wait much longer before we get to see Fanning in all of her Effie glory either. Sunrise on the Reaping will hit the 2026 movie schedule on November 20 after what feels like forever. I'm beyond curious to see how Fanning makes the role her own, but I'm also confident she'll crush it. OG Effie actress Elizabeth Banks has also praised Fanning's castin g .
+
+============================================================
+[10] DWTS Glee Tribute Made Me Cry, But What Was Going On In The Background Made Me Irate
+Source: CinemaBlend | Status: expanded | Words: 274
+Published: 2026-11-18T13:54:19+00:00
+URL: https://www.cinemablend.com/television/dwts-glee-tribute-made-me-cry-the-background-made-me-irate-brandon-alan
+------------------------------------------------------------
+SUMMARY:
+Talk about emotional whiplash.
+
+CONTENT / EXTRACTED DETAILS:
+Spoilers ahead for the most recent episode of Dancing with the Stars .
+
+The last two weeks saw DWTS contestants with dance experience voted off, largely thanks to the fans. Harry Shum Jr'.s final performance was to the Glee version of "Valerie", with him pointing up to heaven after the final pose, and talking about Naya Rivera to host Juliane Hough in the Skybox. It was a beautiful way to honor the late actress, but it was spoiled a bit by pros Alan Bersten and Brandon Armstrong recording content for the TikTok live in the background.
+
+Even before Harry Shum Jr. spoke about Naya Rivera, the late actress' presence was felt throughout his quickstep. Rather than dancing to the Amy Winehouse version of "Valerie" the Dancing with the Stars band performed the Glee arrangement that was famously sung by Rivera in one of the show's most iconic moments. What's more, a few dance moves were even lifted straight from the choreo performed by Shum and Heather Morris in that number. You can check out that quick moment below.
+
+When Harry Shum Jr. pointed up at heaven after his final pose, it was clear that Naya Rivera was on his mind. The tribute became all the more clear up in the Skybox, with the Grey's Anatomy star telling Hough:
+
+This was a classy and touching tribute to Shum's late co-star, which is why the juxtaposition between his words and Alan Bersten and Brandon Armstrong doing a bit for the TikTok live felt so upsetting. The pros were just doing their job, but I wish they were listening and reading the room during this emotional moment.
+
+============================================================
+[11] IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000
 Source: Deadline | Status: expanded | Words: 949
 Published: 2026-11-18T13:44:39+00:00
 URL: https://deadline.com/2026/11/idfa-forum-2026-awards-announced-1237227889
@@ -43,7 +353,7 @@ The award is accompanied by a &#x20AC;1,500 prize.
 Jurors additionally recognized Time Hunter XR: Colonial Protocols by Mark Mushiva and Daniel Chein. "The jury want to give a Special Mention to a project that really thinks carefully about how the experience will take audiences on a journey that explores themes of time travel, sci-fi, and embodied archive. The project creates an imaginative and engaging experience that brings forward the perspectives of people whose voices deserve to be heard, and histories that deserve to be told."
 
 ============================================================
-[2] ’S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
+[12] ’S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 598
 Published: 2026-11-18T13:42:43+00:00
 URL: https://variety.com/2026/film/global/s-o-s-caribbean-romcom-sold-by-latido-films-first-teaser-1236950584
@@ -79,7 +389,7 @@ There is, however, a hint in the teaser's parting shot, however, that love could
 "For a sales agent, the most interesting and stimulating to be in on a project from its birth, as was the case with 'S.O.S.' said Latido Films Head of International Sales Juan Torres. "The understanding with 64A is remarkable and we are confident this will have a knock-on in the film's commercial results."
 
 ============================================================
-[3] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
+[13] Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships
 Source: Deadline | Status: expanded | Words: 480
 Published: 2026-11-18T13:30:00+00:00
 URL: https://deadline.com/2026/11/imax-giovanni-dolci-new-coo-role-1237227028
@@ -105,7 +415,7 @@ The 30-year Imax veteran has led theater operations and key partner relationship
 Imax has been on a tear over the past few years as PLFs and event cinema became a key part of the post-Covid theatrical experience for consumers and studios. The company reported strong quarterly earnings earlier this month powered by The Odyssey .
 
 ============================================================
-[4] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
+[14] Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’
 Source: The Hollywood Reporter | Status: expanded | Words: 6529
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/lee-chang-dong-possible-love-interview-1236757129
@@ -307,7 +617,7 @@ My last question isn't my own. I recently interviewed Na Hong-jin in Seoul about
 I would say that I am a very timid person, and because of that, I tend to spend too much time thinking about how I should live &#x2014; and it makes me very, very tired. (Laughs)
 
 ============================================================
-[5] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
+[15] 'In Starland': How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy
 Source: The Hollywood Reporter | Status: expanded | Words: 1721
 Published: 2026-11-18T13:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ray-panthaki-clarence-maclin-film-in-starland-interview-1236758272
@@ -361,7 +671,7 @@ That said, Panthaki's passion is coming through again. &#8220;I have ideas that 
 Watch a teaser for In Starland right here.
 
 ============================================================
-[6] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
+[16] Sydney Is Coming Back, But It’s Reminding Fans About The Other Canceled NCIS Shows
 Source: CinemaBlend | Status: expanded | Words: 1381
 Published: 2026-11-18T13:23:30+00:00
 URL: https://www.cinemablend.com/television/ncis-sydney-returning-reminding-fans-about-franchises-other-canceled-shows
@@ -413,7 +723,7 @@ Television I Am Pleased To Report NCIS Bringing Back Mark Harmon, Michael Weathe
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[7] Amanda Seyfried And Elizabeth Holmes’ Partner Had Very Different Intentions In The Infamous Dinner Scene In You Can See Everything
+[17] Amanda Seyfried And Elizabeth Holmes’ Partner Had Different Intentions In You Can See Everything's Infamous Dinner Scene
 Source: CinemaBlend | Status: expanded | Words: 1426
 Published: 2026-11-18T13:08:44+00:00
 URL: https://www.cinemablend.com/movies/amanda-seyfried-elizabeth-holmes-partner-billy-evans-had-very-different-intentions-infamous-dinner-scene-you-can-see-everything
@@ -463,7 +773,7 @@ Movies I Was So Curious What It Was Like Being In The Room With Elizabeth Holmes
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[8] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
+[18] Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List
 Source: The Hollywood Reporter | Status: expanded | Words: 1493
 Published: 2026-11-18T13:05:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024
@@ -515,7 +825,7 @@ Borys Kit and Aaron Couch contributed to this report.
 This story appeared in the Nov. 17 issue of The Hollywood Reporter magazine. Click here to subscribe.
 
 ============================================================
-[9] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
+[19] 'The Unofficial Bridgerton Musical' Creators Abigail Barlow &#038; Emily Bear Return To TikTok With 'To Die For Love' Original Musical
 Source: Deadline | Status: expanded | Words: 788
 Published: 2026-11-18T13:00:00+00:00
 URL: https://deadline.com/2026/11/barlow-bear-to-die-for-love-musical-unofficial-bridgerton-1237227778
@@ -549,7 +859,7 @@ Executive producers of To Die For Love are Agnes Chu, Benj Pasek, Justin Paul, D
 For Atlantic Records, Noah Hubbell serves as executive music producer and Cynthia Meng as music director, with all tracks produced by Emily Bear, Abigail Barlow, Noah Hubbell, and Grant Steller, and mixing and mastering by Jay Marcovitz.
 
 ============================================================
-[10] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
+[20] 'SmartLess' Trio to Back 'Small Town Narcos' Podcast (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 391
 Published: 2026-11-18T13:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/smartless-medias-podcast-1236757059
@@ -571,7 +881,7 @@ Kelly, while hosting and executive producing the Canadian podcast, is also vp of
 Small Town Narcos, written by Kelly and Eunice Kim, is produced by SmartLess Media and New Metric Media for the CBC. The executive producer credits are shared by Arnett, Bateman, Hayes, Richard Korson, Bernie Kaminski, Mark Montefiore, Kelly, Chris Okea and Cesil Fernandes, with Kim serving as senior producer.
 
 ============================================================
-[11] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
+[21] Justin Chadwick, Roy Lee Among Sony Future Filmmaker Awards Jury Members for 2027 Edition
 Source: Variety | Status: expanded | Words: 374
 Published: 2026-11-18T13:00:00+00:00
 URL: https://variety.com/2026/film/news/sony-future-filmmaker-jury-2027-edition-1236951115
@@ -591,7 +901,7 @@ This year's awards are introducing a new Immersive category, presented by Meta, 
 The 2027 Sony Future Filmmaker Awards will include a four-day program at the Sony Pictures Studios in Culver City from June 7-10 giving recognizing filmmaking talent, giving their work a global stage and connecting them directly with the industry. Submissions for the 2027 edition close on Dec. 15. Filmmakers can enter short films across six categories: fiction, non-fiction, immersive, animation, student and future format. The Awards shortlist will be announced in the spring.
 
 ============================================================
-[12] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
+[22] 5 Metropolis Disasters That Make Gotham's Worst Nightmares Look Like a Good Day
 Source: ComicBook.com | Status: expanded | Words: 1241
 Published: 2026-11-18T12:55:00+00:00
 URL: https://comicbook.com/comics/list/5-metropolis-disasters-that-make-gothams-worst-nightmares-look-like-a-good-day
@@ -627,7 +937,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
+[23] Qatar's Film Committee Head Hassan Al-Thawadi Teases 2nd Industry Days In Doha: "We Are moving From Vision To Execution"
 Source: Deadline | Status: expanded | Words: 1223
 Published: 2026-11-18T12:53:29+00:00
 URL: https://deadline.com/2026/11/qatar-film-committee-hassan-al-thawadi-2nd-industry-days-1237227861
@@ -693,7 +1003,7 @@ Arab storytelling remains underrepresented globally. Our goal is to help create 
 One of the lessons of the World Cup is that when you invest with a clear long-term purpose, you can build capability and create a legacy that extends far beyond the event itself. Film has that same ability to bring people together and broaden representation. We are still at the beginning of that journey, but the direction is very clear.
 
 ============================================================
-[14] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
+[24] An MCU Favorite's Forgotten Marvel Return Happened Twelve Years Ago, Expanding Their Franchise Even More
 Source: ComicBook.com | Status: expanded | Words: 728
 Published: 2026-11-18T12:44:00+00:00
 URL: https://comicbook.com/tv-shows/feature/an-mcu-favorites-forgotten-marvel-return-happened-twelve-years-ago-expanding-their-franchise-even-more
@@ -723,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
+[25] Rob Lowe Asked Ben Shapiro if He Could Star in 'Confession' After Reading 'Fantastic' Script Despite Being Considered 'Way Too Handsome' for Role
 Source: Variety | Status: expanded | Words: 772
 Published: 2026-11-18T12:41:51+00:00
 URL: https://variety.com/2026/film/global/rob-lowe-ben-shapiro-confession-film-script-1236951750
@@ -759,7 +1069,7 @@ He acknowledged that it was "the greatest irony" given the subject of the movie 
 "I feel like that's what's lacking," he added. "People do not have any type of leash for other people in their orbit. But to me, that's what you want: people who think differently than you. And by the way, I'm not saying I agree with any of these people, but I don't want to hear the same conversation and the same story over and over. And I really appreciate different opinions."
 
 ============================================================
-[16] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
+[26] 'Top Boy' Star Hope Ikpoku Jr. to Lead British Urban Gothic Horror 'One Night' Alongside Ellie Mejia (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-18T12:35:44+00:00
 URL: https://variety.com/2026/film/global/hope-ikpoku-jr-mejia-exclusive-horror-film-one-night-1236951736
@@ -785,7 +1095,7 @@ Andrews co-wrote the screenplay with Stephen Laughton and produced the film thro
 Both Ikpoku Jr. and Mejia are repped by 42 management.
 
 ============================================================
-[17] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
+[27] 4 Excellent Robert Pattinson Performances Outside of The Batman, Including His James Bond Audition
 Source: ComicBook.com | Status: expanded | Words: 739
 Published: 2026-11-18T12:13:00+00:00
 URL: https://comicbook.com/movies/list/4-excellent-robert-pattinson-performances-outside-of-the-batman-including-his-james-bond-audition
@@ -811,7 +1121,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
+[28] Marrakech's Atlas Workshops Takes Victory Lap as Industry Event Celebrates Cannes, Venice Triumphs
 Source: Variety | Status: expanded | Words: 1490
 Published: 2026-11-18T12:07:33+00:00
 URL: https://variety.com/2026/film/global/marrakech-atlas-workshops-cannes-venice-1236951646
@@ -869,7 +1179,7 @@ The event's evolution, says Zardi, points to a commitment "to avoid having a sin
 The Marrakech Film Festival runs Nov. 20-28.
 
 ============================================================
-[19] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
+[29] Marshals Isn't The Only Taylor Sheridan Project With Thoughtful Things To Say About Missing Indigenous Women
 Source: CinemaBlend | Status: expanded | Words: 357
 Published: 2026-11-18T12:00:00+00:00
 URL: https://www.cinemablend.com/television/marshals-isnt-only-taylor-sheridan-project-missing-indigenous-women-wind-river
@@ -889,7 +1199,7 @@ These days, when Taylor Sheridan and his work get brought up, his shows, like Ye
 Overall, I found Wind River to be an incredibly moving film while also being peppered with the Taylor Sheridan writing and action his shows are known for. I also appreciated how it managed to be an entertaining thriller while also poignantly handling such an important and delicate topic.
 
 ============================================================
-[20] Noel Clarke Sexual Offenses Trial Set For Next Year
+[30] Noel Clarke Sexual Offenses Trial Set For Next Year
 Source: Deadline | Status: expanded | Words: 243
 Published: 2026-11-18T11:53:51+00:00
 URL: https://deadline.com/2026/11/noel-clarke-sexual-offenses-trial-november-2027-1237227838
@@ -909,7 +1219,7 @@ Clarke, the British actor who starred in Doctor Who and Kidulthood , has pleaded
 Clarke has not worked in the entertainment industry in any substantial on-screen capacity for years, since The Guardian published allegations about him. He lost his libel case against The Guardian last year after seeking &#xA3;70M ($92M) in damages. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[21] 'Fjord' DP Tudor Vladimir Panduru On Crafting Long Takes With Cristian Mungiu &#038; Challenges Of Shooting In Remote Norway — ToruńCamerimage
+[31] 'Fjord' DP Tudor Vladimir Panduru On Crafting Long Takes With Cristian Mungiu &#038; Challenges Of Shooting In Remote Norway — ToruńCamerimage
 Source: Deadline | Status: expanded | Words: 907
 Published: 2026-11-18T11:52:55+00:00
 URL: https://deadline.com/2026/11/fjord-dp-tudor-vladimir-panduru-cristian-mungiu-norway-1237226492
@@ -949,7 +1259,7 @@ Panduru says that one of the most challenging sequences was the "jump in the wat
 "Because we shoot in these long takes, the most important thing was to have the emotional trajectory of the situation," he says. "We thought a lot about how to achieve that moment in a technical way, and we thought about cranes and drones, but it wasn't the right thing. I proposed to Cristian to test to see if I could physically jump in the water with them and we did it in a weekend and it worked."
 
 ============================================================
-[22] This Masters of the Universe Auction Is Proving Skeletor is More Popular Than He-Man
+[32] This Masters of the Universe Auction Is Proving Skeletor is More Popular Than He-Man
 Source: ComicBook.com | Status: expanded | Words: 493
 Published: 2026-11-18T11:52:00+00:00
 URL: https://comicbook.com/collectibles/news/this-masters-of-the-universe-auction-is-proving-skeletor-is-more-popular-than-he-man
@@ -967,7 +1277,7 @@ What became more impressive was the turnaround in opinions of the film and an un
 Would you like to own a piece of Masters of the Universe ? Should the movie get a sequel? Let us know your thoughts in the comments.
 
 ============================================================
-[23] ‘Chronicles From The Siege’ Producers Pull Palestinian Berlinale Prizewinner From Marrakech
+[33] ‘Chronicles From The Siege’ Producers Pull Palestinian Berlinale Prizewinner From Marrakech
 Source: Deadline | Status: expanded | Words: 539
 Published: 2026-11-18T11:42:32+00:00
 URL: https://deadline.com/2026/11/chronicles-siege-producers-pull-palestinian-drama-marrakech-1237227819
@@ -1001,7 +1311,7 @@ It went on to win the Best First Feature Award in a politically-charged awards c
 This speech alongside a number of public condemnations of Israel's actions in Gaza by other winners triggered a conservative and far-right backlash against the festival management in the days after the festival, which nearly cost Berlinale director Tricia Tuttle her job.
 
 ============================================================
-[24] Well Go USA Acquires Nazi Revenge Film ‘Vindicta’ — AFM
+[34] Well Go USA Acquires Nazi Revenge Film ‘Vindicta’ — AFM
 Source: Deadline | Status: expanded | Words: 359
 Published: 2026-11-18T11:35:27+00:00
 URL: https://deadline.com/2026/11/well-go-usa-vindicta-afm-1237227828
@@ -1025,7 +1335,7 @@ Sedlar added: &#8220;We are thrilled to partner with Well Go USA for the North A
 Producers are aiming for an early 2027 theatrical release date. The film is represented for international sales by OneTwoThree Media.
 
 ============================================================
-[25] Berlin Prizewinner 'Chronicles From the Siege' Pulled From Marrakech Festival by Algerian Producer Over Morocco-Israel Ties
+[35] Berlin Prizewinner 'Chronicles From the Siege' Pulled From Marrakech Festival by Algerian Producer Over Morocco-Israel Ties
 Source: Variety | Status: expanded | Words: 501
 Published: 2026-11-18T11:33:19+00:00
 URL: https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684
@@ -1061,7 +1371,7 @@ Inspired by Al-Khatib's personal experience during the siege of Yarmouk Camp in 
 The film interweaves stories of friendship, intimacy and survival, exploring how life under siege transforms even the simplest human experiences into struggles for survival.
 
 ============================================================
-[26] Grand Theft Auto 6’s Metacritic Score Makes It the Highest Rated Game Ever
+[36] Grand Theft Auto 6’s Metacritic Score Makes It the Highest Rated Game Ever
 Source: ComicBook.com | Status: expanded | Words: 402
 Published: 2026-11-18T11:30:00+00:00
 URL: https://comicbook.com/gaming/news/grand-theft-auto-6s-metacritic-score-makes-it-one-of-2026s-best-games
@@ -1085,7 +1395,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Marrakech Film Festival Grows Its Awards-Season Clout With 'Artificial,' 'The Debut,' 'Fjord' and Other Oscar Hopefuls
+[37] Marrakech Film Festival Grows Its Awards-Season Clout With 'Artificial,' 'The Debut,' 'Fjord' and Other Oscar Hopefuls
 Source: Variety | Status: expanded | Words: 1483
 Published: 2026-11-18T11:17:24+00:00
 URL: https://variety.com/2026/film/global/artificial-the-debut-oscar-campaigns-marrakech-1236951607
@@ -1135,7 +1445,7 @@ Bonhomme says the Marrakech fest already "expressed our solidarity with the team
 "We welcome at the festival lots of filmmakers coming from countries that are directly affected by the war [in Gaza]. We also welcome films that deal directly with the current war," he says. "We also are in North Africa, which is a region that is also very protected from what's happening in the Middle East. So we have the possibility in Marrakech to still be a safe place where we can give a certain resonance of what's happening there."
 
 ============================================================
-[28] Netflix UK Swoops For Ms Apple's Pre-School Learning Adventures
+[38] Netflix UK Swoops For Ms Apple's Pre-School Learning Adventures
 Source: Deadline | Status: expanded | Words: 421
 Published: 2026-11-18T11:09:20+00:00
 URL: https://deadline.com/2026/11/netflix-uk-ms-apple-adventures-british-ms-rachel-1237227810
@@ -1159,7 +1469,7 @@ Grant said: &#8220;We're so excited to be bringing Ms Apple to Netflix UK and Ir
 Ms Apple's &#8220;Learn with Ms Apple&#8221; channel is repped globally by MVE , which said Ms Apple has &#8220;created something so special.&#8221; &#8220;Bringing her learning adventures to Netflix is an exciting next step in her journey,&#8221; added the agency. &#8220;We're proud to represent her and can't wait for families to enjoy her content.&#8221;
 
 ============================================================
-[29] Grand Theft Auto VI Is One of Gaming's Greatest Achievements (Review)
+[39] Grand Theft Auto VI Is One of Gaming's Greatest Achievements (Review)
 Source: ComicBook.com | Status: expanded | Words: 1925
 Published: 2026-11-18T11:00:00+00:00
 URL: https://comicbook.com/gaming/review/grand-theft-auto-6-review
@@ -1217,7 +1527,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Noel Clarke Trial Set for 2027 Over Alleged Sex Offenses
+[40] Noel Clarke Trial Set for 2027 Over Alleged Sex Offenses
 Source: Variety | Status: expanded | Words: 424
 Published: 2026-11-18T10:50:34+00:00
 URL: https://variety.com/2026/film/global/noel-clarke-southwark-crown-court-1236951670
@@ -1249,7 +1559,7 @@ In a statement in September, CPS prosecutor Bethan David said: "Our prosecutors 
 Clarke is known for playing Mickey Smith in "Doctor Who" from 2005 to 2010. He also wrote, directed and starred in a trio of teen crime dramas in the mid 2000s, &#8220;Kidulthood,&#8221; &#8220;Adulthood&#8221; and &#8220;Brotherhood,&#8221; before going on to co-created critically acclaimed Sky series &#8220;Bulletproof&#8221; with Ashley Walters.
 
 ============================================================
-[31] Saudi Arabia's Red Sea Film Festival Forges 'Strategic' Partnership With Cairo Film Festival
+[41] Saudi Arabia's Red Sea Film Festival Forges 'Strategic' Partnership With Cairo Film Festival
 Source: Variety | Status: expanded | Words: 523
 Published: 2026-11-18T10:48:27+00:00
 URL: https://variety.com/2026/film/festivals/red-sea-cairo-film-festivals-strategic-partnership-1236951676
@@ -1277,7 +1587,7 @@ The Red Sea Film Foundation has supported the restoration of more than 20 films,
 Commented Faisal Baltyuor, CEO of the Red Sea Film Foundation: &#8220;Egypt has played a defining role in the history of Arab cinema, and Cairo International Film Festival continues to be one of the region's most important platforms for filmmakers and audiences alike. We are proud to strengthen our relationship through a partnership that reflects our shared commitment to supporting outstanding films, creating opportunities for filmmakers, and preserving our cinematic heritage.&#8221;
 
 ============================================================
-[32] Alan Cumming, Verity Power and Maria Friedman on Their Scottish, Spunky 'My Fair Lady': 'It's Not Your Granny's'
+[42] Alan Cumming, Verity Power and Maria Friedman on Their Scottish, Spunky 'My Fair Lady': 'It's Not Your Granny's'
 Source: Variety | Status: expanded | Words: 1420
 Published: 2026-11-18T10:31:47+00:00
 URL: https://variety.com/2026/theater/news/alan-cumming-my-fair-lady-henry-higgins-scottish-1236950477
@@ -1329,7 +1639,7 @@ Along with Cumming and Power, the cast includes Martin Ball as Colonel Pickering
 Asked what will land hardest with audiences now, Power points to the pressure on women to be polite, sound right and look a certain way, citing the lip filler and Botox ads that appear unsolicited on her phone. &#8220;It happened then, and it happens now, and it will sadly probably happen forever,&#8221; she says. &#8220;But it is something that we can take hold of and scrunch up in a ball and chuck away and go, &#8216;No, we're fab as we are.'&#8221;
 
 ============================================================
-[33] 4 Lesser-Known Sci-Fi Movies That Scored Over 90% With Audiences on Rotten Tomatoes
+[43] 4 Lesser-Known Sci-Fi Movies That Scored Over 90% With Audiences on Rotten Tomatoes
 Source: ComicBook.com | Status: expanded | Words: 1113
 Published: 2026-11-18T10:22:00+00:00
 URL: https://comicbook.com/movies/list/4-lesser-known-sci-fi-movies-that-scored-over-90-with-audiences-on-rotten-tomatoes
@@ -1361,7 +1671,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Tallinn TV Beats Prizes: ‘Intimacy on Prescription,’ About Sex Therapy, Bags Top Award: ‘Good TV Is Very Connected to Good Sex’
+[44] Tallinn TV Beats Prizes: ‘Intimacy on Prescription,’ About Sex Therapy, Bags Top Award: ‘Good TV Is Very Connected to Good Sex’
 Source: Variety | Status: expanded | Words: 836
 Published: 2026-11-18T10:20:20+00:00
 URL: https://variety.com/2026/tv/global/tallinn-tv-beats-prizes-intimacy-on-prescription-tanner-1236951667
@@ -1397,7 +1707,7 @@ Nearly 30 series at different stages of production were showcased during the 6 t
 The Tallinn Black Nights Film Festival 's industry sidebar Industry@Tallinn & Baltic Event closes on Friday.
 
 ============================================================
-[35] Jean-Pierre &#038; Luc Dardenne Set For European Film Academy Lifetime Achievement Award
+[45] Jean-Pierre &#038; Luc Dardenne Set For European Film Academy Lifetime Achievement Award
 Source: Deadline | Status: expanded | Words: 692
 Published: 2026-11-18T10:00:00+00:00
 URL: https://deadline.com/2026/11/jean-pierre-luc-dardenne-european-film-academy-honor-1237227768
@@ -1443,7 +1753,7 @@ They also have a long relationship with European Film Academy. In 1997, Gigi, Mo
 The brothers will receive their Lifetime Achievement Award at the European Awards Ceremony on January 17, 2027.
 
 ============================================================
-[36] European Lifetime Achievement Award for the Dardenne Brothers
+[46] European Lifetime Achievement Award for the Dardenne Brothers
 Source: The Hollywood Reporter | Status: expanded | Words: 480
 Published: 2026-11-18T10:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/dardenne-brothers-european-film-award-lifetime-achievement-1236757154
@@ -1469,7 +1779,7 @@ The Dardennes typically work with non-professional actors but made an exception 
 The Dardennes won their first European Film Award for Best Documentary for Gigi, Monica&#8230; back in 1997 and took the European Screenwriter Award for The Kid With a Bike in 2011. Surprisingly, given their reputation and the consistent quality of their work, the Dardennes have never been nominated for an Academy Award.
 
 ============================================================
-[37] Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027
+[47] Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027
 Source: The Hollywood Reporter | Status: expanded | Words: 328
 Published: 2026-11-18T09:40:25+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/harry-styles-glastonbury-billie-eilish-fender-headliners-1236758327
@@ -1495,7 +1805,7 @@ Over 200,000 people will flood Worthy Farm for five days from June 23 next year.
 The gates will open at Worthy Farm in Somerset to 200,000 fans on Wednesday 23 June, with music on the main stages kicking off on Friday 25 June.
 
 ============================================================
-[38] The Legend of Zelda Movie Has One Challenge That Other Video Game Adaptations Never Faced
+[48] The Legend of Zelda Movie Has One Challenge That Other Video Game Adaptations Never Faced
 Source: ComicBook.com | Status: expanded | Words: 790
 Published: 2026-11-18T09:32:00+00:00
 URL: https://comicbook.com/uncategorized/feature/the-legend-of-zelda-movie-has-one-challenge-that-other-video-game-adaptations-never-faced
@@ -1519,7 +1829,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Disney+ Adapting Bob Mortimer's Debut Novel 'The Satsuma Complex' For TV
+[49] Disney+ Adapting Bob Mortimer's Debut Novel 'The Satsuma Complex' For TV
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-18T09:23:53+00:00
 URL: https://deadline.com/2026/11/the-satsuma-complex-disney-adapting-bob-mortimer-tv-1237227802
@@ -1545,7 +1855,7 @@ The Satsuma Complex will be EP'd by Shindler for Quay Street Productions, part o
 Jain has been given a bigger budget of latee. At yesterday's Disney results, the Mouse House said again it will triple its local originals over the next three years.
 
 ============================================================
-[40] 'Hazara Town' Review: A Restrained but Deeply Affecting Doc Portrait of an Afghan Refugee Family Living in Limbo
+[50] 'Hazara Town' Review: A Restrained but Deeply Affecting Doc Portrait of an Afghan Refugee Family Living in Limbo
 Source: Variety | Status: expanded | Words: 787
 Published: 2026-11-18T09:19:16+00:00
 URL: https://variety.com/2026/film/reviews/hazara-town-review-1236948926
@@ -1567,298 +1877,4 @@ Home, though, remains the most secure of spaces in an otherwise stateless existe
 Machid, a studious bookworm with a love of Judy Blume, dreams of richer education opportunities in the United States, while the rest of the family pins their hopes on Canada &#x2014; sold to them via effortfully cheerful video missives from Hussain, marveling at differences in culture and weather. Good news does arrive from North America, but not for everyone, and so the family is further fragmented. Dai films each individual flight from the back window of the departing taxi, splashed with a bucket of water for good luck, the drips distorting one last look at those left behind in the rearview.
 
 Also an accomplished cinematographer, Dai shoots these individually unremarkable episodes of daily survival &#x2014; and occasional celebration &#x2014; with a grace and sensitivity that cumulatively builds to something more than just diaristic in effect: &#8220;Hazara Town&#8221; is a quietly emphatic statement of presence for lives all too easily disappeared, or dismissed as statistics. And while it provides no tidy resolution to this collective narrative, there's at least a temporary, heart-filling interlude of reunion, before life pulls in a multitude of directions: For the refugee family, there's as much anguish in movement as in stillness, but a shred of hope too.
-
-============================================================
-[41] ‘NAZA’ Team Sticking To Plan To Release Shattering Documentary On The Guardian Website Within Weeks — IDFA
-Source: Deadline | Status: expanded | Words: 1035
-Published: 2026-11-18T09:10:47+00:00
-URL: https://deadline.com/2026/11/naza-panel-2026-idfa-festival-1237227793
-------------------------------------------------------------
-SUMMARY:
-The explosive documentary NAZA has become a worldwide box office sensation, earning $15 million to date. But if co-directors Yuval Abraham and Rachel Szor had prevailed, it might have gone straight from its Venice Film Festival premiere to The Guardian website. “At first me and Rachel thought, let's put it out online the next day,” […]
-
-CONTENT / EXTRACTED DETAILS:
-The explosive documentary NAZA has become a worldwide box office sensation, earning $15 million to date. But if co-directors Yuval Abraham and Rachel Szor had prevailed, it might have gone straight from its Venice Film Festival premiere to The Guardian website.
-
-"At first me and Rachel thought, let's put it out online the next day," Abraham explained as he appeared for a panel discussion about the film at International Documentary Festival Amsterdam ( IDFA ). Their partners on the project convinced the filmmakers that a theatrical release should be part of how NAZA reached viewers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-"It's different audiences," commented Fionualla Jamison, managing director of sales agent-distributor mk2. "Online &#8212; it's not necessarily everyone who's going to be aware, who has that viewing habit to go watch something on The Guardian website or on YouTube, depending what people's setups are. So, we felt it was something that could absolutely exist alongside for different audiences and at cinemas." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-"Our North Star always has been how we're going to get this film to people," said Lindsay Poulton, head of documentaries at The Guardian, who produced the film alongside The Guardian's Harry Davies and James Wilson of JW Films. "I think sitting in a cinema has been an important part of that. We've talked publicly as well about how the film is going to be available on our platform."
-
-Poulton and fellow panelists reiterated The Guardian intends to make the film available for free on its website in early December, although a specific date hasn't been revealed. In the meantime, the documentary has played theatrically in 50 countries, and recorded a remarkable 1.6 million admissions .
-
-Abraham, part of the Oscar-winning quartet of directors of No Other Land , along with Szor, became a believer in the theatrical component. Appearing on the panel by remote from The Guardian offices in London, he said he realized, "The film being immediately accessible doesn't necessarily translate to maximum impact. There is something to be gained from also doing this theatrical run." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-NAZA presents interviews with 24 anonymous members of Israeli intelligence and Israel Defense Forces personnel who describe how Israeli military leaders callously disregarded the potential loss of Palestinian civilian life as they pursued Hamas targets in Gaza. The whistleblowers claim this included deliberating striking Hamas militants at night in their homes with full knowledge those attacks would likely lead to the deaths of innocent women and children. The IDF has denied violating human rights standards and the Geneva Convention in its prosecution of the war. It has also denied an assertion in the film that the IDF used AI to select targets.
-
-The release of NAZA has triggered furor within Israel's right-wing. The country's Culture Minister, Miki Zohar, vowed to strip Abraham and Szor of their Israeli citizenship , a move later endorsed by Prime Minister Benjamin Netanyahu . Supporters of the Israeli government went so far as to quickly produce a counter documentary titled NAZA: The Real Story , mimicking the style of Abraham and Szor's film by shooting it on rooftops at night in Tel Aviv.
-
-"There's a film out there that's very misleading. Obviously, it's not a coincidence," Abraham stated. "They call themselves NAZA . They're trying to mislead people into thinking that they are the real NAZA film."
-
-The director also told the audience at the DeLaMar Theater venue at IDFA that Israel's military has released "this kind of guidebook for commanders giving them instructions or explaining to them how to speak with their soldiers about NAZA . So, it's like for commanders in the Israeli Air Force and other officers sort of an explanation as to how you can deal with the claims that are raised in the film. And of course, they say what you'd expect them to say. And very high up it says that the purpose of this guidebook is to strengthen the soldier's sense of the &#8212; they use this term &#x2018;righteousness of the path, that what we are doing is right.'"
-
-Abraham said he didn't view the existence of the guidebook or the counter documentary in wholly negative terms.
-
-"There's also something positive about it which I think when you get people to be so defensive, when commanders feel a need to get this kind of guidebook to reassure their soldiers that the path is right and that the army is moral and immune from criticism and that they say NAZA [a Hebrew acronym meaning collateral damage], it's not a bad term," he noted. "There's something also about being defensive, which is a reflection of the sense that you are scrutinized, the sense that you are under magnifying glass&#x2026; They feel like they're not only watching, they're also being watched. They're not only surveilling in a sense; they're also being surveilled or looked at. And that's good."
-
-James Wilson, the Oscar-nominated producer ( Zone of Interest ) said the message of NAZA won't be derailed by efforts at misinformation.
-
-"It's about horror. It's about mass murder that our society, the West, has been completely implicit in," he insisted. "It couldn't be about something more important and serious and sort of abyssal in its horror&#x2026; It's like an alarm. It's a fucking alarm and we all have to bear witness to that as it's happening."
-
-Abraham concluded by saying, "People talk about films changing the world. I don't think that a film can really do that, but I think films can definitely, as Jim [Wilson] was saying, they can definitely be part of a network, of a larger kind of energy that exists in the world, which is pushing for change, which is pushing for humanity and empathy."
-
-============================================================
-[42] Harry Styles, Billie Eilish, Sam Fender and Cher to Headline Glastonbury Festival
-Source: Variety | Status: expanded | Words: 133
-Published: 2026-11-18T09:09:29+00:00
-URL: https://variety.com/2026/music/global/glastonbury-lineup-harry-styles-billie-eilish-sam-fender-cher-1236951618
-------------------------------------------------------------
-SUMMARY:
-Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles, Billie Eilish, Sam Fender and Cher. This will be Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher, who has also never played Glasto, is presumably playing the festival's […]
-
-CONTENT / EXTRACTED DETAILS:
-Glastonbury Festival has revealed its 2027 lineup, headlined by Harry Styles , Billie Eilish , Sam Fender and Cher .
-
-This marks Styles' and Fender's first time headlining the Pyramid Stage, while it marks a return for Eilish, who last led the fest in 2022. Cher is presumably taking the festival's Sunday afternoon Legends slot.
-
-After taking a fallow year this summer to allow Worthy Farm's land to recover, the U.K. festival is set to return June 23-27. As always, the lineup spans genres and generations, including Massive Attack, Sombr, Little Simz, Chase & Status, the XX, Lily Allen, Ezra Collective, Kraftwerk, Ad&#xE9;la, Angine de Poitrine, the Avalanches, Blood Orange and more. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-============================================================
-[43] Paramount+ Drops Trailer For Minnie Driver Heist Drama 'The Day'; Launch Date Revealed
-Source: Deadline | Status: expanded | Words: 369
-Published: 2026-11-18T09:00:00+00:00
-URL: https://deadline.com/2026/11/paramount-plus-the-day-minnie-driver-trailer-launch-date-1237226465
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: We've got the first footage of Minnie Driver in character as DI Sylvia 'Vox' Voxley in Paramount+'s British heist drama The Day. The Emily in Paris and Runaway star is seen in hostage negotiator mode as bank robbers barricaded in a building mid-heist, creating a terrifying siege. The criminals are seen threatening bank staff […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE: We've got the first footage of Minnie Driver in character as DI Sylvia &#8216;Vox' Voxley in Paramount+ &#8216;s British heist drama The Day .
-
-The Emily in Paris and Runaway star is seen in hostage negotiator mode as bank robbers barricaded in a building mid-heist, creating a terrifying siege. The criminals are seen threatening bank staff several times, with one telling Vox they want &#xA3;100,000 ($132,000) or they &#8220;start killing hostages.&#8221;
-
-The trailer comes as Skydance-owned Paramount announced a December 31 release date for the show, with four episodes launching. The following four debut on January 7, 2027 in all Paramount+ territories bar Germany, Switzerland and Austria. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Yellowjackets' Co-Creator Bart Nickerson Hints That Unreleased Bonus Episode Didn't Fit "Canon Of The Show" News 'Avatar: Seven Havens' Sets Book 2 Release Date At Paramount+
-
-The series will open from the police perspective and follow the siege through one full day, as Vox battles time and rising pressure to save the hostages. Just as the crisis hurtles towards breaking point, the narrative rewinds and the story is told again from the perspective of the robbers. Each episode flips between the two perspectives, with each shift reframing the truth. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Luca Pasqualino ( Rivals , The Musketeers ) and Louisa Harland ( Renegade Nell , Derry Girls ) also star the series, which comes from Dynamic Television and Clapperboard Studios , and is based on Jonas Geirnaert and Julie Mahieu's Belgian series De Dag . Ben Harris and Jesse O'Mahoney wrote the British version.
-
-Mike Benson and Andy Morgan are the exec producers for Clapperboard, alongside Daniel March from Dynamic Television, and Tamryn Reinecke. Jake Rollins isp roducer, and Andy Tohill ( The Dig , Dalgliesh ) and Ryan Tohill ( The Dig , Dalgliesh ) co-directed.
-
-============================================================
-[44] 'Shōgun' Post House SSVFX Hires Jennifer Thompson To Run Studio Operations
-Source: Deadline | Status: expanded | Words: 538
-Published: 2026-11-18T09:00:00+00:00
-URL: https://deadline.com/2026/11/ssvfx-hires-jennifer-thompson-head-studio-1237226413
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: Dublin-based post group SSVFX, which has worked on Shōgun and Game of Thrones, has appointed Jennifer Thompson as Head of Studio. Thompson is returning to the Screen Scene Group-owned company, having previously worked there a management consultant and exec producer. She has worked at European VFX studios such as Trixter in Germany, where she […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE: Dublin-based post group SSVFX , which has worked on Sh&#x14D;gun and Game of Thrones , has appointed Jennifer Thompson as Head of Studio.
-
-Thompson is returning to the Screen Scene Group-owned company, having previously worked there a management consultant and exec producer.
-
-She has worked at European VFX studios such as Trixter in Germany, where she was Head of Production, and MPC Film in the UK. She has credits for the likes of The Lion King , Loki and The Suicide Squad . She now joins the 16-year-old SSVFX, which is known for creating complex visual effects. Related Stories News Playhouse Post Opens Doors On Soho Facility After Halo Assets Deal Executives Former Tubi Production Exec Ashla Soter Joins Post House Digital Sword
-
-In her new role, Thompson will lead on a new phase of development, look to strengthen international partnerships and drive opportunities across feature film and high-end TV. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Ireland &#8216;s VFX industry is attempting to capitalize on the introduction of an enhanced 40% tax credit, which offers qualifying international productions opportunities to undertake large-scale visual effects work in the country.
-
-&#8220;I'm delighted to return to SSVFX at such an exciting time for the studio and the wider Irish VFX industry,&#8221; said Thompson. &#8220;I've always admired the ambition, artistry and collaborative spirit of the team, and it's a privilege to be part of its next chapter.
-
-She boards a leadership team at SSVFX that also includes VFX Supervisor Donal Nolan, who joined earlier this year and was a former Creative Head of Studio at Milk VFX in Dublin. He leads the studio's creative operation alongside longstanding SSVFX VFX Supervisor Ronan Gantly, and the team also includes Head of Production Ciar&#xE1;n Keenan.
-
-Jake Walshe, CEO of the Screen Scene Group, said: &#8220;We are delighted to welcome Jennifer back to SSVFX. She knows our people, our culture and what makes this studio special. Together with Donal, Ronan and Ciar&#xE1;n, we've brought together an exceptional depth of creative and production leadership, with experience spanning some of the world's most respected VFX facilities and ambitious international productions. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-&#8220;We've built a studio in Dublin with a reputation for delivering world-class visual effects, and the strength of this team gives us an exciting opportunity to build on that success. Our focus is on deepening our relationships with filmmakers and production partners, bringing more ambitious projects to Ireland and continuing to develop the extraordinary talent we have here.&#8221;
-
-Thompson added: &#8220;With an incredible depth of creative talent, experienced production leadership and new opportunities opening up for Ireland internationally, we're in a fantastic position to build new partnerships, embrace emerging technologies and take on even bigger and more ambitious projects.&#8221;
-
-============================================================
-[45] Hong Kong Golden Horse Nominee 'We Are Born Good' Heads to U.K. With Trinity CineAsia (EXCLUSIVE)
-Source: Variety | Status: expanded | Words: 543
-Published: 2026-11-18T09:00:00+00:00
-URL: https://variety.com/2026/film/news/hong-kong-golden-horse-nominee-we-are-born-good-uk-1236950196
-------------------------------------------------------------
-SUMMARY:
-Dark comedy "We Are Born Good," which leads this year's Hong Kong contenders at the Golden Horse Awards with nine nominations, has been picked up for the U.K. by Trinity CineAsia. The distributor secured rights from Edko Films and will open the film in British cinemas on Dec. 4. The film is the feature directing […]
-
-CONTENT / EXTRACTED DETAILS:
-Dark comedy &#8220; We Are Born Good ,&#8221; which leads this year's Hong Kong contenders at the Golden Horse Awards with nine nominations, has been picked up for the U.K. by Trinity CineAsia .
-
-The distributor secured rights from Edko Films and will open the film in British cinemas on Dec. 4.
-
-The film is the feature directing debut of Yeung Leung Chuen, who wrote &#8220;Hong Kong Family.&#8221; Golden Horse winner Chung Suet Ying (&#8220;The Way We Talk&#8221;) stars opposite Yeung Wai Lun (&#8220;The Sparring Partner&#8221;). The supporting cast includes Lo Chun Yip (&#8220;Time Still Turns the Pages&#8221;), Kearen Pang (&#8220;Mama's Affair&#8221;), Ng Wing Sze (&#8220;Mad Fate&#8221;) and Yan Yuk Yu Amy (Echaluce) (&#8220;Night King&#8221;). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Benjamín Vicuña, Star of Netflix Hit Series 'Envious,' Joins ‘My Last Stand' by Goya-Winner Matías Bize Oscars: International Feature — ‘La Bola Negra,’ ‘Fjord’ and 'Minotaur' Lead Early Contenders
-
-At the 63rd Golden Horse Awards, the film is up for best narrative feature, leading actor, leading actress, new director and original screenplay, among other categories. It world premiered at Toronto, then traveled to Zurich for its European bow and Pingyao for its Asian launch. It opened in Hong Kong theaters on Oct. 29.
-
-Yeung took his starting point from a CCTV clip that went viral, in which a petty quarrel between a market vendor and a customer turned violent. Rather than dwell on the clash itself, the film digs into what drives people in present-day Hong Kong to snap: money worries, job stress, family duty and social bias, piling up with no release valve. Nobody is painted as a villain. Instead, the story tracks how fury and burnout can tip otherwise decent people into trouble.
-
-Zoey, a rising actor drowning in debt, sets out to get even after a restaurant botches her order and refuses to cook a replacement because it's past closing time. Wing-kat, who runs the place, has his own problems &#x2013; he's only just out of prison. What starts as a minor spat becomes a running feud as both their lives come apart. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-The project came out of Hong Kong's First Feature Film Initiative. GoodNight Production produced, with Patricia Cheng as producer. The film runs 96 minutes and is in Cantonese.
-
-Cedric Behrel, managing director of Trinity CineAsia, said: &#8220;Following our release of &#8216;Hong Kong Family' in North America in 2022, written by Leung Chuen Yeung; we are proud to continue supporting his work by bringing his feature debut &#8216;We Are Born Good' to U.K. audiences, in partnership with our long-time friends at Edko Films. It combines sharp entertainment with genuine emotional depth and establishes Yeung as an exciting emerging filmmaker in East Asian cinema. With its strong festival presence and award recognition, we look forward to strengthening the international reach of contemporary Hong Kong cinema.&#8221;
-
-Trinity CineAsia's recent U.K. and European releases include Bi Gan's Cannes special prize winner &#8220;Resurrection,&#8221; global animation box office champ &#8220;Ne Zha 2,&#8221; Jackie Chan crime actioner &#8220;The Shadow's Edge&#8221; and Teochew-language breakout &#8220;Dear You.&#8221;
-
-============================================================
-[46] Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi
-Source: Variety | Status: expanded | Words: 1635
-Published: 2026-11-18T08:53:00+00:00
-URL: https://variety.com/2026/film/global/jafar-panahi-defense-statement-1236951044
-------------------------------------------------------------
-SUMMARY:
-The heads of Venice and Berlin film festivals as well as actors such as Mark Ruffalo and Tilda Swinton, and directors like Michael Moore, Barry Jenkins and Alex Gibney are among a host of prominent film players who have rallied to the defense of Iranian filmmaker Jafar Panahi. A statement shared with Variety, so far […]
-
-CONTENT / EXTRACTED DETAILS:
-The heads of Venice and Berlin film festivals as well as actors such as Mark Ruffalo and Tilda Swinton , and directors like Michael Moore, Barry Jenkins and Alex Gibney are among a host of prominent film players who have rallied to the defense of Iranian filmmaker Jafar Panahi .
-
-A statement shared with Variety , so far signed by 200 individuals or institutions, states that they are "deeply concerned" by reports of the new prison sentence of five years and one month issued by the Tehran Revolutionary Court against Panahi, as well as the confiscation of his assets, the freezing of his bank accounts, a two-year travel ban and a two-year social media ban. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Benjamín Vicuña, Star of Netflix Hit Series 'Envious,' Joins ‘My Last Stand' by Goya-Winner Matías Bize 'Woman Unknown' Breakout Mathilde Arcel on Her Venice Award-Winning Performance and Life After Her Lido Triumph: 'Everything Is Open'
-
-It notes that in December, Iran issued a sentence against Panahi of one year in prison and a two-year ban on leaving the country. It adds that in March, Panahi "courageously decided to return to Iran, aware of the risks but having always spoken of his deep love for his country, and for his desire to stay and work there."
-
-The statement, which was instigated by the International Coalition for Filmmakers at Risk in collaboration with a group of filmmaker in the U.S. and Europe, follows a similar letter of protest published by Cannes on Tuesday that said the festival "condemns the judicial persecution of Jafar Panahi and calls for the lifting of all restrictions that prevent him from traveling, creating and expressing himself freely."
-
-Other filmmakers to add their names to the latest statement of protest include Kleber Mendon&#xE7;a Filho, Laura Poitras, Rithy Panh, Lucrecia Martel, Liz Garbus, Asif Kapadia, Jacques Audiard, Olivier Assayas, Roger Ross Williams, Catherine Breillat, Dominik Moll and Abigail Disney, as well as actor-writer-director Arthur Harari. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-As well as Alberto Barbera at Venice and Tricia Tuttle at Berlinale, other festival chiefs to sign the statement include Locarno's Giona Nazzaro, Rotterdam's Vanja Kaludjercic, New York's Dennis Lim, Telluride's Julie Huntsinger, Karlovy Vary's Karel Och and IDFA's Isabel Arrate Fernandez.
-
-The statement lists some of Panahi's most acclaimed works, such as "The White Balloon" (1995), winner of Cannes' Cam&#xE9;ra d'Or, "The Circle" (2000), winner of Venice's Golden Lion, "Offside" (2006), winner of Berlin's Silver Bear, "Taxi" (2015), winner of Berlin's Golden Bear, "No Bears" (2022), winner of Venice's Special Jury Prize, and "It Was Just an Accident" (2025), which won Cannes' Palme d'Or.
-
-It then states, "His films have bridged critical gaps in understanding between the world and the Iranian people for the last 30 years."
-
-It adds, "Mr. Panahi's work matters so much precisely because of his commitment to continue to make films that reveal the beauty and diversity of a culture that has been largely hidden from the rest of the world for close to half a century. In the tradition of great Iranian cinema, his films have kept Iran and Iranians present in the world's imagination in the darkest of times, despite all the pressures exerted on him to be silent."
-
-The statement concludes, "We stand in solidarity with Mr. Panahi and all Iranians facing persecution for their work at the hands of their own government. We call on the Tehran Revolutionary Court to rescind all actions to penalize and imprison Mr. Panahi and to abide by the International Covenant on Civil and Political Rights to which the Iranian government is a signatory.
-
-"In this exceptionally heightened moment of conflict and political tension, such artists as Mr. Panahi, who create understanding within and across borders are of utmost importance. The international creative community stands together here to bear witness and to protect freedom of artistic expression everywhere."
-
-Below is the full list of signatories, although it is growing longer by the day (see the original statement here ):
-
-The International Coalition for Filmmakers at Risk Alberto Barbera, Director, Venice Film Festival Vanja Kaludjercic, International Film Festival Rotterdam Tricia Tuttle, Director, Berlinale Giona Nazzaro, Artistic Director, Locarno Film Festival Dennis Lim, Artistic Director, New York Film Festival Julie Huntsinger, Executive Director, Telluride Film Festival Isabel Arrate Fernandez and Cees van t'Hulenaar, Directors, International Documentary Film Festival Amsterdam (IDFA) Nashen Moodley, Director, Sydney International Film Festival The German Film Academy The Austrian Film Academy Acad&#xE9;mie des C&#xE9;sar Arash T. Riahi, Co-chair, Austrian Film Academy Karel Och, Artistic Director and Krystof Mucha, Executive Director, Karlovy Vary IFF Tokyo International Film Festival Hong Kong International Film Festival Busan International Film Festival Kawakita Memorial Film Institute Andr&#xE9;s Bayona, Director, Bogot&#xE1; International Film Festival Renata de Almeida, Director, S&#xE3;o Paulo International Film Festival Ilda Santiago, Director, Rio de Janeiro International Film Festival Laurence Kardish, Co-Director, FilmColumbia Festival, New York Margarita D&#xED;az, General Director, Cartagena International Film Festival Tabitha Jackson, Director, Film Forum Jean Tsien, Governor, Academy of Motion Picture Arts and Sciences Chris Hegedus, Governor, Academy of Motion Picture Arts and Sciences Roger Ross Williams, Governor, Academy of Motion Picture Arts and Sciences Chris Tashima, Governor, Academy of Motion Picture Arts and Sciences Barry Jenkins, Director Mark Cousins, Director Michael Moore, Director Ellen Kuras, Director, Cinematographer Laura Poitras, Filmmaker Mark Ruffalo, Actor, Producer Tilda Swinton, Performer/Producer Kleber Mendon&#xE7;a Filho, Writer, Filmmaker & Film Programmer Alice Braga, Actress Petra Costa, Director Joanna Natasegara, Violet Films Julia Pacetti, AMPAS Eric Sloss, Executive Joslyn Barnes, Producer, Writer, AMPAS, BAFTA, WGA, PGA, DPA, IDA Rabab Haj Yahya, AMPAS &#8211; Documentary Branch Emilie Lesclaux, Producer, Cinemasc&#xF3;pio Eliza Capai, Filmmaker Matheus Farias, Director Anita Rocha da Silveira, Director and Scriptwriter Mauricio Zacharias, Screenwriter Heloisa Passos, Filmmaker and Cinematographer Jeferson De, Director Tatiana Leite, Producer Jean-Michel Frodon, Critic and Professor J&#xE9;r&#xF4;me Bonnell, Director Arnaud des Palli&#xE8;res, Director Philippe Faucon, Director and Producer Pascale Ferran, Director Mariana Oliva, Producer, AMPAS Documentary Branch Sylvain George, Filmmaker Arthur Harari, Filmmaker Teddy Leifer, Rise Films Catherine Breillat, Director Joana Hadjithomas & Khalil Joreige, Artists and Filmmakers Olivier Assayas, Director Dominik Moll, Film director Bertrand Bonello, Director Jacques Audiard, Cin&#xE9;aste Gabriel Mascaro, Director Asif Kapadia, Director Jos&#xE9; Joffily, Director, AMPAS Documentary Branch Robin Campillo, Cin&#xE9;aste Claire Simon, Cin&#xE9;aste/Filmmaker Abigail Anketell-Jones, Violet Films Rithy Panh, Director Mstyslav Chernov, Film Director Marjan Safinia, Filmmaker, AMPAS Documentary Branch Orwa Nyrabia, Producer/Filmmaker Gini Reticker, AMPAS Connie Field, AMPAS Miao Wang, Filmmaker Nazrin Choudhury, AMPAS Laura Nix, AMPAS Documentary Branch Dan Cogan, Story Syndicate Natasha Dack Ojumu, AMPAS, BAFTA Violet Feng, Director and Producer Alicia Sams, Producer/Director, AMPAS Documentary Branch Esther Kling, AMPAS Casting Directors Branch Nigel Noble, Academy Award Documentary Winner Susan Margolin, Producer, AMPAS, BAFTA, PGA, DPA, IDA Joan Churchill, Filmmaker Pan Nalin, Director, AMPAS, European Film Academy, French Film Academy (Cesars) Lindsey Dryden, Director & Producer, AMPAS Documentary Branch Alysa Nahmias, Director Rob Epstein, Filmmaker Alice Henty, Producer, Maylo Films Alison Klayman, Director Grace Lee, Filmmaker, AMPAS Documentary Branch Beth Aala, Filmmaker, AMPAS Documentary Branch Joe Berlinger, AMPAS, BAFTA, DGA, WGA, PGA, NBR, ATAS Christopher Makoto Yogi, Director Mich&#xE8;le Stephenson, Filmmaker, AMPAS Documentary Branch Sarah Beddington, Filmmaker, Director Jes Vesconte, Film Worker Ina Fichman, Producer, Intuitive Pictures, Canada, AMPAS, IDA, DOC Canada, PGA Kimberly Reed, Director/Producer Robin Hessman, AMPAS Documentary Branch, PGA Deborah Shaffer, AMPAS Kellen Quinn, Producer Julian Cautherley, Producer AMPAS Kavery Kaul, Director-Producer Ferne Pearlstein, AMPAS Documentary Branch Alexandra Strauss, Film Editor, AMPAS Robert Edwards, Filmmaker/Screenwriter-WGA Mirra Bank, Filmmaker Karen Dufilho, Producer, AMPAS Animation Branch Marty Syjuco, Filmmaker Tala Hadid, Director Stephanie Lowry, AMPAS Music Branch C Vasarhelyi, Filmmaker Ellen Tolmie, Documentarian Jennifer Tiexiera, Filmmaker, AMPAS Documentary Branch, IDA Board Member Alex Gibney, Director Liz Garbus, Filmmaker Eric Hynes, Curator Meena Nanji, Director Carl Deal, Independent Filmmaker Amy Ziering, Filmmaker AMPAS Sara Silveira, Producer Juliana Rojas, Filmmaker Andrea Barata Ribeiro, Producer Joseph Patel, Filmmaker La&#xED;s Bodanzky, Filmmaker Hilla Medalia, AMPAS Daniel Filho, Director May Leung, Producer, AMPAS Visual Effects Signe Byrge S&#xF8;rensen, Producer, Final Cut for Real Robert Bahar, Filmmaker, AMPAS Ryan Krivoshey, Distributor/Producer Tia Lessin, Filmmaker Elsewhere Films Arhynn Descy, Composer, AMPAS Music Branch Abigail Disney, Filmmaker Rachel Antell, Co-Director, Archival Producers Alliance Vanessa Hope, Filmmaker Robert Kenner, Director Tom Hurwitz, ASC, Cinematographer/Filmmaker Steve Maing, Filmmaker Simon Kilmurry, Producer Lucrecia Martel, Directora de cine argentina Per K. Kirkegaard, Film Editor, AMPAS Documentary Branch Shrihari Sathe, Filmmaker, AMPAS, PGA Plinio Profeta, Composer, AMPAS Ross Kauffman, Filmmaker, AMPAS Documentary Branch Rodrigo Teixeira, AMPAS Jeffrey Friedman, Filmmaker, AMPAS, DGA Carlos Segundo, Director Sabrina Schmidt Gordon, AMPAS, Documentary Filmmaker Benjamin Domenech, Producer Jed DeMoss, Producer Lana Wilson, Filmmaker Nick Broomfield, AMPAS Maria Carlota Bruno, Producer JT Takagi, AMPAS Documentary Branch Kristi Jacobson, Filmmaker Pedro Kos, Filmmaker, AMPAS Gonzalo Maza, Screenwriter, AMPAS Karen Akerman, Editor, AMPAS Documentary Branch Em&#xED;lio Domingos, Filmmaker, AMPAS Documentary Branch Otto Guerra, Animation Director Steven Markovitz, Producer Gary Byungseok Kam, Producer, AMPAS Documentary Branch Claudia Kopke, AMPAS, Costume Designer Branch Catherine Gund, Director, Producer, AMPAS Documentary Branch Sahar Driver, Color Congress Vera Hamburger, Production Designer Sushmit Ghosh, Director Kirby Dick, Filmmaker, AMPAS Orlando von Einsiedel, Filmmaker Helena Solberg, Director Sonia Kennebeck, Director Amelia Hapsari, Filmmaker, AMPAS Documentary Branch Michael Collins, Director, AMPAS Documentary Branch Kate Amend, ACE, Editor, AMPAS Documentary Branch Jeff Reichert, Filmmaker Anna Van Steen, AMPAS Shari Springer Berman, Filmmaker Bernardo Uzeda, AMPAS, Sound Branch Lisa Cort&#xE9;s, Director, AMPAS, Documentary Branch Brett Story, Filmmaker, AMPAS Aviva Slesin, Documentary Filmmaker, AMPAS, DGA Julie Goldman, Producer Rintu Thomas, Filmmaker, AMPAS Documentary Branch John Early, Filmmaker Deborah Dickson, Director, DGA, AMPAS Sonya Childress, Color Congress, AMPAS Documentary Branch Diana Bustamante, Producer-Filmmaker Geeta Gandbhir, Filmmaker Apichatpong Weerasethakul, Filmmaker Lynne Littman, Filmmaker Andrew Stephen Lee, Filmmaker
-
-============================================================
-[47] Harry Styles, Billie Eilish &#038; Sam Fender To Headline Glastonbury 2027
-Source: Deadline | Status: expanded | Words: 402
-Published: 2026-11-18T08:52:40+00:00
-URL: https://deadline.com/2026/11/glastonbury-harry-styles-billie-eilish-sam-fender-cher-1237227792
-------------------------------------------------------------
-SUMMARY:
-Harry Styles, Billie Eilish and Sam Fender are to headline Glastonbury 2027, making them the festival's youngest headliners of the 21st century. The three solo singers will lead the biggest UK festival, coming after a fallow year in 2026. The 2025 edition was helmed by The 1975, Neil Young and Olivia Rodrigo. Cher will also […]
-
-CONTENT / EXTRACTED DETAILS:
-Harry Styles , Billie Eilish and Sam Fender are to headline Glastonbury 2027, making them the festival's youngest headliners of the 21st century.
-
-The three solo singers will lead the biggest UK festival, coming after a fallow year in 2026. The 2025 edition was helmed by The 1975, Neil Young and Olivia Rodrigo.
-
-Cher will also perform, presumably in the now iconic legends slot on Sunday afternoon.
-
-This is former One Direction star Styles' first-ever headline slot at Glastonbury and is in fact the first time he has played there. It comes off the back of his latest album, &#8220;Kiss All The Time. Disco. Occasionally.,&#8221; which was paired with a huge tour including 30 dates at Madison Square Garden. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News BBC Deletes Russell Brand Prison Clip After Playing It "In Error" On 'Today' Show News 'A Passage To India': Ali Fazal, Fiona Shaw & Tom Mison Leading BBC & CBC's TV Reboot
-
-Eilish became the youngest-ever Glastonbury headliner in 2022 aged 20 and returns five years on to lead again. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Like Styles, Fender is headlining for the first time. The rockstar has exploded in popularity of late and his single with Olivia Dean, &#8220;Rein Me In,&#8221; is now the longest-running number one in UK chart history.
-
-With a combined age of just 88, the trio are the youngest Glastonbury headliners of this century.
-
-Cher is another buzzy name on the Worthy Farm list, along with the likes of Lily Allen, Massive Attack and Little Simz.
-
-Glastonbury takes place June 23-27 and is the UK's biggest music festival.
-
-This year's Glasto will prove to be a stern test for the BBC . The 2025 edition devolved into chaos when the broadcaster failed to remove from iPlayer a live stream of controversial rap punk band Bob Vylan, whose lead singer chanted &#8220;death to the IDF&#8221; and complained about working for a "f***ing Zionist." The corporation has since bought in a new set of processes and has a new Director General.
-
-============================================================
-[48] The Worst Star Wars Release of All Time Turns 48, But Even The Mandalorian Still Referenced It
-Source: ComicBook.com | Status: expanded | Words: 767
-Published: 2026-11-18T08:45:00+00:00
-URL: https://comicbook.com/movies/feature/the-worst-star-wars-release-of-all-time-turns-48-but-even-the-mandalorian-still-referenced-it
-------------------------------------------------------------
-SUMMARY:
-Fans of Star Wars are known for both the good and, bad as they can be passionate, overtly negative about new things, and disagreeable, yet they all seem to at least share one opinion, which is about the worst entry in the franchise. A film like Star Wars: The Last Jedi, which is despised by […]
-
-CONTENT / EXTRACTED DETAILS:
-The widespread success of the original film in 1977 meant that people wanted more Star Wars as soon as possible. So, in 1978, two years before The Empire Strikes Back , we got The Star Wars Holiday Special broadcast on TV. It brought back the original cast, introduced one of the most popular characters in the franchise, and yet was met with negative reviews from basically everyone. However, despite its standing as the low point of the series, it has gained cult status over the years and even got referenced in the biggest modern Star Wars hit, The Mandalorian .
-
-On paper, The Star Wars Holiday Special is just a simple good time. It follows the events of the original film and takes place on Kashyyyk, the Wookiee home planet of fan favorite Chewbacca. Simply getting to explore more of this universe is enough to warrant a special like this, especially since we got to see what the world of Wookiees was like and understand more about Chewbacca. The heroes were there to celebrate Life Day, yet they ended up getting pursued by agents of the Empire.
-
-That might sound like a fine little adventure but the reception to the special was immediately negative. The Star Wars Holiday Special was named the dumbest event in television history by David Hofstede, who called it the worst two hours of TV ever. It also sits at a mere 25% on Rotten Tomatoes, which is easily the lowest number for a Star Wars project. George Lucas, who wasn't significantly involved, was unhappy with the finished product, while the cast has also had unpleasant things to say about it.
-
-Harrison Ford has admitted that he has never seen it and didn't even acknowledge the special at first. Mark Hamill has also admitted that he never watched it in full, while Carrie Fisher said she received a rare copy of it from George Lucas (the special famously never received a home video release) so she could put it on at parties when she wanted people to leave. Anthony Daniels, the longtime voice of C-3PO , called the special a &#8220;turd&#8221; in his autobiography. All that said, the project has become popular with fans for its wackiness and the holiday theme, though even those who enjoy it still consider it the low point of Star Wars history.
-
-Despite the negative reception to The Star Wars Holiday Special , it remains canon. The most notable element of it is the debut of Boba Fett, who went on to become a hugely popular character in The Empire Strikes Back and eventually received his own disappointing show, The Book of Boba Fett . The animated segment is short, yet remains the high point of The Star Wars Holiday Special . The special has also gotten referenced more as time has gone on, including in the premiere episode of The Mandalorian in 2019. It's only a quick nod at first, but the show mentions Life Day on Kashyyyk.
-
-On top of that, The Mandalorian also features a gunfighter who uses a weapon that is clearly the same as the one that Boba Fett used in the animated segment of the special (or is at least a reference to it). While The Mandalorian is the most prominent part of the franchise to bring up The Star Wars Holiday Special , it is far from alone. For starters, several novels feature Chewbacca's family members, who were introduced in this special, while games like Star Wars: Galaxies and Star Wars: The Old Republic explore Kashyyyk and Life Day.
-
-There was even a Life Day comic book released in 2021 and one of the newest Disney+ shows, Star Wars: Skeleton Crew , includes a nod through a hologram circus that is similar to what Lumpy used in The Star Wars Holiday Special . The project has also been referenced in pop culture by Community, The Big Bang Theory , and Weird Al Yankovic. James Gunn even cited it as inspiration for The Guardians of the Galaxy Holiday Special . Thanks to nods in pop culture and The Mandalorian , interest in The Star Wars Holiday Special has grown, leading to a 2023 Disney+ documentary on the making of it.
-
-Do you have a soft spot for The Star Wars Holiday Special or do you hate it? Discuss your feelings on it in the comments!
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] 'Intimacy on Prescription' Wins Main Prize at Tallinn's TV Beats Co-Financing Market
-Source: The Hollywood Reporter | Status: expanded | Words: 513
-Published: 2026-11-18T08:23:05+00:00
-URL: https://www.hollywoodreporter.com/tv/tv-news/intimacy-on-prescription-main-prize-tallinn-tv-beats-market-1236758301
-------------------------------------------------------------
-SUMMARY:
-"Can good sex save every marriage?" reads a synopsis of the show. "In 1970s Czechoslovakia, two therapists try to prove it."
-
-CONTENT / EXTRACTED DETAILS:
-Czech-Slovak drama Intimacy on Prescription won the main prize at the TV Beats Co-Financing Market of Industry@Tallinn & Baltic Event (ITBE) , the market of the Tallinn Black Nights Film Festival (P&#xD6;FF) in Estonia, whose 30th edition runs through this weekend.
-
-A total of four awards were handed out to the most promising series projects of the 2026 edition of the event (its sixth in total).
-
-The TV Beats Co-Financing Market brought together 10 series projects, originating from Czechia, Estonia, Finland, Lithuania, Ireland, Spain, Belgium, Poland, and Iceland, to be co-developed in collaboration with other European countries. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Movies 'You Can See Everything' Cinematographer on Billy Evans' Nude Scene and Tension Between Him and the Team General News From Venice Winner 'Woman Unknown' and Westeros to 'Star City': Meet Some of the Baltic Craft Specialists Who've Worked on Int'l Productions
-
-The main prize is the &#x20AC;50,000 ($55,000) Council of Europe Series Co-Production Development Award. Intimacy on Prescription is directed by Ji&#x159;&#xED; Havelka, written by Kristina M&#xE1;jov&#xE1; and produced by Luk&#xE1;&#x161; Gargul&#xE1;k and Karolina Zalabakova of Cinebonbon. The jury praised the project's &#8220;originality, universal theme, fresh perspective on 1970s Eastern European society and thorough research.&#8221;
-
-&#8220;Can good sex save every marriage?&#8221; reads a synopsis of the show. &#8220;In 1970s Czechoslovakia, two therapists try to prove it.&#8221;
-
-Here is more on the series: &#8220;An experimental residential sex therapy unit opens inside a psychiatric clinic in Krom&#x11B;&#x159;&#xED;&#x17E;. Married couples arrive for a two-week stay hoping to save relationships that have stopped working at home and in bed. Each case begins as a sexual problem, but gradually reveals deeper wounds: shame, power, fear, trauma and the longing to be understood. At the center stand charismatic sexologist Franti&#x161;ek Muller and precise psychologist Petra T&#xE1;nsk&#xE1;, whose methods clash as much as they complement each other. As the clinic becomes an island of openness in a rigid society, the doctors' own lives begin to fall apart.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Meanwhile, the MIDPOINT Talent Award was presented to the Belgian psychological thriller series The Inheritance , written by Alexandra Jans and Jan Van Dyck and produced by Kristoffel Mertens, Kato Maes and Karlijn Van de Cruys of Panenka. The award offers in-depth script development guidance from an experienced MIDPOINT Institute mentor.
-
-Here's the synopsis for the show: &#8220;To save her struggling animal shelter, Hanne lies her way into the wealthy hunting family of the father she never knew, searching for the missing will that could change everything.&#8221;
-
-The Irish-Canadian series Tanner , produced by F&#xED;b&#xED;n Films and Rhombus Media, received two awards: the TV Drama Vision Select Award, giving it visibility at TV Drama Vision in Gothenburg in 2027, and the Conecta 2027 Award.
-
-The synopsis for this project is short and to the point, reading: &#8220;A former intelligence officer's search for a missing boy exposes a threat to democracy itself.&#8221;
-
-============================================================
-[50] Nawazuddin Siddiqui's Indian 'House' Adaptation 'Dr. Hassan' Sets December Premiere on JioHotstar (EXCLUSIVE)
-Source: Variety | Status: expanded | Words: 668
-Published: 2026-11-18T08:15:00+00:00
-URL: https://variety.com/2026/tv/news/nawazuddin-siddiqui-house-adaptation-dr-hassan-premiere-1236950232
-------------------------------------------------------------
-SUMMARY:
-The Indian adaptation of Universal Television's medical drama "House," starring Nawazuddin Siddiqui as a brilliant but difficult diagnostician, will premiere Dec. 11 on JioHotstar under the title "Dr. Hassan." Dia Mirza co-stars in the show, directed by Rohan Sippy, with a cast that also includes Faisal Rashid, Rehmat Rattan, Jayson Thaam and Smaran Sanu. JioHotstar […]
-
-CONTENT / EXTRACTED DETAILS:
-The Indian adaptation of Universal Television's medical drama &#8220; House ,&#8221; starring Nawazuddin Siddiqui as a brilliant but difficult diagnostician, will premiere Dec. 11 on JioHotstar under the title &#8220; Dr. Hassan .&#8221;
-
-Dia Mirza co-stars in the show, directed by Rohan Sippy, with a cast that also includes Faisal Rashid, Rehmat Rattan, Jayson Thaam and Smaran Sanu. JioHotstar commissioned the series and Banijay Asia produced it, under a license for the format from NBCUniversal Formats, a Universal Studio Group company. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Disney Quarterly Revenue Rises 16% and Profit Doubles; Company Forecasts $3 Billion in Annual Cost Savings by 2029 Including Through Layoffs AI Vocal Modifier Voicemod Inks Disney Deal to Add Star Wars, Marvel Soundboards to Platform
-
-Siddiqui's character is an unconventional doctor with a knack for solving baffling cases and an eccentric streak to match. When a medical mystery has stumped everyone else, Hassan is the one people call on, though his quirks make him as hard to predict as the illnesses he treats. JioHotstar is positioning the show as more than a standard hospital drama, mixing puzzling cases with humor and friction between its characters.
-
-Siddiqui recalled time spent as a child around the clinics and dispensaries of his hometown. &#8220;There were always such interesting people and situations unfolding there. Some of those memories came back to me when I read &#8216;Dr. Hassan.' What I enjoyed about playing him was finding the balance between his exceptional intelligence and his very particular way of looking at the world,&#8221; he said.
-
-Vinay Chhawal and Ketan Pedgaonkar adapted and wrote the series, with dialogue by Virat Basoya. Deepak Dhar, Rishi Negi, Rajesh Chadha, Mrinalini Jain and Shyam Rathi are producers, and Vibhas Singh Gautam is executive producer for Banijay Asia. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-&#8220;Great characters travel, but they truly come alive when they are rooted in the world of the audience watching them. &#8216;House' gave the world one of television's most unforgettable characters, and with &#8216;Dr. Hassan,' we wanted to reimagine that spirit through an Indian lens, with its own humor and humanity,&#8221; said Alok Jain, head of Hindi and English entertainment business (streaming, TV and studios) at JioStar.
-
-&#8220;Dr. Hassan&#8221; is the third international version of &#8220;House,&#8221; after adaptations in Russia and Turkey. It is also the latest show NBCUniversal Formats and Banijay Asia have co-produced in India, following &#8220;Mistry,&#8221; the local take on &#8220;Monk,&#8221; and &#8220;Million Dollar Listing India,&#8221; which has had two seasons.
-
-Dhar, founder and CEO of Banijay Asia and Endemol Shine India, said the company had approached the Indian version with care, given the show's global fan base. &#8220;At its heart is a truly singular character: sharp, flawed, often difficult, and impossible to ignore. Bringing him to life needed a creative team and cast that could balance gripping medical mysteries with wit and emotional depth, and Nawazuddin is an actor who brings real depth to everything he does,&#8221; Dhar said.
-
-Created by David Shore, the original &#8220;House&#8221; starred Hugh Laurie and ran for eight seasons on Fox between 2004 and 2012. Heel and Toe Films, Shore Z Productions, Bad Hat Harry Productions and Universal Television produced the series, which picked up five Primetime Emmys, two Golden Globes, a Peabody and nine People's Choice Awards. Katie Jacobs, Shore, Paul Attanasio, Bryan Singer and Dan Sackheim were executive producers.
-
-Linfield Ng, VP of format sales and production at NBCUniversal Formats, said the company was pleased to be working with Banijay Asia and JioHotstar once again. &#8220;With an exceptional cast and creative team, we're excited to see this latest adaptation offer a fresh perspective on a globally loved series,&#8221; Ng said.
-
-The India titles form part of a wider push across Asia for NBCUniversal Formats, which had 39 seasons on air in 17 territories in 2025.
 
