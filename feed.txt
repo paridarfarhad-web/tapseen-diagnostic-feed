@@ -1,15 +1,35 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T16:51:52.846Z
+Last Updated: 2026-11-18T16:57:44.808Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Elon Musk Has Invested in Skydance, David Ellison Confirms: 'To Have Him as a Shareholder Is an Honor'
+[1] David Ellison Says There Might Be "Some News Sharing In The Future" Between CBS And CNN
+Source: Deadline | Status: expanded | Words: 246
+Published: 2026-11-18T16:56:03+00:00
+URL: https://deadline.com/2026/11/david-ellison-cbs-news-cnn-merger-1237228073
+------------------------------------------------------------
+SUMMARY:
+Skydance CEO David Ellison said that the company is "incredibly happy" operating CNN and CBS News as they are, but suggested that there "might be some news sharing in the future." Ellison's comments, during The New York Times' DealBook Summit, hint at a possible new arrangement for the two news giants, which have operated independently […]
+
+CONTENT / EXTRACTED DETAILS:
+Skydance CEO David Ellison said that the company is &#8220;incredibly happy&#8221; operating CNN and CBS News as they are, but suggested that there &#8220;might be some news sharing in the future.&#8221;
+
+Ellison's comments, during The New York Times' DealBook Summit, hint at a possible new arrangement for the two news giants, which have operated independently since Skydance closed its deal to purchase Warner Bros. Discovery last month.
+
+Andrew Ross Sorkin asked Ellison whether he sees &#8220;a point a year from now, two years from now, where these institutions merge.&#8221;
+
+&#8220;Right now, we are incredibly happy operating them basically within the status quo,&#8221; Ellison said. &#8220;I think you also have &#8230; there might be some news sharing in the future. But right now we're operating them as they are.&#8221; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+As the time of the deal close, CNN's Mark Thompson has remained atop the news organization, while Bari Weiss has continued to serve as editor in chief of CBS News. But Skydance is under the gun to cut costs, and announced a companywide offering of buyouts.
+
+============================================================
+[2] Elon Musk Has Invested in Skydance, David Ellison Confirms: 'To Have Him as a Shareholder Is an Honor'
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-18T16:49:58+00:00
 URL: https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800
 ------------------------------------------------------------
 SUMMARY:
-David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed from the merger of Paramount and Warner Bros. Discovery. Musk, the world's richest person, invested about $1 billion in Skydance post-merger, CNBC and Semafor reported last month. Ellison, speaking Wednesday at the New York Times’ 2026 […]
+David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed through the merger of Paramount and Warner Bros. Discovery. Musk, the world's richest person, invested about $1 billion in Skydance post-merger, CNBC and Semafor reported last month. Ellison, speaking Wednesday at the New York Times’ 2026 […]
 
 CONTENT / EXTRACTED DETAILS:
 David Ellison , chairman and CEO of Skydance , confirmed that tech mogul Elon Musk has invested in the company, formed from the merger of Paramount and Warner Bros. Discovery.
@@ -25,7 +45,7 @@ Ellison continued, &#8220;So to have his vote of confidence and to have him as a
 Ellison's Paramount Skydance closed its $111 billion megamerger with Warner Bros. Discovery on Oct. 6 , with major backing from his father, Larry Ellison. The company, one of the biggest media and entertainment conglomerates in the industry, has around $80 billion in net debt and is expected to lay off thousands of employees as part of achieving $6 billion in annualized savings by 2029.
 
 ============================================================
-[2] Robert Pattinson Trolled by U.K. Government in Youth Employment Scheme Post After Bond Reveal: He’ll ‘Apply for All 90,000 Jobs’
+[3] Robert Pattinson Trolled by U.K. Government in Youth Employment Scheme Post After Bond Reveal: He’ll ‘Apply for All 90,000 Jobs’
 Source: Variety | Status: expanded | Words: 353
 Published: 2026-11-18T16:45:07+00:00
 URL: https://variety.com/2026/film/global/robert-pattinson-trolled-by-uk-government-after-bond-reveal-1236951991
@@ -49,7 +69,7 @@ As it happens, Pattinson was joking about his appetite for taking other people's
 In a comment that has since resurfaced, he was asked in a 2025 Vanity Fair interview with Jennifer Lawrence about returning to the &#8220;Twilight&#8221; franchise. &#8220;I like taking jobs off younger actors. I do. I wanna play 17 again,&#8221; he said.
 
 ============================================================
-[3] Bellevue Productions Hires Literary Manager David Baggelaar
+[4] Bellevue Productions Hires Literary Manager David Baggelaar
 Source: Deadline | Status: expanded | Words: 385
 Published: 2026-11-18T16:45:00+00:00
 URL: https://deadline.com/2026/11/david-baggelaar-joins-bellevue-productions-1237227969
@@ -61,7 +81,7 @@ CONTENT / EXTRACTED DETAILS:
 EXCLUSIVE: Bellevue Productions , the literary management and production company led by President John Zaozirny, has announced the hiring of literary manager David Baggelaar , who joins following more than a decade at Benderspink and its successor company, Good Fear. Bringing with him a roster of film and television writers, directors and IP creators, Baggelaar will continue developing his existing clients while working to expand Bellevue's roster across both film and television. Clients joining Baggelaar include Monisha Dadlani ( The Marigold Paradox ), Julian Terry ( Don't Peek ), Michael Feldman & Debbie Jhoon ( A.P. Bio , Not Dead Yet ), Rohit Kumar ( 13 Reasons Why , Wheel of Time ), Min-Woo Park ( Grey's Anatomy ), Brandi Nicole ( Your Honor , Ballard ), Woody Strassner ( FBI ), Amelia Sims ( S.W.A.T. ) and Barnett Brettler ( Black Mad Wheel ). Baggelaar's production experience includes work on New Line's We're the Millers , Horrible Bosses 2 and Vacation , as well as Disney's Mulan , and serving as an associate producer on A24's Under the Silver Lake . He told us, &#8220;From my first conversations with the Bellevue team, I felt an immediate connection. Their client-first approach and genuine dedication to the craft of development are exactly what I was looking for, both for myself and for those I represent, and I couldn't be more excited to build the next chapter of my career here.&#8221; Bellevue's Zaozirny said, &#8220;David's deep industry experience, keen eye for talent, and extensive background in production make him an incredibly exciting manager to work alongside and we're lucky to have him at Bellevue. We can't wait to see how he continues to develop the amazing clients he's already working with and what bold new voices he'll be signing now that he's here.&#8221; Founded in 2015, Bellevue is known for its knack for breaking emerging writers. Clients have placed 72 scripts on the last 11 Black Lists, with No. 1 scripts in 2016, 2020, 2021 and 2025. The company's upcoming production slate includes Paramount's K-Pop: The Debut and Warner Bros.' Shiver , both scheduled for theatrical release in 2027. Related Stories News The Black List 2022 Scorecard: CAA, Bellevue Productions Top Agency And Management Lists Agencies The Black List 2021 Scorecard: Scripts By Agency & Management Company
 
 ============================================================
-[4] 'Frisco King' Trailer: Samuel L. Jackson Helps Expand Taylor Sheridan's 'Tulsa King' Universe In Texas-Set Paramount+ Series
+[5] 'Frisco King' Trailer: Samuel L. Jackson Helps Expand Taylor Sheridan's 'Tulsa King' Universe In Texas-Set Paramount+ Series
 Source: The Playlist | Status: summary_only | Words: 105
 Published: 2026-11-18T16:43:38+00:00
 URL: https://theplaylist.net/frisco-king-trailer-samuel-l-jackson-20261118
@@ -73,7 +93,7 @@ CONTENT / EXTRACTED DETAILS:
 Box office king Samuel L. Jackson is looking to make his mark on the small screen with his " Tulsa King " spinoff show " Frisco King ," as they'll be exploring the world of crime in Frisco, Texas, pivoting from locations such as Oklahoma and NYC. Of course, as you'd expect, the new TV streaming project is written by Taylor Sheridan (who had landed a new development deal at NBCUniversal ) and produced by Paramount Television Studio s and 101 Studios . Continue reading 'Frisco King' Trailer: Samuel L. Jackson Helps Expand Taylor Sheridan's 'Tulsa King' Universe In Texas-Set Paramount+ Series at The Playlist.
 
 ============================================================
-[5] Gabriel Luna on How Arnold Schwarzenegger's Christmas Party Led Him to 'The Terminal List' and 'Dexter: Resurrection'
+[6] Gabriel Luna on How Arnold Schwarzenegger's Christmas Party Led Him to 'The Terminal List' and 'Dexter: Resurrection'
 Source: The Hollywood Reporter | Status: expanded | Words: 4267
 Published: 2026-11-18T16:43:12+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/gabriel-luna-terminal-list-dexter-last-of-us-1236756570
@@ -207,7 +227,7 @@ Oh man, I'm ready. That was a great milestone in my life and my career. I've mai
 *** Dexter: Resurrection s eason two is currently streaming on Paramount+ Premium ; The Terminal List season two is also available in full on Amazon Prime Video.
 
 ============================================================
-[6] GTA 6 - How to Make Money Early in the Game
+[7] GTA 6 - How to Make Money Early in the Game
 Source: ComicBook.com | Status: expanded | Words: 625
 Published: 2026-11-18T16:42:57+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-how-to-make-money-early-in-the-game
@@ -237,7 +257,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Survivor's Fun Little Boat Ride With Christian Was Actually Rough For Production To Figure Out
+[8] Survivor's Fun Little Boat Ride With Christian Was Actually Rough For Production To Figure Out
 Source: CinemaBlend | Status: expanded | Words: 211
 Published: 2026-11-18T16:42:50+00:00
 URL: https://www.cinemablend.com/television/survivor-fun-boat-ride-christian-rough-for-production-figure-out-jeff-probst
@@ -253,7 +273,7 @@ Talk about a logistical puzzle. Survivor is a huge production , but I never thou
 Well, my mind is spinning. As a longtime fan of the show, the difficulty of shooting the show is sometimes lost on me. After all, I'm usually more invested in the gameplay, and how well my Survivor draft picks are doing. There's so much that goes into each season's production that we never think of, which is why I appreciate Probst giving us these details about how it all comes together.
 
 ============================================================
-[8] Miraculous: Tales of Ladybug &#038; Cat Noir Season 7 Confirms Disney Release Date - Watch Trailer
+[9] Miraculous: Tales of Ladybug &#038; Cat Noir Season 7 Confirms Disney Release Date - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 492
 Published: 2026-11-18T16:42:16+00:00
 URL: https://comicbook.com/tv-shows/news/miraculous-tales-of-ladybug-cat-noir-season-7-confirms-disney-release-date-watch-trailer
@@ -277,7 +297,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Lenovo's New Googlebook Blurs the Line Between a Laptop and Smartphone
+[10] Lenovo's New Googlebook Blurs the Line Between Laptop and Smartphone
 Source: The Hollywood Reporter | Status: expanded | Words: 387
 Published: 2026-11-18T16:40:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/lenovo-googlebook-15-touchscreen-gemini-laptop-best-buy-deal-1236757803
@@ -299,7 +319,7 @@ As for the price, since this device is eligible for Best Buy's Plus & Total memb
 Related: Hey, Biohackers: Bryan Johnson's Longevity Diet Just Hit Meal Delivery
 
 ============================================================
-[10] Agatha Christie Series 'Tommy &#038; Tuppence' Coming to Channel 5 in the U.K.
+[11] Agatha Christie Series 'Tommy &#038; Tuppence' Coming to Channel 5 in the U.K.
 Source: Variety | Status: expanded | Words: 417
 Published: 2026-11-18T16:37:24+00:00
 URL: https://variety.com/2026/tv/global/agatha-christie-tommy-tuppence-stream-channel-5-uk-1236952007
@@ -325,7 +345,7 @@ Added Eclair-Powell: "I'm so excited to see &#8216;Agatha Christie's Tommy & Tup
 The series was executive produced by Katie Draper, Louise Mutter, Laura Lankester and Juliette Howell for Lookout Point as well as Eclair-Powell and James Prichard for Agatha Christie Limited. BBC Studios struck the deal with 5 and is handling global sales.
 
 ============================================================
-[11] 'Return Of The Living Dead' Sequel Heads To Shoot With Johnny Knoxville Among Cast
+[12] 'Return Of The Living Dead' Sequel Gearing Up With Johnny Knoxville Among Cast
 Source: Deadline | Status: expanded | Words: 710
 Published: 2026-11-18T16:33:30+00:00
 URL: https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914
@@ -357,7 +377,7 @@ An adjacent project of the same name was in the works in recent years with Wolsh
 Knoxville is repped by CAA and Sloane, Offer. Snowber is represented by Tresdale MGMT and Pallas Management Group. Richardson is represented by CBM and Untitled Ent. Jones is represented by Omnipop Talent Group. Gunn is repped by UTA, Mitch Clem Management, and Frankfurt Kurnit Klein & Selz.
 
 ============================================================
-[12] WME Signs Kurtis David Harder, Filmmaker Behind 'Influencer' Duology
+[13] WME Signs Kurtis David Harder, Filmmaker Behind 'Influencer' Duology
 Source: Deadline | Status: expanded | Words: 262
 Published: 2026-11-18T16:30:00+00:00
 URL: https://deadline.com/2026/11/kurtis-david-harder-signs-wme-1237227958
@@ -379,7 +399,39 @@ Harder made his directorial debut with Incontrol , a sci-fi thriller exploring d
 Harder's producing credits include What Keeps You Alive , Harpoon and V/H/S/94 . He has also developed The Trip , a psychedelic thriller for Screen Gems, and continues to be managed by Aperture Entertainment.
 
 ============================================================
-[13] Rockstar Confirms GTA 6 Will Never Get a 60fps Mode on PS5 and Xbox Series X/S
+[14] 'Frisco King' Trailer: Samuel L. Jackson "Is Gonna Rob This Place Blind" In Taylor Sheridan's 'Tulsa King' Spinoff
+Source: Deadline | Status: expanded | Words: 540
+Published: 2026-11-18T16:30:00+00:00
+URL: https://deadline.com/2026/11/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647
+------------------------------------------------------------
+SUMMARY:
+UPDATED: Paramount+ has released the official trailer for Frisco King, Taylor Sheridan's upcoming Tulsa King spinoff starring Samuel L. Jackson. "There's three kinds of people in this world," Jackson's Russell Lee Washington Jr. says in the trailer. Givers, takers and takeaway-ers." "What is a takeaway-er?" he is asked. "Oh that's me," he replies. Written entirely […]
+
+CONTENT / EXTRACTED DETAILS:
+UPDATED: Paramount+ has released the official trailer for Frisco King , Taylor Sheridan &#8216;s upcoming Tulsa King spinoff starring Samuel L. Jackson .
+
+&#8220;There's three kinds of people in this world,&#8221; Jackson's Russell Lee Washington Jr. says in the trailer. Givers, takers and takeaway-ers.&#8221; &#8220;What is a takeaway-er?&#8221; he is asked. &#8220;Oh that's me,&#8221; he replies.
+
+Written entirely by Sheridan, per the logline, Frisco King follows seasoned New Orleans gangster Lee Washington as he lands in Frisco, Texas, and discovers a hustler's playground hidden beneath the polished surface of American suburbia. Recruiting an ambitious prot&#xE9;g&#xE9;, a loyal driver, and a growing network of eccentric partners, Lee transforms small hustles into big business. But, every new score raises the stakes, and as his influence grows, so do the risks, forcing Lee to stay one grift ahead. Frisco may not know it yet, but its new king has arrived. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Yellowjackets' Co-Creator Bart Nickerson Hints That Unreleased Bonus Episode Didn't Fit "Canon Of The Show" News 'Avatar: Seven Havens' Sets Book 2 Release Date At Paramount+
+
+Frisco King premieres December 18 with two episodes, exclusively on Paramount+. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+See additional series details below and watch the new trailer above.
+
+PREVIOUS, October 15: The first look at Taylor Sheridan's Tulsa King spinoff has arrived. Paramount+ released a teaser Thursday morning for the upcoming series Frisco King starring Samuel L. Jackson.
+
+In Frisco King, Jackson reclaims the role of Russell Lee Washington Jr., this time lording over a Texas suburb. The series premieres December 18 with two episodes followed by new episodes every Friday.
+
+Written entirely by Sheridan, Frisco King follows seasoned New Orleans gangster Lee Washington as he lands in Frisco, Texas, and discovers a hustler's playground hidden beneath the polished surface of American suburbia. Recruiting an ambitious prot&#xE9;g&#xE9;, a loyal driver, and a growing network of eccentric partners, Lee transforms small hustles into big business. But, every new score raises the stakes, and as his influence grows, so do the risks, forcing Lee to stay one grift ahead. Frisco may not know it yet, but its new king has arrived. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Jackson's character, Russell Lee Washington Jr., was first introduced in the third season of Tulsa King , which premiered in September on Paramount+.
+
+In addition to Jackson, the series stars Asa Germann, Kai Caster, Lilah Pate and Savanna Gann, with a special appearance by Sylvester Stallone.
+
+Produced by Paramount Television Studios and 101 Studios, Frisco King is executive produced by Sheridan, Stallone, Jackson. Glasser, Ron Burkle, David Hutkin, Bob Yari, Christina Alexandra Voros, Michael Friedman, LaTanya Richardson Jackson and Keith Cox also executive produce. Additionally, Voros and Friedman both directed four episodes with Voros directing the pilot.
+
+============================================================
+[15] Rockstar Confirms GTA 6 Will Never Get a 60fps Mode on PS5 and Xbox Series X/S
 Source: ComicBook.com | Status: expanded | Words: 411
 Published: 2026-11-18T16:29:55+00:00
 URL: https://comicbook.com/gaming/news/rockstar-confirms-gta-6-will-never-get-a-60fps-mode-on-ps5-and-xbox-series-x-s
@@ -403,7 +455,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] VisionQuest’s Blink-And-You-Miss-It Scarlet Witch Detail Fixes a Major Fan Complaint
+[16] VisionQuest’s Blink-And-You-Miss-It Scarlet Witch Detail Fixes a Major Fan Complaint
 Source: ComicBook.com | Status: expanded | Words: 442
 Published: 2026-11-18T16:29:15+00:00
 URL: https://comicbook.com/tv-shows/news/visionquests-blink-and-you-miss-it-scarlet-witch-detail-fixes-a-major-fan-complaint
@@ -427,7 +479,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Brad Pitt Wants To Make a Sequel to The 2025 Hit That Set His Own Box Office Record
+[17] Brad Pitt Wants To Make a Sequel to The 2025 Hit That Set His Own Box Office Record
 Source: ComicBook.com | Status: expanded | Words: 474
 Published: 2026-11-18T16:28:21+00:00
 URL: https://comicbook.com/movies/news/brad-pitt-wants-to-make-a-sequel-to-the-2025-hit-that-set-his-own-box-office-record
@@ -451,7 +503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] I Didn't See It Coming When Caitlin Clark Spilled Tea About 'Nervous' Moments Watching Travis Kelce With Taylor Swift
+[18] I Didn't See It Coming When Caitlin Clark Spilled Tea About 'Nervous' Moments Watching Travis Kelce With Taylor Swift
 Source: CinemaBlend | Status: expanded | Words: 190
 Published: 2026-11-18T16:27:08+00:00
 URL: https://www.cinemablend.com/television/caitlin-clark-spilled-tea-nervous-watching-travis-kelce-taylor-swift
@@ -467,7 +519,7 @@ During that game, Kelce did take a break in the first half due to an ankle injur
 Overall, it feels like Clark is very friendly with the Kelces and Swift, and maybe she is a good luck charm. While she looked shocked when the pop star hugged her at a game in 2025, it would seem they’re tight now, and they are good at supporting each other through stressful games.
 
 ============================================================
-[17] 'The Comeback King' Trailer: Glen Powell Is a Washed-Up Country Star in Judd Apatow's New Comedy
+[19] 'The Comeback King' Trailer: Glen Powell Is a Washed-Up Country Star in Judd Apatow's New Comedy
 Source: Variety | Status: expanded | Words: 398
 Published: 2026-11-18T16:21:50+00:00
 URL: https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505
@@ -489,7 +541,7 @@ Apatow and Powell co-wrote the script for &#8220;The Comeback King,&#8221; which
 Watch the full &#8220;Comeback King&#8221; trailer below.
 
 ============================================================
-[18] Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done
+[20] Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done
 Source: Variety | Status: expanded | Words: 853
 Published: 2026-11-18T16:15:00+00:00
 URL: https://variety.com/2026/film/news/the-odyssey-steven-spielberg-christopher-nolan-matt-damon-1236951881
@@ -523,7 +575,7 @@ He revealed it was a collaboration with both the visual effects and special effe
 "The Odyssey" opened in July to a $264.1 million global debut, the biggest of Nolan's career. It has since crossed $1.8 billion, becoming his highest-grossing film. Universal and Nolan's team are continuing to focus on the format. Nearly every Los Angeles screening is tagged Imax 70mm, 70mm or 35mm, reminding viewers that the film was shot entirely using Imax cameras and built to be judged on a screen the size of a building and not on a laptop or their home TV using the Academy digital portal.
 
 ============================================================
-[19] The '90s Weirdest Spider-Man Story Gets Even Stranger for New Marvel TV Show, According to Report
+[21] The '90s Weirdest Spider-Man Story Gets Even Stranger for New Marvel TV Show, According to Report
 Source: ComicBook.com | Status: expanded | Words: 478
 Published: 2026-11-18T16:12:49+00:00
 URL: https://comicbook.com/movies/news/the-90s-weirdest-spider-man-story-gets-even-stranger-for-new-marvel-tv-show-according-to-report
@@ -545,7 +597,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] The Batman's Robert Pattinson Is the New 007, So Now Is the Perfect Time to Discover James Bond's Wild Comic Book History
+[22] The Batman's Robert Pattinson Is the New 007, So Now Is the Perfect Time to Discover James Bond's Wild Comic Book History
 Source: ComicBook.com | Status: expanded | Words: 1015
 Published: 2026-11-18T16:09:00+00:00
 URL: https://comicbook.com/comics/feature/the-batmans-robert-pattinson-is-the-new-007-so-now-is-the-perfect-time-to-discover-james-bonds-wild-comic-book-history
@@ -579,7 +631,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Ted: The Animated Series Confirms Return of Peacock Series' Best Characters With One Glaring Absence
+[23] Ted: The Animated Series Confirms Return of Peacock Series' Best Characters With One Glaring Absence
 Source: ComicBook.com | Status: expanded | Words: 513
 Published: 2026-11-18T16:04:24+00:00
 URL: https://comicbook.com/tv-shows/news/ted-the-animated-series-confirms-return-of-peacock-series-best-characters-with-one-glaring-absence
@@ -603,7 +655,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] The Internet Can’t Stop Talking About People’s Mouths In Netflix’s The Christmas Switch. I Can’t Unsee It
+[24] The Internet Can’t Stop Talking About People’s Mouths In Netflix’s The Christmas Switch. I Can’t Unsee It
 Source: CinemaBlend | Status: expanded | Words: 245
 Published: 2026-11-18T16:02:44+00:00
 URL: https://www.cinemablend.com/streaming-news/internet-talking-people-mouths-christmas-switch-netflix-dubbing-issue-2026
@@ -621,7 +673,7 @@ The Christmas Switch was made available for anyone with a Netflix subscription o
 Listen, we all know dubbing is annoying in general. I’ve watched every season of the now-canceled Maxton Hall on Amazon Prime Video, and I don’t like the mouths not matching the English language version, either. Still, at least that feels authentic. And there’s always the option to watch just with subtitles. (This is true for The Christmas Switch too; it’s just not the option that comes up on English-language Netflix first.)
 
 ============================================================
-[23] ‘The Comeback King’ Trailer: Glen Powell Gets Canceled In Judd Apatow’s Country Music Comedy Featuring Jelly Roll &#038; Miranda Lambert
+[25] ‘The Comeback King’ Trailer: Glen Powell Gets Canceled In Judd Apatow’s Country Music Comedy Featuring Jelly Roll &#038; Miranda Lambert
 Source: The Playlist | Status: summary_only | Words: 120
 Published: 2026-11-18T16:01:56+00:00
 URL: https://theplaylist.net/the-comeback-king-trailer-glen-powell-judd-apatow-20261118
@@ -633,7 +685,7 @@ CONTENT / EXTRACTED DETAILS:
 Glen Powell heads to Nashville in “ The Comeback King ,” a new comedy from Judd Apatow about a country music superstar whose career unravels following a public scandal. Co-written by Powell and Apatow, the film also features appearances from Jelly Roll , Miranda Lambert , Brad Paisley , and several other country music stars. READ MORE: 88 Must-See Movies This Fall: ‘Dune: Part Three,’ ‘Digger,’ ‘Avengers: Doomsday,’ ‘The Adventures Of Cliff Booth’ & More Powell plays Aubrey King, a successful country singer whose relationship with pop superstar Missy ( Madelyn Cline ) ends badly. Continue reading ‘The Comeback King’ Trailer: Glen Powell Gets Canceled In Judd Apatow’s Country Music Comedy Featuring Jelly Roll & Miranda Lambert at The Playlist.
 
 ============================================================
-[24] ‘American Idol’ Gets Rid Of Hollywood Week In Favor Of More Live Shows As ABC Music Competition Moves To Georgia: “Major Changes Coming”
+[26] ‘American Idol’ Gets Rid Of Hollywood Week In Favor Of More Live Shows As ABC Music Competition Moves To Georgia: “Major Changes Coming”
 Source: Deadline | Status: expanded | Words: 1044
 Published: 2026-11-18T16:00:00+00:00
 URL: https://deadline.com/2026/11/american-idol-hollywood-week-live-shows-abc-georgia-1237226006
@@ -687,7 +739,7 @@ The X Factor may well be back as a new iteration is in development at Fox . ABC 
 Michaels Wolflick said that as long as these shows aren't going head-to-head, like they did back in the day, there's room for more music on television. "It used to be more Hunger Games ," she added. "I still have the Hunger Games mentality when making [ Idol ] in my own head. I really do. I'm always [thinking], &#x2018;How can we change? How can we adapt? What can we do?' I'm very competitive."
 
 ============================================================
-[25] Hudson Williams and His Hairstylist Aika Flores Really Are That Close
+[27] Hudson Williams and His Hairstylist Aika Flores Really Are That Close
 Source: The Hollywood Reporter | Status: expanded | Words: 2005
 Published: 2026-11-18T16:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/hudson-williams-aika-flores-interview-behind-looks-1236746322
@@ -779,7 +831,7 @@ FLORES I second that. That's dope.
 A version of this story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[26] The 100 Greatest Movie Stars of All Time
+[28] The 100 Greatest Movie Stars of All Time
 Source: Variety | Status: expanded | Words: 16028
 Published: 2026-11-18T16:00:00+00:00
 URL: https://variety.com/lists/greatest-movie-stars-of-all-time
@@ -1177,7 +1229,7 @@ When you watch her in “Gentlemen Prefer Blondes” or “The Misfits,” you s
 MUST SEE: &#8220;Gentlemen Prefer Blondes&#8221;
 
 ============================================================
-[27] 'Tulsa King' Spinoff 'Frisco King' First Trailer Sees Samuel L. Jackson Building Crime Empire in Texas Suburbs
+[29] 'Tulsa King' Spinoff 'Frisco King' First Trailer Sees Samuel L. Jackson Building Crime Empire in Texas Suburbs
 Source: Variety | Status: expanded | Words: 371
 Published: 2026-11-18T16:00:00+00:00
 URL: https://variety.com/2026/tv/news/tulsa-king-spinoff-frisco-king-trailer-samuel-l-jackson-1236951909
@@ -1203,7 +1255,7 @@ In addition to Jackson, the series stars: Asa Germann, Kai Caster as Keith, and 
 Taylor Sheridan wrote all eight episodes of &#8220;Frisco King&#8221; and serves as an executive producer along with Stallone, Jackson, David Glasser, Ron Burkle, David Hutkin, Bob Yari, Christina Alexandra Voros, Michael Friedman, LaTanya Richardson Jackson and Keith Cox. Christina Alexandra Voros and Michael Friedman both directed four episodes, with Voros directing the pilot, in addition to executive producing. The series is produced by Paramount Television Studios and 101 Studios.
 
 ============================================================
-[28] A24 Is Going For Best Picture History As 'Cliff Booth' Unfurls [Contender Countdown]
+[30] A24 Is Going For Best Picture History As 'Cliff Booth' Unfurls [Contender Countdown]
 Source: The Playlist | Status: summary_only | Words: 117
 Published: 2026-11-18T16:00:00+00:00
 URL: https://theplaylist.net/a24-is-going-for-best-picture-history-as-cliff-booth-unfurls-contender-countdown-20261118
@@ -1215,7 +1267,7 @@ CONTENT / EXTRACTED DETAILS:
 Historical trends for the Academy Awards are meant to be broken. From embarrassingly long waits for major wins for women, African Americans, Asian, Latino, and openly LGBTQ+ nominees to international films taking Best Picture, change does happen. But, as in life, and for better or worse, it's often incremental. "Parasite" was the first non-English language film to win Best Picture, but many incredible nominees came before it. Now, A24 is attempting to make history by not only shepherding "You Can See Everything" as the first documentary to earn a Best Picture nomination, but also the first documentary to win. Continue reading A24 Is Going For Best Picture History As 'Cliff Booth' Unfurls [Contender Countdown] at The Playlist.
 
 ============================================================
-[29] This New Mariah Carey Barbie Recreates Her 'All I Want for Christmas Is You' Cover
+[31] This New Mariah Carey Barbie Recreates Her 'All I Want for Christmas Is You' Cover
 Source: Variety | Status: expanded | Words: 360
 Published: 2026-11-18T16:00:00+00:00
 URL: https://variety.com/2026/shopping/news/mariah-carey-christmas-barbie-doll-buy-online-1236951861
@@ -1239,7 +1291,7 @@ The collectible releases are part of Mattel's continued expansion of Barbie's en
 Shop the Mariah Carey Barbie online here .
 
 ============================================================
-[30] New PS5 Console Update Has to Be Downloaded to Play GTA 6
+[32] New PS5 Console Update Has to Be Downloaded to Play GTA 6
 Source: ComicBook.com | Status: expanded | Words: 422
 Published: 2026-11-18T15:58:43+00:00
 URL: https://comicbook.com/gaming/news/new-ps5-console-update-has-to-be-downloaded-to-play-gta-6
@@ -1265,7 +1317,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Hakeem Jeffries Poised To Become Next House Speaker After Winning Overwhelming Support Of Democratic Caucus
+[33] Hakeem Jeffries Poised To Become Next House Speaker After Winning Overwhelming Support Of Democratic Caucus
 Source: Deadline | Status: expanded | Words: 265
 Published: 2026-11-18T15:56:28+00:00
 URL: https://deadline.com/2026/11/hakeem-jeffries-speaker-democrats-1237227947
@@ -1287,7 +1339,7 @@ Democrats are expected to hold around 260 seats when the next Congress starts, t
 In the Senate, Minority Leader Chuck Schumer's effort to return to majority leader when Democrats take control is being challenged by Sen. Chris Van Hollen (D-MD), who has said that the midterm results showed that voters are looking for a change. Schumer has insisted that he will win the leadership battle, expected to take place next month.
 
 ============================================================
-[32] Box Office: 'Hunger Games: Sunrise on the Reaping' Targets Huge Debut Above $100 Million
+[34] Box Office: 'Hunger Games: Sunrise on the Reaping' Targets Huge Debut Above $100 Million
 Source: Variety | Status: expanded | Words: 619
 Published: 2026-11-18T15:47:58+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-reaping-box-office-hunger-games-opening-weekend-1236950225
@@ -1311,7 +1363,7 @@ Elsewhere this weekend, &#8220;I Play Rocky&#8221; is targeting $10 million to $
 As the end of the year approaches, domestic ticket sales are impressively 20% above the same point in 2025 . With potential blockbusters like "Avengers: Doomsday," &#8220;Dune: Part Three&#8221; and "Jumanji: Open World." on the horizon, revenues are projected to eclipse $10 billion for the first time since COVID.
 
 ============================================================
-[33] New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming &#038; Full Cast Announced
+[35] New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming &#038; Full Cast Announced
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-18T15:45:39+00:00
 URL: https://theplaylist.net/new-friday-the-13th-film-titled-jason-full-cast-announced-20261118
@@ -1323,7 +1375,7 @@ CONTENT / EXTRACTED DETAILS:
 Last Friday, which just happened to be the 13th of November, was the perfect time to announce a NEW " Friday the 13th " movie being in the works. And this week we've learned that principal photography has been completed, with the full cast being revealed, and the new title is going to be simply " Jason ,” signaling the return of undead slasher Jason Voorhees after a long hiatus from theatrical outings since the 2009 Platinum Dunes -produced reboot. Continue reading New 'Friday The 13th' Film Titled 'Jason' Coming In August 2027 Has Wrapped Filming & Full Cast Announced at The Playlist.
 
 ============================================================
-[34] Democrats Boycott Senate Commerce Committee Vote To Advance Republican FCC Nominee
+[36] Democrats Boycott Senate Commerce Committee Vote To Advance Republican FCC Nominee
 Source: Deadline | Status: expanded | Words: 443
 Published: 2026-11-18T15:43:47+00:00
 URL: https://deadline.com/2026/11/fcc-nominee-democrats-boycott-trump-1237227971
@@ -1353,7 +1405,7 @@ He also noted that Thumann Severs was filling the vacancy of a Republican, Natha
 Thumann Severs is senior counsel to Carr, with a focus on the agency's wireline bureau, public safety and homeland security bureau and the consumer and government affairs bureau.
 
 ============================================================
-[35] I Didn’t See The Royal Family Responding To The New Bond Coming (But I’m Glad Ian Fleming’s Estate Did)
+[37] I Didn’t See The Royal Family Responding To The New Bond Coming (But I’m Glad Ian Fleming’s Estate Did)
 Source: CinemaBlend | Status: expanded | Words: 246
 Published: 2026-11-18T15:40:07+00:00
 URL: https://www.cinemablend.com/movies/royal-family-and-ian-fleming-estate-react-new-james-bond
@@ -1371,7 +1423,7 @@ I love that they chose that particular passage from Moonraker . Think about how 
 That's a lovely endorsement, especially since casting a new Bond tends to spark strong opinions. Fan reactions to Pattinson's casting have been pretty mixed, and I'm sure there will be plenty more debate once a trailer for his first 007 flick arrives. I appreciate that Fleming's estate welcomed him by reminding everyone why the character has survived so many reinventions.
 
 ============================================================
-[36] 5 1980s Cartoon Theme Songs That All ’80s Kids Remember More Than the Actual Shows
+[38] 5 1980s Cartoon Theme Songs That All ’80s Kids Remember More Than the Actual Shows
 Source: ComicBook.com | Status: expanded | Words: 1102
 Published: 2026-11-18T15:37:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-1980s-cartoon-theme-songs-that-all-80s-kids-remember-more-than-the-actual-shows
@@ -1409,7 +1461,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] 'Grand Theft Auto 6' Reviews: Critics Hail "The Most Impressive Video Game Ever"
+[39] 'Grand Theft Auto 6' Reviews: Critics Hail "The Most Impressive Video Game Ever"
 Source: The Hollywood Reporter | Status: expanded | Words: 800
 Published: 2026-11-18T15:36:39+00:00
 URL: https://www.hollywoodreporter.com/business/digital/grand-theft-auto-6-review-1236758379
@@ -1445,7 +1497,7 @@ Did anybody say anything negative? That's tougher to find, though The Guardian c
 The $79.99 game is released Nov. 19 and expected to disrupt Hollywood's entertainment releases , especially TV shows on streaming, though to what extent at this stage is difficult to measure.
 
 ============================================================
-[38] Sakamoto Days Season 2 Confirms Release Date Ahead of Shonen Jump Finale - Watch Trailer
+[40] Sakamoto Days Season 2 Confirms Release Date Ahead of Shonen Jump Finale - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 489
 Published: 2026-11-18T15:34:58+00:00
 URL: https://comicbook.com/anime/news/sakamoto-days-season-2-confirms-release-date-ahead-of-shonen-jump-finale-watch-trailer
@@ -1469,7 +1521,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Amazon's 'One Night in Idaho' Season 2 Reveals Premiere Date and Trailer (Exclusive)
+[41] Amazon's 'One Night in Idaho' Season 2 Reveals Premiere Date and Trailer (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 476
 Published: 2026-11-18T15:30:21+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/one-night-in-idaho-season-2-premiere-date-trailer-amazon-1236756348
@@ -1495,7 +1547,7 @@ Catching a Killer is directed by Matthew Galkin ( Murder in the Bayou ) and show
 One Night in Idaho season two is executive produced by Galkin, Garbus, King, Dan Cogan, Jon Bardin, Joshua Levine, Tommy Coriale, Patterson, Bill Robinson and Patrick Santa.
 
 ============================================================
-[40] Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision
+[42] Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision
 Source: Variety | Status: expanded | Words: 427
 Published: 2026-11-18T15:30:00+00:00
 URL: https://variety.com/2026/film/news/bruce-springsteen-concert-doc-when-the-walls-came-down-1236950655
@@ -1519,7 +1571,7 @@ Springsteen, the rock &#8216;n' roll visionary behind &#8220;Born to Run&#8221; 
 Worldwide sales are being handled by Submarine Entertainment and Sony Music Vision.
 
 ============================================================
-[41] Cult '90s Horror Movie Officially Getting a Sequel 31 Years Later, And the Title Is Perfect
+[43] Cult '90s Horror Movie Officially Getting a Sequel 31 Years Later, And the Title Is Perfect
 Source: ComicBook.com | Status: expanded | Words: 499
 Published: 2026-11-18T15:25:32+00:00
 URL: https://comicbook.com/movies/news/cult-90s-horror-movie-officially-getting-a-sequel-31-years-later-and-the-title-is-perfect
@@ -1543,7 +1595,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] How GTA 6 Reviews Stack Up to Every Other Grand Theft Auto Game
+[44] How GTA 6 Reviews Stack Up to Every Other Grand Theft Auto Game
 Source: ComicBook.com | Status: expanded | Words: 391
 Published: 2026-11-18T15:25:16+00:00
 URL: https://comicbook.com/gaming/news/how-gta-6-reviews-stack-up-to-every-other-grand-theft-auto-game
@@ -1567,7 +1619,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Little Black Dresses Have Been Everywhere, But Alexandra Daddario Mixed Things Up In Gold
+[45] Little Black Dresses Have Been Everywhere, But Alexandra Daddario Mixed Things Up In Gold
 Source: CinemaBlend | Status: expanded | Words: 1575
 Published: 2026-11-18T15:23:30+00:00
 URL: https://www.cinemablend.com/television/alexandra-daddario-wore-gold-dress-amid-black-dress-trend
@@ -1625,7 +1677,7 @@ Television Alexandra Daddario Jokes She’s ‘Ready For The Super Market' In Go
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[44] Bari Weiss Apparently ‘Arrived Like A Conquering Hero’ At CBS News. Why Things Reportedly Changed
+[46] Bari Weiss Apparently ‘Arrived Like A Conquering Hero’ At CBS News. Why Things Reportedly Changed
 Source: CinemaBlend | Status: expanded | Words: 257
 Published: 2026-11-18T15:19:11+00:00
 URL: https://www.cinemablend.com/television/bari-weiss-arrived-like-hero-cbs-news-why-things-reportedly-changed
@@ -1641,7 +1693,7 @@ The past few months have seen some of CBS News’ programming – like CBS Eveni
 In terms of that remark about “bad press and angry employees,” that seemingly refers to the reports and rumors that have been swirling around Bari Weiss’ tenure. Former CBS staffers have criticized her, with some even making claims of “journalistic interference” amid her time on the job. Veteran newsman Dan Rather also didn’t mince words about Weiss and other execs, as he accused them of “destroying” the network. Meanwhile, company sources have shared varied takes on working with Weiss , as some call the experience productive and others making claims of difficulties on that front.
 
 ============================================================
-[45] ‘American Theater’ Review: MAGA Politics, Cancel Culture &#038; The Joy Of Making Art Collide In An Immersive Doc
+[47] ‘American Theater’ Review: MAGA Politics, Cancel Culture &#038; The Joy Of Making Art Collide In An Immersive Doc
 Source: The Playlist | Status: summary_only | Words: 86
 Published: 2026-11-18T15:17:17+00:00
 URL: https://theplaylist.net/american-theater-review-brian-clowdus-documentary-20261118
@@ -1653,7 +1705,7 @@ CONTENT / EXTRACTED DETAILS:
 Considering how long American discourse wrapped itself around the axle of cancel culture, documentaries about the fallout from those social skirmishes of the late-2010s and early 2020s have been strangely absent. Executive-produced by Jeremy O. Harris (“ Zola ,” “ Slave Play ”), Nicholas Clark and Dylan Frederick ’s “ American Theater ” dives into the recent-past culture wars with gusto and verve. Continue reading ‘American Theater’ Review: MAGA Politics, Cancel Culture & The Joy Of Making Art Collide In An Immersive Doc at The Playlist.
 
 ============================================================
-[46] 'Bad Boys for Life' Directors Adil El Arbi and Bilall Fallah Invest in 'Sound of Metal' Producer Caviar (EXCLUSIVE)
+[48] 'Bad Boys for Life' Directors Adil El Arbi and Bilall Fallah Invest in 'Sound of Metal' Producer Caviar (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 414
 Published: 2026-11-18T15:15:00+00:00
 URL: https://variety.com/2026/film/global/bad-boys-for-life-adil-el-arbi-bilall-fallah-invest-caviar-1236951660
@@ -1679,7 +1731,7 @@ Added Caviar CEO Bert Hamelinck: "Caviar is and remains a talent-driven producti
 The investment is made through Los Morros BV, Arbi and Fallah's Belgian production company. Financial terms were not disclosed.
 
 ============================================================
-[47] Florence Pugh Fires Back at Video Claiming She Used Plastic Surgery to Change Her Face: 'Disturbing' How 'People Can't Tell the Difference Between Aging and Surgery'
+[49] Florence Pugh Fires Back at Video Claiming She Used Plastic Surgery to Change Her Face: 'Disturbing' How 'People Can't Tell the Difference Between Aging and Surgery'
 Source: Variety | Status: expanded | Words: 683
 Published: 2026-11-18T15:10:38+00:00
 URL: https://variety.com/2026/film/news/florence-pugh-plastic-surgery-claims-face-shape-change-1236951789
@@ -1709,7 +1761,7 @@ In a Dec. 2024 interview with The Sunday Times , Pugh called it "exhausting" to 
 Pugh is gearing up for a busy rest of the year with the same-day releases of &#8220; Avengers: Doomsday &#8221; and &#8220; Dune: Part Three ,&#8221; both of which hit theaters on Dec. 18.
 
 ============================================================
-[48] 'Grand Theft Auto VI': Could Video Game Franchise Become Film Or TV Show? "We're Very, Very Selective," Says Take-Two CEO
+[50] 'Grand Theft Auto VI': Could Video Game Franchise Become Film Or TV Show? "We're Very, Very Selective," Says Take-Two CEO
 Source: Deadline | Status: expanded | Words: 563
 Published: 2026-11-18T15:10:34+00:00
 URL: https://deadline.com/2026/11/grand-theft-auto-6-could-be-tv-show-film-1237227890
@@ -1735,82 +1787,4 @@ Grand Theft Auto , however, has never been adapted, perhaps due to its sprawling
 Grand Theft Auto 6 , which is the most expensive game ever developed, has taken an estimated $1.5B in pre-sales &#x2013; far higher than any TV or film series in history and almost double the $800M Grand Theft Auto 5 bagged in 2013. Reviews have been universally superb, with its current Metacritic score placing it all-time joint first with The Legend of Zelda: Ocarina of Time . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 The sandbox game lets the player take control of two characters, Jason Duval and Lucia Caminos, a Bonnie and Clyde -style couple in Leonida, an open world setting based on Florida. As the eighth main game in the franchise, its development took far longer than any of its predecessors, with a full 13 years between its launch and Grand Theft Auto 5 .
-
-============================================================
-[49] The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question
-Source: The Playlist | Status: summary_only | Words: 97
-Published: 2026-11-18T15:05:56+00:00
-URL: https://theplaylist.net/the-wachowskis-reclaim-matrix-rights-from-skydance-matrix-5-20261118
-------------------------------------------------------------
-SUMMARY:
-It is starting to sound like there are going to be some major headaches ahead for Skydance / Warner Bros. when it comes to " The Matrix " franchise and possibly their current attempts to bring " The Matrix 5 " to the big screen by writer/director Drew Goddard ("The Martian," "Bad Times at the El Royale"). The Wachowskis (Lana and Lilly), the co-creators and co-directors, are said to be pursuing a rights battle with the studio. Continue reading The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-It is starting to sound like there are going to be some major headaches ahead for Skydance / Warner Bros. when it comes to " The Matrix " franchise and possibly their current attempts to bring " The Matrix 5 " to the big screen by writer/director Drew Goddard ("The Martian," "Bad Times at the El Royale"). The Wachowskis (Lana and Lilly), the co-creators and co-directors, are said to be pursuing a rights battle with the studio. Continue reading The Wachowskis Want To Reclaim 'Matrix' Rights From Skydance/WB, Placing 'The Matrix 5' In Question at The Playlist.
-
-============================================================
-[50] India’s ‘How Love Moves’ Among Top Winners at IDFA Industry Section Awards
-Source: Variety | Status: expanded | Words: 1038
-Published: 2026-11-18T15:05:17+00:00
-URL: https://variety.com/2026/film/global/india-how-love-moves-idfa-industry-section-awards-1236951872
-------------------------------------------------------------
-SUMMARY:
-India’s “How Love Moves” won the Al Jazeera Documentary Co-Production Award Wednesday at the prizegiving ceremony of Forum, the co-production and co-financing market of leading documentary festival IDFA. Pallavi Paul’s film centers on a century-old graveyard in New Delhi, where the “slow seeping poison of communal hatred and the everyday beauty and brutality of the […]
-
-CONTENT / EXTRACTED DETAILS:
-India's "How Love Moves" won the Al Jazeera Documentary Co-Production Award Wednesday at the prizegiving ceremony of Forum, the co-production and co-financing market of leading documentary festival IDFA .
-
-Pallavi Paul's film centers on a century-old graveyard in New Delhi, where the "slow seeping poison of communal hatred and the everyday beauty and brutality of the city come to a head, while an unassuming gravekeeper wages a lone struggle to preserve the sanctity of the dead." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Macaulay Culkin Returns as Kevin McCallister in McDonalds' 'Home Alone' Christmas Ad
-
-It is produced by Aman Mann and Shaunak Sen for Kiterabbit Films.
-
-The award, which recognizes "projects addressing an urgent issue of our time" presented in the Pitch or Roundtable categories, comes with a $25,000 prize.
-
-Jury members Mohamed Elmongy and Brigid O'Shea said the project, which they described as "politically and creatively sophisticated," explored "the vulnerability of communities deemed dangerous and wrong through state-inflicted violence."
-
-They added, "In doing so, we believe audiences around the world will have access to a place and the people living there who otherwise we may never encounter, and correct or add a new layer of complexity beyond the mainstream narrative.
-
-"And more importantly, it is an exciting opportunity to support a woman-director's voice, we hope at a critical junction in the life of her project."
-
-Alina Baitokova's "Stitch by Stitch" from Kyrgyzstan received the ARTE European Talent Development Award, which comes with a &#x20AC;10,000 prize. The award recognizes a project in development or early production presented in the Pitch or Roundtable categories of IDFA Forum. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-The film follows Elmira, a single mother and seamstress in an informal sewing workshop in Kyrgyzstan, who struggles to make ends meet while trying to rebuild the fragile bonds with her children after years of painful separation.
-
-The producer is Adilet Karzhoev for Karzhoev Films, and the co-producers are Marianna Kaat for Baltic Film Production and Christian Popp for Tanjo Films.
-
-Jury members Olga Chernykh, Anne-Laure N&#xE9;grin and Hanne Phlypo said, "We decided to award a project from a country whose stories are rarely told, with high need of support right now, and to give a director tools to move the project ahead and tell the story that shows people struggling for their life in a rarely seen part of the globalization. It's a film brought by a promising team, a delicate emerging voice."
-
-Parsa Ansari's "Shooting Stars" from Iran received the IDFA Forum Award for best pitch project, which is accompanied by a &#x20AC;1,500 prize.
-
-In the film, a boy begins to question who the real aliens are while investigating mysterious UFO sightings from his childhood. His search gradually shifts from extraterrestrial fantasies toward the invisible outsiders living among us on Earth.
-
-It is produced by Milad Khosravibaledi for Seven Springs Pictures, in co-production with Thibaut Amri for Avant la Nuit, Steven Rubinstein Malamud for Grom Productions, Maria Robstad Nielsen for Emjay Productions and Anita Norfolk for Folk Film.
-
-Jury members Nicolas van Hemelryck and Zane Kr&#x16B;mi&#x146;a said, it is "a personal and emotional story where imagination and artistic originality intersect. It is an inspiring narrative about the artist's creative journey that can serve as an encouragement for the young generation."
-
-The IDFA Forum Award for Best Roundtable Project was awarded to Daniela Mu&#xF1;oz Barroso's "Silence Diaries" from Spain and Cuba. The award is accompanied by a &#x20AC;1,500 prize.
-
-The autobiographical documentary traces "a journey in search of a new language" and explores the director's "experience of uprootedness and the gradual loss of sound until the birth of my daughter."
-
-The producers are Mu&#xF1;oz Barroso and Leila Montero for Estudio ST, in co-production with Efthymia Zymvragaki for Gris Medio.
-
-Jury members Renko Douze and Mariia Ponomarova said, "Taking full command of its medium, this project struck us with its artistic strength, evocative approach and sharp conceptual thinking, all within a highly intimate film. Through gesture, rhythm and mesmerizing imagery, the filmmaker convincingly weaves three separate threads, and in doing so tells a deeply personal story with remarkable agency and sensitivity." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Nikos Pilos and Arsinoi Pilou's "Resisting Residents" from Greece received the award for Best Rough Cut Project, which is accompanied by a &#x20AC;1,500 prize.
-
-The logline reads: "In the heart of Athens, a community resists, survives and redefines solidarity."
-
-The producer is Dafni Kalafati for Filmiki.
-
-Jury members Chalida Uabumrungjit and Cleo Veger said, " &#x2018;Resisting Residents' is a powerful reminder of how cinema can champion what we believe in. This brave documentary captures a community standing firm for their homes, their dignity and their right to live together, proving that film can be an essential voice for justice and human solidarity.
-
-"We were moved by the courage of the residents, who take in newcomers, face their own conflicts and fight eviction together, and by a film team honest enough to show all of it. Shot by a two-person crew living inside the community, it's close, trusting and alive, and we can't wait to see it finished."
-
-The IDFA DocLab Forum Award for Best Project went to "This Pleasant Lady" by Victoria Mapplebeck. The award is accompanied by a &#x20AC;1,500 prize.
-
-The U.K. project is a coming-of-age story, said the director, "in which, at 61, I write my &#x2018;fuck you' list, learn to love again and stop being pleasant. An immersive journey through my brain, breasts and heart becomes a defiant celebration of survival, desire and late-middle-aged rebellion."
-
-It is produced by Mapplebeck for First Person Films.
-
-Jury members Min-Wei Kuo and David Massey said, "The jury unanimously agrees that this project is inspirational and addresses serious subjects in an irreverent but impactful way that will engage with audiences no matter of their cultural background or ages. The spirit of the project and the artist fits the vibe of IDFA DocLab. We're also now encouraged to create our own fuck you list!"
 
