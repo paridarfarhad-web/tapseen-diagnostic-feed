@@ -1,9 +1,39 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-18T18:35:49.352Z
+Last Updated: 2026-11-18T18:37:53.616Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Glen Powell Is a Has-Been Country Singer in Judd Apatow's 'Comeback King' Trailer
+[1] Sam Altman On ‘Artificial’ Movie About Him — Not Among "Ten Weirdest Things In My Life" Right Now
+Source: Deadline | Status: expanded | Words: 584
+Published: 2026-11-18T18:37:05+00:00
+URL: https://deadline.com/2026/11/sam-altman-artificial-openai-safety-1237228014
+------------------------------------------------------------
+SUMMARY:
+“If you had told me twenty years ago that someone was going to make a movie about me, that would have struck me as a really weird thing. Now it doesn’t feel like it’s in the top ten weirdest things in my life,” said Sam Altman, asked about the upcoming film Artificial. “What is?” asked […]
+
+CONTENT / EXTRACTED DETAILS:
+&#x201C;If you had told me twenty years ago that someone was going to make a movie about me, that would have struck me as a really weird thing. Now it doesn&#x2019;t feel like it&#x2019;s in the top ten weirdest things in my life,&#x201D; said Sam Altman , asked about the upcoming film Artificial .
+
+&#x201C;What is?&#x201D; asked Andrew Ross Sorking during a Q&A with the OpenAI co-founder and CEO at the New York Times DealBook Summit Wednesday
+
+&#x201C;The fact that we are ushering in this technology that we have all of these very real concerns about, and that we find ourselves in a role of such responsibility. That is a crazy situation to find yourself in,&#x201D; said Altman. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Legal OpenAI Slapped By California AG For "Unfair & Unsafe Practices"; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company Festivals Sun Valley Film Festival Sets Honorees And Lineup For 2026 Edition
+
+Neon is releasing the Luca Guadagnino film about OpenAI and Altman, who is played by Andrew Garfield, in December. It's not complimentary to the executive. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Altman appeared with the company&#x2019;s president and co-founder Greg Brockman. With public fear of AI mounting as new models occasionally go rogue and distaste with data centers a flashpoint of the recent midterm elections, they both agreed that the past year has been a key transitional phase in the industry, and that the last few months have been especially difficult.
+
+&#x201C;We are we are very clearly in the new phase, and I think we will have to, as we've had to in other new phases, operate differently for this new phase. We've been talking a lot about what's going to happen or what needs to happen,&#x201D; Altman said.
+
+&#x201C;I think if the world and the companies developing AI treated the next four years like they&#x2019;ve treated the last four years, that would be very bad. We have not been doing that. We have been some of the loudest voices" about the increasingly high stakes of artificial intelligence.
+
+He believes &#x201C;the world needs a clear plan from the companies&#x201D; in the space.
+
+The sector was stressed most recently by the ouster of its rock star, Nvidia founder and CEO Jensen Huang, who had a relationship with a tech executive alleged to be a Chinese spy. A bizarre series of back-to-back outages across sectors from Microsoft email to aviation to banking over the past week, although not necessarily AI related, has exacerbated fears of global dependence on a handful of big tech players. Meanwhile, investors have become jittery over whether massive capital spending by so-called AI hyper-scalers will result in profits, or a potentially devastating stock market bubble. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+OpenAI rival Anthropic is set to go public this week, a major test of investor sentiment on the business. OpenAI itself had plans for an IPO. They have been delayed, although Altman said today he believes it will be ultimately be a publicly traded company.
+
+============================================================
+[2] Glen Powell Is a Has-Been Country Singer in Judd Apatow's 'Comeback King' Trailer
 Source: The Hollywood Reporter | Status: expanded | Words: 378
 Published: 2026-11-18T18:34:22+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/the-comeback-king-trailer-glen-powell-judd-apatow-country-1236758552
@@ -29,7 +59,7 @@ Powell recently led the second season of Hulu's Chad Powers and stars with Jenna
 Apatow's previous feature credits as director include Netflix&#x2019;s 2022 film The Bubble , along with such titles for Universal as The King of Staten Island , Knocked Up and The 40-Year-Old Virgin .
 
 ============================================================
-[2] Miss Konosuba? You Need to Watch Crunchyroll's Funniest Fall Anime
+[3] Miss Konosuba? You Need to Watch Crunchyroll's Funniest Fall Anime
 Source: ComicBook.com | Status: expanded | Words: 854
 Published: 2026-11-18T18:30:12+00:00
 URL: https://comicbook.com/anime/feature/miss-konosuba-you-need-to-watch-crunchyrolls-funniest-fall-anime
@@ -61,7 +91,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] 'Grendel' Animated Series Based On Dark Horse Comic Greenlighted At Netflix
+[4] 'Grendel' Animated Series Based On Dark Horse Comic Greenlighted At Netflix
 Source: Deadline | Status: expanded | Words: 688
 Published: 2026-11-18T18:30:00+00:00
 URL: https://deadline.com/2026/11/grendel-animated-series-dark-horse-comic-netflix-matt-wagner-1237226965
@@ -93,7 +123,7 @@ Esfarjani most recently served as a consulting producer on Season 1 of Apple TV'
 Grendel joins Netflix's slate of current adult animated series, which includes Blue Eye Samurai, Long Story Short, Haunted Hotel, Devil May Cry and Mating Season.
 
 ============================================================
-[4] Gordon Ramsay Turns Up the Heat: Why He’s ‘Allergic’ to Air Fryers, Hates the Word ‘Famous’ and Thinks Paris Is the Most Overrated Food City
+[5] Gordon Ramsay Turns Up the Heat: Why He’s ‘Allergic’ to Air Fryers, Hates the Word ‘Famous’ and Thinks Paris Is the Most Overrated Food City
 Source: Variety | Status: expanded | Words: 2082
 Published: 2026-11-18T18:30:00+00:00
 URL: https://variety.com/2026/tv/news/gordon-ramsay-interview-air-fryers-paris-1236952081
@@ -173,7 +203,7 @@ Please tell me you haven't got an air fryer.
 Oh, for fuck's sake, Ethan, you're better than that!
 
 ============================================================
-[5] Screen Gems Lays Off Staff as New Leader Comes In (Exclusive)
+[6] Screen Gems Lays Off Staff as New Leader Comes In (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 264
 Published: 2026-11-18T18:27:40+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/screen-gems-layoffs-1236758586
@@ -185,7 +215,7 @@ CONTENT / EXTRACTED DETAILS:
 Screen Gems has cleaned house, laying off a majority of its staff as the Sony division enters a new era under incoming head, former YouTube executive Fede Goldenberg. The division, which specializing in genre movies such as Resident Evil and Underworld and comedies such as Easy A , has let go of senior vp Nathan Samdalh, vp Ellie Walker, and creative exec Peyton Collins, among others, sources tell The Hollywood Reporter. Goldenberg made the cuts and is expected to bring in a new team as he takes Screen Gems in a new direction. The exec was hired in early October and is bringing in a decidedly 2026 focus to the label. Under the new creative strategy, the film label is expanding its longstanding focus on traditional genre films to include theatrical projects from the next generation of so called &#x201C;digital-native storytellers,&#x201D; meaning filmmakers who are making names &#x2014; and gaining followers &#x2014; in the digital content space a la Curry Barker of Obsession fame and Backrooms filmmaker Kane Parsons. Ashley Brucks, who had been running the label as president since 2023, transitioned to a producing role. Samdahl is the former Paramount executive who was instrumental in making the horror hit Smile (and was infamously let go from the studio before the movie became a surprise hit). He also acted as a creative exec at Walter Hamada&#x2019;s production banner 18hz Productions. He joined Screen Gems in October 2025. Walker was also a former Paramount exec. She joined the Sony division in 2024. Collins was hired in 2024 after working previously at Jeff Robinov&#x2019;s Studio 8.
 
 ============================================================
-[6] Will 'GTA 6' Crash PlayStation and Xbox Tonight? Oddsmakers Are Betting On It
+[7] Will 'GTA 6' Crash PlayStation and Xbox Tonight? Oddsmakers Are Betting On It
 Source: The Hollywood Reporter | Status: expanded | Words: 511
 Published: 2026-11-18T18:21:24+00:00
 URL: https://www.hollywoodreporter.com/business/digital/gta-6-playstation-crash-outage-1236758425
@@ -211,7 +241,7 @@ Other potential choke points are internet service providers. Comcast says GTA 6 
 Surprisingly, for those hoping to play the game who haven't yet upgraded to a PlayStation 5 or Xbox Series X|S, you're in luck. The consoles are currently listed as in stock at major U.S. retailers like Target, Walmart and Best Buy. This might not last, however. The Game Business previously reported that at least one major retailer is expecting the consoles to sell out ahead of the holidays. "We&#x2019;ve been informed that because of the on-going issues around hardware component availability, we won&#x2019;t be getting the units we want ahead of [ GTA 6 ]," the source said. "Demand will likely outstrip supply during the year end period"). So if you want to return to Vice City, you better buy a console before you have to steal it.
 
 ============================================================
-[7] One Of Shonda Rhimes’ Best Shows Is Leaving Netflix (And So Is One Of My Favorite TV Couples)
+[8] One Of Shonda Rhimes’ Best Shows Is Leaving Netflix (And So Is One Of My Favorite TV Couples)
 Source: CinemaBlend | Status: expanded | Words: 326
 Published: 2026-11-18T18:17:10+00:00
 URL: https://www.cinemablend.com/streaming-news/shonda-rhimes-scandal-leaving-netflix-so-is-favorite-tv-couples-olivia-fitz
@@ -229,7 +259,7 @@ The reason for Scandal ’s departure from Netflix likely has to do with the lic
 I’m not one to wish for the downfall of a couple and root for an affair, but when it comes to Scandal , it’s kind of hard not to. Kerry Washington ’s Olivia Pope and Tony Goldwyn’s President Fitzgerald “Fitz” Thomas Grant III were the couple on Scandal . They had a tumultuous relationship as they denied feelings for one another pretty early on, since Olivia had worked on Fitz’s campaign and was the White House Director of Communications. Not to mention the fact that Fitz was married to Melody “Mellie” Margaret Grant (Bellamy Young). He later divorced her, and she was thriving without him, so it definitely all worked out in the end.
 
 ============================================================
-[8] 'Hunger Games: Sunrise On The Reaping' To Shine Brightly Around The World With $160M-$190M WW Debut - Preview
+[9] 'Hunger Games: Sunrise On The Reaping' To Shine Brightly Around The World With $160M-$190M WW Debut - Preview
 Source: Deadline | Status: expanded | Words: 841
 Published: 2026-11-18T18:15:53+00:00
 URL: https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101
@@ -257,7 +287,7 @@ Sunrise on the Reaping will see its rays touch upon 84 countries in roughly 43,0
 Elsewhere stateside, Amazon MGM Studio's Sylvester Stallone biopic I Play Rocky is going wide at 2,000 after two weekends of limited play, the pic from 2x Oscar winner Peter Farrelly counting $1M through yesterday off 87% Rotten Tomatoes certified fresh ratings and 98% with moviegoers. The pic, which follows how Stallone bet on himself to make Rocky, is looking at a $12M start in North America.
 
 ============================================================
-[9] Warner Bros. TV &#038; Paramount TV Studios To Merge With Channing Dungey &#038; Matt Thunell As Presidents
+[10] Warner Bros. TV &#038; Paramount TV Studios To Merge With Channing Dungey &#038; Matt Thunell As Presidents
 Source: Deadline | Status: expanded | Words: 1216
 Published: 2026-11-18T18:15:29+00:00
 URL: https://deadline.com/2026/11/warner-bros-tv-paramount-tv-studios-merge-dungey-thunell-1237228079
@@ -305,7 +335,7 @@ The new Warner Bros. Television Studios will be home to more than 120 active tel
 Thunell said, &#x201C;Channing is one of the most accomplished and respected executives in our industry, with an extraordinary track record of building successful businesses, developing enduring partnerships and delivering some of television&#x2019;s most acclaimed programming. Ever since our time together at Netflix, I&#x2019;ve hoped we&#x2019;d have the opportunity to work together again, and I&#x2019;m thrilled that day has finally come. We&#x2019;re bringing an unmatched roster of talent under one roof, building on the remarkable legacies of two storied studios. The possibilities ahead are extraordinary, and I couldn&#x2019;t be more excited to partner with Channing to champion the ambitions of our creative talent and bring exceptional stories to audiences around the world.&#x201D;
 
 ============================================================
-[10] Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio
+[11] Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio
 Source: The Hollywood Reporter | Status: expanded | Words: 1038
 Published: 2026-11-18T18:15:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/skydance-combining-warner-bros-tv-paramount-tv-studios-1236758476
@@ -339,7 +369,7 @@ The text of Cheeks' memo outlining the changes is below.
 Team, Today, I&#x2019;m sharing an important next step for how our television studios will serve the creative community. We are combining the Warner Bros. Television Group and Paramount Television Studios into one studio, which will operate as Warner Bros. Television Studios, beginning in early 2027. Until then, both studios will continue to operate independently. This move aligns our leadership, resources and creative focus for two studios with considerable success producing for streaming, as well as broadcast. By bringing these teams together, we can build on their strengths and create an even stronger home for great talent and great storytelling. Channing Dungey and Matt Thunell will be Presidents of Warner Bros. Television Studios, jointly leading the combined studio and reporting to me, with oversight of its creative departments and an expansive and growing portfolio of scripted and unscripted programming. They are exceptional creative leaders who understand how to support talent, champion bold ideas and build strong partnerships across our industry. Channing and Matt will also oversee BET Studios and Warner Bros. International Television Production studios around the world. David Stapf continues in his role as President of CBS Studios, reporting to me, building on the studio&#x2019;s strength as one of the industry&#x2019;s leading global studios. Home to many of the Network&#x2019;s biggest franchises and hits, David and his team remain a critical supplier to our broadcast business while continuing to grow their streaming footprint. CBS Studios International, Skydance Sports Entertainment and See It Now Studios will operate under the CBS Studios umbrella. Collectively, Warner Bros. Television Studios and CBS Studios present two powerful creative engines with extraordinary talent, award-winning programming, hit franchises and the global scale to serve Skydance platforms and third-party partners across the industry. Add to that, CBS Entertainment, led by Amy Reisenbach, and the Global Cable Media team under Channing, Skydance TV is a creative force in entertainment across scripted, unscripted and live events. What Happens Next Channing, Matt and David will be connecting with teams in the coming weeks to talk more about the new structure. We know there will be questions about what this means for individual teams. HR will share more information as plans are finalized. I&#x2019;m excited about what we&#x2019;re building. We have extraordinary creative talent, an unmatched portfolio and tremendous opportunity ahead. Bringing these teams together gives us an even stronger foundation to support storytellers, champion great ideas and bring exceptional television to audiences around the world. George
 
 ============================================================
-[11] Darren Aronofsky's Protozoa and Memory to Adapt Chris Miller's 'Chip War' into Feature Documentary (EXCLUSIVE)
+[12] Darren Aronofsky's Protozoa and Memory to Adapt Chris Miller's 'Chip War' into Feature Documentary (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 355
 Published: 2026-11-18T18:15:00+00:00
 URL: https://variety.com/2026/film/news/darren-aronofsky-protozoa-chris-miller-chip-war-documentary-1236951081
@@ -361,7 +391,7 @@ Anthony made his feature debut in 2016 with "Rat Film," an experimental doc abou
 Anthony, Memory and Protozoa are represented by CAA.
 
 ============================================================
-[12] Skydance to Fold Paramount TV Studios Into Warner Bros. TV Under Channing Dungey and Matt Thunell
+[13] Skydance to Fold Paramount TV Studios Into Warner Bros. TV Under Channing Dungey and Matt Thunell
 Source: Variety | Status: expanded | Words: 1241
 Published: 2026-11-18T18:15:00+00:00
 URL: https://variety.com/2026/tv/news/skydance-paramount-tv-studios-warner-bros-channing-dungey-1236952011
@@ -415,7 +445,7 @@ Channing, Matt and David will be connecting with teams in the coming weeks to ta
 I&#x2019;m excited about what we&#x2019;re building. We have extraordinary creative talent, an unmatched portfolio and tremendous opportunity ahead. Bringing these teams together gives us an even stronger foundation to support storytellers, champion great ideas and bring exceptional television to audiences around the world.
 
 ============================================================
-[13] Steven Spielberg Says 'The Odyssey' Is "One Of The Greatest Things" Matt Damon "Has Ever Done As An Actor," Also Praises Samantha Morton
+[14] Steven Spielberg Says 'The Odyssey' Is "One Of The Greatest Things" Matt Damon "Has Ever Done As An Actor," Also Praises Samantha Morton
 Source: The Playlist | Status: summary_only | Words: 121
 Published: 2026-11-18T18:08:43+00:00
 URL: https://theplaylist.net/steven-spielberg-the-odyssey-greatest-things-matt-damon-has-ever-done-20261118
@@ -427,7 +457,7 @@ CONTENT / EXTRACTED DETAILS:
 Christopher Nolan 's Greek epic blockbuster " The Odyssey " is looking toward an awards season that most are speculating will see the movie land plenty of Oscar nominations, including Best Director, Best Picture, and a slew of nods for the film’s cast. In a recent Q&A between Nolan and fellow veteran filmmaker Steven Spielberg, the latter went on to praise Matt Damon 's performance as war-wary King Odysseus in the acclaimed fantasy flick while also giving some flowers to his co-star, Samanthan Morton , for her breakout role as the witchy Circe. Continue reading Steven Spielberg Says 'The Odyssey' Is "One Of The Greatest Things" Matt Damon "Has Ever Done As An Actor," Also Praises Samantha Morton at The Playlist.
 
 ============================================================
-[14] Macklemore Drops ‘Where Is Our Love’ Song and Video, a Plea for Peace in the Middle East and Other Troubled Areas, Including the U.S.
+[15] Macklemore Drops ‘Where Is Our Love’ Song and Video, a Plea for Peace in the Middle East and Other Troubled Areas, Including the U.S.
 Source: Variety | Status: expanded | Words: 347
 Published: 2026-11-18T18:08:36+00:00
 URL: https://variety.com/2026/music/news/macklemore-where-is-our-love-peace-1236952107
@@ -447,7 +477,7 @@ The upshot of the song arrives in its closing lyrics: &#x201C;And if the words &
 The announcement states that all proceeds from the song will go to the Mother of Hind Fund (named after Hind Rajab, a 5-year-old Palestinian child killed by Israeli forces during the invasion), to support mothers and children in Gaza.
 
 ============================================================
-[15] I Think Jamie Campbell Bower Is Great in The Rings of Power, But We Need to Talk About Another Performance
+[16] I Think Jamie Campbell Bower Is Great in The Rings of Power, But We Need to Talk About Another Performance
 Source: ComicBook.com | Status: expanded | Words: 1638
 Published: 2026-11-18T18:08:00+00:00
 URL: https://comicbook.com/tv-shows/feature/i-think-jamie-campbell-bower-is-great-in-the-rings-of-power-but-we-need-to-talk-about-another-performance
@@ -489,7 +519,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] David Ellison Commits To Airing Alex Gibney 'Musk' Doc On HBO, Calls Skydance Investor "Greatest Entrepreneur Of Our Time"
+[17] David Ellison Commits To Airing Alex Gibney 'Musk' Doc On HBO, Calls Skydance Investor "Greatest Entrepreneur Of Our Time"
 Source: Deadline | Status: expanded | Words: 265
 Published: 2026-11-18T18:07:27+00:00
 URL: https://deadline.com/2026/11/david-ellison-elon-musk-skydance-hbo-alex-gibney-documentary-1237228013
@@ -511,7 +541,7 @@ That said, he committed to airing filmmaker Alex Gibney&#x2019;s documentary Mus
 Asked about filmmaker Alex Gibney&#x2019;s documentary Musk, a less than flattering four-hour expose of the world&#x2019;s richest man, he said HBO would honor its commitment to air the film, though he misspoke when he said the commitment was due to HBO&#x2019;s pay 1 deal with A24. The commitment would likely be tied to HBO Documentary Films, which is a co-producer on the doc with Universal Pictures Content Group. Musk was distributed theatrically by Bleecker Street.
 
 ============================================================
-[17] The Sound of Rocky: How an Anthem Was Born
+[18] The Sound of Rocky: How an Anthem Was Born
 Source: The Hollywood Reporter | Status: expanded | Words: 943
 Published: 2026-11-18T18:06:48+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/the-sound-of-rocky-1236754086
@@ -585,13 +615,13 @@ Fifty years after its creation, &#x201C;Gonna Fly Now&#x201D; remains inseparabl
 As Conti put it, &#x201C;The future has hope. Unlike the past, the past is what it is. But the future always has hope.&#x201D;
 
 ============================================================
-[18] ‘Ginny &#038; Georgia’ Season 4 Premiere Date Set By Netflix With First-Look Photos
+[19] ‘Ginny &#038; Georgia’ Season 4 Premiere Date Set By Netflix With First-Look Photos
 Source: Deadline | Status: expanded | Words: 461
 Published: 2026-11-18T18:04:47+00:00
 URL: https://deadline.com/2026/11/ginny-and-georgia-season-4-release-date-photos-1237228180
 ------------------------------------------------------------
 SUMMARY:
-The new year will start off with a bang as Netflix’s Ginny &#38; Georgia returns for its fourt season on January 21, 2027. For those needing a refresher, Georgia Miller (Brianne Howey) has dodged a murder charge by the end of Season 3, so her life should be back to normal. But longtime viewers know […]
+The new year will start off with a bang as Netflix’s Ginny &#38; Georgia returns for its fourth season on January 21, 2027. For those needing a refresher, Georgia Miller (Brianne Howey) has dodged a murder charge by the end of Season 3, so her life should be back to normal. But longtime viewers know […]
 
 CONTENT / EXTRACTED DETAILS:
 The new year will start off with a bang as Netflix &#x2019;s Ginny & Georgia returns for its fourt season on January 21, 2027.
@@ -611,7 +641,7 @@ Newcomers for Season 4 include Ali Skovbye ( Firefly Lane ), Kataem O'Connor ( T
 See more first-look photos below:
 
 ============================================================
-[19] Grand Theft Auto Movie Is More Likely Than You Think, But There’s a Reason Why It Hasn’t Happened Yet
+[20] Grand Theft Auto Movie Is More Likely Than You Think, But There’s a Reason Why It Hasn’t Happened Yet
 Source: ComicBook.com | Status: expanded | Words: 590
 Published: 2026-11-18T18:04:34+00:00
 URL: https://comicbook.com/movies/news/grand-theft-auto-movie-is-more-likely-than-you-think-but-theres-a-reason-why-it-hasnt-happened-yet
@@ -637,7 +667,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] David Ellison's Open to Elon Musk Collaboration: "It Would Be a Privilege"
+[21] David Ellison's Open to Elon Musk Collaboration: "It Would Be a Privilege"
 Source: The Hollywood Reporter | Status: expanded | Words: 395
 Published: 2026-11-18T18:03:41+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547
@@ -669,7 +699,7 @@ One question surrounding the investment is whether Musk took an additional piece
 Around that time, Larry Ellison scrapped plans to sell up to $7.5 billion worth of his Oracle stake. No explanation was given over the decision to cancel the unloading of 50 million shares. He and Musk have long ties, with Larry Ellison investing $1 billion in Musk&#x2019;s 2022 acquisition of X.
 
 ============================================================
-[21] The CW Midseason Premiere Dates: 'Wild Cards' Season 4, Game Shows, 'Penn &#038; Teller: Fool Us', 'Masters Of Illusion', 'Police 24/7'
+[22] The CW Midseason Premiere Dates: 'Wild Cards' Season 4, Game Shows, 'Penn &#038; Teller: Fool Us', 'Masters Of Illusion', 'Police 24/7'
 Source: Deadline | Status: expanded | Words: 385
 Published: 2026-11-18T18:00:46+00:00
 URL: https://deadline.com/2026/11/the-cw-midseason-premiere-dates-wild-cards-game-shows-1237228142
@@ -697,7 +727,7 @@ THURSDAY, FEBRUARY 18, 2027 8-9 pm : SCRABBLE (Season 3 Premiere) 9-10 pm: TRIVI
 WEDNESDAY, MARCH 10, 2027 8-9 pm : POLICE 24/7 (Season 3 Premiere) 9-10 pm: POLICE 24/7 (Encore Episode)
 
 ============================================================
-[22] Upside Down Pictures Taps Sam Varchetto as Vice President of Film and Television
+[23] Upside Down Pictures Taps Sam Varchetto as Vice President of Film and Television
 Source: Deadline | Status: expanded | Words: 356
 Published: 2026-11-18T18:00:00+00:00
 URL: https://deadline.com/2026/11/upside-down-pictures-sam-varchetto-1237227000
@@ -717,7 +747,7 @@ Varchetto most recently served as Manager on the Specialty Series Team at Netfli
 Under their exclusive four-year overall deal at Skydance, which began in April 2026, The Duffers will develop projects across film, TV and DTC through Upside Down Pictures.
 
 ============================================================
-[23] From K-Beauty to Creatine Gummies, iHerb's Black Friday Sale Marks Down Thousands of Viral Products
+[24] From K-Beauty to Creatine Gummies, iHerb's Black Friday Sale Marks Down Thousands of Viral Products
 Source: The Hollywood Reporter | Status: expanded | Words: 350
 Published: 2026-11-18T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/iherb-black-friday-sale-2026-promo-code-best-offer-discount-1236754446
@@ -739,7 +769,7 @@ Kardashian Barker's full lineup of Lemme gummies, chews and capsules is 20 perce
 See a few more tried-and-tested favorites below, and shop the full savings event through Dec. 2 at iHerb.com .
 
 ============================================================
-[24] A U.S. Film Incentive Would Help These Three States Most of All
+[25] A U.S. Film Incentive Would Help These Three States Most of All
 Source: Variety | Status: expanded | Words: 778
 Published: 2026-11-18T18:00:00+00:00
 URL: https://variety.com/2026/film/news/u-s-film-incentive-new-york-new-jersey-georgia-1236950957
@@ -783,7 +813,7 @@ A federal incentive would help bring those projects back from overseas &#x2014; 
 &#x201C;I think it&#x2019;ll be great in general,&#x201D; Kagan says. &#x201C;But I don&#x2019;t think it&#x2019;ll be great for the state of California.&#x201D;
 
 ============================================================
-[25] Disney Inks Deal With Creator Zach King for 'Illusion Shorts' Inspired by Mouse House's Movies and Experiences
+[26] Disney Inks Deal With Creator Zach King for 'Illusion Shorts' Inspired by Mouse House's Movies and Experiences
 Source: Variety | Status: expanded | Words: 493
 Published: 2026-11-18T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/disney-zach-king-deal-original-illusion-shorts-1236951400
@@ -813,7 +843,7 @@ Disney&#x2019;s other recent deals in the creator space have included a pact wit
 The company also has cut deals with Dhar Mann Studios , for an initial 20-episode order of original content; YouTube star Like Nastya, to develop an original animated preschool series plus live-action content for kids; and Dude Perfect, in an agreement spanning entertainment, sports, products and experiences.
 
 ============================================================
-[26] GTA 6 Online - When Will Multiplayer Come to the Game?
+[27] GTA 6 Online - When Will Multiplayer Come to the Game?
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-18T17:59:22+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-online-multiplayer-rockstar-release-details-so-far
@@ -843,7 +873,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Why DWTS’ Latest Eliminations Should Clue Producers In To What Viewers Want In Future Seasons
+[28] Why DWTS’ Latest Eliminations Should Clue Producers In To What Viewers Want In Future Seasons
 Source: CinemaBlend | Status: expanded | Words: 189
 Published: 2026-11-18T17:55:34+00:00
 URL: https://www.cinemablend.com/television/why-dwts-latest-eliminations-should-clue-producers-what-viewers-want-future-seasons-harry-jenna
@@ -861,7 +891,7 @@ For those upset that Jenna and Harry missed the chance to compete in the finale,
 And just to say it, Harry Shum Jr. and Jenna Dewan didn't need the mirrorball trophy to prove they were accomplished dancers. Being featured in music videos with major pop stars already did that for them, but I can understand the disappointment in falling short after weeks of competing.
 
 ============================================================
-[28] How Rocky Became the Heart of Philadelphia
+[29] How Rocky Became the Heart of Philadelphia
 Source: The Hollywood Reporter | Status: expanded | Words: 414
 Published: 2026-11-18T17:47:29+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/rocky-became-the-heart-of-philadelphia-1236754149
@@ -887,7 +917,7 @@ With the production operating on a limited budget, the filmmakers relied heavily
 Five decades later, the steps remain a destination for generations of moviegoers, while Rocky Balboa has become one of Philadelphia&#x2019;s most enduring cultural ambassadors&#x2014;a fictional underdog whose determination and resilience have come to embody the city&#x2019;s working-class spirit.
 
 ============================================================
-[29] Dragon Ball Super's Manga Deserves to Return From Hiatus to End Its Story
+[30] Dragon Ball Super's Manga Deserves to Return From Hiatus to End Its Story
 Source: ComicBook.com | Status: expanded | Words: 888
 Published: 2026-11-18T17:47:09+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-supers-manga-deserves-to-return-from-hiatus-to-end-its-story
@@ -919,7 +949,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] From Book Club to Netflix: How Katherine Center’s ‘The Bodyguard’ Became ‘Guarding Stars’
+[31] From Book Club to Netflix: How Katherine Center’s ‘The Bodyguard’ Became ‘Guarding Stars’
 Source: The Hollywood Reporter | Status: expanded | Words: 4367
 Published: 2026-11-18T17:45:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/netflix-guarding-stars-book-to-screen-journey-1236734083
@@ -1057,7 +1087,7 @@ CENTER: Love stories are being treated more like a force to be reckoned with the
 Guarding Stars releases on Netflix on Nov. 18.
 
 ============================================================
-[31] The Underdog Story Behind the Underdog Story
+[32] The Underdog Story Behind the Underdog Story
 Source: The Hollywood Reporter | Status: expanded | Words: 931
 Published: 2026-11-18T17:44:27+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/rocky-the-underdog-story-behind-the-underdog-story-1236754023
@@ -1125,7 +1155,7 @@ For Gamble, the connection between the two films extends beyond their unlikely j
 Fifty years later, Rocky remains a reminder that sometimes going the distance is a victory in itself.
 
 ============================================================
-[32] New Friday the 13th Movie Title, Release Date Confirmed And They're Both Exactly What You Think
+[33] New Friday the 13th Movie Title, Release Date Confirmed And They're Both Exactly What You Think
 Source: ComicBook.com | Status: expanded | Words: 592
 Published: 2026-11-18T17:42:45+00:00
 URL: https://comicbook.com/movies/news/new-friday-the-13th-movie-title-release-date-confirmed-and-theyre-both-exactly-what-you-think
@@ -1157,7 +1187,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] ‘Golden Girls’ and 'Gilmore Girls' Writers' 'Silver Foxes' Screenplay Acquired by Alder Street Productions (EXCLUSIVE)
+[34] ‘Golden Girls’ and 'Gilmore Girls' Writers' 'Silver Foxes' Screenplay Acquired by Alder Street Productions (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 400
 Published: 2026-11-18T17:40:25+00:00
 URL: https://variety.com/2026/film/columns/golden-girls-gilmore-girls-writers-silver-foxes-alder-street-james-berg-stan-zimmerman-1236951894
@@ -1185,7 +1215,7 @@ Lassen&#x2019;s film credits also include Summoning Sylvia, the Artios-winning a
 The acquisition follows Alder Street&#x2019;s recent sale of &#x201C;Actual Nobodies,&#x201D; written and directed by Alex Wyse and starring Didi Conn and Austin P. McKenzie. Scatena & Rosner Films acquired North American distribution rights at the 2026 Cannes Market, with Media Luna New Films handling international sales for the remaining territories.
 
 ============================================================
-[34] 'The Comeback King' Trailer: Glen Powell Goes Country In New Judd Apatow Comedy
+[35] 'The Comeback King' Trailer: Glen Powell Goes Country In New Judd Apatow Comedy
 Source: Deadline | Status: expanded | Words: 359
 Published: 2026-11-18T17:39:21+00:00
 URL: https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094
@@ -1211,7 +1241,7 @@ The film&#x2019;s cast also includes Stavros Halkias, ,Leanne Morgan, Kumail Nan
 Producing are Kevin Misher, Apatow, Powell and Dan Cohen, with Barry Mendel and Josh Church exec producing.
 
 ============================================================
-[35] Up-and-Coming Filmmakers Talk About Their Craft, Challenges, Inspirations and More at Adobe TV &#038; Film Fund Screening
+[36] Up-and-Coming Filmmakers Talk About Their Craft, Challenges, Inspirations and More at Adobe TV &#038; Film Fund Screening
 Source: Variety | Status: expanded | Words: 1633
 Published: 2026-11-18T17:30:00+00:00
 URL: https://variety.com/2026/film/news/adobe-tv-film-fund-screening-recap-filmmakers-panel-1236946087
@@ -1267,7 +1297,7 @@ Aguirre said he grew up in El Paso and his grandparents lived just across the bo
 While Aguirre originally wanted to be an actor, "my parents were like, 'That's a terrible idea.' And then one summer I did this [theater] workshop and I thought, 'I don't want to act on the stage anymore. I want to try to do it for the screen.' And then I liked being behind the camera a lot more. And that was a kind of natural progression."
 
 ============================================================
-[36] 'I Want Your Sex' Sets HBO Max Streaming Release Date
+[37] 'I Want Your Sex' Sets HBO Max Streaming Release Date
 Source: Deadline | Status: expanded | Words: 317
 Published: 2026-11-18T17:28:35+00:00
 URL: https://deadline.com/2026/11/i-want-your-sex-streaming-release-date-hbo-max-1237228093
@@ -1287,7 +1317,7 @@ In our Deadline review, Damon Wise called the film Araki's "outreach to Gen Z, a
 The film is directed by Araki, written by Karley Sciortino and Araki, and produced by Araki, Seth Caplan, Teddy Schwarzman, Michael Heimler, Courtney L. Cunniff, and Karley Sciortino. The executive producers are Joanne Roberts Wiles, John Friedberg, and Andrew Golov.
 
 ============================================================
-[37] David Ellison Denies 'Rush Hour 4' Was A Donald Trump Greenlight, Says Taylor Sheridan Ties Still Strong
+[38] David Ellison Denies 'Rush Hour 4' Was A Donald Trump Greenlight, Says Taylor Sheridan Ties Still Strong
 Source: Deadline | Status: expanded | Words: 665
 Published: 2026-11-18T17:28:01+00:00
 URL: https://deadline.com/2026/11/david-ellison-rush-hour-4-donald-trump-taylor-sheridan-1237228089
@@ -1313,7 +1343,7 @@ Asked if he wishes Sheridan were still in the fold, Ellison replied, "We have a 
 Asked whether he feels personal regret, Ellison replied, "I'll go back to the same piece. We we have a we have a great relationship with Taylor, and there's going to be a lot of things that we are in business on. Basically, once he goes over to NBC Universal, and candidly, I think he's one of the most prolific and most talented storytellers of his generation. We're incredibly proud of all the work that we're doing together, and we want to continue that relationship going on to the future. And and in everything he does at NBCUniversal, the only thing I'm certain of is the work will be spectacular."
 
 ============================================================
-[38] Cold War Thriller 'Goldsboro' Moves Forward With Erik Jendresen &#038; Howard A. Rodman Scripting For Permut Presentations, AETH Entertainment
+[39] Cold War Thriller 'Goldsboro' Moves Forward With Erik Jendresen &#038; Howard A. Rodman Scripting For Permut Presentations, AETH Entertainment
 Source: Deadline | Status: expanded | Words: 790
 Published: 2026-11-18T17:25:00+00:00
 URL: https://deadline.com/2026/11/goldsboro-erik-jendresen-howard-a-rodman-thriller-1237228048
@@ -1347,7 +1377,7 @@ AETH Entertainment's Eric and Carla Woods have produced over 150 films and serie
 Jendresen is repped by Gersh and Frankfurt Kurnit Klein & Selz; Rodman by Code Entertainment and Donaldson Callif Perez; Permut Presentations by Pearlman & Tishbi; and AETH Entertainment by Gersh.
 
 ============================================================
-[39] Of Course, One Of The First People To Text Denis Villeneuve After 007's Casting Was Florence Pugh
+[40] Of Course, One Of The First People To Text Denis Villeneuve After 007's Casting Was Florence Pugh
 Source: CinemaBlend | Status: expanded | Words: 215
 Published: 2026-11-18T17:24:50+00:00
 URL: https://www.cinemablend.com/movies/one-of-the-first-people-text-denis-villeneuve-after-007s-casting-florence-pugh-robert-pattinson
@@ -1363,7 +1393,19 @@ Honestly I'm sold. While fans are wondering who the next Bond girl might be alon
 Pattinson's casting has been arguably the biggest entertainment story this week, with fans and fixtures of the business weighing in. While some are hyped about seeing him take on the mantle after Daniel Craig's Bond movies , others took umbrage with just how much we've seen of the 40 year-old actor as of late. This year alone he appeared in The Drama , The Odyssey , and Primetime , and he's currently filming Matt Reeves ' The Batman: Part Two .
 
 ============================================================
-[40] David Ellison Asserts Potential Federal Tax Credit Not For Tom Cruise But To Save Below-The-Line Jobs
+[41] ‘Avengers: Doomsday’ BTS Featurette: The Avengers, X-Men &#038; Fantastic Four Face A Collapsing Multiverse
+Source: The Playlist | Status: summary_only | Words: 106
+Published: 2026-11-18T17:22:13+00:00
+URL: https://theplaylist.net/avengers-doomsday-trailer-avengers-x-men-fantastic-four-20261118
+------------------------------------------------------------
+SUMMARY:
+The Multiverse Saga is finally living up to its name. Marvel Studios ’ new trailer for “Avengers: Doomsday” brings together heroes from three separate universes as thousands of timelines begin collapsing simultaneously. The Avengers, New Avengers, Wakandans, Fantastic Four, and X-Men must find a way to work together while their worlds are on a collision course. Marvel’s latest synopsis says the five groups must “put aside their suspicions of each other” and form new alliances against a threat more powerful than anything any of them has faced. Continue reading ‘Avengers: Doomsday’ BTS Featurette: The Avengers, X-Men & Fantastic Four Face A Collapsing Multiverse at The Playlist.
+
+CONTENT / EXTRACTED DETAILS:
+The Multiverse Saga is finally living up to its name. Marvel Studios ’ new trailer for “Avengers: Doomsday” brings together heroes from three separate universes as thousands of timelines begin collapsing simultaneously. The Avengers, New Avengers, Wakandans, Fantastic Four, and X-Men must find a way to work together while their worlds are on a collision course. Marvel’s latest synopsis says the five groups must “put aside their suspicions of each other” and form new alliances against a threat more powerful than anything any of them has faced. Continue reading ‘Avengers: Doomsday’ BTS Featurette: The Avengers, X-Men & Fantastic Four Face A Collapsing Multiverse at The Playlist.
+
+============================================================
+[42] David Ellison Asserts Potential Federal Tax Credit Not For Tom Cruise But To Save Below-The-Line Jobs
 Source: Deadline | Status: expanded | Words: 465
 Published: 2026-11-18T17:22:13+00:00
 URL: https://deadline.com/2026/11/david-ellison-federal-tax-credit-support-1237228056
@@ -1385,19 +1427,7 @@ In the end, just like in incentives rich California, New York and Georgia, its t
 Sending a message not just to Sorkin, but to an ailing American industry that has seen double digit production declines in L.A. and over 50,000 jobs lost over the past six years, the newly minted people's prince added: "You are helping small businesses, and every other country that has done this in the past does it because it is economically sustainable. We think it is important that the United States does it because it is economically sustainable."
 
 ============================================================
-[41] ‘Avengers: Doomsday’ Featurette Trailer: The Avengers, X-Men &#038; Fantastic Four Face A Collapsing Multiverse
-Source: The Playlist | Status: summary_only | Words: 106
-Published: 2026-11-18T17:22:13+00:00
-URL: https://theplaylist.net/avengers-doomsday-trailer-avengers-x-men-fantastic-four-20261118
-------------------------------------------------------------
-SUMMARY:
-The Multiverse Saga is finally living up to its name. Marvel Studios ’ new trailer for “Avengers: Doomsday” brings together heroes from three separate universes as thousands of timelines begin collapsing simultaneously. The Avengers, New Avengers, Wakandans, Fantastic Four, and X-Men must find a way to work together while their worlds are on a collision course. Marvel’s latest synopsis says the five groups must “put aside their suspicions of each other” and form new alliances against a threat more powerful than anything any of them has faced. Continue reading ‘Avengers: Doomsday’ Featurette Trailer: The Avengers, X-Men & Fantastic Four Face A Collapsing Multiverse at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-The Multiverse Saga is finally living up to its name. Marvel Studios ’ new trailer for “Avengers: Doomsday” brings together heroes from three separate universes as thousands of timelines begin collapsing simultaneously. The Avengers, New Avengers, Wakandans, Fantastic Four, and X-Men must find a way to work together while their worlds are on a collision course. Marvel’s latest synopsis says the five groups must “put aside their suspicions of each other” and form new alliances against a threat more powerful than anything any of them has faced. Continue reading ‘Avengers: Doomsday’ Featurette Trailer: The Avengers, X-Men & Fantastic Four Face A Collapsing Multiverse at The Playlist.
-
-============================================================
-[42] Marvel Just Quietly Confirmed a Major Hero's New Look for Avengers: Doomsday
+[43] Marvel Just Quietly Confirmed a Major Hero's New Look for Avengers: Doomsday
 Source: ComicBook.com | Status: expanded | Words: 269
 Published: 2026-11-18T17:22:01+00:00
 URL: https://comicbook.com/movies/news/marvel-just-quietly-confirmed-a-major-heros-new-look-for-avengers-doomsday
@@ -1417,7 +1447,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] NHL Legend Tie Domi to Launch 'Keeping It Real with Tie' Interview Series With Tom Brady as First Guest
+[44] NHL Legend Tie Domi to Launch 'Keeping It Real with Tie' Interview Series With Tom Brady as First Guest
 Source: Variety | Status: expanded | Words: 473
 Published: 2026-11-18T17:21:04+00:00
 URL: https://variety.com/2026/biz/news/tie-domi-keeping-it-real-with-tie-interview-series-tom-brady-1236952017
@@ -1441,7 +1471,7 @@ A veteran of 17 NHL seasons, Tahir "Tie" Domi has played on the New York Rangers
 &#x201C;Keeping It Real with Tie reflects our vision for DAZN Originals — creating compelling content that brings fans closer to the personalities and stories that make sports so special,&#x201D; said Walker Jacobs, global chief revenue officer at DAZN. &#x201C;Tie&#x2019;s relationships extend well beyond hockey, giving us an opportunity to introduce new audiences to the sport while connecting existing fans with some of the biggest names in sports and entertainment. We are excited to be building an original content offering that complements our live sports portfolio and gives fans even more reasons to engage with DAZN.&#x201D;
 
 ============================================================
-[44] Solo Leveling Drops New Look At Jinwoo's Most Powerful Shadows Ahead of New Movie
+[45] Solo Leveling Drops New Look At Jinwoo's Most Powerful Shadows Ahead of New Movie
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-18T17:18:00+00:00
 URL: https://comicbook.com/anime/news/solo-leveling-drops-new-look-at-jinwoos-most-powerful-shadows-ahead-of-new-movie
@@ -1469,7 +1499,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] New Lilo &#038; Stitch Animated Revival Reveals Sneak Peek Clip Ahead of Release in Theaters
+[46] New Lilo &#038; Stitch Animated Revival Reveals Sneak Peek Clip Ahead of Release in Theaters
 Source: ComicBook.com | Status: expanded | Words: 648
 Published: 2026-11-18T17:15:11+00:00
 URL: https://comicbook.com/movies/news/new-lilo-stitch-animated-revival-reveals-sneak-peek-clip-ahead-of-release-in-theaters
@@ -1495,7 +1525,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Whitney Peak &#038; Stephen Kalyn Join 'Serendipity' Redo From Miramax, Amazon MGM Studios
+[47] Whitney Peak &#038; Stephen Kalyn Join 'Serendipity' Redo From Miramax, Amazon MGM Studios
 Source: Deadline | Status: expanded | Words: 533
 Published: 2026-11-18T17:15:00+00:00
 URL: https://deadline.com/2026/11/whitney-peak-stephen-kalyn-join-serendipity-1237227988
@@ -1523,7 +1553,7 @@ Kalyn is best known for his role of Dean Di Laurentis in Prime Video's Off Campu
 Both Peak and Kalyn are repped by CAA and Play Management. Peak is also repped by Canopy Media Partners and Jackoway Austen Tyerman; Kalyn by Thruline Entertainment and Goodman, Genow, Schenkman.
 
 ============================================================
-[47] ‘Artificial’ Trailer: Andrew Garfield Stars As OpenAI CEO Sam Altman In Luca Guadagnino’s Silicon Valley Drama
+[48] ‘Artificial’ Trailer: Andrew Garfield Stars As OpenAI CEO Sam Altman In Luca Guadagnino’s Silicon Valley Drama
 Source: The Playlist | Status: summary_only | Words: 115
 Published: 2026-11-18T17:08:22+00:00
 URL: https://theplaylist.net/artificial-trailer-andrew-garfield-luca-guadagnino-sam-altman-20261118
@@ -1535,7 +1565,7 @@ CONTENT / EXTRACTED DETAILS:
 How do you get fired from the company you helped build, only to return five days later with more power than ever? That’s the extraordinary corporate drama at the center of Luca Guadagnino ’s “ Artificial ,” a darkly comic account of the 2023 OpenAI boardroom coup that briefly ousted CEO Sam Altman before an employee revolt and investor pressure helped engineer his return. Andrew Garfield plays Altman in the film, which NEON is bringing to theaters this Christmas, and a new trailer offers a look at one of Silicon Valley’s strangest power struggles. Continue reading ‘Artificial’ Trailer: Andrew Garfield Stars As OpenAI CEO Sam Altman In Luca Guadagnino’s Silicon Valley Drama at The Playlist.
 
 ============================================================
-[48] 'Burial Hill': Vin Diesel's Next Feature Film Is An Amazon MGM Studios Action Pic From 'The Rip' Writer &#038; 'Luther' Director
+[49] 'Burial Hill': Vin Diesel's Next Feature Film Is An Amazon MGM Studios Action Pic From 'The Rip' Writer &#038; 'Luther' Director
 Source: The Playlist | Status: summary_only | Words: 171
 Published: 2026-11-18T17:06:46+00:00
 URL: https://theplaylist.net/burial-hill-vin-diesel-amazon-mgm-studios-20261118
@@ -1547,7 +1577,7 @@ CONTENT / EXTRACTED DETAILS:
 For the longest time, Vin Diesel has been pretty much churning out installments of " The Fast & The Furious " franchise with " Forever Fast ," the 11th film, on deck, but he's looking toward the future and has secured a lead part in an original action film at Amazon MGM Studios (becoming one of the more notable places for the action genre) called " Burial Hill ." As pointed out by the report from Deadline, the possible franchise-starter has a script penned by Mike McGrale ("The Following," "CSI: Miami"), who previously wrote films such as Ben Affleck / Matt Damon 's dirty cop thriller " The Rip " and Donnie Yen 's " John Wick " spinoff " Caine ." They've also enlisted director Jamie Payne , the helmer of Netflix ’s " Luther " movies starring Idris Elba and the original series. Continue reading 'Burial Hill': Vin Diesel's Next Feature Film Is An Amazon MGM Studios Action Pic From 'The Rip' Writer & 'Luther' Director at The Playlist.
 
 ============================================================
-[49] The Comeback King Trailer With Glen Powell Has Some Unexpected Country Music Zingers (Including One Sick Jelly Roll Burn)
+[50] The Comeback King Trailer With Glen Powell Has Some Unexpected Country Music Zingers (Including One Sick Jelly Roll Burn)
 Source: CinemaBlend | Status: expanded | Words: 174
 Published: 2026-11-18T17:04:50+00:00
 URL: https://www.cinemablend.com/movies/glen-powell-the-comeback-king-trailer-jelly-roll-sick-burn-about-himself
@@ -1561,62 +1591,4 @@ Glen Powell 's gone country, and Jelly Roll is roasting himself in the first tra
 It's great to see Jelly Roll -- whose real name is Jason DeFord -- is able to take a joke, and I'm sure that one will come back to bite him more than his past appearance on late-night television . Of course, this is a Judd Apatow film, though, so it'd be weirder if he acted completely serious in the movie while playing himself.
 
 As mentioned, The Comeback King will focus on Aubry King, a country star dealing with a rumor that he cheated on his equally famous pop star girlfriend, Missy (Madelyn Cline). With fans turning on him, Aubry is encouraged by his management team to step away from the spotlight and to try and mount a comeback when the time is right.
-
-============================================================
-[50] Celebrity Beauty Brands (Even Kim’s) Are Failing. Here Are the New Rules
-Source: The Hollywood Reporter | Status: expanded | Words: 2043
-Published: 2026-11-18T17:00:00+00:00
-URL: https://www.hollywoodreporter.com/lifestyle/style/celebrity-beauty-brands-new-rules-1236757254
-------------------------------------------------------------
-SUMMARY:
-Jennifer Aniston, Kate Hudson, Cardi B and top branding consultants weigh in on what separates the infamous flops from the billion-dollar breakouts.
-
-CONTENT / EXTRACTED DETAILS:
-G wen Stefani's GXVE Beauty is gone. So are Scarlett Johansson 's skin care line The Outset and Serena Williams' Wyn Beauty cosmetics. Even Kim Kardashian 's KKW Beauty and SKKN by Kim have been retired. Blake Lively 's Blake Brown Beauty hair care is struggling, and Jennifer Lopez 's JLO Beauty has quietly exited Sephora. Yes, the celebrity beauty business is crowded and unforgiving, but that still hasn't stopped Cardi B and Jennifer Lawrence from joining the fray.
-
-Cardi B, for one, remains undeterred. "People are always going to have something to say, but I didn't create Grow-Good just to put my name on a bottle. Hair care has always been personal to me. I've been sharing my hair routines, my homemade treatments and my hair journey with my fans for years, way before I ever thought about launching a brand." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories THR Digital Cover Hudson Williams and His Hairstylist Aika Flores Really Are That Close THR Cover Story Alix Earle Bares All: How the TikToker Is Becoming Beauty's Next Billion-Dollar Mogul
-
-With a stake in a brand worth potentially far more than a movie deal as production slates threaten to continue shrinking, it's easy to understand why Hollywood keeps lining up. The success stories are seductive: Rihanna 's Fenty Beauty helped make her a billionaire, Selena Gomez 's Rare Beauty has been valued at $2.7 billion, and Hailey Bieber's Rhode sold to e.l.f. Beauty in a deal worth up to $1 billion.
-
-But fame doesn't always bring fortune &#x2014; or an easy ride. In October, Lawrence launched Mes (pronounced "mess") with Arcaea CEO Jasmina Aganovic, generating plenty of buzz and a fair amount of backlash over what online critics complained was another example of celebrity overreach. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-The partnership reportedly began after Lawrence watched Aganovic deliver a TED Talk about the future of cosmetics. Aganovic leads Arcaea, a biotech company developing sustainable, high-performance cosmetic ingredients that has counted Chanel among its investors, and she brings serious beauty credentials, having previously worked at Living Proof and led skin-microbiome brand Mother Dirt. Mes embraces an "unbothered beauty" philosophy, with the enticing promise of achieving great hair without putting in lots of time or effort. It also plays into Lawrence's public persona as the rare A-lister with genuinely self-deprecating, what-you-see-is-what-you-get candor. The actress introduced the line, which includes a hair mask, serum and volume mist, on Instagram as one for "nice people who don't leave mean comments." It was almost as if she knew what was coming. (Per her reps, Lawrence was not available to comment for this report.)
-
-After years away from social media, Lawrence made her debut Sept. 9, just weeks before the launch, and the timing didn't go unnoticed. Some commenters smelled a calculated sales pitch. Others questioned the fit, noting she's never been especially known for her hair. To skeptics and Reddit users, it looked like one more celebrity chasing a Rhode-sized payday. Lawrence, for her part, said the line grew out of years in the glam chair, when she would wash her hair only once a week.
-
-"At this point in the life cycle of celebrity brands, the initial reaction is always going be the eye roll," says Aliza Licht, marketing veteran and author of On Brand . "We all have the playbook now and everybody knows what's behind the curtain." Often, that's a licensing deal, a manufacturer, a hefty marketing budget and a carefully crafted backstory, with the star's name as the cherry on top. "Consumers are good at recognizing an engineered marketing narrative dressed up as a personal passion project." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Beauty publicist Marie-Laure Fournier, founder of Fournier PR + Consulting, believes the criticism around Mes is still manageable. "A candid, even humorous video with Aganovic, whether with a magazine or on social media, could go a long way toward humanizing the launch and addressing the skepticism head on," she says. "The public wants to see that you're listening, learning and willing to adapt."
-
-Despite some of the backlash, the early industry read on Mes is cautiously optimistic. Lawrence's working with Aganovic is "a good move, to partner with a brand like Arcaea that is well established in the beauty industry," says Clare Hennigan, principal analyst for beauty and consumer goods at global research firm Mintel. Hennigan also sees promise in the products, particularly a gel hair mask that can be applied to dry hair and doubles as a styler. No need to wait for wash day. "They are solving a pain point of convenience, a key motivator for purchases," she says. "Anything that makes life a little easier is something shoppers will pay more for."
-
-Kate Hudson would applaud this solution-oriented approach for the consumer. The celebrity entrepreneur co-founded Fabletics in 2013, remains a shareholder and watched the activewear company reportedly surpass $1 billion in revenue in 2025. "You can have the most beautiful vision in the world, but once you put something out there, you have to pay attention to what they need, what they love and what they don't," she says. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Delivering effective products is one thing; fostering a genuine connection with the consumer is another.&#xA0;Cardi B out of the gate demonstrated a keen understanding of the latter with marketing Grow-Good. Her grassroots strategy focuses on neighborhood beauty supply stores, including shops in her native Bronx. The hair care line, following three years of development, debuted in April and reportedly sold out in less than 35 minutes. "Listen, I know my people because I am my people!" she says. "I grew up going to beauty supply stores. Those stores have always been part of our community, and I wanted Grow-Good to be there too. For me, it was about making sure the products were accessible to the people I created them for." Lisa Motzko Hamilton, former vp of merchandising at Ulta Beauty and co-founder of Breakthru Beauty consultancy, says brands perform best when the entertainer is "showing up, engaging with their community and sharing a part of themselves beyond their celebrity status." The Business of Fashion reports a promising 40 percent return-customer rate for Grow-Good.
-
-Even more critically, the celebrity and the product need to make sense together. Lady Gaga's Haus Labs cosmetics draw on her reputation for artistry and creative expression, while Selena Gomez built Rare Beauty around supporting mental health for young people, a cause she has publicly owned as a personal issue, with 1 percent of sales going to Rare Impact Fund. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Hennigan cites Jennifer Aniston 's LolaVie as a brand that gets it very right. Aniston's hairstyles have been a cultural fixture for decades, making hair care a natural fit. She spent several years developing the line before launching in 2021 and has since expanded to Ulta and Credo. "LolaVie is very personal to me. My relationship with my hair, the products I've tried over the years and the challenges I've experienced are what inspired the brand in the first place," says Aniston. "I didn't want to simply put my name on something; I wanted to be part of building something that I truly believed in."
-
-The Morning Show star also makes a point of keeping a conversation going with customers. "I love hearing how other people incorporate the products into their routines and about the results they're seeing. We've made changes to product in the past based on consumer feedback," she says. (She's also extended LolaVie into pet shampoo: "My dogs are such a big part of my family, and I wanted to bring the same thoughtfulness and attention to detail that goes into our human hair care." All profits benefit The Clydeo Fund, which supports animal rescue and rehabilitation.)
-
-Author Licht points to Kardashian as someone who has spent years cultivating "a parasocial bond with followers, so a new brand lands with people she already knows, even the haters." Stars who suddenly surface hawking new products are a harder sell. "It's odd when we hear from celebrities out of the blue," she says. "We don't have social relationships with them, they're movie stars." Licht adds that Lawrence, who had no public social media presence until weeks before the launch, "seemed to come out of thin air," she says. "We are missing a bit of evidence there." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid5' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Johansson's The Outset offers another cautionary tale. "We didn't have historical commentary from Scarlett around skin care," says Licht. "The consumer needs to find a germ of a connection between the celebrity and the brand." Hennigan sees another issue: "The problem was proof. The efficacy and science may not have been as visible to shoppers."
-
-Lopez faced a different kind of disconnect with potential consumers. A merchandising executive at a beauty retailer, speaking on condition of anonymity, questions JLO Beauty's origin story. "Jennifer hung the age-defying 'JLo Glow' on a family olive oil secret, but doubters online, including a chorus of dermatologists, weren't convinced it was the whole story with JLO Beauty," creating an issue with consumer trust.
-
-Blake Lively's Blake Brown Beauty hair care line launched to considerable fanfare at Target, only to face a more complicated reality as the actress became embroiled in the fallout surrounding It Ends With Us and her legal battle with Justin Baldoni. Lively went quiet on social media, and sales have reportedly dropped sharply. "The war with Justin was likely a huge detriment to sales," says Licht.
-
-Distribution matters, too. Lady Gaga's Haus Labs initially launched exclusively on Amazon, a challenging fit for color cosmetics, where shoppers want to try on shades before buying. Its move to Sephora introduced the brand to a broader beauty audience. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid6' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Then comes the most important question of all: Does the world really need another beauty line?
-
-Fenty Beauty answered that question nearly a decade ago with an expansive and inclusive shade range that addressed a glaring gap in the cosmetics market. Rhode found its opening with accessible pricing on ingredients that had become associated with more expensive skin care. "Peptides were drawing a lot of attention, with many brands charging a premium for them, while Bieber offered high-performing peptide products at a more affordable price," notes Hennigan. For Mes, even in light of its messy debut, Hennigan sees an opportunity to shift the conversation toward time-saving efficiency with education: "Help consumers understand how these products fit into their existing hair care routines. Since the hair mask comes with a learning curve, the brand needs to drive the how-to aspect home" with tutorials and partnerships with pro stylists who can demo the products, she advises.
-
-Ultimately, the biggest challenge of the enterprise may be the least glamorous part: remaining involved long after the cameras and launch parties. Hudson, who joined HealthyCell supplements as an investor and creative strategy partner in October, says patience is the X factor. "I've learned that building a business is a long game," she says. "You have to love the process, not just the excitement of launching something." Licht doesn't mince words: "Most of the time celebrities are just not cut out for the daily grind required to build a brand, and that's why a lot of these lines fail." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid7' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Additional reporting by Beth Landman.
-
-This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
