@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T23:01:12.750Z"
+    "updated_at": "2026-11-19T23:07:12.958Z"
   },
   "articles": [
+    {
+      "id": "9111e30c-4f11-4176-9ea5-87332b0930ab",
+      "title": "I'm Loving Netflix's Win The Mall (And Haley Baylee), But There's One Thing I'd Like To See More Of",
+      "summary": "I can't be the only one who's ever wondered what it would be like to spend a night in the mall.",
+      "content": "Spoiler alert! This story discusses the ultimate winners of the reality competition series Win the Mall, now available with a Netflix subscription .\n\nWhen you move 10 teams of two contestants into a shopping mall to compete for a $1 million grand prize, it feels like you should have a plan to incorporate the mall as much as possible. Part shopping spree and part social strategy, players are dropped into a real mall, but the fake storefronts make it challenging to fully utilize the mall itself, leaving it all to feel a bit disconnected at times.\n\nSurprisingly, one of the highlights of Win the Mall is TikTok creator-turned- host Haley Baylee , who is truly delightful. She’s a likable host who can wear anything and look like she’s on a runway, but she also never takes herself too seriously, being goofy when she needs to be and taking on a more serious persona while tempting contestants with possible game advantages.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/streaming-news/loving-netflix-win-the-mall-haley-baylee-season-2-change-renew-or-cancel",
+      "published_at": "2026-11-19T23:01:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DRHai6rXQH5zjNhswDPELc-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 160,
+      "extracted_at": "2026-11-19T23:06:59.29738+00:00",
+      "updated_at": "2026-11-19T23:06:59.29738+00:00"
+    },
     {
       "id": "9baea34a-3902-4178-b81c-b56e8050c154",
       "title": "Edward Burns Lines Up Awards Push For Black-And-White Indie Movie 'Beneath The Blue Suburban Skies' &#038; Star Jennifer Ehle Seven Years After It Debuted At Toronto",
@@ -742,21 +757,6 @@
       "word_count": 462,
       "extracted_at": "2026-11-19T20:58:55.528369+00:00",
       "updated_at": "2026-11-19T20:58:55.528369+00:00"
-    },
-    {
-      "id": "e5602d05-97fa-4307-aa12-b2ed71f5840f",
-      "title": "'The Odyssey's Christopher Nolan Explains Why \"No One Will Ever See\" Deleted Scenes Of Epic",
-      "summary": "Christopher Nolan has revealed that The Odyssey has many deleted scenes, but no one will ever get a chance to see them. In a new interview, the filmmaker explained why he doesn't believe in a director's cut of his work. \"There’s a lot of deleted scenes scrumpled up in the wastebasket that no one will […]",
-      "content": "Christopher Nolan has revealed that The Odyssey has many deleted scenes, but no one will ever get a chance to see them.\n\nIn a new interview, the filmmaker explained why he doesn't believe in a director's cut of his work.\n\n\"There&#x2019;s a lot of deleted scenes scrumpled up in the wastebasket that no one will ever see,\" Nolan told The Independent .\n\nHe continued, \"I don&#x2019;t really believe in director&#x2019;s cuts. I want to stand by the film that goes out. As a writer-director, I try to do a lot of that weeding out. There aren&#x2019;t many scenes that were shot. On a film like this, to spend a day shooting something on top of a mountain or in the rain or on a boat or whatever that isn&#x2019;t gonna be in the film, I would really rather not do that. And so I wanna stand behind the cuts of the films that are put out there.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Festivals Palm Springs Film Awards Honorees: 'The Odyssey' Cast Set For Ensemble Performance Award News Christopher Nolan On DGA \"Holding The Studios To Account\" In Protecting Copyright From AI, Including Anti-AI Boilerplate In 'The Odyssey'\n\nAs the director of the film, Nolan said that it's on him \"to fight for the cut of the movie right 'til it goes into theaters.\"\n\nIn August 2026, Deadline reported that The Odyssey had become Nolan's highest-grossing movie ever at the global box office with $1.1B.\n\nIn an interview last year, Nolan said it was arduous to work on&#xA0; The Odyssey &#xA0;and noted&#xA0;it would be at least three years until his next film .\n\n\"I definitely hit the limits of my own stamina and everybody&#x2019;s stamina, I think,\" Nolan said in an interview with Today . \"I mean, it&#x2019;s The Odyssey , of course it should be difficult. We&#x2019;re not doing the job right making a film of The Odyssey if it doesn&#x2019;t seem difficult.\"",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494",
-      "published_at": "2026-11-19T20:55:12+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/christopher-nolan-the-odyssey-deleted-scenes.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 392,
-      "extracted_at": "2026-11-19T20:56:53.937891+00:00",
-      "updated_at": "2026-11-19T20:56:53.937891+00:00"
     }
   ]
 }
