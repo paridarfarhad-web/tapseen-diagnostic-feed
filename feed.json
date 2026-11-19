@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T01:54:10.709Z"
+    "updated_at": "2026-11-19T01:56:12.899Z"
   },
   "articles": [
+    {
+      "id": "8ac611ff-ac5e-4745-a49d-462054661893",
+      "title": "Rob Lowe Defends Taking Lead In Ben Shapiro's 'Confession': \"Why Wouldn't I?\"",
+      "summary": "As Ben Shapiro's most starry Daily Wire production yet makes its debut, Rob Lowe is defending his lead role in Confession. The 6x Golden Globe nominee, who stars in the Shapiro-penned Soviet era drama, recently called the script \"fantastic\" and noted that he \"called Ben\" with his interest in the project, which is now available […]",
+      "content": "As Ben Shapiro 's most starry Daily Wire production yet makes its debut, Rob Lowe is defending his lead role in Confession .\n\nThe 6x Golden Globe nominee, who stars in the Shapiro-penned Soviet era drama, recently called the script \"fantastic\" and noted that he \"called Ben\" with his interest in the project, which is now available to stream on Daily Wire's streaming service after getting \"turned down by every single film festival.\"\n\n\"It's a really, really, really interesting assessment of not only where our world is, but where Hollywood is as well,\" he explained on the Second Thought podcast. \"So, I read the script. It was written by Ben Shapiro. I called Ben and said, 'This is fantastic.'\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nLowe continued, \"And he was like, 'Well, do you think you know anybody, 50-ish leading man who would not be scared just because I wrote it?' And I go, 'Yeah, me.' And he goes, 'You're good with it?' I said, 'I've worked with the most left-wing writers in the world. Why wouldn't I also work with the most right-wing writers in the world?'\" Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nNoting that he stars alongside Nick Nolte, James Franco and Emile Hirsch, Lowe was surprised that the film's festival run \"never happened\" over what he speculates were \"all political\" reasons.\n\n\"And so, we make the movie, and the movie is what it is. It's a movie,\" he said. \"Look, it is challenging. It is a tough watch, but I see the movies that are celebrated out there. I see the movies that are picked&#x2014;we got turned down by every single film festival, summarily frog marched out of any conversation.\"\n\nLowe added, \"I see what they're picking up, and it's all political, right? The thought would be we'd play in a film festival, we would get some buzz&#x2014;never happened. And then you know, Netflix would pick it up or this one would pick. Crickets. Absolute crickets.\n\n\"So then it defaults to the Daily Wire to be the distributor, and I'm like, 'Hell yeah!' I want people to see this movie. And good for them for putting it out. But it wasn't originally going to be the life of the movie. My best thought would be, Focus Features would see it in Venice and like it, but know people are definitely at a place where a lot of people cannot see a work just for its work. They have to do the math of, 'What does it mean and what will people think and does that mean I'm on this side or does that mean I'm on that side?'\" he explained. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nPolitics aside, Confession has been met with less than enthusiastic reviews since its world premiere last month at Warsaw Film Festival, with Slate criticizing the \"canned feeling of the script and the monotony of the direction\" and Variety calling it a \"deliberately paced, sluggishly talky drama.\"\n\nShapiro's latest project was announced last month amid the fallout over the filming of his upcoming pro-ICE film in Montana, which was protested by locals over the alleged use of blank gunshots, pyrotechnics and a staged car wreck without properly notifying residents and businesses.\n\nDaily Wire's previous film Run Hide Fight: Infidels , was picketed by IATSE . Several crew members walked off over labor issues in South Carolina, shortly before Jonathan Majors was involved in an on-set accident that resulted in his co-star JC Kilcoyne needing stitches \"all over his hands\" after falling through a window.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/rob-lowe-defends-ben-shapiros-confession-1237228575",
+      "published_at": "2026-11-19T01:55:10+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDCONF-EC154-1000.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 668,
+      "extracted_at": "2026-11-19T01:55:57.383236+00:00",
+      "updated_at": "2026-11-19T01:55:57.383236+00:00"
+    },
     {
       "id": "fc652dc0-37b1-4ff2-be63-e127a18d4e92",
       "title": "Inside James Bond 26’s Final 5 Screen Test &#038; How Pattinson Stood Out Despite Amazon’s “Bias” Against Him",
@@ -742,21 +757,6 @@
       "word_count": 1175,
       "extracted_at": "2026-11-18T21:51:46.517211+00:00",
       "updated_at": "2026-11-18T21:51:46.517211+00:00"
-    },
-    {
-      "id": "34094be6-92a5-4966-b1f3-e9e43a30bce8",
-      "title": "‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess",
-      "summary": "Picture this. A screenwriter walks into a room full of studio executives and pitches a thriller about a rising country singer who disappears in Nashville. The police are inexplicably indifferent, her family is getting nowhere, and so who do they enlist to play detective? Her aunt, a disgraced country music star whose career imploded two decades earlier, who returns home to kick up some dust and play amateur snoop. Oh, and she’s played by Jessica Chastain , an Academy Award-winning actress who, for reasons that become increasingly difficult to fathom, has agreed to star in this thing. Continue reading ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess at The Playlist.",
-      "content": "Picture this. A screenwriter walks into a room full of studio executives and pitches a thriller about a rising country singer who disappears in Nashville. The police are inexplicably indifferent, her family is getting nowhere, and so who do they enlist to play detective? Her aunt, a disgraced country music star whose career imploded two decades earlier, who returns home to kick up some dust and play amateur snoop. Oh, and she’s played by Jessica Chastain , an Academy Award-winning actress who, for reasons that become increasingly difficult to fathom, has agreed to star in this thing. Continue reading ‘Heartland’ Review: Jessica Chastain’s Nashville Mystery Is A Maddeningly Contrived Mess at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/heartland-review-jessica-chastain-shana-feste-20261118",
-      "published_at": "2026-11-18T21:48:15+00:00",
-      "image_url": "https://www.youtube.com/embed/ziIz59enN1c",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 113,
-      "extracted_at": "2026-11-18T21:49:44.571893+00:00",
-      "updated_at": "2026-11-18T21:49:44.571893+00:00"
     }
   ]
 }
