@@ -5,13 +5,43 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T17:04:56.304Z"
+    "updated_at": "2026-11-19T17:08:57.791Z"
   },
   "articles": [
     {
+      "id": "d2de1e93-8f3f-4cbe-b9c9-b5c38b6ce3f3",
+      "title": "Jimmy Kimmel Had More Trump Jokes, But I Didn’t See The CMAs Jokes Coming",
+      "summary": "Sorry to anyone named Luke.",
+      "content": "If you’ve been watching Jimmy Kimmel Live ! – or if not live on social media – you should know commentary on President Trump and the White House in general has become an almost nightly occurrence. There’s a lot of history behind the contention, from Kimmel’s pointed jokes , to Trump and the White House’s bold insults , and FCC involvement in between. So, a Trump segment on late night? Not unexpected. Random shots thrown at the CMAs? A bit more surprising.\n\nLast night Kimmel did spend a fair chunk of his monologue focusing on President Trump and Trump's recent visit to China. Though he made some comments about Communism, the weirdest thing he noticed about the visit was that the President seems to be wearing makeup on his hands these days to give him a little more youthful vigor.\n\nThe Trump bit went on for a while in more traditional Jimmy Kimmel Live! style, and we'll have to wait and see if the President responds . Still, I was more amused this week by Kimmel trying to get in on the CMAs commentary. Let's get into the bobsledding joke, shall we?\n\nOK, maybe I shouldn’t have been as surprised as I was to see Kimmel commenting on country music given the CMAs aired on ABC with a big, splashy Taylor Swift appearance (that led to some Swiftie theories ). That's his own network, and it's nice to see him playing ball, even if some rumors have called his relationship with the network \"unmanageable. \"\n\nThat last bit is a Willie Nelson joke, which is quite funny, but only if you already know the Lifetime Achievement Award is named for him. I did not see it coming though when Kimmel brought up bobsledding in regards to “Choosin' Texas.”\n\nYeah, that’s a joke, but it’s also just the kind of absurd fact that’s worth remarking on. Ella Langley's crushing it, and this milestone is cool, but now I'll never think of it without also thinking of Olympics bobsledding . Sure, these are some fairly light jokes compared to his Trump stuff, but please don't say Mr. Kimmel never did anything for pop culture.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/jimmy-kimmel-more-trump-jokes-cmas-luke-combs-ella-langley",
+      "published_at": "2026-11-19T17:05:03+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YSa2r8cMPqmvfHhkPFxxsa-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 362,
+      "extracted_at": "2026-11-19T17:08:43.209059+00:00",
+      "updated_at": "2026-11-19T17:08:43.209059+00:00"
+    },
+    {
+      "id": "81c1c286-958c-4c09-8b8f-0ab37592ed57",
+      "title": "Queen Latifah, Bone Thugs-N-Harmony, MC Lyte and More to Lead 2027 Rock the Bells Cruise",
+      "summary": "Rock and Roll Hall of Famer Queen Latifah, Bone Thugs-N-Harmony, MC Lyte, Rakim, Trina, Talib Kweli and more lead the lineup for the fifth annual Rock the Bells Cruise, launching October 27 in Miami, continuing to Harvest Caye, Belize, and finally Cozumel, Mexico, where it concludes on November 1. \"Four sold-out sailings later, we're raising […]",
+      "content": "Rock and Roll Hall of Famer Queen Latifah , Bone Thugs-N-Harmony, MC Lyte, Rakim, Trina, Talib Kweli and more lead the lineup for the fifth annual Rock the Bells Cruise, launching October 27 in Miami, continuing to Harvest Caye, Belize, and finally Cozumel, Mexico, where it concludes on November 1.\n\n\"Four sold-out sailings later, we're raising the bar again for year five,\" says LL Cool J, who founded Rock the Bells and presents it with Sixthman. \"There's nothing like being out on the water with hip-hop all around you: the performances, the energy on deck, the late nights, the people. From the moment you board to the moment you step off, it's a full hip-hop experience, and our team is making this one truly unforgettable.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve Is ‘I Play Rocky’ Original or Adapted? Stallone’s ‘Rocky’ Origin Story Faces a ‘Barbie’-Style Oscar Dilemma (EXCLUSIVE)\n\nThe 2027 lineup also includes Little Brother, Ying Yang Twins, Devin the Dude, Camp Lo, Yo-Yo, Philadelphia Freeway, Jungle Brothers, Mia X, Shawnna and Pastor Troy, with more artists and programming to be announced.\n\nThe festival&#x2019;s comedy showcases will return, featuring Tisha Campbell, Tony Roberts, Daphnique Springs and Lance Woods, as well as onboard wellness sessions led by fitness star Big Lez, and continuous hosting by rap vets Roxanne Shant&#xE9; and Torae.\n\nAlso on offer aboard the Norwegian Joy are an outdoor go-kart track, two waterslides, mini golf, a thermal spa, beauty salon, pools and lounge areas, along with restaurants and bars.\n\nFor tickets, the first-round presale sign-up deadline is December 2 at 11:59 PM ET, with the final round a week later on December 9 at 11:59 PM ET. Public on-sale is slated for December 11 at 2 PM ET.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/music/news/queen-latifah-2027-rock-the-bells-cruise-1236953159",
+      "published_at": "2026-11-19T17:05:00+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304675233.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 323,
+      "extracted_at": "2026-11-19T17:06:43.784123+00:00",
+      "updated_at": "2026-11-19T17:06:43.784123+00:00"
+    },
+    {
       "id": "f3365b9b-31fe-46ab-88fd-311aee150f48",
       "title": "Imax Inks Largest Cinema Deal In U.K. For New Locations",
-      "summary": "The agreement for UK and European theater locations with Moshe “Mooky” Greidinger's Showcase Cinemas gets Imax back in business with the former Cineworld Group CEO.",
+      "summary": "The agreement for U.K. and European theater locations with Moshe “Mooky” Greidinger's Showcase Cinemas gets Imax back in business with the former Cineworld Group CEO.",
       "content": "Imax is back in business with former Cineworld Group CEO Moshe &#x201C;Mooky&#x201D; Greidinger after signing a deal for 13 new laser projection systems at 12 theaters in the Showcase Cinemas circuit in the U.K. and Europe.\n\nTerms of the agreement were not disclosed, but Imax has signed its first deal with Showcase Cinemas, but also with a longtime business partner. &#x201C;I&#x2019;ve been in the Imax business for decades and the value of its technology, brand, and strategic partnership to exhibitors have grown exponentially in that time,&#x201D; Greidinger said in a statement after his recent acquisition of the 16-venue Showcase Cinemas circuit from Skydance.\n\n&#x201C;There is no doubt that Imax plays a significant role in the results of the industry and I am sure it will continue to grow and attract new audience and become even more significant in the coming years. I look forward to working with Rich and his team and making the Imax Experience a cornerstone of the new Showcase Cinemas in the UK,&#x201D; he added.\n\nThe new laser projection systems will go in 12 UK locations and another in Europe. Regal owner Cineworld in 2023 emerged from Chapter 11 bankruptcy proceeding in the U.S. via a restructuring, with Greidinger and his management team eventually leaving the British cinema operator.\n\n&#x201C;Mooky is a visionary leader and an excellent partner who recognized the value in Imax long before our recent run of record-breaking success. We&#x2019;re excited to be back in business with his team at Showcase Cinemas UK,&#x201D; Richard Gelfond, CEO of Imax, said in his own statement.\n\nFive of the new Imax locations will open across the UK in 2027, with the remaining locations to open in the next few years, Imax said. The deal also comes as Imax shows momentum in new theater signings after the release of Christopher Nolan&#x2019;s The Odyssey on its screens, and ahead of the debut of Dune: Part Three at Imax locations worldwide.\n\nThe deal announcement with Showcase Cinemas also comes a day after Imax said it had promoted Giovanni Dolci to the newly created role of chief operating officer, overseeing the company&#x2019;s expanding global theater network.",
       "source": "The Hollywood Reporter",
       "source_url": "https://www.hollywoodreporter.com/business/business-news/imax-showcase-cinemas-deal-1236759341",
@@ -20,8 +50,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 355,
-      "extracted_at": "2026-11-19T17:04:44.650542+00:00",
-      "updated_at": "2026-11-19T17:04:44.650542+00:00"
+      "extracted_at": "2026-11-19T17:08:43.597533+00:00",
+      "updated_at": "2026-11-19T17:08:43.597533+00:00"
     },
     {
       "id": "fb243fcf-9837-4baf-88a1-be2b6a5104f4",
@@ -37,6 +67,21 @@
       "word_count": 503,
       "extracted_at": "2026-11-19T17:04:43.544578+00:00",
       "updated_at": "2026-11-19T17:04:43.544578+00:00"
+    },
+    {
+      "id": "3fd731d3-f6a8-4e16-b632-c71f8dae763b",
+      "title": "I Just Watched Santa Arnold Lift A Giant Christmas Tree. What’s It Like To Do Stunts At 79?",
+      "summary": "The Terminator is getting older, but apparently nobody told Santa.",
+      "content": "I've accepted that Arnold Schwarzenegger can probably do things at 79 that would put me in physical therapy. Still, watching him take time from his busy 2026 movie schedule to hoist an enormous Christmas tree overhead while dressed as Santa Claus made me do a double take. The moment comes from a new Santa Schwarzenegger holiday ad, which follows the action icon through New York City in a Santa suit as he dodges the paparazzi. Somehow, he winds up helping a family load a tree onto their car. I suspect some movie magic made that lift possible, but seeing Arnold casually handle an entire evergreen is pretty funny. It also has me wondering: What's it like doing stunts at his age?\n\nFour decades ago, Schwarzenegger swung swords and ran through jungles. I'd imagine climbing onto a horse in full costume feels a little different at 79. Of course, he wasn't about to let a serious observation about aging ruin a perfectly good joke. He quickly followed up with a line that had me laughing:\n\nThat's a pretty fantastic old-man joke. The timing is even better when you remember this is the same guy currently showing up in Amazon’s holiday commercial looking capable of bench-pressing a Christmas tree. Kimmel also commented on how muscular Schwarzenegger still is, which led to some playful back-and-forth between the two. Even the Terminator is still perfectly comfortable being the butt of his own jokes.\n\nSchwarzenegger isn't pretending he can simply pick up where he left off in 1986, either. He's spoken about how a potential King Conan would acknowledge the character's age, with Conan having spent decades on the throne before facing a threat to his kingdom. That's an idea I can get behind. CinemaBlend has already covered his updates about possible Predator and Commando sequels , although he told Kimmel he was still waiting to see finalized scripts.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/i-watched-santa-arnold-schwarzenegger-lift-giant-christmas-tree-stunts-79",
+      "published_at": "2026-11-19T17:03:05+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xXBTNdTsp4UHcEs68GC9CE-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 314,
+      "extracted_at": "2026-11-19T17:08:43.276026+00:00",
+      "updated_at": "2026-11-19T17:08:43.276026+00:00"
     },
     {
       "id": "951bf939-26e5-4ae2-a10a-5b44855589c8",
@@ -712,51 +757,6 @@
       "word_count": 850,
       "extracted_at": "2026-11-19T15:34:39.108595+00:00",
       "updated_at": "2026-11-19T15:34:39.108595+00:00"
-    },
-    {
-      "id": "f2e082e5-669c-41a1-998a-d3ab298fec64",
-      "title": "'The Beast In Me' Adds Riley Keough &#038; Her 'Daisy Jones' Younger Self To Main Cast; Aaron Paul Among 3 Recurring In Season 2",
-      "summary": "Riley Keough and child actor Lorelei Olivia Mote, who played the same character at different ages on Daisy Jones &#38; The Six, are set to play mother and daughter on the upcoming second season of Netflix’s psychological crime thriller The Beast In Me. They round out the series regular cast of the new installment, led […]",
-      "content": "Riley Keough and child actor Lorelei Olivia Mote , who played the same character at different ages on Daisy Jones & The Six, are set to play mother and daughter on the upcoming second season of Netflix &#x2019;s psychological crime thriller The Beast In Me . They round out the series regular cast of the new installment, led by returning star Claire Danes, who is joined by previously announced John Goodman and Lili Taylor.\n\nAdditionally, Aaron Paul ( Breaking Bad, Fallout) , Taip Ceman ( Cupertino, The Families Stone ) and Matthew James Thomas ( Accused, Summer of Rockets ) are tapped for recurring roles on Season 2, which begins production today in New York. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News Netflix Animated Series 'Living The Dream' Gets Trailer & Release Date News Connor Schell's Full Day Scores Netflix Deal For FIFA Women's World Cup Brazil 2027 Programming\n\nDanes is reprising her role as author Aggie Wiggs. Goodman plays Aggie&#x2019;s (Danes) dad, believed to be a con artist. Taylor will play Fiona, Aggie&#x2019;s stepmother. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nKeough is said to be playing a rising filmmaker, Mote portrays her 13-year-old daughter, a talented actress. Paul is thought to be playing Nikki's dad.\n\nOn Prime Video's limited series Daisy Jones & The Six, Keough played the title charcter, Mote played Daisy aka Margaret, at a young age.\n\nSeason 1 writers/executive producers Howard Gordon and Daniel Pearle are back as co-showrunners. The two are executive producing Season 2 with Danes, series creator Gabe Rotter and fellow Season 1 executive producers Antonio Campos, who directed half of the S1 episodes, Caroline Baron, Amy Lippman, Gabe Rotter, Conan O&#x2019;Brien, David Kissinger, Jeff Ross and Jodie Foster. 20th Television is the studio.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/the-beast-in-me-riley-keough-cast-aaron-paul-1237228831",
-      "published_at": "2026-11-19T15:30:00+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Riley-Keough-Mote.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 353,
-      "extracted_at": "2026-11-19T15:30:39.359597+00:00",
-      "updated_at": "2026-11-19T15:30:39.359597+00:00"
-    },
-    {
-      "id": "91910a3c-12f4-4717-8fcd-cfd992273003",
-      "title": "Hollywood's D.C. Allies Look for Tax Vehicle as Clock Ticks on Lame-Duck Session",
-      "summary": "Hollywood's allies in Congress are continuing to build support for a U.S. film incentive, but are awaiting a bipartisan tax package to serve as a vehicle for the measure. During a meeting with actor Jon Voight on Friday, President Trump sent a Truth Social message exhorting lawmakers to \"Get this done!\" But Congress faces a […]",
-      "content": "Hollywood's allies in Congress are continuing to build support for a U.S. film incentive, but are awaiting a bipartisan tax package to serve as a vehicle for the measure.\n\nDuring a meeting with actor Jon Voight on Friday, President Trump sent a Truth Social message exhorting lawmakers to \"Get this done!\" But Congress faces a host of other issues, including funding for the Iran war and a potential government shutdown, in the remaining weeks of the lame-duck session. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Ella Langley Breaks a CMA Awards Record by Winning Six in One Night, Including Entertainer of the Year: The Complete List of Winners 'Heartland' Review: Jessica Chastain Rocks a Stetson and a Swagger for a Soapy Nashville Noir\n\nThe Motion Picture, Television and Entertainment Revitalization Act would create a 20%-30% federal tax credit for film and TV labor costs. To pass it by the end of the year, it will have to be attached to a broader tax bill, which may or may not materialize.\n\n\"There&#x2019;s bipartisan, widespread support for this. It&#x2019;s growing every single day,\" said Rep. Laura Friedman, a co-author, on Wednesday. \"We are running into the end of the year and challenges around timing and finding things that can move through the House.\"\n\nThe list of co-sponsors is up to 76 House members and 14 Senators, evenly split between Republicans and Democrats. Katie Britt, a Republican from Alabama, is the latest to come on board in the Senate. In a statement, Britt said that the industry \"supports good-paying jobs and drives investment in communities far beyond Hollywood, including in states like Alabama.\"\n\nThe Directors Guild of America told its members on Wednesday that the midterm election has \"created a more complicated political environment\" and that there is only a \"narrow window\" for Congress to act by the end of the year. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\n\"Your DGA leadership is actively reaching out to the key Congressional decision makers as part of the push for MPTERA to be attached to a viable tax package if one moves forward,\" the union leadership said.\n\nTrump's wishes are not always heeded on Capitol Hill. The day before he pushed for a film incentive last week, he urged Senate Republicans to pass a $350 billion defense bill. That effort appeared to have stalled by mid-week, as the party was unable to reach an internal consensus. Some Democrats, meanwhile, are angling to remove funding for the Iran war as the price of cooperation. The lack of a clear path has set up the possibility of a shutdown when government funding expires on Dec. 11.\n\nSenate Democrats are also focused on their internal politics, as Sen. Chris Van Hollen has mounted a challenge to Chuck Schumer for Democratic leader.\n\nFilm and TV stakeholders have been visiting lawmakers to seek additional support for the federal incentive, arguing that the measure will bring jobs back from overseas. Sean Astin, the president of SAG-AFTRA, met with Schumer on Wednesday to lobby for his support.\n\nThe measure could be taken up after Democrats take control in January, but advocates hope to capitalize on Trump's endorsement to get it done before then, with the understanding that any delay could shift priorities.\n\n\"There's a lot of other issues out there competing for attention,\" Friedman said. \"This is the time we need our advocates to be very loud.\"",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/news/hollywood-lame-duck-federal-incentive-1236952716",
-      "published_at": "2026-11-19T15:30:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/10/Capitol-Hill-Federal-Tax-Incentive-Watch.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 595,
-      "extracted_at": "2026-11-19T15:30:40.856203+00:00",
-      "updated_at": "2026-11-19T15:30:40.856203+00:00"
-    },
-    {
-      "id": "212a6425-f9bd-41a0-9daa-b0f03f6d3ae4",
-      "title": "'Beast in Me' Season 2 Casts Riley Keough, Lorelei Olivia Mote, Aaron Paul, Taip Ceman, Matthew James Thomas",
-      "summary": "\"The Beast in Me\" Season 2 is rounding out its cast as production kicks off in New York. Variety has learned that Riley Keough (\"Daisy Jones &#38; The Six,\" \"Under the Bridge\") and Lorelei Olivia Mote (\"Daisy Jones &#38; The Six,\" \"The Rescue\") are both set as series regulars in the second season of the […]",
-      "content": "\" The Beast in Me \" Season 2 is rounding out its cast as production kicks off in New York.\n\nVariety has learned that Riley Keough (\"Daisy Jones & The Six,\" \"Under the Bridge\") and Lorelei Olivia Mote (\"Daisy Jones & The Six,\" \"The Rescue\") are both set as series regulars in the second season of the Netflix series.\n\nIn addition, Aaron Paul (\"Breaking Bad,\" \"Fallout\"), Taip Ceman (\"Cupertino,\" \"The Families Stone\"), and Matthew James Thomas (\"Accused,\" \"Summer of Rockets\") are set as recurring guest stars. Exact character details on the new additions are being kept under wraps. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift Taylor Swift's CMA Return Helped Disney Sell More Ads\n\nKeough is repped CAA and Hansen Jacobson. Mote is repped by Amsel Eisenstadt Frazier & Hinojosa Talent Agency, Aspire Talent Management, and Hansen Jacobson. Paul is repped by UTA. Thomas is repped by Innovative Artists Entertainment, Belfield & Ward, and Framework Entertainment.\n\nThe new additions will star alongside returning lead Claire Danes and previously announced new cast members John Goodman and Lili Taylor.\n\n&#x201C;The Beast in Me&#x201D; was originally announced as a limited series when it was picked up in 2024. It also campaigned as a limited series at this year&#x2019;s Emmy Awards, for which Season 1 star Matthew Rhys won the award for outstanding lead actor in a limited or anthology series. The series also won the Emmy for outstanding music composition for a limited or anthology series, movie or special (original dramatic score).\n\n&#x201C;The Beast in Me&#x201D; Season 1 showrunner Howard Gordon will serve as co-showrunner on Season 2 alongside Season 1 executive producer Daniel Pearle. Gabe Rotter is the creator and an executive producer of &#x201C;The Beast in Me.&#x201D; Danes will again executive produce in addition to starring. Antonio Campos, Caroline Baron, Amy Lippman, Conan O&#x2019;Brien, David Kissinger, Jeff Ross, Claire Danes and Jodie Foster also executive produce. The series is produced by 20th Television.",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/tv/news/beast-in-me-season-2-cast-riley-keough-aaron-paul-1236952455",
-      "published_at": "2026-11-19T15:30:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Beast-in-Me-Season-2-cast.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 350,
-      "extracted_at": "2026-11-19T15:30:41.271251+00:00",
-      "updated_at": "2026-11-19T15:30:41.271251+00:00"
     }
   ]
 }
