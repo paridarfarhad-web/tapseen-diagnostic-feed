@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T23:37:12.819Z"
+    "updated_at": "2026-11-19T23:41:21.381Z"
   },
   "articles": [
+    {
+      "id": "86a76450-a073-457e-abcc-358b5d3bb2cf",
+      "title": "'Abbott Elementary's Janelle James Says She \"Bullied\" Her Way To 'GTA 6': \"I Pursued, Conceptualized, Pitched, Scripted &#038; Voice Acted\"",
+      "summary": "Janelle James is a Grand Theft Auto fan celebrating being part of&#160;GTA VI&#160;as users worldwide get their hands on the long-awaited game. In a new social media post, the Abbott Elementary star explained how she got involved in the game. \"It's very important to me that everybody knows that not only is that me, I'm […]",
+      "content": "Janelle James is a Grand Theft Auto fan celebrating being part of&#xA0; GTA VI &#xA0;as users worldwide get their hands on the long-awaited game.\n\nIn a new social media post, the Abbott Elementary star explained how she got involved in the game.\n\n\"It's very important to me that everybody knows that not only is that me, I'm not simply 'voice acting,'\" James shared on her Instagram Stories. \"I pursued, conceptualized, pitched, scripted AND voice acted my radio show.\"\n\nShe continued, \"Rockstar [Games] didn't 'choose' me, I bullied my way to them. I've been playing this game since Vice City (was previously overcommitted to Metal Gear), and this is a literal dream come true!!\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nThe stand-up comedian said that she's been \"told the response is already great,\" adding, \"Hope to catch yall in these online streets where I will promptly kick you square in your back then put 2 in your dome.\" Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nAs players explore the GTA VI world, some noticed a very familiar voice in the game. James appears in the game as the host of She Got Assets . Players have been clipping the moment, which you can preview in the video below.\n\nGrand Theft Auto VI &#xA0;is an action-adventure game developed by Rockstar Games and is the eighth main entry in the&#xA0; GTA &#xA0;video game series. The long-awaited game comes 16 years after 2013's Grand Theft Auto V. Set in the fictional Vice City (based on Miami), the new game is available on PlayStation 5 and Xbox Series X/S.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/abbott-elementary-janelle-james-gta-vi-1237229560",
+      "published_at": "2026-11-19T23:40:00+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/janelle-james-gta-6.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 323,
+      "extracted_at": "2026-11-19T23:41:00.934209+00:00",
+      "updated_at": "2026-11-19T23:41:00.934209+00:00"
+    },
     {
       "id": "f6923b0d-cefc-4390-a8b8-072ce6301b95",
       "title": "Dragon Ball Super Already Locked In the Next Z Fighter &#038; They Need Their Anime Debut",
@@ -742,21 +757,6 @@
       "word_count": 840,
       "extracted_at": "2026-11-19T21:06:54.297934+00:00",
       "updated_at": "2026-11-19T21:06:54.297934+00:00"
-    },
-    {
-      "id": "e6fa09d4-91bb-49cf-bb4e-a6d126abf99d",
-      "title": "Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal",
-      "summary": "Seriously, the perfect deal for the season!",
-      "content": "I have a pretty strict rule about not watching holiday movies before Thanksgiving, and I intend to stick with that rule this year. One movie I watch every year on the weekend after Turkey Day is Scrooged. I seriously love that Christmas movie , and it always gets me in a holiday mood. Luckily, the Bill Murray classic is newly available with a Paramount+ subscription , and the streaming service is currently running a fantastic deal that is going to make it easier than ever.\n\nThen there are comedies like Scrooged, Home for the Holidays, Happy Christmas, Last Holiday with Queen Latifah , and Bad Mom’s Christmas , for example. If you want something a little edgier, you can always watch Bad Santa with Billy Bob Thornton (who also stars in Landman on Paramount+). There is also the borderline Christmas comedy Mean Girls (ok, it’s very borderline, but the dance scene is legendary ). Bridget Jones’s Diary falls under that category as well (at least for New Year's Eve).\n\nParamount+ has quietly become one of my favorite streamers over the last few years, even outside of this time of year. Not only is most of the Taylor Sheridan Universe of shows part of its lineup, including Landman Season 3 at some point, but the growing list of movies is pretty legendary. I’m talking about iconic movies like Top Gun , Gladiator, Terminator 2, Braveheart, Dunkirk, Almost Famous , and all of the Mission: Impossible movies. Seriously, if you’re a movie fan, it’s one of the best places to see a ton of classics.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/looking-for-holiday-movies-stream-paramount-plus-has-you-covered-with-amazing-discounted-deal",
-      "published_at": "2026-11-19T21:05:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/P4NETRoZYLjjy5nXMd7pcD-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 263,
-      "extracted_at": "2026-11-19T21:10:54.065704+00:00",
-      "updated_at": "2026-11-19T21:10:54.065704+00:00"
     }
   ]
 }
