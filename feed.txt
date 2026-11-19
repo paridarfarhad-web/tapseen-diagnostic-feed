@@ -1,9 +1,37 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T21:15:08.274Z
+Last Updated: 2026-11-19T21:17:12.007Z
 Website: https://tapseen.com
 
 ============================================================
-[1] New Fallout Game Leaks Ahead of Reveal, but It's Not Anything Fans Would Expect
+[1] 'Spider-Man: Brand New Day' Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene
+Source: Deadline | Status: expanded | Words: 343
+Published: 2026-11-19T21:15:43+00:00
+URL: https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-nurse-deleted-scene-1237229518
+------------------------------------------------------------
+SUMMARY:
+Rosario Dawson has shared a first look at her Spider-Man: Brand New Day cameo as Claire Temple (Night Nurse). The scene originally didn't make the cut that Marvel fans saw in theaters earlier this year, but it will be included in the re-release of the film slated for December 4. "It’s a brand new BRAND […]
+
+CONTENT / EXTRACTED DETAILS:
+Rosario Dawson has shared a first look at her Spider-Man : Brand New Day cameo as Claire Temple (Night Nurse).
+
+The scene originally didn't make the cut that Marvel fans saw in theaters earlier this year, but it will be included in the re-release of the film slated for December 4.
+
+"It&#x2019;s a brand new BRAND NEW DAY with our friendly neighborhood Spider-Man&#x2026;!" Dawson shared on Instagram.
+
+Dawson included a photo of herself in scrubs alongside Tom Holland's Spider-Man, wearing a mask to stay incognito as he recovered in the hospital.
+
+"So excited to enjoy this record-breaking movie on the big screen (starting on December 4th) with an extended cut of new scenes and surprises&#x2026; Ahhhh!" Dawson added. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Earlier this year, while attending GalaxyCon in Raleigh, North Carolina, Dawson revealed she had filmed a scene for&#xA0; Spider-Man: Brand New Day , but it was cut .
+
+"Well &#x2026; I&#x2019;m going to have to say: I could have said Spider-Man,&#x201D; Dawson said after a fan asked what character she would like her Daredevil character to work with. &#x201C;I even shot a scene in the new Spider-Man movie. But I got cut out.&#x201D;
+
+She continued, "I know. I told my mom, and she was like, &#x2018;That sucks. Now I can&#x2019;t post the [behind the scenes] pictures [on social media].&#x2019; And I was like, &#x2018;Right mom. Me being cut out of the movie that has, like, the largest viewership of a trailer ever, the issue is you can&#x2019;t post your BTS photos.'"
+
+Dawson has played Claire Temple across multiple Marvel shows like Jessica Jones , Luke Cage , Iron Fist and The Defenders .
+
+============================================================
+[2] New Fallout Game Leaks Ahead of Reveal, but It's Not Anything Fans Would Expect
 Source: ComicBook.com | Status: expanded | Words: 666
 Published: 2026-11-19T21:13:45+00:00
 URL: https://comicbook.com/gaming/news/new-fallout-game-leaks-ahead-of-reveal-but-its-not-anything-fans-would-expect
@@ -37,7 +65,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] GTA 6 Parents Guide - Should You Let Your Kid Play the New Grand Theft Auto Game?
+[3] GTA 6 Parents Guide - Should You Let Your Kid Play the New Grand Theft Auto Game?
 Source: ComicBook.com | Status: expanded | Words: 1106
 Published: 2026-11-19T21:10:35+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-grand-theft-auto-vi-parents-guide
@@ -81,7 +109,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend
+[4] Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend
 Source: CinemaBlend | Status: expanded | Words: 161
 Published: 2026-11-19T21:09:50+00:00
 URL: https://www.cinemablend.com/television/gordon-ramsays-hot-take-air-fryers-has-me-questioning-legend
@@ -97,7 +125,7 @@ I was willing to defend Ramsay after he dissed pineapple on pizza , as that's a 
 What I can't abide is the disrespect he showed toward the air fryer. His comments make it sound like it has no place in the standard home kitchen. As someone who cooks from home all the time, I can't praise the air fryer enough, and how it elevates my cooking experience each and every dinner night.
 
 ============================================================
-[4] Tendo Nagenda Named President of Ryan Coogler's Proximity Media
+[5] Tendo Nagenda Named President of Ryan Coogler's Proximity Media
 Source: The Hollywood Reporter | Status: expanded | Words: 361
 Published: 2026-11-19T21:09:39+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/tendo-nagenda-president-ryan-coogler-proximity-media-1236759547
@@ -121,7 +149,7 @@ After Netflix, Nagenda founded 10 by Ten Entertainment, and produced the feature
 Proximity&#x2018;s upcoming slate includes The X-Files for Hulu, starring Danielle Deadwyler and Himesh Patel.
 
 ============================================================
-[5] Playbill Apologizes Over 'George Floyd Musical' Ad; Show's Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights
+[6] Playbill Apologizes Over 'George Floyd Musical' Ad; Show's Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights
 Source: Deadline | Status: expanded | Words: 1291
 Published: 2026-11-19T21:09:37+00:00
 URL: https://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358
@@ -185,7 +213,7 @@ In a statement to The New York Times delivered by his attorney after the undiscl
 Deadline has reached out to both Playbill and Busted Broadway for additional comment.
 
 ============================================================
-[6] One of Storm's Most Disturbing X-Men Stories Is Getting a Horrifying New Chapter in Midnight X-Men
+[7] One of Storm's Most Disturbing X-Men Stories Is Getting a Horrifying New Chapter in Midnight X-Men
 Source: ComicBook.com | Status: expanded | Words: 840
 Published: 2026-11-19T21:05:00+00:00
 URL: https://comicbook.com/comics/feature/one-of-storms-most-disturbing-x-men-stories-is-getting-a-horrifying-new-chapter-in-midnight-x-men
@@ -217,7 +245,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal
+[8] Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal
 Source: CinemaBlend | Status: expanded | Words: 263
 Published: 2026-11-19T21:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/looking-for-holiday-movies-stream-paramount-plus-has-you-covered-with-amazing-discounted-deal
@@ -233,7 +261,7 @@ Then there are comedies like Scrooged, Home for the Holidays, Happy Christmas, L
 Paramount+ has quietly become one of my favorite streamers over the last few years, even outside of this time of year. Not only is most of the Taylor Sheridan Universe of shows part of its lineup, including Landman Season 3 at some point, but the growing list of movies is pretty legendary. I’m talking about iconic movies like Top Gun , Gladiator, Terminator 2, Braveheart, Dunkirk, Almost Famous , and all of the Mission: Impossible movies. Seriously, if you’re a movie fan, it’s one of the best places to see a ton of classics.
 
 ============================================================
-[8] Tendo Nagenda Tapped As President Of Proximity Media
+[9] Tendo Nagenda Tapped As President Of Proximity Media
 Source: Deadline | Status: expanded | Words: 665
 Published: 2026-11-19T21:00:00+00:00
 URL: https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818
@@ -257,7 +285,7 @@ In 2022, Nagenda founded 10 by Ten Entertainment, a production company focused o
 The appointment comes as Proximity Media continues to expand its slate across film, television and nonfiction. The company is behind the critically acclaimed blockbuster Sinners , which grossed more than $365 million worldwide, as well as Creed III and Academy Award-winning Judas and the Black Messiah . On the television side, Proximity recently secured a series greenlight for its highly anticipated reimagining of The X-Files for Hulu, Danielle Deadwyler and Himesh Patel attached to star. The company also recently entered into a multiyear television deal with Netflix to develop an exclusive slate of scripted and unscripted projects. Its nonfiction projects include National Geographic&#x2019;s Hurricane Katrina: Race Against Time , which became the network&#x2019;s most-watched U.S. streaming title, along with Stephen Curry: Underrated , Homeroom and Anthem .
 
 ============================================================
-[9] Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President
+[10] Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President
 Source: Variety | Status: expanded | Words: 572
 Published: 2026-11-19T21:00:00+00:00
 URL: https://variety.com/2026/film/news/tendo-nagenda-ryan-coogler-proximity-media-president-1236952410
@@ -285,7 +313,7 @@ In 2022, Nagenda founded 10 by Ten Entertainment, a production company focused o
 Nagenda's appointment comes as Proximity Media continues to expand its slate across film, television and nonfiction. In June, the company entered into a multiyear television deal with Netflix to develop an exclusive slate of scripted and unscripted projects. Proximity Media&#x2019;s television division is behind series including Marvel&#x2019;s &#x201C;Ironheart&#x201D; and the animated &#x201C;Black Panther&#x201D; spinoff &#x201C;Eyes of Wakanda"; the National Geographic docuseries &#x201C;Hurricane Katrina: A Race Against Time&#x201D;; "Stephen Curry: Underrated"; "Homeroom"; and "Anthem."
 
 ============================================================
-[10] Justin Hartley &#038; ChangeUp Productions Developing Medical Drama 'Dr. Lucia' At NBC
+[11] Justin Hartley &#038; ChangeUp Productions Developing Medical Drama 'Dr. Lucia' At NBC
 Source: Deadline | Status: expanded | Words: 530
 Published: 2026-11-19T21:00:00+00:00
 URL: https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428
@@ -309,7 +337,7 @@ Pernas is currently recurring on CBS' Tracker and most recently on NBC's Suits L
 Guitar and Sheree Guitar Productions are represented by Lichter Grossman Nichols.
 
 ============================================================
-[11] ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia
+[12] ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia
 Source: Variety | Status: expanded | Words: 457
 Published: 2026-11-19T20:59:32+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444
@@ -339,7 +367,7 @@ Zack Hoyt, better known online as Asmongold, complained during a stream of the g
 Despite chatter from commentators, &#x201C;GTA 6&#8243; is breaking internet usage records and is already one of the best-reviewed games of all time.
 
 ============================================================
-[12] Judge Allows Trump to Sue New York Times Reporters Over Tax Fraud Claims
+[13] Judge Allows Trump to Sue New York Times Reporters Over Tax Fraud Claims
 Source: Variety | Status: expanded | Words: 462
 Published: 2026-11-19T20:57:32+00:00
 URL: https://variety.com/2026/politics/news/trump-new-york-times-tax-fraud-lucky-loser-book-1236953532
@@ -371,7 +399,7 @@ The same judge dismissed an earlier version of Trump's lawsuit last year, findin
 The suit can now proceed to discovery and motions for summary judgment. The defendants in the case are the Times, three of its reporters, and Penguin Random House.
 
 ============================================================
-[13] 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
+[14] 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
 Source: Deadline | Status: expanded | Words: 392
 Published: 2026-11-19T20:55:12+00:00
 URL: https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494
@@ -397,7 +425,7 @@ In an interview last year, Nolan said it was arduous to work on&#xA0; The Odysse
 "I definitely hit the limits of my own stamina and everybody&#x2019;s stamina, I think," Nolan said in an interview with Today . "I mean, it&#x2019;s The Odyssey , of course it should be difficult. We&#x2019;re not doing the job right making a film of The Odyssey if it doesn&#x2019;t seem difficult."
 
 ============================================================
-[14] The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
+[15] The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
 Source: The Hollywood Reporter | Status: expanded | Words: 313
 Published: 2026-11-19T20:45:17+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/paramount-plus-black-friday-deal-2026-november-promo-1236759110
@@ -417,7 +445,7 @@ Paramount+ Essential is the streamer's ad-supported base package, regularly $8.9
 Paramount+ Premium (formerly known as Paramount+ with Showtime) is regularly $13.99 per month or $139.99 per year and offers everything in the essential plan without ads (except for live TV), plus access to all of Showtime, the ability to stream CBS live with more sports and events, the option to download movies and shows and the ability to watch in 4K Ultra HD, Dolby Vision or HDR10.
 
 ============================================================
-[15] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
+[16] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
 Source: Deadline | Status: expanded | Words: 394
 Published: 2026-11-19T20:43:30+00:00
 URL: https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451
@@ -443,7 +471,7 @@ The series will premiere in its regular timeslot on Thursday, January 7 at 8 p.m
 Jackson can recently be seen starring in the indie feature I&#x2019;m Beginning to See the Light , alongside Abbie Cornish and Jack Huston. On the TV side, his credits include Family Business: New Orleans, Mr. Robinson, Deadbeat and Bojack Horseman. Known for his work in the Percy Jackson titles, his additional film credits include Tropic Thunder , Roll Bounce and Tooth Fairy. Jackson is repped by Buchwald and Zero Gravity Management.
 
 ============================================================
-[16] Star Wars Jedi 3 Report Gives New Update on EA Game
+[17] Star Wars Jedi 3 Report Gives New Update on EA Game
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-19T20:39:06+00:00
 URL: https://comicbook.com/gaming/news/star-wars-jedi-3-ea-new-update-report
@@ -469,7 +497,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
+[18] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
 Source: CinemaBlend | Status: expanded | Words: 163
 Published: 2026-11-19T20:38:14+00:00
 URL: https://www.cinemablend.com/streaming-news/nick-jonas-and-bridgerton-hannah-dodd-doing-rom-com-fans-shook-me
@@ -485,7 +513,7 @@ It’s safe to say that I did not see Dodd starring in a holiday romcom next yea
 There's no word yet on when The More The Merrier will be available for those with a Netflix subscription . However, I'd imagine it should be out in time for the 2027 holiday season since filming is slated to begin in January.
 
 ============================================================
-[18] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
+[19] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
 Source: Variety | Status: expanded | Words: 373
 Published: 2026-11-19T20:36:44+00:00
 URL: https://variety.com/2026/music/news/marlon-jackson-prostate-cancer-1236953546
@@ -507,7 +535,7 @@ He had a sense of humor while addressing his prognosis, saying, "Bad grass don&#
 Jackson is the sixth of Joe and Katherine Jackson's ten children. Besides his twin, who died shortly after birth, Marlon was the closest in age to Michael Jackson, who was born one year after him. Marlon left the Jackson 5 in 1985, shortly after Michael, and released the solo album "Baby Tonight" in 1987. After that, he mostly left the music business and began to pursue real estate. He has made several public appearances recently while promoting the biopic "Michael."
 
 ============================================================
-[19] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
+[20] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
 Source: Deadline | Status: expanded | Words: 473
 Published: 2026-11-19T20:30:00+00:00
 URL: https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336
@@ -531,7 +559,7 @@ Meredith is a rising actress who has previously been seen in Prime Video's Fallo
 Batalon is best known for his breakout role as Ned Leeds in Marvel/Sony's Spider-Man franchise, most recently reprising the fan-favorite character in Spider-Man: Brand New Day , the highest-grossing film of 2026 and the third-highest-grossing film of all time. He also recently starred in the action comedy The Wrecking Crew , opposite Jason Momoa and Dave Bautista, and in the action thriller Novocaine . Previously, he exec produced and starred in the titular role of Syfy's Reginald the Vampire . He is represented by Independent Artist Group and Brecheen Feldman Breimer.
 
 ============================================================
-[20] Zooey Deschanel &#038; Caleb Hearon TIFF World Premiere 'Trash Mountain' Acquired By Magnolia Pictures
+[21] Zooey Deschanel &#038; Caleb Hearon TIFF World Premiere 'Trash Mountain' Acquired By Magnolia Pictures
 Source: Deadline | Status: expanded | Words: 521
 Published: 2026-11-19T20:24:19+00:00
 URL: https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457
@@ -557,7 +585,7 @@ Metronome Film Company presents, in association with Sight Unseen, Pigasus Pictu
 The deal was negotiated by Magnolia Pictures SVP of Acquisitions John Von Thaden and VP of Acquisitions Miranda Hill, and by CAA Media Finance and WME on behalf of the filmmakers.
 
 ============================================================
-[21] Peacock Is Decking the Streaming Halls With Festive New Holiday 2026 Lineup
+[22] Peacock Is Decking the Streaming Halls With Festive New Holiday 2026 Lineup
 Source: ComicBook.com | Status: expanded | Words: 1058
 Published: 2026-11-19T20:22:00+00:00
 URL: https://comicbook.com/movies/news/peacock-is-decking-the-streaming-halls-with-festive-new-holiday-2026-lineup
@@ -803,7 +831,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B 'Lucky Loser' Defamation Suit
+[23] Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B 'Lucky Loser' Defamation Suit
 Source: Deadline | Status: expanded | Words: 746
 Published: 2026-11-19T20:08:57+00:00
 URL: https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384
@@ -831,7 +859,7 @@ With the case now set to move towards further discovery and trial, it may or may
 On the flip side, having enduring a plethora of Trump attacks and suits over the years, the Gray Lady hasn't given up the fight. &#x201C; The Times is encouraged to see Judge Merryday&#x2019;s dismissal of almost all claims against us,' the NYT's Charlie Stadtlander stated today. "We continue to believe the remaining claim in the filing has no legal merit. We look forward to making this argument as we continue to defend ourselves against this baseless attack on The Times and the rights of the free and independent press in this country.&#x201D;
 
 ============================================================
-[23] Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
+[24] Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
 Source: Variety | Status: expanded | Words: 369
 Published: 2026-11-19T20:06:36+00:00
 URL: https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529
@@ -851,7 +879,7 @@ Dawson debuted the character, a nurse who specializes in aiding heroes, in Seaso
 The re-release, titled "Spider-Man: [Brand New] Brand New Day," will return to theaters on Dec. 4.
 
 ============================================================
-[24] Amy Poehler Explains Why One SNL Employee Has Seen Every Famous Person Naked
+[25] Amy Poehler Explains Why One SNL Employee Has Seen Every Famous Person Naked
 Source: CinemaBlend | Status: expanded | Words: 1574
 Published: 2026-11-19T20:03:34+00:00
 URL: https://www.cinemablend.com/television/amy-poehler-snl-donna-richards-costumes
@@ -903,7 +931,7 @@ Television Amy Poehler Recalled The Moment She Knew It Was Time To Leave SNL: �
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[25] Edgar Barrera Signs With Fortress Talent Management
+[26] Edgar Barrera Signs With Fortress Talent Management
 Source: Deadline | Status: expanded | Words: 323
 Published: 2026-11-19T20:00:00+00:00
 URL: https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241
@@ -927,7 +955,7 @@ Fortress Talent Management's roster includes Oscar-, Emmy-, and Grammy-winning a
 Barrera won his first Grammy in 2015 in the Best Tropical Album category for his work on Carlos Vives' M&#xE1;s Coraz&#xF3;n Profundo . He recently received a nomination at the 69th Annual Grammy Awards in the Songwriter of the Year, Non-Classical category for the fourth consecutive year. The songs he worked on include "Broke My Heart", "Dando Vueltas", "Despu&#xE9;s De Ti", "For u My lova", "Lighter", "Ojitos Bellos", "Pvta Luna", "7-3" and "Velas."
 
 ============================================================
-[26] Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
+[27] Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
 Source: Variety | Status: expanded | Words: 655
 Published: 2026-11-19T19:58:00+00:00
 URL: https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326
@@ -961,7 +989,7 @@ The Doha Film Festival runs Nov. 19-27.
 Nick Vivarelli contributed to this report.
 
 ============================================================
-[27] The Cliff Booth Reviews Point Out A Missed Opportunity In Brad Pitt’s Sequel, And I Have To Agree
+[28] The Cliff Booth Reviews Point Out A Missed Opportunity In Brad Pitt’s Sequel, And I Have To Agree
 Source: CinemaBlend | Status: expanded | Words: 446
 Published: 2026-11-19T19:53:58+00:00
 URL: https://www.cinemablend.com/movies/further-mis-adventures-cliff-booth-reviews-missed-opportunity-brad-pitt-sequel-agree
@@ -985,7 +1013,7 @@ Overall, the reviews are skewing positive, with a few leaning more lukewarm. We 
 If you loved Once Upon a Time...In Hollywood, I definitely think you should catch this one. I thought the runtime flew by and it was simply a fun time, but all these reactions help gather a broader picture of what people think about it so far.
 
 ============================================================
-[28] What's Taking the BioShock Movie So Long? Director Reveals It's the Same Problem Other Video Games Have
+[29] What's Taking the BioShock Movie So Long? Director Reveals It's the Same Problem Other Video Games Have
 Source: ComicBook.com | Status: expanded | Words: 617
 Published: 2026-11-19T19:50:36+00:00
 URL: https://comicbook.com/movies/news/whats-taking-the-bioshock-movie-so-long-director-reveals-its-the-same-problem-other-video-games-have
@@ -1011,7 +1039,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] 'GTA 6' Sales Have Already Surpassed Christopher Nolan's 'The Odyssey'
+[30] 'GTA 6' Sales Have Already Surpassed Christopher Nolan's 'The Odyssey'
 Source: The Hollywood Reporter | Status: expanded | Words: 480
 Published: 2026-11-19T19:47:56+00:00
 URL: https://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454
@@ -1039,7 +1067,7 @@ Going back to that question up top, Rockstar Games is likely disinclined to risk
 As Strauss Zelnick, the CEO of Rockstar's parent company Take-Two Interactive, told The David Rubenstein Show earlier this month: "We're very careful about line extensions because this is a creative company and our goal is to make the best entertainment on earth, entertainment we're always proud of. We would make a movie or television show based on our intellectual property if our creative teams were passionate about it, if they thought they would somehow engage and delight our consumers. It's a high bar to do that. And of course, there's always a risk of failure. So we don't rule it out, but we're very, very selective."
 
 ============================================================
-[30] Mary Steenburgen, Kyra Sedgwick &#038; Sophia Bush Set For Indie 'Kindred Spirits'; Hilary Swank Among Producers
+[31] Mary Steenburgen, Kyra Sedgwick &#038; Sophia Bush Set For Indie 'Kindred Spirits'; Hilary Swank Among Producers
 Source: Deadline | Status: expanded | Words: 556
 Published: 2026-11-19T19:47:34+00:00
 URL: https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419
@@ -1065,7 +1093,7 @@ Kindred Spirits marks the fourth feature from the NY-based Johnson, who produced
 Recent acting credits for Swank, the Academy Award-winning star of Million Dollar Baby and Boys Don't Cry , include Yellowjackets and Ordinary Angels . Alongside her onscreen work, she's exec produced films and TV series like The Good Mother , Hulu&#x2019;s Alaska Daily and the lauded indie drama What They Had . She is repped by CAA and Entertainment 360.
 
 ============================================================
-[31] Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook
+[32] Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook
 Source: Variety | Status: expanded | Words: 1318
 Published: 2026-11-19T19:40:00+00:00
 URL: https://variety.com/2026/film/awards/the-odyssey-dune-you-can-see-everything-best-picture-race-1236952487
@@ -1135,7 +1163,7 @@ A few others are flying under the radar but still looking for a defining moment 
 The lesson of the past few seasons is that the race is never settled in November. It just looks that way.
 
 ============================================================
-[32] Marvel's Incredible Hulk Got the Worst Kind of TV Ending, But Returned Like No One Expected
+[33] Marvel's Incredible Hulk Got the Worst Kind of TV Ending, But Returned Like No One Expected
 Source: ComicBook.com | Status: expanded | Words: 949
 Published: 2026-11-19T19:40:00+00:00
 URL: https://comicbook.com/tv-shows/feature/marvels-incredible-hulk-got-the-worst-kind-of-tv-ending-but-returned-like-no-one-expected
@@ -1163,7 +1191,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] American Society Of Cinematographers Focuses In On 2027 Career Honorees
+[34] American Society Of Cinematographers Focuses In On 2027 Career Honorees
 Source: Deadline | Status: expanded | Words: 768
 Published: 2026-11-19T19:36:23+00:00
 URL: https://deadline.com/2026/11/american-society-of-cinematographers-2027-career-honorees-1237229325
@@ -1193,7 +1221,7 @@ Julianne Grosso Grosso will receive the ASC Award of Distinction for her pivotal
 The Tiffen Company Tiffen will receive the Curtis Clark Technology Award in recognition of its nearly nine decades of innovation and its enduring impact on cinematography. From the Golden Age of Hollywood to today&#x2019;s digital production environments, Tiffen&#x2019;s technologies have helped shape the look and movement of countless films and television productions, providing filmmakers with the tools to bring their creative visions to life. Renowned for its pioneering optical filtration technology, Tiffen&#x2019;s contributions extend beyond the lens to include more than 25 years of advancing Steadicam camera stabilization systems and the continued evolution of Lowel lighting solutions since 2009. Together, these innovations have empowered generations of cinematographers to shape, capture and illuminate their images with greater creative freedom. The company has been recognized with numerous honors from the Academy of Motion Picture Arts and Sciences, as well as multiple Emmy Awards for its contributions.
 
 ============================================================
-[34] CBS Inks New Deal to Air Kennedy Center Honors
+[35] CBS Inks New Deal to Air Kennedy Center Honors
 Source: The Hollywood Reporter | Status: expanded | Words: 492
 Published: 2026-11-19T19:35:27+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/cbs-kennedy-center-honors-new-deal-1236759479
@@ -1227,7 +1255,7 @@ The 49th Kennedy Center Honors will be produced by Den of Thieves, with Jesse Ig
 Directing the special will be Micah Bickham, while Cheche Alara will serve as music producer and music director.
 
 ============================================================
-[35] Netflix Confirms Grendel Animated Series Based on the Cult Comic Book With First Look
+[36] Netflix Confirms Grendel Animated Series Based on the Cult Comic Book With First Look
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-19T19:34:52+00:00
 URL: https://comicbook.com/tv-shows/news/netflix-confirms-grendel-animated-series-based-on-the-cult-comic-book-with-first-look
@@ -1257,7 +1285,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Meta Launches 150-Plus 3D Movies to Rent and Buy on Quest VR Headsets, With Thousands More Coming in 2027
+[37] Meta Launches 150-Plus 3D Movies to Rent and Buy on Quest VR Headsets, With Thousands More Coming in 2027
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-19T19:33:53+00:00
 URL: https://variety.com/2026/digital/news/meta-3d-movies-rent-buy-quest-vr-headsets-1236953488
@@ -1281,7 +1309,7 @@ Meta continues to push the VR headset as a premium home-theater experience. With
 Watching "Hit Me Hard and Soft: The Tour" in 3D on Meta Quest, "you can stand alongside Billie, look out at the crowd, and feel like part of the show," according to Meta. "Getting those shots took more than pointing cameras at a stage. Billie performs on a 360-degree stage surrounded by the audience, so Cameron's Lightstorm Vision team built a new system for filming 3D at long range, capturing the action up close without putting cameras between Billie and her fans. Another 3D camera on stage puts you right beside her."
 
 ============================================================
-[37] Nat Geo Explores The Unabomber’s Brother, Somali Pirates &#038; Hantavirus In New Doc Slate
+[38] Nat Geo Explores The Unabomber’s Brother, Somali Pirates &#038; Hantavirus In New Doc Slate
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-19T19:30:00+00:00
 URL: https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342
@@ -1311,7 +1339,7 @@ Hijacked: The Real Captain Phillips comes from Curious Films. The three-part ser
 Christian Collerton is series director, Dov Freedman, Jessie Versluys and Jamal Osman exec produce for Curious Films and Carolyn Payne exec produces for Nat Geo.
 
 ============================================================
-[38] New 'Serendipity' Movie Casts Auli‘i Cravalho (EXCLUSIVE)
+[39] New 'Serendipity' Movie Casts Auli‘i Cravalho (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-19T19:30:00+00:00
 URL: https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411
@@ -1333,7 +1361,7 @@ Michael Showalter is attached to direct "Serendipity." Marc Klein, who wrote the
 The original "Serendipity" starred John Cusack and Kate Beckinsale. In the film, their characters meet one night in New York and decide to leave the chance of meeting again up to fate. They ultimately go searching for each other years later despite being in relationships with other people. The film was a box office success, grossing over $77 million on a reported budget of $28 million.
 
 ============================================================
-[39] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
+[40] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
 Source: Variety | Status: expanded | Words: 364
 Published: 2026-11-19T19:25:35+00:00
 URL: https://variety.com/2026/tv/news/larry-poindexter-dead-swat-days-of-our-lives-1236952702
@@ -1357,7 +1385,7 @@ In addition to acting, he was also the lead singer and songwriter for the band "
 Poindexter is survived by his wife, casting director Carol Kritzer, and their two sons.
 
 ============================================================
-[40] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
+[41] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
 Source: CinemaBlend | Status: expanded | Words: 207
 Published: 2026-11-19T19:19:50+00:00
 URL: https://www.cinemablend.com/television/fans-speculating-val-relationships-dwts-after-suspension-insider
@@ -1373,7 +1401,7 @@ There you have it. If this source is to be believed, it sounds like there isn't 
 When Chmerkovskiy returned to the Ballroom after his one-week suspension, footage arrived online of him and Carrie Ann Inaba burying the hatchet between shots. That would also seem to point at things being resolved, but there's still plenty of chatter online about Val.
 
 ============================================================
-[41] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
+[42] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-19T19:15:29+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-vice-city-when-do-you-visit
@@ -1401,7 +1429,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
+[43] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-19T19:13:44+00:00
 URL: https://theplaylist.net/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-20261119
@@ -1413,7 +1441,7 @@ CONTENT / EXTRACTED DETAILS:
 Apple TV is bringing one of Las Vegas’ most extravagant, bizarre, and ultimately tragic show-business stories to television. The streamer has unveiled the first look at “ Wild Things ,” its upcoming limited series starring Jude Law and Andrew Garfield as legendary illusionists Siegfried & Roy , while announcing an April 16, 2027, premiere date. And what better place to introduce a series about two of Vegas’ most flamboyant entertainers than the city itself? Continue reading ‘Wild Things’ First Look: Jude Law & Andrew Garfield Become Siegfried & Roy In Apple TV’s Las Vegas Limited Series at The Playlist.
 
 ============================================================
-[43] 'The Gilded Age' Renewed For Season 5 At HBO
+[44] 'The Gilded Age' Renewed For Season 5 At HBO
 Source: Deadline | Status: expanded | Words: 460
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344
@@ -1433,7 +1461,7 @@ Viewership for Season 4 has grown week over week, with Episode 3, Peggy's weddin
 &#x201C;Julian Fellowes and the cast of The Gilded Age have once again captured the zeitgeist this fall, delivering another captivating, unmissable season, and we love how our growing audience has continued to embrace the series year after year. We can&#x2019;t wait to return to 61st Street, as the Russells, van Rhijns and Kirklands continue to wrestle with the cost of ascent, while we expand the canvas and deepen the operatic stakes for these beloved characters," said Francesca Orsi, President, HBO Drama Series and Films.
 
 ============================================================
-[44] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
+[45] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
 Source: Deadline | Status: expanded | Words: 441
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216
@@ -1461,7 +1489,7 @@ The parade will also feature performances by Natasha Bedingfield, Baha Men, Blue
 The Macy&#x2019;s Thanksgiving Day Parade broadcast is produced by Universal Television in conjunction with Done + Dusted Inc. Katy Mullan and Liz Kelly serve as executive producers, with RJ Durrell, Nick Flores, and Patrick Menton serving as co-executive producers.
 
 ============================================================
-[45] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
+[46] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
 Source: Deadline | Status: expanded | Words: 663
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/nikki-glaser-netflix-partnership-netflix-is-a-joke-studios-1237229256
@@ -1491,7 +1519,7 @@ Speaking to her new deal, Glaser said, "Netflix gave me some of my earliest and 
 The comedian is represented by WME, Brillstein Entertainment Partners and Ginsburg Daniels Kallis.
 
 ============================================================
-[46] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
+[47] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
 Source: The Hollywood Reporter | Status: expanded | Words: 474
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nikki-glaser-overall-deal-netflix-1236759294
@@ -1517,7 +1545,7 @@ Added Robbie Praw, Netflix vp stand-up and comedy formats: "I first met Nikki Gl
 Glaser is repped by WME, Brillstein Entertainment Partners and Ginsburg Daniels.
 
 ============================================================
-[47] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
+[48] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
 Source: The Hollywood Reporter | Status: expanded | Words: 451
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-thanksgiving-parade-2026-broadcast-broadway-shows-1236759417
@@ -1545,7 +1573,7 @@ Natasha Bedingfield, Baha Men, Blues Traveler, DEVO, Jimmy Fallon & The Roots, F
 Jack McBrayer, Janet McTeer, John Stamos, Melissa Joan Hart, Megan Hilty, Holly Robinson Peete and Rodney Peete are also scheduled to appear.
 
 ============================================================
-[48] 'The Gilded Age' Scores Season 5 Renewal at HBO
+[49] 'The Gilded Age' Scores Season 5 Renewal at HBO
 Source: The Hollywood Reporter | Status: expanded | Words: 463
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/gilded-age-renewed-season-5-hbo-1236759400
@@ -1571,7 +1599,7 @@ The show's sprawling cast is led by Carrie Coon, Christine Baranski, Cynthia Nix
 Fellowes executive produces The Gilded Age with Salli Richardson-Whitfield (who also directs), Warfield, Gareth Neame, David Crockett, Robert Greenblatt, Kate Churchill, Davita Scarlett and Elaine Aronson. Erica Armstrong Dunbar and Holly Rymon are co-EPs.
 
 ============================================================
-[49] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
+[50] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-canadas-drag-race-in-the-us-season-7-streaming-vpn-1236758702
@@ -1597,28 +1625,4 @@ The service has dedicated IP addresses and servers from various locations in oth
 In fact, Proton VPN has servers in more than 140 countries to access movies and TV shows from streaming services in England, Germany, Canada, South Korea, Japan, France, Australia and other nations. Learn more about how Proton VPN can protect your identity and data online here .
 
 Twelve drag artists are competing for $100,000 (CAD) and title of "Canada's Next Drag Superstar." The cast of Canada's Drag Race season seven includes:
-
-============================================================
-[50] Watermelon Pictures Buys Zach Woods' 'The Accompanist,' Starring Susan Sarandon and Aubrey Plaza
-Source: Variety | Status: expanded | Words: 378
-Published: 2026-11-19T19:00:00+00:00
-URL: https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474
-------------------------------------------------------------
-SUMMARY:
-Watermelon Pictures has acquired North American distribution rights to "The Accompanist," co-written and directed by actor, writer and comedian Zach Woods in his directorial debut. The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon ("Dead Man Walking," "Bull Durham"), alongside Emmy and Golden Globe nominee Aubrey Plaza ("The White Lotus") […]
-
-CONTENT / EXTRACTED DETAILS:
-Watermelon Pictures has acquired North American distribution rights to " The Accompanist ," co-written and directed by actor, writer and comedian Zach Woods in his directorial debut.
-
-The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon ("Dead Man Walking," "Bull Durham"), alongside Emmy and Golden Globe nominee Aubrey Plaza ("The White Lotus") and Everly Carganilla ("The Chair"). Watermelon Pictures will release the film in the U.S. in 2027. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Veteran Publicist Bill Harrison and Creative Director Johnny Wujek Join Nonprofit Art of Elysium (EXCLUSIVE) Jane Fonda 'Didn't Dare Imagine' Democrats' Blue Tsunami: 'We Have to Block What's Bad and Fight For What's Good'
-
-Written by Woods and Brandon Gardner, "The Accompanist" centers on Emily (Carganilla), a nine-year-old girl living with her loving grandfather in New Jersey as his advancing dementia makes it increasingly difficult for him to care for her. After a young child-welfare agent (Plaza) intervenes, Emily is placed in the care of Sylvia (Sarandon), an eccentric, mischievous 70-year-old foster parent whose unconventional world initially leaves Emily uncertain of what to expect.
-
-"People casually use words like &#x2018;honored&#x2019; and &#x2018;family&#x2019; all the time in press releases and it often sounds kind of insane to me," said Woods. "But. And I mean this. I really am honored to be partnering with Watermelon Pictures on 'The Accompanist.'"
-
-Added Sarandon: "So happy that our little jewel of a film is in the hands of Watermelon Pictures. I&#x2019;m grateful for their enthusiasm and commitment."
-
-The distribution deal was initiated by Audrey Delaney, marketing executive at Watermelon Pictures and was negotiated by Munir Atalla, EVP of production and acquisitions for Watermelon Pictures, and Jessica Lacy of Gersh on behalf of the filmmakers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-&#x201C;We fell in love with 'The Accompanist' because beneath its humor, mystery and wonderfully strange edges is an incredibly moving story about the people who find one another when they need it most,&#x201D; said Hamza Ali, Co-Founder of Watermelon Pictures. &#x201C;We&#x2019;re thrilled to bring this beautiful film to audiences across the country.&#x201D;
 
