@@ -1,0 +1,8 @@
+{
+  "kind": "chatgpt-plus-publishing-test",
+  "phase": "manual-github-write",
+  "created_on": "2026-11-19",
+  "test_only": true,
+  "publication_enabled": false,
+  "note": "This is a safe connectivity check. It must not trigger publishing."
+}
