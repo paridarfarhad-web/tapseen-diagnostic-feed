@@ -1,9 +1,39 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T10:20:37.038Z
+Last Updated: 2026-11-19T10:26:44.379Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Comcast And Skydance Shuttering European Streamer SkyShowtime; CEO Monty Sarhan Exiting
+[1] YouTube Investigating Russell Brand Prison Message Video
+Source: Deadline | Status: expanded | Words: 450
+Published: 2026-11-19T10:26:22+00:00
+URL: https://deadline.com/2026/11/youtube-investigates-russell-brand-prison-message-video-1237228857
+------------------------------------------------------------
+SUMMARY:
+YouTube has said it is investigating after the UK government called on the Google-owned platform to remove Russell Brand's prison message video. On Sunday, Brand’s wife, Laura Brand, delivered some words on behalf of her husband on the Forgetting Sarah Marshall star’s YouTube channel. In the message, Brand maintained that he was innocent of rape […]
+
+CONTENT / EXTRACTED DETAILS:
+YouTube has said it is investigating after the UK government called on the Google-owned platform to remove Russell Brand 's prison message video.
+
+On Sunday, Brand&#x2019;s wife, Laura Brand, delivered some words on behalf of her husband on the Forgetting Sarah Marshall star&#x2019;s YouTube channel. In the message, Brand maintained that he was innocent of rape and sexual assault.
+
+The UK's Ministry of Justice (MoJ) called on YouTube to remove the video after a spokesperson for Prime Minister Andy Burnham said its contents were "appalling." Related Stories News YouTube Hits Back At Rivals With New Slate Featuring Rising Creators, Established Stars & Hot New Directors News British Lawmakers To Probe Use Of NDAs In Entertainment Industry
+
+BBC News reported on Thursday that the MoJ's request had been rejected by YouTube. The Google-owned video service did not deny this when contacted by Deadline. The video remains live on Russell Brand's YouTube channel. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+A Google spokesperson said: "We&#x2019;re aware of the new content and our teams are investigating. We suspended Russell Brand&#x2019;s channel from the YouTube Partner Program in September 2023. The channel has not been able to monetise on YouTube since then."
+
+Reading from a notepad, Laura Brand told Russell Brand's followers: &#x201C;Beloved brothers and sisters in Christ, God bless you for your support. As you know, I am not guilty for the offences I have been jailed for, so something strange is happening.&#x201D;
+
+She continued: &#x201C;The good news is that Christ is with us when we choose him, and I do. I am incarcerated in HMP Littlehey. Little as in small, and hey as in, &#x2018;Hey, I&#x2019;m in the biggest sex offenders&#x2019; prison in Europe.
+
+&#x201C;The good news is that I have already seen that the staff here are strong, they are kind, and they are dedicated. And as for my fellow prisoners, I now know that I am in no position to judge anyone.
+
+&#x201C;I don&#x2019;t know which other men here are not guilty, and the ones that are, they are people that Christ died to save, like you and me. Let us all love, pray for, and forgive one another as God forgave us.&#x201D;
+
+An audibly emotional Laura Brand added: &#x201C;Please support my treasured wife and family. I feel your prayers, your brother in Christ. Russell.&#x201D;
+
+============================================================
+[2] Comcast And Skydance Shuttering European Streamer SkyShowtime; CEO Monty Sarhan Exiting
 Source: Deadline | Status: expanded | Words: 365
 Published: 2026-11-19T10:20:19+00:00
 URL: https://deadline.com/2026/11/skyshowtime-closing-2027-monty-sarhan-leaving-1237228853
@@ -27,7 +57,7 @@ SkyShowtime was launched in 2022 out of Amsterdam as a JV streaming service betw
 However, the service is operating in a different landscape to its pandemic era roots, with Paramount now sitting inside the same Skydance tent as Warner Bros. Discovery and Comcast splitting its entertainment services up, with cable networks business Versant now separate to NBCUniversal. UK pay TV business Sky handles Comcast's investment in SkyShowtime.
 
 ============================================================
-[2] Jeon Do-yeon on Oscar Contender 'Possible Love,' Korean Cinema's Commercial Pull and Her 'Greater Thirst' for Stories
+[3] Jeon Do-yeon on Oscar Contender 'Possible Love,' Korean Cinema's Commercial Pull and Her 'Greater Thirst' for Stories
 Source: Variety | Status: expanded | Words: 736
 Published: 2026-11-19T10:19:25+00:00
 URL: https://variety.com/2026/film/news/jeon-do-yeon-oscar-contender-possible-love-korean-cinema-1236952899
@@ -59,7 +89,7 @@ Lee, she adds, "was more prepared for working with me," and the overall mood "wa
 Jeon says she is considering a film for her next project, "but nothing has been decided yet." She says she looks forward to telling greater stories and finding those works.
 
 ============================================================
-[3] ‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That's Unique
+[4] ‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That's Unique
 Source: Variety | Status: expanded | Words: 781
 Published: 2026-11-19T10:17:47+00:00
 URL: https://variety.com/2026/film/reviews/steps-review-1236952706
@@ -89,7 +119,7 @@ With five credited writers, the script for &#x201C;Steps&#x201D; feels like a to
 Though the kingdom is intricately conceived in gorgeous pastel colors, the character design, while not aesthetically unpleasant, can best be described as standard &#x2014; the way most 3DCG humans look in mainstream animated features. When Margot (a character with little to do) turns into an adorable, pudgy frog, her design &#x2014; with her hair buns becoming the creature's bugging eyes &#x2014; provides a rare interesting edge to the film&#x2019;s mostly generic visual identity. The brightly colored world of &#x201C;Steps,&#x201D; as well as its use of pop songs and the contentious banter between Wong and Seyfried, may work well enough to entertain young viewers, but it doesn't make for a classic.
 
 ============================================================
-[4] Tilly Norwood Creator Teases Next Project 'Storm Dogs' &#038; Shows Clip
+[5] Tilly Norwood Creator Teases Next Project 'Storm Dogs' &#038; Shows Clip
 Source: Deadline | Status: expanded | Words: 526
 Published: 2026-11-19T10:01:31+00:00
 URL: https://deadline.com/2026/11/tilly-norwood-creator-teases-next-storm-dogs-clip-1237228854
@@ -131,7 +161,7 @@ Van der Velden was speaking at the British Screen Forum after former Amazon UK b
 Bird said AI is allowing practices developed by the streaming giants to be "replicated for the independent industry," which can lead to "better creative decisions."
 
 ============================================================
-[5] Stephen King Changed TV And Gave '90s Kids a Fear of Clowns Forever 36 Years Ago
+[6] Stephen King Changed TV And Gave '90s Kids a Fear of Clowns Forever 36 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 1186
 Published: 2026-11-19T09:51:00+00:00
 URL: https://comicbook.com/horror/feature/stephen-king-changed-tv-and-gave-90s-kids-a-fear-of-clowns-forever-36-years-ago
@@ -169,7 +199,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] 5 Video Game Movies That Should Have Started Franchises (I’m Still Upset About #1)
+[7] 5 Video Game Movies That Should Have Started Franchises (I’m Still Upset About #1)
 Source: ComicBook.com | Status: expanded | Words: 1203
 Published: 2026-11-19T09:11:00+00:00
 URL: https://comicbook.com/movies/list/5-video-game-movies-that-should-have-started-franchises-im-still-upset-about-1
@@ -207,7 +237,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] 'Rivals' No More: Research Reveals Rationale Behind Disney-Channel 4 Deal
+[8] 'Rivals' No More: Research Reveals Rationale Behind Disney-Channel 4 Deal
 Source: Deadline | Status: expanded | Words: 637
 Published: 2026-11-19T09:03:38+00:00
 URL: https://deadline.com/2026/11/disney-channel-4-deal-ratings-research-rivals-1237227922
@@ -239,7 +269,7 @@ Disney+ has committed big to international originals of late, with a plan to tri
 Digital i chief analytics officer Matt Ross said: "Channel 4 brings Disney+ far more than a library of recognisable British hits. Our data shows its programming attracts an audience that already demonstrates significantly higher engagement, streaming more frequently and spending more overall time on streaming platforms.&#x201D;
 
 ============================================================
-[8] 'Ramayana' Journey Across Asia Anchors Discovery India Docuseries Marking Shashi Tharoor's TV Hosting Debut (EXCLUSIVE)
+[9] 'Ramayana' Journey Across Asia Anchors Discovery India Docuseries Marking Shashi Tharoor's TV Hosting Debut (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 490
 Published: 2026-11-19T08:53:05+00:00
 URL: https://variety.com/2026/film/news/ramayana-discovery-docuseries-shashi-tharoor-tv-hosting-debut-1236952884
@@ -271,7 +301,7 @@ Abishek said the network was thrilled to have Tharoor on board, adding: "His und
 Tharoor added that literature, history and cultural exchange had long been abiding interests of his, "which made this an especially fitting subject for my debut as a television host. I am delighted that this first step has been with Discovery."
 
 ============================================================
-[9] ‘The List’ Author Yomi Adegoke Sets Audible Series ‘Playing The Game’
+[10] ‘The List’ Author Yomi Adegoke Sets Audible Series ‘Playing The Game’
 Source: Deadline | Status: expanded | Words: 464
 Published: 2026-11-19T08:38:06+00:00
 URL: https://deadline.com/2026/11/yomi-adegoke-playing-the-game-audible-1237228841
@@ -297,7 +327,7 @@ Their solution? Fake a relationship, trick the producers, fool the public, take 
 Adegoke is best known for her novel The List, which was picked up by HBO Max, BBC and A24.
 
 ============================================================
-[10] 36 Years Later, Macaulay Culkin Has The Perfect Home Alone Sequel Pitch &#038; It’s More Likely Than Ever To Get Made
+[11] 36 Years Later, Macaulay Culkin Has The Perfect Home Alone Sequel Pitch &#038; It’s More Likely Than Ever To Get Made
 Source: ComicBook.com | Status: expanded | Words: 966
 Published: 2026-11-19T08:30:00+00:00
 URL: https://comicbook.com/movies/feature/36-years-later-macaulay-culkin-has-the-perfect-home-alone-sequel-pitch-its-more-likely-than-ever-to-get-made
@@ -329,7 +359,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] 'The Altruists' Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix's Intriguing but Unsatisfying Crypto Love Story
+[12] 'The Altruists' Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix's Intriguing but Unsatisfying Crypto Love Story
 Source: The Hollywood Reporter | Status: expanded | Words: 1305
 Published: 2026-11-19T08:01:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/the-altruists-review-julia-garner-anthony-boyle-netflix-1236758009
@@ -369,7 +399,7 @@ But as a way into what is still ultimately the story of a tech scam, the romanti
 You come away with the sense that the real lesson of the whole FTX debacle is what a tragedy it is when two people so intelligent are too caught up in their own heads to simply say what's in their hearts, to the point that it's easier to perpetrate financial crimes on a historic scale than it is to simply say "I love you." In a vacuum, I suppose it's a worthy lesson. In a broader context, however, it seems an unreasonably expensive one.
 
 ============================================================
-[12] 'The Altruists' Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried
+[13] 'The Altruists' Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried
 Source: Variety | Status: expanded | Words: 1396
 Published: 2026-11-19T08:01:00+00:00
 URL: https://variety.com/2026/tv/reviews/the-altruists-review-netflix-sam-bankman-fried-1236952311
@@ -401,7 +431,7 @@ It&#x2019;s not like &#x201C;The Altruists&#x201D; lacks time to explore the Ban
 All eight episodes of &#x201C;The Altruists&#x201D; are now streaming on Netflix.
 
 ============================================================
-[13] Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube
+[14] Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube
 Source: Variety | Status: expanded | Words: 792
 Published: 2026-11-19T08:01:00+00:00
 URL: https://variety.com/2026/tv/news/hearst-canvas-launches-frontier-collective-alex-bescoby-1236952832
@@ -439,7 +469,7 @@ Shepherd added her enthusiasm for the push to build a hub for top digital-native
 (Pictured: &#x201C;Expedition HQ&#x201D; hosts Alex Bescoby, Lucy Shepherd, Levison Wood and Aldo Kane)
 
 ============================================================
-[14] Netflix Unveils Penélope Cruz &#038; Juan Diego Botto's Domestic Violence Drama 'Patricia' As Production Gets Underway
+[15] Netflix Unveils Penélope Cruz &#038; Juan Diego Botto's Domestic Violence Drama 'Patricia' As Production Gets Underway
 Source: Deadline | Status: expanded | Words: 693
 Published: 2026-11-19T08:00:03+00:00
 URL: https://deadline.com/2026/11/netflix-penelope-cruz-juan-diego-bottos-patricia-moonlyon-1237228807
@@ -479,7 +509,7 @@ Netflix launched in Spain in 2015, where it has since established its biggest Eu
 "I&#x2019;m truly honored to join Juan Diego Botto and Pen&#xE9;lope Cruz in their first film for Netflix in Spain, and for a story born at home to move audiences here and around the world."
 
 ============================================================
-[15] "Wicker Nipples" and All: 'Wicker' Cinematographer Celebrates Steamy Film's Viral Success
+[16] "Wicker Nipples" and All: 'Wicker' Cinematographer Celebrates Steamy Film's Viral Success
 Source: The Hollywood Reporter | Status: expanded | Words: 443
 Published: 2026-11-19T07:46:52+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/wicker-alexander-skarsgard-lol-crawley-camerimage-nipples-1236759179
@@ -505,7 +535,7 @@ The cinematographer acknowledged that the project, notable for its comedic momen
 Later, after a festival representative had finished translating Crawley's speech into Polish for the crowd, the Wicker cinematographer quipped, "Now I know what 'wicker nipples' is in Polish, which is a takeaway for me."
 
 ============================================================
-[16] Indigenous Queer Drama 'Princess' Is Dedicated to "Everyone Fighting for Their Freedom, Their Identity"
+[17] Indigenous Queer Drama 'Princess' Is Dedicated to "Everyone Fighting for Their Freedom, Their Identity"
 Source: The Hollywood Reporter | Status: expanded | Words: 779
 Published: 2026-11-19T07:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/indigenous-queer-drama-film-princess-tallinn-2026-1236759167
@@ -543,7 +573,7 @@ When it came time to screen Princess for the community, "I was really afraid," R
 Watch a trailer for Princess right here.
 
 ============================================================
-[17] Airbnb Recreates Iconic 'Kabhi Khushi Kabhie Gham' Mansion for Film's 25th Anniversary, With Kareena Kapoor Khan and Hrithik Roshan Hosting
+[18] Airbnb Recreates Iconic 'Kabhi Khushi Kabhie Gham' Mansion for Film's 25th Anniversary, With Kareena Kapoor Khan and Hrithik Roshan Hosting
 Source: Variety | Status: expanded | Words: 469
 Published: 2026-11-19T06:30:00+00:00
 URL: https://variety.com/2026/shopping/news/kabhi-khushi-kabhie-gham-house-airbnb-book-online-1236952352
@@ -573,7 +603,7 @@ The activation is part of Airbnb's "Only on Airbnb" experiences, which have incr
 Booking requests open Nov. 23 at 12 p.m. IST through Airbnb's dedicated K3G page. The experience is free, with each booking covering two guests, although visitors must arrange their own travel to Mumbai.
 
 ============================================================
-[18] What Happens When Documentary Makers Sell Their Footage to AI Aggregators?
+[19] What Happens When Documentary Makers Sell Their Footage to AI Aggregators?
 Source: Variety | Status: expanded | Words: 1456
 Published: 2026-11-19T06:05:32+00:00
 URL: https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760
@@ -625,7 +655,7 @@ When the conversation shifted into dealing with the issues of selling footage of
 &#x201C;We all agree AI can be bad,&#x201D; she said. &#x201C;In the environment where they're doing bad things, what can you do as a rights holder or a producer to minimize or protect [against] one part of the theft, even if you can't change the entire world?&#x201D;
 
 ============================================================
-[19] Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’
+[20] Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’
 Source: Variety | Status: expanded | Words: 415
 Published: 2026-11-19T06:04:02+00:00
 URL: https://variety.com/2026/film/news/jamie-dornan-viggo-mortensen-lord-of-the-rings-1236952845
@@ -647,7 +677,7 @@ Previously, Dornan told Entertainment Tonight that he &#x201C;cried&#x201D; when
 Serkis, who provided the voice and motion capture for Gollum in Peter Jackson&#x2019;s original trilogy, directed the forthcoming film, which is set to open in theaters Dec. 17, 2027. The ensemble also sees the return of Ian McKellen (as Gandalf), Elijah Wood (Frodo) and Lee Pace (King Thranduil), in addition to new cast members Kate Winslet (Marigol), Leo Woodall (Halvard) and Anya Taylor-Joy as an elf.
 
 ============================================================
-[20] Hollywood Music In Media Awards Winners Include Ludwig Göransson, 'La Bola Negra,' Taylor Swift, Diane Warren &#038; Jaafar Jackson
+[21] Hollywood Music In Media Awards Winners Include Ludwig Göransson, 'La Bola Negra,' Taylor Swift, Diane Warren &#038; Jaafar Jackson
 Source: Deadline | Status: expanded | Words: 1031
 Published: 2026-11-19T06:00:00+00:00
 URL: https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-winners-list-1237227122
@@ -751,7 +781,7 @@ LIVE CONCERT FOR VISUAL MEDIA Warframe Tennoconcert 2026 Digital Extremes
 EXHIBITIONS, THEME PARKS, SPECIAL PROJECTS Cirque du Soleil &#x2019;Auana Cirque du Soleil and Evan Duffy
 
 ============================================================
-[21] Taylor Swift, Jaafar Jackson, ‘The Odyssey’ Among Hollywood Music in Media Awards Winners
+[22] Taylor Swift, Jaafar Jackson, ‘The Odyssey’ Among Hollywood Music in Media Awards Winners
 Source: Variety | Status: expanded | Words: 773
 Published: 2026-11-19T06:00:00+00:00
 URL: https://variety.com/2026/music/news/hollywood-music-in-media-awards-taylor-swift-1236952423
@@ -881,7 +911,7 @@ Exhibitions, Theme Parks, Special Projects
 &#x201C;Cirque Du Soleil &#x2018;Auana&#x2019;&#x201D; - Cirque du Soleil and Evan Duffy
 
 ============================================================
-[22] ‘Baywatch’ Star Erika Eleniak Says Joining OnlyFans Saved Her From ‘Financial Stress’ and Being Evicted: It ‘Feels Really Good to Be in Control’
+[23] ‘Baywatch’ Star Erika Eleniak Says Joining OnlyFans Saved Her From ‘Financial Stress’ and Being Evicted: It ‘Feels Really Good to Be in Control’
 Source: Variety | Status: expanded | Words: 569
 Published: 2026-11-19T05:35:52+00:00
 URL: https://variety.com/2026/tv/news/baywatch-erika-eleniak-onlyfans-eviction-1236952802
@@ -909,7 +939,7 @@ With her success on the platform, Eleniak joins stars like Lily Allen , Shannon 
 &#x201C;I&#x2019;ve always believed in evolving with the times,&#x201D; Pressly said in a statement to Variety at the time about her decision to join OnlyFans. &#x201C;This is another way for me to connect directly with my audience, on my own terms, with creativity and intention. I&#x2019;ve loved meeting fans at various Comic Cons, and the excitement of having those real face-to-face moments made me want to seek options like OnlyFans.&#x201D;
 
 ============================================================
-[23] Gemma Chan Says She’d ‘Absolutely’ Play a Bond Girl Amid Fan-Casting: ‘I’m Flattered’
+[24] Gemma Chan Says She’d ‘Absolutely’ Play a Bond Girl Amid Fan-Casting: ‘I’m Flattered’
 Source: Variety | Status: expanded | Words: 408
 Published: 2026-11-19T05:08:41+00:00
 URL: https://variety.com/2026/film/columns/gemma-chan-play-bond-girl-fan-casting-1236952719
@@ -935,7 +965,7 @@ Chan says she&#x2019;s also open to playing a villain.
 Pierce Brosnan, who played James Bond in four films from 1995 to 2002, congratulated Pattinson on nabbing the role in an Instagram post on Wednesday. Pattinson&#x2019;s &#x201C;Tenet&#x201D; co-star Elizabeth Debicki told me earlier this week that she thinks that he is &#x201C;perfect&#x201D; to play 007.
 
 ============================================================
-[24] Timothée Chalamet Addresses Possibility Of A 'Call Me by Your Name' Sequel: "Never Say Never"
+[25] Timothée Chalamet Addresses Possibility Of A 'Call Me by Your Name' Sequel: "Never Say Never"
 Source: Deadline | Status: expanded | Words: 352
 Published: 2026-11-19T04:51:42+00:00
 URL: https://deadline.com/2026/11/timothee-chalamet-possibility-call-me-by-your-name-sequel-1237228791
@@ -959,7 +989,7 @@ Following the release of Aciman's 2019 sequel novel Find Me , which is set 10 ye
 The likelihood of the original cast reuniting seems to have gone out the window when the LAPD investigated accusations against Hammer of rape and sexual abuse in 2021. Although he was dropped from several projects and his representation, Hammer maintained his innocence and ultimately faced no charges .
 
 ============================================================
-[25] Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
+[26] Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
 Source: Deadline | Status: expanded | Words: 1430
 Published: 2026-11-19T04:45:23+00:00
 URL: https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406
@@ -1043,7 +1073,7 @@ Who else is behind the Sunrise on the Reaping film?
 Francis Lawrence , who directed The Ballad of Songbirds and Snakes as well as Catching Fire and both Mockingjay films, will return to helm this prequel story, penned by Billy Ray , who wrote the script for the first original film's adaptation.
 
 ============================================================
-[26] Netflix Renews Unscripted Show ‘Physical: Asia’ For Second Season As Franchise Expands
+[27] Netflix Renews Unscripted Show ‘Physical: Asia’ For Second Season As Franchise Expands
 Source: Deadline | Status: expanded | Words: 454
 Published: 2026-11-19T04:40:52+00:00
 URL: https://deadline.com/2026/11/netflix-renews-physical-asia-second-season-1237228790
@@ -1067,7 +1097,7 @@ Producer Jang Ho-gi said: &#x201C;I want to sincerely thank our viewers for embr
 Jang also teased some elements of the second season: &#x201C;We have designed an entirely different world from previous installments and developed quests capable of becoming new signatures for the Physical series. Beyond simply expanding the scale, we aim to showcase fresh strategies, matchups, and unpredictable outcomes unique to a nation-versus-nation format.&#x201D;
 
 ============================================================
-[27] Michael Jackson Molestation Claimants Hit Lawyer Bryan Freedman With Malpractice Suit Over “Hush Money Agreement”
+[28] Michael Jackson Molestation Claimants Hit Lawyer Bryan Freedman With Malpractice Suit Over “Hush Money Agreement”
 Source: Deadline | Status: expanded | Words: 996
 Published: 2026-11-19T04:39:00+00:00
 URL: https://deadline.com/2026/11/michael-jackson-molestation-bryan-freedman-malpractice-1237228739
@@ -1109,7 +1139,7 @@ Ordered onto arbitration back in August, that case be heard behind closed doors 
 In addition to this case, Freedman has over the last year or so been drawn into the pits of PR Dark Arts with the allegations of online smear campaigns, provocative web sites and other underhanded tactics via the Blake Lively vs Justin Baldoni battle and Rebel Wilson taking on her The Deb producers — none of which is a good look by any estimation.
 
 ============================================================
-[28] Newsmax Fears Fox Freeze-Out on Roku if Merger Is Not Blocked
+[29] Newsmax Fears Fox Freeze-Out on Roku if Merger Is Not Blocked
 Source: Variety | Status: expanded | Words: 416
 Published: 2026-11-19T03:50:33+00:00
 URL: https://variety.com/2026/tv/news/newsmax-fox-roku-fast-tubi-antitrust-suit-1236952413
@@ -1141,7 +1171,7 @@ Newsmax filed a separate antitrust suit against Fox last year in federal court i
 Newsmax then refiled in Wisconsin, where a judge granted Fox's motion to transfer the case back to Florida. Discovery in the case is on hold pending the outcome of a motion to dismiss.
 
 ============================================================
-[29] Marvel May Have Revealed Doomsday's Green Witch Two Years Ago, and It's Not Who Everyone Thinks
+[30] Marvel May Have Revealed Doomsday's Green Witch Two Years Ago, and It's Not Who Everyone Thinks
 Source: ComicBook.com | Status: expanded | Words: 1189
 Published: 2026-11-19T03:36:00+00:00
 URL: https://comicbook.com/movies/feature/marvel-may-have-revealed-doomsdays-green-witch-two-years-ago-and-its-not-who-everyone-thinks
@@ -1173,7 +1203,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Doomsday Provides Best Look At H.E.R.B.I.E.’s Updated Design &#038; It’s Going to Be Controversial
+[31] Doomsday Provides Best Look At H.E.R.B.I.E.’s Updated Design &#038; It’s Going to Be Controversial
 Source: ComicBook.com | Status: expanded | Words: 569
 Published: 2026-11-19T03:29:48+00:00
 URL: https://comicbook.com/movies/news/doomsday-provides-best-look-at-h-e-r-b-i-e-s-updated-design-its-going-to-be-controversial
@@ -1199,7 +1229,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Ebenezer Is One of the Best Christmas Carol Adaptations I Have Seen and This Is Why
+[32] Ebenezer Is One of the Best Christmas Carol Adaptations I Have Seen and This Is Why
 Source: ComicBook.com | Status: expanded | Words: 1016
 Published: 2026-11-19T02:50:00+00:00
 URL: https://comicbook.com/movies/news/ebenezer-is-one-of-the-best-christmas-carol-adaptations-i-have-seen-and-this-is-why
@@ -1227,7 +1257,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Man of Tomorrow &#038; Batman 2 Footage Gets Positive Reactions Online (&#038; Fans Know What They Want)
+[33] Man of Tomorrow &#038; Batman 2 Footage Gets Positive Reactions Online (&#038; Fans Know What They Want)
 Source: ComicBook.com | Status: expanded | Words: 682
 Published: 2026-11-19T02:44:06+00:00
 URL: https://comicbook.com/movies/news/man-of-tomorrow-batman-2-footage-gets-positive-reactions-online-fans-know-what-they-want
@@ -1259,7 +1289,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] DC Footage Preview Reveals Man of Tomorrow Features White Superman Suit &#038; There’s Comic Book Precedence
+[34] DC Footage Preview Reveals Man of Tomorrow Features White Superman Suit &#038; There’s Comic Book Precedence
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-19T02:40:38+00:00
 URL: https://comicbook.com/movies/news/dc-footage-preview-reveals-man-of-tomorrow-features-white-superman-suit-theres-comic-book-precedence
@@ -1285,7 +1315,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Taylor Swift Performs "Our Song" and "I Knew It, I Knew You" at the CMAs
+[35] Taylor Swift Performs "Our Song" and "I Knew It, I Knew You" at the CMAs
 Source: The Hollywood Reporter | Status: expanded | Words: 309
 Published: 2026-11-19T02:35:33+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939
@@ -1307,7 +1337,7 @@ Her CMAs appearance is the latest in a busy year for Swift, who was also inducte
 She also earned five Grammy nominations earlier this week, with Life of a Showgirl getting an album of the year nod, while its single "The Fate of Ophelia" is nominated for record of the year and "I Knew It, I Knew You" is up for song of the year.
 
 ============================================================
-[35] Larry Poindexter Dies: 'S.W.A.T.', 'JAG' &#038; 'Days Of Our Lives' Actor Was 66
+[36] Larry Poindexter Dies: 'S.W.A.T.', 'JAG' &#038; 'Days Of Our Lives' Actor Was 66
 Source: Deadline | Status: expanded | Words: 408
 Published: 2026-11-19T02:32:39+00:00
 URL: https://deadline.com/2026/11/larry-poindexter-dead-swat-jag-days-of-our-lives-actor-1237228697
@@ -1331,7 +1361,7 @@ Also a musician, Poindexter was lead singer for the alternative country band The
 Poindexter is survived by his wife, leading casting director Carol Kritzer, and their two sons.
 
 ============================================================
-[36] Taylor Swift Performs 'I Knew It, I Knew You' and 'Our Song' Mashup at CMA Awards
+[37] Taylor Swift Performs 'I Knew It, I Knew You' and 'Our Song' Mashup at CMA Awards
 Source: Variety | Status: expanded | Words: 535
 Published: 2026-11-19T02:29:00+00:00
 URL: https://variety.com/2026/music/news/taylor-swift-performs-i-knew-it-i-knew-you-our-song-cmas-1236952619
@@ -1353,7 +1383,7 @@ Her cameo at the show comes 20 years after her first appearance at the CMAs. Swi
 Swift is nominated at the CMAs this year with "I Knew It, I Knew You," which is up for single of the year. Earlier this week, she picked up five Grammy nominations, including album of the year for "The Life of a Showgirl"; song of the year and best song written for visual media for "I Knew It, I Knew You"; best pop duo/group performance for "The Life of a Showgirl" with Sabrina Carpenter; and record of the year for "The Fate of Ophelia."
 
 ============================================================
-[37] The Time Robert Pattinson Snuck Around Rikers Island (and Why It Could Help Him With James Bond)
+[38] The Time Robert Pattinson Snuck Around Rikers Island (and Why It Could Help Him With James Bond)
 Source: The Hollywood Reporter | Status: expanded | Words: 559
 Published: 2026-11-19T02:07:15+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112
@@ -1365,7 +1395,7 @@ CONTENT / EXTRACTED DETAILS:
 Amid all the talk of whether Robert Pattinson &#x2019;s experiences will allow him to pull off a convincing James Bond , none feel as instructive as the time he went to prison. It was the middle of 2016, and Pattison didn&#x2019;t commit any crimes, but he badly wanted to be seen as a someone who did. Pattinson was preparing for his role as Connie Nikas, a con on the run, in the Safdie Bros. jangly fugitive-drama Good Time . The Safdies knew some incarcerated people at Rikers, including their friend Buddy Duress, who would go on to be in the film. So, as Pattinson told a reporter writing about the movie in 2017, he begged Josh to get him into the facility. The director obliged, and while inside he and the future James Bond "just kind of went everywhere; we didn&#x2019;t really ask for permission,&#x201D; as Pattinson recalled at the time. (The interview was part of a story centered on walking around colorful parts of Queens with the Safdies, a tale in its own right.) The pair got deep inside the infamously locked-down institution, talking to wardens and inmates alike about life on the inside. One interaction in particular stuck with Pattinson. "I had gotten into all this makeup because I didn't want anyone I met in there to find out who I was or what I was doing; I wanted them to think I belonged. And I thought I was convincing. And then one of the inmates said to me, &#x2018;What are you doing in here? Is it for a scared-straight program?' [The program to influence innocent-adrift teenagers.] I wasn&#x2019;t convincing anyone." "I thought I was looking like some kind of tough guy but he could see right through me," he continued. (Pattinson is known for telling tall tales in interviews but this one is true &#x2014; Josh Safdie confirmed the account.) On the one hand this unpersuasive cosplay can seem like one more reason the actor makes for an ill-fitting James Bond &#x2014; you generally want your 007 to be a little more weathered than a pretty teenager, even ten years later (and also may validate all the skeptics who don&#x2019;t like that this was kind of a corporate decision .) On the other hand, what&#x2019;s more James Bond than sneaking around Rikers and getting out unscathed? A general MI6-ish resourcefulness marked Pattinson's time working with the Safdies. Hot off his Twilight run, Pattinson had reached out to the erstwhile collaborating brothers brothers simply after seeing a promotional photo for Daddy Longlegs , their gritty semi-autobiographical coming of age movie. He then read their script for what would become Uncut Gems and begged to be in that. The Safdies didn&#x2019;t see Pattison in any of the top roles, including the lead middle-aged hustler played by Adam Sandler. But the filmmakers were so intrigued by his persistence that they decided to write a whole chase-drama for him &#x2014; the movie that became Good Time . Sweet-talking your way into the confidence of a pair of powerful people so they'll do something for you they weren&#x2019;t otherwise ready to do? M would be proud. Related Stories Movies Hollywood Reacts to Robert Pattinson's James Bond Casting: Florence Pugh, Christopher Nolan, Brad Pitt, Skyler Gisondo, More Movies Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
 
 ============================================================
-[38] Netflix's Near-Perfect but Controversial New Supernatural Drama Series Is Dominating Streaming and Fans Are Demanding More
+[39] Netflix's Near-Perfect but Controversial New Supernatural Drama Series Is Dominating Streaming and Fans Are Demanding More
 Source: ComicBook.com | Status: expanded | Words: 685
 Published: 2026-11-19T02:05:00+00:00
 URL: https://comicbook.com/uncategorized/news/netflixs-near-perfect-but-controversial-new-supernatural-drama-series-is-dominating-streaming-and-fans-are-demanding-more
@@ -1389,7 +1419,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Rob Lowe Defends Taking Lead In Ben Shapiro's 'Confession': "Why Wouldn't I?"
+[40] Rob Lowe Defends Taking Lead In Ben Shapiro's 'Confession': "Why Wouldn't I?"
 Source: Deadline | Status: expanded | Words: 668
 Published: 2026-11-19T01:55:10+00:00
 URL: https://deadline.com/2026/11/rob-lowe-defends-ben-shapiros-confession-1237228575
@@ -1421,7 +1451,7 @@ Shapiro's latest project was announced last month amid the fallout over the film
 Daily Wire's previous film Run Hide Fight: Infidels , was picketed by IATSE . Several crew members walked off over labor issues in South Carolina, shortly before Jonathan Majors was involved in an on-set accident that resulted in his co-star JC Kilcoyne needing stitches "all over his hands" after falling through a window.
 
 ============================================================
-[40] Inside James Bond 26’s Final 5 Screen Test &#038; How Pattinson Stood Out Despite Amazon’s “Bias” Against Him
+[41] Inside James Bond 26’s Final 5 Screen Test &#038; How Pattinson Stood Out Despite Amazon’s “Bias” Against Him
 Source: ComicBook.com | Status: expanded | Words: 631
 Published: 2026-11-19T01:53:04+00:00
 URL: https://comicbook.com/movies/news/inside-james-bond-26s-final-5-screen-test-how-pattinson-stood-out-despite-amazons-bias-against-him
@@ -1447,7 +1477,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Horror Box Office, Driven 50% By Blumhouse Atomic Movies, Hits Near $2.5 Billion YTD
+[42] Horror Box Office, Driven 50% By Blumhouse Atomic Movies, Hits Near $2.5 Billion YTD
 Source: Deadline | Status: expanded | Words: 596
 Published: 2026-11-19T01:48:31+00:00
 URL: https://deadline.com/2026/11/box-office-horror-2026-obsession-backrooms-1237228671
@@ -1479,7 +1509,7 @@ Prakash told attendees that when it comes to a studio and its return on investme
 Horror will continue to slay into 2027 has Blumhouse Atomic has such pic on the schedule including but not limited to New Line's Conjuring universe, The Revenge of La Llorona on Feb. 26 , The Exorcist reboot on March 12, Lionsgate's Blair Witch revival on Sept. 24, Sleepover on Oct. 8 starring Michelle Monaghan and Justin Theroux, Paranormal Activity on Oct. 22 as well as Curry Barker's next big screen feature via Focus Features, Anything But Ghosts on May 7.
 
 ============================================================
-[42] ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators
+[43] ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators
 Source: The Playlist | Status: summary_only | Words: 90
 Published: 2026-11-19T01:40:51+00:00
 URL: https://theplaylist.net/clandestine-brit-marling-tilda-swinton-paramount-plus-20261118
@@ -1491,7 +1521,7 @@ CONTENT / EXTRACTED DETAILS:
 Brit Marling and Zal Batmanglij , the creative duo behind the cult Netflix series “ The OA ” and FX’s “ A Murder At The End Of The World ,” are returning to television with “ Clandestine ,” a new political drama starring Marling and Tilda Swinton . According to Deadline, Paramount+ has ordered the series, described as a high-stakes family drama set among Washington, D.C.’s political elite. Continue reading ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators at The Playlist.
 
 ============================================================
-[43] Pierce Brosnan Bonds With Robert Pattinson Over 007 Role
+[44] Pierce Brosnan Bonds With Robert Pattinson Over 007 Role
 Source: Deadline | Status: expanded | Words: 258
 Published: 2026-11-19T01:35:26+00:00
 URL: https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669
@@ -1515,7 +1545,7 @@ Brosnan ended with a Gaelic sign of affection meaning "great love" as he wrote, 
 Lazenby, whose outing as 007 began and ended with On Her Majesty's Secret Service in 1969, also offered his congratulations and a remarkably similar piece of advice to that offered by Brosnan today: "Remember to enjoy yourself."
 
 ============================================================
-[44] A SpongeBob Trading Card Celebrating Squidward's Most Infamous "Trash" Painting Just Sold for Nearly $60,000
+[45] A SpongeBob Trading Card Celebrating Squidward's Most Infamous "Trash" Painting Just Sold for Nearly $60,000
 Source: ComicBook.com | Status: expanded | Words: 893
 Published: 2026-11-19T01:31:27+00:00
 URL: https://comicbook.com/collectibles/news/a-spongebob-trading-card-celebrating-squidwards-most-infamous-trash-painting-just-sold-for-nearly-60000
@@ -1543,7 +1573,7 @@ At the end of the day, a collectible is only worth as much as somebody is willin
 Do you think this rare Squidward card will hold its value in 10 years, or will this rare item become a throwaway gag for another collector after it decreases in prices down the line? Join the conversation and let us know in the comments.
 
 ============================================================
-[45] Ella Langley Breaks a CMA Awards Record by Winning Six in One Night, Including Entertainer of the Year: The Complete List of Winners
+[46] Ella Langley Breaks a CMA Awards Record by Winning Six in One Night, Including Entertainer of the Year: The Complete List of Winners
 Source: Variety | Status: expanded | Words: 432
 Published: 2026-11-19T01:24:22+00:00
 URL: https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628
@@ -1575,7 +1605,7 @@ MUSICAL EVENT OF THE YEAR (announced prior to the telecast)
 Avery Anna Carter Faith Emily Ann Roberts Tucker Wetmore Stephen Wilson Jr. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[46] I Had To Know Why Rings Of Power’s Dark Wizard Ended Up Really Being The (Spoiler) Wizard
+[47] I Had To Know Why Rings Of Power’s Dark Wizard Ended Up Really Being The (Spoiler) Wizard
 Source: CinemaBlend | Status: expanded | Words: 287
 Published: 2026-11-19T01:21:00+00:00
 URL: https://www.cinemablend.com/streaming-news/why-rings-of-power-dark-wizard-really-blue-wizard-pallando
@@ -1595,7 +1625,7 @@ At one point, Tolkien wrote that the Blue Wizards could have been “founders or
 Well, now I’m certainly excited to see where things go from here. I want to see Gandalf and Pallando interact more. I want to know if Gandalf can help his fellow wizard get away from the evil. And I want to know more about why the Blue Wizard killed his friend.
 
 ============================================================
-[47] Jason Blum and James Wan Discuss Why Horror Is Hollywood's Hottest Genre and How ‘Obsession’ Hit Big at Blumhouse Atomic's Business of Fear
+[48] Jason Blum and James Wan Discuss Why Horror Is Hollywood's Hottest Genre and How ‘Obsession’ Hit Big at Blumhouse Atomic's Business of Fear
 Source: Variety | Status: expanded | Words: 759
 Published: 2026-11-19T01:18:14+00:00
 URL: https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472
@@ -1625,7 +1655,7 @@ Wan added that the success of "Obsession" has inspired a whole new generation of
 "That stigma is gone. Horror has crossed over from the black sheep of the household, right?&#x201D; Wan said. "I really do credit the younger generation with accepting the genre in a big way and not turning your nose down on it in a snooty way. When I was doing 'Saw&#x2019; people looked down on it, right? And it was only a certain demographic that would come out and support the films that we made. But today, like today, it is cool and hip to be making horror films."
 
 ============================================================
-[48] RDJ Had Made His ‘Peace’ With His MCU Exit: ‘It’s Really Hard To Explain The Love I Have For This’
+[49] RDJ Had Made His ‘Peace’ With His MCU Exit: ‘It’s Really Hard To Explain The Love I Have For This’
 Source: CinemaBlend | Status: expanded | Words: 240
 Published: 2026-11-19T01:06:00+00:00
 URL: https://www.cinemablend.com/movies/robert-downey-jr-made-peace-mcu-exit-iron-man-doctor-doom-avengers-doomsday
@@ -1641,7 +1671,7 @@ When Avengers: Endgame came out in 2019, it was the end of an era for the MCU. I
 Aww, this is sweet. I mean, it’s quite the honor to be asked to play a Marvel villain, especially when it’s one that will assemble just about every character in the universe. It’s wild when you think about it, because the villain that was originally being teased as the big bad of this saga was Kang. However, after Jonathan Majors got caught in some legal trouble, Marvel made a pivot. However, according to recent words from Feige, Doctor Doom was allegedly always in the cards .
 
 ============================================================
-[49] Rob Lowe Asked Ben Shapiro to Cast Him in 'Confession': "I’ve Worked With Left-Wing Writers. Why Wouldn’t I Work With Right-Wing Writers?"
+[50] Rob Lowe Asked Ben Shapiro to Cast Him in 'Confession': "I’ve Worked With Left-Wing Writers. Why Wouldn’t I Work With Right-Wing Writers?"
 Source: The Hollywood Reporter | Status: expanded | Words: 434
 Published: 2026-11-19T00:58:40+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/rob-lowe-asked-ben-shapiro-cast-confession-left-right-writers-1236758985
@@ -1663,20 +1693,4 @@ Of Confession , Lowe said the movie was "turned down by every single film festiv
 "The thought would be we'd play in a film festival, we would get some buzz, never happened. And then you know Netflix would pick it up or this one would pick &#x2014; crickets. Absolute crickets," Lowe said. "So then it defaults to the Daily Wire to be the distributor, and I'm like, hell yeah. I want people to see this movie. And good for them for putting it out. But that wasn't originally going to be the life of the movie." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
 
 Confession was directed by V&#xE1;clav Marhoul and centers on the interrogation of a prisoner in a Stalin-era Russian jail.
-
-============================================================
-[50] SkyShowtime to Shut Down, CEO Exiting
-Source: The Hollywood Reporter | Status: expanded | Words: 328
-Published: 2026-11-19T00:35:39+00:00
-URL: https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993
-------------------------------------------------------------
-SUMMARY:
-The writing was on the wall for the joint venture first unveiled five years ago by Comcast and the then-named ViacomCBS.
-
-CONTENT / EXTRACTED DETAILS:
-Two months after signaling that a major pull-the-plug move was going to be made, Comcast and Skydance are formally shuttering their European streaming joint venture that had been first unveiled five years ago in a far different landscape.
-
-The full memo from the board of SkyShowtime is below:
-
-Dear SkyShowtime Employees, In September, we shared that SkyShowtime&#x2019;s shareholders had initiated a review of strategic options, followed by the start of employee consultations in October. That review has now concluded, and the shareholders have made the decision to wind down SkyShowtime&#x2019;s operations in late 2027. Since SkyShowtime&#x2019;s launch, the streaming landscape has evolved significantly. Major global platforms have continued to expand their scale and invest heavily in content, technology, and sport. These competitive dynamics have made it increasingly challenging for regional players like SkyShowtime to achieve the scale needed for long-term success. Despite the excellent work and dedication of this team, the shareholders have determined that winding down the business is the most appropriate path forward. After over four years leading the SkyShowtime business, Monty Sarhan has agreed with the Board that it is an appropriate time to exit the company. We thank Monty for his commitment and contributions to SkyShowtime&#x2019;s journey. We are also grateful to Mark Neil, who has agreed to serve as Interim General Manager, overseeing the wind-down operating period. We are committed to supporting everyone at SkyShowtime throughout this process and sharing information as decisions are implemented. In the meantime, SkyShowtime continues to operate as normal for our members. Employee consultations remain ongoing in accordance with local requirements, and timing and process may vary by country. We want to thank each of you for your hard work, professionalism, and commitment to SkyShowtime and its members. We are grateful for your contributions and will keep you informed as we move forward. The SkyShowtime Board Related Stories TV Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio TV Louis Carr Exits as BET President
 
