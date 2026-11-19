@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T16:30:54.374Z"
+    "updated_at": "2026-11-19T16:34:57.625Z"
   },
   "articles": [
+    {
+      "id": "a267fa33-0cbc-4b1d-bd75-7e374952f222",
+      "title": "Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027",
+      "summary": "EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation. The AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series. Among the titles in […]",
+      "content": "EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation.\n\nThe AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series. Among the titles in the works are The Most Serious Fart , an animated feature based on the children&#x2019;s book by Mike Bender, and Half Moon , a live-action feature written and directed by Hyo-joo Yang.\n\nThe company is also teaming with Ex Machina on Cort&#xE9;s , a feature about Spanish conquistador Hern&#xE1;n Cort&#xE9;s starring Antonio Banderas. Paul Mignot is directing from a screenplay by Nicholas Kazan. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News 'Behemoth!'s Humanity Gave Pedro Pascal \"Tremendous Amount Of Hope\" Amid AI Boom, Tony Gilroy Wants To \"Blow Up AI Centers... At The Voting Box\" News Film Accelerator Open Cities, Run By Ex-Sundance CEO Joana Vicente & Producer Jason Kliot, Reveals First Projects\n\nUtopai Studios is planning to create about 500 production jobs worldwide in 2027 and says it expects hiring to \"increase significantly\" in 2028. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nThe company also intends to add full-time corporate roles across multiple areas of the business. It has been hiring artists and production workers with experience from a number of major studios and production companies. Hans Ku, a former Disney, DreamWorks and Yahoo exec, was recently named the company's chief product officer .\n\n&#x201C;Every project we move into production puts people to work,\" Cecilia Shen, co-founder and CEO of Utopai Studios, said in a statement. \"For us, growth means making more films and series and employing more of the people whose talent brings them to life.\"\n\nWhile AI continues to create anxiety in the creative community, it is being more widely embraced as a complement to human expression. Hybrid productions are increasingly common, and industry leaders like Skydance CEO David Ellison and Netflix Co-CEO Ted Sarandos have been vocal about AI being a net positive for the business. Ellison frequently says AI will enable the next iteration of James Cameron's The Terminator , a 1984 indie made for $6.4 million whose release created a new visual paradigm.\n\nSouthern California, for decades the capital of film and TV production, has seen shooting crater in recent years due to a host of factors, including better tax incentives in other states and the UK. New York City recently overtook Los Angeles in terms of production spending. The impact of the production decline has created opportunities for AI firms. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nSignaling that they are not looking to replace humans with machines is a key priority for the tech newcomers. For The Most Serious Fart , Utopai Studios says about 80% of the production budget is allocated to the people making the film, with AI used as a supporting tool.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012",
+      "published_at": "2026-11-19T16:33:22+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Utopai-Beverly-Hills.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 563,
+      "extracted_at": "2026-11-19T16:34:42.456235+00:00",
+      "updated_at": "2026-11-19T16:34:42.456235+00:00"
+    },
     {
       "id": "8cc7f756-7f8f-4c1d-85b5-f8a18324ca31",
       "title": "'The Beast In Me' Season 2: Riley Keough &#038; Aaron Paul Lead New Cast For Netflix's Thriller Series",
@@ -742,21 +757,6 @@
       "word_count": 1731,
       "extracted_at": "2026-11-19T14:46:38.185977+00:00",
       "updated_at": "2026-11-19T14:46:38.185977+00:00"
-    },
-    {
-      "id": "709ebc3e-ef36-42bc-b9d4-9e87a59faa2f",
-      "title": "'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027",
-      "summary": "Two years ago, \" Day Of The Jackal \" became an unlikely streaming hit for Peacock , with many taking to the expert assassin played by Eddie Redmayne at the show's center. Now The Jackal returns for a new season, and he's attracted more unwanted attention, which means the professional killer is on the run again. READ MORE: 62 TV Shows To Watch This Fall: 'VisionQuest,' 'Blade Runner 2099,' 'East Of Eden,' 'Pride And Prejudice,' & More Based on Frederick Forsyth 's 1971 thriller and the 1973 film adaptation of the same name, \"Day Of The Jackal\" updates the original story, about an assassination attempt on French President Charles de Gaulle, to the present day. Continue reading 'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027 at The Playlist.",
-      "content": "Two years ago, \" Day Of The Jackal \" became an unlikely streaming hit for Peacock , with many taking to the expert assassin played by Eddie Redmayne at the show's center. Now The Jackal returns for a new season, and he's attracted more unwanted attention, which means the professional killer is on the run again. READ MORE: 62 TV Shows To Watch This Fall: 'VisionQuest,' 'Blade Runner 2099,' 'East Of Eden,' 'Pride And Prejudice,' & More Based on Frederick Forsyth 's 1971 thriller and the 1973 film adaptation of the same name, \"Day Of The Jackal\" updates the original story, about an assassination attempt on French President Charles de Gaulle, to the present day. Continue reading 'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027 at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/day-of-the-jackal-season-2-teaser-eddie-redmayne-peacock-march-2027-20261119",
-      "published_at": "2026-11-19T14:40:11+00:00",
-      "image_url": "https://www.youtube.com/embed/y246qBMWlfs",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 136,
-      "extracted_at": "2026-11-19T14:40:37.015924+00:00",
-      "updated_at": "2026-11-19T14:40:37.015924+00:00"
     }
   ]
 }

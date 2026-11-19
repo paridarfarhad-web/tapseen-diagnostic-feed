@@ -1,9 +1,37 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T16:30:54.375Z
+Last Updated: 2026-11-19T16:34:57.626Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 'The Beast In Me' Season 2: Riley Keough &#038; Aaron Paul Lead New Cast For Netflix's Thriller Series
+[1] Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027
+Source: Deadline | Status: expanded | Words: 563
+Published: 2026-11-19T16:33:22+00:00
+URL: https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation. The AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series. Among the titles in […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation.
+
+The AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series. Among the titles in the works are The Most Serious Fart , an animated feature based on the children&#x2019;s book by Mike Bender, and Half Moon , a live-action feature written and directed by Hyo-joo Yang.
+
+The company is also teaming with Ex Machina on Cort&#xE9;s , a feature about Spanish conquistador Hern&#xE1;n Cort&#xE9;s starring Antonio Banderas. Paul Mignot is directing from a screenplay by Nicholas Kazan. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Behemoth!'s Humanity Gave Pedro Pascal "Tremendous Amount Of Hope" Amid AI Boom, Tony Gilroy Wants To "Blow Up AI Centers... At The Voting Box" News Film Accelerator Open Cities, Run By Ex-Sundance CEO Joana Vicente & Producer Jason Kliot, Reveals First Projects
+
+Utopai Studios is planning to create about 500 production jobs worldwide in 2027 and says it expects hiring to "increase significantly" in 2028. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The company also intends to add full-time corporate roles across multiple areas of the business. It has been hiring artists and production workers with experience from a number of major studios and production companies. Hans Ku, a former Disney, DreamWorks and Yahoo exec, was recently named the company's chief product officer .
+
+&#x201C;Every project we move into production puts people to work," Cecilia Shen, co-founder and CEO of Utopai Studios, said in a statement. "For us, growth means making more films and series and employing more of the people whose talent brings them to life."
+
+While AI continues to create anxiety in the creative community, it is being more widely embraced as a complement to human expression. Hybrid productions are increasingly common, and industry leaders like Skydance CEO David Ellison and Netflix Co-CEO Ted Sarandos have been vocal about AI being a net positive for the business. Ellison frequently says AI will enable the next iteration of James Cameron's The Terminator , a 1984 indie made for $6.4 million whose release created a new visual paradigm.
+
+Southern California, for decades the capital of film and TV production, has seen shooting crater in recent years due to a host of factors, including better tax incentives in other states and the UK. New York City recently overtook Los Angeles in terms of production spending. The impact of the production decline has created opportunities for AI firms. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Signaling that they are not looking to replace humans with machines is a key priority for the tech newcomers. For The Most Serious Fart , Utopai Studios says about 80% of the production budget is allocated to the people making the film, with AI used as a supporting tool.
+
+============================================================
+[2] 'The Beast In Me' Season 2: Riley Keough &#038; Aaron Paul Lead New Cast For Netflix's Thriller Series
 Source: The Playlist | Status: summary_only | Words: 91
 Published: 2026-11-19T16:30:02+00:00
 URL: https://theplaylist.net/the-beast-in-me-season-2-riley-keough-aaron-paul-20261119
@@ -15,7 +43,7 @@ CONTENT / EXTRACTED DETAILS:
 Who's joining Claire Danes on the next season of Netflix 's " The Beast In Me "? A new announcement from the streamer reports that Riley Keough and Aaron Paul headline the cast additions for Season 2 of the thriller series, along with child actor Lorelei Olivia Mote , Taip Ceman , and Matthew James Thomas . The four join previously announced John Goodman and Lily Taylor . Continue reading 'The Beast In Me' Season 2: Riley Keough & Aaron Paul Lead New Cast For Netflix's Thriller Series at The Playlist.
 
 ============================================================
-[2] 'Bridgerton' Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com 'The More The Merrier'
+[3] 'Bridgerton' Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com 'The More The Merrier'
 Source: Deadline | Status: expanded | Words: 338
 Published: 2026-11-19T16:30:00+00:00
 URL: https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026
@@ -35,7 +63,7 @@ Dodd took on the role of Francesca Bridgerton in Netflix's hit series from Shond
 Last month, Dodd signed on to lead Miss You Forever, Zara Drake , a romantic drama marking the feature directorial debut of Lucas Jones. She is represented by Olivia Bell Management, Range Media Partners and Gang, Tyre, Ramer.
 
 ============================================================
-[3] ‘The Altruists’ Review: A Temu-Ass ‘Social Network’ About Crypto’s Most Toxic &#038; Morally Bankrupt Couple
+[4] ‘The Altruists’ Review: A Temu-Ass ‘Social Network’ About Crypto’s Most Toxic &#038; Morally Bankrupt Couple
 Source: The Playlist | Status: summary_only | Words: 94
 Published: 2026-11-19T16:27:49+00:00
 URL: https://theplaylist.net/the-altruists-review-netflix-julia-garner-anthony-boyle-20261119
@@ -47,7 +75,7 @@ CONTENT / EXTRACTED DETAILS:
 While stories of tech billionaire grifters and their inevitable rise and fall are becoming increasingly common, they’re also becoming more difficult to tell. Because regardless of the industry—whether it’s social media, health and biotechnology, artificial intelligence, startup culture, venture capitalism, or, in the case of “ The Altruists ,” cryptocurrency—it’s all more or less the same story: tech-bro hubris, Silicon Valley narcissism, and self-deluded founders convinced they’re changing the world while behaving like sociopaths. Continue reading ‘The Altruists’ Review: A Temu-Ass ‘Social Network’ About Crypto’s Most Toxic & Morally Bankrupt Couple at The Playlist.
 
 ============================================================
-[4] 'Afterlife With Archie' Disney+ Show Casts Archie, Betty, Veronica, Jughead and Sabrina the Teenage Witch
+[5] 'Afterlife With Archie' Disney+ Show Casts Archie, Betty, Veronica, Jughead and Sabrina the Teenage Witch
 Source: Variety | Status: expanded | Words: 287
 Published: 2026-11-19T16:23:02+00:00
 URL: https://variety.com/2026/tv/news/afterlife-with-archie-disney-show-cast-1236953281
@@ -67,7 +95,7 @@ Per the logline, "Afterlife With Archie" turns "the all-American town of Riverda
 Jimmy Gibbons also executive produces the show via Muckle Man Productions alongside Sarah Schechter, Leigh London Redman (via Berlanti Productions and its overall deal with WBTV) and Jon Goldwater (Archie Comics Studios). Alfonso Gomez-Rejon will direct the pilot and second episode, and he will also serve as executive producer on both episodes.
 
 ============================================================
-[5] Marvel Fans Aren’t Holding Back After We Got Our First Look At One Doomsday Hero
+[6] Marvel Fans Aren’t Holding Back After We Got Our First Look At One Doomsday Hero
 Source: CinemaBlend | Status: expanded | Words: 235
 Published: 2026-11-19T16:19:35+00:00
 URL: https://www.cinemablend.com/movies/marvel-fans-arent-holding-back-after-we-got-first-look-doomsday-hero-nightcrawler-alan-cumming
@@ -85,7 +113,7 @@ Ouch. There are also plenty of memes in the responses as well, including the of-
 That's a huge difference. Of course, the hours that it took for X-2 really paid off, as Alan Cumming (and Rebecca Romijn) looked incredible in that sequel. We'll just have to wait and see if fans change their mind when they get to see Nightcrawler in all his glory.
 
 ============================================================
-[6] British Society of Cinematographers to Honor Barry Ackroyd, Christopher Ross, Academy of Motion Picture Arts and Sciences and More
+[7] British Society of Cinematographers to Honor Barry Ackroyd, Christopher Ross, Academy of Motion Picture Arts and Sciences and More
 Source: Variety | Status: expanded | Words: 729
 Published: 2026-11-19T16:15:03+00:00
 URL: https://variety.com/2026/artisans/awards/british-society-of-cinematographers-honorees-2027-1236953271
@@ -121,7 +149,7 @@ Stapleton said, &#x201C;Pat McEnallay's generosity, enthusiasm and determination
 The awards will be presented alongside the competitive awards at the 71st British Society of Cinematographers Awards on Feb. 6, 2027. The ceremony will be hosted by Edith Bowman and will take place in the Great Room at the Grosvenor House Hotel.
 
 ============================================================
-[7] Novel 'American War', About Civil War &#038; Climate-Ravaged Future U.S., Being Adapted By 'Shrinking’ &#038; 'Cobra Kai' Writer Bill Posley For Curmudgeon Films
+[8] Novel 'American War', About Civil War &#038; Climate-Ravaged Future U.S., Being Adapted By 'Shrinking’ &#038; 'Cobra Kai' Writer Bill Posley For Curmudgeon Films
 Source: Deadline | Status: expanded | Words: 516
 Published: 2026-11-19T16:15:00+00:00
 URL: https://deadline.com/2026/11/american-war-novel-film-adaptation-shrinking-writer-1237228906
@@ -145,7 +173,7 @@ Published by Knopf in 2017, American War was named a New York Times Notable Book
 El Akkad is represented by CAA, which brokered the deal. Posley is represented by UTA. Furst is represented by Jeff Goldberg Management and Feig Finkel.
 
 ============================================================
-[8] Biggest ITV Shows Like 'Love Island' &#038; 'I'm A Celebrity' To Remain Free-To-Air Once Sky Deal Completes
+[9] Biggest ITV Shows Like 'Love Island' &#038; 'I'm A Celebrity' To Remain Free-To-Air Once Sky Deal Completes
 Source: Deadline | Status: expanded | Words: 568
 Published: 2026-11-19T16:08:50+00:00
 URL: https://deadline.com/2026/11/love-island-im-a-celebrity-remain-itv-sky-deal-completes-1237229007
@@ -177,7 +205,7 @@ At a conference where big beasts of UK entertainment have questioned whether Ame
 Herm was speaking after BBC deputy boss Rhodri Talfan Davies at the British Screen Forum in London.
 
 ============================================================
-[9] Jennifer Lopez on the ‘JLo Show’ Concert Film, Her ‘Happy Era’ and Moving on From Divorce: “What I Thought Love Was Really Isn’t Love’
+[10] Jennifer Lopez on the ‘JLo Show’ Concert Film, Her ‘Happy Era’ and Moving on From Divorce: “What I Thought Love Was Really Isn’t Love’
 Source: Variety | Status: expanded | Words: 893
 Published: 2026-11-19T16:08:30+00:00
 URL: https://variety.com/2026/music/columns/jennifer-lopez-jlo-show-chappy-divorces-love-1236952856
@@ -217,7 +245,7 @@ Or more simply put, Lopez says, &#x201C;I don't need to date. I'm good right now
 &#x201C;The JLo Show: Live in Las Vegas&#x201D; premieres Nov. 26 at 8 p.m. ET/PT on CBS and Paramount+, with an extended version available exclusively on Paramount+.
 
 ============================================================
-[10] ‘Adolescence’ Breakout Owen Cooper Stars In New Beatles ‘In My Life’ Music Video
+[11] ‘Adolescence’ Breakout Owen Cooper Stars In New Beatles ‘In My Life’ Music Video
 Source: Deadline | Status: expanded | Words: 393
 Published: 2026-11-19T16:00:00+00:00
 URL: https://deadline.com/2026/11/owen-cooper-beatles-in-my-life-1237228889
@@ -239,7 +267,7 @@ In 2028, Sam Mendes will also launch his film quartet The Beatles &#x2013; A Fou
 Check out the In My Life video above.
 
 ============================================================
-[11] Dropout's Brennan Lee Mulligan to Host Peacock's 'Dig' TV Series Companion Podcast (EXCLUSIVE)
+[12] Dropout's Brennan Lee Mulligan to Host Peacock's 'Dig' TV Series Companion Podcast (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 341
 Published: 2026-11-19T16:00:00+00:00
 URL: https://variety.com/2026/tv/news/brennan-lee-mulligan-host-dig-podcast-1236953140
@@ -263,7 +291,7 @@ Produced by Paper Kite Productions, Fremulon, Dunshire Productions, and Same Boa
 Watch the trailer for "Dig: The Podcast" via the video below.
 
 ============================================================
-[12] Taylor Swift's 'Law &#038; Order: SVU' Crime Scene Evidence Board from the Emmys Goes on Display at the Paley Center (EXCLUSIVE)
+[13] Taylor Swift's 'Law &#038; Order: SVU' Crime Scene Evidence Board from the Emmys Goes on Display at the Paley Center (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 564
 Published: 2026-11-19T16:00:00+00:00
 URL: https://variety.com/2026/tv/news/taylor-swift-svu-crime-evidence-board-emmys-paley-center-1236952681
@@ -293,7 +321,7 @@ Joining the exhibit, the Macy's Thanksgiving Day Parade installation will featur
 Fan-favorite series like &#x201C;Friends,&#x201D; &#x201C;Seinfeld,&#x201D; &#x201C;The Office,&#x201D; &#x201C;Law & Order,&#x201D; &#x201C;Today&#x201D; and &#x201C;Saturday Night Live&#x201D; are featured, and visitors can sit in a coaches&#x2019; chair from &#x201C;The Voice&#x201D; or sit at Johnny Carson&#x2019;s &#x201C;Tonight Show&#x201D; desk.
 
 ============================================================
-[13] 'Ozzy Fox' Animated Musical Series Sets Disney+ Release Date (EXCLUSIVE)
+[14] 'Ozzy Fox' Animated Musical Series Sets Disney+ Release Date (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 294
 Published: 2026-11-19T16:00:00+00:00
 URL: https://variety.com/2026/tv/news/ozzy-fox-disney-plus-release-date-1236953192
@@ -315,7 +343,7 @@ The official description of the show states it follows Ozzy, "a 5-year-old fox w
 "Ozzy Fox" came about through the Disney Accelerator program, which was designed to explore how AI can support creators. Animaj is also behind shows that include "Pocoyo" and "Maya and the Bee." Humans still animate the shows, but use AI tools to accelerate the process.
 
 ============================================================
-[14] 'Afterlife With Archie' Disney+ Series Casts Its Archie, Veronica, Betty, Jughead &#038; Sabrina
+[15] 'Afterlife With Archie' Disney+ Series Casts Its Archie, Veronica, Betty, Jughead &#038; Sabrina
 Source: Deadline | Status: expanded | Words: 998
 Published: 2026-11-19T16:00:00+00:00
 URL: https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462
@@ -357,7 +385,7 @@ Rivera is an actor who, at a very early age, played the lead role in Nickelodeon
 Avakian will next be seen in the Netflix/21 Laps drama series and was recently in Peacock&#x2019;s limited series Devil in Disguise: John Wayne Gacy . She recently wrapped a guest star in ABC's High Potential as well as the feature, Karate Ghost . Additional film credits include the IFC/Shudder feature, This is Not a Test . Avakian is represented by Luber Roklin and The Characters Talent in Canada.
 
 ============================================================
-[15] Sunrise On The Reaping’s Whitney Peak Has Seen Your Unfettered Bird Dress Hot Takes, & Responded
+[16] Sunrise On The Reaping’s Whitney Peak Has Seen Your Unfettered Bird Dress Hot Takes, & Responded
 Source: CinemaBlend | Status: expanded | Words: 413
 Published: 2026-11-19T15:56:10+00:00
 URL: https://www.cinemablend.com/movies/sunrise-on-the-reapings-whitney-peak-seen-bird-dress-hot-takes-responded-jesse-plemons
@@ -381,7 +409,7 @@ Honestly, this whole hilarious incident just makes this fashion moment even bett
 Ultimately, I think this bird dress will go down alongside Mckenna Grace’s Hunger Games method dressing , Elle Fanning’s Effie looks and Joseph Zada’s pajamas as one of the most memorable fashion moments from the Sunrise on the Reaping press tour. Seriously, it was so beautiful, but what happened with Jesse Plemons and Whitney Peak’s reaction to it all made it even better.
 
 ============================================================
-[16] Josh Radnor &#038; Beth Behrs To Join Broadway's 'Schmigadoon!'
+[17] Josh Radnor &#038; Beth Behrs To Join Broadway's 'Schmigadoon!'
 Source: Deadline | Status: expanded | Words: 435
 Published: 2026-11-19T15:52:54+00:00
 URL: https://deadline.com/2026/11/broadway-schmigadoon-josh-radnor-beth-behrs-1237228994
@@ -403,7 +431,7 @@ Radnor is best known for his leading role as Ted Mosby on CBS&#x2019; How I Met 
 Schmigadoon! won four 2026 Tony Awards including Best Musical, Best Book of a Musical, Best Original Score, and Best Orchestrations. The musical opened at Broadway's Nederlander Theatre on Monday, April 20, 2026, and is currently on sale through Sunday, April 4, 2027.
 
 ============================================================
-[17] 'Bedford Park' Trailer: Moon Choi &#038; Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film
+[18] 'Bedford Park' Trailer: Moon Choi &#038; Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film
 Source: The Playlist | Status: summary_only | Words: 123
 Published: 2026-11-19T15:51:39+00:00
 URL: https://theplaylist.net/bedford-park-trailer-moon-choi-son-suk-ku-stephanie-ahn-20261119
@@ -415,7 +443,7 @@ CONTENT / EXTRACTED DETAILS:
 With awards season on the horizon, several buzzy films that premiered at festivals earlier this year will get brief theatrical runs to qualify for various ceremonies. Among them this year is " Bedford Park ," Stephanie Ahn 's feature film debut that wowed audiences at the Sundance Film Festival back in January. READ MORE: 'Josephine' Wins Grand Jury And Audience Award For U.S. Dramatic At 2026 Sundance Film Festival Here's an official synopsis for "Bedford Park," courtesy of Sony Pictures Classics : Audrey is a 36-year-old physical therapist caught between her own, distinctly American identity and her loyalty to her Korean immigrant family. Continue reading 'Bedford Park' Trailer: Moon Choi & Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film at The Playlist.
 
 ============================================================
-[18] Christoper Nolan: 'The Odyssey' Has 'A Lot of Deleted Scenes No One Will Ever See' Because 'I Don't Believe in Director's Cuts'
+[19] Christoper Nolan: 'The Odyssey' Has 'A Lot of Deleted Scenes No One Will Ever See' Because 'I Don't Believe in Director's Cuts'
 Source: Variety | Status: expanded | Words: 509
 Published: 2026-11-19T15:48:05+00:00
 URL: https://variety.com/2026/film/news/the-odyssey-deleted-scenes-nolan-hates-directors-cut-1236953026
@@ -443,7 +471,7 @@ Another reason Nolan doesn't often have many deleted scenes in his movies is bec
 "The Odyssey" opened in theaters over the summer and became Nolan's highest-grossing movie ever with $1.8 billion, also the highest-grossing R-rated release in history. The film is now positioned as an Oscar frontrunner for best picture and best director, among other nominations.
 
 ============================================================
-[19] 'Gilmore Girls: A Day In The Life' Gets New Home On Hulu After Netflix Deal Ends, Release Date Set
+[20] 'Gilmore Girls: A Day In The Life' Gets New Home On Hulu After Netflix Deal Ends, Release Date Set
 Source: Deadline | Status: expanded | Words: 773
 Published: 2026-11-19T15:41:44+00:00
 URL: https://deadline.com/2026/11/gilmore-girls-a-day-in-the-life-hulu-netflix-release-date-1237228477
@@ -481,7 +509,7 @@ Still, acquiring A Day In the Life completes the Gilmore Girls collection for Hu
 Somewhat surprisingly, Gilmore Girls and A Day In the Life have not streamed on WBTV's sister platform HBO Max, which has an authorized documentary about the show in the works.
 
 ============================================================
-[20] Two Rockstar Games Releases Free With PlayStation Plus for 24 Hours
+[21] Two Rockstar Games Releases Free With PlayStation Plus for 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 527
 Published: 2026-11-19T15:41:26+00:00
 URL: https://comicbook.com/gaming/news/playstation-plus-rockstar-games-free-gta-5-red-dead-redemption-2
@@ -507,7 +535,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Crimson Desert Update 2.05.01 Patch Notes: Inventory Improvements, Quest Fixes, and More
+[22] Crimson Desert Update 2.05.01 Patch Notes: Inventory Improvements, Quest Fixes, and More
 Source: ComicBook.com | Status: expanded | Words: 190
 Published: 2026-11-19T15:40:00+00:00
 URL: https://comicbook.com/gaming/news/crimson-desert-update-2-05-01-patch-notes-inventory-improvements-quest-fixes-and-more
@@ -527,7 +555,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] How To Watch The Odyssey Online And Stream Matt Damon Blockbuster From Anywhere
+[23] How To Watch The Odyssey Online And Stream Matt Damon Blockbuster From Anywhere
 Source: CinemaBlend | Status: expanded | Words: 281
 Published: 2026-11-19T15:38:55+00:00
 URL: https://www.cinemablend.com/streaming-news/how-to-watch-the-odyssey-online-and-stream-matt-damon-blockbuster-from-anywhere
@@ -551,7 +579,7 @@ If you somehow missed all the hype around the year’s biggest movie, The Odysse
 The home release of The Odyssey comes with a wealth of behind the scenes materials for film fans to sink their teeth into with Universal teasing: "Personally overseen by Christopher Nolan, this collection of 12 in-depth special features takes audiences inside every aspect of The Odyssey 's ambitious production through exclusive behind-the-scenes footage and interviews with Nolan alongside key cast and crew who brought the epic to life. Together, these pieces showcase the artistry, innovation, and craftsmanship behind the landmark adaptation of Homer’s legendary tale."
 
 ============================================================
-[23] Raine's Joe Ravitch Talks Growth Strategies For Arab Film &#038; TV: “It’s Not About Getting Tom Cruise To Shoot His Movie” – Industry Days Doha
+[24] Raine's Joe Ravitch Talks Growth Strategies For Arab Film &#038; TV: “It’s Not About Getting Tom Cruise To Shoot His Movie” – Industry Days Doha
 Source: Deadline | Status: expanded | Words: 731
 Published: 2026-11-19T15:34:48+00:00
 URL: https://deadline.com/2026/11/raines-joe-ravitch-strategies-arab-content-1237228966
@@ -593,7 +621,7 @@ He suggested this consideraton needed to be factored into the strategies of Qata
 &#x201C;It's something to be thoughtful about&#x2026; how to avoid that… and how to create an environment where all the streamers want to be in this market, and how to get the suppliers and partners, whether that be Sony, or Mediawan, or others to come here and participate in these stories that have the strength to stand up to the streamers and have the strength, coupled with local financing, to be able to put up 100% of the financing."
 
 ============================================================
-[24] This Webtoon Anime Deserves to Be the Next Solo Leveling
+[25] This Webtoon Anime Deserves to Be the Next Solo Leveling
 Source: ComicBook.com | Status: expanded | Words: 850
 Published: 2026-11-19T15:33:00+00:00
 URL: https://comicbook.com/anime/feature/this-webtoon-anime-deserves-to-be-the-next-solo-leveling
@@ -621,7 +649,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] 'The Beast In Me' Adds Riley Keough &#038; Her 'Daisy Jones' Younger Self To Main Cast; Aaron Paul Among 3 Recurring In Season 2
+[26] 'The Beast In Me' Adds Riley Keough &#038; Her 'Daisy Jones' Younger Self To Main Cast; Aaron Paul Among 3 Recurring In Season 2
 Source: Deadline | Status: expanded | Words: 353
 Published: 2026-11-19T15:30:00+00:00
 URL: https://deadline.com/2026/11/the-beast-in-me-riley-keough-cast-aaron-paul-1237228831
@@ -643,7 +671,7 @@ On Prime Video's limited series Daisy Jones & The Six, Keough played the title c
 Season 1 writers/executive producers Howard Gordon and Daniel Pearle are back as co-showrunners. The two are executive producing Season 2 with Danes, series creator Gabe Rotter and fellow Season 1 executive producers Antonio Campos, who directed half of the S1 episodes, Caroline Baron, Amy Lippman, Gabe Rotter, Conan O&#x2019;Brien, David Kissinger, Jeff Ross and Jodie Foster. 20th Television is the studio.
 
 ============================================================
-[26] Hollywood's D.C. Allies Look for Tax Vehicle as Clock Ticks on Lame-Duck Session
+[27] Hollywood's D.C. Allies Look for Tax Vehicle as Clock Ticks on Lame-Duck Session
 Source: Variety | Status: expanded | Words: 595
 Published: 2026-11-19T15:30:00+00:00
 URL: https://variety.com/2026/film/news/hollywood-lame-duck-federal-incentive-1236952716
@@ -677,7 +705,7 @@ The measure could be taken up after Democrats take control in January, but advoc
 "There's a lot of other issues out there competing for attention," Friedman said. "This is the time we need our advocates to be very loud."
 
 ============================================================
-[27] 'Beast in Me' Season 2 Casts Riley Keough, Lorelei Olivia Mote, Aaron Paul, Taip Ceman, Matthew James Thomas
+[28] 'Beast in Me' Season 2 Casts Riley Keough, Lorelei Olivia Mote, Aaron Paul, Taip Ceman, Matthew James Thomas
 Source: Variety | Status: expanded | Words: 350
 Published: 2026-11-19T15:30:00+00:00
 URL: https://variety.com/2026/tv/news/beast-in-me-season-2-cast-riley-keough-aaron-paul-1236952455
@@ -701,7 +729,7 @@ The new additions will star alongside returning lead Claire Danes and previously
 &#x201C;The Beast in Me&#x201D; Season 1 showrunner Howard Gordon will serve as co-showrunner on Season 2 alongside Season 1 executive producer Daniel Pearle. Gabe Rotter is the creator and an executive producer of &#x201C;The Beast in Me.&#x201D; Danes will again executive produce in addition to starring. Antonio Campos, Caroline Baron, Amy Lippman, Conan O&#x2019;Brien, David Kissinger, Jeff Ross, Claire Danes and Jodie Foster also executive produce. The series is produced by 20th Television.
 
 ============================================================
-[28] I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel About Joining Robert Pattinson
+[29] I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel About Joining Robert Pattinson
 Source: CinemaBlend | Status: expanded | Words: 356
 Published: 2026-11-19T15:29:45+00:00
 URL: https://www.cinemablend.com/movies/im-glad-people-asking-rumored-bond-girls-joining-robert-pattinson-gemma-chan-sydney-sweeney
@@ -721,7 +749,7 @@ Another popular choice from the fan casting perspective has been Sydney Sweeney 
 This wasn't a yes, but it also wasn't a no. I have to wonder if her tune might have changed a year later, especially with Robert Pattinson now officially playing the martini-sipping MI6 agent. Either way, I have to assume that Denis Villeneuve has a number of actresses in mind to play a supporting presence in the 26th Bond movie. Hopefully we get more casting news sooner rather than later.
 
 ============================================================
-[29] This Batman Cartoon Is Still the Most Underrated, And I Can Make You a Fan With 5 Episodes
+[30] This Batman Cartoon Is Still the Most Underrated, And I Can Make You a Fan With 5 Episodes
 Source: ComicBook.com | Status: expanded | Words: 1058
 Published: 2026-11-19T15:28:00+00:00
 URL: https://comicbook.com/tv-shows/list/this-batman-cartoon-is-still-the-most-underrated-and-i-can-make-you-a-fan-with-5-episodes
@@ -759,7 +787,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] ‘The Odyssey’: Steven Spielberg Playfully Urges Christopher Nolan To Make ‘The Iliad,’ Reveals DreamWorks Passed On ‘Memento’
+[31] ‘The Odyssey’: Steven Spielberg Playfully Urges Christopher Nolan To Make ‘The Iliad,’ Reveals DreamWorks Passed On ‘Memento’
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-19T15:24:41+00:00
 URL: https://theplaylist.net/steven-spielberg-christopher-nolan-the-iliad-memento-dreamworks-20261119
@@ -771,7 +799,7 @@ CONTENT / EXTRACTED DETAILS:
 Two of Hollywood’s most celebrated filmmakers, Steven Spielberg and Christopher Nolan , sat down for a rare conversation about Nolan’s “ The Odyssey ,” this week and Spielberg had a suggestion for what the director should tackle next: another Homeric epic. The discussion also included an unexpected admission about how DreamWorks missed its opportunity to distribute Nolan’s breakthrough film, “Memento,” along with some amusing comments about the newly crowned James Bond, Robert Pattinson . Continue reading ‘The Odyssey’: Steven Spielberg Playfully Urges Christopher Nolan To Make ‘The Iliad,’ Reveals DreamWorks Passed On ‘Memento’ at The Playlist.
 
 ============================================================
-[31] Qatar Film Chief Hassan Al Thawadi Says World Cup Success Paved Way for Hollywood Push, Signals Next Steps on Neon Deal
+[32] Qatar Film Chief Hassan Al Thawadi Says World Cup Success Paved Way for Hollywood Push, Signals Next Steps on Neon Deal
 Source: Variety | Status: expanded | Words: 954
 Published: 2026-11-19T15:23:52+00:00
 URL: https://variety.com/2026/film/global/qatar-film-committee-hassan-al-thawadi-film-world-cup-1236952867
@@ -815,7 +843,7 @@ The Film Committee chief admitted that recent geopolitical conflicts have affect
 The Doha Industry Days run November 19-21.
 
 ============================================================
-[32] Barack and Michelle Obama Join Producing Team For 'Rumors' Play Starring 'The Real Housewives'
+[33] Barack and Michelle Obama Join Producing Team For 'Rumors' Play Starring 'The Real Housewives'
 Source: The Hollywood Reporter | Status: expanded | Words: 262
 Published: 2026-11-19T15:23:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/barack-michelle-obama-rumors-play-real-housewives-1236759277
@@ -837,7 +865,7 @@ The production will feature Lisa Rinna as &#x2018;Chris,&#x2019; Phaedra Parks a
 The play originally premiered in Broadway in 1988 and follows four couples gathering for a party in a wealthy New York Suburb, where instead of fun &#x201C;they find their host in an alarming state, his wife missing, and the police on their way,&#x201D; according to the production description.
 
 ============================================================
-[33] GTA 6 Full Cast Finally Revealed by Rockstar
+[34] GTA 6 Full Cast Finally Revealed by Rockstar
 Source: ComicBook.com | Status: expanded | Words: 535
 Published: 2026-11-19T15:21:54+00:00
 URL: https://comicbook.com/gaming/news/gta-6-cast-jason-lucia
@@ -863,7 +891,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] The Obvious Problem With Survivor’s Coin Flip Isn’t Even My Biggest Problem With It
+[35] The Obvious Problem With Survivor’s Coin Flip Isn’t Even My Biggest Problem With It
 Source: CinemaBlend | Status: expanded | Words: 251
 Published: 2026-11-19T15:18:12+00:00
 URL: https://www.cinemablend.com/television/survivor-coin-flip-obvious-problem
@@ -879,7 +907,7 @@ It’s an obvious problem and one that’s very valid for fans to complain about
 To be clear, luck does play a huge role on Survivor . Castaways go home all the time because they’re swapped onto the wrong tribe or their team loses an immunity challenge because other people blow a huge lead on a puzzle or whatever. The game is rarely fair, but in theory, even when it’s unfair, the player still has a chance to wiggle out of whatever danger they’re in. Get swapped onto a tribe against four members of an alliance ? Try to find a crack and pit them against each other. Figure out that you’re on the wrong side of the numbers a few hours before tribal council? Go hunt for idols or make a fake idol or do something reckless to try and blow up someone else’s spot.
 
 ============================================================
-[35] 'Sleepover': Justin Theroux &#038; Michelle Monaghan To Star In Blumhouse Atomic Monster Horror Flick, Parker Posey Out
+[36] 'Sleepover': Justin Theroux &#038; Michelle Monaghan To Star In Blumhouse Atomic Monster Horror Flick, Parker Posey Out
 Source: The Playlist | Status: summary_only | Words: 85
 Published: 2026-11-19T15:15:31+00:00
 URL: https://theplaylist.net/sleepover-justin-theroux-michelle-monaghan-blumhouse-atomic-monster-horror-20261119
@@ -891,7 +919,7 @@ CONTENT / EXTRACTED DETAILS:
 Who's going to star in the upcoming horror pic " Sleepover ," from Universal and Blumhouse Atomic Monster ? Deadline reports that it's Michelle Monaghan and Justin Theroux at the top of the cast sheet; Monaghan replaces the previously announced Parker Posey . Plot details remain under wraps, but the studio bills it a "quintessential sleepover nightmare," which could mean just about anything. Continue reading 'Sleepover': Justin Theroux & Michelle Monaghan To Star In Blumhouse Atomic Monster Horror Flick, Parker Posey Out at The Playlist.
 
 ============================================================
-[36] ‘GTA 6’ Launch Breaks Internet Usage Records; Livestreams Hit Nearly 8 Million Views on Twitch, YouTube and More in First Hours of Release
+[37] ‘GTA 6’ Launch Breaks Internet Usage Records; Livestreams Hit Nearly 8 Million Views on Twitch, YouTube and More in First Hours of Release
 Source: Variety | Status: expanded | Words: 410
 Published: 2026-11-19T15:09:58+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-launch-livestream-internet-traffic-records-1236953145
@@ -919,7 +947,7 @@ Per data provided by Twitch on Wednesday before 1 p.m. ET, within its first six 
 Overall, Twitch viewership was up 111% compared with the previous week. "GTA 6" viewership reached "tens of millions of hours watched, just a couple hours in," which Twitch called "the equivalent of more than 1,500 years of nonstop viewing."
 
 ============================================================
-[37] 'Terror on Bondi Beach' Director Pays Tribute to 10-Year-Old Victim Matilda: 'She Was a Lovely Little Girl Who Was Taken Too Soon for Absolutely No Reason'
+[38] 'Terror on Bondi Beach' Director Pays Tribute to 10-Year-Old Victim Matilda: 'She Was a Lovely Little Girl Who Was Taken Too Soon for Absolutely No Reason'
 Source: Variety | Status: expanded | Words: 1000
 Published: 2026-11-19T15:07:24+00:00
 URL: https://variety.com/2026/tv/global/terror-on-bondi-beach-matilda-documentary-1236951805
@@ -957,7 +985,7 @@ Yeah, I mean, there's a few. I don't think I can name them, but some of the poli
 This interview has been edited and condensed.
 
 ============================================================
-[38] CMAs Photo Gallery: See Taylor Swift, Ella Langley, Kacey Musgraves, Lainey Wilson, Stella Lefty and Other Stars on the Carpet and On-Stage
+[39] CMAs Photo Gallery: See Taylor Swift, Ella Langley, Kacey Musgraves, Lainey Wilson, Stella Lefty and Other Stars on the Carpet and On-Stage
 Source: Variety | Status: expanded | Words: 200
 Published: 2026-11-19T15:03:19+00:00
 URL: https://variety.com/2026/music/news/cma-awards-photos-taylor-swift-ella-langley-kacey-musgraves-1236952762
@@ -971,7 +999,7 @@ It very much felt like ladies' night at the 60th annual CMA Awards , with Ella L
 Here's a gallery from Variety photographer Michael Buckner, who captured the night's leading lights on the red carpet as well as on-stage. He also trained his camera on other top country stars like Stella Lefty and Megan Moroney, and some of the guests who came into the 2026 CMAs from beyond Nashville, from actors Glen Powell and Jessica Chastain to performers like Mumford & Sons and Lzzy Hale. Scroll through to see what everyone was wearing, including some big smiles on the night's winners. Related Stories 'The Odyssey' Oscar Campaign Kicks Off With 8 New Revelations, From Tom Holland’s Shorter Skirt to Pattinson’s Rejected Wig and a Trojan Horse Stuck in Customs 'The Odyssey' Oscar Blitz to Begin With Robert Downey Jr., Guillermo del Toro and Steven Spielberg as Moderators
 
 ============================================================
-[39] Barack &#038; Michelle Obama's Higher Ground Signs On As Co-Producer Of 'Rumors' Off Broadway
+[40] Barack &#038; Michelle Obama's Higher Ground Signs On As Co-Producer Of 'Rumors' Off Broadway
 Source: Deadline | Status: expanded | Words: 669
 Published: 2026-11-19T15:03:00+00:00
 URL: https://deadline.com/2026/11/real-housewives-rumors-off-broadway-1237206158
@@ -1007,7 +1035,7 @@ Here's the official synopsis: "Reality was just rehearsal. When four couples gat
 See the full poster for the production below.
 
 ============================================================
-[40] Netflix Animated Series 'Living The Dream' Gets Trailer &#038; Release Date
+[41] Netflix Animated Series 'Living The Dream' Gets Trailer &#038; Release Date
 Source: Deadline | Status: expanded | Words: 344
 Published: 2026-11-19T15:02:05+00:00
 URL: https://deadline.com/2026/11/living-the-dream-netflix-trailer-release-date-1237228956
@@ -1031,7 +1059,7 @@ Living the Dream creator Gendi is also behind Cartoon Network show Apple & Onion
 He moved to the U.S. in 2017 to make two seasons of the show before returning to the UK while developing Living the Dream with Hanna-Barbera Studios Europe. Netflix boarded the show and production began in 2024.
 
 ============================================================
-[41] BBC Deputy Boss Questions Impact Of "Creative Choices Taken On West Coast Of United States" On UK Audiences
+[42] BBC Deputy Boss Questions Impact Of "Creative Choices Taken On West Coast Of United States" On UK Audiences
 Source: Deadline | Status: expanded | Words: 540
 Published: 2026-11-19T15:01:36+00:00
 URL: https://deadline.com/2026/11/bbc-talfan-davies-russell-brand-youtube-creative-choices-us-1237228949
@@ -1063,7 +1091,7 @@ On Russell Brand and uprooting industry culture, Talfan Davies said "we've still
 Talfan Davies was delivering a keynote at the British Screen Forum in London before Ken Loach's producing partner Rebecca O'Brien.
 
 ============================================================
-[42] Stephen A. Smith's Straight Shooter Media Brings HBCU Basketball to BET
+[43] Stephen A. Smith's Straight Shooter Media Brings HBCU Basketball to BET
 Source: Variety | Status: expanded | Words: 426
 Published: 2026-11-19T15:00:00+00:00
 URL: https://variety.com/2026/tv/news/stephen-a-smith-straight-shooter-media-hbcu-basketball-bet-1236953007
@@ -1087,7 +1115,7 @@ Smith believes HBCUs haven&#x2019;t always had the resources of other universiti
 The opening matchup, Grambling State vs. Howard University, kicks off Thursday, December 3 at 8:00 p.m. eastern. Subsequent games will air on BET on Thursday evenings and include teams from Moorehouse, Norfolk State and Loyola University Chicago.
 
 ============================================================
-[43] ESPN Taps John Legend to Warm Up Crowds for CFP With Original Music
+[44] ESPN Taps John Legend to Warm Up Crowds for CFP With Original Music
 Source: Variety | Status: expanded | Words: 444
 Published: 2026-11-19T15:00:00+00:00
 URL: https://variety.com/2026/tv/news/espn-john-legend-college-football-playoff-original-music-1236952994
@@ -1111,7 +1139,7 @@ ESPN has new reason to call attention to post-season college football . It will 
 Legend&#x2019;s only complaint? There's a "sad irony" to the project. His favorite team is fighting to keep its post-season dreams alive. Legend is a fan of Ohio State, which just broke a two-game losing streak.
 
 ============================================================
-[44] Thai Randolph's NILE &#038; Co. Buys Yahoo's MAKERS Women's Leadership Platform
+[45] Thai Randolph's NILE &#038; Co. Buys Yahoo's MAKERS Women's Leadership Platform
 Source: Variety | Status: expanded | Words: 517
 Published: 2026-11-19T15:00:00+00:00
 URL: https://variety.com/2026/digital/news/thai-randolph-nile-co-acquires-yahoo-makers-1236947159
@@ -1141,7 +1169,7 @@ The transaction was led by Randolph and Manveer &#x201C;Monti&#x201D; Sehmi, NIL
 Yahoo is majority-owned by private equity firm Apollo Global Management; former owner Verizon retains a 10% minority stake.
 
 ============================================================
-[45] Connor Schell’s Full Day Scores Netflix Deal For FIFA Women’s World Cup Brazil 2027 Programming
+[46] Connor Schell’s Full Day Scores Netflix Deal For FIFA Women’s World Cup Brazil 2027 Programming
 Source: Deadline | Status: expanded | Words: 436
 Published: 2026-11-19T15:00:00+00:00
 URL: https://deadline.com/2026/11/connor-schell-full-day-netflix-womens-world-cup-brazil-2027-1237228680
@@ -1163,7 +1191,7 @@ Elle Duncan, Rebecca Lowe and Andres Cantor are part of the broadcast team. Full
 &#x201C;The FIFA Women&#x2019;s World Cup is one of the most powerful stages in all of sports,&#x201D; said Connor Schell , CEO and Founder of Full Day, &#x201C;Brazil 2027 represents a historic moment for the women&#x2019;s game as the tournament comes to South America for the first time. Through our storytelling, we&#x2019;re excited to work alongside Netflix to bring fans closer to the players, teams and culture surrounding this incredible event. We have an exceptionally talented and passionate team at Full Day committed to telling the best stories in the world in short and long form, and I couldn&#x2019;t be more excited to bring that collective creativity and expertise to a stage of this magnitude."
 
 ============================================================
-[46] Anthropic Launches Largest IPO of All Time, With at Least One Celebrity Investor Earning Billions
+[47] Anthropic Launches Largest IPO of All Time, With at Least One Celebrity Investor Earning Billions
 Source: Variety | Status: expanded | Words: 717
 Published: 2026-11-19T14:56:21+00:00
 URL: https://variety.com/2026/biz/news/anthropic-largest-ipo-of-all-time-celebrity-investors-billions-1236951285
@@ -1193,7 +1221,7 @@ Elon Musk did offer some praise for the company during his DealBook Summit sessi
 &#x201C;They seem to care about the future, so I kind of like the guys,&#x201D;&#xA0;Musk said. &#x201C;So it seems good, and they make a great AI.&#x201D;
 
 ============================================================
-[47] Taylor Swift Didn’t Announce Anything At The CMAs, But There’s One Detail Swifties Are Freaking Out About
+[48] Taylor Swift Didn’t Announce Anything At The CMAs, But There’s One Detail Swifties Are Freaking Out About
 Source: CinemaBlend | Status: expanded | Words: 296
 Published: 2026-11-19T14:51:31+00:00
 URL: https://www.cinemablend.com/television/taylor-swift-didnt-announce-anything-cmas-one-detail-swifties-freaking-out-debut
@@ -1211,7 +1239,7 @@ Alright, folks, that’s a whole lot of Debut Easter eggs in one frame, and it p
 Yeah, it’s really hard not to read into all those dresses, and of course, that’s what fans are doing. Between Swift’s reputation for Easter eggs that allude to what’s next and her tendency to surprise fans with announcements, this certainly feels like it's leading up to something.
 
 ============================================================
-[48] The Saturday Morning Cartoons You Loved Had Comic Books You Probably Forgot About, and Some Became Canon
+[49] The Saturday Morning Cartoons You Loved Had Comic Books You Probably Forgot About, and Some Became Canon
 Source: ComicBook.com | Status: expanded | Words: 883
 Published: 2026-11-19T14:48:00+00:00
 URL: https://comicbook.com/comics/news/the-saturday-morning-cartoons-you-loved-had-comic-books-you-probably-forgot-about-and-some-became-canon
@@ -1241,7 +1269,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] The Best Fall TV Shows Hurt So Good
+[50] The Best Fall TV Shows Hurt So Good
 Source: The Hollywood Reporter | Status: expanded | Words: 1731
 Published: 2026-11-19T14:45:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/fall-tv-trauma-east-of-eden-tip-toe-black-doves-cupertino-1236757937
@@ -1291,16 +1319,4 @@ FIENBERG &#xA0;I haven't yet mentioned my favorite show of the fall: the second 
 So leaving aside the winter TV that's on the horizon &#x2014; Amy Poehler's series return! Another Pride and Prejudice with zombies, only this time without zombies! The end of Emily in Paris ! &#x2014; what I'm both looking forward to and dreading the most is the conclusion of a great season of a show I love. That's my trauma, and it feels good.
 
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
-
-============================================================
-[50] 'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027
-Source: The Playlist | Status: summary_only | Words: 136
-Published: 2026-11-19T14:40:11+00:00
-URL: https://theplaylist.net/day-of-the-jackal-season-2-teaser-eddie-redmayne-peacock-march-2027-20261119
-------------------------------------------------------------
-SUMMARY:
-Two years ago, " Day Of The Jackal " became an unlikely streaming hit for Peacock , with many taking to the expert assassin played by Eddie Redmayne at the show's center. Now The Jackal returns for a new season, and he's attracted more unwanted attention, which means the professional killer is on the run again. READ MORE: 62 TV Shows To Watch This Fall: 'VisionQuest,' 'Blade Runner 2099,' 'East Of Eden,' 'Pride And Prejudice,' & More Based on Frederick Forsyth 's 1971 thriller and the 1973 film adaptation of the same name, "Day Of The Jackal" updates the original story, about an assassination attempt on French President Charles de Gaulle, to the present day. Continue reading 'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027 at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-Two years ago, " Day Of The Jackal " became an unlikely streaming hit for Peacock , with many taking to the expert assassin played by Eddie Redmayne at the show's center. Now The Jackal returns for a new season, and he's attracted more unwanted attention, which means the professional killer is on the run again. READ MORE: 62 TV Shows To Watch This Fall: 'VisionQuest,' 'Blade Runner 2099,' 'East Of Eden,' 'Pride And Prejudice,' & More Based on Frederick Forsyth 's 1971 thriller and the 1973 film adaptation of the same name, "Day Of The Jackal" updates the original story, about an assassination attempt on French President Charles de Gaulle, to the present day. Continue reading 'Day Of The Jackal' Season 2 Teaser: Eddie Redmayne's Assassin Returns To Peacock In March 2027 at The Playlist.
 
