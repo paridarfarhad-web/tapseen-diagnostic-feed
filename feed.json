@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T19:01:14.915Z"
+    "updated_at": "2026-11-19T19:15:04.861Z"
   },
   "articles": [
+    {
+      "id": "e965c009-55d4-45c7-8b3a-fbebf3e18484",
+      "title": "‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series",
+      "summary": "Apple TV is bringing one of Las Vegas’ most extravagant, bizarre, and ultimately tragic show-business stories to television. The streamer has unveiled the first look at “ Wild Things ,” its upcoming limited series starring Jude Law and Andrew Garfield as legendary illusionists Siegfried & Roy , while announcing an April 16, 2027, premiere date. And what better place to introduce a series about two of Vegas’ most flamboyant entertainers than the city itself? Continue reading ‘Wild Things’ First Look: Jude Law & Andrew Garfield Become Siegfried & Roy In Apple TV’s Las Vegas Limited Series at The Playlist.",
+      "content": "Apple TV is bringing one of Las Vegas’ most extravagant, bizarre, and ultimately tragic show-business stories to television. The streamer has unveiled the first look at “ Wild Things ,” its upcoming limited series starring Jude Law and Andrew Garfield as legendary illusionists Siegfried & Roy , while announcing an April 16, 2027, premiere date. And what better place to introduce a series about two of Vegas’ most flamboyant entertainers than the city itself? Continue reading ‘Wild Things’ First Look: Jude Law & Andrew Garfield Become Siegfried & Roy In Apple TV’s Las Vegas Limited Series at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-20261119",
+      "published_at": "2026-11-19T19:13:44+00:00",
+      "image_url": "https://www.youtube.com/embed/lbALxEYNem0",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 99,
+      "extracted_at": "2026-11-19T19:14:52.345316+00:00",
+      "updated_at": "2026-11-19T19:14:52.345316+00:00"
+    },
     {
       "id": "99052bf4-f013-4a29-ae56-901dd36e3631",
       "title": "'The Gilded Age' Renewed For Season 5 At HBO",
@@ -742,21 +757,6 @@
       "word_count": 411,
       "extracted_at": "2026-11-19T17:36:44.627365+00:00",
       "updated_at": "2026-11-19T17:36:44.627365+00:00"
-    },
-    {
-      "id": "d2cf0293-ab97-4dce-94c8-c541138c5bb3",
-      "title": "I Think I Should Have Seen That Bond Casting Coming When Slow Horses Dropped Its Renewal Announcement",
-      "summary": "It was staring me right in the face!",
-      "content": "Last Monday morning was an exciting time for fans of British spy thrillers. First, Slow Horses was renewed for Seasons 9 and 10, meaning we’ll be getting at least four more seasons of the hit show, available with an Apple TV subscription . Then, just hours later, Amazon MGM finally dropped the bomb we've all been waiting for and announced that the next actor to play James Bond would be Robert Pattinson . Many of us had been waiting for that for months. Years, even, yet it still came as a surprise, given the latest rumors. In hindsight, I probably should have been clued in that the announcement was imminent after the Slow Horses news dropped.\n\nOver the last few weeks and months, there have been a ton of rumors regarding the next Bond ahead of the long-awaited Bond 26 finally beginning production (we’re still not sure when that will actually happen). Names like Jacob Elordi, Henry Cavill , Callum Turner, and more have been rumored. Slow Horses star Jack Lowden was also heavily rumored in recent weeks. Lowden, who plays River Cartwright on the show about disgraced MI5 agents, was looking to make the jump to MI6 and become the ninth man to play Bond .\n\nIt’s certainly possible for an actor to appear in multiple projects, but given Slow Horses ' aggressive filming schedule (they have already wrapped Season 7, due next year, and are filming Season 8), it might have been a tough schedule to work out for Lowden had he been named Bond. When the next two seasons were announced, it should have clued me in that Lowden likely wasn’t going to be James Bond going forward. It’s quite possible that Apple may have actually been waiting on the Bond decision to announce it was moving forward with more seasons of Slow Horses , too. So, when the news dropped about the show's renewal, I should have known Bond’s announcement was on deck.\n\nInterestingly, despite the announcements coming almost at the same time, there are also rumors that Lowden might not be part of Seasons 9 and 10. A report in Variety calls Lowden’s return “uncertain.” I’m not sure what to make of that. The book-to-screen adaptation has been adapting one book per season, generally. Season 6 was an exception, as it combined two books , the 6th and 7th in Mick Herron’s series Slough House. That's not all, though.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/should-have-seen-bond-casting-slow-horses-renewal-announcement-robert-pattinson-jack-lowden",
-      "published_at": "2026-11-19T17:34:17+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/BWXciYDc4CBue7qG2vnP27-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 404,
-      "extracted_at": "2026-11-19T17:38:45.047685+00:00",
-      "updated_at": "2026-11-19T17:38:45.047685+00:00"
     }
   ]
 }
