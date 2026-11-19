@@ -1,0 +1,63 @@
+name: TapSeen draft-only bridge (test)
+
+on:
+  workflow_dispatch:
+    inputs:
+      article_path:
+        description: "Exact path under publish-test/articles/"
+        required: true
+        type: string
+        default: "publish-test/articles/tendo-nagenda-proximity-media-2026-11-19.json"
+      apply_draft:
+        description: "Create an unpublished draft (default is dry-run)"
+        required: true
+        type: boolean
+        default: false
+      confirmation:
+        description: "For writing a draft, type DRAFT_ONLY"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tapseen-draft-bridge
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    name: Validate draft without credentials
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Run importer tests
+        run: node --test publish-test/bridge/import-draft.test.mjs
+      - name: Validate selected article (dry run)
+        env:
+          ARTICLE_PATH: ${{ inputs.article_path }}
+        run: node publish-test/bridge/import-draft.mjs "$ARTICLE_PATH"
+
+  create_draft:
+    name: Optional authenticated draft insertion
+    needs: validate
+    if: ${{ inputs.apply_draft == true && inputs.confirmation == 'DRAFT_ONLY' }}
+    runs-on: ubuntu-latest
+    environment: tapseen-draft-writer
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Create draft (never publish)
+        env:
+          ARTICLE_PATH: ${{ inputs.article_path }}
+          TAPSEEN_DRAFT_WRITE: "true"
+          TAPSEEN_SUPABASE_URL: ${{ secrets.TAPSEEN_SUPABASE_URL }}
+          TAPSEEN_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.TAPSEEN_SUPABASE_PUBLISHABLE_KEY }}
+          TAPSEEN_BLOG_AUTHOR_EMAIL: ${{ secrets.TAPSEEN_BLOG_AUTHOR_EMAIL }}
+          TAPSEEN_BLOG_AUTHOR_PASSWORD: ${{ secrets.TAPSEEN_BLOG_AUTHOR_PASSWORD }}
+        run: node publish-test/bridge/import-draft.mjs "$ARTICLE_PATH"
