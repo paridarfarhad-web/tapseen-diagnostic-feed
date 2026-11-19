@@ -1,9 +1,61 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T19:27:11.062Z
+Last Updated: 2026-11-19T19:31:06.203Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
+[1] Nat Geo Explores The Unabomber’s Brother, Somali Pirates &#038; Hantavirus In New Doc Slate
+Source: Deadline | Status: expanded | Words: 571
+Published: 2026-11-19T19:30:00+00:00
+URL: https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: National Geographic is exploring the people and decisions behind pivotal events of the past three decades with its latest documentary slate. The Disney-owned brand has greenlit three documentaries about the brother of the Unabomber, Somali pirates and the Hantavirus. My Brother The Unabomber, Hantavirus: The Inside Story and Hijacked: The Real Captain Phillips will […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : National Geographic is exploring the people and decisions behind pivotal events of the past three decades with its latest documentary slate.
+
+The Disney-owned brand has greenlit three documentaries about the brother of the Unabomber, Somali pirates and the Hantavirus.
+
+My Brother The Unabomber , Hantavirus: The Inside Story and Hijacked: The Real Captain Phillips will all premiere on Disney+, Hulu and Nat Geo .
+
+&#x201C;These are names and events everyone recognizes,&#x201D; said Tom McDonald, EVP, National Geographic Content. &#x201C;But behind each name is an extraordinary story. In these projects, we&#x2019;ll go behind the headlines to offer a gripping, forensic insight into these pivotal moments in history to present a wholly fresh perspective and a definitive retelling of events.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Casting Kristen Bell, Idina Menzel, Josh Gad & Jonathan Groff To Reprise 'Frozen' Roles In Nat Geo/Disney Animation Series Documentary Steep Height? No Sweat: 'Everest: The Other Side's Jim Morrison And Jimmy Chin Rappel Down Side Of West Hollywood Building [Video]
+
+My Brother The Unabomber comes from David Abraham&#x2019;s Wonderhood Studios. It tells the the story of a man faced with the impossible choice of turning in his own brother during the final year of the Unabomber manhunt. It features access to David Kaczynski, the brother of Unabomber Ted Kaczynski and previously unseen archive, including letters between the brothers and explores the decision that he and his wife Linda faced when they read his manifesto in the papers before reporting their suspicions to the FBI. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Daniel Vernon directs, Jessie Versluys and Samantha Anstiss exec produce for Wonderhood Studios and Carolyn Payne exec produces for Nat Geo.
+
+Hantavirus: The Inside Story comes from Passion Pictures and Muck Media and tells the story of the outbreak aboard the MV Hondius in the summer of 2026. Featuring hours of personal archive, the doc follows the passengers and scientists racing to find safety for the ship, trace the outbreak to its source and stop its global spread.
+
+Darren Foster directs, Will Anderson and Hamish Fergusson exec produce for Passion Pictures, Foster and Yuna Ma exec produce for Muck Media and Sean D. Johnson exec produces for Nat Geo. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Hijacked: The Real Captain Phillips comes from Curious Films. The three-part series revisits the 2009 hijacking of the Maersk Alabama, when Somali pirates seized the American cargo ship, and the military rescue operation that followed. It brings together the experiences of Captain Richard Phillips and his crew with the rarely heard stories of the Somali pirates at the heart of the hijacking, and explores who the Somali men were, the circumstances in Somalia that drove them to sea, and how events unfolded from their point of view. It also features never-before-seen archive, including U.S. Navy footage.
+
+Christian Collerton is series director, Dov Freedman, Jessie Versluys and Jamal Osman exec produce for Curious Films and Carolyn Payne exec produces for Nat Geo.
+
+============================================================
+[2] New 'Serendipity' Movie Casts Auli‘i Cravalho (EXCLUSIVE)
+Source: Variety | Status: expanded | Words: 383
+Published: 2026-11-19T19:30:00+00:00
+URL: https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411
+------------------------------------------------------------
+SUMMARY:
+Auli‘i Cravalho is the latest addition to the new "Serendipity" movie in the works at Amazon MGM Studios and Miramax, Variety has learned exclusively. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters. Cravalho joins previously announced cast members Milo […]
+
+CONTENT / EXTRACTED DETAILS:
+Auli&#x2018;i Cravalho is the latest addition to the new " Serendipity " movie in the works at Amazon MGM Studios and Miramax , Variety has learned exclusively.
+
+The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters. Cravalho joins previously announced cast members Milo Manheim, Whitney Peak, and Stephen Kalyn. Exact character and plot details are being kept under wraps. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories China Box Office: 'Resident Evil' Holds Top Spot for Fourth Straight Frame as 2014's 'John Wick' Debuts in Third
+
+Cravalho is best known for her starring role in the hit Disney animated film "Moana" and its sequel, while she was also an executive producer on the live-action version released in 2026. She has also starred in films like "Zootopia 2," 2024's "Mean Girls," and "Crush." In TV, she is known for roles in shows like "Rise," "The Power," and for voicing Jessica Cruz, a.k.a Green Lantern, in multiple DC animated projects. It was recently reported that she will appear in the series adaptation of "Icebreaker" for Netflix. She was named to Variety's Power of Young Hollywood Impact Report in 2025.
+
+Cravalho is repped by Gersh, Artists First, and Goodman Genow.
+
+Michael Showalter is attached to direct "Serendipity." Marc Klein, who wrote the original film, will pen the screenplay and executive produce. Showalter is also a producer alongside Jordana Mollick for Semi-Formal Productions. Simon Fields, who produced the original, is also a producer. Jonathan Glickman, Alexandra Loewy, and Thom Zadra will executive produce for Miramax. Arianna D'Andrea is overseeing the project for Miramax, while Emily Crook is overseeing for Semi-Formal. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+The original "Serendipity" starred John Cusack and Kate Beckinsale. In the film, their characters meet one night in New York and decide to leave the chance of meeting again up to fate. They ultimately go searching for each other years later despite being in relationships with other people. The film was a box office success, grossing over $77 million on a reported budget of $28 million.
+
+============================================================
+[3] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
 Source: Variety | Status: expanded | Words: 364
 Published: 2026-11-19T19:25:35+00:00
 URL: https://variety.com/2026/tv/news/larry-poindexter-dead-swat-days-of-our-lives-1236952702
@@ -27,7 +79,7 @@ In addition to acting, he was also the lead singer and songwriter for the band "
 Poindexter is survived by his wife, casting director Carol Kritzer, and their two sons.
 
 ============================================================
-[2] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
+[4] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
 Source: CinemaBlend | Status: expanded | Words: 207
 Published: 2026-11-19T19:19:50+00:00
 URL: https://www.cinemablend.com/television/fans-speculating-val-relationships-dwts-after-suspension-insider
@@ -43,7 +95,7 @@ There you have it. If this source is to be believed, it sounds like there isn't 
 When Chmerkovskiy returned to the Ballroom after his one-week suspension, footage arrived online of him and Carrie Ann Inaba burying the hatchet between shots. That would also seem to point at things being resolved, but there's still plenty of chatter online about Val.
 
 ============================================================
-[3] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
+[5] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-19T19:15:29+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-vice-city-when-do-you-visit
@@ -71,7 +123,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
+[6] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-19T19:13:44+00:00
 URL: https://theplaylist.net/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-20261119
@@ -83,7 +135,7 @@ CONTENT / EXTRACTED DETAILS:
 Apple TV is bringing one of Las Vegas’ most extravagant, bizarre, and ultimately tragic show-business stories to television. The streamer has unveiled the first look at “ Wild Things ,” its upcoming limited series starring Jude Law and Andrew Garfield as legendary illusionists Siegfried & Roy , while announcing an April 16, 2027, premiere date. And what better place to introduce a series about two of Vegas’ most flamboyant entertainers than the city itself? Continue reading ‘Wild Things’ First Look: Jude Law & Andrew Garfield Become Siegfried & Roy In Apple TV’s Las Vegas Limited Series at The Playlist.
 
 ============================================================
-[5] 'The Gilded Age' Renewed For Season 5 At HBO
+[7] 'The Gilded Age' Renewed For Season 5 At HBO
 Source: Deadline | Status: expanded | Words: 460
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344
@@ -103,7 +155,7 @@ Viewership for Season 4 has grown week over week, with Episode 3, Peggy's weddin
 &#x201C;Julian Fellowes and the cast of The Gilded Age have once again captured the zeitgeist this fall, delivering another captivating, unmissable season, and we love how our growing audience has continued to embrace the series year after year. We can&#x2019;t wait to return to 61st Street, as the Russells, van Rhijns and Kirklands continue to wrestle with the cost of ascent, while we expand the canvas and deepen the operatic stakes for these beloved characters," said Francesca Orsi, President, HBO Drama Series and Films.
 
 ============================================================
-[6] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
+[8] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
 Source: Deadline | Status: expanded | Words: 441
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216
@@ -131,7 +183,7 @@ The parade will also feature performances by Natasha Bedingfield, Baha Men, Blue
 The Macy&#x2019;s Thanksgiving Day Parade broadcast is produced by Universal Television in conjunction with Done + Dusted Inc. Katy Mullan and Liz Kelly serve as executive producers, with RJ Durrell, Nick Flores, and Patrick Menton serving as co-executive producers.
 
 ============================================================
-[7] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
+[9] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
 Source: Deadline | Status: expanded | Words: 663
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/nikki-glaser-netflix-partnership-netflix-is-a-joke-studios-1237229256
@@ -161,7 +213,7 @@ Speaking to her new deal, Glaser said, "Netflix gave me some of my earliest and 
 The comedian is represented by WME, Brillstein Entertainment Partners and Ginsburg Daniels Kallis.
 
 ============================================================
-[8] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
+[10] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
 Source: The Hollywood Reporter | Status: expanded | Words: 474
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nikki-glaser-overall-deal-netflix-1236759294
@@ -187,7 +239,7 @@ Added Robbie Praw, Netflix vp stand-up and comedy formats: "I first met Nikki Gl
 Glaser is repped by WME, Brillstein Entertainment Partners and Ginsburg Daniels.
 
 ============================================================
-[9] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
+[11] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
 Source: The Hollywood Reporter | Status: expanded | Words: 451
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-thanksgiving-parade-2026-broadcast-broadway-shows-1236759417
@@ -215,7 +267,7 @@ Natasha Bedingfield, Baha Men, Blues Traveler, DEVO, Jimmy Fallon & The Roots, F
 Jack McBrayer, Janet McTeer, John Stamos, Melissa Joan Hart, Megan Hilty, Holly Robinson Peete and Rodney Peete are also scheduled to appear.
 
 ============================================================
-[10] 'The Gilded Age' Scores Season 5 Renewal at HBO
+[12] 'The Gilded Age' Scores Season 5 Renewal at HBO
 Source: The Hollywood Reporter | Status: expanded | Words: 463
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/gilded-age-renewed-season-5-hbo-1236759400
@@ -241,7 +293,7 @@ The show's sprawling cast is led by Carrie Coon, Christine Baranski, Cynthia Nix
 Fellowes executive produces The Gilded Age with Salli Richardson-Whitfield (who also directs), Warfield, Gareth Neame, David Crockett, Robert Greenblatt, Kate Churchill, Davita Scarlett and Elaine Aronson. Erica Armstrong Dunbar and Holly Rymon are co-EPs.
 
 ============================================================
-[11] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
+[13] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-canadas-drag-race-in-the-us-season-7-streaming-vpn-1236758702
@@ -269,7 +321,7 @@ In fact, Proton VPN has servers in more than 140 countries to access movies and 
 Twelve drag artists are competing for $100,000 (CAD) and title of "Canada's Next Drag Superstar." The cast of Canada's Drag Race season seven includes:
 
 ============================================================
-[12] Watermelon Pictures Buys Zach Woods' 'The Accompanist,' Starring Susan Sarandon and Aubrey Plaza
+[14] Watermelon Pictures Buys Zach Woods' 'The Accompanist,' Starring Susan Sarandon and Aubrey Plaza
 Source: Variety | Status: expanded | Words: 378
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474
@@ -293,7 +345,7 @@ The distribution deal was initiated by Audrey Delaney, marketing executive at Wa
 &#x201C;We fell in love with 'The Accompanist' because beneath its humor, mystery and wonderfully strange edges is an incredibly moving story about the people who find one another when they need it most,&#x201D; said Hamza Ali, Co-Founder of Watermelon Pictures. &#x201C;We&#x2019;re thrilled to bring this beautiful film to audiences across the country.&#x201D;
 
 ============================================================
-[13] 'Gilded Age' Scores Early Season 5 Renewal at HBO
+[15] 'Gilded Age' Scores Early Season 5 Renewal at HBO
 Source: Variety | Status: expanded | Words: 570
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/gilded-age-renewed-season-5-hbo-1236953443
@@ -317,7 +369,7 @@ The official description of Season 4 states, "Bertha Russell (Coon) changed Soci
 Julian Fellowes is the creator, writer, and executive producer of "The Gilded Age," with Sonja Warfield also writing and executive producing. Salli Richardson-Whitfield serves as director and executive producer. Additional executive producers are Gareth Neame, David Crockett, Robert Greenblatt, Kate Churchill, Davita Scarlett, and Elaine Aronson. Erica Armstrong Dunbar and Holly Rymon are co-executive producers. The series is co-produced by HBO and Universal Television.
 
 ============================================================
-[14] Nikki Glaser to Develop Scripted Series at Netflix, Inks Partnership With New Netflix Is a Joke Studios
+[16] Nikki Glaser to Develop Scripted Series at Netflix, Inks Partnership With New Netflix Is a Joke Studios
 Source: Variety | Status: expanded | Words: 530
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/nikki-glaser-netflix-scripted-series-specials-1236952642
@@ -345,7 +397,7 @@ Indeed, Glaser's career took off after her scathing appearance at Netflix's 2024
 Glaser is represented by WME, Brillstein Entertainment Partners and Ginsburg Daniels Kallis LLP.
 
 ============================================================
-[15] Brooks Nader Joins ‘Playmates’ Movie at Searchlight (EXCLUSIVE)
+[17] Brooks Nader Joins ‘Playmates’ Movie at Searchlight (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 341
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/film/news/brooks-nader-playmates-movie-searchlight-1236952489
@@ -369,7 +421,7 @@ She is repped by WME, Dixon Talent, Inc. and by Leigh Fidler, Chief Brand Office
 Searchlight Pictures is the studio behind &#x201C;Playmates.&#x201D; As mentioned above, Nicholson will write and direct. Alex Orlovsky and Duncan Montgomery will produce via High Frequency Entertainment, with Depp producing in addition to starring. Searchlight vice president of production Richard Ruiz and creative executive Cornelia Burleigh will oversee the project for the studio. Ruiz and Burleigh report into the Heads of Production and Development, DanTram Nguyen and Katie Goodson-Thomas.
 
 ============================================================
-[16] Susan Sarandon &#038; Aubrey Plaza Drama 'The Accompanist' Gets North American Deal With Watermelon Pictures
+[18] Susan Sarandon &#038; Aubrey Plaza Drama 'The Accompanist' Gets North American Deal With Watermelon Pictures
 Source: Deadline | Status: expanded | Words: 401
 Published: 2026-11-19T18:57:26+00:00
 URL: https://deadline.com/2026/11/susan-sarandon-film-accompanist-us-deal-watermelon-pictures-1237229354
@@ -391,7 +443,7 @@ Watermelon specialises in releasing marginalized narratives and politically sens
 blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[17] Lance Broadway, Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
+[19] Lance Broadway, Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
 Source: The Hollywood Reporter | Status: expanded | Words: 406
 Published: 2026-11-19T18:56:40+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/lance-broadway-dead-olympus-has-fallen-mets-white-sox-1236759442
@@ -421,7 +473,7 @@ Joining the cast of Olympus Has Fallen &#x201C;was the same feeling as walking i
 &#x201C;I try to take that same approach on set of, you&#x2019;ve never done this before, you don&#x2019;t know what you&#x2019;re talking about, so just be seen and say &#x2018;Yes sir, Yes ma&#x2019;am&#x2019; and do not be heard unless there is an appropriate time.&#x201D;
 
 ============================================================
-[18] DC's Original Superboy Series Began With This Rare Comic, and One of Its Finest Copies Is Up for Auction
+[20] DC's Original Superboy Series Began With This Rare Comic, and One of Its Finest Copies Is Up for Auction
 Source: ComicBook.com | Status: expanded | Words: 1678
 Published: 2026-11-19T18:55:00+00:00
 URL: https://comicbook.com/collectibles/news/dcs-original-superboy-series-began-with-this-rare-comic-and-one-of-its-finest-copies-is-up-for-auction
@@ -459,7 +511,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[19] Roseanne Writer Said She Made Things ‘Hard’ On Set. Why He Still Felt Bad For Her
+[21] Roseanne Writer Said She Made Things ‘Hard’ On Set. Why He Still Felt Bad For Her
 Source: CinemaBlend | Status: expanded | Words: 293
 Published: 2026-11-19T18:47:43+00:00
 URL: https://www.cinemablend.com/television/roseanne-writer-she-made-things-hard-owhy-he-still-felt-bad-for-her
@@ -477,7 +529,7 @@ I like that he ends with the work, because there's a reason people are still tal
 Jacobson also recalled that Barr learned to act quickly, with considerable help from Goodman and Metcalf. That's a pretty fantastic pair of co-workers to have when you're figuring out sitcom acting on the fly. Their chemistry helped make the Conners believable. Interestingly, Goodman has also spoken about defending his former co-star , so Jacobson isn't the only person who worked with Barr and still has some sympathy for her.
 
 ============================================================
-[20] Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in 'The Nightingale' Trailer
+[22] Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in 'The Nightingale' Trailer
 Source: The Hollywood Reporter | Status: expanded | Words: 304
 Published: 2026-11-19T18:46:45+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/the-nightingale-trailer-elle-fanning-dakota-fanning-hannah-1236759409
@@ -501,7 +553,7 @@ Hailing from TriStar Pictures and Hello Sunshine, The Nightingale counts Dakota 
 This marks the first onscreen project to star the two real-life Fanning sisters. Elle Fanning, 28, can currently be seen in The Hunger Games: Sunrise on the Reaping and earned an Emmy Award nomination for the series Margo's Got Money Troubles . Dakota Fanning, 32, similarly landed an Emmy nomination at this year's ceremony for her role in All Her Fault .
 
 ============================================================
-[21] 'I Play Rocky' Stars Unite With Original 'Rocky' Producer for Film's 50th Anniversary Celebration
+[23] 'I Play Rocky' Stars Unite With Original 'Rocky' Producer for Film's 50th Anniversary Celebration
 Source: The Hollywood Reporter | Status: expanded | Words: 753
 Published: 2026-11-19T18:45:42+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-stars-rocky-producer-50th-anniversary-1236758733
@@ -527,7 +579,7 @@ Farrelly also called I Play Rocky "the best script I ever read," noting, "the th
 Ippolito closed out the chat by musing that Rocky 's success is because "the underdog story is a very universal one. I think everybody has a Rocky inside of them. I think we all have our own personal relationship to this story and to this character," adding, "it's an incredible, incredible film. You guys got great taste being here tonight."
 
 ============================================================
-[22] Connor Storrie Sci-Fi Thriller 'April X' Sets HBO Max Streaming Release Date
+[24] Connor Storrie Sci-Fi Thriller 'April X' Sets HBO Max Streaming Release Date
 Source: Deadline | Status: expanded | Words: 273
 Published: 2026-11-19T18:43:57+00:00
 URL: https://deadline.com/2026/11/connor-storrie-april-x-hbo-max-streaming-release-date-1237229307
@@ -549,7 +601,7 @@ The film is directed by Parandi, written by Michel K. Parandi and Jack Coulton, 
 You can watch the trailer below.
 
 ============================================================
-[23] Siegfried &#038; Roy Series 'Wild Things' Gets Spring Release; Apple TV Teases Jude Law &#038; Andrew Garfield As "Masters Of The Impossible"
+[25] Siegfried &#038; Roy Series 'Wild Things' Gets Spring Release; Apple TV Teases Jude Law &#038; Andrew Garfield As "Masters Of The Impossible"
 Source: Deadline | Status: expanded | Words: 459
 Published: 2026-11-19T18:41:39+00:00
 URL: https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337
@@ -573,7 +625,7 @@ Tony Leondis serves as executive producer for Another Hoffman Story and Kathy Ci
 Wild Things: Siegfried & Roy premiered in 2022 and was the first in-depth podcast series about the most famous and controversial magicians in history, who were widely misunderstood, frequently satirized and feverishly criticized. The podcast goes behind the velvet curtain to examine the pop culture icons, lionized by a global fan base for more than 40 years, to deconstruct the illusions they created, the empire they constructed and what really happened on the night that a tiger attack ended their reign.
 
 ============================================================
-[24] 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027
+[26] 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027
 Source: The Playlist | Status: summary_only | Words: 94
 Published: 2026-11-19T18:39:19+00:00
 URL: https://theplaylist.net/wolf-creek-3-sneak-preview-clip-outback-serial-killer-20261119
@@ -585,7 +637,7 @@ CONTENT / EXTRACTED DETAILS:
 When it comes to 21st-century slashers, only a few measure up to the antiheroes of the genre's heyday, like Jason Voorhees, Freddy Krueger, and Michael Myers. Outback killer Mick Taylor is one of them, and his debut, 2005's " Wolf Creek ," is also one of the best horror films of the 2000s. Since then, however, Taylor's only returned onscreen twice: in the 2014 sequel and a short-lived TV show that ran from 2016-2017. Continue reading 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027 at The Playlist.
 
 ============================================================
-[25] Former Cineworld CEO Mooky Greidinger Leads Acquisition of Showcase Cinemas in U.K., Inks Major Imax Deal
+[27] Former Cineworld CEO Mooky Greidinger Leads Acquisition of Showcase Cinemas in U.K., Inks Major Imax Deal
 Source: Variety | Status: expanded | Words: 326
 Published: 2026-11-19T18:31:20+00:00
 URL: https://variety.com/2026/biz/global/mooky-greidinger-acquisitionshowcase-cinemas-uk-imax-1236953380
@@ -609,7 +661,7 @@ Under the agreement, Showcase has ordered 13 new Imax and laser systems, 12 acro
 &#x201C;There is no doubt that Imax plays a significant role in the results of the industry and I am sure it will continue to grow and attract new audience and become even more significant in the coming years. I look forward to working with Rich and his team and making the Imax experience a cornerstone of the new Showcase Cinemas in the U.K..&#x201D;
 
 ============================================================
-[26] Pokemon TCG Reveals First Look at Flowing Fists Set With Release Date
+[28] Pokemon TCG Reveals First Look at Flowing Fists Set With Release Date
 Source: ComicBook.com | Status: expanded | Words: 541
 Published: 2026-11-19T18:30:55+00:00
 URL: https://comicbook.com/gaming/news/pokemon-tcg-flowing-fists-release
@@ -637,7 +689,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] CBS And Paramount+ To Air Next Kennedy Center Honors
+[29] CBS And Paramount+ To Air Next Kennedy Center Honors
 Source: Deadline | Status: expanded | Words: 288
 Published: 2026-11-19T18:30:00+00:00
 URL: https://deadline.com/2026/11/kennedy-center-honors-cbs-1237229052
@@ -657,7 +709,7 @@ The ceremony will honor Paul Anka, David Foster, Andy Garcia, David Mamet and Ba
 The center largely ended all major performances ended amid plans to renovate the complex. The plan has been challenged by Rep. Joyce Beatty (D-OH), and a federal judge issued an injunction prohibiting a full-scale closure, albeit center officials have shuttered the main building since September for what they say is for safety reasons. Donald Trump , who serves as chairman of the center, hosted last year's ceremonies, but no announcement has been made on whether he will return. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[28] E. Lockhart, Gotham Group Tackling Fantasy Novel 'The Curse Workers' for 20th Television (Exclusive)
+[30] E. Lockhart, Gotham Group Tackling Fantasy Novel 'The Curse Workers' for 20th Television (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 538
 Published: 2026-11-19T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/curse-workers-tv-show-1236759100
@@ -685,7 +737,7 @@ Working in both film and television, Gotham is one of the entities behind Disney
 Lockhart is repped by Verve, Anonymous Content, and Elizabeth Kaplan Literary Agency. Black is repped by CAA and New Leaf Literary & Media.
 
 ============================================================
-[29] How TV Personality Keltie Knight Turned a Reality Show Flop Into a Masterclass in Redirection (EXCLUSIVE)
+[31] How TV Personality Keltie Knight Turned a Reality Show Flop Into a Masterclass in Redirection (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1699
 Published: 2026-11-19T18:30:00+00:00
 URL: https://variety.com/2026/tv/news/keltie-knight-superfan-new-book-f-them-theory-1236952695
@@ -765,7 +817,7 @@ Rejection isn't failure. Every no proves you're brave enough to show up. Every a
 Fuck rejection. Keep going. Keep showing up. Keep becoming.
 
 ============================================================
-[30] Chris Kattan Launches Production &#038; Distribution Company Kattan Films
+[32] Chris Kattan Launches Production &#038; Distribution Company Kattan Films
 Source: Deadline | Status: expanded | Words: 325
 Published: 2026-11-19T18:20:28+00:00
 URL: https://deadline.com/2026/11/chris-kattan-launches-kattan-films-1237229283
@@ -781,7 +833,7 @@ The Groundlings alum was a cast member on Saturday Night Live from 1996 to 2003 
 blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[31] GTA 6 Officially Reveals Mandy Actress
+[33] GTA 6 Officially Reveals Mandy Actress
 Source: ComicBook.com | Status: expanded | Words: 533
 Published: 2026-11-19T18:20:10+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-mandy-actress
@@ -807,7 +859,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Parker Posey Knows Career Highs and Lows. Right Now, She's Having a Blast
+[34] Parker Posey Knows Career Highs and Lows. Right Now, She's Having a Blast
 Source: The Hollywood Reporter | Status: expanded | Words: 1975
 Published: 2026-11-19T18:19:23+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/parker-posey-feature-wild-horse-nine-1236758987
@@ -857,7 +909,7 @@ Posey instilled The Staircase &#x2019;s role of prosecutor Freda Black with as m
 She sits on that line a bit as she grabs her last olive of the afternoon. &#x201C;But it's not work for me &#x2014; it&#x2019;s not, because I'm an artist,&#x201D; she says. &#x201C;I&#x2019;m not working for a vacation. And isn't that the life that I wanted?&#x201D;
 
 ============================================================
-[33] Anthropic Shares Pop, Then Pull Back In Volatile Debut As AI Giant Goes Public
+[35] Anthropic Shares Pop, Then Pull Back In Volatile Debut As AI Giant Goes Public
 Source: Deadline | Status: expanded | Words: 581
 Published: 2026-11-19T18:17:09+00:00
 URL: https://deadline.com/2026/11/anthropic-ai-volatile-ipo-shares-trading-nasdaq-market-1237229045
@@ -881,7 +933,7 @@ In a note last night, Dan Ives, partner and senior managing director at Yorkvill
 The sector "is going through a very turbulent, white-knuckle period,&#x201D; he acknowledged. But &#x201C;that does not change our longer-term view that $3 trillion to $4 trillion of capex will be spent over the next few years on the AI Revolution, and this sets the stage for the next phase of tech and infrastructure investment with Anthropic a central player in the buildout. phase of tech and infrastructure investment with Anthropic a central player in the buildout.&#x201D;
 
 ============================================================
-[34] NCIS: Origins Star Is VERY Passionate About Getting Season 4, But The Way He Words It Didn’t Reassure Me
+[36] NCIS: Origins Star Is VERY Passionate About Getting Season 4, But The Way He Words It Didn’t Reassure Me
 Source: CinemaBlend | Status: expanded | Words: 240
 Published: 2026-11-19T18:16:52+00:00
 URL: https://www.cinemablend.com/television/ncis-origins-kyle-schmid-passionate-getting-season-4-way-he-words-didnt-reassure-me
@@ -897,7 +949,7 @@ As a day one Origins fan, I would love nothing more than to never see this show 
 This has me very concerned, because Schmid is implying that we're going to be dying to see what happens after Season 3 ends. And let me tell you, I absolutely hate cliffhangers, and I hold grudges against them when shows are canceled right after one, because I know we'll never get a resolution. So, if Origins ends in a way that leaves me ravenous for more, it better not get axed.
 
 ============================================================
-[35] Hallmark’s Lacey Chabert Channeled A Beloved Disney Princess For Her Disney World Movie Premiere, And I’m Obsessed
+[37] Hallmark’s Lacey Chabert Channeled A Beloved Disney Princess For Her Disney World Movie Premiere, And I’m Obsessed
 Source: CinemaBlend | Status: expanded | Words: 222
 Published: 2026-11-19T18:15:56+00:00
 URL: https://www.cinemablend.com/television/hallmark-lacey-chabert-channeled-belle-disney-princess-disney-world-movie-premiere-holiday-ever-after
@@ -913,7 +965,7 @@ The rose appliqués are definitely the stars of the dress. Their coral, salmon, 
 In addition to dazzling the crowd, Chabert also filmed a “get-ready-with-me” video with the official Disney Wedding’s Instagram page, where she shared some of her favorite Christmas memories and revealed that Belle is her favorite princess. So, this look really was a dream for her.
 
 ============================================================
-[36] Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join 'Twenty-Seven' (EXCLUSIVE)
+[38] Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join 'Twenty-Seven' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 380
 Published: 2026-11-19T18:15:00+00:00
 URL: https://variety.com/2026/film/news/twenty-seven-cast-poorna-jagannathan-clark-gregg-isabela-ferrer-1236952647
@@ -941,7 +993,7 @@ Jagannathan is repped by Gersh, Untitled, and Hansen Jacobson Teller; Gregg by G
 Vigman is represented by Innovative Artists and Trademark Talent; Tal by Innovative Artists and the Law Offices of Mark S. Temple; Nouri by BRS/Gage, Diamond Management, and Burstein Company; and Elmore by Gersh, OPE Partners, and Hansen Jacobson Teller.
 
 ============================================================
-[37] THR Celebrates Hollywood's New Wave of Stars at Next Gen Dinner
+[39] THR Celebrates Hollywood's New Wave of Stars at Next Gen Dinner
 Source: The Hollywood Reporter | Status: expanded | Words: 547
 Published: 2026-11-19T18:11:01+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hollywoods-new-wave-of-stars-next-gen-dinner-2026-1236759168
@@ -965,7 +1017,7 @@ Claudine Cazian, director of strategic partnerships at Meta, noted the company w
 "What you do and what you give to all of us, it opens hearts, it opens minds, and what you do is push culture forward and that's not easy to do," she continued. "Sometimes it can even be scary, so we want to thank you collectively for your craft, for your time, for your energy, for your talent and for your voice," as the guests raised their glasses. The evening capped with dinner &#x2014; featuring portobello mushroom bolognese and citrus chile braised beef short ribs as the main dishes &#x2014; and more conversation, with Caylee Cowan, Jessica Belkin, John Owen Lowe, celebrity groomer Aika Flores , Abubakr Ali, Milo Callaghan, Yasmeen Fletcher, La&#xEB;titia Hollard, Madison Iseman and Lilah Pate rounding out the guest list.
 
 ============================================================
-[38] One of Spider-Man's Most Famous Mysteries Began on This Original Artwork, and It Took 17 Issues to Solve
+[40] One of Spider-Man's Most Famous Mysteries Began on This Original Artwork, and It Took 17 Issues to Solve
 Source: ComicBook.com | Status: expanded | Words: 556
 Published: 2026-11-19T18:11:00+00:00
 URL: https://comicbook.com/collectibles/news/one-of-spider-mans-most-famous-mysteries-began-on-this-original-artwork-and-it-took-17-issues-to-solve
@@ -985,7 +1037,7 @@ MJ plays an important part in Spider-Man's life; not only does she eventually fa
 Are you on Team MJ or Team Gwen Stacey? Let us know in the comments!
 
 ============================================================
-[39] Bond Girl Lea Seydoux Says ‘I Don’t Really Care’ Who Becomes 007's New Female Lead: ‘It’s Become American’ Now
+[41] Bond Girl Lea Seydoux Says ‘I Don’t Really Care’ Who Becomes 007's New Female Lead: ‘It’s Become American’ Now
 Source: Variety | Status: expanded | Words: 420
 Published: 2026-11-19T18:04:21+00:00
 URL: https://variety.com/2026/film/global/bond-girl-lea-seydoux-dont-really-care-007-1236953369
@@ -1015,7 +1067,7 @@ Seydoux&#x2019;s character played a pivotal role in Craig&#x2019;s final Bond ou
 The French actor, who broke out internationally with Abdellatif Kechiche&#x2019;s Palme d&#x2019;Or-winning &#x201C;Blue Is the Warmest Colour,&#x201D; has worked with famed international auteurs including Wes Anderson, David Cronenberg and Yorgos Lanthimos.
 
 ============================================================
-[40] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV
+[42] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV
 Source: Variety | Status: expanded | Words: 1833
 Published: 2026-11-19T18:00:26+00:00
 URL: https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037
@@ -1051,7 +1103,7 @@ Driving the action forward are a pair of Filipino hitmen, the Verdusco brothers 
 How is the ultraviolent climax? It&#x2019;s kind of spectacular. Tarantino doesn&#x2019;t use it to rewrite history this time, but in a funny way he does an instant mini version of that. What happens to Cliff in the big fight at the end should, by all rights, have eliminated him from the earth. But it doesn&#x2019;t. It&#x2019;s just a scratch. He doesn&#x2019;t give a fuck, and he&#x2019;s still there. To put it in QT TV terms: When&#x2019;s the next episode?
 
 ============================================================
-[41] ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode
+[43] ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-19T18:00:05+00:00
 URL: https://theplaylist.net/cliff-booth-further-misadventures-review-david-fincher-brad-pitt-quentin-tarantino-20261119
@@ -1063,7 +1115,7 @@ CONTENT / EXTRACTED DETAILS:
 There’s a strong argument to be made that if you’ve read Quentin Tarantino ’s “ Once Upon A Time In Hollywood ” novelization, “ The Further Mis-Adventures Of Cliff Booth ” shouldn’t surprise you. Tarantino’s book was shaggy and baggy, like an unedited, freehand version of the movie, full of detours, tangents, and narrative cul-de-sacs. An interesting extended curiosity, mildly entertaining in spots, but much of it probably wouldn’t have stood on its own outside the pulp novel format. Continue reading ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode at The Playlist.
 
 ============================================================
-[42] Gabriel Iglesias Sets Fifth Netflix Special 'Lone Star Fluffy' For Christmas Eve Release
+[44] Gabriel Iglesias Sets Fifth Netflix Special 'Lone Star Fluffy' For Christmas Eve Release
 Source: Deadline | Status: expanded | Words: 467
 Published: 2026-11-19T18:00:00+00:00
 URL: https://deadline.com/2026/11/gabriel-iglesias-new-netflix-special-premiere-date-1237229082
@@ -1089,7 +1141,7 @@ Iglesias is also one of the most watched comedians on YouTube with over 2.7 bill
 Iglesias is also known for starring in and exec producing the Netflix sitcom Mr. Iglesias , which ran for three seasons. In partnership with Fuse Media, he launched Fluffy TV, a family-friendly streaming television channel available on Amazon Prime, Google TV, Roku and more, in June. He is repped by CAA, Arsonhouse Entertainment and Hirsch Wallerstein Hayum.
 
 ============================================================
-[43] A “Very Human” Father-Daughter Story: ‘THR Presents’ Q&#038;A With Myrsini Aristidou on Cyprus’ First Oscar Submission, ‘Hold Onto Me’
+[45] A “Very Human” Father-Daughter Story: ‘THR Presents’ Q&#038;A With Myrsini Aristidou on Cyprus’ First Oscar Submission, ‘Hold Onto Me’
 Source: The Hollywood Reporter | Status: expanded | Words: 478
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-videos/cyprus-oscar-film-hold-onto-me-myrsini-aristidou-1236757084
@@ -1119,7 +1171,7 @@ It was very, very different and complicated. We didn't have the budget to shoot 
 Watch the full Q&A with Aristidou in the video above.
 
 ============================================================
-[44] It Girl India Amarteifo’s Queen’s Gambit
+[46] It Girl India Amarteifo’s Queen’s Gambit
 Source: The Hollywood Reporter | Status: expanded | Words: 809
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/india-amarteifio-interview-queen-charlotte-clarissa-1236757825
@@ -1159,7 +1211,7 @@ A movie musical remains on her wish list ("If you know of anyone who's doing one
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[45] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff
+[47] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff
 Source: The Hollywood Reporter | Status: expanded | Words: 2000
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236759005
@@ -1213,7 +1265,7 @@ Courtesy of Ren Klyce's densely layered sound design, those orchestral interlude
 Ultimately, however, the key ingredient binding together a movie that seldom meets an abrupt tangent it declines to explore is Pitt. His star wattage, shit-eating grin and cowboy gait &#x2014; even with a limp and a body full of bones on which decades of stunt work have taken their toll &#x2014; are dialed up to maximum magnetism.
 
 ============================================================
-[46] Dean Koontz's Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)
+[48] Dean Koontz's Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 538
 Published: 2026-11-19T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/dean-koontz-jane-hawk-books-tv-series-monarch-media-1236953222
@@ -1243,7 +1295,7 @@ Monarch Media previously produced the hit Richard Linklater film "Hit Man" starr
 News of the new attempt at the Jane Hawk series comes as shows based on book characters with multiple novels to their name are more popular than ever. Just a few similar examples include "Reacher" and "Scarpetta" at Amazon, "The Lincoln Lawyer" at Netflix, and "Will Trent" at ABC.
 
 ============================================================
-[47] 'The Further Mis-Adventures Of Cliff Booth' Review: Pitt, Fincher And Tarantino Team For A Rollicking Good Wild Ride Of A 'Hollywood' Follow-Up
+[49] 'The Further Mis-Adventures Of Cliff Booth' Review: Pitt, Fincher And Tarantino Team For A Rollicking Good Wild Ride Of A 'Hollywood' Follow-Up
 Source: Deadline | Status: expanded | Words: 1638
 Published: 2026-11-19T18:00:00+00:00
 URL: https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009
@@ -1291,7 +1343,7 @@ Cast: Brad Pitt, Elizabeth Debicki, Scott Caan, Carla Gugino, Yahya Abdul-Mateen
 Running Time: 2 hours and 20 minutes
 
 ============================================================
-[48] Pokemon Winds and Waves New Leaks Reveal Brand New Feature and Battle Gimmick
+[50] Pokemon Winds and Waves New Leaks Reveal Brand New Feature and Battle Gimmick
 Source: ComicBook.com | Status: expanded | Words: 503
 Published: 2026-11-19T17:51:18+00:00
 URL: https://comicbook.com/gaming/news/pokemon-winds-and-waves-new-leaks-reveal-brand-new-feature-and-battle-gimmick
@@ -1315,42 +1367,4 @@ Still, these details remain unverified, and development plans can change before 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Doctor Doom Is Strong, But Chris Hemsworth’s Abs In His Latest Workout Post Are Stronger
-Source: CinemaBlend | Status: expanded | Words: 222
-Published: 2026-11-19T17:48:35+00:00
-URL: https://www.cinemablend.com/movies/doctor-doom-strong-chris-hemsworth-abs-workout-post-stronger
-------------------------------------------------------------
-SUMMARY:
-Hemsworth is looking superhero fit.
-
-CONTENT / EXTRACTED DETAILS:
-Actor Chris Hemsworth is known for his talents, as well as the hulking physicality he bring to most roles. Fans who spent years watching the Marvel movies in order have seen him kick butt as Thor in the MCU, and he'll once again reprise his role in the upcoming Marvel movie Avengers: Doomsday . Robert Downey Jr.'s Doctor Doom is going to be strong in the movie, but Hemsworth's abs are even stronger in his latest workout post.
-
-Holy abs. I certainly wouldn't want to be a villain in the MCU, at least if the God of Thunder is around. Hemsworth is basically pure muscle in this post, especially those massive biceps and washboard abs. Seriously, does the 43 year-old actor even age at this point?
-
-The stakes are always high for the Avengers movies, and the last two saw the death of a number of beloved characters including Iron Man, Black Widow, Gamora, Heimdell, and Loki. Doctor Doom looks like he's going to be a wildly powerful antagonist, and there have been some fan concerns about Thor surviving Doomsday . We'll have to see what happens when the movie arrives next month, but the fact that Chris Hemsworth is looking so yoked might be a source of hope for folks who aren't ready to say goodbye to the God of Thunder.
-
-============================================================
-[50] 'Jeopardy!' Sets Inaugural Fan Convention in Washington, D.C.
-Source: Variety | Status: expanded | Words: 340
-Published: 2026-11-19T17:47:40+00:00
-URL: https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378
-------------------------------------------------------------
-SUMMARY:
-What is Jeopardy!Con? America's favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things "Jeopardy!" Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise. Jeopardy!Con will feature behind-the-scenes sessions with iconic players from the trivia show, plus exclusive […]
-
-CONTENT / EXTRACTED DETAILS:
-America's favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things "Jeopardy!" Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise.
-
-Jeopardy!Con will feature behind-the-scenes sessions with iconic players from the trivia show, plus exclusive announcements and contestant casting opportunities. The weekend will also include a welcome party, closing celebration and other social gatherings. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Queen Latifah, Bone Thugs-N-Harmony, MC Lyte and More to Lead 2027 Rock the Bells Cruise
-
-Perhaps the most exciting aspect of Jeopardy!Con is an all-new live "Jeopardy!" competition format featuring famous players competing in front of thousands of fans. "The two-night marquee event will bring the game to life on a scale never before seen at 'Jeopardy!,'" according to a press release.
-
-Tickets will go on sale in early 2027, with additional programming to be announced.
-
-&#x201C;People are looking for meaningful ways to connect, and few things bring people together quite like a shared passion,&#x201D; said Suzanne Prete, president of game shows at Sony Pictures Television. &#x201C;For generations, 'Jeopardy!' has united fans through a love of knowledge, curiosity and competition. Jeopardy!Con builds on that legacy in an entirely new way, creating an unprecedented opportunity to bring fans together to celebrate the show, connect with one another and experience the franchise like never before.&#x201D;
-
-&#x201C;Ever since I joined 'Jeopardy!' in 2021, I&#x2019;ve wanted to bring this extraordinary community together in a way that&#x2019;s bigger than anything we&#x2019;ve done before and give fans the chance to interact with their quiz show heroes,&#x201D; said Michael Davies, executive producer of "Jeopardy!" &#x201C;One of the remarkable things we&#x2019;ve seen through our live podcast and 'Jeopardy!' interactive events all over the country is just how much people want to come together and share their love of the game. Everyone on the team is incredibly excited to bring it all together next May.&#x201D;
 
