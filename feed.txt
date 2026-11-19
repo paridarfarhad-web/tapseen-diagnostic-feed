@@ -1,9 +1,55 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T20:45:13.040Z
+Last Updated: 2026-11-19T20:57:08.080Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
+[1] 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
+Source: Deadline | Status: expanded | Words: 392
+Published: 2026-11-19T20:55:12+00:00
+URL: https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494
+------------------------------------------------------------
+SUMMARY:
+Christopher Nolan has revealed that The Odyssey has many deleted scenes, but no one will ever get a chance to see them. In a new interview, the filmmaker explained why he doesn't believe in a director's cut of his work. "There’s a lot of deleted scenes scrumpled up in the wastebasket that no one will […]
+
+CONTENT / EXTRACTED DETAILS:
+Christopher Nolan has revealed that The Odyssey has many deleted scenes, but no one will ever get a chance to see them.
+
+In a new interview, the filmmaker explained why he doesn't believe in a director's cut of his work.
+
+"There&#x2019;s a lot of deleted scenes scrumpled up in the wastebasket that no one will ever see," Nolan told The Independent .
+
+He continued, "I don&#x2019;t really believe in director&#x2019;s cuts. I want to stand by the film that goes out. As a writer-director, I try to do a lot of that weeding out. There aren&#x2019;t many scenes that were shot. On a film like this, to spend a day shooting something on top of a mountain or in the rain or on a boat or whatever that isn&#x2019;t gonna be in the film, I would really rather not do that. And so I wanna stand behind the cuts of the films that are put out there." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Festivals Palm Springs Film Awards Honorees: 'The Odyssey' Cast Set For Ensemble Performance Award News Christopher Nolan On DGA "Holding The Studios To Account" In Protecting Copyright From AI, Including Anti-AI Boilerplate In 'The Odyssey'
+
+As the director of the film, Nolan said that it's on him "to fight for the cut of the movie right 'til it goes into theaters."
+
+In August 2026, Deadline reported that The Odyssey had become Nolan's highest-grossing movie ever at the global box office with $1.1B.
+
+In an interview last year, Nolan said it was arduous to work on&#xA0; The Odyssey &#xA0;and noted&#xA0;it would be at least three years until his next film .
+
+"I definitely hit the limits of my own stamina and everybody&#x2019;s stamina, I think," Nolan said in an interview with Today . "I mean, it&#x2019;s The Odyssey , of course it should be difficult. We&#x2019;re not doing the job right making a film of The Odyssey if it doesn&#x2019;t seem difficult."
+
+============================================================
+[2] The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
+Source: The Hollywood Reporter | Status: expanded | Words: 313
+Published: 2026-11-19T20:45:17+00:00
+URL: https://www.hollywoodreporter.com/lifestyle/shopping/paramount-plus-black-friday-deal-2026-november-promo-1236759110
+------------------------------------------------------------
+SUMMARY:
+The streamer's limited-time promotion is as close to a free trial as it gets.
+
+CONTENT / EXTRACTED DETAILS:
+Black Friday is starting early. Between Nov. 18 and 30, Paramount+ is offering any of its monthly plans for just $2.99 per month for the first two months, a savings of nearly 80 percent. The limited-time offer comes just ahead of the Yellowjackets final season premiere on Friday, Nov. 20, and right on the heels of the streaming service's latest true crime offering, He Said, She Said: Till Death Do Us Part .
+
+Through Monday, Nov. 30, new and former subscribers can secure two months of either the Paramount+ Essential or Paramount+ Premium plan for just $2.99 per month. For Paramount+ Premium , regularly $13.99 per month, this comes out to a savings of 79 percent. For Paramount+ Essential , regularly $8.99 per month, this comes out to a savings of 67 percent. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S. Lifestyle New Sam's Club-Exclusive Home Decor Just Dropped: Shop Our Top Picks From the Collection
+
+Following this two month period, the subscription auto-renews at its then-current full price, unless cancelled at any time.
+
+Paramount+ Essential is the streamer's ad-supported base package, regularly $8.99 per month or $89.99 annually. It includes 40,000-plus episodes and movies, NFL on CBS and UEFA Champions League live, access to select Showtime series and the ability to stream on three devices at once.
+
+Paramount+ Premium (formerly known as Paramount+ with Showtime) is regularly $13.99 per month or $139.99 per year and offers everything in the essential plan without ads (except for live TV), plus access to all of Showtime, the ability to stream CBS live with more sports and events, the option to download movies and shows and the ability to watch in 4K Ultra HD, Dolby Vision or HDR10.
+
+============================================================
+[3] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
 Source: Deadline | Status: expanded | Words: 394
 Published: 2026-11-19T20:43:30+00:00
 URL: https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451
@@ -29,7 +75,7 @@ The series will premiere in its regular timeslot on Thursday, January 7 at 8 p.m
 Jackson can recently be seen starring in the indie feature I&#x2019;m Beginning to See the Light , alongside Abbie Cornish and Jack Huston. On the TV side, his credits include Family Business: New Orleans, Mr. Robinson, Deadbeat and Bojack Horseman. Known for his work in the Percy Jackson titles, his additional film credits include Tropic Thunder , Roll Bounce and Tooth Fairy. Jackson is repped by Buchwald and Zero Gravity Management.
 
 ============================================================
-[2] Star Wars Jedi 3 Report Gives New Update on EA Game
+[4] Star Wars Jedi 3 Report Gives New Update on EA Game
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-19T20:39:06+00:00
 URL: https://comicbook.com/gaming/news/star-wars-jedi-3-ea-new-update-report
@@ -55,7 +101,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
+[5] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
 Source: CinemaBlend | Status: expanded | Words: 163
 Published: 2026-11-19T20:38:14+00:00
 URL: https://www.cinemablend.com/streaming-news/nick-jonas-and-bridgerton-hannah-dodd-doing-rom-com-fans-shook-me
@@ -71,7 +117,7 @@ It’s safe to say that I did not see Dodd starring in a holiday romcom next yea
 There's no word yet on when The More The Merrier will be available for those with a Netflix subscription . However, I'd imagine it should be out in time for the 2027 holiday season since filming is slated to begin in January.
 
 ============================================================
-[4] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
+[6] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
 Source: Variety | Status: expanded | Words: 373
 Published: 2026-11-19T20:36:44+00:00
 URL: https://variety.com/2026/music/news/marlon-jackson-prostate-cancer-1236953546
@@ -93,7 +139,7 @@ He had a sense of humor while addressing his prognosis, saying, "Bad grass don&#
 Jackson is the sixth of Joe and Katherine Jackson's ten children. Besides his twin, who died shortly after birth, Marlon was the closest in age to Michael Jackson, who was born one year after him. Marlon left the Jackson 5 in 1985, shortly after Michael, and released the solo album "Baby Tonight" in 1987. After that, he mostly left the music business and began to pursue real estate. He has made several public appearances recently while promoting the biopic "Michael."
 
 ============================================================
-[5] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
+[7] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
 Source: Deadline | Status: expanded | Words: 473
 Published: 2026-11-19T20:30:00+00:00
 URL: https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336
@@ -117,7 +163,7 @@ Meredith is a rising actress who has previously been seen in Prime Video's Fallo
 Batalon is best known for his breakout role as Ned Leeds in Marvel/Sony's Spider-Man franchise, most recently reprising the fan-favorite character in Spider-Man: Brand New Day , the highest-grossing film of 2026 and the third-highest-grossing film of all time. He also recently starred in the action comedy The Wrecking Crew , opposite Jason Momoa and Dave Bautista, and in the action thriller Novocaine . Previously, he exec produced and starred in the titular role of Syfy's Reginald the Vampire . He is represented by Independent Artist Group and Brecheen Feldman Breimer.
 
 ============================================================
-[6] Zooey Deschanel &#038; Caleb Hearon TIFF World Premiere 'Trash Mountain' Acquired By Magnolia Pictures
+[8] Zooey Deschanel &#038; Caleb Hearon TIFF World Premiere 'Trash Mountain' Acquired By Magnolia Pictures
 Source: Deadline | Status: expanded | Words: 521
 Published: 2026-11-19T20:24:19+00:00
 URL: https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457
@@ -143,7 +189,7 @@ Metronome Film Company presents, in association with Sight Unseen, Pigasus Pictu
 The deal was negotiated by Magnolia Pictures SVP of Acquisitions John Von Thaden and VP of Acquisitions Miranda Hill, and by CAA Media Finance and WME on behalf of the filmmakers.
 
 ============================================================
-[7] Peacock Is Decking the Streaming Halls With Festive New Holiday 2026 Lineup
+[9] Peacock Is Decking the Streaming Halls With Festive New Holiday 2026 Lineup
 Source: ComicBook.com | Status: expanded | Words: 1058
 Published: 2026-11-19T20:22:00+00:00
 URL: https://comicbook.com/movies/news/peacock-is-decking-the-streaming-halls-with-festive-new-holiday-2026-lineup
@@ -389,7 +435,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B 'Lucky Loser' Defamation Suit
+[10] Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B 'Lucky Loser' Defamation Suit
 Source: Deadline | Status: expanded | Words: 746
 Published: 2026-11-19T20:08:57+00:00
 URL: https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384
@@ -417,7 +463,7 @@ With the case now set to move towards further discovery and trial, it may or may
 On the flip side, having enduring a plethora of Trump attacks and suits over the years, the Gray Lady hasn't given up the fight. &#x201C; The Times is encouraged to see Judge Merryday&#x2019;s dismissal of almost all claims against us,' the NYT's Charlie Stadtlander stated today. "We continue to believe the remaining claim in the filing has no legal merit. We look forward to making this argument as we continue to defend ourselves against this baseless attack on The Times and the rights of the free and independent press in this country.&#x201D;
 
 ============================================================
-[9] Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
+[11] Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
 Source: Variety | Status: expanded | Words: 369
 Published: 2026-11-19T20:06:36+00:00
 URL: https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529
@@ -437,7 +483,7 @@ Dawson debuted the character, a nurse who specializes in aiding heroes, in Seaso
 The re-release, titled "Spider-Man: [Brand New] Brand New Day," will return to theaters on Dec. 4.
 
 ============================================================
-[10] Amy Poehler Explains Why One SNL Employee Has Seen Every Famous Person Naked
+[12] Amy Poehler Explains Why One SNL Employee Has Seen Every Famous Person Naked
 Source: CinemaBlend | Status: expanded | Words: 1574
 Published: 2026-11-19T20:03:34+00:00
 URL: https://www.cinemablend.com/television/amy-poehler-snl-donna-richards-costumes
@@ -489,7 +535,7 @@ Television Amy Poehler Recalled The Moment She Knew It Was Time To Leave SNL: �
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[11] Edgar Barrera Signs With Fortress Talent Management
+[13] Edgar Barrera Signs With Fortress Talent Management
 Source: Deadline | Status: expanded | Words: 323
 Published: 2026-11-19T20:00:00+00:00
 URL: https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241
@@ -513,7 +559,7 @@ Fortress Talent Management's roster includes Oscar-, Emmy-, and Grammy-winning a
 Barrera won his first Grammy in 2015 in the Best Tropical Album category for his work on Carlos Vives' M&#xE1;s Coraz&#xF3;n Profundo . He recently received a nomination at the 69th Annual Grammy Awards in the Songwriter of the Year, Non-Classical category for the fourth consecutive year. The songs he worked on include "Broke My Heart", "Dando Vueltas", "Despu&#xE9;s De Ti", "For u My lova", "Lighter", "Ojitos Bellos", "Pvta Luna", "7-3" and "Velas."
 
 ============================================================
-[12] Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
+[14] Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’
 Source: Variety | Status: expanded | Words: 655
 Published: 2026-11-19T19:58:00+00:00
 URL: https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326
@@ -547,7 +593,7 @@ The Doha Film Festival runs Nov. 19-27.
 Nick Vivarelli contributed to this report.
 
 ============================================================
-[13] The Cliff Booth Reviews Point Out A Missed Opportunity In Brad Pitt’s Sequel, And I Have To Agree
+[15] The Cliff Booth Reviews Point Out A Missed Opportunity In Brad Pitt’s Sequel, And I Have To Agree
 Source: CinemaBlend | Status: expanded | Words: 446
 Published: 2026-11-19T19:53:58+00:00
 URL: https://www.cinemablend.com/movies/further-mis-adventures-cliff-booth-reviews-missed-opportunity-brad-pitt-sequel-agree
@@ -571,7 +617,7 @@ Overall, the reviews are skewing positive, with a few leaning more lukewarm. We 
 If you loved Once Upon a Time...In Hollywood, I definitely think you should catch this one. I thought the runtime flew by and it was simply a fun time, but all these reactions help gather a broader picture of what people think about it so far.
 
 ============================================================
-[14] What's Taking the BioShock Movie So Long? Director Reveals It's the Same Problem Other Video Games Have
+[16] What's Taking the BioShock Movie So Long? Director Reveals It's the Same Problem Other Video Games Have
 Source: ComicBook.com | Status: expanded | Words: 617
 Published: 2026-11-19T19:50:36+00:00
 URL: https://comicbook.com/movies/news/whats-taking-the-bioshock-movie-so-long-director-reveals-its-the-same-problem-other-video-games-have
@@ -597,7 +643,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] 'GTA 6' Sales Have Already Surpassed Christopher Nolan's 'The Odyssey'
+[17] 'GTA 6' Sales Have Already Surpassed Christopher Nolan's 'The Odyssey'
 Source: The Hollywood Reporter | Status: expanded | Words: 480
 Published: 2026-11-19T19:47:56+00:00
 URL: https://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454
@@ -625,7 +671,7 @@ Going back to that question up top, Rockstar Games is likely disinclined to risk
 As Strauss Zelnick, the CEO of Rockstar's parent company Take-Two Interactive, told The David Rubenstein Show earlier this month: "We're very careful about line extensions because this is a creative company and our goal is to make the best entertainment on earth, entertainment we're always proud of. We would make a movie or television show based on our intellectual property if our creative teams were passionate about it, if they thought they would somehow engage and delight our consumers. It's a high bar to do that. And of course, there's always a risk of failure. So we don't rule it out, but we're very, very selective."
 
 ============================================================
-[16] Mary Steenburgen, Kyra Sedgwick &#038; Sophia Bush Set For Indie 'Kindred Spirits'; Hilary Swank Among Producers
+[18] Mary Steenburgen, Kyra Sedgwick &#038; Sophia Bush Set For Indie 'Kindred Spirits'; Hilary Swank Among Producers
 Source: Deadline | Status: expanded | Words: 556
 Published: 2026-11-19T19:47:34+00:00
 URL: https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419
@@ -651,7 +697,7 @@ Kindred Spirits marks the fourth feature from the NY-based Johnson, who produced
 Recent acting credits for Swank, the Academy Award-winning star of Million Dollar Baby and Boys Don't Cry , include Yellowjackets and Ordinary Angels . Alongside her onscreen work, she's exec produced films and TV series like The Good Mother , Hulu&#x2019;s Alaska Daily and the lauded indie drama What They Had . She is repped by CAA and Entertainment 360.
 
 ============================================================
-[17] Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook
+[19] Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook
 Source: Variety | Status: expanded | Words: 1318
 Published: 2026-11-19T19:40:00+00:00
 URL: https://variety.com/2026/film/awards/the-odyssey-dune-you-can-see-everything-best-picture-race-1236952487
@@ -721,7 +767,7 @@ A few others are flying under the radar but still looking for a defining moment 
 The lesson of the past few seasons is that the race is never settled in November. It just looks that way.
 
 ============================================================
-[18] Marvel's Incredible Hulk Got the Worst Kind of TV Ending, But Returned Like No One Expected
+[20] Marvel's Incredible Hulk Got the Worst Kind of TV Ending, But Returned Like No One Expected
 Source: ComicBook.com | Status: expanded | Words: 949
 Published: 2026-11-19T19:40:00+00:00
 URL: https://comicbook.com/tv-shows/feature/marvels-incredible-hulk-got-the-worst-kind-of-tv-ending-but-returned-like-no-one-expected
@@ -749,7 +795,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] American Society Of Cinematographers Focuses In On 2027 Career Honorees
+[21] American Society Of Cinematographers Focuses In On 2027 Career Honorees
 Source: Deadline | Status: expanded | Words: 768
 Published: 2026-11-19T19:36:23+00:00
 URL: https://deadline.com/2026/11/american-society-of-cinematographers-2027-career-honorees-1237229325
@@ -779,7 +825,7 @@ Julianne Grosso Grosso will receive the ASC Award of Distinction for her pivotal
 The Tiffen Company Tiffen will receive the Curtis Clark Technology Award in recognition of its nearly nine decades of innovation and its enduring impact on cinematography. From the Golden Age of Hollywood to today&#x2019;s digital production environments, Tiffen&#x2019;s technologies have helped shape the look and movement of countless films and television productions, providing filmmakers with the tools to bring their creative visions to life. Renowned for its pioneering optical filtration technology, Tiffen&#x2019;s contributions extend beyond the lens to include more than 25 years of advancing Steadicam camera stabilization systems and the continued evolution of Lowel lighting solutions since 2009. Together, these innovations have empowered generations of cinematographers to shape, capture and illuminate their images with greater creative freedom. The company has been recognized with numerous honors from the Academy of Motion Picture Arts and Sciences, as well as multiple Emmy Awards for its contributions.
 
 ============================================================
-[20] CBS Inks New Deal to Air Kennedy Center Honors
+[22] CBS Inks New Deal to Air Kennedy Center Honors
 Source: The Hollywood Reporter | Status: expanded | Words: 492
 Published: 2026-11-19T19:35:27+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/cbs-kennedy-center-honors-new-deal-1236759479
@@ -813,7 +859,7 @@ The 49th Kennedy Center Honors will be produced by Den of Thieves, with Jesse Ig
 Directing the special will be Micah Bickham, while Cheche Alara will serve as music producer and music director.
 
 ============================================================
-[21] Netflix Confirms Grendel Animated Series Based on the Cult Comic Book With First Look
+[23] Netflix Confirms Grendel Animated Series Based on the Cult Comic Book With First Look
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-19T19:34:52+00:00
 URL: https://comicbook.com/tv-shows/news/netflix-confirms-grendel-animated-series-based-on-the-cult-comic-book-with-first-look
@@ -843,7 +889,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Meta Launches 150-Plus 3D Movies to Rent and Buy on Quest VR Headsets, With Thousands More Coming in 2027
+[24] Meta Launches 150-Plus 3D Movies to Rent and Buy on Quest VR Headsets, With Thousands More Coming in 2027
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-19T19:33:53+00:00
 URL: https://variety.com/2026/digital/news/meta-3d-movies-rent-buy-quest-vr-headsets-1236953488
@@ -867,7 +913,7 @@ Meta continues to push the VR headset as a premium home-theater experience. With
 Watching "Hit Me Hard and Soft: The Tour" in 3D on Meta Quest, "you can stand alongside Billie, look out at the crowd, and feel like part of the show," according to Meta. "Getting those shots took more than pointing cameras at a stage. Billie performs on a 360-degree stage surrounded by the audience, so Cameron's Lightstorm Vision team built a new system for filming 3D at long range, capturing the action up close without putting cameras between Billie and her fans. Another 3D camera on stage puts you right beside her."
 
 ============================================================
-[23] Nat Geo Explores The Unabomber’s Brother, Somali Pirates &#038; Hantavirus In New Doc Slate
+[25] Nat Geo Explores The Unabomber’s Brother, Somali Pirates &#038; Hantavirus In New Doc Slate
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-19T19:30:00+00:00
 URL: https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342
@@ -897,7 +943,7 @@ Hijacked: The Real Captain Phillips comes from Curious Films. The three-part ser
 Christian Collerton is series director, Dov Freedman, Jessie Versluys and Jamal Osman exec produce for Curious Films and Carolyn Payne exec produces for Nat Geo.
 
 ============================================================
-[24] New 'Serendipity' Movie Casts Auli‘i Cravalho (EXCLUSIVE)
+[26] New 'Serendipity' Movie Casts Auli‘i Cravalho (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 383
 Published: 2026-11-19T19:30:00+00:00
 URL: https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411
@@ -919,7 +965,7 @@ Michael Showalter is attached to direct "Serendipity." Marc Klein, who wrote the
 The original "Serendipity" starred John Cusack and Kate Beckinsale. In the film, their characters meet one night in New York and decide to leave the chance of meeting again up to fate. They ultimately go searching for each other years later despite being in relationships with other people. The film was a box office success, grossing over $77 million on a reported budget of $28 million.
 
 ============================================================
-[25] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
+[27] Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66
 Source: Variety | Status: expanded | Words: 364
 Published: 2026-11-19T19:25:35+00:00
 URL: https://variety.com/2026/tv/news/larry-poindexter-dead-swat-days-of-our-lives-1236952702
@@ -943,7 +989,7 @@ In addition to acting, he was also the lead singer and songwriter for the band "
 Poindexter is survived by his wife, casting director Carol Kritzer, and their two sons.
 
 ============================================================
-[26] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
+[28] Fans Were Speculating About Val’s Relationships On DWTS After Suspension. What An Insider Said
 Source: CinemaBlend | Status: expanded | Words: 207
 Published: 2026-11-19T19:19:50+00:00
 URL: https://www.cinemablend.com/television/fans-speculating-val-relationships-dwts-after-suspension-insider
@@ -959,7 +1005,7 @@ There you have it. If this source is to be believed, it sounds like there isn't 
 When Chmerkovskiy returned to the Ballroom after his one-week suspension, footage arrived online of him and Carrie Ann Inaba burying the hatchet between shots. That would also seem to point at things being resolved, but there's still plenty of chatter online about Val.
 
 ============================================================
-[27] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
+[29] GTA 6 Doesn't Start in Vice City, But Here's When You Can Expect to Get There
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-19T19:15:29+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-vice-city-when-do-you-visit
@@ -987,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
+[30] ‘Wild Things’ First Look: Jude Law &#038; Andrew Garfield Become Siegfried &#038; Roy In Apple TV’s Las Vegas Limited Series
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-19T19:13:44+00:00
 URL: https://theplaylist.net/wild-things-jude-law-andrew-garfield-siegfried-roy-first-look-20261119
@@ -999,7 +1045,7 @@ CONTENT / EXTRACTED DETAILS:
 Apple TV is bringing one of Las Vegas’ most extravagant, bizarre, and ultimately tragic show-business stories to television. The streamer has unveiled the first look at “ Wild Things ,” its upcoming limited series starring Jude Law and Andrew Garfield as legendary illusionists Siegfried & Roy , while announcing an April 16, 2027, premiere date. And what better place to introduce a series about two of Vegas’ most flamboyant entertainers than the city itself? Continue reading ‘Wild Things’ First Look: Jude Law & Andrew Garfield Become Siegfried & Roy In Apple TV’s Las Vegas Limited Series at The Playlist.
 
 ============================================================
-[29] 'The Gilded Age' Renewed For Season 5 At HBO
+[31] 'The Gilded Age' Renewed For Season 5 At HBO
 Source: Deadline | Status: expanded | Words: 460
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344
@@ -1019,7 +1065,7 @@ Viewership for Season 4 has grown week over week, with Episode 3, Peggy's weddin
 &#x201C;Julian Fellowes and the cast of The Gilded Age have once again captured the zeitgeist this fall, delivering another captivating, unmissable season, and we love how our growing audience has continued to embrace the series year after year. We can&#x2019;t wait to return to 61st Street, as the Russells, van Rhijns and Kirklands continue to wrestle with the cost of ascent, while we expand the canvas and deepen the operatic stakes for these beloved characters," said Francesca Orsi, President, HBO Drama Series and Films.
 
 ============================================================
-[30] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
+[32] Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With 'The Lost Boys', 'The Rocky Horror Show', 'Schmigadoon!', 'Wicked' &#038; More
 Source: Deadline | Status: expanded | Words: 441
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216
@@ -1047,7 +1093,7 @@ The parade will also feature performances by Natasha Bedingfield, Baha Men, Blue
 The Macy&#x2019;s Thanksgiving Day Parade broadcast is produced by Universal Television in conjunction with Done + Dusted Inc. Katy Mullan and Liz Kelly serve as executive producers, with RJ Durrell, Nick Flores, and Patrick Menton serving as co-executive producers.
 
 ============================================================
-[31] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
+[33] Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios
 Source: Deadline | Status: expanded | Words: 663
 Published: 2026-11-19T19:00:00+00:00
 URL: https://deadline.com/2026/11/nikki-glaser-netflix-partnership-netflix-is-a-joke-studios-1237229256
@@ -1077,7 +1123,7 @@ Speaking to her new deal, Glaser said, "Netflix gave me some of my earliest and 
 The comedian is represented by WME, Brillstein Entertainment Partners and Ginsburg Daniels Kallis.
 
 ============================================================
-[32] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
+[34] Nikki Glaser Signs Deal With Newly Created Netflix Is a Joke Studios
 Source: The Hollywood Reporter | Status: expanded | Words: 474
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nikki-glaser-overall-deal-netflix-1236759294
@@ -1103,7 +1149,7 @@ Added Robbie Praw, Netflix vp stand-up and comedy formats: "I first met Nikki Gl
 Glaser is repped by WME, Brillstein Entertainment Partners and Ginsburg Daniels.
 
 ============================================================
-[33] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
+[35] NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley
 Source: The Hollywood Reporter | Status: expanded | Words: 451
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-thanksgiving-parade-2026-broadcast-broadway-shows-1236759417
@@ -1131,7 +1177,7 @@ Natasha Bedingfield, Baha Men, Blues Traveler, DEVO, Jimmy Fallon & The Roots, F
 Jack McBrayer, Janet McTeer, John Stamos, Melissa Joan Hart, Megan Hilty, Holly Robinson Peete and Rodney Peete are also scheduled to appear.
 
 ============================================================
-[34] 'The Gilded Age' Scores Season 5 Renewal at HBO
+[36] 'The Gilded Age' Scores Season 5 Renewal at HBO
 Source: The Hollywood Reporter | Status: expanded | Words: 463
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/gilded-age-renewed-season-5-hbo-1236759400
@@ -1157,7 +1203,7 @@ The show's sprawling cast is led by Carrie Coon, Christine Baranski, Cynthia Nix
 Fellowes executive produces The Gilded Age with Salli Richardson-Whitfield (who also directs), Warfield, Gareth Neame, David Crockett, Robert Greenblatt, Kate Churchill, Davita Scarlett and Elaine Aronson. Erica Armstrong Dunbar and Holly Rymon are co-EPs.
 
 ============================================================
-[35] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
+[37] Where to Watch 'Canada's Drag Race' Season 7 Online in the U.S.
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-19T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-canadas-drag-race-in-the-us-season-7-streaming-vpn-1236758702
@@ -1185,7 +1231,7 @@ In fact, Proton VPN has servers in more than 140 countries to access movies and 
 Twelve drag artists are competing for $100,000 (CAD) and title of "Canada's Next Drag Superstar." The cast of Canada's Drag Race season seven includes:
 
 ============================================================
-[36] Watermelon Pictures Buys Zach Woods' 'The Accompanist,' Starring Susan Sarandon and Aubrey Plaza
+[38] Watermelon Pictures Buys Zach Woods' 'The Accompanist,' Starring Susan Sarandon and Aubrey Plaza
 Source: Variety | Status: expanded | Words: 378
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474
@@ -1209,7 +1255,7 @@ The distribution deal was initiated by Audrey Delaney, marketing executive at Wa
 &#x201C;We fell in love with 'The Accompanist' because beneath its humor, mystery and wonderfully strange edges is an incredibly moving story about the people who find one another when they need it most,&#x201D; said Hamza Ali, Co-Founder of Watermelon Pictures. &#x201C;We&#x2019;re thrilled to bring this beautiful film to audiences across the country.&#x201D;
 
 ============================================================
-[37] 'Gilded Age' Scores Early Season 5 Renewal at HBO
+[39] 'Gilded Age' Scores Early Season 5 Renewal at HBO
 Source: Variety | Status: expanded | Words: 570
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/gilded-age-renewed-season-5-hbo-1236953443
@@ -1233,7 +1279,7 @@ The official description of Season 4 states, "Bertha Russell (Coon) changed Soci
 Julian Fellowes is the creator, writer, and executive producer of "The Gilded Age," with Sonja Warfield also writing and executive producing. Salli Richardson-Whitfield serves as director and executive producer. Additional executive producers are Gareth Neame, David Crockett, Robert Greenblatt, Kate Churchill, Davita Scarlett, and Elaine Aronson. Erica Armstrong Dunbar and Holly Rymon are co-executive producers. The series is co-produced by HBO and Universal Television.
 
 ============================================================
-[38] Nikki Glaser to Develop Scripted Series at Netflix, Inks Partnership With New Netflix Is a Joke Studios
+[40] Nikki Glaser to Develop Scripted Series at Netflix, Inks Partnership With New Netflix Is a Joke Studios
 Source: Variety | Status: expanded | Words: 530
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/nikki-glaser-netflix-scripted-series-specials-1236952642
@@ -1261,7 +1307,7 @@ Indeed, Glaser's career took off after her scathing appearance at Netflix's 2024
 Glaser is represented by WME, Brillstein Entertainment Partners and Ginsburg Daniels Kallis LLP.
 
 ============================================================
-[39] Brooks Nader Joins ‘Playmates’ Movie at Searchlight (EXCLUSIVE)
+[41] Brooks Nader Joins ‘Playmates’ Movie at Searchlight (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 341
 Published: 2026-11-19T19:00:00+00:00
 URL: https://variety.com/2026/film/news/brooks-nader-playmates-movie-searchlight-1236952489
@@ -1285,7 +1331,7 @@ She is repped by WME, Dixon Talent, Inc. and by Leigh Fidler, Chief Brand Office
 Searchlight Pictures is the studio behind &#x201C;Playmates.&#x201D; As mentioned above, Nicholson will write and direct. Alex Orlovsky and Duncan Montgomery will produce via High Frequency Entertainment, with Depp producing in addition to starring. Searchlight vice president of production Richard Ruiz and creative executive Cornelia Burleigh will oversee the project for the studio. Ruiz and Burleigh report into the Heads of Production and Development, DanTram Nguyen and Katie Goodson-Thomas.
 
 ============================================================
-[40] Susan Sarandon &#038; Aubrey Plaza Drama 'The Accompanist' Gets North American Deal With Watermelon Pictures
+[42] Susan Sarandon &#038; Aubrey Plaza Drama 'The Accompanist' Gets North American Deal With Watermelon Pictures
 Source: Deadline | Status: expanded | Words: 401
 Published: 2026-11-19T18:57:26+00:00
 URL: https://deadline.com/2026/11/susan-sarandon-film-accompanist-us-deal-watermelon-pictures-1237229354
@@ -1307,7 +1353,7 @@ Watermelon specialises in releasing marginalized narratives and politically sens
 blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[41] Lance Broadway, Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
+[43] Lance Broadway, Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43
 Source: The Hollywood Reporter | Status: expanded | Words: 406
 Published: 2026-11-19T18:56:40+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/lance-broadway-dead-olympus-has-fallen-mets-white-sox-1236759442
@@ -1337,7 +1383,7 @@ Joining the cast of Olympus Has Fallen &#x201C;was the same feeling as walking i
 &#x201C;I try to take that same approach on set of, you&#x2019;ve never done this before, you don&#x2019;t know what you&#x2019;re talking about, so just be seen and say &#x2018;Yes sir, Yes ma&#x2019;am&#x2019; and do not be heard unless there is an appropriate time.&#x201D;
 
 ============================================================
-[42] DC's Original Superboy Series Began With This Rare Comic, and One of Its Finest Copies Is Up for Auction
+[44] DC's Original Superboy Series Began With This Rare Comic, and One of Its Finest Copies Is Up for Auction
 Source: ComicBook.com | Status: expanded | Words: 1678
 Published: 2026-11-19T18:55:00+00:00
 URL: https://comicbook.com/collectibles/news/dcs-original-superboy-series-began-with-this-rare-comic-and-one-of-its-finest-copies-is-up-for-auction
@@ -1375,7 +1421,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[43] Roseanne Writer Said She Made Things ‘Hard’ On Set. Why He Still Felt Bad For Her
+[45] Roseanne Writer Said She Made Things ‘Hard’ On Set. Why He Still Felt Bad For Her
 Source: CinemaBlend | Status: expanded | Words: 293
 Published: 2026-11-19T18:47:43+00:00
 URL: https://www.cinemablend.com/television/roseanne-writer-she-made-things-hard-owhy-he-still-felt-bad-for-her
@@ -1393,7 +1439,7 @@ I like that he ends with the work, because there's a reason people are still tal
 Jacobson also recalled that Barr learned to act quickly, with considerable help from Goodman and Metcalf. That's a pretty fantastic pair of co-workers to have when you're figuring out sitcom acting on the fly. Their chemistry helped make the Conners believable. Interestingly, Goodman has also spoken about defending his former co-star , so Jacobson isn't the only person who worked with Barr and still has some sympathy for her.
 
 ============================================================
-[44] Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in 'The Nightingale' Trailer
+[46] Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in 'The Nightingale' Trailer
 Source: The Hollywood Reporter | Status: expanded | Words: 304
 Published: 2026-11-19T18:46:45+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/the-nightingale-trailer-elle-fanning-dakota-fanning-hannah-1236759409
@@ -1417,7 +1463,7 @@ Hailing from TriStar Pictures and Hello Sunshine, The Nightingale counts Dakota 
 This marks the first onscreen project to star the two real-life Fanning sisters. Elle Fanning, 28, can currently be seen in The Hunger Games: Sunrise on the Reaping and earned an Emmy Award nomination for the series Margo's Got Money Troubles . Dakota Fanning, 32, similarly landed an Emmy nomination at this year's ceremony for her role in All Her Fault .
 
 ============================================================
-[45] 'I Play Rocky' Stars Unite With Original 'Rocky' Producer for Film's 50th Anniversary Celebration
+[47] 'I Play Rocky' Stars Unite With Original 'Rocky' Producer for Film's 50th Anniversary Celebration
 Source: The Hollywood Reporter | Status: expanded | Words: 753
 Published: 2026-11-19T18:45:42+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-stars-rocky-producer-50th-anniversary-1236758733
@@ -1443,7 +1489,7 @@ Farrelly also called I Play Rocky "the best script I ever read," noting, "the th
 Ippolito closed out the chat by musing that Rocky 's success is because "the underdog story is a very universal one. I think everybody has a Rocky inside of them. I think we all have our own personal relationship to this story and to this character," adding, "it's an incredible, incredible film. You guys got great taste being here tonight."
 
 ============================================================
-[46] Connor Storrie Sci-Fi Thriller 'April X' Sets HBO Max Streaming Release Date
+[48] Connor Storrie Sci-Fi Thriller 'April X' Sets HBO Max Streaming Release Date
 Source: Deadline | Status: expanded | Words: 273
 Published: 2026-11-19T18:43:57+00:00
 URL: https://deadline.com/2026/11/connor-storrie-april-x-hbo-max-streaming-release-date-1237229307
@@ -1465,7 +1511,7 @@ The film is directed by Parandi, written by Michel K. Parandi and Jack Coulton, 
 You can watch the trailer below.
 
 ============================================================
-[47] Siegfried &#038; Roy Series 'Wild Things' Gets Spring Release; Apple TV Teases Jude Law &#038; Andrew Garfield As "Masters Of The Impossible"
+[49] Siegfried &#038; Roy Series 'Wild Things' Gets Spring Release; Apple TV Teases Jude Law &#038; Andrew Garfield As "Masters Of The Impossible"
 Source: Deadline | Status: expanded | Words: 459
 Published: 2026-11-19T18:41:39+00:00
 URL: https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337
@@ -1489,7 +1535,7 @@ Tony Leondis serves as executive producer for Another Hoffman Story and Kathy Ci
 Wild Things: Siegfried & Roy premiered in 2022 and was the first in-depth podcast series about the most famous and controversial magicians in history, who were widely misunderstood, frequently satirized and feverishly criticized. The podcast goes behind the velvet curtain to examine the pop culture icons, lionized by a global fan base for more than 40 years, to deconstruct the illusions they created, the empire they constructed and what really happened on the night that a tiger attack ended their reign.
 
 ============================================================
-[48] 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027
+[50] 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027
 Source: The Playlist | Status: summary_only | Words: 94
 Published: 2026-11-19T18:39:19+00:00
 URL: https://theplaylist.net/wolf-creek-3-sneak-preview-clip-outback-serial-killer-20261119
@@ -1499,56 +1545,4 @@ When it comes to 21st-century slashers, only a few measure up to the antiheroes 
 
 CONTENT / EXTRACTED DETAILS:
 When it comes to 21st-century slashers, only a few measure up to the antiheroes of the genre's heyday, like Jason Voorhees, Freddy Krueger, and Michael Myers. Outback killer Mick Taylor is one of them, and his debut, 2005's " Wolf Creek ," is also one of the best horror films of the 2000s. Since then, however, Taylor's only returned onscreen twice: in the 2014 sequel and a short-lived TV show that ran from 2016-2017. Continue reading 'Wolf Cre3k' Sneak Preview Clip: Outback Serial Killer Mick Taylor Returns On March 19, 2027 at The Playlist.
-
-============================================================
-[49] Former Cineworld CEO Mooky Greidinger Leads Acquisition of Showcase Cinemas in U.K., Inks Major Imax Deal
-Source: Variety | Status: expanded | Words: 326
-Published: 2026-11-19T18:31:20+00:00
-URL: https://variety.com/2026/biz/global/mooky-greidinger-acquisitionshowcase-cinemas-uk-imax-1236953380
-------------------------------------------------------------
-SUMMARY:
-Mooky Greidinger, the former CEO of cinema giant Cineworld who stepped away from the company in 2023 as it emerged from post-pandemic bankruptcy, is back in the U.K. exhibition space. The Israeli businessman, who oversaw Cineworld's acquisition of Regal Cinemas in the U.S. in 2018, has now led the acquisition of Showcase through his company […]
-
-CONTENT / EXTRACTED DETAILS:
-Mooky Greidinger , the former CEO of cinema giant Cineworld who stepped away from the company in 2023 as it emerged from post-pandemic bankruptcy, is back in the U.K. exhibition space.
-
-The Israeli businessman, who oversaw Cineworld's acquisition of Regal Cinemas in the U.S. in 2018, has now led the acquisition of Showcase through his company Global City U.K. Showcase has 16 sites around the U.K. Related Stories Robert Pattinson Is Officially James Bond: Meet the New 007 Actor Why Denis Villeneuve Cast Robert Pattinson as James Bond: 'I Need to Believe This Man Is a Killer'
-
-"Global City U.K. is delighted to confirm that it has completed the purchase of Showcase Cinemas UK," a spokesman said in a statement. "The Showcase circuit in the U.K. s an exceptional operation of sixteen multiplex cinemas, with a brand embedded in the appeal of the big screen, bringing people together through a shared love of film." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-News of the acquisition was initially revealed in an announcement from Imax , which said that Showcase, under leadership from "longstanding Imax supporter" Greidinger, had signed the single largest deal for new Imax locations in the U.K.
-
-Under the agreement, Showcase has ordered 13 new Imax and laser systems, 12 across locations in the U.K. and one additional European location.
-
-&#x201C;I&#x2019;ve been in the Imax business for decades and the value of its technology, brand, and strategic partnership to exhibitors have grown exponentially in that time,&#x201D; said Greidinger.
-
-&#x201C;There is no doubt that Imax plays a significant role in the results of the industry and I am sure it will continue to grow and attract new audience and become even more significant in the coming years. I look forward to working with Rich and his team and making the Imax experience a cornerstone of the new Showcase Cinemas in the U.K..&#x201D;
-
-============================================================
-[50] Pokemon TCG Reveals First Look at Flowing Fists Set With Release Date
-Source: ComicBook.com | Status: expanded | Words: 541
-Published: 2026-11-19T18:30:55+00:00
-URL: https://comicbook.com/gaming/news/pokemon-tcg-flowing-fists-release
-------------------------------------------------------------
-SUMMARY:
-Pokemon fans have today been given their first look at Flowing Fists, which is the first new expansion for the Pokemon Trading Card Game launching in 2027. Earlier this month, Pokemon TCG released Delta Reign, which was the sixth expansion as part of the ongoing Mega Evolution set. And while many Pokemon TCG fans are […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Pokemon fans have today been given their first look at Flowing Fists , which is the first new expansion for the Pokemon Trading Card Game launching in 2027. Earlier this month, Pokemon TCG released Delta Reign , which was the sixth expansion as part of the ongoing Mega Evolution set. And while many Pokemon TCG fans are still trying to collect all of the biggest cards that are part of Delta Reign , we now have a better idea of what's coming down the line.
-
-Shown off on social media, Pokemon TCG revealed a handful of the first cards that will be part of Flowing Fists . This time around, Mega Lucario Z will be the mascot for the expansion, which makes sense given its name. Mega Lucario Z will be joined by Mega Absol Z, Mega Glimmora, and Mega Garchomp as some of the most notable Pokemon to receive new EX cards. In total, Flowing Fists will have over 110 cards, with 9 EX cards, 11 IR cards, 18 ultra rare cards, and 6 SIR cards.
-
-Step into new powers and unlock the potential of Mega Lucario Z ex and other cool Pokémon in Pokémon TCG: Mega Evolution—Flowing Fists! 👊 Available starting February 6! Subsequent Pokémon TCG expansions will continue to release on Saturdays. pic.twitter.com/OnIVEF6C9a
-
-As for its release, Flowing Fists will also be making a change from how Pokemon TCG has operated in the past. This expansion will be launching early next year on February 6, 2027. While this might not seem like anything crazy, Flowing Fists will actually be releasing on a Saturday. Historically, new Pokemon TCG expansions and sets have released on Fridays, which means that Flowing Fists is making a slight deviation from the norm. Moving forward, these Saturday releases will become standard for future Pokemon TCG sets as well.
-
-Per usual, Flowing Fists will also be sold in a number of different ways. Outside of standard booster packs, this new Pokemon TCG expansion will also launch with an Elite Trainer Box, which will notably come with a Riolu promo card, a collector's box, and unique card sleeves. Booster boxes, booster bundles, and a Build & Battle bundle will also be released, allowing fans to get their hands on numerous packs at once.
-
-Currently, pre-orders for Pokemon TCG's Flowing Fists expansion haven't gone live, but that should change as we approach its February launch. Pre-release events for the expansion are expected to transpire between January 23rd and January 31st. As such, if you want to be amongst the first to get your hands on these new cards, you'll want to attend one of these events for yourself.
-
-How do you feel about Flowing Fists based on what we've seen so far? And which card in this set are you planning to chase above the rest? Be sure to let me know for yourself down in the comments section.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
