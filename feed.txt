@@ -1,9 +1,65 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T18:17:03.133Z
+Last Updated: 2026-11-19T18:19:04.921Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join 'Twenty-Seven' (EXCLUSIVE)
+[1] Anthropic Shares Pop, Then Pull Back In Volatile Debut As AI Giant Goes Public
+Source: Deadline | Status: expanded | Words: 581
+Published: 2026-11-19T18:17:09+00:00
+URL: https://deadline.com/2026/11/anthropic-ai-volatile-ipo-shares-trading-nasdaq-market-1237229045
+------------------------------------------------------------
+SUMMARY:
+Anthropic shares jumped over 30% in the first minutes of trade at their Nasdaq debut before backtracking as the AI pioneer splashed down with the largest ever initial public offering in corporate history. The first publicly traded, pure play AI company priced its hotly anticipated IPO last night at $83 a share, well above the […]
+
+CONTENT / EXTRACTED DETAILS:
+Anthropic shares jumped over 30% in the first minutes of trade at their Nasdaq debut before backtracking as the AI pioneer splashed down with the largest ever initial public offering in corporate history.
+
+The first publicly traded, pure play AI company priced its hotly anticipated IPO last night at $83 a share, well above the $70 to $78 range initially anticipated, and valuing the company at $1.5 trillion. It opened just before noon Thursday up 30% at about $111, pushing its market value to $2 trillion, before ascending to $115. The stock, listed under the ticker symbol ANT, then skidded to $95 rose, and dipped again. Shares are currently changing hands at about $95, still above where the IPO priced, but also well off their highs. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027 News 'Behemoth!'s Humanity Gave Pedro Pascal "Tremendous Amount Of Hope" Amid AI Boom, Tony Gilroy Wants To "Blow Up AI Centers... At The Voting Box"
+
+The listing is seen as a litmus test of investor sentiment on the AI sector, which has taken its lumps lately amid heavy spending, a string of outages across sectors, growing public pushback on data centers, safety and jobs, and the ouster of Nvidia CEO Jensen Huang from the company he founded. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The IPO raised more than $107 billion, the largest capital raise at an initial public offering on record, ahead of Elon Musk SpaceX&#x2019;s $86 billion in June. The base deal covered 825 million Class A shares, some 800 million from the seven co-founders, with a $26 billion private placement layered on top.
+
+Anthropic CEO and co-founder Dario Amodei with top executives and investors rang the opening bell at Nasdaq headquarters in Times Square Thursday with the image beamed onto a jumbotron on the building&#x2019;s fa&#xE7;ade. Below, a crowd of onlookers, media and protestors gathered. Signage at the modest #StopTechOligarchs demonstration said the IPO endangered workers pension funds and the global economy and noted the company&#x2019;s own language citing potentially catastrophic risk of AI.
+
+In a note last night, Dan Ives, partner and senior managing director at Yorkville Ives & Co., called the $83 a share pricing &#x201C;a clean read on demand: investors wanted exposure to a frontier lab at scale and the pricing reflects it, following SpaceX five months ago as the second core tech stalwart of this cycle to reach the public markets, and we expect OpenAI to follow in 2027." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The sector "is going through a very turbulent, white-knuckle period,&#x201D; he acknowledged. But &#x201C;that does not change our longer-term view that $3 trillion to $4 trillion of capex will be spent over the next few years on the AI Revolution, and this sets the stage for the next phase of tech and infrastructure investment with Anthropic a central player in the buildout. phase of tech and infrastructure investment with Anthropic a central player in the buildout.&#x201D;
+
+============================================================
+[2] NCIS: Origins Star Is VERY Passionate About Getting Season 4, But The Way He Words It Didn’t Reassure Me
+Source: CinemaBlend | Status: expanded | Words: 240
+Published: 2026-11-19T18:16:52+00:00
+URL: https://www.cinemablend.com/television/ncis-origins-kyle-schmid-passionate-getting-season-4-way-he-words-didnt-reassure-me
+------------------------------------------------------------
+SUMMARY:
+I'm already stressed.
+
+CONTENT / EXTRACTED DETAILS:
+Even though it feels like NCIS : Origins just premiered on the 2026 TV schedule , the series is already winding down its third season. Along with a few other CBS shows, Origins ’ season was cut short due to scheduling. Instead of a full season, it’s only getting ten episodes and will be replaced by NCIS: Sydney in January , which is also getting just ten episodes. Now, with the Season 3 finale fast approaching, Kyle Schmid is very passionate about getting a Season 4 renewal, but his words don’t exactly reassure me.
+
+As a day one Origins fan, I would love nothing more than to never see this show end, especially because it’s gotten better the longer it’s been on. Even with fewer episodes, Origins has been pumping out some great storylines, and that’s going to continue until the very end of Season 3. Plus, while Schmid couldn’t go into detail about what’s to come, his comments make it clear that Origins cannot end any time soon:
+
+This has me very concerned, because Schmid is implying that we're going to be dying to see what happens after Season 3 ends. And let me tell you, I absolutely hate cliffhangers, and I hold grudges against them when shows are canceled right after one, because I know we'll never get a resolution. So, if Origins ends in a way that leaves me ravenous for more, it better not get axed.
+
+============================================================
+[3] Hallmark’s Lacey Chabert Channeled A Beloved Disney Princess For Her Disney World Movie Premiere, And I’m Obsessed
+Source: CinemaBlend | Status: expanded | Words: 222
+Published: 2026-11-19T18:15:56+00:00
+URL: https://www.cinemablend.com/television/hallmark-lacey-chabert-channeled-belle-disney-princess-disney-world-movie-premiere-holiday-ever-after
+------------------------------------------------------------
+SUMMARY:
+What a dress!
+
+CONTENT / EXTRACTED DETAILS:
+Lacey Chabert might be the so-called “Queen of Hallmark,” but recently, she proved she has the iconic style of a Disney princess. That's right: the upcoming Hallmark movie , Holiday Ever After: A Disney World Wish Come True , which is set at Disney World, is such a big deal that they rolled out a red carpet for the cast, and Chabert did not disappoint with her look for it. In fact, she knocked it out of the park by channeling a beloved Disney Princess for the event.
+
+The rose appliqués are definitely the stars of the dress. Their coral, salmon, and deep red colors pop against the glittery white of the gown. There are also a smattering of smaller blossoms decorated throughout, tying the whole dress together. And the back is just as stunning as the front, with an elegant train featuring the same roses and delicate white buttons down the back of the bodice. It might not be as iconic as the animated film’s yellow gown, but it’s still more than fit for a princess.
+
+In addition to dazzling the crowd, Chabert also filmed a “get-ready-with-me” video with the official Disney Wedding’s Instagram page, where she shared some of her favorite Christmas memories and revealed that Belle is her favorite princess. So, this look really was a dream for her.
+
+============================================================
+[4] Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join 'Twenty-Seven' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 380
 Published: 2026-11-19T18:15:00+00:00
 URL: https://variety.com/2026/film/news/twenty-seven-cast-poorna-jagannathan-clark-gregg-isabela-ferrer-1236952647
@@ -31,7 +87,7 @@ Jagannathan is repped by Gersh, Untitled, and Hansen Jacobson Teller; Gregg by G
 Vigman is represented by Innovative Artists and Trademark Talent; Tal by Innovative Artists and the Law Offices of Mark S. Temple; Nouri by BRS/Gage, Diamond Management, and Burstein Company; and Elmore by Gersh, OPE Partners, and Hansen Jacobson Teller.
 
 ============================================================
-[2] THR Celebrates Hollywood's New Wave of Stars at Next Gen Dinner
+[5] THR Celebrates Hollywood's New Wave of Stars at Next Gen Dinner
 Source: The Hollywood Reporter | Status: expanded | Words: 547
 Published: 2026-11-19T18:11:01+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hollywoods-new-wave-of-stars-next-gen-dinner-2026-1236759168
@@ -55,7 +111,7 @@ Claudine Cazian, director of strategic partnerships at Meta, noted the company w
 "What you do and what you give to all of us, it opens hearts, it opens minds, and what you do is push culture forward and that's not easy to do," she continued. "Sometimes it can even be scary, so we want to thank you collectively for your craft, for your time, for your energy, for your talent and for your voice," as the guests raised their glasses. The evening capped with dinner &#x2014; featuring portobello mushroom bolognese and citrus chile braised beef short ribs as the main dishes &#x2014; and more conversation, with Caylee Cowan, Jessica Belkin, John Owen Lowe, celebrity groomer Aika Flores , Abubakr Ali, Milo Callaghan, Yasmeen Fletcher, La&#xEB;titia Hollard, Madison Iseman and Lilah Pate rounding out the guest list.
 
 ============================================================
-[3] Bond Girl Lea Seydoux Says ‘I Don’t Really Care’ Who Becomes 007's New Female Lead: ‘It’s Become American’ Now
+[6] Bond Girl Lea Seydoux Says ‘I Don’t Really Care’ Who Becomes 007's New Female Lead: ‘It’s Become American’ Now
 Source: Variety | Status: expanded | Words: 420
 Published: 2026-11-19T18:04:21+00:00
 URL: https://variety.com/2026/film/global/bond-girl-lea-seydoux-dont-really-care-007-1236953369
@@ -85,7 +141,7 @@ Seydoux&#x2019;s character played a pivotal role in Craig&#x2019;s final Bond ou
 The French actor, who broke out internationally with Abdellatif Kechiche&#x2019;s Palme d&#x2019;Or-winning &#x201C;Blue Is the Warmest Colour,&#x201D; has worked with famed international auteurs including Wes Anderson, David Cronenberg and Yorgos Lanthimos.
 
 ============================================================
-[4] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV
+[7] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV
 Source: Variety | Status: expanded | Words: 1833
 Published: 2026-11-19T18:00:26+00:00
 URL: https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037
@@ -121,7 +177,7 @@ Driving the action forward are a pair of Filipino hitmen, the Verdusco brothers 
 How is the ultraviolent climax? It&#x2019;s kind of spectacular. Tarantino doesn&#x2019;t use it to rewrite history this time, but in a funny way he does an instant mini version of that. What happens to Cliff in the big fight at the end should, by all rights, have eliminated him from the earth. But it doesn&#x2019;t. It&#x2019;s just a scratch. He doesn&#x2019;t give a fuck, and he&#x2019;s still there. To put it in QT TV terms: When&#x2019;s the next episode?
 
 ============================================================
-[5] ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode
+[8] ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-19T18:00:05+00:00
 URL: https://theplaylist.net/cliff-booth-further-misadventures-review-david-fincher-brad-pitt-quentin-tarantino-20261119
@@ -133,7 +189,7 @@ CONTENT / EXTRACTED DETAILS:
 There’s a strong argument to be made that if you’ve read Quentin Tarantino ’s “ Once Upon A Time In Hollywood ” novelization, “ The Further Mis-Adventures Of Cliff Booth ” shouldn’t surprise you. Tarantino’s book was shaggy and baggy, like an unedited, freehand version of the movie, full of detours, tangents, and narrative cul-de-sacs. An interesting extended curiosity, mildly entertaining in spots, but much of it probably wouldn’t have stood on its own outside the pulp novel format. Continue reading ‘The Further Mis-Adventures Of Cliff Booth’ Review: The Vibes Are Off In David Fincher’s Dark, Dank, Grubby Tarantino Episode at The Playlist.
 
 ============================================================
-[6] Gabriel Iglesias Sets Fifth Netflix Special 'Lone Star Fluffy' For Christmas Eve Release
+[9] Gabriel Iglesias Sets Fifth Netflix Special 'Lone Star Fluffy' For Christmas Eve Release
 Source: Deadline | Status: expanded | Words: 467
 Published: 2026-11-19T18:00:00+00:00
 URL: https://deadline.com/2026/11/gabriel-iglesias-new-netflix-special-premiere-date-1237229082
@@ -159,7 +215,7 @@ Iglesias is also one of the most watched comedians on YouTube with over 2.7 bill
 Iglesias is also known for starring in and exec producing the Netflix sitcom Mr. Iglesias , which ran for three seasons. In partnership with Fuse Media, he launched Fluffy TV, a family-friendly streaming television channel available on Amazon Prime, Google TV, Roku and more, in June. He is repped by CAA, Arsonhouse Entertainment and Hirsch Wallerstein Hayum.
 
 ============================================================
-[7] A “Very Human” Father-Daughter Story: ‘THR Presents’ Q&#038;A With Myrsini Aristidou on Cyprus’ First Oscar Submission, ‘Hold Onto Me’
+[10] A “Very Human” Father-Daughter Story: ‘THR Presents’ Q&#038;A With Myrsini Aristidou on Cyprus’ First Oscar Submission, ‘Hold Onto Me’
 Source: The Hollywood Reporter | Status: expanded | Words: 478
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-videos/cyprus-oscar-film-hold-onto-me-myrsini-aristidou-1236757084
@@ -189,7 +245,7 @@ It was very, very different and complicated. We didn't have the budget to shoot 
 Watch the full Q&A with Aristidou in the video above.
 
 ============================================================
-[8] It Girl India Amarteifo’s Queen’s Gambit
+[11] It Girl India Amarteifo’s Queen’s Gambit
 Source: The Hollywood Reporter | Status: expanded | Words: 809
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/india-amarteifio-interview-queen-charlotte-clarissa-1236757825
@@ -229,7 +285,7 @@ A movie musical remains on her wish list ("If you know of anyone who's doing one
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[9] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff
+[12] 'The Further Mis-Adventures of Cliff Booth' Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff
 Source: The Hollywood Reporter | Status: expanded | Words: 2000
 Published: 2026-11-19T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236759005
@@ -283,7 +339,7 @@ Courtesy of Ren Klyce's densely layered sound design, those orchestral interlude
 Ultimately, however, the key ingredient binding together a movie that seldom meets an abrupt tangent it declines to explore is Pitt. His star wattage, shit-eating grin and cowboy gait &#x2014; even with a limp and a body full of bones on which decades of stunt work have taken their toll &#x2014; are dialed up to maximum magnetism.
 
 ============================================================
-[10] Dean Koontz's Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)
+[13] Dean Koontz's Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 538
 Published: 2026-11-19T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/dean-koontz-jane-hawk-books-tv-series-monarch-media-1236953222
@@ -313,7 +369,7 @@ Monarch Media previously produced the hit Richard Linklater film "Hit Man" starr
 News of the new attempt at the Jane Hawk series comes as shows based on book characters with multiple novels to their name are more popular than ever. Just a few similar examples include "Reacher" and "Scarpetta" at Amazon, "The Lincoln Lawyer" at Netflix, and "Will Trent" at ABC.
 
 ============================================================
-[11] 'The Further Mis-Adventures Of Cliff Booth' Review: Pitt, Fincher, And Tarantino Team Up For A Rollicking Good Wild Ride Of A 'Hollywood' Follow-Up
+[14] 'The Further Mis-Adventures Of Cliff Booth' Review: Pitt, Fincher, And Tarantino Team Up For A Rollicking Good Wild Ride Of A 'Hollywood' Follow-Up
 Source: Deadline | Status: expanded | Words: 1638
 Published: 2026-11-19T18:00:00+00:00
 URL: https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009
@@ -361,7 +417,7 @@ Cast: Brad Pitt, Elizabeth Debicki, Scott Caan, Carla Gugino, Yahya Abdul-Mateen
 Running Time: 2 hours and 20 minutes
 
 ============================================================
-[12] Pokemon Winds and Waves New Leaks Reveal Brand New Feature and Battle Gimmick
+[15] Pokemon Winds and Waves New Leaks Reveal Brand New Feature and Battle Gimmick
 Source: ComicBook.com | Status: expanded | Words: 503
 Published: 2026-11-19T17:51:18+00:00
 URL: https://comicbook.com/gaming/news/pokemon-winds-and-waves-new-leaks-reveal-brand-new-feature-and-battle-gimmick
@@ -387,7 +443,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Doctor Doom Is Strong, But Chris Hemsworth’s Abs In His Latest Workout Post Are Stronger
+[16] Doctor Doom Is Strong, But Chris Hemsworth’s Abs In His Latest Workout Post Are Stronger
 Source: CinemaBlend | Status: expanded | Words: 222
 Published: 2026-11-19T17:48:35+00:00
 URL: https://www.cinemablend.com/movies/doctor-doom-strong-chris-hemsworth-abs-workout-post-stronger
@@ -403,7 +459,7 @@ Holy abs. I certainly wouldn't want to be a villain in the MCU, at least if the 
 The stakes are always high for the Avengers movies, and the last two saw the death of a number of beloved characters including Iron Man, Black Widow, Gamora, Heimdell, and Loki. Doctor Doom looks like he's going to be a wildly powerful antagonist, and there have been some fan concerns about Thor surviving Doomsday . We'll have to see what happens when the movie arrives next month, but the fact that Chris Hemsworth is looking so yoked might be a source of hope for folks who aren't ready to say goodbye to the God of Thunder.
 
 ============================================================
-[14] 'Jeopardy!' Sets Inaugural Fan Convention in Washington, D.C.
+[17] 'Jeopardy!' Sets Inaugural Fan Convention in Washington, D.C.
 Source: Variety | Status: expanded | Words: 340
 Published: 2026-11-19T17:47:40+00:00
 URL: https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378
@@ -425,7 +481,7 @@ Tickets will go on sale in early 2027, with additional programming to be announc
 &#x201C;Ever since I joined 'Jeopardy!' in 2021, I&#x2019;ve wanted to bring this extraordinary community together in a way that&#x2019;s bigger than anything we&#x2019;ve done before and give fans the chance to interact with their quiz show heroes,&#x201D; said Michael Davies, executive producer of "Jeopardy!" &#x201C;One of the remarkable things we&#x2019;ve seen through our live podcast and 'Jeopardy!' interactive events all over the country is just how much people want to come together and share their love of the game. Everyone on the team is incredibly excited to bring it all together next May.&#x201D;
 
 ============================================================
-[15] Josh Server, Yasmine Sahid and Tyler Gaca Join Tubi Horror-Comedy ‘Do You Like Me?’ — Film News in Brief
+[18] Josh Server, Yasmine Sahid and Tyler Gaca Join Tubi Horror-Comedy ‘Do You Like Me?’ — Film News in Brief
 Source: Variety | Status: expanded | Words: 964
 Published: 2026-11-19T17:47:32+00:00
 URL: https://variety.com/2026/film/news/film-news-in-brief-nov-16-2026-1236949296
@@ -483,7 +539,7 @@ Finn is an award-winning casting director. Previous recipients include actress J
 The festival will also spotlight Yale School of Music alumnus and filmmaker Charles Kaufmann, presenting his feature documentary &#x201C;Tenacity: The Story of Edwin and Elise Harleston&#x201D; alongside three of his short films.
 
 ============================================================
-[16] Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse
+[19] Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse
 Source: Deadline | Status: expanded | Words: 554
 Published: 2026-11-19T17:45:00+00:00
 URL: https://deadline.com/2026/11/kyle-greenberg-exiting-utopia-indie-film-distribution-1237228710
@@ -509,7 +565,7 @@ Greenberg is based in LA. He&#x2019;ll be with Utopia through year end.
 He also plans to scale up his own production label Stupid Co, created in 2024, alongside Greenhouse. Founded as a showcase for original work produced by Greenberg and partner Anna Maguire, Stupid Co expanded to events and experiences Cannes Dogs, Off-Viff and info labs Stupid Talks. It will release Greenberg and Maguire's co-directed feature Galicia! in 2027. The hybrid documentary-eco horror comedy, shot on location at a winery in Spain, premiered at The Downtown Festival in NYC last month. The couple&#x2019;s short films Hi! You Are Currently Being Recorded (2024) and French Lessons (2025) played about 70 festivals including Fantasia and SXSW Sydney.
 
 ============================================================
-[17] Spider-Man: Brand New Day's Rosario Dawson Reveals First Look at Her Marvel Return
+[20] Spider-Man: Brand New Day's Rosario Dawson Reveals First Look at Her Marvel Return
 Source: ComicBook.com | Status: expanded | Words: 411
 Published: 2026-11-19T17:35:25+00:00
 URL: https://comicbook.com/movies/news/spider-man-brand-new-days-rosario-dawson-reveals-first-look-at-her-marvel-return
@@ -531,7 +587,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] I Think I Should Have Seen That Bond Casting Coming When Slow Horses Dropped Its Renewal Announcement
+[21] I Think I Should Have Seen That Bond Casting Coming When Slow Horses Dropped Its Renewal Announcement
 Source: CinemaBlend | Status: expanded | Words: 404
 Published: 2026-11-19T17:34:17+00:00
 URL: https://www.cinemablend.com/streaming-news/should-have-seen-bond-casting-slow-horses-renewal-announcement-robert-pattinson-jack-lowden
@@ -549,7 +605,7 @@ It’s certainly possible for an actor to appear in multiple projects, but given
 Interestingly, despite the announcements coming almost at the same time, there are also rumors that Lowden might not be part of Seasons 9 and 10. A report in Variety calls Lowden’s return “uncertain.” I’m not sure what to make of that. The book-to-screen adaptation has been adapting one book per season, generally. Season 6 was an exception, as it combined two books , the 6th and 7th in Mick Herron’s series Slough House. That's not all, though.
 
 ============================================================
-[19] Christopher Nolan Says Fans Will Never See Deleted Scenes From 'The Odyssey': "I Want To Stand By The Film That Goes Out"
+[22] Christopher Nolan Says Fans Will Never See Deleted Scenes From 'The Odyssey': "I Want To Stand By The Film That Goes Out"
 Source: The Playlist | Status: summary_only | Words: 150
 Published: 2026-11-19T17:34:13+00:00
 URL: https://theplaylist.net/christopher-nolan-the-odyssey-deleted-scenes-20261119
@@ -561,7 +617,7 @@ CONTENT / EXTRACTED DETAILS:
 For those expecting deleted scenes on the home video release of Christopher Nolan 's " The Odyssey ,' here's some bad news. Variety reports that while there are "a lot of" them, they're not available on any of the new discs that hit stores this past Tuesday. And the scenes will never see the light of day either, because, as Nolan told The Independent in a new interview, "I don't really believe in director's cuts." READ MORE: Steven Spielberg Says 'The Odyssey' Is "One Of The Greatest Things" Matt Damon "Has Ever Done As An Actor," Also Praises Samantha Morton "There's a lot of deleted scenes scrumbled up in the wastebasket that no one will ever see," the director told the British outlet. Continue reading Christopher Nolan Says Fans Will Never See Deleted Scenes From 'The Odyssey': "I Want To Stand By The Film That Goes Out" at The Playlist.
 
 ============================================================
-[20] A Pop-Star Acting Newbie, the Afterlife and "Dirty Energy": The Making of 'La Bola Negra'
+[23] A Pop-Star Acting Newbie, the Afterlife and "Dirty Energy": The Making of 'La Bola Negra'
 Source: The Hollywood Reporter | Status: expanded | Words: 1393
 Published: 2026-11-19T17:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/making-of-la-bola-negra-directors-cast-love-story-1236757823
@@ -611,7 +667,7 @@ For Calvo, the warning is just as relevant today. &#x201C;We had it on the white
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[21] Jamie and Corinne Foxx Developing Horror Series 'Buried' as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)
+[24] Jamie and Corinne Foxx Developing Horror Series 'Buried' as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 398
 Published: 2026-11-19T17:30:00+00:00
 URL: https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466
@@ -635,7 +691,7 @@ Under the pact, Foxxhole Productions and Fox will develop the horror series &#x2
 The Hayes Brothers will serve as executive producers on &#x201C;Buried&#x201D; alongside Jamie and Corinne Foxx, who will executive produce through Foxxhole Productions, with Christina Porter, VP of scripted development, overseeing development. Meals will serve as showrunner and executive producer on the project.
 
 ============================================================
-[22] 5 Unexpected Deaths in the Absolute Universe That Shook Us to Our Very Cores
+[25] 5 Unexpected Deaths in the Absolute Universe That Shook Us to Our Very Cores
 Source: ComicBook.com | Status: expanded | Words: 1038
 Published: 2026-11-19T17:30:00+00:00
 URL: https://comicbook.com/comics/list/5-unexpected-deaths-in-the-absolute-universe-that-shook-us-to-our-very-cores
@@ -665,7 +721,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] TelevisaUnivision Ups Alyssa Bernstein To Head Of Corporate Communications
+[26] TelevisaUnivision Ups Alyssa Bernstein To Head Of Corporate Communications
 Source: Deadline | Status: expanded | Words: 397
 Published: 2026-11-19T17:23:15+00:00
 URL: https://deadline.com/2026/11/televisaunivision-alyssa-bernstein-head-of-corporate-communications-1237229060
@@ -693,7 +749,7 @@ Content publicity, run by Ruben Acosta, as well as social impact and internal co
 "We&#x2019;re thrilled to have Alyssa take on this expanded role and lead a more integrated, business-focused function that strengthens our market positioning, supports growth and enhances our corporate reputation," Awad said.
 
 ============================================================
-[24] Stephen Colbert Signs With UTA
+[27] Stephen Colbert Signs With UTA
 Source: Deadline | Status: expanded | Words: 555
 Published: 2026-11-19T17:15:00+00:00
 URL: https://deadline.com/2026/11/stephen-colbert-uta-agency-1237228801
@@ -719,7 +775,7 @@ Up next for Colbert is tackling Middle Earth. He is currently co-writing the nex
 Colbert will also continue to be repped by Hansen, Jacobson, Teller, Hoberman.
 
 ============================================================
-[25] Shudder Renews 'The Boulet Brothers' Dragula' For Season 8, 'Dragula: Titans' For Season 3
+[28] Shudder Renews 'The Boulet Brothers' Dragula' For Season 8, 'Dragula: Titans' For Season 3
 Source: Deadline | Status: expanded | Words: 369
 Published: 2026-11-19T17:15:00+00:00
 URL: https://deadline.com/2026/11/shudder-renews-boulet-brother-dragula-season-8-titans-3-1237228732
@@ -741,7 +797,7 @@ Courtney Thomasma, EVP of Linear and Streaming at AMC Global Media, called the s
 Now in its seventh season, Dragula debuts new episodes Tuesdays on Shudder through Dec. 29, featuring guest hosts like Rose McGowan, Doug Jones, David Dastmalchian, Harvey Guill&#xE9;n and previous Dragula winners.
 
 ============================================================
-[26] ‘Aurora’ Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self &#038; Outer Space
+[29] ‘Aurora’ Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self &#038; Outer Space
 Source: Deadline | Status: expanded | Words: 2167
 Published: 2026-11-19T17:15:00+00:00
 URL: https://deadline.com/2026/11/aurora-short-film-interview-guy-kent-angad-aulakh-1237228367
@@ -819,7 +875,7 @@ AULAKH: We&#x2019;re developing a television series based on Aurora and its worl
 These festival runs can last upwards of a year and a half, if you&#x2019;re lucky. We&#x2019;re excited to get the film out there around the world, and it has officially gone international. Sometimes things can go right in life, and this is luckily one of those situations. I don&#x2019;t want to knock on wood as I say that. We&#x2019;re thrilled and honored to be selected.
 
 ============================================================
-[27] Stephen Colbert Signs With UTA
+[30] Stephen Colbert Signs With UTA
 Source: The Hollywood Reporter | Status: expanded | Words: 351
 Published: 2026-11-19T17:15:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/stephen-colbert-signs-uta-1236759011
@@ -845,7 +901,7 @@ His production company, Spartina Industries, is currently developing a TV adapta
 Colbert continues to be managed by James Baby Doll Dixon at Dixon Talent, Inc. and represented by Tom Hansen and Don Steele at Hansen, Jacobson, Teller, Hoberman.
 
 ============================================================
-[28] 'Birthright,' About Differing Attitudes on Israel, Set For Broadway
+[31] 'Birthright,' About Differing Attitudes on Israel, Set For Broadway
 Source: The Hollywood Reporter | Status: expanded | Words: 263
 Published: 2026-11-19T17:11:35+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/birthright-israel-set-for-broadway-1236759359
@@ -865,7 +921,7 @@ The play follows seven friends through 18 years, starting just after their Birth
 &#x201C;Just over two years ago, I was racing to finish a first draft of Birthright before starting rehearsals for Eureka Day at MTC. I could never have fathomed that such a short time later we&#x2019;d be bringing it to Broadway, when the questions the play is wrestling with still feel so close to our present moment. Writing this was the scariest thing I&#x2019;ve ever attempted to do, and (perhaps not coincidentally), has become the most meaningful and rewarding. I&#x2019;m beyond thrilled that a wider audience will have a chance to encounter the play and see the work of our brilliant artistic collaborators,&#x201D; Spector said.
 
 ============================================================
-[29] Afterlife With Archie TV Show Confirms Riverdale Replacement Cast for Disney+ Horror Series
+[32] Afterlife With Archie TV Show Confirms Riverdale Replacement Cast for Disney+ Horror Series
 Source: ComicBook.com | Status: expanded | Words: 595
 Published: 2026-11-19T17:10:35+00:00
 URL: https://comicbook.com/tv-shows/news/afterlife-with-archie-tv-show-confirms-riverdale-replacement-cast-for-disney-horror-series
@@ -893,7 +949,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Jimmy Kimmel Had More Trump Jokes, But I Didn’t See The CMAs Jokes Coming
+[33] Jimmy Kimmel Had More Trump Jokes, But I Didn’t See The CMAs Jokes Coming
 Source: CinemaBlend | Status: expanded | Words: 362
 Published: 2026-11-19T17:05:03+00:00
 URL: https://www.cinemablend.com/television/jimmy-kimmel-more-trump-jokes-cmas-luke-combs-ella-langley
@@ -915,7 +971,7 @@ That last bit is a Willie Nelson joke, which is quite funny, but only if you alr
 Yeah, that’s a joke, but it’s also just the kind of absurd fact that’s worth remarking on. Ella Langley's crushing it, and this milestone is cool, but now I'll never think of it without also thinking of Olympics bobsledding . Sure, these are some fairly light jokes compared to his Trump stuff, but please don't say Mr. Kimmel never did anything for pop culture.
 
 ============================================================
-[31] Queen Latifah, Bone Thugs-N-Harmony, MC Lyte and More to Lead 2027 Rock the Bells Cruise
+[34] Queen Latifah, Bone Thugs-N-Harmony, MC Lyte and More to Lead 2027 Rock the Bells Cruise
 Source: Variety | Status: expanded | Words: 323
 Published: 2026-11-19T17:05:00+00:00
 URL: https://variety.com/2026/music/news/queen-latifah-2027-rock-the-bells-cruise-1236953159
@@ -937,7 +993,7 @@ Also on offer aboard the Norwegian Joy are an outdoor go-kart track, two watersl
 For tickets, the first-round presale sign-up deadline is December 2 at 11:59 PM ET, with the final round a week later on December 9 at 11:59 PM ET. Public on-sale is slated for December 11 at 2 PM ET.
 
 ============================================================
-[32] Imax Inks Largest Cinema Deal In U.K. For New Locations
+[35] Imax Inks Largest Cinema Deal In U.K. For New Locations
 Source: The Hollywood Reporter | Status: expanded | Words: 355
 Published: 2026-11-19T17:04:18+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/imax-showcase-cinemas-deal-1236759341
@@ -961,7 +1017,7 @@ Five of the new Imax locations will open across the UK in 2027, with the remaini
 The deal announcement with Showcase Cinemas also comes a day after Imax said it had promoted Giovanni Dolci to the newly created role of chief operating officer, overseeing the company&#x2019;s expanding global theater network.
 
 ============================================================
-[33] John Carpenter Confirms Involvement in Zack Snyder's Escape From New York Reboot, And in the Perfect Role
+[36] John Carpenter Confirms Involvement in Zack Snyder's Escape From New York Reboot, And in the Perfect Role
 Source: ComicBook.com | Status: expanded | Words: 503
 Published: 2026-11-19T17:03:39+00:00
 URL: https://comicbook.com/movies/news/john-carpenter-confirms-involvement-in-zack-snyders-escape-from-new-york-reboot-and-in-the-perfect-role
@@ -989,7 +1045,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] I Just Watched Santa Arnold Lift A Giant Christmas Tree. What’s It Like Doing Stunts At 79?
+[37] I Just Watched Santa Arnold Lift A Giant Christmas Tree. What’s It Like Doing Stunts At 79?
 Source: CinemaBlend | Status: expanded | Words: 314
 Published: 2026-11-19T17:03:05+00:00
 URL: https://www.cinemablend.com/television/i-watched-santa-arnold-schwarzenegger-lift-giant-christmas-tree-stunts-79
@@ -1007,7 +1063,7 @@ That's a pretty fantastic old-man joke. The timing is even better when you remem
 Schwarzenegger isn't pretending he can simply pick up where he left off in 1986, either. He's spoken about how a potential King Conan would acknowledge the character's age, with Conan having spent decades on the throne before facing a threat to his kingdom. That's an idea I can get behind. CinemaBlend has already covered his updates about possible Predator and Commando sequels , although he told Kimmel he was still waiting to see finalized scripts.
 
 ============================================================
-[35] 'Obsession' Breakout Inde Navarrette to Receive Spotlight Tribute at Gotham Film Awards (Exclusive)
+[38] 'Obsession' Breakout Inde Navarrette to Receive Spotlight Tribute at Gotham Film Awards (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 522
 Published: 2026-11-19T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-spotlight-tribute-gotham-awards-1236759136
@@ -1033,7 +1089,7 @@ Additional honores will be presented to the cast of Being Heumann , which will r
 Winners of the 36th annual Gotham Film Awards will be revealed at the awards ceremony, held at Cipriani Wall Street on Nov. 30, 2026. Find the full list of nominations here .
 
 ============================================================
-[36] 'Dig' Review: Amy Poehler and Mike Schur Reunite for Peacock's Likable but Underwhelming Archeology Comedy
+[39] 'Dig' Review: Amy Poehler and Mike Schur Reunite for Peacock's Likable but Underwhelming Archeology Comedy
 Source: The Hollywood Reporter | Status: expanded | Words: 1600
 Published: 2026-11-19T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/dig-review-amy-poehler-mike-schur-hugh-laurie-peacock-1236758949
@@ -1085,7 +1141,7 @@ Greek viewers who took umbrage at the lack of Greeks in Christopher Nolan's The 
 Some people will suggest that these are mere quibbles &#x2014; the inconsistently written characters, sporadic laughs and superficial mystery &#x2014; and that I had to dig for them. And, surely, the most glaring problem with Dig is its inferiority to previous Schur creations. That's what you get for setting the bar high rather than low, or even somewhere subterranean. A pit, perhaps?
 
 ============================================================
-[37] 'The Traitors: New Blood' Renewed for Second Season at NBC
+[40] 'The Traitors: New Blood' Renewed for Second Season at NBC
 Source: The Hollywood Reporter | Status: expanded | Words: 332
 Published: 2026-11-19T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/traitors-new-blood-renewed-season-2-nbc-1236759312
@@ -1107,7 +1163,7 @@ The Traitors: New Blood is produced by Studio Lambert. Cumming executive produce
 Casting for season two of New Blood is open.
 
 ============================================================
-[38] 'My Favorite Murder' HBO Series Sets December Premiere
+[41] 'My Favorite Murder' HBO Series Sets December Premiere
 Source: The Hollywood Reporter | Status: expanded | Words: 548
 Published: 2026-11-19T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/my-favorite-murder-hbo-series-premiere-date-1236758605
@@ -1123,7 +1179,7 @@ Premiering Dec. 3, the series airs on Thursdays through the rest of 2026 &#x2014
 HBO released these summaries of its My Favorite Murder series, which will naturally stream on HBO Max as well. Episode 1: Chicago Debut date: Thursday, Dec. 3 (9:00-9:59 p.m. ET/PT) At The Chicago Theater, Karen and Georgia dig into the shocking hate crime murders of a prominent mid-western hairstylist and a noted cosmetic surgeon and then tell the fascinating tale of Alice Clement &#x2013; the first female detective in the Prohibition-era city. Episode 2: Pasadena Debut date: Thursday, Dec. 10 (9:00-9:58 p.m. ET/PT) At The Pasadena Civic Auditorium, in their hometown of the wider Los Angeles area, the podcasters look into the case of the &#x201C;80s sex, drugs, and &#x2018;Just Sweats&#x2019; insurance scandal,&#x201D; as well as the bizarre, botched kidnapping of Frank Sinatra Jr. Episode 3: Boston Debut date: Thursday, Dec. 17 (9:00-9:59 p.m. ET/PT) At The Boch Center Wang Theatre, Karen and Georgia dissect the still unsolved disappearance of wife and mother Joan Risch in 1961, which some see as the inspiration for the film Gone Girl, as well as the famed 1978 blizzard that ground the city to a halt and led to some unexpected &#x201C;sleepovers.&#x201D; Episode 4: Brooklyn Debut date: Thursday, Dec. 24 (9:00-10:00 p.m. ET/PT) At the Kings Theatre, the hosts take a deeper look at the infamous Scarsdale diet doctor murder, and then follow the peculiar case of the red bees of Red Hook, Brooklyn that led to a shocking discovery in the basement of a nearby maraschino cherry warehouse.
 
 ============================================================
-[39] ‘The Traitors: New Blood’ Renewed For Season 2 At NBC
+[42] ‘The Traitors: New Blood’ Renewed For Season 2 At NBC
 Source: Deadline | Status: expanded | Words: 450
 Published: 2026-11-19T17:00:00+00:00
 URL: https://deadline.com/2026/11/the-traitors-new-blood-renewed-season-2-nbc-1237229085
@@ -1151,7 +1207,7 @@ Tim Harcourt, Chief Creative Officer at Studio Lambert told Deadline that launch
 Jack Burgess, President, Studio Lambert U.S., added, &#x201C;NBCUniveral does such a brilliant job of marketing the franchise. I think it shows the importance of that in the U.S., particularly. They've been great partners and I think the strategy's been really smart. The new show launched at the right time, and it&#x2019;s a great show.
 
 ============================================================
-[40] 'The Watcher': Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast
+[43] 'The Watcher': Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast
 Source: Deadline | Status: expanded | Words: 466
 Published: 2026-11-19T17:00:00+00:00
 URL: https://deadline.com/2026/11/the-watcher-luke-david-blumm-returns-veronica-dunne-cast-1237228825
@@ -1177,7 +1233,7 @@ Series creators Murphy and Brennan executive produce with director Crystle Rober
 Dunne is repped by John Carrabino Management and Eris Talent Agency.
 
 ============================================================
-[41] ‘All Of A Sudden’ Wins Indie Film Site Network Advocate Award
+[44] ‘All Of A Sudden’ Wins Indie Film Site Network Advocate Award
 Source: Deadline | Status: expanded | Words: 532
 Published: 2026-11-19T17:00:00+00:00
 URL: https://deadline.com/2026/11/all-of-a-sudden-indie-film-site-network-advocate-award-1237228930
@@ -1205,7 +1261,7 @@ The film is Japan's entry for the 2027 Academy Awards and was nominated for four
 All of a Sudden opens in theaters on November 25 via Neon.
 
 ============================================================
-[42] ‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer
+[45] ‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer
 Source: Variety | Status: expanded | Words: 343
 Published: 2026-11-19T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/invincible-season-5-release-date-teaser-1236952556
@@ -1227,7 +1283,7 @@ The adult animated superhero series received three consecutive Primetime Emmy Aw
 Watch the teaser trailer below.
 
 ============================================================
-[43] John Muszynski, Who Spent Decades Carefully Deciding Whether Disney, Fox, Even Netflix, Would Get Millions in Ad Dollars, Plans to Retire
+[46] John Muszynski, Who Spent Decades Carefully Deciding Whether Disney, Fox, Even Netflix, Would Get Millions in Ad Dollars, Plans to Retire
 Source: Variety | Status: expanded | Words: 1591
 Published: 2026-11-19T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/john-muszynski-publicis-influential-media-buyer-retire-1236952654
@@ -1277,7 +1333,7 @@ Those sorts of exchanges are becoming less frequent. More advertisers use reams 
 In an era that relies less on deals sealed with handshakes, Muszynski still had his clients&#x2019; confidence. But his successors may have a harder time winning it. The practice of figuring out how to place commercials and get a good price for them won&#x2019;t collapse because of John Muszynski&#x2019;s exit. Still, it might be left standing on shakier ground.
 
 ============================================================
-[44] Hybe Names Melissa Victor-Burkhardt Executive VP of Global Artist Services
+[47] Hybe Names Melissa Victor-Burkhardt Executive VP of Global Artist Services
 Source: Variety | Status: expanded | Words: 337
 Published: 2026-11-19T17:00:00+00:00
 URL: https://variety.com/2026/music/news/hybe-names-melissa-victor-burkhardt-executive-vp-1236952724
@@ -1295,7 +1351,7 @@ Most recently, Victor-Burkhardt was senior VP, head of publicity and brand strat
 &#x201C;Melissa is a deeply experienced executive in the music industry who has worked across countless campaigns for global artists and has an acute understanding of the scope and teamwork required across both internal and external partners for demonstrated success,&#x201D; said Arenas. &#x201C;She will work closely with our worldwide teams to strengthen and build an ecosystem that encourages services to Hybe IP, a continued collaborative approach, and a focus on high impact. I&#x2019;m grateful to have her on board to help execute the vision of a globally built platform powered by best-in-class services.&#x201D;
 
 ============================================================
-[45] AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year
+[48] AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year
 Source: Variety | Status: expanded | Words: 717
 Published: 2026-11-19T17:00:00+00:00
 URL: https://variety.com/2026/biz/news/ai-filmmaking-chroma-awards-return-for-bigger-second-year-1236939403
@@ -1333,7 +1389,7 @@ Entries will be evaluated by a diverse global panel of judges whose professional
 For the thousands of creators expected to answer this season&#x2019;s call, that mission now comes with a deadline. Submissions for Season 2 of the Chroma Awards are open through Jan. 7, 2027, at http://submit.chromaawards.com/go/variety .
 
 ============================================================
-[46] 'The Traitors: New Blood' Renewed for Season 2 at NBC
+[49] 'The Traitors: New Blood' Renewed for Season 2 at NBC
 Source: Variety | Status: expanded | Words: 313
 Published: 2026-11-19T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/the-traitors-new-blood-renewed-season-2-nbc-1236953330
@@ -1353,7 +1409,7 @@ Season 1 of "The Traitors: New Blood" concludes on Thursday on NBC, while Season
 "The Traitors" is produced by Studio Lambert, with executive producers including Cumming, Mike Cotton, Sam Rees-Jones, Rosie Franks, Jack Burgess, Stephen Lambert and Tim Harcourt. IDTV created and developed the original Dutch format in cooperation with RTL Creative Unit.
 
 ============================================================
-[47] Andrew Scott Has Thoughts About 'Elsinore', Life, Death &#038; What Really Matters
+[50] Andrew Scott Has Thoughts About 'Elsinore', Life, Death &#038; What Really Matters
 Source: Deadline | Status: expanded | Words: 6266
 Published: 2026-11-19T16:59:24+00:00
 URL: https://deadline.com/2026/11/andrew-scott-elsinore-interview-profile-awards-1237225563
@@ -1569,162 +1625,4 @@ SHOOT: Director, DP and editor: Sela Shiloni; 1st assistant: Morgan Demeter; 2nd
 ANDREW SCOTT&#x2019;S LOOK: Styling by Warren Alfie Baker; clothing by Ferragamo.
 
 MUSIC: &#x201C;Call to Stage&#x201D; from the Elsinore soundtrack, written by Elsinore composer Stefan Gregory and released by Back Lot Music. Performed by Ben Dawson on solo piano with the London Contemporary Orchestra, under conductor Hugh Tieppo.
-
-============================================================
-[48] The 25 Best New York Movies of All Time, Ranked
-Source: The Hollywood Reporter | Status: expanded | Words: 4477
-Published: 2026-11-19T16:57:23+00:00
-URL: https://www.hollywoodreporter.com/lists/best-new-york-movies-ranked
-------------------------------------------------------------
-SUMMARY:
-In honor of three true-blooded New York features currently in theaters, THR film critics — two of them born-and-raised NYC natives — pick their all-time favorites from a subgenre as rich and varied as the city itself.
-
-CONTENT / EXTRACTED DETAILS:
-Set against the background of rapidly gentrifying 1990s New York — Brooklyn and Harlem in particular — debuting director A.V. Rockwell’s atmospherically charged Sundance winner gives Teyana Taylor a powerhouse showcase as Inez, a hair stylist and single mother fresh from a stint at Rikers and determined to get her 6-year-old boy out of the foster care system by whatever means necessary.
-
-Tracing a decade-plus in the marginalized lives of the mother and son, this moving character study watches Inez evolve from youthful bravado to hard-won self-possession. It also acutely observes painful rips in the fabric of New York City life for the economically disadvantaged and racial minorities, under the aggressive policies of Rudy Giuliani’s mayoral administration and on through the rampant development and discriminatory policing of the Bloomberg years.
-
-Queens native James Gray made a trio of dark and eloquent outer-borough thrillers ( Little Odessa , The Yards , We Own the Night ) before switching gears with this romantic drama set in Brighton Beach — about as far as you can get from Manhattan without officially leaving New York City. The neighborhood’s windswept boardwalks and beaches are a perfect backdrop for a searing study of desire, in which a 30-something homebody (Joaquin Phoenix) is caught between two women: the nice local Jewish girl (Vinessa Shaw) that his parents want him to marry and the bewitching blond shiksa ( Gwyneth Paltrow ) that he spies on, Rear Window -style, from across the courtyard of their apartment building.
-
-With a mastery of tone and an eye for authentic detail, Gray turns the setup for a zany rom-com into an arrestingly intimate tale of longing anchored by three great performances. Set to the swooning arias of Puccini and Mascagni, the film takes on the emotional proportions of a small-scale Brooklyn opera by the final act.
-
-Peter Sollett’s film is not only a radiant and delicate indie rom-com/coming-of-ager, in which a 16-year-old self-styled lothario (Victor Rasuk) learns to be worthy of his guarded, regally dignified crush (Judy Marte). It’s also an indelible portrait of the Lower East Side’s Dominican community that vividly captures the romantic glow and sweaty, sensual restlessness of summer in the city. From the cacophony of a public pool on a scorching day, to the cramped apartment where the protagonist spars with his siblings and grandma, to tender close-ups of the teenage characters seducing, rebuffing, confronting and then tentatively yielding to each other, it’s a modest movie that nonetheless brims with authentic New York swagger and soul.
-
-Revolving around a longtime gay couple (John Lithgow and Alfred Molina at their rumpled best) forced to sell their West Village apartment — and make less-than-ideal sleeping arrangements — when one of them is fired from his job, Ira Sachs’ understated heartbreaker is also an ode to the glories, aggravations and absurdities of life in the city. Lovingly shot and precisely observed, the film is imbued with a weary affection for a metropolis that’s changed in cruel ways but retains its inexorable pull on so many of the eccentric, creative people who call it home — and go to often logic-defying lengths to do so.
-
-This is a movie that grasps the socioeconomic and logistical challenges of 21st century New York City (from daunting subsidized housing applications to the awkwardness of hosting guests in small apartments), folding them into an achingly wise story about loss, legacy and the imperfect ways we love one another, in life and beyond.
-
-Made in an era when hijacking planes was a frequent occurrence, Joseph Sargent’s raw and riveting adaptation of a novel by John Godey (real name Morton Freedgood) revolves around an almost ridiculous premise: Bad guys hijack a subway car and threaten to kill one passenger per minute if the city doesn’t cough up $1 million in used bills within an hour.
-
-But the bad guys weren’t counting on the perspicacity of Transit Police Lieutenant Zachary Garber (Walter Matthau at his most deliciously Matthau-ian), among others. The dialogue’s abundant racism hasn’t aged well, and the command center’s walls of blinking Christmas light bulbs look absurdly quaint. But there’s real, palpable New York City grit in the movie — literally so, in the grimy tunnels used as locations standing in for the 28th Street station, where the titular 6 train stops while negotiations proceed over walkie-talkies between Matthau’s officer and the lead hijacker (a silken Robert Shaw). Watch and marvel at how fast the cops get across lower Manhattan traffic in order to hit the deadline.
-
-Before the Lower East Side became an overpriced haven for hipsters, fashionistas and finance bros, its streets were lined with modest mom-and-pop businesses, many of them run by Jewish New Yorkers whose families had settled there at the turn of the 19th century. The last remnants of that Manhattan shtetl are lovingly portrayed in Joan Micklin Silver’s charming rom-com, which follows a bookshop employee (Amy Irving) and a pickle vendor (Peter Riegert) who can’t manage to hook up despite the pair of matchmaking bubbes trying to get them together.
-
-Adapted by Susan Sandler from her own play, the film captures a vibrant pre-Giuliani-era LES, in which working- and middle-class 30-somethings could still afford to pay the rent and, perhaps, fall in love. (Micklin Silver’s memorable debut, Hester Street , depicts the very same neighborhood back in 1896, when Jewish immigrants were first building a community that has all but disappeared by now.)
-
-The fact that Noah Baumbach ’s sharp, affectionate portrait of a very modern millennial woman (Greta Gerwig, also co-writer) is filmed in knowingly retro black-and-white is just one of its many charming contradictions, along with the way its sketch-comedy randomness builds to a perfect, cohesive ending. The monochrome palette also signifies that this is a particular kind of New York movie, harking back to screwball comedies and vintage Woody Allen. The city is a playground for the not-quite-grown-up heroine, and Baumbach and Gerwig punctuate Frances’ odyssey through it with title cards noting each address she comes to rest at — from the Prospect Park digs she starts out sharing with her bestie (Mickey Sumner) to the room in a Chinatown walk-up that she rents from more moneyed hipsters (Adam Driver, Michael Zegen) and beyond.
-
-Frances, a disorganized dancer struggling to find her footing in the performance world, literally prances and pirouettes through city streets in immaculately edited montages cut to pop classics like David Bowie’s “Modern Love.” You can’t help but fall in love with her at least a bit, as well as seeing how clearly Frances’ journey augurs Gerwig’s own eventual transition from ingenue to confident writer-director.
-
-While Spike Lee’s The 25th Hour captured the rage and chaos of post-9/11 New York, the film that best channeled that period’s deep-seated malaise was Kenneth Lonergan’s maligned, underseen, then critically resurrected coming-of-age drama Margaret . For this epically intimate story of a teenage girl (played by a remarkable Anna Paquin) whose life is upended after she witnesses a fatal bus accident, Bronx-born Lonergan chose to stage the action on the Upper West Side, populating his film with well-educated, upper-middle-class Manhattanites facing the consequences of a gruesome death that could have perhaps been avoided.
-
-Shot in 2005 but then mired in legal and editing-room disputes for years, the film only hit theatres in 2011, by which time many New Yorkers had tried to put Sept. 11 behind them. More than a decade later, Margaret remains a rich and unsettling portrait of a time when the city suddenly lost its mojo — a sentiment echoed by the film’s 17-year-old heroine, who can’t shake off her sense of guilt, or the feeling that the world has suddenly fallen to pieces.
-
-This exhilarating post-World War II MGM classic musical is packed with top-name talents both in front of and behind the camera. Co-star Gene Kelly choreographed it and co-directed with Stanley Donen, the first of many fruitful collabs between the two. Meanwhile, Kelly is one of a trio of male leads, alongside Frank Sinatra and Broadway star Jules Munshin, who play three sailors maximizing their fun on a 24-hour shore leave. The lads link up via a series of very New York encounters with three women (or “goyles”): a horny cab driver (Betty Garrett), an anthropologist (super-hoofer Ann Miller) and an aspiring model-dancer (Vera-Ellen).
-
-Kelly and Donen insisted that they film on location at least a little bit, which means the cityscape of 1949 Columbus Circle is on full display, as are other locales. The city’s eternally changing nature forms a key component of the plot, toasted in songs like “New York, New York” and “Come Up to My Place,” wherein Sinatra’s character keeps asking to visit long-gone tourist attractions. Now the then-modish spots they do visit seem just as antiquated and historical as the Hippodrome.
-
-A good chunk of Susan Seidelman’s delightful screwball mistaken-identity comedy unfolds in bougie Fort Lee, New Jersey. But the movie’s punk heart beats loudest in downtown New York, where Roberta, a bored housewife played by Rosanna Arquette, gets a bump on the head in Battery Park and becomes convinced she’s Susan, a bohemian scenester played by Madonna in her first and best major screen role. Still in her ascendance when the film was shot, the pop star’s signature sense of style informed the character and became influential in ’80s fashion.
-
-Locations featured include the former cult East Village vintage clothing store Love Saves the Day, the Bleecker Street Cinema and hot night spot Danceteria, while Washington Heights’ Audubon Ballroom stood in for fictional dive Magic Club (John Turturro plays the emcee). And Seidelman peppered the cast with downtown artists including Rockets Redglare, Annie Golden, John Lurie, Ann Magnuson and Shirley Stoler, and included a cameo from the adult triplets whose astonishing history was recounted in 2018 doc Three Identical Strangers . The Village Voice personal ads play a significant role, but MVP is Laurie Metcalf, in sublimely acerbic form as Roberta’s judgy sister-in-law.
-
-This funny and achingly felt film is an artifact of the times, as one of the first to engage with AIDS and its impact (writer-director Bill Sherwood himself died of the disease four years after this, his only feature-length work, was released). But it’s also an admirably expansive work that takes a snapshot of New York life on a broader scale. At the center, there’s a love triangle of sorts, between couple Michael (Richard Ganoung) and Robert (John Bloger) and Michael’s rock-musician ex Nick (an inconceivably young Steve Buscemi), who is HIV positive. The night before Michael leaves for a six-month work assignment in Africa, he and Robert attend a dinner party thrown by a married man and woman with their own sexual secrets and then another soiree downtown hosted by their artist friend (Kathy Kinney).
-
-Sherwood and his cast limn these different milieus with the lightest of brushstrokes, bringing in a galaxy of vividly realized characters to populate the overlapping realms. This is a scruffy New York on the back foot in the era of Mayor Ed Koch, seething with anger and creativity that’s not yet been priced out by Wall Street money.
-
-A razor-sharp depiction of the kind of soul-crushing corporate culture and patriarchal entitlement that decades later would become the language of Mad Men , Billy Wilder’s evergreen 1960 romantic comedy is shot through with an expressive vein of melancholy. Jack Lemmon stars as Baxter, an insurance clerk who mistakenly believes career advancement will be his reward for handing over the key to his Upper West Side apartment multiple nights a week to married company executives in need of a place to carouse with their mistresses. Among them is Fred MacMurray’s head of personnel, whose affair with elevator operator Fran Kubelik — one of Shirley MacLaine’s most cherished performances — hits a bump when she attempts suicide with an overdose of sleeping pills in Baxter’s apartment.
-
-While much of the shoot took place on a Hollywood studio lot, this is a quintessential NYC movie, from its portrayal of the midcentury workplace grind to its tender insights into urban solitude, notably in Baxter’s line from the exquisite closing scene: “I used to live like Robinson Crusoe. I mean shipwrecked among 8 million people.”
-
-What Jean-Luc Godard’s first feature, Breathless , was to New Wave-era Paris, John Cassavetes’ jazzy and downbeat Shadows was to Beat-era New York City. Both were made in the late ’50s and both broke directing norms, helping launch movements — the Nouvelle Vague in France, independent filmmaking in the U.S. — that changed the face of cinema.
-
-But whereas Godard’s film was a tongue-in-cheek homage to film noir and Hollywood, Cassavetes’ hip, deeply felt drama tackled tensions in a city divided along racial lines, even if it wasn’t technically segregated. The project stemmed from theater workshops the actor-director conducted with aspiring young talents in Manhattan, and that improvised approach lent it a striking realism compared to most American films of the time. Shadows still resonates powerfully through its honest portrait of three Black siblings — two of them light-skinned — trying to make it as musicians and writers in New York, which also means trying to overcome biases that were prevalent back then and haven’t yet been definitively erased.
-
-Big Apple realtors like to claim “location is everything” while selling overpriced, closet-sized apartments to folks dying to live in one of the city’s coveted ZIP codes. Such a tagline could also be applied to William Friedkin ’s heart-pounding NYC cop thriller, which set a standard for action flicks that has rarely been equaled ever since the film triumphed at the box office and Oscars more than 50 years ago.
-
-Friedkin broke lots of rules — as well as several laws — during the shoot, sending stunt drivers down pedestrian-lined Brooklyn streets or bribing an MTA official for a mind-boggling subway chase toward the end of the movie. The result was a sustained game of cat and mouse that literally hits the ground running and never lets up until the credits roll. By then, we’ve raced through three out of five boroughs in a pursuit that feels both visceral and existential, making us question whether the movie’s obsessive pair of NYPD detectives (a never-better Gene Hackman and Roy Scheider ) have been chasing phantoms the entire time.
-
-Of the many qualities that contributed to the immense success of The Godfather , the authenticity of its setting is seldom mentioned. And yet unlike most mob movies before it, Francis Ford Coppola’s crime classic was shot entirely on location in New York City (except for sequences set in L.A. and Sicily), lending it a verisimilitude that made the travails of the Corleone clan feel both real and Shakespearean.
-
-Working with twice the budget and the full blessing of Paramount, Coppola went bigger and broader for the film’s brilliant sequel, hopping across several continents and time periods for a three-plus-hour epic set simultaneously in the 1950s and the 1920s. For the latter part, which traces the rise of Vito Corleone (Robert De Niro) from Sicilian immigrant to all-powerful Don, the director — along with DP Gordon Willis and production designer Dean Tavoularis — took several streets on Manhattan’s East Village through a time warp. The result was a stunning re-creation of classic Little Italy, as well as one of cinema’s great murder scenes.
-
-One of the all-time great movies about New York City as the nation’s vibrant theater hub, Joseph L. Mankiewicz’s delectably witty 1950 backstage drama left such a mark that calling someone “an Eve Harrington” — after the rapacious title character played by Anne Baxter — remains widely understood code for the kind of ruthlessly ambitious upstart who would step over your corpse to climb the ladder. Insinuating herself into the life of Broadway legend Margo Channing, one of Bette Davis’ defining roles, Eve poses as the meekest, most devoted of fans while plotting each maneuver that gets her closer to becoming a grand leading lady of the stage. She’s the ultimate protégée as predator.
-
-In the bright lights of Broadway, the stage-door alleys, sophisticated cocktail parties and self-congratulatory awards ceremonies, the film captures a moment when New York theater was considered the epicenter of American culture. For those of us who chose a career as critics, it also has the magnificent George Sanders as Addison DeWitt, a viper-tongued drama critic with make-or-break influence, whose perceptiveness allows him to see through Eve and exert control over her, even as he helps clear her path to stardom.
-
-No movie nails the boozy, sophisticated and sinister ambiance of post-war midtown Manhattan like Alexander Mackendrick’s scathing New York noir. Inspired by the antics of legendary gossip columnist Walter Winchell and publicist Irving Hoffman (who wrote regularly for The Hollywood Reporter ), this sharp-tongued look at journalism, celebrity, cutthroat competition and backstabbing New Yawkas features a murderers’ row of talent both in front of and behind the camera: stars Tony Curtis and Burt Lancaster; writers Clifford Odets and Ernest Lehman; a score by Elmer Bernstein; and cinematography by the great James Wong Howe, who captures the city — mostly Times Square and its surroundings — in vibrant chiaroscuro black-and-white.
-
-Famous for its machine gun one-liners, delivered like disses in a rap battle a few decades before New York would invent hip-hop, the film is best summed up by what Lancaster’s J.J. Hunsecker says before he climbs into a cab after another night of making and breaking people with the stroke of his pen: “I love this dirty town.”
-
-Is there a more iconic New York movie moment than Audrey Hepburn’s Holly Golightly, resplendent in a black Givenchy evening gown, stepping out of a yellow cab onto Fifth Avenue in the early morning hours, sipping takeout coffee and nibbling on a Danish while gazing at the window displays of the famed jewelry emporium?
-
-Blake Edwards’ 1961 film of the Truman Capote novel shows its age in Mickey Rooney’s cartoonish ethnic stereotype as Holly’s Japanese photographer neighbor Mr. Yunioshi. But it nonetheless remains an enchanting portrait — both cynically transactional and romantic — of the city as a sanctuary for a self-invented social butterfly living off wealthy men and a handsome young aspiring writer reliant on the “patronage” of a well-heeled woman (all hail Patricia Neal). The boozy party in Holly’s East 71st Street brownstone is one for the ages, eventually shut down by cops, but not before willowy model Mag Wildwood crashes drunkenly to the floor like a felled tree.
-
-Beyond Woody Allen, there’s perhaps no director more synonymous with the Big Apple than Martin Scorsese, who was born in Queens and grew up in Little Italy — a neighborhood that would shape him as an artist and serve as a backdrop for his earliest features. Several Scorsese flicks ( Mean Streets , Raging Bull , After Hours , Goodfellas , The Age of Innocence ) could easily have made our list, but the one that feels the most indelibly New York-y of them all is Taxi Driver . This may be because the movie nearly plays like a documentary, bringing to deeply unsettling life the grimy, horny, crime-ridden streets of Times Square, Hell’s Kitchen and other Manhattan enclaves during the dog days of the 1970s — when the Daily News famously quipped that President Gerald Ford had told the city to “drop dead.”
-
-But Taxi Driver is as much a N.Y. of the mind as it is of the eye, channeling the inner solitude of its antihero, Travis Bickle, a perennial outsider who lives by night in a town that never sleeps, viewing it as either fantasy or hellscape from the safety of his cab.
-
-Anyone who has lived in a Manhattan courtyard apartment block or has a clear view into homes across the street knows the unplanned voyeuristic pleasures of catching neighbors doing weird shit. In the case of Alfred Hitchcock’s riveting murder mystery — among the filmmaker’s very best — James Stewart’s Jeff is the observer, a photojournalist immobilized by a busted leg who becomes convinced that a lugubrious-looking traveling salesman in the building opposite his Greenwich Village home has killed his bedridden wife. Unable to convince his detective pal of foul play, Jeff enlists his wisecracking home nurse, Stella (peak Thelma Ritter), and glamorous model girlfriend, Lisa (Grace Kelly, dripping couture), in his amateur sleuthing.
-
-Shot almost entirely inside and through the windows of Jeff’s apartment, the movie makes masterful use of subjective camera. It also vividly evokes the kind of sweltering heat wave — without air-conditioning — that might make any New Yorker contemplate murder.
-
-With the Godfather trilogy, The Panic in Needle Park , Serpico , Cruising and Carlito’s Way , among others, Al Pacino almost merits his own personal NYC movie ranking. Unforgettably paired here with John Cazale — one of just five features in the brief but blazing career of the great character actor, who died at 42 — they play Sonny and Sal, inexperienced crooks attempting in 1972 to rob the First Brooklyn Savings Bank, in part to pay for the gender-affirming surgery of Sonny’s lover, Leon.
-
-Sidney Lumet’s gritty thriller is steeped in the kind of unbearably tense, restless pressure-cooker atmosphere that's typical of a sweltering New York City summer. Based on a real-life heist-and-hostage situation, the film unfolds with both irreverent humor and searing compassion as the naïve would-be robbers watch the situation spiral out of control over the course of eight sweaty hours, becoming a media circus that builds to preordained tragedy at Kennedy airport. Standouts among the deep bench of outstanding supporting players are Charles Durning as the cops’ empathetic primary negotiator, Susan Peretz as Sonny’s emotionally volatile wife and Chris Sarandon as Leon, his eyes brimming with raw pain and exhaustion through a semi-improvised farewell phone call.
-
-Many of us would love a spacious two-bedroom Upper West Side apartment — but maybe not the one where Mia Farrow’s title character, an expectant mother, lives with her husband, a theater actor struggling to get a foothold on Broadway (played with an incremental drip of subtle menace by John Cassavetes). Then there’s the neighbor (the inimitable Ruth Gordon), a seemingly benign eccentric who’s a tad too solicitous to be genuine.
-
-While the exteriors of Roman Polanski’s ageless psychological chiller were filmed at the famed Dakota Apartments facing Central Park, interiors were shot on Paramount soundstages in Los Angeles. But this enthrallingly insidious tale of women’s bodily autonomy, paranoia, lapsed-Catholic hysteria and Satanism lives and breathes residential Manhattan — namely, the unsettling side of apartment-building living, in close proximity to complete strangers. The film includes a nail-biting scene in which pregnant Rosemary wanders through oncoming midtown traffic in a daze, captured by Polanski himself with a handheld camera since no crewmembers were willing to risk their lives on a busy street not closed off for shooting.
-
-Robert Wise and Jerome Robbins’ outstanding, canonical movie musical — a grafting of Romeo and Juliet onto a pre-gentrification Upper West Side — improves on the 1957 Broadway hit right off the bat: The exhilaratingly staged “Prologue” and “Jet Song” use aerial footage of 1961 New York, coming down to land just north of the San Juan Hill (now Lincoln Square) area, where the Sharks and Jets express their enmity with finger clicks and elegant jetés through eerily empty streets.
-
-The romantic tragedy at the film’s center is timeless, but this West Side Story also bottles up a stylized version of the period’s working-class New York culture and ethnic strife (Puerto Rican immigrants versus mainland-born whites) with warmth, emotion and wit — the latter expressed particularly well through Stephen Sondheim’s droll lyrics for numbers like “Gee, Officer Krupke” (“I’m depraved on account I’m deprived!”). Even the soundstage sets evoke the stark lines and scruffy textures of that midcentury concrete landscape.
-
-Does the still-contested cancellation of Woody Allen mean we can’t still love Annie Hall ? Of all his movies, losing this one would hurt the most. Manhattan , as the name suggests, might be his most echt New York film, but the Allen character’s deeply icky romance with Mariel Hemingway’s high schooler is a punch-bowl turd you can’t ignore. Annie Hall , in which Allen’s Alvy Singer is in love with a woman nearly his own age — an indelible, never-more-charming Diane Keaton — is every bit as much a mash note to the city as it is to the characters’ relationship, which Alvy likens to a shark that must keep moving lest it die.
-
-The metropolis we see here, full of real residents’ favorite spots, is never at risk of ceasing its perpetual motion, its constant churn of characters and kookiness becoming part of the film’s laugh-laced, bittersweet momentum. Where else could you pull Marshall McLuhan out of nowhere to solve an argument in a line to buy movie tickets? Sure, it’s a gag, but it’s rooted in a deeper truth — that that sort of thing could only happen in New York. The film’s cruelest jabs are reserved not for a person, but for the entire city of Los Angeles, a place whose only redeeming feature, to paraphrase Alvy, is that you can make a right turn on a red light.
-
-There are many reasons Spike Lee’s third feature tops our list of the greatest New York movies, but the main one may simply be that it hasn’t aged one iota since it was shot in Brooklyn nearly 40 years ago. Part of this comes from the tragic reality that the film’s climactic event — the killing of Radio Raheem (Bill Nunn), who is choked to death by the NYPD — has been echoed many times over since the movie first came out, whether it was Eric Garner in Staten Island, Freddie Gray in Baltimore or George Floyd in Minneapolis.
-
-Racial friction and police brutality are at the heart of Do the Right Thing , whose story depicts one long and languid NYC summer day during which tensions simmer, boil over and eventually ignite, tearing the diverse working-class neighborhood of Bedford-Stuyvesant apart. As a native Brooklynite, Lee knew some of these tensions firsthand, turning several actual incidents that rocked the Big Apple into a brilliant, hip-hop-infused ensemble piece (aside from Lee, the stacked cast includes Danny Aiello, Rosie Perez, John Turturro, Samuel L. Jackson, Giancarlo Esposito, Ossie Davis and Ruby Dee) that gradually takes on the force of a Greek tragedy.
-
-But what really makes the movie still crackle decades later is how Lee counterbalances all the conflict and chaos with lots of streetwise humor and brotherly love, highlighting the resilience that New Yorkers can show in the face of a crisis. His film is a love letter to the town he grew up in, even if it’s one dipped in blood, sweat and broken glass. It’s New York as melting pot, salad bowl, powder keg and barrel of laughs. New York as America.
-
-============================================================
-[49] 'Grand Theft Auto VI' Has a Small 'Deadpool' Connection
-Source: The Hollywood Reporter | Status: expanded | Words: 265
-Published: 2026-11-19T16:56:03+00:00
-URL: https://www.hollywoodreporter.com/business/digital/grand-theft-auto-vi-deadpool-connection-1236758480
-------------------------------------------------------------
-SUMMARY:
-Stefan Kapicic, known for playing the mutant Colossus, is among the cast of the blockbuster videogame.
-
-CONTENT / EXTRACTED DETAILS:
-For years, Grand Theft Auto fans have been making mods that put Deadpool into the sprawling, open world game. Well, Deadpool does not make an appearance in the new Grand Theft Auto VI , but there's a small connection to the Marvel franchise.
-
-Stefan Kapacic is among the sprawling cast in an undisclosed role. It follows his work as Colossus in three Deadpool movies, including the $1.3 billion grossing Deadpool & Wolverine .
-
-Grand Theft Auto VI could become the biggest media launch of all time. Its opening week will certainly outgross the lifetime box office runs of all three Deadpool movies, with anticipation so high that workers across the world are planning on calling in sick to play. Its presales alone have accounted for $1.7 billion for the Rockstar game. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; });
-
-For a character actor like Kapacic, Deadpool has long been his calling card in Hollywood. But it's no longer the biggest franchise he's involved in.
-
-Coming up, he has the Keanu Reeves movie Shiver due out from Warner Bros. and director Tim Miller, whom he worked with on the first Deadpool . The time loop movie is described as Edge of Tomorrow meets a shark movie.
-
-His other credits including Better Call Saul , portraying one of the men who helped build the meth superlab made famous in Breaking Bad , the Dracula feature The Last Voyage of the Demeter , and episodes of the sci-fi Netflix series Love, Death & Robots .
-
-============================================================
-[50] Where to Find All of GTA 6's Strip Clubs &#038; Which One Is the Best
-Source: ComicBook.com | Status: expanded | Words: 442
-Published: 2026-11-19T16:51:14+00:00
-URL: https://comicbook.com/gaming/news/where-to-find-all-of-gta-6s-strip-clubs-which-one-is-the-best
-------------------------------------------------------------
-SUMMARY:
-Courtesy of Rockstar Games Throughout the neon-lit landscape of Vice City and Leonida at large, there are plenty of nightlife options available in Grand Theft Auto 6, including strip clubs. So, sure, if you're disappointed with the game's removal of GTA's famed prostitution mechanic, these hotspots are your next option if you're itching for some salacious activity. Though I […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Add Us On Google Throughout the neon-lit landscape of Vice City and Leonida at large, there are plenty of nightlife options available in Grand Theft Auto 6 , including strip clubs. So, sure, if you're disappointed with the game's removal of GTA's famed prostitution mechanic, these hotspots are your next option if you're itching for some salacious activity. Though, I couldn't recommend that you visit these spots with other friends and family in the room as things could get a little awkward.
-
-There is a grand total of three strip clubs in GTA 6 , as far as we know, two of which are located in Vice City. We've provided the locations of each of these clubs for you below. Should more clubs become available, we'll update the information below. If you intend to make the trip to any one of these locations, be prepared to spend some of your hard-earned dollars.
-
-There are three strip clubs of note in GTA 6 . They are as follows:
-
-If you're looking for a good time, Jack of Hearts might actually be the best highlight when it comes to Strip Clubs. You can find it in Crosstown in the heart of Vice City. It's often packed and has the quintessential nightlife energy that one might be looking for. Its vibrant atmosphere, including hip-hop music and flashy neon themes, makes it one of the liveliest destinations in Vice City.
-
-While in a strip club, there are a few activities you can engage in. Of course, you can knock back a few drinks for those fun stat boosts. Sometimes, you can dance with your partner. This is one of those relationship-building activities that might be worthwhile. And obviously, you can pay for private dances whether you're playing as Jason or Lucia. You'll have to find an ATM as you can only pay in cash. There is likely one close by in the club. There'll be a fee for the dance, and then you can pay more for tips. Players will be able to request the same stripper when returning or select a "surprise me" option.
-
-So, should you wish to partake in some of Vice City's more adult-oriented entertainment, you're not short on options. Even though some fans are disappointed that the prostitution staple of the series (since GTA III ) is no longer available in GTA 6 , you can still engage in some legal promiscuous activity.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
