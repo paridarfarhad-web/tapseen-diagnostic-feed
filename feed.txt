@@ -1,9 +1,39 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T14:12:54.894Z
+Last Updated: 2026-11-19T14:16:50.951Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 'Squid Game' Creator Hwang Dong-hyuk Teases Possible Return to Franchise: 'When I Have a Great Idea, I'll Make Another One'
+[1] Jonathan Spector's Acclaimed 'Birthright' Sets Spring Broadway Opening
+Source: Deadline | Status: expanded | Words: 565
+Published: 2026-11-19T14:15:00+00:00
+URL: https://deadline.com/2026/11/birthright-broadway-jonathan-spector-1237228430
+------------------------------------------------------------
+SUMMARY:
+Birthright, Jonathan Spector's critically acclaimed that played to sold-out houses at Off Broadway's MCC Theater last summer, will make its Broadway debut this spring, with Teddy Bergman again directing. The play will begin a 20-week strictly limited engagement at Broadway’s Hudson Theatre on Tuesday, February 23, 2027, ahead of a Monday, March 15, 2027 opening […]
+
+CONTENT / EXTRACTED DETAILS:
+Birthright , Jonathan Spector 's critically acclaimed that played to sold-out houses at Off Broadway 's MCC Theater last summer, will make its Broadway debut this spring, with Teddy Bergman again directing.
+
+The play will begin a 20-week strictly limited engagement at Broadway&#x2019;s Hudson Theatre on Tuesday, February 23, 2027, ahead of a Monday, March 15, 2027 opening night.
+
+Casting for the play - written by the playwright of the Tony-winning Eureka Day - will be announced soon.
+
+&#x201C;Just over two years ago, I was racing to finish a first draft of Birthright before starting rehearsals for Eureka Day at MTC," Spector said in a statement. "I could never have fathomed that such a short time later we&#x2019;d be bringing it to Broadway, when the questions the play is wrestling with still feel so close to our present moment." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Raúl Esparza Still On Concussion-Caused Leave From Broadway's 'Galileo'; Michael Park Stepping In News Frida Kahlo Musical In Development With Diane Paulus Directing, Latin Grammy Winner Silvana Estrada Composing Score & Georgina Escobar Writing Book
+
+He continued, "Writing this was the scariest thing I&#x2019;ve ever attempted to do, and (perhaps not coincidentally), has become the most meaningful and rewarding. I&#x2019;m beyond thrilled that a wider audience will have a chance to encounter the play and see the work of our brilliant artistic collaborators.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The official synopsis: "Six friends, eighteen years, and all the questions/quarrels/hookups/hangups/group chats/overwhelming love that every close-knit group of people must face as they barrel into 'real' adulthood. Hilarious and hopeful, Birthright looks at what it means to be young-ish and Jewish in America, and how our friendships and identity can shape the core of who we become."
+
+&#x201C;Working with Jonathan on his extraordinary play has been one of the greatest artistic experiences of my life," said director Bergman. "The play brilliantly, honestly tells the story of 18 years of head-spinning change, refracted through seven completely alive characters. Deeply funny, loving, devastating, and blistering, Jonathan&#x2019;s script makes real the difficult, essential work of trying to connect with our loved ones across our deepest divides. I couldn't be more excited for this play to resonate with a wider audience this spring.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The announcement of the Broadway staging was made today by producers Jenny Gersten, Sonia Friedman Productions, and Jana Bezdek & Jen Hoguet.
+
+Following a development process and world premiere directed by Bergman at Miami New Drama in April 2025, Birthright opened to strong reviews at MCC Theater this past June (it was named a New York Times critic's pick). The Off Broadway cast included Molly Ranson, Nate Mann, Liz Larsen, Eli Gelb, Molly Bernard, Zo&#xEB; Winters and Hale Appleman.
+
+Birthright features Scenic Design by Scott Pask, Costume Design by Clint Ramos, Lighting Design by Natasha Katz, Sound Design by Lee Kinney and Projection Design by David Bengali.
+
+============================================================
+[2] 'Squid Game' Creator Hwang Dong-hyuk Teases Possible Return to Franchise: 'When I Have a Great Idea, I'll Make Another One'
 Source: Variety | Status: expanded | Words: 986
 Published: 2026-11-19T14:11:25+00:00
 URL: https://variety.com/2026/film/markets-festivals/squid-game-creator-return-to-franchise-ko-club-1236952887
@@ -45,7 +75,7 @@ Because Season 1 was so well received by a global audience, Hwang said, he had t
 As for what's next for Firstman Studio, Kim said the company's credibility went up after "Squid Game," but that it remains a very small company. "We're not making a lot of projects. The reason we want to do this is that, as an independent producer, rather than focusing on profitability, we want to focus on taking the right creative risks to create what we believe in."
 
 ============================================================
-[2] 'White Tiger Column' Review: Young Resistance Fighters in Myanmar Are Trained for War, but Not Yet for Life, in a Delicate Doc Study
+[3] 'White Tiger Column' Review: Young Resistance Fighters in Myanmar Are Trained for War, but Not Yet for Life, in a Delicate Doc Study
 Source: Variety | Status: expanded | Words: 804
 Published: 2026-11-19T14:10:43+00:00
 URL: https://variety.com/2026/film/news/white-tiger-column-review-1236952028
@@ -67,7 +97,7 @@ In other respects, however, they're just kids, and their vulnerability and na&#x
 It's tough-minded but not without stray moments of tenderness and joy &#x2014; particularly when focused on the friendship between two intrepid female recruits, a conspicuous minority in the collective &#x2014; or of lush cinematic beauty, as Mentov, also the film's accomplished DP, can hardly fail to capture the verdant, shadow-streaked riches of the environment around them. But the filmmakers aren't inclined to romanticize matters, either in terms of character-based narratives or ideological emphasis: In this simultaneously stirring and frightening portrait, we know exactly what everyone's fighting for, but as one near-child soldier admits, "we only have theories about what might happen."
 
 ============================================================
-[3] Nike LeBron XXIV 'Stars' Sneakers: Here's Where to Score a Pair Online
+[4] Nike LeBron XXIV 'Stars' Sneakers: Here's Where to Score a Pair Online
 Source: Variety | Status: expanded | Words: 345
 Published: 2026-11-19T14:10:20+00:00
 URL: https://variety.com/2026/shopping/news/how-to-shop-nike-lebron-24-stars-sneakers-online-1236952152
@@ -91,7 +121,7 @@ You can sign up to be a Nike Member to get benefits from the sports apparel reta
 Priced at $200, the Nike LeBron XXIV "Stars" sneakers come in men&#x2019;s and women&#x2019;s sizes (unisex) and are available at Nike.com. The signature shoes also come in sizes for big kids for $175.
 
 ============================================================
-[4] We All Love Batman but These 5 Things Annoy Even the Most Diehard Fans
+[5] We All Love Batman but These 5 Things Annoy Even the Most Diehard Fans
 Source: ComicBook.com | Status: expanded | Words: 1285
 Published: 2026-11-19T14:05:00+00:00
 URL: https://comicbook.com/comics/list/we-all-love-batman-but-these-5-things-annoy-even-the-most-diehard-fans
@@ -131,7 +161,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] ‘The Nightingale’ Trailer: Dakota &#038; Elle Fanning Play Sisters For The First Time In WWII Drama
+[6] ‘The Nightingale’ Trailer: Dakota &#038; Elle Fanning Play Sisters For The First Time In WWII Drama
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-19T14:01:09+00:00
 URL: https://theplaylist.net/the-nightingale-trailer-dakota-elle-fanning-20261119
@@ -143,7 +173,7 @@ CONTENT / EXTRACTED DETAILS:
 After years of delays, “The Nightingale,” the long-awaited adaptation of Kristin Hannah ’s bestselling novel, is finally headed to theaters. The World War II drama stars Dakota Fanning and Elle Fanning , who, despite spending most of their lives in Hollywood, have never acted opposite one another in a film. Directed by Michael Morris (“To Leslie,” “Bridget Jones: Mad About The Boy”), the film follows two French sisters as they navigate the Nazi occupation of France. Continue reading ‘The Nightingale’ Trailer: Dakota &#038; Elle Fanning Play Sisters For The First Time In WWII Drama at The Playlist.
 
 ============================================================
-[6] Trapped in Banksy’s Walled Off Hotel in Bethlehem, You Can Solve Puzzles With Help From a Parrot at Rotterdam Film Festival
+[7] Trapped in Banksy’s Walled Off Hotel in Bethlehem, You Can Solve Puzzles With Help From a Parrot at Rotterdam Film Festival
 Source: The Hollywood Reporter | Status: expanded | Words: 1347
 Published: 2026-11-19T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/banksys-walled-off-hotel-bethlehem-rotterdam-film-festival-1236759213
@@ -177,7 +207,7 @@ Sound//vision MoE + Xavier Qu&#xE9;rel , "a raw live exchange between monumental
 Luis Mac&#xED;as' eon solar , "an eight-hour 360&#xB0; audiovisual journey on a panoramic screen, carrying audiences from night into sunrise and ending with a shared breakfast." Lightroom Market Projects in Development Calculating Route… (Canada) Creator: Ch&#xE9;lanie Beaudin-Quintin Production: Art et Essai (Jeanne-Marie Poulain, Ir&#xE8;ne Bessone) A virtual reality experience that invites users to navigate the city and discover how the same urban space can be experienced in radically different ways depending on the bodies moving through it, raising a central question: who does the city belong to? The Deleted City Revisited (Netherlands) Creator: Richard Vijgen An immersive exploration of the digital ghost town of Geocities.com, the largest online community of web 1.0, frozen in time. Visit the abandoned homes of the digital pioneers and rediscover what we lost along the way. GRIMM (Netherlands) Creator: Ren&#xE9; van Engelenburg Production: DROPSTUFF MEDIA (Ren&#xE9; van Engelenburg) In this immersive, multi-user AR theatre experience, young people step into a fairy-tale village where familiar characters reveal how algorithms, social media and AI shape identity, attention and choice. Play, humour and collaboration make the hidden systems of digital life tangible. Projects in Production Dreamachine VR (Japan) Creator: Hiroaki Terada Production: Augmented State Project (Hiroaki Terada) This VR experience places viewers inside the Dreamachine, a flickering-light device invented by the painter Brion Gysin to find a place within consciousness that no one can take away. how we sleep at night (France, Switzerland) Creator: Filmsaaz Production: Le Fresnoy &#x2013; Studio national des arts contemporains (Eric Prigent), l&#x2019;Abri &#x2013; Geneva (Saleh Kashefi) An interactive installation peering into the bedroom of an insomniac war criminal whose private space is relentlessly haunted by nature and the spectating audience. Outside (France) Creator: M&#xE9;lanie Courtinat Production: Atlas V (Oriane Hurard, William Board) Inspired by the phenomenon of hikikomori, OUTSIDE is a psychological horror story that explores the psychological experience of social withdrawal through an intimate, immersive narrative that follows Yuka, a young and fragile woman secluded in her small apartment. The Oxytocine Machine (Netherlands) Creators: Mila Moleman and Joelle Galloni Production: Studio Vrij (Eszter Nov&#xE1;k), Zal&#xE1;n Szak&#xE1;cs A location-based multiplayer VR installation that brings two strangers together in a shared virtual environment while they remain physically apart, exploring human connection, intimacy and empathy in a digital world where every encounter unfolds in its own unique way. The Ring Beyond (Switzerland, Germany) Creators: Simon Husslein and Arne Magold Production: Opernhaus Z&#xFC;rich (Victoria Dietrich), BEYOND.PLACE (Simon Husslein, Arne Magold) An MR installation that turns Wagner's fifteen-hour Ring Cycle into a walkable circle of time, and finds for each visitor the one passage in the recording of the Opernhaus Z&#xFC;rich that belongs to their own life, leading them through a web of conflicts and memories. Lightroom Expanded <([&#x201C;&#xC1;&#x201D;1653 &#x201C;gora&#x201D; &#xB7; L&#xB7; 23035] )> (Spain) Creator: Carles Casta&#xF1;o Oliveros Production: Servicios Inmersivos Art Directions 2027 Artist in Focus Servicios Inmersivos presents their newest project exclusively in Lightroom Expanded. A human scientist and a digital entity invite you, an external being, to explore an archive of experiences, memories and interpretations of the world. Church of Glass (Netherlands) Creator: Matthijs Vuijk Production: Valk Productions (Richard Valk) A poetic VR essay exploring 900 years of transformation: spiritual, social, physical, and geographic &#x2013; through the eyes of a sentient medieval church. Ghost Towns (Netherlands) Creator: Robin Coops Production: UPscaleXR (Floris Smit), Coops & Co (Robin Coops) Composer and performer Robin Coops takes the audience on a journey along ghost towns in this augmented reality concert, from the Soviet mining town Pyramiden to the Japanese doll village Nagoro. Postmortem (Italy, Netherlands, US)Creators: Simone Fougnier and Vincent Rooijers Production: UPscaleXR, Studio Syro, Funilab An immersive live performance combining hand drawn quill animations with live music exploring the relationship between humans, animals, technology and our planet. SILIQ (Taiwan, United States) Creator: Lu Te-Hsing Production: HYPER CURRENT (Lu Te-Hsing), Fifth Atrium (Kathleen Lee), VISION BASE (Lu Yen-Cheng), Rustic Pictures Ltd. (Chen Chia-Pei) Following an advanced drone on a classified mission near-future Taiwan, SILIQ explores whether AI can develop its own understanding of humanity and make choices beyond its creators&#x2019; intentions. STOLP (Belgium) Creators: Annelies Van Hijfte & Joren Vandenbroucke Production: Pimple Productions (Laure Van Medegael) A musical VR experience set in a palace-like conservatory where the fluid character Gigi dances with the plants, until they pull her towards the outside world and she rediscovers her own wild nature.
 
 ============================================================
-[7] 'The Day of the Jackal' Season 2: Eddie Redmayne Back as Globe-Trotting Assassin in First Look
+[8] 'The Day of the Jackal' Season 2: Eddie Redmayne Back as Globe-Trotting Assassin in First Look
 Source: The Hollywood Reporter | Status: expanded | Words: 358
 Published: 2026-11-19T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/day-of-the-jackal-season-2-eddie-redmayne-photo-date-first-1236759241
@@ -203,7 +233,7 @@ Joining the cast for series two are Pablo Schreiber ( Halo ), Weruche Opia ( Gen
 The Day of the Jackal is produced by multi-award-winning Carnival Films, which is part of Universal Global Television, a division of Universal Studio Group.
 
 ============================================================
-[8] My Assistant Scammed Me. Then Did Far Worse to Demi Moore.
+[9] My Assistant Scammed Me. Then Did Far Worse to Demi Moore.
 Source: The Hollywood Reporter | Status: expanded | Words: 3747
 Published: 2026-11-19T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/demi-moore-identity-stolen-former-assistant-1236757271
@@ -349,7 +379,7 @@ I have no idea whether she's reformed or not. Since watching You Can See Everyth
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[9] Melissa George Leading BBC-BritBox Detective Series 'The Loch Ness Mysteries'
+[10] Melissa George Leading BBC-BritBox Detective Series 'The Loch Ness Mysteries'
 Source: Deadline | Status: expanded | Words: 620
 Published: 2026-11-19T14:00:00+00:00
 URL: https://deadline.com/2026/11/the-loch-ness-mysteries-melissa-george-bbc-britbox-series-1237228077
@@ -379,7 +409,7 @@ BBC Studios is handling global sales. Filming will begin before the end of year 
 George is repped by Conway Van Gelder Grant, Inspire Entertainment and GGSSC.
 
 ============================================================
-[10] Gabby Bryan Releases Crowd-Work Comedy Special 'Gabby Bryan Is My Therapist'
+[11] Gabby Bryan Releases Crowd-Work Comedy Special 'Gabby Bryan Is My Therapist'
 Source: Variety | Status: expanded | Words: 298
 Published: 2026-11-19T14:00:00+00:00
 URL: https://variety.com/2026/tv/news/gabby-bryan-new-comedy-special-youtube-1236952583
@@ -407,7 +437,7 @@ She is represented by Brillstein Entertainment Partners, WME and Jackoway Austen
 "Gabby Bryan Is My Therapist" premieres on Nov. 19 on YouTube and on Prime Video on Dec. 4.
 
 ============================================================
-[11] Eddie Redmayne Jumps Off a Mountain in New 'Day of the Jackal' Season 2 Teaser
+[12] Eddie Redmayne Jumps Off a Mountain in New 'Day of the Jackal' Season 2 Teaser
 Source: Variety | Status: expanded | Words: 374
 Published: 2026-11-19T14:00:00+00:00
 URL: https://variety.com/2026/tv/global/eddie-redmayne-day-of-the-jackal-season-2-teaser-1236953014
@@ -441,7 +471,7 @@ Exec producers are Gareth Neame, Nigel Marchant, Marianne Buckland (Carnival Fil
 Check out the new teaser below:
 
 ============================================================
-[12] Barack and Michelle Obama's Higher Ground to Produce Off-Broadway Revival of 'Rumors' Led By 'Real Housewives' Stars (EXCLUSIVE)
+[13] Barack and Michelle Obama's Higher Ground to Produce Off-Broadway Revival of 'Rumors' Led By 'Real Housewives' Stars (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 593
 Published: 2026-11-19T14:00:00+00:00
 URL: https://variety.com/2026/legit/news/barack-michelle-obama-rumors-off-broadway-revival-real-housewives-1236952341
@@ -467,7 +497,7 @@ The revival will have a limited run at the Newman Mills Theater at the Robert W.
 As previously announced, this production will feature two separate casts, including Rinna as Chris, Parks as Claire, Rusch as Cookie, and Catania as Cassie from Jan. 9 through Feb. 28, followed by Bailey as Chris, Davidson as Claire, Radziwill as Cookie, and Dillard-Bassett as Cassie from March 2 through April 21. Casting for their husbands will be announced at a later date. "Rumors" will mark the New York stage debut for everyone other than Rinna, who has appeared on Broadway in &#x201C;Chicago&#x201D; as Roxie Hart and is currently in the &#x201C;It&#x2019;s a Wonderful Life&#x201D; revival.
 
 ============================================================
-[13] Andrew Tate Accused of Rape by Ex-Far Right Influencer in New HBO Documentary
+[14] Andrew Tate Accused of Rape by Ex-Far Right Influencer in New HBO Documentary
 Source: Variety | Status: expanded | Words: 1871
 Published: 2026-11-19T14:00:00+00:00
 URL: https://variety.com/2026/tv/news/andrew-tate-toxic-empire-hbo-lauren-southern-rape-sex-trafficking-1236952871
@@ -519,7 +549,7 @@ Southern alleges Tate walked her down to a taxi where she met her team, and once
 Whether the Trump administration will intervene in the Tates&#x2019; extradition remains to be seen.
 
 ============================================================
-[14] Someone Asked Anthony Mackie What Doomsday Is About, And He Had Only 10 Words
+[15] Someone Asked Anthony Mackie What Doomsday Is About, And He Had Only 10 Words
 Source: CinemaBlend | Status: expanded | Words: 231
 Published: 2026-11-19T13:36:39+00:00
 URL: https://www.cinemablend.com/movies/someone-asked-anthony-mackie-what-doomsday-is-about-he-had-only-10-words
@@ -535,7 +565,7 @@ Points were made. Marvel's security is notoriously tight , so the 48 year-old ac
 Anticipation Avengers: Doomsday has reached a fever pitch, with fans desperate for information about what's to come, and what surprise characters might pop up. Kevin Feige teased that more heroes will appear outside of the initial cast list, which was proven right when Chris Evans' Steve Rogers got his own trailer . Now fans are expecting to see Elizabeth Olsen 's Scarlet Witch, and there's not telling who might appearing during its mysterious runtime. The stakes are sky high, and Mackie's comments, albeit brief, drive that home.
 
 ============================================================
-[15] 'Jurassic World Rebirth,' 'Michael' and More Coming to Middle East TV Audiences With New Deal Between NBCUniversal and Qatar's BeIN Media Group
+[16] 'Jurassic World Rebirth,' 'Michael' and More Coming to Middle East TV Audiences With New Deal Between NBCUniversal and Qatar's BeIN Media Group
 Source: Variety | Status: expanded | Words: 487
 Published: 2026-11-19T13:27:59+00:00
 URL: https://variety.com/2026/tv/global/nbcuniversal-bein-deal-jurassic-world-michael-middle-east-1236952983
@@ -561,7 +591,7 @@ Other NBCUniversal titles that beIN outlets are set to get exclusively comprise 
 Commented NBCUniversal global TV distribution president Michael Bonner: "This new agreement builds on our valued relationship with beIN and underscores our shared commitment to bringing world-class storytelling to audiences across the Middle East and North Africa. With beIN&#x2019;s reach and deep understanding of the region, we look forward to continuing our work together and offering their viewers an exceptional range of NBCUniversal films and television series for years to come."
 
 ============================================================
-[16] This 1998 Sci-Fi Reboot Was a Flop, But I Will Still Defend It Decades Later
+[17] This 1998 Sci-Fi Reboot Was a Flop, But I Will Still Defend It Decades Later
 Source: ComicBook.com | Status: expanded | Words: 950
 Published: 2026-11-19T13:24:00+00:00
 URL: https://comicbook.com/movies/feature/this-1998-sci-fi-reboot-was-a-flop-but-i-will-still-defend-it-decades-later
@@ -591,7 +621,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] How A "Mysterious" Message Kickstarted Aardman's Gamechanging Pact With Pokémon
+[18] How A "Mysterious" Message Kickstarted Aardman's Gamechanging Pact With Pokémon
 Source: Deadline | Status: expanded | Words: 645
 Published: 2026-11-19T13:22:25+00:00
 URL: https://deadline.com/2026/11/aardman-bosses-pokemon-tales-disney-plus-tiktok-1237228905
@@ -629,7 +659,7 @@ Earlier, Murray said the UK government is taking the implications of the propose
 The Aardman bosses were speaking at the British Screen Forum Conference in London after Tilly Norwood creator Eline Van der Velden and Murray.
 
 ============================================================
-[18] Secret Lives Of Mormon Wives’ Weird O.C. Mix Led Producer To Think Stars Might ‘Murder Each Other’
+[19] Secret Lives Of Mormon Wives’ Weird O.C. Mix Led Producer To Think Stars Might ‘Murder Each Other’
 Source: CinemaBlend | Status: expanded | Words: 245
 Published: 2026-11-19T13:08:53+00:00
 URL: https://www.cinemablend.com/streaming-news/secret-lives-of-mormon-wives-weird-oc-mix-producer-think-stars-might-murder-each-other
@@ -645,7 +675,7 @@ He's likely joking about the whole "murder" thing, but having seen the Hulu real
 Largely because of Taylor Frankie Paul, the original The Secret Lives of Mormon Wives series has had its fair share of chaos surrounding production . After the cancellation of her season of The Bachelorette and custody issues with her children, the MomTok star announced that she was leaving the show. Things haven’t gone that far with anyone in the Orange County spinoff.
 
 ============================================================
-[19] Robert Eggers' ‘Werwulf’ Gets Behind-the-Scenes Book Featuring Original Screenplay
+[20] Robert Eggers' ‘Werwulf’ Gets Behind-the-Scenes Book Featuring Original Screenplay
 Source: Variety | Status: expanded | Words: 460
 Published: 2026-11-19T13:00:00+00:00
 URL: https://variety.com/2026/shopping/news/robert-eggers-werwulf-behind-the-scenes-screenplay-book-buy-1236952427
@@ -677,7 +707,7 @@ The Focus Features release marks Eggers' latest exploration of historical folklo
 &#x201C;Werwulf&#x201D; is scheduled to arrive in U.S. theaters on Dec. 25, 2026, two years after &#x201C;Nosferatu&#x201D; opened on Christmas Day.
 
 ============================================================
-[20] Qatar’s Film Committee &#038; UAE-Based Yango Play Explore Partnership Kicking Off With Falconry Doc Series ‘Elzam’
+[21] Qatar’s Film Committee &#038; UAE-Based Yango Play Explore Partnership Kicking Off With Falconry Doc Series ‘Elzam’
 Source: Deadline | Status: expanded | Words: 420
 Published: 2026-11-19T12:59:52+00:00
 URL: https://deadline.com/2026/11/qatar-film-committee-uae-yango-play-explore-falconry-elzam-1237228915
@@ -705,7 +735,7 @@ Yango Play is an entertainment App offering video streaming, music, and mini-gam
 &#x201C; Together, we look forward to exploring new collaborations that bring compelling local stories to life, create opportunities for regional talent and connect Qatari and regional productions with audiences across MENA and beyond."
 
 ============================================================
-[21] Cyclops' Love for Jean Grey Has Always Defined Him, but Midnight X-Men Gives It a Dark New Meaning
+[22] Cyclops' Love for Jean Grey Has Always Defined Him, but Midnight X-Men Gives It a Dark New Meaning
 Source: ComicBook.com | Status: expanded | Words: 819
 Published: 2026-11-19T12:43:00+00:00
 URL: https://comicbook.com/comics/feature/cyclops-love-for-jean-grey-has-always-defined-him-but-midnight-x-men-gives-it-a-dark-new-meaning
@@ -735,7 +765,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ &#038; ‘Jurassic World Rebirth' To MENA Audiences With Fresh NBC Universal Deal
+[23] BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ &#038; ‘Jurassic World Rebirth' To MENA Audiences With Fresh NBC Universal Deal
 Source: Deadline | Status: expanded | Words: 474
 Published: 2026-11-19T12:15:42+00:00
 URL: https://deadline.com/2026/11/bein-media-group-michael-hamnet-nbc-universal-1237228885
@@ -763,7 +793,7 @@ Michael Bonner, President, NBCUniversal Global TV Distribution added that the ne
 &#x201C;With beIN&#x2019;s reach and deep understanding of the region, we look forward to continuing our work together and offering their viewers an exceptional range of NBCUniversal films and television series for years to come,&#x201D; he said.
 
 ============================================================
-[23] Kit Connor Mystery Horror 'One Of Us' Boarded For Sales By OneTwoThree Media
+[24] Kit Connor Mystery Horror 'One Of Us' Boarded For Sales By OneTwoThree Media
 Source: Deadline | Status: expanded | Words: 481
 Published: 2026-11-19T12:12:02+00:00
 URL: https://deadline.com/2026/11/kit-connor-horror-one-of-us-gets-sales-deal-1237228891
@@ -787,7 +817,7 @@ The acquisition was negotiated at the AFM by Alan Green on behalf of OneTwoThree
 Stefan van de Graaff added: &#x201C;Partnering with OneTwoThree is extremely exciting for us as Alan and his team bring a very fresh, strategy-first approach to a sea of sameness amongst sales agents. Our film is so unique and the indie sales industry is shifting so rapidly under our feet; a sales partner who is both bespoke and innovative is no longer a "nice-to-have". The partnership is a meaningful step toward releasing the film to the tens of thousands of people who have messaged me asking when they can see it!&#x201D;
 
 ============================================================
-[24] Brad Pitt Quietly Gave Us One Of The Best Dog Movies In Years, and I’m Here To Make You Watch It
+[25] Brad Pitt Quietly Gave Us One Of The Best Dog Movies In Years, and I’m Here To Make You Watch It
 Source: CinemaBlend | Status: expanded | Words: 213
 Published: 2026-11-19T12:05:00+00:00
 URL: https://www.cinemablend.com/movies/brad-pitt-quietly-gave-us-one-of-best-dog-movies-in-years-here-make-you-watch-heart-of-the-beast
@@ -803,7 +833,7 @@ The story, at its most basic, is a survival one. Belmont and Odin find themselve
 In full transparency, walking into the theater for my screening, I was not looking forward to watching Heart of the Beast . I really debated whether I wanted to see it. Setting aside the possible fate of the dog, I just didn’t know if I wanted to sit through a survival movie, knowing what was sure to come. And I won’t lie, there are some moments I really struggled to watch. I’m not particularly squeamish, but one scene in particular hit way too close to home , and it was tough.
 
 ============================================================
-[25] 3 Incredible TV Shows That Were Way Ahead Of Their Time (Only 1 Has Become A True Cult Classic)
+[26] 3 Incredible TV Shows That Were Way Ahead Of Their Time (Only 1 Has Become A True Cult Classic)
 Source: ComicBook.com | Status: expanded | Words: 763
 Published: 2026-11-19T12:01:00+00:00
 URL: https://comicbook.com/tv-shows/list/3-incredible-tv-shows-that-were-way-ahead-of-their-time-only-1-has-become-a-true-cult-classic
@@ -827,7 +857,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] "I Was Scared There'd Be More Eye Rolls Than Optimism": Gaten Matarazzo on Making the West End His First Stop After 'Stranger Things'
+[27] "I Was Scared There'd Be More Eye Rolls Than Optimism": Gaten Matarazzo on Making the West End His First Stop After 'Stranger Things'
 Source: The Hollywood Reporter | Status: expanded | Words: 3540
 Published: 2026-11-19T12:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/gaten-matarazzo-rent-play-theatre-stranger-things-interview-1236751588
@@ -913,7 +943,7 @@ I knew it was going to be a physical challenge, and that's what I was going to l
 It was a blending of worlds that I love so much. It's a beautiful score. Dave Malloy is an incredible writer. Lin's an incredible director. The cast that was involved &#x2014;&#xA0;working with each individual in that group has been a goal and dream of mine for a long time. So for them to all be in the room at the same time… And as far as a movie goes, I love this. I mean, it's so weird, and I'm obsessed with it. I love weird shit. I like filming things that are weird, and I feel like permission is granted if you're doing something that is very, very absurd, which, at times, this movie is. It grants you personal permission to be as absurd as you can, and that's when I feel most comfortable jumping out of my comfort zone &#x2014; when everybody else is also doing it.
 
 ============================================================
-[27] Hollywood Vet Stephen Herek To Direct Italy-Set Rom-Com 'Emma's Dilemmas' For Former Prodigy Media; Italy's Panorama Films Aboard
+[28] Hollywood Vet Stephen Herek To Direct Italy-Set Rom-Com 'Emma's Dilemmas' For Former Prodigy Media; Italy's Panorama Films Aboard
 Source: Deadline | Status: expanded | Words: 503
 Published: 2026-11-19T11:56:24+00:00
 URL: https://deadline.com/2026/11/stephen-herek-to-direct-italy-set-rom-com-emmas-dilemmas-1237228876
@@ -941,7 +971,7 @@ Former Prodigy Media is also collaborating with writer Migdal on two additional 
 Herek is represented by David Gersh at the Gersh Agency.
 
 ============================================================
-[28] Penelope Cruz to Star in and Produce Netflix Drama 'Patricia' From 'On the Fringes' Director Juan Diego Botto
+[29] Penelope Cruz to Star in and Produce Netflix Drama 'Patricia' From 'On the Fringes' Director Juan Diego Botto
 Source: Variety | Status: expanded | Words: 488
 Published: 2026-11-19T11:34:46+00:00
 URL: https://variety.com/2026/film/global/penelope-cruz-netflix-drama-patricia-juan-diego-botto-1236952938
@@ -977,7 +1007,7 @@ Diego &#xC1;valos, Netflix&#x2019;s VP of content for Spain, Portugal, Turkey an
 Cruz is a contender in the 2027 awards race with three films, including Netflix's "La Bola Negra," directed by Javier Ambrossi et Javier Calvo, as well as Florian Zeller's "Bunker" and Olivia Wilde's "The Invite."
 
 ============================================================
-[29] 4 MCU Deaths That Could Happen in Avengers: Doomsday, And 1 Would Change the Entire Franchise
+[30] 4 MCU Deaths That Could Happen in Avengers: Doomsday, And 1 Would Change the Entire Franchise
 Source: ComicBook.com | Status: expanded | Words: 1096
 Published: 2026-11-19T11:19:00+00:00
 URL: https://comicbook.com/movies/list/4-mcu-deaths-that-could-happen-in-avengers-doomsday-and-1-would-change-the-entire-franchise
@@ -1013,7 +1043,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Backed by Honorary Oscar Winner Christine Vachon, Ray Panthaki's Directorial Debut ‘In Starland’ Marks a ‘Coming-of-Middle-Age Story’
+[31] Backed by Honorary Oscar Winner Christine Vachon, Ray Panthaki's Directorial Debut ‘In Starland’ Marks a ‘Coming-of-Middle-Age Story’
 Source: Variety | Status: expanded | Words: 1165
 Published: 2026-11-19T11:18:45+00:00
 URL: https://variety.com/2026/film/global/in-starland-ray-panthaki-clarence-maclin-tallinn-1236951713
@@ -1085,7 +1115,7 @@ He wrote to some of the musicians personally.
 &#x201C;There&#x2019;s very little in this film that we haven&#x2019;t had to fight for in some way.&#x201D;
 
 ============================================================
-[31] UK Culture Minister Delivers Emotional Plea To YouTube To "Set An Example" &#038; Remove Russell Brand's Channel
+[32] UK Culture Minister Delivers Emotional Plea To YouTube To "Set An Example" &#038; Remove Russell Brand's Channel
 Source: Deadline | Status: expanded | Words: 746
 Published: 2026-11-19T11:15:47+00:00
 URL: https://deadline.com/2026/11/russell-brand-youtube-channel-removed-culture-minister-1237228863
@@ -1137,7 +1167,7 @@ With a new version of BBC iPlayer currently being tested, Murray said it should 
 Murray was speaking at the British Screen Forum in London. Later will be keynotes from BBC deputy boss Rhodri Talfan Davies and Ken Loach's producing partner Rebecca O'Brien.
 
 ============================================================
-[32] YouTube Refuses U.K. Government Request to Remove Russell Brand Video, Says It Is Investigating Content
+[33] YouTube Refuses U.K. Government Request to Remove Russell Brand Video, Says It Is Investigating Content
 Source: Variety | Status: expanded | Words: 381
 Published: 2026-11-19T11:12:47+00:00
 URL: https://variety.com/2026/film/global/youtube-government-request-remove-russell-brand-video-investigate-1236952944
@@ -1167,7 +1197,7 @@ Meanwhile, Meta has disabled Brand&#x2019;s Instagram, Facebook and WhatsApp acc
 British prison authorities are also investigating whether Brand breached prison rules by issuing the statement. Justice Secretary Alex Norris said he expected action to be taken if Brand was found to have violated regulations.
 
 ============================================================
-[33] Senate And House Lawmakers Added As Cosponsors To New Federal Film &#038; TV Incentive Legislation
+[34] Senate And House Lawmakers Added As Cosponsors To New Federal Film &#038; TV Incentive Legislation
 Source: Deadline | Status: expanded | Words: 581
 Published: 2026-11-19T11:00:00+00:00
 URL: https://deadline.com/2026/11/federal-film-incentive-senate-house-cosponsors-1237228481
@@ -1197,7 +1227,7 @@ If the bill doesn't pass during the lame duck, it will have to be reintroduced i
 The House version of the bill now has 75 cosponsors and the Senate version has 13 .
 
 ============================================================
-[34] ‘Boys by the River,’ an IDFA Highlight, Captures One Day in ‘Paradise’ in Europe, Relished by Three Afghan Asylum Seekers
+[35] ‘Boys by the River,’ an IDFA Highlight, Captures One Day in ‘Paradise’ in Europe, Relished by Three Afghan Asylum Seekers
 Source: Variety | Status: expanded | Words: 1061
 Published: 2026-11-19T10:36:37+00:00
 URL: https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893
@@ -1249,7 +1279,7 @@ How would you place &#x201C;Boys by the River&#x201D; in your career and the kin
 With &#x201C;Boys by the River,&#x201D; I could explore my love of fixed frames, carefully composed images, and the passage of time within a scene. I also ventured a little further into fiction, not to simulate reality, but to get closer to it or question it, sometimes even playfully. That space between documentary and fiction is where I want to keep working, though funding categories often try to force us to define and limit a film long before we can make it.
 
 ============================================================
-[35] George Lucas' Abandoned Star Wars TV Show Was More Important Than You Think, And Could Still Influence the Future
+[36] George Lucas' Abandoned Star Wars TV Show Was More Important Than You Think, And Could Still Influence the Future
 Source: ComicBook.com | Status: expanded | Words: 923
 Published: 2026-11-19T10:34:00+00:00
 URL: https://comicbook.com/movies/feature/george-lucas-abandoned-star-wars-tv-show-was-more-important-than-you-think-and-could-still-influence-the-future
@@ -1275,7 +1305,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Silverprint Pictures Launches Scotland Arm Following 'Shetland' Recommission
+[37] Silverprint Pictures Launches Scotland Arm Following 'Shetland' Recommission
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-19T10:27:51+00:00
 URL: https://deadline.com/2026/11/shetland-recommission-silverprint-launches-scotland-arm-1237228861
@@ -1299,7 +1329,7 @@ Kate Bartlett, Creative Director of Silverprint Pictures, said : &#x201C;Having 
 Denise Paul, executive producer, Silverprint Pictures Scotland, added: &#x201C;I&#x2019;m thrilled to be heading up Silverprint Pictures in Scotland and can&#x2019;t wait to get started. It&#x2019;s a fantastic opportunity to build on the great relationships we&#x2019;ve established through the years on Shetland, whilst also developing new projects with Scottish creatives at their heart.&#x201D;
 
 ============================================================
-[37] YouTube Investigating Russell Brand Prison Message Video
+[38] YouTube Investigating Russell Brand Prison Message Video
 Source: Deadline | Status: expanded | Words: 450
 Published: 2026-11-19T10:26:22+00:00
 URL: https://deadline.com/2026/11/youtube-investigates-russell-brand-prison-message-video-1237228857
@@ -1329,7 +1359,7 @@ She continued: &#x201C;The good news is that Christ is with us when we choose hi
 An audibly emotional Laura Brand added: &#x201C;Please support my treasured wife and family. I feel your prayers, your brother in Christ. Russell.&#x201D;
 
 ============================================================
-[38] Comcast And Skydance Shuttering European Streamer SkyShowtime; CEO Monty Sarhan Exiting
+[39] Comcast And Skydance Shuttering European Streamer SkyShowtime; CEO Monty Sarhan Exiting
 Source: Deadline | Status: expanded | Words: 365
 Published: 2026-11-19T10:20:19+00:00
 URL: https://deadline.com/2026/11/skyshowtime-closing-2027-monty-sarhan-leaving-1237228853
@@ -1353,7 +1383,7 @@ SkyShowtime was launched in 2022 out of Amsterdam as a JV streaming service betw
 However, the service is operating in a different landscape to its pandemic era roots, with Paramount now sitting inside the same Skydance tent as Warner Bros. Discovery and Comcast splitting its entertainment services up, with cable networks business Versant now separate to NBCUniversal. UK pay TV business Sky handles Comcast's investment in SkyShowtime.
 
 ============================================================
-[39] Jeon Do-yeon on Oscar Contender 'Possible Love,' Korean Cinema's Commercial Pull and Her 'Greater Thirst' for Stories
+[40] Jeon Do-yeon on Oscar Contender 'Possible Love,' Korean Cinema's Commercial Pull and Her 'Greater Thirst' for Stories
 Source: Variety | Status: expanded | Words: 736
 Published: 2026-11-19T10:19:25+00:00
 URL: https://variety.com/2026/film/news/jeon-do-yeon-oscar-contender-possible-love-korean-cinema-1236952899
@@ -1385,7 +1415,7 @@ Lee, she adds, "was more prepared for working with me," and the overall mood "wa
 Jeon says she is considering a film for her next project, "but nothing has been decided yet." She says she looks forward to telling greater stories and finding those works.
 
 ============================================================
-[40] ‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That's Unique
+[41] ‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That's Unique
 Source: Variety | Status: expanded | Words: 781
 Published: 2026-11-19T10:17:47+00:00
 URL: https://variety.com/2026/film/reviews/steps-review-1236952706
@@ -1415,7 +1445,7 @@ With five credited writers, the script for &#x201C;Steps&#x201D; feels like a to
 Though the kingdom is intricately conceived in gorgeous pastel colors, the character design, while not aesthetically unpleasant, can best be described as standard &#x2014; the way most 3DCG humans look in mainstream animated features. When Margot (a character with little to do) turns into an adorable, pudgy frog, her design &#x2014; with her hair buns becoming the creature's bugging eyes &#x2014; provides a rare interesting edge to the film&#x2019;s mostly generic visual identity. The brightly colored world of &#x201C;Steps,&#x201D; as well as its use of pop songs and the contentious banter between Wong and Seyfried, may work well enough to entertain young viewers, but it doesn't make for a classic.
 
 ============================================================
-[41] Tilly Norwood Creator Teases Next Project 'Storm Dogs' &#038; Shows Clip
+[42] Tilly Norwood Creator Teases Next Project 'Storm Dogs' &#038; Shows Clip
 Source: Deadline | Status: expanded | Words: 526
 Published: 2026-11-19T10:01:31+00:00
 URL: https://deadline.com/2026/11/tilly-norwood-creator-teases-next-storm-dogs-clip-1237228854
@@ -1457,7 +1487,7 @@ Van der Velden was speaking at the British Screen Forum after former Amazon UK b
 Bird said AI is allowing practices developed by the streaming giants to be "replicated for the independent industry," which can lead to "better creative decisions."
 
 ============================================================
-[42] Stephen King Changed TV And Gave '90s Kids a Fear of Clowns Forever 36 Years Ago
+[43] Stephen King Changed TV And Gave '90s Kids a Fear of Clowns Forever 36 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 1186
 Published: 2026-11-19T09:51:00+00:00
 URL: https://comicbook.com/horror/feature/stephen-king-changed-tv-and-gave-90s-kids-a-fear-of-clowns-forever-36-years-ago
@@ -1495,7 +1525,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] 5 Video Game Movies That Should Have Started Franchises (I’m Still Upset About #1)
+[44] 5 Video Game Movies That Should Have Started Franchises (I’m Still Upset About #1)
 Source: ComicBook.com | Status: expanded | Words: 1203
 Published: 2026-11-19T09:11:00+00:00
 URL: https://comicbook.com/movies/list/5-video-game-movies-that-should-have-started-franchises-im-still-upset-about-1
@@ -1533,7 +1563,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] 'Rivals' No More: Research Reveals Rationale Behind Disney-Channel 4 Deal
+[45] 'Rivals' No More: Research Reveals Rationale Behind Disney-Channel 4 Deal
 Source: Deadline | Status: expanded | Words: 637
 Published: 2026-11-19T09:03:38+00:00
 URL: https://deadline.com/2026/11/disney-channel-4-deal-ratings-research-rivals-1237227922
@@ -1565,7 +1595,7 @@ Disney+ has committed big to international originals of late, with a plan to tri
 Digital i chief analytics officer Matt Ross said: "Channel 4 brings Disney+ far more than a library of recognisable British hits. Our data shows its programming attracts an audience that already demonstrates significantly higher engagement, streaming more frequently and spending more overall time on streaming platforms.&#x201D;
 
 ============================================================
-[45] 'Ramayana' Journey Across Asia Anchors Discovery India Docuseries Marking Shashi Tharoor's TV Hosting Debut (EXCLUSIVE)
+[46] 'Ramayana' Journey Across Asia Anchors Discovery India Docuseries Marking Shashi Tharoor's TV Hosting Debut (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 490
 Published: 2026-11-19T08:53:05+00:00
 URL: https://variety.com/2026/film/news/ramayana-discovery-docuseries-shashi-tharoor-tv-hosting-debut-1236952884
@@ -1597,7 +1627,7 @@ Abishek said the network was thrilled to have Tharoor on board, adding: "His und
 Tharoor added that literature, history and cultural exchange had long been abiding interests of his, "which made this an especially fitting subject for my debut as a television host. I am delighted that this first step has been with Discovery."
 
 ============================================================
-[46] ‘The List’ Author Yomi Adegoke Sets Audible Series ‘Playing The Game’
+[47] ‘The List’ Author Yomi Adegoke Sets Audible Series ‘Playing The Game’
 Source: Deadline | Status: expanded | Words: 464
 Published: 2026-11-19T08:38:06+00:00
 URL: https://deadline.com/2026/11/yomi-adegoke-playing-the-game-audible-1237228841
@@ -1623,7 +1653,7 @@ Their solution? Fake a relationship, trick the producers, fool the public, take 
 Adegoke is best known for her novel The List, which was picked up by HBO Max, BBC and A24.
 
 ============================================================
-[47] 36 Years Later, Macaulay Culkin Has The Perfect Home Alone Sequel Pitch &#038; It’s More Likely Than Ever To Get Made
+[48] 36 Years Later, Macaulay Culkin Has The Perfect Home Alone Sequel Pitch &#038; It’s More Likely Than Ever To Get Made
 Source: ComicBook.com | Status: expanded | Words: 966
 Published: 2026-11-19T08:30:00+00:00
 URL: https://comicbook.com/movies/feature/36-years-later-macaulay-culkin-has-the-perfect-home-alone-sequel-pitch-its-more-likely-than-ever-to-get-made
@@ -1655,7 +1685,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] 'The Altruists' Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix's Intriguing but Unsatisfying Crypto Love Story
+[49] 'The Altruists' Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix's Intriguing but Unsatisfying Crypto Love Story
 Source: The Hollywood Reporter | Status: expanded | Words: 1305
 Published: 2026-11-19T08:01:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/the-altruists-review-julia-garner-anthony-boyle-netflix-1236758009
@@ -1695,7 +1725,7 @@ But as a way into what is still ultimately the story of a tech scam, the romanti
 You come away with the sense that the real lesson of the whole FTX debacle is what a tragedy it is when two people so intelligent are too caught up in their own heads to simply say what's in their hearts, to the point that it's easier to perpetrate financial crimes on a historic scale than it is to simply say "I love you." In a vacuum, I suppose it's a worthy lesson. In a broader context, however, it seems an unreasonably expensive one.
 
 ============================================================
-[49] 'The Altruists' Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried
+[50] 'The Altruists' Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried
 Source: Variety | Status: expanded | Words: 1396
 Published: 2026-11-19T08:01:00+00:00
 URL: https://variety.com/2026/tv/reviews/the-altruists-review-netflix-sam-bankman-fried-1236952311
@@ -1725,42 +1755,4 @@ For all EA comes into focus, cryptocurrency itself remains stubbornly obscure. I
 It&#x2019;s not like &#x201C;The Altruists&#x201D; lacks time to explore the Bankman-Fried household dynamics. (The resources to convincingly render far-flung locations like Macau and Malta do, however, seem scarce.) At eight hourlong episodes, &#x201C;The Altruists&#x201D; is padded out with detours into Nishad&#x2019;s office romance and the backstory of SBF&#x2019;s college pal Sam Trabucco (Alex Lawther), who left FTX before things hit the fan. The space would be far better spent building out the crypto universe, shading in Sam and Caroline outside one another&#x2019;s orbit or even outlandish incidents like FTX&#x2019;s Larry David-starring Super Bowl ad. Without a stronger center, though, these satellite plots feel like they&#x2019;re orbiting a vacuum.
 
 All eight episodes of &#x201C;The Altruists&#x201D; are now streaming on Netflix.
-
-============================================================
-[50] Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube
-Source: Variety | Status: expanded | Words: 792
-Published: 2026-11-19T08:01:00+00:00
-URL: https://variety.com/2026/tv/news/hearst-canvas-launches-frontier-collective-alex-bescoby-1236952832
-------------------------------------------------------------
-SUMMARY:
-Hearst Canvas, the creator-led media arm of U.K.-based Hearst Networks, has launched its latest digital native brand with Frontier Collective, an effort to harness the YouTube and social media followings of top outdoor adventure content creators. The effort has quietly bowed over the past few weeks starting with a roundtable-style talk show, “Expedition HQ,” featuring […]
-
-CONTENT / EXTRACTED DETAILS:
-Hearst Canvas , the creator-led media arm of U.K.-based Hearst Networks, has launched its latest digital native brand with Frontier Collective , an effort to harness the YouTube and social media followings of top outdoor adventure content creators.
-
-The effort has quietly bowed over the past few weeks starting with a roundtable-style talk show, &#x201C;Expedition HQ,&#x201D; featuring four prominent U.K. explorers at the core of Frontier Collective: Aldo Kane, Alex Bescoby, Levison Wood and Lucy Shepherd. The foursome come together swap stories about explorations and derring-do in their efforts to explore the natural world and far-flung exotic locales. &#x201C;Expedition HQ&#x201D; bowed Nov. 1 on the Frontier Collective YouTube channel, with new episodes released weekly. Clips are spread widely around Instagram, TikTok, Facebook and Snapchat. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’ Robert Pattinson Trolled by U.K. Government in Youth Employment Scheme Post After Bond Reveal: He’ll ‘Apply for All 90,000 Jobs’
-
-Hearst Canvas hopes to tap into the heat of the adventure content community on YouTube. The Hearst Canvas division is set up to find top-tier creators who can contribute to strong verticals as Hearst Networks develops new content and formats designed to roll out on YouTube. Dean Possenniskie, managing director, Hearst Networks, Europe, Middle East and Africa and managing director Hearst Networks U.K., is overseeing the Canvas venture that was launched in October 2025.
-
-&#x201C;We&#x2019;ve now built a dedicated creative team that is going to originate formats in a different style that are designed to work as creator-led content on YouTube,&#x201D; Possenniskie told Variety . &#x201C;A format like Frontier Collective is unique in the fact it brings together four very strong talents in the space. It&#x2019;s not an audience that we traditionally reach here in the U.K. through pay TV or DTC or broadcast channels. It&#x2019;s a global audience, and it&#x2019;s a much broader audience for us to reach now as well. So that&#x2019;s a really exciting opportunity.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Hearst Canvas is headed by Danny Baggot as creative director and Sam Pearson as executive producer. The pair unveiled the venture&#x2019;s first commission on Oct. 29, the unscripted business revitalization series &#x201C;Pitch, Please."
-
-&#x201C;Frontier Collective offers a compelling opportunity to build something unique in the adventure space &#x2014; a network of remarkable individuals whose passion drives them to explore the far reaches of our globe and share what they&#x2019;ve experienced with the world,&#x201D; Pearson said. &#x201C;And with 'Expedition HQ,' we&#x2019;re launching a returning format that delivers on this promise through fascinating and insightful conversations.&#x201D;
-
-The roundtable series is produced by Grammar Productions, co-founded by Bescoby. It&#x2019;s produced shows for BBC, Channel 4, Apple TV, Amazon Prime, Discovery, Sky HISTORY and Canal+, in addition to custom work for brands.
-
-As a veteran of the adventure genre, Bescoby said he sees demand for Frontier Collective as a concept.
-
-&#x201C;Some of the best adventure storytellers I know have spent years asking for a proper home for their work,&#x201D; Bescoby said. &#x201C;Traditional television has stepped back from the genre, even as audiences are clamoring for more. It&#x2019;s hugely exciting that Hearst Canvas is building that home with Frontier Collective, and it&#x2019;s amazing to be a part of it."
-
-Kane invoked the importance of the YouTube channel as serving as a hub for adventure content fan communities. &#x201C;This new YouTube channel allows us to bring directly to our community the real story that goes on behind the scenes on these adventures,&#x201D; he said.
-
-Wood added that every major adventure yields its own unique experiences, and inevitably, there is more color than can be included in the final program. &#x201C;So much never makes it into the finished documentaries. I&#x2019;m looking forward to sharing more of those experiences and unseen footage on my own channels as part of Frontier Collective,&#x201D; Wood said.
-
-Shepherd added her enthusiasm for the push to build a hub for top digital-native explorers and adventurers.
-
-&#x201C;I&#x2019;m only sorry this didn&#x2019;t begin sooner. There&#x2019;s something very special about sitting around a table with people whose adventures inspired me to set out on my own,&#x201D; Shepherd said. &#x201C;Life is an expedition, and I hope our stories inspire others to find a little adventure in their lives, wherever they are.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-(Pictured: &#x201C;Expedition HQ&#x201D; hosts Alex Bescoby, Lucy Shepherd, Levison Wood and Aldo Kane)
 
