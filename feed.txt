@@ -1,9 +1,119 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T08:00:38.361Z
+Last Updated: 2026-11-19T08:18:37.559Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Netflix Unveils Penélope Cruz &#038; Juan Diego Botto's Domestic Violence Drama 'Patricia' As Production Gets Underway
+[1] 'The Altruists' Review: Anthony Boyle and Julia Garner Make a Toxically Perfect Match in Netflix's Intriguing but Unsatisfying Crypto Love Story
+Source: The Hollywood Reporter | Status: expanded | Words: 1305
+Published: 2026-11-19T08:01:00+00:00
+URL: https://www.hollywoodreporter.com/tv/tv-reviews/the-altruists-review-julia-garner-anthony-boyle-netflix-1236758009
+------------------------------------------------------------
+SUMMARY:
+Based on the real-life rise and fall of FTX, the eight-part miniseries from Graham Moore ('The Imitation Game') delves into the romance between founder Sam Bankman-Fried and exec Caroline Ellison.
+
+CONTENT / EXTRACTED DETAILS:
+As FTX founder Sam Bankman-Fried ( Anthony Boyle ) begins his very public downfall, one salacious detail starts to go viral: That Caroline Ellison ( Julia Garner ), CEO of sister firm Alameda and his ex-girlfriend, was a prolific writer of smutty Harry Potter fanfiction.
+
+The fact that her private hobby has nothing to do with the financial crimes they're in hot water for is beside the point. &#x201C;What gets more clicks than a complicated financial scandal? A young professional woman who's into kink," shrugs Constance (Madison Hu), FTX&#x2019;s loyal-to-the-end COO. "I mean, that's the story. The whole world didn't care about Caroline until they realized that she was horny.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV Netflix's New Releases Coming in November 2026 TV 'The Altruists': Anthony Boyle's Sam Bankman-Fried Caught in Crypto Crisis in Netflix Series Trailer The Altruists The Bottom Line All heart and not enough head. Airdate: Thursday, Nov. 19 (Netflix) Cast: Julia Garner, Anthony Boyle, Alex Lawther, Karan Soni, Madison Hu, Eugene Young, Naomi Okada, Matt Rife, Robin Weigert, Paul Reiser, Terry Chen Creator: Graham Moore
+
+Sam, who knows better than anyone how mortified Caroline must be, seems troubled by the notion. But it more or less appears to be the impulse driving Netflix&#x2019;s The Altruists . The eight-hour series chronicles the rise and fall of FTX and Alameda through the tumultuous relationship between its leaders &#x2014; and in doing so, deepens the saga's emotional relatability while also diminishing its stakes.
+
+For most of the season, creator Graham Moore ( The Imitation Game ) cuts between two timelines. In the halcyon days of 2016, captured by director James Ponsoldt in the warm bright tones and slightly grainy texture of an indie rom-com, Caroline meets Sam on her first day at a New York hedge fund. The two recognize each other almost immediately as kindred spirits, matched in their intelligence (high), their interests (math and winning) and their taste in jokes (charmingly dorky).
+
+In no time, they&#x2019;re falling into bed, though not quite into a relationship &#x2014; Caroline prefers to keep it caszh, reasoning that non-monogamy is more &#x201C;mathematically optimal&#x201D; for getting off. Instead, they tie their fates together via their careers. Sam first founds Alameda and then FTX, and in short order brings Caroline on board as an exec. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+The businesses are rooted in the couple's shared principle of effective altruism. In theory, EA is a rationalist moral framework that prioritizes doing the greatest good. In practice, like most guiding philosophies, it's easily twisted into whatever a self-interested devotee wants it to be.
+
+Betraying a colleague, conning oblivious business partners, stealing customer money &#x2014; why, any of it might be justifiable, noble even, so long as it's done with the intention of making more money to definitely for sure donate to some worthy cause someday. And so it is that in the show&#x2019;s other, grayer timeline, it&#x2019;s 2022 and Sam and Caroline find themselves scrambling to cover up all the grave financial misdeeds they've committed in service of some vague higher purpose.
+
+How one timeline could lead into the other is The Altruists &#x2019; central concern, though the answer isn't really much mystery (and not only because it was all headline news a scant four years ago). The differences between the Caroline and Sam we meet in 2016 and the ones we&#x2019;ll part with in 2022 are ones of degree, not kind. These two have always been aggressive about taking risks, arrogant about their ability to outplay them, skeptical of the rules and gifted in justifying their own bullshit to themselves as perfectly rational, and therefore objectively correct, decisions.
+
+Add in the fact that they tend to augment each other&#x2019;s worst impulses &#x2014; backing each other&#x2019;s wildest moves, one-upping each other for spite or for fun, treating every office disagreement like a proxy for the conversations about commitment or exclusivity they&#x2019;re supposedly too evolved to need &#x2014; and FTX/Alameda&#x2019;s meltdown starts to look almost inevitable. As ex-colleague and ex-friend Trabucco (a very good Alex Lawther) puts it, &#x201C;Sam was a block of sodium. Caroline was a rushing river.&#x201D; Put those ingredients together, the MIT graduate explains, and you&#x2019;ve got an instant fireball. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+If the journey contains few surprises, however, it does offer some worthy features. Karan Soni brings much-needed sweetness as FTX engineer Nishad, whose cute will-they-won't-they with a coworker (Naomi Okada) becomes collateral damage in the implosion. Paul Reiser and Robin Weigert are fun in supporting roles as Sam&#x2019;s parents, though their appearances are so brief that another character has to explain that while they love their son, they don&#x2019;t like him. On the other end of the lovability spectrum, Terry Chen drinks up the part of possibly mob-affiliated rival crypto founder CZ with as much gusto as his character does his fancy health tonics.
+
+The real (vegan) meat of the story, of course, is the bond between Sam and Caroline. That, the series understands inside and out. Boyle disappears into the part of Sam, whose boyish arrogance is somehow both his most alluring quality and his most repugnant. He's outdone only slightly by the chameleonic Garner, who plays the mousy but mighty Caroline like she might see all the gears turning just underneath the surface of reality if she only stares hard enough.
+
+When the two are across a room from one another, even editing a spreadsheet can turn into an act of thrilling flirtation. I hesitate to describe their chemistry as irresistible only because that might suggest we want to see them together. In actuality, the questionably effective but not entirely unpleasant experience of watching The Altruists is to simultaneously believe with your whole heart that these crazy kids are meant for each other and that we'd all have been better off if they'd never met. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
+
+The show&#x2019;s intense focus on their love story distinguishes it, somewhat, from the increasingly crowded field of dramas about scammy and scummy tech founders. The usual rise-fall arc is emotionally complicated by the m&#xE9;nage &#xE0; trois between Sam, Caroline and FTX/Alameda: The lovers might insist they always put the work first, but The Altruists know well how vulnerable even billionaire geniuses can be to whims of their hearts or loins. ( Ahem. )
+
+But as a way into what is still ultimately the story of a tech scam, the romantic angle doesn't entirely work. Amid all the whirlwind drama, a sense of perspective gets lost. The number $8 billion, as in the amount of money FTX has stolen from its customers, gets lobbed about in every episode. But who those clients are, what impact the crime has in the larger world, what cultural forces allowed SBF's FTX to get so big so fast to begin with, what consequences are left in the wake of its collapse &#x2014; all these factors are barely mentioned at all.
+
+You come away with the sense that the real lesson of the whole FTX debacle is what a tragedy it is when two people so intelligent are too caught up in their own heads to simply say what's in their hearts, to the point that it's easier to perpetrate financial crimes on a historic scale than it is to simply say "I love you." In a vacuum, I suppose it's a worthy lesson. In a broader context, however, it seems an unreasonably expensive one.
+
+============================================================
+[2] 'The Altruists' Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried
+Source: Variety | Status: expanded | Words: 1396
+Published: 2026-11-19T08:01:00+00:00
+URL: https://variety.com/2026/tv/reviews/the-altruists-review-netflix-sam-bankman-fried-1236952311
+------------------------------------------------------------
+SUMMARY:
+The collapse of cryptocurrency exchange FTX in 2022 — a spectacular implosion that saw the company evaporate and sent founder Sam Bankman-Fried to prison, along with much of his inner circle — felt epic in the moment. But compared to the frenzy around artificial intelligence that was soon to come, even the Shakespearean downfall of […]
+
+CONTENT / EXTRACTED DETAILS:
+The collapse of cryptocurrency exchange FTX in 2022 &#x2014; a spectacular implosion that saw the company evaporate and sent founder Sam Bankman-Fried to prison, along with much of his inner circle &#x2014; felt epic in the moment. But compared to the frenzy around artificial intelligence that was soon to come, even the Shakespearean downfall of a corporation that could once casually spend nine figures on stadium naming rights feels like a footnote in the intertwined history of technology and finance. The crypto boom now occupies an awkward middle space in the recent arc of the tech industry: After the Obama-era idealism of Facebook, Twitter and other companies that promised to connect the world for the better and before the full-on dystopian rhetoric of post-human labor and a &#x201C;permanent underclass.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Darren Aronofsky's Protozoa and Memory to Adapt Chris Miller's 'Chip War' into Feature Documentary (EXCLUSIVE) Elon Musk Has Invested in Skydance, David Ellison Confirms: 'To Have Him as a Shareholder Is an Honor'
+
+The Netflix limited series &#x201C; The Altruists ,&#x201D; created by Graham Moore (the Oscar-winning screenwriter of &#x201C;The Imitation Game&#x201D;) and produced by the Obamas&#x2019; shingle Higher Ground, is aware of this gap. &#x201C;AI is hotter than crypto&#x2019;s ever been right now,&#x201D; one character observes in the finale as FTX&#x2019;s house of cards starts to fall. (Marquee frontier lab and FTX investee Anthropic even makes a cameo.) &#x201C;The Altruists&#x201D; could theoretically use our rapidly fading cultural memory to its advantage, dusting off the Bankman-Fried story to deliver a character study that pushes past tabloid headlines about polycules and party mansions to make sense of what happened and a case for why it mattered.
+
+Instead, &#x201C;The Altruists&#x201D; opts for the most conventional, least persuasive lens through which to explain the significance of FTX as well as what went wrong: the on-and-off romance between Bankman-Fried (Irish actor Anthony Boyle) and Caroline Ellison (Julia Garner, also an executive producer), the former head of FTX-affiliated hedge fund Alameda Research. The action toggles back and forth between two timelines: the early days of Sam, Caroline and their companies and their swift demise five years later, forecasted in a standard flash-forward to the FBI storming the office. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+The erstwhile couple make a certain sense as the show&#x2019;s focus. They&#x2019;re a handy metaphor for the messy, inappropriate relationship between their two companies, which culminated in FTX&#x2019;s use of billions in customer money to cover for Alameda&#x2019;s trading losses. And, of course, there are salacious details like Ellison&#x2019;s X-rated &#x201C;Harry Potter&#x201D; fanfiction &#x2014; the kind of low-hanging fruit a writer would have to be foolish to leave on the vine. Sex still sells, even when the sex in question is between socially awkward math geeks whose idea of foreplay is strategic board games.
+
+But &#x201C;The Altruists,&#x201D; which works from a series of New York magazine articles by Kevin T. Dugan and Jen Wieczner as its source material, makes Sam and Caroline strangely simplistic, both as individual personalities and larger cultural forces. It starts with the casting: Boyle is a strong actor with a bright future ahead of him; the onetime face of a brash IRA revolutionary in "Say Nothing" is nonetheless an awkward fit for a noted oddball like Bankman-Fried, and Boyle never disappears into the role. His SBF &#x2014; the boy billionaire&#x2019;s popular nickname &#x2014; is motormouthed and visibly anxious, yet the scripts elide some of his strangest tics, like taking interviews while playing video games or sleeping on the office floor. (The bean bag habit is alluded to in dialogue, yet never shown. An odd choice for a visual medium!) Boyle&#x2019;s performance comes off more like the Mark Zuckerberg of &#x201C;The Social Network,&#x201D; a disaffected yet basically relatable nerd who craves validation, than the Mark Zuckerberg of &#x201C;The Social Reckoning,&#x201D; a space alien whose inability to grasp human nature has warped the world in his image.
+
+Garner, for her part, dials up Ellison&#x2019;s tics into a near-caricature of a four-eyed poindexter. Pre-arrest footage of Ellison, who would go on to cooperate extensively with SBF&#x2019;s prosecutors, shows the same nervous laughter that Garner accurately mimics, but a much more calm and even speaking voice. Amping up an accent and donning a wig are old hat for the star of &#x201C;Inventing Anna,&#x201D; another frustrating Netflix project that captured its subject&#x2019;s eccentricity without delving into their deeper psychology. Were &#x201C;The Altruists&#x201D; more of a straight-up satire in tone, Garner&#x2019;s caricature might work in context. Instead, isolated moments of humor &#x2014; upon finding out about the fraud, one FTX employee is mad because he's been urging them to break the law for years and feels excluded &#x2014;&#xA0;are left to float in an otherwise sincere story of misguided puppy love. (In a striking detail seemingly invented for the show, Caroline is the first woman Sam ever sleeps with.) Perhaps Moore and co-showrunner Jacqueline Hoyt were worried about crossing over into gleeful cruelty. But if perpetrators of a multibillion dollar fraud don&#x2019;t deserve some mockery, who does? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+Sam and Caroline are initially drawn together as young analysts at the Wall Street firm Jane Street Capital by their mutual interest in effective altruism, the &#x201C;earn to give&#x201D; movement that gives &#x201C;The Altruists&#x201D; its name. (Characters affiliated with EA are frequently identified by their branded T-shirts.) The two encourage each other&#x2019;s most dangerous instincts, like going all in on every bet because it&#x2019;s &#x201C;mathematically optimal&#x201D; or refusing to communicate discomfort around Sam&#x2019;s autocratic tendencies or Caroline&#x2019;s polyamory. The plot frames Sam and Caroline&#x2019;s slide into criminality as the slow corruption of self-identified &#x201C;good guys,&#x201D; though the show is strangely uncritical of the starting premise that the best way to make positive change in the world is by amassing a personal fortune.
+
+For all EA comes into focus, cryptocurrency itself remains stubbornly obscure. It&#x2019;s not easy to mine drama from complex financial instruments, but &#x201C;The Altruists&#x201D; puts frustratingly little effort into explaining the water these crazy kids are swimming in. Without a more defined sense of what makes crypto unique, &#x201C;The Altruists&#x201D; is left with a faint rehash of the techno-optimism-gone-awry narrative already explored in series like &#x201C;The Dropout,&#x201D; &#x201C;Super Pumped&#x201D; and &#x201C;WeCrashed,&#x201D; which tellingly dropped within weeks of each other in 2022 (and just a few months before FTX flamed out). Those three titles collectively worked to capture a specific time and place; with its personal focus, &#x201C;The Altruists&#x201D; never does the same.
+
+&#x201C;The Altruists&#x201D; even gestures at more productive angles on the whole FTX affair than the folie a deux of Sam and Caroline. Potential framing devices, like a Bloomberg reporter&#x2019;s investigation, are flirted with and abandoned. Nishad Singh (Karan Soni), SBF&#x2019;s childhood friend turned employee, tells us that Sam&#x2019;s Stanford Law professor parents Joe (Paul Reiser) and Barbara (Robin Weigert) are the skeleton key to his need to prove himself. &#x201C;They already love you,&#x201D; Nishad says of the scholars. &#x201C;They just don&#x2019;t fucking like you.&#x201D; It&#x2019;s a great line, just not one backed up in any way by the show&#x2019;s portrayal of that relationship, which is fairly minimal and fails to lay the groundwork for head-scratching decisions like Joe and Barbara&#x2019;s total credulity toward their son, both before and after his arrest. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+It&#x2019;s not like &#x201C;The Altruists&#x201D; lacks time to explore the Bankman-Fried household dynamics. (The resources to convincingly render far-flung locations like Macau and Malta do, however, seem scarce.) At eight hourlong episodes, &#x201C;The Altruists&#x201D; is padded out with detours into Nishad&#x2019;s office romance and the backstory of SBF&#x2019;s college pal Sam Trabucco (Alex Lawther), who left FTX before things hit the fan. The space would be far better spent building out the crypto universe, shading in Sam and Caroline outside one another&#x2019;s orbit or even outlandish incidents like FTX&#x2019;s Larry David-starring Super Bowl ad. Without a stronger center, though, these satellite plots feel like they&#x2019;re orbiting a vacuum.
+
+All eight episodes of &#x201C;The Altruists&#x201D; are now streaming on Netflix.
+
+============================================================
+[3] Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube
+Source: Variety | Status: expanded | Words: 792
+Published: 2026-11-19T08:01:00+00:00
+URL: https://variety.com/2026/tv/news/hearst-canvas-launches-frontier-collective-alex-bescoby-1236952832
+------------------------------------------------------------
+SUMMARY:
+Hearst Canvas, the creator-led media arm of U.K.-based Hearst Networks, has launched its latest digital native brand with Frontier Collective, an effort to harness the YouTube and social media followings of top outdoor adventure content creators. The effort has quietly bowed over the past few weeks starting with a roundtable-style talk show, “Expedition HQ,” featuring […]
+
+CONTENT / EXTRACTED DETAILS:
+Hearst Canvas , the creator-led media arm of U.K.-based Hearst Networks, has launched its latest digital native brand with Frontier Collective , an effort to harness the YouTube and social media followings of top outdoor adventure content creators.
+
+The effort has quietly bowed over the past few weeks starting with a roundtable-style talk show, &#x201C;Expedition HQ,&#x201D; featuring four prominent U.K. explorers at the core of Frontier Collective: Aldo Kane, Alex Bescoby, Levison Wood and Lucy Shepherd. The foursome come together swap stories about explorations and derring-do in their efforts to explore the natural world and far-flung exotic locales. &#x201C;Expedition HQ&#x201D; bowed Nov. 1 on the Frontier Collective YouTube channel, with new episodes released weekly. Clips are spread widely around Instagram, TikTok, Facebook and Snapchat. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’ Robert Pattinson Trolled by U.K. Government in Youth Employment Scheme Post After Bond Reveal: He’ll ‘Apply for All 90,000 Jobs’
+
+Hearst Canvas hopes to tap into the heat of the adventure content community on YouTube. The Hearst Canvas division is set up to find top-tier creators who can contribute to strong verticals as Hearst Networks develops new content and formats designed to roll out on YouTube. Dean Possenniskie, managing director, Hearst Networks, Europe, Middle East and Africa and managing director Hearst Networks U.K., is overseeing the Canvas venture that was launched in October 2025.
+
+&#x201C;We&#x2019;ve now built a dedicated creative team that is going to originate formats in a different style that are designed to work as creator-led content on YouTube,&#x201D; Possenniskie told Variety . &#x201C;A format like Frontier Collective is unique in the fact it brings together four very strong talents in the space. It&#x2019;s not an audience that we traditionally reach here in the U.K. through pay TV or DTC or broadcast channels. It&#x2019;s a global audience, and it&#x2019;s a much broader audience for us to reach now as well. So that&#x2019;s a really exciting opportunity.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Hearst Canvas is headed by Danny Baggot as creative director and Sam Pearson as executive producer. The pair unveiled the venture&#x2019;s first commission on Oct. 29, the unscripted business revitalization series &#x201C;Pitch, Please."
+
+&#x201C;Frontier Collective offers a compelling opportunity to build something unique in the adventure space &#x2014; a network of remarkable individuals whose passion drives them to explore the far reaches of our globe and share what they&#x2019;ve experienced with the world,&#x201D; Pearson said. &#x201C;And with 'Expedition HQ,' we&#x2019;re launching a returning format that delivers on this promise through fascinating and insightful conversations.&#x201D;
+
+The roundtable series is produced by Grammar Productions, co-founded by Bescoby. It&#x2019;s produced shows for BBC, Channel 4, Apple TV, Amazon Prime, Discovery, Sky HISTORY and Canal+, in addition to custom work for brands.
+
+As a veteran of the adventure genre, Bescoby said he sees demand for Frontier Collective as a concept.
+
+&#x201C;Some of the best adventure storytellers I know have spent years asking for a proper home for their work,&#x201D; Bescoby said. &#x201C;Traditional television has stepped back from the genre, even as audiences are clamoring for more. It&#x2019;s hugely exciting that Hearst Canvas is building that home with Frontier Collective, and it&#x2019;s amazing to be a part of it."
+
+Kane invoked the importance of the YouTube channel as serving as a hub for adventure content fan communities. &#x201C;This new YouTube channel allows us to bring directly to our community the real story that goes on behind the scenes on these adventures,&#x201D; he said.
+
+Wood added that every major adventure yields its own unique experiences, and inevitably, there is more color than can be included in the final program. &#x201C;So much never makes it into the finished documentaries. I&#x2019;m looking forward to sharing more of those experiences and unseen footage on my own channels as part of Frontier Collective,&#x201D; Wood said.
+
+Shepherd added her enthusiasm for the push to build a hub for top digital-native explorers and adventurers.
+
+&#x201C;I&#x2019;m only sorry this didn&#x2019;t begin sooner. There&#x2019;s something very special about sitting around a table with people whose adventures inspired me to set out on my own,&#x201D; Shepherd said. &#x201C;Life is an expedition, and I hope our stories inspire others to find a little adventure in their lives, wherever they are.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+(Pictured: &#x201C;Expedition HQ&#x201D; hosts Alex Bescoby, Lucy Shepherd, Levison Wood and Aldo Kane)
+
+============================================================
+[4] Netflix Unveils Penélope Cruz &#038; Juan Diego Botto's Domestic Violence Drama 'Patricia' As Production Gets Underway
 Source: Deadline | Status: expanded | Words: 693
 Published: 2026-11-19T08:00:03+00:00
 URL: https://deadline.com/2026/11/netflix-penelope-cruz-juan-diego-bottos-patricia-moonlyon-1237228807
@@ -43,7 +153,7 @@ Netflix launched in Spain in 2015, where it has since established its biggest Eu
 "I&#x2019;m truly honored to join Juan Diego Botto and Pen&#xE9;lope Cruz in their first film for Netflix in Spain, and for a story born at home to move audiences here and around the world."
 
 ============================================================
-[2] "Wicker Nipples" and All: 'Wicker' Cinematographer Celebrates Steamy Film's Viral Success
+[5] "Wicker Nipples" and All: 'Wicker' Cinematographer Celebrates Steamy Film's Viral Success
 Source: The Hollywood Reporter | Status: expanded | Words: 443
 Published: 2026-11-19T07:46:52+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/wicker-alexander-skarsgard-lol-crawley-camerimage-nipples-1236759179
@@ -69,7 +179,7 @@ The cinematographer acknowledged that the project, notable for its comedic momen
 Later, after a festival representative had finished translating Crawley's speech into Polish for the crowd, the Wicker cinematographer quipped, "Now I know what 'wicker nipples' is in Polish, which is a takeaway for me."
 
 ============================================================
-[3] Indigenous Queer Drama 'Princess' Is Dedicated to "Everyone Fighting for Their Freedom, Their Identity"
+[6] Indigenous Queer Drama 'Princess' Is Dedicated to "Everyone Fighting for Their Freedom, Their Identity"
 Source: The Hollywood Reporter | Status: expanded | Words: 779
 Published: 2026-11-19T07:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/indigenous-queer-drama-film-princess-tallinn-2026-1236759167
@@ -107,7 +217,7 @@ When it came time to screen Princess for the community, "I was really afraid," R
 Watch a trailer for Princess right here.
 
 ============================================================
-[4] Airbnb Recreates Iconic 'Kabhi Khushi Kabhie Gham' Mansion for Film's 25th Anniversary, With Kareena Kapoor Khan and Hrithik Roshan Hosting
+[7] Airbnb Recreates Iconic 'Kabhi Khushi Kabhie Gham' Mansion for Film's 25th Anniversary, With Kareena Kapoor Khan and Hrithik Roshan Hosting
 Source: Variety | Status: expanded | Words: 469
 Published: 2026-11-19T06:30:00+00:00
 URL: https://variety.com/2026/shopping/news/kabhi-khushi-kabhie-gham-house-airbnb-book-online-1236952352
@@ -137,7 +247,7 @@ The activation is part of Airbnb's "Only on Airbnb" experiences, which have incr
 Booking requests open Nov. 23 at 12 p.m. IST through Airbnb's dedicated K3G page. The experience is free, with each booking covering two guests, although visitors must arrange their own travel to Mumbai.
 
 ============================================================
-[5] What Happens When Documentary Makers Sell Their Footage to AI Aggregators?
+[8] What Happens When Documentary Makers Sell Their Footage to AI Aggregators?
 Source: Variety | Status: expanded | Words: 1456
 Published: 2026-11-19T06:05:32+00:00
 URL: https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760
@@ -189,7 +299,7 @@ When the conversation shifted into dealing with the issues of selling footage of
 &#x201C;We all agree AI can be bad,&#x201D; she said. &#x201C;In the environment where they're doing bad things, what can you do as a rights holder or a producer to minimize or protect [against] one part of the theft, even if you can't change the entire world?&#x201D;
 
 ============================================================
-[6] Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’
+[9] Jamie Dornan Hasn’t ‘Spoken Directly’ to Viggo Mortensen About Aragorn Recasting in ‘Lord of the Rings: Hunt for Gollum,’ But Says ‘His Approval’ is ‘All I Care About’
 Source: Variety | Status: expanded | Words: 415
 Published: 2026-11-19T06:04:02+00:00
 URL: https://variety.com/2026/film/news/jamie-dornan-viggo-mortensen-lord-of-the-rings-1236952845
@@ -211,7 +321,7 @@ Previously, Dornan told Entertainment Tonight that he &#x201C;cried&#x201D; when
 Serkis, who provided the voice and motion capture for Gollum in Peter Jackson&#x2019;s original trilogy, directed the forthcoming film, which is set to open in theaters Dec. 17, 2027. The ensemble also sees the return of Ian McKellen (as Gandalf), Elijah Wood (Frodo) and Lee Pace (King Thranduil), in addition to new cast members Kate Winslet (Marigol), Leo Woodall (Halvard) and Anya Taylor-Joy as an elf.
 
 ============================================================
-[7] Hollywood Music In Media Awards Winners Include Ludwig Göransson, 'La Bola Negra,' Taylor Swift, Diane Warren &#038; Jaafar Jackson
+[10] Hollywood Music In Media Awards Winners Include Ludwig Göransson, 'La Bola Negra,' Taylor Swift, Diane Warren &#038; Jaafar Jackson
 Source: Deadline | Status: expanded | Words: 1031
 Published: 2026-11-19T06:00:00+00:00
 URL: https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-winners-list-1237227122
@@ -315,7 +425,7 @@ LIVE CONCERT FOR VISUAL MEDIA Warframe Tennoconcert 2026 Digital Extremes
 EXHIBITIONS, THEME PARKS, SPECIAL PROJECTS Cirque du Soleil &#x2019;Auana Cirque du Soleil and Evan Duffy
 
 ============================================================
-[8] Taylor Swift, Jaafar Jackson, ‘The Odyssey’ Among Hollywood Music in Media Awards Winners
+[11] Taylor Swift, Jaafar Jackson, ‘The Odyssey’ Among Hollywood Music in Media Awards Winners
 Source: Variety | Status: expanded | Words: 773
 Published: 2026-11-19T06:00:00+00:00
 URL: https://variety.com/2026/music/news/hollywood-music-in-media-awards-taylor-swift-1236952423
@@ -445,7 +555,7 @@ Exhibitions, Theme Parks, Special Projects
 &#x201C;Cirque Du Soleil &#x2018;Auana&#x2019;&#x201D; - Cirque du Soleil and Evan Duffy
 
 ============================================================
-[9] ‘Baywatch’ Star Erika Eleniak Says Joining OnlyFans Saved Her From ‘Financial Stress’ and Being Evicted: It ‘Feels Really Good to Be in Control’
+[12] ‘Baywatch’ Star Erika Eleniak Says Joining OnlyFans Saved Her From ‘Financial Stress’ and Being Evicted: It ‘Feels Really Good to Be in Control’
 Source: Variety | Status: expanded | Words: 569
 Published: 2026-11-19T05:35:52+00:00
 URL: https://variety.com/2026/tv/news/baywatch-erika-eleniak-onlyfans-eviction-1236952802
@@ -473,7 +583,7 @@ With her success on the platform, Eleniak joins stars like Lily Allen , Shannon 
 &#x201C;I&#x2019;ve always believed in evolving with the times,&#x201D; Pressly said in a statement to Variety at the time about her decision to join OnlyFans. &#x201C;This is another way for me to connect directly with my audience, on my own terms, with creativity and intention. I&#x2019;ve loved meeting fans at various Comic Cons, and the excitement of having those real face-to-face moments made me want to seek options like OnlyFans.&#x201D;
 
 ============================================================
-[10] Gemma Chan Says She’d ‘Absolutely’ Play a Bond Girl Amid Fan-Casting: ‘I’m Flattered’
+[13] Gemma Chan Says She’d ‘Absolutely’ Play a Bond Girl Amid Fan-Casting: ‘I’m Flattered’
 Source: Variety | Status: expanded | Words: 408
 Published: 2026-11-19T05:08:41+00:00
 URL: https://variety.com/2026/film/columns/gemma-chan-play-bond-girl-fan-casting-1236952719
@@ -499,7 +609,7 @@ Chan says she&#x2019;s also open to playing a villain.
 Pierce Brosnan, who played James Bond in four films from 1995 to 2002, congratulated Pattinson on nabbing the role in an Instagram post on Wednesday. Pattinson&#x2019;s &#x201C;Tenet&#x201D; co-star Elizabeth Debicki told me earlier this week that she thinks that he is &#x201C;perfect&#x201D; to play 007.
 
 ============================================================
-[11] Timothée Chalamet Addresses Possibility Of A 'Call Me by Your Name' Sequel: "Never Say Never"
+[14] Timothée Chalamet Addresses Possibility Of A 'Call Me by Your Name' Sequel: "Never Say Never"
 Source: Deadline | Status: expanded | Words: 352
 Published: 2026-11-19T04:51:42+00:00
 URL: https://deadline.com/2026/11/timothee-chalamet-possibility-call-me-by-your-name-sequel-1237228791
@@ -523,7 +633,7 @@ Following the release of Aciman's 2019 sequel novel Find Me , which is set 10 ye
 The likelihood of the original cast reuniting seems to have gone out the window when the LAPD investigated accusations against Hammer of rape and sexual abuse in 2021. Although he was dropped from several projects and his representation, Hammer maintained his innocence and ultimately faced no charges .
 
 ============================================================
-[12] Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
+[15] Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
 Source: Deadline | Status: expanded | Words: 1430
 Published: 2026-11-19T04:45:23+00:00
 URL: https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406
@@ -607,7 +717,7 @@ Who else is behind the Sunrise on the Reaping film?
 Francis Lawrence , who directed The Ballad of Songbirds and Snakes as well as Catching Fire and both Mockingjay films, will return to helm this prequel story, penned by Billy Ray , who wrote the script for the first original film's adaptation.
 
 ============================================================
-[13] Netflix Renews Unscripted Show ‘Physical: Asia’ For Second Season As Franchise Expands
+[16] Netflix Renews Unscripted Show ‘Physical: Asia’ For Second Season As Franchise Expands
 Source: Deadline | Status: expanded | Words: 454
 Published: 2026-11-19T04:40:52+00:00
 URL: https://deadline.com/2026/11/netflix-renews-physical-asia-second-season-1237228790
@@ -631,7 +741,7 @@ Producer Jang Ho-gi said: &#x201C;I want to sincerely thank our viewers for embr
 Jang also teased some elements of the second season: &#x201C;We have designed an entirely different world from previous installments and developed quests capable of becoming new signatures for the Physical series. Beyond simply expanding the scale, we aim to showcase fresh strategies, matchups, and unpredictable outcomes unique to a nation-versus-nation format.&#x201D;
 
 ============================================================
-[14] Michael Jackson Molestation Claimants Hit Lawyer Bryan Freedman With Malpractice Suit Over “Hush Money Agreement”
+[17] Michael Jackson Molestation Claimants Hit Lawyer Bryan Freedman With Malpractice Suit Over “Hush Money Agreement”
 Source: Deadline | Status: expanded | Words: 996
 Published: 2026-11-19T04:39:00+00:00
 URL: https://deadline.com/2026/11/michael-jackson-molestation-bryan-freedman-malpractice-1237228739
@@ -673,7 +783,7 @@ Ordered onto arbitration back in August, that case be heard behind closed doors 
 In addition to this case, Freedman has over the last year or so been drawn into the pits of PR Dark Arts with the allegations of online smear campaigns, provocative web sites and other underhanded tactics via the Blake Lively vs Justin Baldoni battle and Rebel Wilson taking on her The Deb producers — none of which is a good look by any estimation.
 
 ============================================================
-[15] Newsmax Fears Fox Freeze-Out on Roku if Merger Is Not Blocked
+[18] Newsmax Fears Fox Freeze-Out on Roku if Merger Is Not Blocked
 Source: Variety | Status: expanded | Words: 416
 Published: 2026-11-19T03:50:33+00:00
 URL: https://variety.com/2026/tv/news/newsmax-fox-roku-fast-tubi-antitrust-suit-1236952413
@@ -705,7 +815,7 @@ Newsmax filed a separate antitrust suit against Fox last year in federal court i
 Newsmax then refiled in Wisconsin, where a judge granted Fox's motion to transfer the case back to Florida. Discovery in the case is on hold pending the outcome of a motion to dismiss.
 
 ============================================================
-[16] Marvel May Have Revealed Doomsday's Green Witch Two Years Ago, and It's Not Who Everyone Thinks
+[19] Marvel May Have Revealed Doomsday's Green Witch Two Years Ago, and It's Not Who Everyone Thinks
 Source: ComicBook.com | Status: expanded | Words: 1189
 Published: 2026-11-19T03:36:00+00:00
 URL: https://comicbook.com/movies/feature/marvel-may-have-revealed-doomsdays-green-witch-two-years-ago-and-its-not-who-everyone-thinks
@@ -737,7 +847,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Doomsday Provides Best Look At H.E.R.B.I.E.’s Updated Design &#038; It’s Going to Be Controversial
+[20] Doomsday Provides Best Look At H.E.R.B.I.E.’s Updated Design &#038; It’s Going to Be Controversial
 Source: ComicBook.com | Status: expanded | Words: 569
 Published: 2026-11-19T03:29:48+00:00
 URL: https://comicbook.com/movies/news/doomsday-provides-best-look-at-h-e-r-b-i-e-s-updated-design-its-going-to-be-controversial
@@ -763,7 +873,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Ebenezer Is One of the Best Christmas Carol Adaptations I Have Seen and This Is Why
+[21] Ebenezer Is One of the Best Christmas Carol Adaptations I Have Seen and This Is Why
 Source: ComicBook.com | Status: expanded | Words: 1016
 Published: 2026-11-19T02:50:00+00:00
 URL: https://comicbook.com/movies/news/ebenezer-is-one-of-the-best-christmas-carol-adaptations-i-have-seen-and-this-is-why
@@ -791,7 +901,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Man of Tomorrow &#038; Batman 2 Footage Gets Positive Reactions Online (&#038; Fans Know What They Want)
+[22] Man of Tomorrow &#038; Batman 2 Footage Gets Positive Reactions Online (&#038; Fans Know What They Want)
 Source: ComicBook.com | Status: expanded | Words: 682
 Published: 2026-11-19T02:44:06+00:00
 URL: https://comicbook.com/movies/news/man-of-tomorrow-batman-2-footage-gets-positive-reactions-online-fans-know-what-they-want
@@ -823,7 +933,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] DC Footage Preview Reveals Man of Tomorrow Features White Superman Suit &#038; There’s Comic Book Precedence
+[23] DC Footage Preview Reveals Man of Tomorrow Features White Superman Suit &#038; There’s Comic Book Precedence
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-19T02:40:38+00:00
 URL: https://comicbook.com/movies/news/dc-footage-preview-reveals-man-of-tomorrow-features-white-superman-suit-theres-comic-book-precedence
@@ -849,7 +959,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Taylor Swift Performs "Our Song" and "I Knew It, I Knew You" at the CMAs
+[24] Taylor Swift Performs "Our Song" and "I Knew It, I Knew You" at the CMAs
 Source: The Hollywood Reporter | Status: expanded | Words: 309
 Published: 2026-11-19T02:35:33+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939
@@ -871,7 +981,7 @@ Her CMAs appearance is the latest in a busy year for Swift, who was also inducte
 She also earned five Grammy nominations earlier this week, with Life of a Showgirl getting an album of the year nod, while its single "The Fate of Ophelia" is nominated for record of the year and "I Knew It, I Knew You" is up for song of the year.
 
 ============================================================
-[22] Larry Poindexter Dies: 'S.W.A.T.', 'JAG' &#038; 'Days Of Our Lives' Actor Was 66
+[25] Larry Poindexter Dies: 'S.W.A.T.', 'JAG' &#038; 'Days Of Our Lives' Actor Was 66
 Source: Deadline | Status: expanded | Words: 408
 Published: 2026-11-19T02:32:39+00:00
 URL: https://deadline.com/2026/11/larry-poindexter-dead-swat-jag-days-of-our-lives-actor-1237228697
@@ -895,7 +1005,7 @@ Also a musician, Poindexter was lead singer for the alternative country band The
 Poindexter is survived by his wife, leading casting director Carol Kritzer, and their two sons.
 
 ============================================================
-[23] Taylor Swift Performs 'I Knew It, I Knew You' and 'Our Song' Mashup at CMA Awards
+[26] Taylor Swift Performs 'I Knew It, I Knew You' and 'Our Song' Mashup at CMA Awards
 Source: Variety | Status: expanded | Words: 535
 Published: 2026-11-19T02:29:00+00:00
 URL: https://variety.com/2026/music/news/taylor-swift-performs-i-knew-it-i-knew-you-our-song-cmas-1236952619
@@ -917,7 +1027,7 @@ Her cameo at the show comes 20 years after her first appearance at the CMAs. Swi
 Swift is nominated at the CMAs this year with "I Knew It, I Knew You," which is up for single of the year. Earlier this week, she picked up five Grammy nominations, including album of the year for "The Life of a Showgirl"; song of the year and best song written for visual media for "I Knew It, I Knew You"; best pop duo/group performance for "The Life of a Showgirl" with Sabrina Carpenter; and record of the year for "The Fate of Ophelia."
 
 ============================================================
-[24] The Time Robert Pattinson Snuck Around Rikers Island (and Why It Could Help Him With James Bond)
+[27] The Time Robert Pattinson Snuck Around Rikers Island (and Why It Could Help Him With James Bond)
 Source: The Hollywood Reporter | Status: expanded | Words: 559
 Published: 2026-11-19T02:07:15+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-rikers-good-time-james-bond-safdie-prison-1236759112
@@ -929,7 +1039,7 @@ CONTENT / EXTRACTED DETAILS:
 Amid all the talk of whether Robert Pattinson &#x2019;s experiences will allow him to pull off a convincing James Bond , none feel as instructive as the time he went to prison. It was the middle of 2016, and Pattison didn&#x2019;t commit any crimes, but he badly wanted to be seen as a someone who did. Pattinson was preparing for his role as Connie Nikas, a con on the run, in the Safdie Bros. jangly fugitive-drama Good Time . The Safdies knew some incarcerated people at Rikers, including their friend Buddy Duress, who would go on to be in the film. So, as Pattinson told a reporter writing about the movie in 2017, he begged Josh to get him into the facility. The director obliged, and while inside he and the future James Bond "just kind of went everywhere; we didn&#x2019;t really ask for permission,&#x201D; as Pattinson recalled at the time. (The interview was part of a story centered on walking around colorful parts of Queens with the Safdies, a tale in its own right.) The pair got deep inside the infamously locked-down institution, talking to wardens and inmates alike about life on the inside. One interaction in particular stuck with Pattinson. "I had gotten into all this makeup because I didn't want anyone I met in there to find out who I was or what I was doing; I wanted them to think I belonged. And I thought I was convincing. And then one of the inmates said to me, &#x2018;What are you doing in here? Is it for a scared-straight program?' [The program to influence innocent-adrift teenagers.] I wasn&#x2019;t convincing anyone." "I thought I was looking like some kind of tough guy but he could see right through me," he continued. (Pattinson is known for telling tall tales in interviews but this one is true &#x2014; Josh Safdie confirmed the account.) On the one hand this unpersuasive cosplay can seem like one more reason the actor makes for an ill-fitting James Bond &#x2014; you generally want your 007 to be a little more weathered than a pretty teenager, even ten years later (and also may validate all the skeptics who don&#x2019;t like that this was kind of a corporate decision .) On the other hand, what&#x2019;s more James Bond than sneaking around Rikers and getting out unscathed? A general MI6-ish resourcefulness marked Pattinson's time working with the Safdies. Hot off his Twilight run, Pattinson had reached out to the erstwhile collaborating brothers brothers simply after seeing a promotional photo for Daddy Longlegs , their gritty semi-autobiographical coming of age movie. He then read their script for what would become Uncut Gems and begged to be in that. The Safdies didn&#x2019;t see Pattison in any of the top roles, including the lead middle-aged hustler played by Adam Sandler. But the filmmakers were so intrigued by his persistence that they decided to write a whole chase-drama for him &#x2014; the movie that became Good Time . Sweet-talking your way into the confidence of a pair of powerful people so they'll do something for you they weren&#x2019;t otherwise ready to do? M would be proud. Related Stories Movies Hollywood Reacts to Robert Pattinson's James Bond Casting: Florence Pugh, Christopher Nolan, Brad Pitt, Skyler Gisondo, More Movies Jeff Bezos Says He Was "Heavily Involved" in Casting Robert Pattinson as James Bond
 
 ============================================================
-[25] Netflix's Near-Perfect but Controversial New Supernatural Drama Series Is Dominating Streaming and Fans Are Demanding More
+[28] Netflix's Near-Perfect but Controversial New Supernatural Drama Series Is Dominating Streaming and Fans Are Demanding More
 Source: ComicBook.com | Status: expanded | Words: 685
 Published: 2026-11-19T02:05:00+00:00
 URL: https://comicbook.com/uncategorized/news/netflixs-near-perfect-but-controversial-new-supernatural-drama-series-is-dominating-streaming-and-fans-are-demanding-more
@@ -953,7 +1063,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Rob Lowe Defends Taking Lead In Ben Shapiro's 'Confession': "Why Wouldn't I?"
+[29] Rob Lowe Defends Taking Lead In Ben Shapiro's 'Confession': "Why Wouldn't I?"
 Source: Deadline | Status: expanded | Words: 668
 Published: 2026-11-19T01:55:10+00:00
 URL: https://deadline.com/2026/11/rob-lowe-defends-ben-shapiros-confession-1237228575
@@ -985,7 +1095,7 @@ Shapiro's latest project was announced last month amid the fallout over the film
 Daily Wire's previous film Run Hide Fight: Infidels , was picketed by IATSE . Several crew members walked off over labor issues in South Carolina, shortly before Jonathan Majors was involved in an on-set accident that resulted in his co-star JC Kilcoyne needing stitches "all over his hands" after falling through a window.
 
 ============================================================
-[27] Inside James Bond 26’s Final 5 Screen Test &#038; How Pattinson Stood Out Despite Amazon’s “Bias” Against Him
+[30] Inside James Bond 26’s Final 5 Screen Test &#038; How Pattinson Stood Out Despite Amazon’s “Bias” Against Him
 Source: ComicBook.com | Status: expanded | Words: 631
 Published: 2026-11-19T01:53:04+00:00
 URL: https://comicbook.com/movies/news/inside-james-bond-26s-final-5-screen-test-how-pattinson-stood-out-despite-amazons-bias-against-him
@@ -1011,7 +1121,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Horror Box Office, Driven 50% By Blumhouse Atomic Movies, Hits Near $2.5 Billion YTD
+[31] Horror Box Office, Driven 50% By Blumhouse Atomic Movies, Hits Near $2.5 Billion YTD
 Source: Deadline | Status: expanded | Words: 596
 Published: 2026-11-19T01:48:31+00:00
 URL: https://deadline.com/2026/11/box-office-horror-2026-obsession-backrooms-1237228671
@@ -1043,7 +1153,7 @@ Prakash told attendees that when it comes to a studio and its return on investme
 Horror will continue to slay into 2027 has Blumhouse Atomic has such pic on the schedule including but not limited to New Line's Conjuring universe, The Revenge of La Llorona on Feb. 26 , The Exorcist reboot on March 12, Lionsgate's Blair Witch revival on Sept. 24, Sleepover on Oct. 8 starring Michelle Monaghan and Justin Theroux, Paranormal Activity on Oct. 22 as well as Curry Barker's next big screen feature via Focus Features, Anything But Ghosts on May 7.
 
 ============================================================
-[29] ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators
+[32] ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators
 Source: The Playlist | Status: summary_only | Words: 90
 Published: 2026-11-19T01:40:51+00:00
 URL: https://theplaylist.net/clandestine-brit-marling-tilda-swinton-paramount-plus-20261118
@@ -1055,7 +1165,7 @@ CONTENT / EXTRACTED DETAILS:
 Brit Marling and Zal Batmanglij , the creative duo behind the cult Netflix series “ The OA ” and FX’s “ A Murder At The End Of The World ,” are returning to television with “ Clandestine ,” a new political drama starring Marling and Tilda Swinton . According to Deadline, Paramount+ has ordered the series, described as a high-stakes family drama set among Washington, D.C.’s political elite. Continue reading ‘Clandestine’: Brit Marling &#038; Tilda Swinton To Star In New Paramount+ Political Drama From ‘The OA’ Creators at The Playlist.
 
 ============================================================
-[30] Pierce Brosnan Bonds With Robert Pattinson Over 007 Role
+[33] Pierce Brosnan Bonds With Robert Pattinson Over 007 Role
 Source: Deadline | Status: expanded | Words: 258
 Published: 2026-11-19T01:35:26+00:00
 URL: https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669
@@ -1079,7 +1189,7 @@ Brosnan ended with a Gaelic sign of affection meaning "great love" as he wrote, 
 Lazenby, whose outing as 007 began and ended with On Her Majesty's Secret Service in 1969, also offered his congratulations and a remarkably similar piece of advice to that offered by Brosnan today: "Remember to enjoy yourself."
 
 ============================================================
-[31] A SpongeBob Trading Card Celebrating Squidward's Most Infamous "Trash" Painting Just Sold for Nearly $60,000
+[34] A SpongeBob Trading Card Celebrating Squidward's Most Infamous "Trash" Painting Just Sold for Nearly $60,000
 Source: ComicBook.com | Status: expanded | Words: 893
 Published: 2026-11-19T01:31:27+00:00
 URL: https://comicbook.com/collectibles/news/a-spongebob-trading-card-celebrating-squidwards-most-infamous-trash-painting-just-sold-for-nearly-60000
@@ -1107,7 +1217,7 @@ At the end of the day, a collectible is only worth as much as somebody is willin
 Do you think this rare Squidward card will hold its value in 10 years, or will this rare item become a throwaway gag for another collector after it decreases in prices down the line? Join the conversation and let us know in the comments.
 
 ============================================================
-[32] Ella Langley Breaks a CMA Awards Record by Winning Six in One Night, Including Entertainer of the Year: The Complete List of Winners
+[35] Ella Langley Breaks a CMA Awards Record by Winning Six in One Night, Including Entertainer of the Year: The Complete List of Winners
 Source: Variety | Status: expanded | Words: 432
 Published: 2026-11-19T01:24:22+00:00
 URL: https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628
@@ -1139,7 +1249,7 @@ MUSICAL EVENT OF THE YEAR (announced prior to the telecast)
 Avery Anna Carter Faith Emily Ann Roberts Tucker Wetmore Stephen Wilson Jr. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[33] I Had To Know Why Rings Of Power’s Dark Wizard Ended Up Really Being The (Spoiler) Wizard
+[36] I Had To Know Why Rings Of Power’s Dark Wizard Ended Up Really Being The (Spoiler) Wizard
 Source: CinemaBlend | Status: expanded | Words: 287
 Published: 2026-11-19T01:21:00+00:00
 URL: https://www.cinemablend.com/streaming-news/why-rings-of-power-dark-wizard-really-blue-wizard-pallando
@@ -1159,7 +1269,7 @@ At one point, Tolkien wrote that the Blue Wizards could have been “founders or
 Well, now I’m certainly excited to see where things go from here. I want to see Gandalf and Pallando interact more. I want to know if Gandalf can help his fellow wizard get away from the evil. And I want to know more about why the Blue Wizard killed his friend.
 
 ============================================================
-[34] Jason Blum and James Wan Discuss Why Horror Is Hollywood's Hottest Genre and How ‘Obsession’ Hit Big at Blumhouse Atomic's Business of Fear
+[37] Jason Blum and James Wan Discuss Why Horror Is Hollywood's Hottest Genre and How ‘Obsession’ Hit Big at Blumhouse Atomic's Business of Fear
 Source: Variety | Status: expanded | Words: 759
 Published: 2026-11-19T01:18:14+00:00
 URL: https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472
@@ -1189,7 +1299,7 @@ Wan added that the success of "Obsession" has inspired a whole new generation of
 "That stigma is gone. Horror has crossed over from the black sheep of the household, right?&#x201D; Wan said. "I really do credit the younger generation with accepting the genre in a big way and not turning your nose down on it in a snooty way. When I was doing 'Saw&#x2019; people looked down on it, right? And it was only a certain demographic that would come out and support the films that we made. But today, like today, it is cool and hip to be making horror films."
 
 ============================================================
-[35] RDJ Had Made His ‘Peace’ With His MCU Exit: ‘It’s Really Hard To Explain The Love I Have For This’
+[38] RDJ Had Made His ‘Peace’ With His MCU Exit: ‘It’s Really Hard To Explain The Love I Have For This’
 Source: CinemaBlend | Status: expanded | Words: 240
 Published: 2026-11-19T01:06:00+00:00
 URL: https://www.cinemablend.com/movies/robert-downey-jr-made-peace-mcu-exit-iron-man-doctor-doom-avengers-doomsday
@@ -1205,7 +1315,7 @@ When Avengers: Endgame came out in 2019, it was the end of an era for the MCU. I
 Aww, this is sweet. I mean, it’s quite the honor to be asked to play a Marvel villain, especially when it’s one that will assemble just about every character in the universe. It’s wild when you think about it, because the villain that was originally being teased as the big bad of this saga was Kang. However, after Jonathan Majors got caught in some legal trouble, Marvel made a pivot. However, according to recent words from Feige, Doctor Doom was allegedly always in the cards .
 
 ============================================================
-[36] Rob Lowe Asked Ben Shapiro to Cast Him in 'Confession': "I’ve Worked With Left-Wing Writers. Why Wouldn’t I Work With Right-Wing Writers?"
+[39] Rob Lowe Asked Ben Shapiro to Cast Him in 'Confession': "I’ve Worked With Left-Wing Writers. Why Wouldn’t I Work With Right-Wing Writers?"
 Source: The Hollywood Reporter | Status: expanded | Words: 434
 Published: 2026-11-19T00:58:40+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/rob-lowe-asked-ben-shapiro-cast-confession-left-right-writers-1236758985
@@ -1229,7 +1339,7 @@ Of Confession , Lowe said the movie was "turned down by every single film festiv
 Confession was directed by V&#xE1;clav Marhoul and centers on the interrogation of a prisoner in a Stalin-era Russian jail.
 
 ============================================================
-[37] SkyShowtime to Shut Down, CEO Exiting
+[40] SkyShowtime to Shut Down, CEO Exiting
 Source: The Hollywood Reporter | Status: expanded | Words: 328
 Published: 2026-11-19T00:35:39+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993
@@ -1245,7 +1355,7 @@ The full memo from the board of SkyShowtime is below:
 Dear SkyShowtime Employees, In September, we shared that SkyShowtime&#x2019;s shareholders had initiated a review of strategic options, followed by the start of employee consultations in October. That review has now concluded, and the shareholders have made the decision to wind down SkyShowtime&#x2019;s operations in late 2027. Since SkyShowtime&#x2019;s launch, the streaming landscape has evolved significantly. Major global platforms have continued to expand their scale and invest heavily in content, technology, and sport. These competitive dynamics have made it increasingly challenging for regional players like SkyShowtime to achieve the scale needed for long-term success. Despite the excellent work and dedication of this team, the shareholders have determined that winding down the business is the most appropriate path forward. After over four years leading the SkyShowtime business, Monty Sarhan has agreed with the Board that it is an appropriate time to exit the company. We thank Monty for his commitment and contributions to SkyShowtime&#x2019;s journey. We are also grateful to Mark Neil, who has agreed to serve as Interim General Manager, overseeing the wind-down operating period. We are committed to supporting everyone at SkyShowtime throughout this process and sharing information as decisions are implemented. In the meantime, SkyShowtime continues to operate as normal for our members. Employee consultations remain ongoing in accordance with local requirements, and timing and process may vary by country. We want to thank each of you for your hard work, professionalism, and commitment to SkyShowtime and its members. We are grateful for your contributions and will keep you informed as we move forward. The SkyShowtime Board Related Stories TV Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio TV Louis Carr Exits as BET President
 
 ============================================================
-[38] 4 Best GTA 6 Strategies to Keep Jason and Lucia's Relationship Strong, &#038; 1 That Surprisingly Won't Weaken It
+[41] 4 Best GTA 6 Strategies to Keep Jason and Lucia's Relationship Strong, &#038; 1 That Surprisingly Won't Weaken It
 Source: ComicBook.com | Status: expanded | Words: 1453
 Published: 2026-11-19T00:30:18+00:00
 URL: https://comicbook.com/gaming/list/4-best-gta-6-strategies-to-keep-jason-and-lucias-relationship-strong-1-that-surprisingly-wont-weaken-it
@@ -1287,7 +1397,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Forget Jurassic Park, This Intense 99-Minute Dinosaur Thriller Is Roaring on Streaming After Flopping in Theaters
+[42] Forget Jurassic Park, This Intense 99-Minute Dinosaur Thriller Is Roaring on Streaming After Flopping in Theaters
 Source: ComicBook.com | Status: expanded | Words: 693
 Published: 2026-11-19T00:30:00+00:00
 URL: https://comicbook.com/movies/news/forget-jurassic-park-this-intense-99-minute-dinosaur-thriller-is-roaring-on-streaming-after-flopping-in-theaters
@@ -1311,7 +1421,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Why 'GTA' Has Never Been Adapted for Film or TV: 'We Prefer to Control Our Own Destiny,' Take-Two CEO Says
+[43] Why 'GTA' Has Never Been Adapted for Film or TV: 'We Prefer to Control Our Own Destiny,' Take-Two CEO Says
 Source: Variety | Status: expanded | Words: 567
 Published: 2026-11-19T00:29:08+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350
@@ -1335,7 +1445,7 @@ In November 2024, Zelnick used the box-office bomb that was the &#x201C;Borderla
 Zelnick hasn't ruled it out, but sources tell Variety that the team at Rockstar Games, which has also produced the hit &#x201C;Red Dead Redemption&#x201D; franchise, is more focused on continuing to build on the &#x201C;GTA&#x201D; world within gaming rather than adapting it for Hollywood. The plan has worked out so far: &#x201C;GTA 6&#8243; currently has a 99 score on Metacritic ahead of its Thursday release, tying it for the highest-rated video game of all time.
 
 ============================================================
-[41] Chris Pratt To Star In Paramount's Feature Take Of Joseph Eckert Novel 'The Traveler'
+[44] Chris Pratt To Star In Paramount's Feature Take Of Joseph Eckert Novel 'The Traveler'
 Source: Deadline | Status: expanded | Words: 320
 Published: 2026-11-19T00:27:36+00:00
 URL: https://deadline.com/2026/11/chris-pratt-the-traveler-paramount-pictures-1237228625
@@ -1357,7 +1467,7 @@ Pratt's movie canon counts more than $15 billion at the global box office. He ca
 He stars in one of the five $1 billion-plus grossing movies of the year, Universal/Illumination's Super Mario Galaxy Movie. Pratt also starred in TV's The Terminal List , which premiered in July 2022. Based on the Jack Carr novel and produced through his production company, Indivisible Productions, the series debuted at #1 on Prime Video. The series was renewed for a second season, True Believer, which debuted on Oct. 21. A prequel series, Dark Wolf , led by Taylor Kitsch, premiered on Aug. 27, 2025.
 
 ============================================================
-[42] Chris Pratt to Star in Sci-Fi Movie 'The Traveler' as He Inks Paramount First-Look
+[45] Chris Pratt to Star in Sci-Fi Movie 'The Traveler' as He Inks Paramount First-Look
 Source: The Hollywood Reporter | Status: expanded | Words: 167
 Published: 2026-11-19T00:26:05+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984
@@ -1373,7 +1483,7 @@ The Traveler , meanwhile, is based on Joseph Eckert's novel. It's a father-son s
 Pratt's first-look deal also includes Miami Heat , which has a script from Brad Copeland. Pratt is starring and producing with Hutch Parker.
 
 ============================================================
-[43] Rain-Related Evacuation Warnings Issued For The Palisades &#038; Parts Of Malibu, The Hollywood Hills, Altadena, Calabasas &#038; Santa Clarita
+[46] Rain-Related Evacuation Warnings Issued For The Palisades &#038; Parts Of Malibu, The Hollywood Hills, Altadena, Calabasas &#038; Santa Clarita
 Source: Deadline | Status: expanded | Words: 832
 Published: 2026-11-19T00:23:35+00:00
 URL: https://deadline.com/2026/11/rain-evacuation-warnings-pacific-palisades-malibu-hollywood-1237228533
@@ -1421,7 +1531,7 @@ While Malibu and the Palisades may potentially be flooded by the rain, the ocean
 Per the NWS, "There is a risk of significant impacts, including a flooding and the potential for wind related issues. Very large surf and high tides will continue, with ongoing surf and flooding hazards at the coast."
 
 ============================================================
-[44] I Expect Big Deaths In Yellowjackets’ Final Season, But Who’s Been The Hardest To Kill Off (So Far)?
+[47] I Expect Big Deaths In Yellowjackets’ Final Season, But Who’s Been The Hardest To Kill Off (So Far)?
 Source: CinemaBlend | Status: expanded | Words: 312
 Published: 2026-11-19T00:21:00+00:00
 URL: https://www.cinemablend.com/television/i-expect-big-deaths-yellowjackets-final-season-hardest-kill-off-so-far-showrunners-interview
@@ -1441,7 +1551,7 @@ On the flip side of things, they’ve already reached the finish line of the ser
 Uhh… What does this mean? Who’s going to be safe and who’s going to die? I have no idea (and even the cast was left in the dark about spoilers ), but I know I trust the writers to shock, surprise and make me feel a lot of things.
 
 ============================================================
-[45] New Sam's Club-Exclusive Home Decor Just Dropped: Shop Our Top Picks From the Collection
+[48] New Sam's Club-Exclusive Home Decor Just Dropped: Shop Our Top Picks From the Collection
 Source: The Hollywood Reporter | Status: expanded | Words: 383
 Published: 2026-11-19T00:18:54+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-sams-club-home-decor-members-mark-buy-shop-online-1236757124
@@ -1463,7 +1573,7 @@ With Sam's Club Plus and Walmart+ , members can get access to exclusive savings 
 Additionally, members can get up to 25 percent off app orders at Burger King, along with free streaming access to either Peacock or Paramount+. Learn more about Sam&#x2019;s Club Plus and Walmart+ here .
 
 ============================================================
-[46] Chris Pratt to Star in Sci-Fi Family Drama 'The Traveler,' Inks First-Look Producing Deal at Paramount (EXCLUSIVE)
+[49] Chris Pratt to Star in Sci-Fi Family Drama 'The Traveler,' Inks First-Look Producing Deal at Paramount (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 174
 Published: 2026-11-19T00:16:50+00:00
 URL: https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517
@@ -1481,7 +1591,7 @@ Eckert's "The Traveler" tells the story of a reluctant time-traveler and his son
 Additional projects under Pratt&#x2019;s deal include "Miami Heat," written by Brad Copeland ("Jerry & Marge Go Large"), with Pratt set to star and produce alongside Hutch Parker ("Venom: The Last Dance").
 
 ============================================================
-[47] Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’
+[50] Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’
 Source: Variety | Status: expanded | Words: 332
 Published: 2026-11-19T00:14:26+00:00
 URL: https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519
@@ -1499,94 +1609,4 @@ As the &#x201C;Parent Trap&#x201D; actor noted in his caption, the two stars fir
 Pattinson&#x2019;s announcement as the next Bond on Monday put an end to long-swirling rumors surrounding which actor would step into the role. Other actors in the mix included Callum Turner, Jack Lowden, Nicholas Hoult, Josh O&#x2019;Connor, Tom Francis, Aaron Taylor-Johnson, Harris Dickinson and even Harry Styles. Denis Villeneuve will direct the forthcoming film from Amazon MGM.
 
 Before the news broke about the casting, Brosnan told The Times back in September that he thought the new James Bond would be &#x201C;someone that none of us know about.&#x201D; He had also noted that &#x201C;there are lots of good hats in the ring&#x201D; and &#x201C;lots of great actors&#x201D; being considered. When it came to names, Brosnan remained neutral: &#x201C;I wouldn&#x2019;t pick anyone,&#x201D; he continued. &#x201C;My wife told me not to say anything and I&#x2019;ve said too much. Because once I say something it goes [everywhere] and I get hanged.&#x201D;
-
-============================================================
-[48] Bryan Freedman Sued Over Hush-Money Deals Shielding Michael Jackson Estate
-Source: The Hollywood Reporter | Status: expanded | Words: 578
-Published: 2026-11-19T00:12:09+00:00
-URL: https://www.hollywoodreporter.com/business/business-news/bryan-freedman-lawsuit-michael-jackson-estate-1236758968
-------------------------------------------------------------
-SUMMARY:
-The Cascio siblings claim the attorney had a conflict of interest when he brokered their settlements with the singer's estate.
-
-CONTENT / EXTRACTED DETAILS:
-Five siblings at the forefront of sexual assault allegations against Michael Jackson have sued Bryan Freedman , Hollywood's favorite lawyer who was allegedly enlisted by the pop star's estate to deceive them into signing hush-money deals.
-
-In a lawsuit filed on Wednesday in California state court, Frank Cascio and his siblings Edward, Dominic, Aldo and Marie-Nicole accuse Freedman of legal malpractice, breach of fiduciary duty and fraud. They allege that he duped them into signing agreements barring them from publicly discussing Jackson's alleged abuse that have emerged as obstacles in ongoing litigation against the estate, which Freedman allegedly worked for while representing the siblings when the deals were signed in 2019.
-
-The siblings' relationship with Freedman started five years earlier when a lawsuit was filed against Edward, who at the time was defending the singer from sexual abuse allegations, and the estate in connection to his work on a posthumous Jackson album. At the recommendation of the estate, which paid for legal fees, he retained Freedman, according to the complaint.
-
-The lawsuit says Jackson's estate again turned to Freedman to broker deals with the Cascio siblings in the wake of Leaving Neverland , which featured sexual abuse allegations against the singer. Freedman told the siblings that they didn't need to hire their own lawyer and that the settlement was fair and nonnegotiable, according to the complaint.
-
-"None of this was true," writes Howard King, a lawyer for the siblings, in the filing. "At the time, Freedman represented the estate, including in connection with litigation against HBO, which had broadcast Leaving Neverland ."
-
-The document the estate presented framed the settlement as an "acquisition and consulting agreement," identifying the deal as a purchase of the family's life story rights, the lawsuit says. Under the terms of the contract, the estate made five annual payments of $690,000 to each sibling. In exchange, they are barred from publicly discussing Jackson's alleged sexual abuse and subject to mandatory arbitration provisions, among other things that include releasing the estate and its representatives from potential liability. It requires the entire family to return all payments if one member is violates the terms of the deal, according to the complaint.
-
-The siblings say they learned of Freedman's alleged conflict of interest when the lawyer in 2024 told them that the estate hadn't paid enough money five years earlier. He allegedly called the deal "toilet paper" and that he "had enough on the estate" that would convince its representatives to "do right" by them, the lawsuit says. After Freedman instructed the siblings to hire him, they retained another lawyer, who told the estate that the 2019 deals would be challenged. The estate later filed an arbitration demand against the siblings for breaching the nondisparagement and confidentiality provisions of their deal.
-
-"If Freedman had not fraudulently induced Plaintiffs into signing the agreement, they never would have been dragged into litigation for publicly discussing Jackson's abuse," states the complaint, which notes that a child sex trafficking lawsuit they had filed against the estate was forced into arbitration under the terms of the 2019 agreement.
-
-The lawsuit was filed as Freedman, who didn't respond to a request for comment, fields accusations of helping orchestrate online smear campaigns in public relations battles against his clients' adversaries. A trial is scheduled to start next year involving Rebel Wilson and producer Amanda Ghost, who accuses the actress and her public relations team of creating a site that accused Ghost of sex trafficking.
-
-============================================================
-[49] Paramount+ Orders 'Clandestine' Drama Series Starring Brit Marling &#038; Tilda Swinton From 'The OA' Creators
-Source: Deadline | Status: expanded | Words: 854
-Published: 2026-11-19T00:02:46+00:00
-URL: https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: Clandestine, a new series from The OA and A Murder At the End of the World creators Brit Marling and Zal Batmanglij, is a go at Paramount+ with Marling and Tilda Swinton starring, Deadline has learned. A high-stakes family drama set in the world of D.C.'s political elite, Clandestine is produced by independent studio […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE : Clandestine , a new series from The OA and A Murder At the End of the World creators Brit Marling and Zal Batmanglij , is a go at Paramount+ with Marling and Tilda Swinton starring, Deadline has learned. A high-stakes family drama set in the world of D.C.'s political elite, Clandestine is produced by independent studio Sister Pictures, part of Sister Group.
-
-The series had been developed and greenlighted by the previous Paramount+ regime under former Paramount Chair of Direct-to-Consumer Cindy Holland, I hear. The process of Swinton's casting was well underway when the October close of the Paramount-Warner Bros. Discovery merger brought along a leadership change, with Paramount+ added to the purview of HBO and HBO Max content chief Casey Bloys who became Co-Chair and Chief Content Officer, Direct-To-Consumer, for the combined Skydance company. Holland exited on the eve of the deal close, with her close associate, Paramount+ Head of Originals Jane Wiseman, who had steered the development on Clandestine , departing a couple of weeks later. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Casting Scott Speedman To Guest Star On 'Landman' Season 3 News 'Frisco King' Trailer: Samuel L. Jackson "Is Gonna Rob This Place Blind" In Taylor Sheridan's 'Tulsa King' Spinoff
-
-Clandestine is now being overseen by Francesca Orsi, President, HBO Drama Series and Films, I hear. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-In the new structure, Wiseman's team reports to former HBO Max Head of Originals Aubrey, who became Head of Paramount+, Max Originals and International Programming, adding oversight of all Paramount+ programming.
-
-As Deadline reported last month , Aubrey and HBO veteran Orsi have been reviewing Paramount+'s drama slate, with Orsi taking on projects that have a prestige drama feel similar to HBO's brand. In addition to Clandestine , I hear Orsi also is overseeing Paramount+'s legal thriller Discretion , starring Nicole Kidman and Elle Fanning, and 9/11 first responders limited series The Best of Us , headlined by Succession 's Jeremy Strong.
-
-There has been talk about some Paramount+ drama series potentially moving to HBO but, at least as of now, all of the streamer's shows are staying put.
-
-According to sources, Marling and Batmanglij started developing the project at Sister while Holland was Global CEO there. Holland left the indie studio in October 2024 to become a senior adviser to then-Skydance CEO David Ellison before becoming DTC Chair for Paramount Skydance post-merger in August 2025. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Marling and Batmanglij took out their script this past spring with Marling attached to star. Paramount+ landed Clandestine in a bidding war with FX, and HBO, I hear. Paramount+ and FX vying for Clandestine made sense as their top executives had commissioned Marling and Batmanglij's two previous series: Paramount+'s Holland had developed and ordered The OA while running English-language scripted originals at Netflix (in addition to being involved in Clandestine early on), and FX chief John Landgraf and his team developed and picked up A Murder At the End of the World .
-
-This also marks a full-circle moment for Orsi who is now overseeing the series she once bid on.
-
-Clandestine is believed to have received an informal green light as part of Paramount+'s winning bid. While I hear the pickup was not cast-contingent, casting key roles was considered crucial, which explains why the streamer did not announce the series order but instead proceeded with securing the other leads opposite Marling. The process, which started over the summer, is ongoing.
-
-A rep for Paramount+ declined comment.
-
-Clandestine is written and executive produced by Marling, Batmanglij, Rory Haines and Sohrab Noshirvani ( Informer, The Mauritanian ). Jane Featherstone ( Chernobyl, Black Doves ) executive produces for Sister Pictures. Blake Holland ( The OA, A Murder at the End of the World ) and Alice Tyler ( Coldwater, The Following Events are Based on a Pack of Lies ) are co-executive producers; Callum Devrell-Cameron ( Lord of the Flies, Black Doves S2 ) a producer.
-
-This marks the biggest TV series commitment to date for Oscar winner Swinton who starred in two British miniseries at the start of her career. Her recent feature credits include Pedro Almod&#xF3;var's The Room Next Door, Edward Berger's Ballad of a Small Player and Joshua Oppenheimer's The End . She is repped by CAA, UK's Hamilton Hodell and Peikoff Mahan Law.
-
-Marling and Batmanglij broke out with their 2011 indie movie Sound of My Voice , which the two wrote, Batmanglij directed and Marling co-starred in. Premiering at Sundance, it earned Indie Spirit Award nominations for Best First Feature and Best Supporting Actress (Marling). They are repped by CAA and Hansen Jacobson Teller.
-
-============================================================
-[50] Netflix's Solo Leveling Update Reveals It's Aiming to Perfect One Role That the Anime Forgot
-Source: ComicBook.com | Status: expanded | Words: 606
-Published: 2026-11-18T23:57:00+00:00
-URL: https://comicbook.com/anime/feature/netflixs-solo-leveling-update-reveals-its-aiming-to-perfect-one-role-that-the-anime-forgot
-------------------------------------------------------------
-SUMMARY:
-The latest update on Netflix's Solo Leveling live-action adaptation hints at perfecting one role that the original series didn't. Solo Leveling is a power fantasy series focused on a man who aims to become the best version of himself, acquiring wealth and power for himself and his family. The series perfectly captures this through its […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google The latest update on Netflix's Solo Leveling live-action adaptation hints at perfecting one role that the original series didn't. Solo Leveling is a power fantasy series focused on a man who aims to become the best version of himself, acquiring wealth and power for himself and his family. The series perfectly captures this through its first two anime seasons, faithfully adapting the manhwa source material and showing Sung Jinwoo leveling up at every turn. However, considering the series revolves around a man acquiring immense power, it leaves little room for the development of other characters. While several characters still get their moments in the spotlight, particularly the male characters, the series has also been criticized for its lack of compelling female characters.
-
-This isn't necessarily a problem with Solo Leveling itself, but rather with the power fantasy genre, which often incorporates other characters, especially female characters, merely to amplify the presence of the male lead. Solo Leveling does this as well, particularly with Cha Hae-in, a character with immense potential. As the only female S-Rank Hunter in the entire nation, her position is one that should have received greater attention, yet both the anime and manhwa largely overlook it. However, Netflix's Solo Leveling has been hinting at adapting this character differently, and the latest update from the actress set to play Cha Hae-in suggests that her role will be expanded and improved in several ways.
-
-Han So-hee's casting as Cha Hae-in was one of the earliest confirmations for Netflix's Solo Leveling live-action adaptation, and one of the most intriguing details about this adaptation was the revelation that the project would follow the K-drama format. This led many fans to speculate that the series might also lean more heavily into romance, something some fans already suspected given Cha Hae-in's early casting confirmation. Now, a new interview with the actress, featured in ELLE Korea's December 2026 issue , has revealed how she is approaching the character with dedication. Han So-hee revealed that since filming is still underway, she is still getting to know the character. However, the actress also explained that she understands the character's vulnerability.
-
-Her explanation reveals that even though Cha Hae-in is the only female S-Rank Hunter , she still has a vulnerability rooted in her humanity. The actress explained that she approaches filming with the understanding that Cha Hae-in is someone who fights to protect others and lives for the moments when others are happy. Her approach to the character highlights how Netflix may be focusing more on her, giving her the opportunity to define her own character. It could also aim to highlight how and why Cha Hae-in became the only S-Rank Hunter in the entire nation, adding the depth that both the anime and the original source material lacked.
-
-Considering how K-dramas tend to place particular emphasis on emotional expression, giving Cha Hae-in more emotional sequences and developing her romance with Jinwoo rather than keeping it as a background element could add more depth to the Solo Leveling series. This would not only address the lack of female character development that the anime has been criticized for, despite having a strong candidate, but also introduce more depth to Solo Leveling itself, addressing complaints that its story feels bland and relies too heavily on action.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
