@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T22:13:08.346Z"
+    "updated_at": "2026-11-19T22:23:12.095Z"
   },
   "articles": [
+    {
+      "id": "d3fb690c-a5a4-4568-a990-8753f26b686f",
+      "title": "Patrick Stewart’s Cause of Death Officially Confirmed",
+      "summary": "Image courtesy of Paramount Television Last month, the world of entertainment was dealt a tragic blow with the death of legendary Star Trek and X-Men star Sir Patrick Stewart. The actor, who was 86 at the time of his passing, died on Wednesday, October 28th in Los Angeles after what was described as a “brief and poignant journey with Alzheimer’s […]",
+      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Last month, the world of entertainment was dealt a tragic blow with the death of legendary Star Trek and X-Men star Sir Patrick Stewart . The actor, who was 86 at the time of his passing, died on Wednesday, October 28th in Los Angeles after what was described as a “brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia.” Now, the beloved actor’s death certificate has been issue and confirms the conditions as well as offers additional details.\n\nAccording to TMZ, Stewart died from Alzheimer’s disease and Lewy body dementia as had previously been reported. The certificate specifically details cardiopulmonary arrest and a neurocognitive disorder with Lewy body — Lewy body dementia, which is a progressive form of dementia that affects not just memory and thinking but movement as well. Other details of the official death certificate also include that Stewart’s remains underwent a process called alkaline hydrolysis, more commonly known as water cremation. It’s a form of cremation that uses water and chemicals rather than high heat and flames.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/movies/news/patrick-stewarts-cause-of-death-officially-confirmed",
+      "published_at": "2026-11-19T22:21:37+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 230,
+      "extracted_at": "2026-11-19T22:22:57.614149+00:00",
+      "updated_at": "2026-11-19T22:22:57.614149+00:00"
+    },
     {
       "id": "c8e7f399-fdd4-489c-943a-3ca4e0ccfb39",
       "title": "'Survivor 51' Star Lewis Kelly on His $1 Million Coin Flip and Joining the Cast at the Last Minute",
@@ -742,21 +757,6 @@
       "word_count": 1574,
       "extracted_at": "2026-11-19T20:10:51.488487+00:00",
       "updated_at": "2026-11-19T20:10:51.488487+00:00"
-    },
-    {
-      "id": "6ecbb727-b149-454c-b9a8-134aa65677cb",
-      "title": "Edgar Barrera Signs With Fortress Talent Management",
-      "summary": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation. Barrera's signing comes after he recently made history as the most-awarded individual at the Latin Grammys, with a record 33 wins. The songwriter and producer has helped craft global hits, collaborating with some of the industry's biggest artists, including Bad […]",
-      "content": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation.\n\nBarrera's signing comes after he recently made history as the most-awarded individual at the Latin Grammys , with a record 33 wins.\n\nThe songwriter and producer has helped craft global hits, collaborating with some of the industry's biggest artists, including Bad Bunny, Karol G, Shakira, Peso Pluma, Grupo Frontera, and Maluma, among others.\n\nBarrera is looking to transition into film and television to expand his creative footprint and bring a fresh perspective to screen composition, combining his deep understanding of Latin music with a versatile approach spanning pop, regional Mexican, urban, and beyond. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\n\"We are thrilled to be working with Edgar as he crosses over into composing and songwriting for film and television,\" said Rich Jacobellis, Partner at Fortress Talent Management. \"He's developed incredible relationships with distinguished artists that will be invaluable to producers and directors.\" Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nFortress Talent Management's roster includes Oscar-, Emmy-, and Grammy-winning and nominated composers such as Daniel Pemberton, Ariel Marx, David Fleming, Bryce Dessner, Gustavo Santaolalla, and Este Haim.\n\nBarrera won his first Grammy in 2015 in the Best Tropical Album category for his work on Carlos Vives' M&#xE1;s Coraz&#xF3;n Profundo . He recently received a nomination at the 69th Annual Grammy Awards in the Songwriter of the Year, Non-Classical category for the fourth consecutive year. The songs he worked on include \"Broke My Heart\", \"Dando Vueltas\", \"Despu&#xE9;s De Ti\", \"For u My lova\", \"Lighter\", \"Ojitos Bellos\", \"Pvta Luna\", \"7-3\" and \"Velas.\"",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241",
-      "published_at": "2026-11-19T20:00:00+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/edgar-barrera-fortress-talent-management.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 323,
-      "extracted_at": "2026-11-19T20:00:51.262891+00:00",
-      "updated_at": "2026-11-19T20:00:51.262891+00:00"
     }
   ]
 }
