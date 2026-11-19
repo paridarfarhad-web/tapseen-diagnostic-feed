@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T01:32:11.181Z"
+    "updated_at": "2026-11-19T01:36:08.671Z"
   },
   "articles": [
+    {
+      "id": "00d20572-f929-4c6f-865d-8221038710c2",
+      "title": "Pierce Brosnan Bonds With Robert Pattinson Over 007 Role",
+      "summary": "Former James Bond actor George Lazenby the other day called it \"the most exclusive club in the world.\" Today, another of the three other people in that club who are still alive greeted Robert Pattinson's entry into the double-o ranks. \"Dear Robert, Welcome to the world of Bond,\" wrote Pierce Brosnan, who played Bond across […]",
+      "content": "Former James Bond actor George Lazenby the other day called it \"the most exclusive club in the world.\"\n\nToday, another of the three other people in that club who are still alive greeted Robert Pattinson 's entry into the double-o ranks.\n\n\"Dear Robert, Welcome to the world of Bond,\" wrote Pierce Brosnan , who played Bond across four films from 1995-2002. \"You are going to be magnificent.\"\n\nAnd that's not just the kindness of a stranger. Brosnan has first-hand experience of Pattinson's abilities as an actor.\n\n\"I have fond memories of our time together making 'Remember Me,'\" he continued, namechecking the 2010 film on which they worked together. \"It has been a joy to watch you create a remarkable body of work and to go from strength to strength. Enjoy the ride.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nBrosnan ended with a Gaelic sign of affection meaning \"great love\" as he wrote, \"Gr&#xE1; mor, Pierce\"\n\nLazenby, whose outing as 007 began and ended with On Her Majesty's Secret Service in 1969, also offered his congratulations and a remarkably similar piece of advice to that offered by Brosnan today: \"Remember to enjoy yourself.\"",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669",
+      "published_at": "2026-11-19T01:35:26+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/brosnan-pattinson.png",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 258,
+      "extracted_at": "2026-11-19T01:35:55.005982+00:00",
+      "updated_at": "2026-11-19T01:35:55.005982+00:00"
+    },
     {
       "id": "dfefbe94-966f-4b51-a6b5-f8b1ee1bb4cf",
       "title": "A SpongeBob Trading Card Celebrating Squidward's Most Infamous \"Trash\" Painting Just Sold for Nearly $60,000",
@@ -742,21 +757,6 @@
       "word_count": 723,
       "extracted_at": "2026-11-18T21:45:46.765113+00:00",
       "updated_at": "2026-11-18T21:45:46.765113+00:00"
-    },
-    {
-      "id": "513ef498-5d2c-4625-9705-ddca61964057",
-      "title": "I Enjoyed The Circle’s Hulu Premiere, But One Major Change Upset Me More Than I Thought It Would",
-      "summary": "I didn't think this would be as big of an issue for me as it was.",
-      "content": "Warning! The following contains spoilers for the The Circle series premiere on Hulu \"Welcome To The Circle.\" Stream it with a Hulu subscription , or read at your own risk!\n\nButeau, who readers may know from her Netflix series Survival of the Thickest , was more than just a narrator for The Circle . She brought a lot of comedy to the game, which I felt was a little lacking in Hulu's premiere. Buteau's personality helped shape the tone of the show, which helped make it one of the best reality series .\n\nIt may just take time for me to get used to Tinx (Christina Najjar), who comes into The Circle with plenty of experience elsewhere. Before she was hosting the Hulu series, the influencer rose to fame through her no-nonsense advice. This evolved into a podcast, a New York Times best-selling book and a deal with SiriusXM.\n\nTinx has the resume for the role, but one episode in, I don't really see the same personality in her that I saw in Michelle Buteau. Granted, it's been one episode, and if we were all judged by our first day on the job, many of us would probably in trouble.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/enjoyed-the-circle-hulu-premiere-but-host-change-upset-me",
-      "published_at": "2026-11-18T21:42:16+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rhKtZj5CpaQwRQbY7vCQ89-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 200,
-      "extracted_at": "2026-11-18T21:45:44.132804+00:00",
-      "updated_at": "2026-11-18T21:45:44.132804+00:00"
     }
   ]
 }
