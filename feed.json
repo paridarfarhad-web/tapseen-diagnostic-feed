@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T15:48:57.175Z"
+    "updated_at": "2026-11-19T15:52:57.028Z"
   },
   "articles": [
+    {
+      "id": "56e19f63-9c5a-4c8c-875e-2cbc8e950673",
+      "title": "'Bedford Park' Trailer: Moon Choi &#038; Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film",
+      "summary": "With awards season on the horizon, several buzzy films that premiered at festivals earlier this year will get brief theatrical runs to qualify for various ceremonies. Among them this year is \" Bedford Park ,\" Stephanie Ahn 's feature film debut that wowed audiences at the Sundance Film Festival back in January. READ MORE: 'Josephine' Wins Grand Jury And Audience Award For U.S. Dramatic At 2026 Sundance Film Festival Here's an official synopsis for \"Bedford Park,\" courtesy of Sony Pictures Classics : Audrey is a 36-year-old physical therapist caught between her own, distinctly American identity and her loyalty to her Korean immigrant family. Continue reading 'Bedford Park' Trailer: Moon Choi & Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film at The Playlist.",
+      "content": "With awards season on the horizon, several buzzy films that premiered at festivals earlier this year will get brief theatrical runs to qualify for various ceremonies. Among them this year is \" Bedford Park ,\" Stephanie Ahn 's feature film debut that wowed audiences at the Sundance Film Festival back in January. READ MORE: 'Josephine' Wins Grand Jury And Audience Award For U.S. Dramatic At 2026 Sundance Film Festival Here's an official synopsis for \"Bedford Park,\" courtesy of Sony Pictures Classics : Audrey is a 36-year-old physical therapist caught between her own, distinctly American identity and her loyalty to her Korean immigrant family. Continue reading 'Bedford Park' Trailer: Moon Choi & Son Suk-ku Star In Stephanie Ahn's Award-Winning Debut Film at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/bedford-park-trailer-moon-choi-son-suk-ku-stephanie-ahn-20261119",
+      "published_at": "2026-11-19T15:51:39+00:00",
+      "image_url": "https://www.youtube.com/embed/_PrkTyDG5gA",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 123,
+      "extracted_at": "2026-11-19T15:52:40.892063+00:00",
+      "updated_at": "2026-11-19T15:52:40.892063+00:00"
+    },
     {
       "id": "afdea064-0488-451b-b998-f2bab001beba",
       "title": "Christoper Nolan: 'The Odyssey' Has 'A Lot of Deleted Scenes No One Will Ever See' Because 'I Don't Believe in Director's Cuts'",
@@ -742,21 +757,6 @@
       "word_count": 1347,
       "extracted_at": "2026-11-19T14:00:35.351141+00:00",
       "updated_at": "2026-11-19T14:00:35.351141+00:00"
-    },
-    {
-      "id": "fc40dcd5-9a70-40dc-9a1a-bea0fbfd988d",
-      "title": "'The Day of the Jackal' Season 2: Eddie Redmayne Back as Globe-Trotting Assassin in First Look",
-      "summary": "The Sky and Peacock Original will return to our screens in March 2027.",
-      "content": "Our first look at season two of The Day of the Jackal is here.\n\nEddie Redmayne returns as the elusive assassin in a first-look teaser for the second installment of the Sky and Peacock Original, coming in March 2027. Taken from the opening of the new series, the teaser offers a glimpse of the \"globe-trotting scale and high-stakes action to come.\"\n\nOscar winner Redmayne ( The Good Nurse , The Trial of the Chicago Seven , The Theory of Everything ), who also serves as an executive producer, earned Golden Globe, Critics&#x2019; Choice and SAG Award nominations for his performance in the first series, opposite Lashana Lynch. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle \"I Was Scared There'd Be More Eye Rolls Than Optimism\": Gaten Matarazzo on Making the West End His First Stop After 'Stranger Things' Movies \"Wicker Nipples\" and All: 'Wicker' Cinematographer Celebrates Steamy Film's Viral Success\n\nThat first season was the biggest new series to ever launch on Sky, THR revealed exclusively. Episode one reached a U.K. audience of 4.5 million after 26 viewing days. On Peacock, the show ranked among the top five original streaming series in the U.S. for its opening weekend, based on preliminary Nielsen data.\n\nThe series followed a cat-and-mouse game between a chameleonic assassin (Redmayne) and an MI6 agent (Lynch) who&#x2019;s determined to catch him.\n\nReturning cast members for season two include &#xDA;rsula Corber&#xF3; ( Money Heist ), Charles Dance ( Game of Thrones ), Chukwudi Iwuji ( Guardians of the Galaxy Vol. 3 ), Eleanor Matsuura ( The Walking Dead ), Adam James ( Mr Bates vs The Post Office ), Christy Meyer ( The Amateur ) and Corey Johnson ( The Bourne Ultimatum ).\n\nJoining the cast for series two are Pablo Schreiber ( Halo ), Weruche Opia ( Genius MLK/X ), Matt Bomer ( White Collar ) and Pia Tjelta ( Jo Nesb&#xF8;&#x2019;s Detective Hole ).\n\nThe Day of the Jackal is produced by multi-award-winning Carnival Films, which is part of Universal Global Television, a division of Universal Studio Group.",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/day-of-the-jackal-season-2-eddie-redmayne-photo-date-first-1236759241",
-      "published_at": "2026-11-19T14:00:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 358,
-      "extracted_at": "2026-11-19T14:00:35.758661+00:00",
-      "updated_at": "2026-11-19T14:00:35.758661+00:00"
     }
   ]
 }
