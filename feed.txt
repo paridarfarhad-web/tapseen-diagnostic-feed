@@ -1,9 +1,107 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-19T22:25:14.860Z
+Last Updated: 2026-11-19T22:31:10.773Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ‘Glee’ Reboot: ‘Sadness’ Over Naya Rivera and Cory Monteith’s Deaths Is ‘Going to Be a Part’ of the Show, Says Co-Creator Ian Brennan
+[1] 'From' Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix
+Source: Deadline | Status: expanded | Words: 320
+Published: 2026-11-19T22:30:22+00:00
+URL: https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607
+------------------------------------------------------------
+SUMMARY:
+Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen's streaming charts for the week. The series has generated 5 billion minutes viewed since the first three seasons […]
+
+CONTENT / EXTRACTED DETAILS:
+Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen's streaming charts for the week.
+
+The series has generated 5 billion minutes viewed since the first three seasons landed on Netflix on October 19. The fourth season of the series debuted on MGM+ in April and has already been renewed for a fifth and final season , making the timing quite serendipitous for it to catch hold on Netflix.
+
+From led streaming in the first week of November by an extremely wide margin, besting some of the most reliable acquired series, including second place's Grey's Anatomy , which racked up 857 million minutes viewed across its 471 episodes that same week. From 's total is made even more impressive by the fact that there are only 30 episodes available on Netflix. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Created by John Griffin ( Crater ) From unravels the mystery of a nightmarish town that traps all those who enter. Griffin executive produces alongside showrunner Jeff Pinkner ( Lost, Alias, Fringe ), and director Jack Bender ( Lost, Game of Thrones, The Institute ).
+
+Created by John Griffin ( Crater ) From unravels the mystery of a nightmarish town that traps all those who enter. Griffin executive produces alongside showrunner Jeff Pinkner ( Lost, Alias, Fringe ), and director Jack Bender ( Lost, Game of Thrones, The Institute ).
+
+============================================================
+[2] Netflix's 'The Body' Sparks 126K-Strong Petition To Remove "Blasphemous Anti-Christian" Show
+Source: Deadline | Status: expanded | Words: 476
+Published: 2026-11-19T22:30:21+00:00
+URL: https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570
+------------------------------------------------------------
+SUMMARY:
+As Netflix's The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers. Criticizing the "blasphemous anti-Christian series" from creator Quinn Shepard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to "stop defiling […]
+
+CONTENT / EXTRACTED DETAILS:
+As Netflix 's The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers.
+
+Criticizing the "blasphemous anti-Christian series" from creator Quinn Shepard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to "stop defiling the faith of millions of Christian families and cancel The Body before it reaches our living rooms." Deadline has reached out to Netflix.
+
+"Once the show reaches your living room and your teenager's phone, the damage is done. Nobody can take it back," reads the petition addressed to Netflix's Chief Content Officer Peter Rice. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+It seems the alleged damage might already have been inflicted, with Netflix reporting that the coming-of-age horror series received 5.1M views in its first five days, landing at No. 3 on the streamer's Global Top 10 English TV list, in addition to ranking in the Top 10 in 80 countries. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The petition takes issue with the depiction of "Christian schoolgirls, a dark initiation ritual, the Devil and 'prophetic visions'" in the show's trailer .
+
+"This is a pattern. First Netflix mocked Jesus Christ Himself in The First Temptation of Christ . Then it sexualized eleven-year-old girls in Cuties . Now it has come for Christian schoolgirls," it reads. "Each time, Netflix pushes one step further into the family home.
+
+"Ask yourself this. Would Netflix ever turn Muslim prayer, Hindu worship or even Wiccan ritual into a sex-and-Satan horror story for teenagers? Of course not. Netflix does this to Christians because it believes we will stay quiet and keep paying. It is time to prove Netflix wrong. A few complaints get ignored. But when Christians of every church stand together, Netflix feels it in its subscriber count," the petition adds.
+
+Shephard, whose grandmother was an Evangelical minister, previously told Deadline, "We weren't trying to make a show that was hyper-critical of religion . Obviously, religion is a theme in the show, and it touches on it in a lot of ways." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+In The Body , all eight episodes now available to stream on Netflix, a group of badly-behaved Catholic school girls begin having prophetic visions that set off mass hysteria in town after a dance-team initiation goes wrong on Halloween night in 2004.
+
+============================================================
+[3] With Elon Musk And Skydance Taking Over, I Have Mixed Feelings About Star Trek’s Future
+Source: CinemaBlend | Status: expanded | Words: 220
+Published: 2026-11-19T22:30:00+00:00
+URL: https://www.cinemablend.com/streaming-news/elon-musk-skydance-taking-over-i-mixed-feelings-star-trek-future
+------------------------------------------------------------
+SUMMARY:
+There's a lot to unpack about this big move.
+
+CONTENT / EXTRACTED DETAILS:
+Word is out that Elon Musk has invested a significant amount of money in Skydance, making him part-owner of the newly merged studio alongside David Ellison. With headlines suggesting the company may sell DC Studios and make other changes, I'm most concerned and have my eye on what the plan is for Star Trek .
+
+Ellison had a history with Star Trek before becoming head of the studio that owns it. Skydance helped co-produce both Star Trek: Into Darkness and Beyond alongside Paramount when they were separate studios, and he was on the record as a card-carrying Trekkie.
+
+Elon Musk's entry into Star Trek puts another alleged Trekkie at the top of Skydance's ladder, which could propel moves into happening sooner rather than later. For those who don't know, Musk is actually a canon figure in the universe, having been directly mentioned by Gabriel Lorca as one of the great minds of humanity. Despite his various movie and film appearances , Musk has never appeared in Trek .
+
+He's also preached about recreating Star Trek in real life via his SpaceX company, but has simultaneously butted heads with other fans in interpreting what the series is about. We saw that when Starfleet Academy came out, and he openly joked about the show having obese actors and people wearing eyeglasses .
+
+============================================================
+[4] Spider-Man’s Darkest Storyline Just Made His Most Iconic Power Deadlier than Ever
+Source: ComicBook.com | Status: expanded | Words: 844
+Published: 2026-11-19T22:25:00+00:00
+URL: https://comicbook.com/comics/feature/spider-mans-darkest-storyline-just-made-his-most-iconic-power-deadlier-than-ever
+------------------------------------------------------------
+SUMMARY:
+Image Courtesy of Marvel Comics Spider-Man has a whole host of iconic powers, from sticking to walls to backflipping like nobody else, but there's no debate that his most unique and interesting power is definitely his Spider-Sense. This preternatural ability lets Peter detect any danger before it reaches him or those around him, and that both keeps him safe and […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Spider-Man has a whole host of iconic powers, from sticking to walls to backflipping like nobody else, but there's no debate that his most unique and interesting power is definitely his Spider-Sense. This preternatural ability lets Peter detect any danger before it reaches him or those around him, and that both keeps him safe and gives him an unmatched edge when he gets into a fight. It's a power that's so ingrained in everything Spider-Man does that it almost becomes invisible, but is always felt. It also has one of the most iconic signifiers in all of comics, immediately telling the audience everything they need to know.
+
+However, even this spectacular power is completely different in the Midnight Universe. This dark new reality has completely reimagined Marvel's most iconic characters. For Spider-Man , that means that his great power now comes with great monstrosity, as the spider that bit him turned him into a creature that is no longer human . This has affected every part of his character, but the biggest shift we saw in Midnight Spider-Man #2 is that his Spider-Sense doesn't just warn him about danger, but takes him over to actively dispatch it.
+
+Given that he transformed into a horrible monster from the spider fusing onto his chest, Peter didn't bring his signed Oscorp contract to Felicia, which landed her in some hot water. She took two of Oscorp's bruisers to his house to find him, but realized how horrible things were when Gargan happened upon what was left of Uncle Ben. Then Peter crawled down from the wall and begged Felicia for help. The goons tried to blast him, but Peter's new instincts kicked in and he went on the offensive. His Spider-Sense forced him to attack , and he did it with relentless abandon, literally ripping the two men apart before diving out the window.
+
+This Peter obviously has no experience in combat. He's probably never even been in a fight before, but here he rushed forward and killed two people without hesitation. Importantly, he didn't attack Felicia, as he didn't register her as a threat. This new Spider-Sense carries a much, much stronger response, tapping into his fight response instead of his flight. This Peter rushes into danger instead of pulling away from it, and it can even override his mind. We know that Peter was hardly aware of what happened because he was practically a walking zombie after he escaped. This is a total rework of how his Spider-Sense works, bringing it closer to the monstrous ideal of this universe.
+
+Before he even officially became Spider-Man, Peter had already killed two people, which his mainline counterpart would never do. The two guards in question weren't just throwaways, either, as they were called Gargan and Rodriquez. Those happen to be the names of Scorpion and Tarantula, and given that one had his face removed and the other parted ways with the vast majority of his organs, it's safe to say that they are dead. This comic has gone out of its way to show that nobody is safe in this new reality, and with a literal beastly side that can take over Peter and kill whoever it deems a threat, it's clear that these are far from the last bodies Peter will put in the ground .
+
+Still, this doesn't mean that this is the last we'll see of these two. It's entirely possible that Doc Ock will use his horrific science to resurrect them, as they've come into contact with Peter and could have been changed in some capacity. Either way, Peter has a long, hard war ahead of him, and none of his nightmare villains are going to be willing to walk away with a few lumps on their heads. They will be corporate monsters created for the sole purpose of capturing or killing him, and no law will stop them.
+
+A huge part of this storyline is definitely going to be Peter drawing a line between what he considers his monstrous new reality and the humanity he can't afford to lose. He'll be forced to either come to terms with killing or force himself to constantly be in control. Either way, he'll have to confront the monster that lives inside of him, both literally and metaphorically. Aunt May, who seems to have left Uncle Ben in this world, could prove to be his last connection to humanity and pull him out of the abyss. Spider-Man is going to have to become something more, or else he'll just be another monster.
+
+What do you think of this change in how Peter's Spider-Sense works? Let us know in the comments below!
+
+Midnight Spider-Man #2 is on sale now!
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[5] ‘Glee’ Reboot: ‘Sadness’ Over Naya Rivera and Cory Monteith’s Deaths Is ‘Going to Be a Part’ of the Show, Says Co-Creator Ian Brennan
 Source: Variety | Status: expanded | Words: 809
 Published: 2026-11-19T22:23:42+00:00
 URL: https://variety.com/2026/tv/columns/glee-reboot-naya-rivera-cory-monteith-death-ian-brennan-monster-lizzie-borden-1236953562
@@ -37,7 +135,7 @@ She joked that she &#x201C;frequently&#x201D; took &#x201C;shaving cream baths.&
 Charlie Hunnam , who plays Lizzie&#x2019;s father, said his love of axes began way before he signed on for the show. He actually has a collection of about a dozen axes. &#x201C;Some of them are in my garage, some of them are in my pickup truck,&#x201D; he said. &#x201C;I have like a sick obsession. I cannot drive past a wood pile in L.A. or anywhere when a tree has been felled and they leave all of those rounds of wood on the road I have to like a complete crazy person pull over and fill my pickup truck with wood and then go cut it. I have a little back area in my office building, and I probably have three, four or five tons of chopped firewood.&#x201D;
 
 ============================================================
-[2] Patrick Stewart’s Cause of Death Officially Confirmed
+[6] Patrick Stewart’s Cause of Death Officially Confirmed
 Source: ComicBook.com | Status: expanded | Words: 230
 Published: 2026-11-19T22:21:37+00:00
 URL: https://comicbook.com/movies/news/patrick-stewarts-cause-of-death-officially-confirmed
@@ -55,7 +153,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] 'Survivor 51' Star Lewis Kelly on His $1 Million Coin Flip and Joining the Cast at the Last Minute
+[7] 'Survivor 51' Star Lewis Kelly on His $1 Million Coin Flip and Joining the Cast at the Last Minute
 Source: The Hollywood Reporter | Status: expanded | Words: 1747
 Published: 2026-11-19T22:12:35+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/survivor-51-lewis-kelly-exit-interview-1236759016
@@ -115,7 +213,7 @@ I feel like it set a cool tone for the rest of my game. I kind of felt like an a
 Survivor airs new episodes Wednesday at 8 p.m. on CBS , streaming on Paramount +.
 
 ============================================================
-[4] Streaming Ratings: Rough Week for Original Series, 'From' Remains No. 1 Overall
+[8] Streaming Ratings: Rough Week for Original Series, 'From' Remains No. 1 Overall
 Source: The Hollywood Reporter | Status: expanded | Words: 477
 Published: 2026-11-19T22:11:41+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-2-8-2026-1236759601
@@ -143,7 +241,7 @@ Disaster film The Day After Tomorrow led the movie rankings with 404 million min
 Nielsen's streaming ratings cover viewing on TV sets only and don&#x2019;t include minutes watched on computers or mobile devices. The ratings only measure U.S. audiences. The top streaming titles for Nov. 2-8, 2026, are below.
 
 ============================================================
-[5] If You've Seen Interstellar Enough Times, You Should Ace This Crossword Puzzle Quiz
+[9] If You've Seen Interstellar Enough Times, You Should Ace This Crossword Puzzle Quiz
 Source: CinemaBlend | Status: expanded | Words: 1074
 Published: 2026-11-19T22:05:00+00:00
 URL: https://www.cinemablend.com/movies/interstellar-movie-crossword-puzzle-quiz
@@ -183,7 +281,7 @@ Movies Steven Spielberg Fans Should Ace This Movie Crossword Puzzle &nbsp; &nbsp
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[6] Steven Spielberg Gently Pitched Christopher Nolan The Movie Idea I Think Fans Have Been Wanting
+[10] Steven Spielberg Gently Pitched Christopher Nolan The Movie Idea I Think Fans Have Been Wanting
 Source: CinemaBlend | Status: expanded | Words: 200
 Published: 2026-11-19T22:01:00+00:00
 URL: https://www.cinemablend.com/movies/steven-spielberg-gently-pitched-christopher-nolan-movie-idea-fans-have-been-wanting-the-odyssey-the-illiad
@@ -199,7 +297,7 @@ I love how politely Spielberg slid that into the conversation. It's the cinemati
 Nolan has already explained why he chose The Odyssey . He considers The Iliad more grounded, while the later poem's monsters and stranger adventures offered something he hadn't seen done the way he envisioned. That doesn't mean he couldn't change his mind, especially after his latest movie has reportedly earned more than $1.8 billion worldwide.
 
 ============================================================
-[7] GTA 6 Removes "Iconic" Prostitutes Feature, and Fans Are Angry
+[11] GTA 6 Removes "Iconic" Prostitutes Feature, and Fans Are Angry
 Source: ComicBook.com | Status: expanded | Words: 549
 Published: 2026-11-19T21:55:47+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-prostitutes
@@ -227,7 +325,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Lance Broadway Dies: 'Agents Of S.H.I.E.L.D.', 'Olympus Has Fallen' Actor Was 43
+[12] Lance Broadway Dies: 'Agents Of S.H.I.E.L.D.', 'Olympus Has Fallen' Actor Was 43
 Source: Deadline | Status: expanded | Words: 262
 Published: 2026-11-19T21:54:25+00:00
 URL: https://deadline.com/2026/11/lance-broadway-dead-agents-of-shield-olympus-has-fallen-1237229540
@@ -251,7 +349,7 @@ In 2015, he was cast as Devon in the short film Shattered Reflections .
 Broadway's acting career followed a brief stint in Major League Baseball. As a pitcher for the Chicago White Sox and New York Mets from 2007-09, he compiled a 2-2 record with 5.24 ERA. He was signed by the Toronto Blue Jays as a free agent in 2009 but did not appear in a game for the team.
 
 ============================================================
-[9] Billie Piper Is Ready For You To Cry But Knows The Real World Laughs Are Needed In 'Elsinore' [Interview]
+[13] Billie Piper Is Ready For You To Cry But Knows The Real World Laughs Are Needed In 'Elsinore' [Interview]
 Source: The Playlist | Status: summary_only | Words: 92
 Published: 2026-11-19T21:51:10+00:00
 URL: https://theplaylist.net/billie-piper-is-elsinore-interview-20261119
@@ -263,7 +361,7 @@ CONTENT / EXTRACTED DETAILS:
 There is a lot of deserved praise for Andrew Scott's stellar performance as legendary actor Ian Charleson in Simon Stone's "Elsinore." But the film would not be the emotional gut punch it is without contributions from a top-tier ensemble including Billie Piper, Olivia Colman, Joe Locke, Matthew Beard , and Juliet Stevenson, among others. The supporting turn that will get your attention the most, however, belongs to Piper. Continue reading Billie Piper Is Ready For You To Cry But Knows The Real World Laughs Are Needed In 'Elsinore' [Interview] at The Playlist.
 
 ============================================================
-[10] New 'The Prisoner' Series in the Works as Amazon Picks Up Rights (Exclusive)
+[14] New 'The Prisoner' Series in the Works as Amazon Picks Up Rights (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 461
 Published: 2026-11-19T21:49:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/new-the-prisoner-series-in-the-works-amazon-1236759554
@@ -289,7 +387,7 @@ There was, however, a poorly received TV remake. In 2009, AMC aired a six-part m
 Murphy is one of the producers of the long-running Transformers franchise, the latest of which will gear up next year. He and Montford produced the update of horror movie Faces of Death , released earlier this year, and are developing feature adaptations of classic pulp hero Buck Rogers, set up at Legendary, and Don Pendelton&#x2019;s The Executioner book series, the latter setup at Sony with Shane Black writing with an eye to direct.
 
 ============================================================
-[11] Mariko Tamaki Writing Sexy Vampire Thriller 'Royal Blood' for Skybound, Image Comics (Exclusive)
+[15] Mariko Tamaki Writing Sexy Vampire Thriller 'Royal Blood' for Skybound, Image Comics (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 827
 Published: 2026-11-19T21:49:05+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/mariko-tamaki-writing-sexy-vampire-thriller-royal-blood-1236759480
@@ -331,7 +429,7 @@ Royal Blood will be the latest title in Skybound&#x2019;s line of horror comics 
 Check out a preview below as well as a selection of covers for the first issue.
 
 ============================================================
-[12] ‘Ice Age: Boiling Point’ Trailer: Manny, Sid &#038; Diego Return For A Prehistoric Adventure
+[16] ‘Ice Age: Boiling Point’ Trailer: Manny, Sid &#038; Diego Return For A Prehistoric Adventure
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-19T21:49:02+00:00
 URL: https://theplaylist.net/ice-age-boiling-point-trailer-20261119
@@ -343,7 +441,7 @@ CONTENT / EXTRACTED DETAILS:
 The gang is back. Nearly 25 years after the original “ Ice Age ,” Disney and 20th Century Studios have unveiled the trailer for “ Ice Age: Boiling Point ,” the sixth theatrical installment in the animated franchise. Ray Romano, John Leguizamo, Denis Leary, Queen Latifah and Simon Pegg return as Manny, Sid, Diego, Ellie and Buck, respectively. This time, the herd ventures into the Lost World, a dangerous landscape filled with dinosaurs, volcanic activity and plenty of prehistoric chaos. Continue reading ‘Ice Age: Boiling Point’ Trailer: Manny, Sid & Diego Return For A Prehistoric Adventure at The Playlist.
 
 ============================================================
-[13] Guardians of the Galaxy Almost Had a Very Different Baby Groot, and You Can Now Own the Strange Original Design
+[17] Guardians of the Galaxy Almost Had a Very Different Baby Groot, and You Can Now Own the Strange Original Design
 Source: ComicBook.com | Status: expanded | Words: 705
 Published: 2026-11-19T21:45:00+00:00
 URL: https://comicbook.com/collectibles/news/guardians-of-the-galaxy-almost-had-a-very-different-baby-groot-and-you-can-now-own-the-strange-original-design
@@ -363,7 +461,7 @@ In Infinity War, a now teenage Groot was once again key in several moments, most
 Would the original design of Baby Groot have ruined the character? Should the Guardians return to the MCU? Let us know in the comments.
 
 ============================================================
-[14] NYC Book Publishing Mainstay Farrar, Straus &#038; Giroux Marks 80th Anniversary
+[18] NYC Book Publishing Mainstay Farrar, Straus &#038; Giroux Marks 80th Anniversary
 Source: Deadline | Status: expanded | Words: 437
 Published: 2026-11-19T21:43:53+00:00
 URL: https://deadline.com/2026/11/book-publisher-farrar-straus-giroux-marks-80th-anniversary-1237228484
@@ -387,7 +485,7 @@ Angel addressed the crowd in attendance to salute the company's durability and m
 Reflecting on the milestone, she added, &#x201C;Eighty years is a long time in publishing, but not so long in the history of literature. A publishing house, finally, is people standing behind books, for as long as it takes.&#x201D;
 
 ============================================================
-[15] Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars &#038; More
+[19] Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars &#038; More
 Source: Deadline | Status: expanded | Words: 693
 Published: 2026-11-19T21:40:48+00:00
 URL: https://deadline.com/feature/the-nightingale-movie-news-updates-kristin-hannah-book-1236690359
@@ -437,7 +535,7 @@ Yes, Kristin Hannah posted at the end of March that the film had started product
 Deadline also interviewed Lauren Neustadter , President of Film and Television at Reese Witherspoon's Production Company Hello Sunshine while she was on set in Budapest, where the film is shooting.
 
 ============================================================
-[16] The Best Gifts to Shop at Best Buy: From Home Theater Upgrades to Espresso Machines
+[20] The Best Gifts to Shop at Best Buy: From Home Theater Upgrades to Espresso Machines
 Source: Variety | Status: expanded | Words: 255
 Published: 2026-11-19T21:36:25+00:00
 URL: https://variety.com/2026/shopping/news/best-buy-gift-guide-best-deals-shop-online-1236953639
@@ -455,7 +553,7 @@ Meanwhile, smart glasses are becoming an increasingly visible part of the fashio
 Whether you're shopping for a devoted film buff, a music obsessive, a fashion enthusiast or someone who simply loves a good gadget, these Best Buy finds make the perfect gift this holiday season:
 
 ============================================================
-[17] IDFA Awards Ceremony: ‘The Year Of The Ghost’ And ‘Memories Of Lightning’ Earn Top Prizes
+[21] IDFA Awards Ceremony: ‘The Year Of The Ghost’ And ‘Memories Of Lightning’ Earn Top Prizes
 Source: Deadline | Status: expanded | Words: 1535
 Published: 2026-11-19T21:34:03+00:00
 URL: https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526
@@ -565,7 +663,7 @@ Special Mention - Beeld & Geluid IDFA ReFrame Award: Revolutionaries Never Die ,
 FIPRESCI Award: Hazara Town , dir. Khadim Dai
 
 ============================================================
-[18] Caleb Hearon and Zooey Deschanel TIFF Dramedy 'Trash Mountain' Acquired by Magnolia Pictures
+[22] Caleb Hearon and Zooey Deschanel TIFF Dramedy 'Trash Mountain' Acquired by Magnolia Pictures
 Source: Variety | Status: expanded | Words: 509
 Published: 2026-11-19T21:33:51+00:00
 URL: https://variety.com/2026/film/news/caleb-hearon-zooey-deschanel-trash-mountain-magnolia-1236953596
@@ -593,7 +691,7 @@ Hearon, a 31-year-old stand-up comedian and host of the "So True with Caleb Hear
 The deal was negotiated by Magnolia Pictures SVP of Acquisitions John Von Thaden and VP of Acquisitions Miranda Hill, and by CAA Media Finance and WME on behalf of the filmmakers.
 
 ============================================================
-[19] T-Mobile Introduces T-Mix, an Innovative Phone Plan That Lets You Choose What's Included
+[23] T-Mobile Introduces T-Mix, an Innovative Phone Plan That Lets You Choose What's Included
 Source: The Hollywood Reporter | Status: expanded | Words: 381
 Published: 2026-11-19T21:32:14+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-t-mix-launch-phone-plan-details-pricing-benefits-1236755222
@@ -615,7 +713,7 @@ To clarify, T-Mobile perks come with every plan; Picks are what customers choose
 Compare T-Mix plans, check out the full range of Picks (streaming, AI assistants, travel, etc.) and build your custom Picks lineup at https://t-mobile.com/T-Mix .
 
 ============================================================
-[20] Executives From the Walt Disney Company, NBCUniversal Television, Blumhouse Atomic, Waymo and Chipotle to Join Variety's Entertainment Summit at CES
+[24] Executives From the Walt Disney Company, NBCUniversal Television, Blumhouse Atomic, Waymo and Chipotle to Join Variety's Entertainment Summit at CES
 Source: Variety | Status: expanded | Words: 334
 Published: 2026-11-19T21:31:44+00:00
 URL: https://variety.com/2026/biz/news/variety-announces-programming-entertainment-summit-at-ces-1236953511
@@ -649,7 +747,7 @@ New Rules of Engagement &#x2013; CMO Roundtable
 Screenvision, The Trade Desk, and Walmart Connect are premier partners for Variety&#x2019;s Entertainment Summit at CES. Owl & Co is the official sponsor of the event. EY, Salesforce, Xperi, and Deloitte are supporting partners. For more information and programming updates, visit variety.com/ces .
 
 ============================================================
-[21] Quentin Tarantino Offers New Details On His Original ‘Inglourious Basterds’ Miniseries &#038; The Black Soldiers Storyline He Cut
+[25] Quentin Tarantino Offers New Details On His Original ‘Inglourious Basterds’ Miniseries &#038; The Black Soldiers Storyline He Cut
 Source: The Playlist | Status: summary_only | Words: 107
 Published: 2026-11-19T21:30:25+00:00
 URL: https://theplaylist.net/quentin-tarantino-inglourious-basterds-eight-episode-miniseries-20261119
@@ -661,7 +759,7 @@ CONTENT / EXTRACTED DETAILS:
 For all his reputation as an indulgent filmmaker who rarely knows when to stop, Quentin Tarantino has occasionally demonstrated a surprising willingness to kill his darlings. And few projects required more ruthless self-editing than “ Inglourious Basterds ,” his 2009 World War II revenge epic, which spent years threatening to become something far bigger, stranger, and more unwieldy than the film that eventually reached theaters. At one point, Tarantino had so many characters, subplots, and elaborate detours that a conventional feature seemed almost impossible. Continue reading Quentin Tarantino Offers New Details On His Original ‘Inglourious Basterds’ Miniseries & The Black Soldiers Storyline He Cut at The Playlist.
 
 ============================================================
-[22] 'The Year of the Ghost,' About Misogyny in China, Wins Best Film at IDFA Documentary Festival
+[26] 'The Year of the Ghost,' About Misogyny in China, Wins Best Film at IDFA Documentary Festival
 Source: Variety | Status: expanded | Words: 1073
 Published: 2026-11-19T21:30:00+00:00
 URL: https://variety.com/2026/film/global/the-year-of-the-ghost-idfa-1236953608
@@ -741,7 +839,7 @@ Beeld & Geluid ReFrame Award: &#x201C;The Clearing,&#x201D; dir. Sabine Groenewe
 FIPRESCI Award: &#x201C;Hazara Town,&#x201D; dir. Khadim Dai
 
 ============================================================
-[23] IDFA: 'The Year of the Ghost' and 'Memories of Lightning' Win Amsterdam Doc Fest Awards
+[27] IDFA: 'The Year of the Ghost' and 'Memories of Lightning' Win Amsterdam Doc Fest Awards
 Source: The Hollywood Reporter | Status: expanded | Words: 978
 Published: 2026-11-19T21:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/idfa-2026-awards-the-year-of-the-ghost-memories-of-lightning-1236759272
@@ -787,7 +885,7 @@ IDFA DocLab Forum Award for Best Project This Pleasant Lady by Victoria Mapplebe
 Special Mention for IDFA DocLab Forum Award Time Hunter XR: Colonial Protocols by Mark Mushiva and Daniel Chein
 
 ============================================================
-[24] A Teen’s Make-A-Wish Dream Was To Be In A Hallmark Movie. She Got To Do That And So Much More
+[28] A Teen’s Make-A-Wish Dream Was To Be In A Hallmark Movie. She Got To Do That And So Much More
 Source: CinemaBlend | Status: expanded | Words: 248
 Published: 2026-11-19T21:30:00+00:00
 URL: https://www.cinemablend.com/television/a-teens-make-a-wish-dream-be-in-hallmark-movie-so-much-more-lacey-chabert
@@ -805,7 +903,7 @@ Filming wrapped early this year on what could be Hallmark’s best Countdown to 
 All of this is making me more excited for the film! Holiday Ever After: A Disney World Wish Come True centers on Lindsey (Chabert), who plans to spend the holidays at Disney World with her extended family. In addition to having the best holiday ever, Lindsey also makes a wish at Cinderella’s Fountain for a love worthy of a fairytale to find her.
 
 ============================================================
-[25] How to Get a 6-Star Wanted Level in GTA 6 and Then Escape From the Cops
+[29] How to Get a 6-Star Wanted Level in GTA 6 and Then Escape From the Cops
 Source: ComicBook.com | Status: expanded | Words: 1168
 Published: 2026-11-19T21:30:00+00:00
 URL: https://comicbook.com/gaming/feature/how-to-get-a-6-star-wanted-level-in-gta-6-and-then-escape-from-the-cops
@@ -841,7 +939,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] New Video of Henry Cavill’s Last Appearance As Superman Has Fans Lamenting “So Much Wasted Potential”
+[30] New Video of Henry Cavill’s Last Appearance As Superman Has Fans Lamenting “So Much Wasted Potential”
 Source: ComicBook.com | Status: expanded | Words: 611
 Published: 2026-11-19T21:20:15+00:00
 URL: https://comicbook.com/movies/news/new-video-of-henry-cavills-last-appearance-as-superman-has-fans-lamenting-so-much-wasted-potential
@@ -869,7 +967,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] 'Spider-Man: Brand New Day' Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene
+[31] 'Spider-Man: Brand New Day' Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene
 Source: Deadline | Status: expanded | Words: 343
 Published: 2026-11-19T21:15:43+00:00
 URL: https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-nurse-deleted-scene-1237229518
@@ -897,13 +995,13 @@ She continued, "I know. I told my mom, and she was like, &#x2018;That sucks. Now
 Dawson has played Claire Temple across multiple Marvel shows like Jessica Jones , Luke Cage , Iron Fist and The Defenders .
 
 ============================================================
-[28] New Fallout Game Leaks Ahead of Reveal, but It's Not Anything Fans Would Expect
+[32] New Fallout Game Leaks Ahead of Reveal, but It's Not Anything Fans Would Expect (Update)
 Source: ComicBook.com | Status: expanded | Words: 666
 Published: 2026-11-19T21:13:45+00:00
 URL: https://comicbook.com/gaming/news/new-fallout-game-leaks-ahead-of-reveal-but-its-not-anything-fans-would-expect
 ------------------------------------------------------------
 SUMMARY:
-Image Courtesy of Bethesda Softworks The Outer Worlds developer Obsidian Entertainment's upcoming Fallout and the Fallout 3 and New Vegas remasters are seemingly not the only Fallout games in production. According to a classification board rating, there is a new Fallout video game coming out, but it's straying pretty far from the series' RPG roots. As spotted by the Fallout […]
+Image Courtesy of Bethesda Softworks UPDATE: Bethesda community manager VioletLight confirmed on Reddit shortly after this listing came out that A Wasteland Full of Cats is indeed a real game and will support real pets in the Dallas area. They didn't reveal much else, however, more information is coming "soon." The article as it initially ran continues below. The Outer […]
 
 CONTENT / EXTRACTED DETAILS:
 &nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google The Outer Worlds developer Obsidian Entertainment's upcoming Fallout and the Fallout 3 and New Vegas remasters are seemingly not the only Fallout games in production. According to a classification board rating, there is a new Fallout video game coming out, but it's straying pretty far from the series' RPG roots.
@@ -931,7 +1029,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] GTA 6 Parents Guide - Should You Let Your Kid Play the New Grand Theft Auto Game?
+[33] GTA 6 Parents Guide - Should You Let Your Kid Play the New Grand Theft Auto Game?
 Source: ComicBook.com | Status: expanded | Words: 1106
 Published: 2026-11-19T21:10:35+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-grand-theft-auto-vi-parents-guide
@@ -975,7 +1073,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend
+[34] Gordon Ramsay’s Hot Take On Air Fryers Has Me Questioning The Legend
 Source: CinemaBlend | Status: expanded | Words: 161
 Published: 2026-11-19T21:09:50+00:00
 URL: https://www.cinemablend.com/television/gordon-ramsays-hot-take-air-fryers-has-me-questioning-legend
@@ -991,7 +1089,7 @@ I was willing to defend Ramsay after he dissed pineapple on pizza , as that's a 
 What I can't abide is the disrespect he showed toward the air fryer. His comments make it sound like it has no place in the standard home kitchen. As someone who cooks from home all the time, I can't praise the air fryer enough, and how it elevates my cooking experience each and every dinner night.
 
 ============================================================
-[31] Tendo Nagenda Named President of Ryan Coogler's Proximity Media
+[35] Tendo Nagenda Named President of Ryan Coogler's Proximity Media
 Source: The Hollywood Reporter | Status: expanded | Words: 361
 Published: 2026-11-19T21:09:39+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/tendo-nagenda-president-ryan-coogler-proximity-media-1236759547
@@ -1015,13 +1113,13 @@ After Netflix, Nagenda founded 10 by Ten Entertainment, and produced the feature
 Proximity&#x2018;s upcoming slate includes The X-Files for Hulu, starring Danielle Deadwyler and Himesh Patel.
 
 ============================================================
-[32] Playbill Apologizes Over 'George Floyd Musical' Ad &#038; Bans Producer From Listings; Show's Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights
+[36] Playbill Apologizes Over 'George Floyd Musical' Ad &#038; Bans Producer From Listings; Show's Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights
 Source: Deadline | Status: expanded | Words: 1291
 Published: 2026-11-19T21:09:37+00:00
 URL: https://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358
 ------------------------------------------------------------
 SUMMARY:
-UPDATE, with new Playbill statement: Playbill, the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job listings, apologized today for one such ad: a listing calling for singers interested in auditioning for a new concept stage musical album. The cast album's title: George Floyd: The […]
+UPDATE, with new Playbill statement: Playbill, the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job listings, apologized Thursday for one such ad: a listing calling for singers interested in auditioning for a new concept stage musical album. The cast album's title: George Floyd: The […]
 
 CONTENT / EXTRACTED DETAILS:
 Playbill , the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job listings, apologized today for one such ad: a listing calling for singers interested in auditioning for a new concept stage musical album.
@@ -1079,7 +1177,7 @@ In a statement to The New York Times delivered by his attorney after the undiscl
 Deadline has reached out to both Playbill and Busted Broadway for additional comment.
 
 ============================================================
-[33] One of Storm's Most Disturbing X-Men Stories Is Getting a Horrifying New Chapter in Midnight X-Men
+[37] One of Storm's Most Disturbing X-Men Stories Is Getting a Horrifying New Chapter in Midnight X-Men
 Source: ComicBook.com | Status: expanded | Words: 840
 Published: 2026-11-19T21:05:00+00:00
 URL: https://comicbook.com/comics/feature/one-of-storms-most-disturbing-x-men-stories-is-getting-a-horrifying-new-chapter-in-midnight-x-men
@@ -1111,7 +1209,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal
+[38] Looking For Holiday Movies To Stream? Paramount+ Has You Covered With This Amazing Discounted Deal
 Source: CinemaBlend | Status: expanded | Words: 263
 Published: 2026-11-19T21:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/looking-for-holiday-movies-stream-paramount-plus-has-you-covered-with-amazing-discounted-deal
@@ -1127,7 +1225,7 @@ Then there are comedies like Scrooged, Home for the Holidays, Happy Christmas, L
 Paramount+ has quietly become one of my favorite streamers over the last few years, even outside of this time of year. Not only is most of the Taylor Sheridan Universe of shows part of its lineup, including Landman Season 3 at some point, but the growing list of movies is pretty legendary. I’m talking about iconic movies like Top Gun , Gladiator, Terminator 2, Braveheart, Dunkirk, Almost Famous , and all of the Mission: Impossible movies. Seriously, if you’re a movie fan, it’s one of the best places to see a ton of classics.
 
 ============================================================
-[35] Tendo Nagenda Tapped As President Of Proximity Media
+[39] Tendo Nagenda Tapped As President Of Proximity Media
 Source: Deadline | Status: expanded | Words: 665
 Published: 2026-11-19T21:00:00+00:00
 URL: https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818
@@ -1151,7 +1249,7 @@ In 2022, Nagenda founded 10 by Ten Entertainment, a production company focused o
 The appointment comes as Proximity Media continues to expand its slate across film, television and nonfiction. The company is behind the critically acclaimed blockbuster Sinners , which grossed more than $365 million worldwide, as well as Creed III and Academy Award-winning Judas and the Black Messiah . On the television side, Proximity recently secured a series greenlight for its highly anticipated reimagining of The X-Files for Hulu, Danielle Deadwyler and Himesh Patel attached to star. The company also recently entered into a multiyear television deal with Netflix to develop an exclusive slate of scripted and unscripted projects. Its nonfiction projects include National Geographic&#x2019;s Hurricane Katrina: Race Against Time , which became the network&#x2019;s most-watched U.S. streaming title, along with Stephen Curry: Underrated , Homeroom and Anthem .
 
 ============================================================
-[36] Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President
+[40] Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President
 Source: Variety | Status: expanded | Words: 572
 Published: 2026-11-19T21:00:00+00:00
 URL: https://variety.com/2026/film/news/tendo-nagenda-ryan-coogler-proximity-media-president-1236952410
@@ -1179,7 +1277,7 @@ In 2022, Nagenda founded 10 by Ten Entertainment, a production company focused o
 Nagenda's appointment comes as Proximity Media continues to expand its slate across film, television and nonfiction. In June, the company entered into a multiyear television deal with Netflix to develop an exclusive slate of scripted and unscripted projects. Proximity Media&#x2019;s television division is behind series including Marvel&#x2019;s &#x201C;Ironheart&#x201D; and the animated &#x201C;Black Panther&#x201D; spinoff &#x201C;Eyes of Wakanda"; the National Geographic docuseries &#x201C;Hurricane Katrina: A Race Against Time&#x201D;; "Stephen Curry: Underrated"; "Homeroom"; and "Anthem."
 
 ============================================================
-[37] Justin Hartley &#038; ChangeUp Productions Developing Medical Drama 'Dr. Lucia' At NBC
+[41] Justin Hartley &#038; ChangeUp Productions Developing Medical Drama 'Dr. Lucia' At NBC
 Source: Deadline | Status: expanded | Words: 530
 Published: 2026-11-19T21:00:00+00:00
 URL: https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428
@@ -1203,7 +1301,7 @@ Pernas is currently recurring on CBS' Tracker and most recently on NBC's Suits L
 Guitar and Sheree Guitar Productions are represented by Lichter Grossman Nichols.
 
 ============================================================
-[38] ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia
+[42] ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia
 Source: Variety | Status: expanded | Words: 457
 Published: 2026-11-19T20:59:32+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444
@@ -1233,7 +1331,7 @@ Zack Hoyt, better known online as Asmongold, complained during a stream of the g
 Despite chatter from commentators, &#x201C;GTA 6&#8243; is breaking internet usage records and is already one of the best-reviewed games of all time.
 
 ============================================================
-[39] Judge Allows Trump to Sue New York Times Reporters Over Tax Fraud Claims
+[43] Judge Allows Trump to Sue New York Times Reporters Over Tax Fraud Claims
 Source: Variety | Status: expanded | Words: 462
 Published: 2026-11-19T20:57:32+00:00
 URL: https://variety.com/2026/politics/news/trump-new-york-times-tax-fraud-lucky-loser-book-1236953532
@@ -1265,7 +1363,7 @@ The same judge dismissed an earlier version of Trump's lawsuit last year, findin
 The suit can now proceed to discovery and motions for summary judgment. The defendants in the case are the Times, three of its reporters, and Penguin Random House.
 
 ============================================================
-[40] 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
+[44] 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
 Source: Deadline | Status: expanded | Words: 392
 Published: 2026-11-19T20:55:12+00:00
 URL: https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494
@@ -1291,7 +1389,7 @@ In an interview last year, Nolan said it was arduous to work on&#xA0; The Odysse
 "I definitely hit the limits of my own stamina and everybody&#x2019;s stamina, I think," Nolan said in an interview with Today . "I mean, it&#x2019;s The Odyssey , of course it should be difficult. We&#x2019;re not doing the job right making a film of The Odyssey if it doesn&#x2019;t seem difficult."
 
 ============================================================
-[41] The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
+[45] The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
 Source: The Hollywood Reporter | Status: expanded | Words: 313
 Published: 2026-11-19T20:45:17+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/paramount-plus-black-friday-deal-2026-november-promo-1236759110
@@ -1311,7 +1409,7 @@ Paramount+ Essential is the streamer's ad-supported base package, regularly $8.9
 Paramount+ Premium (formerly known as Paramount+ with Showtime) is regularly $13.99 per month or $139.99 per year and offers everything in the essential plan without ads (except for live TV), plus access to all of Showtime, the ability to stream CBS live with more sports and events, the option to download movies and shows and the ability to watch in 4K Ultra HD, Dolby Vision or HDR10.
 
 ============================================================
-[42] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
+[46] Brandon T. Jackson Joins 'The Rockford Files' In Recurring Role
 Source: Deadline | Status: expanded | Words: 394
 Published: 2026-11-19T20:43:30+00:00
 URL: https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451
@@ -1337,7 +1435,7 @@ The series will premiere in its regular timeslot on Thursday, January 7 at 8 p.m
 Jackson can recently be seen starring in the indie feature I&#x2019;m Beginning to See the Light , alongside Abbie Cornish and Jack Huston. On the TV side, his credits include Family Business: New Orleans, Mr. Robinson, Deadbeat and Bojack Horseman. Known for his work in the Percy Jackson titles, his additional film credits include Tropic Thunder , Roll Bounce and Tooth Fairy. Jackson is repped by Buchwald and Zero Gravity Management.
 
 ============================================================
-[43] Star Wars Jedi 3 Report Gives New Update on EA Game
+[47] Star Wars Jedi 3 Report Gives New Update on EA Game
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-19T20:39:06+00:00
 URL: https://comicbook.com/gaming/news/star-wars-jedi-3-ea-new-update-report
@@ -1363,7 +1461,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
+[48] Nick Jonas And A Bridgerton Star Are Doing A Rom-Com, And Fans Are Just As Shook As Me
 Source: CinemaBlend | Status: expanded | Words: 163
 Published: 2026-11-19T20:38:14+00:00
 URL: https://www.cinemablend.com/streaming-news/nick-jonas-and-bridgerton-hannah-dodd-doing-rom-com-fans-shook-me
@@ -1379,7 +1477,7 @@ It’s safe to say that I did not see Dodd starring in a holiday romcom next yea
 There's no word yet on when The More The Merrier will be available for those with a Netflix subscription . However, I'd imagine it should be out in time for the 2027 holiday season since filming is slated to begin in January.
 
 ============================================================
-[45] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
+[49] Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis: ‘Don’t Worry About It. God Got Me’
 Source: Variety | Status: expanded | Words: 373
 Published: 2026-11-19T20:36:44+00:00
 URL: https://variety.com/2026/music/news/marlon-jackson-prostate-cancer-1236953546
@@ -1401,7 +1499,7 @@ He had a sense of humor while addressing his prognosis, saying, "Bad grass don&#
 Jackson is the sixth of Joe and Katherine Jackson's ten children. Besides his twin, who died shortly after birth, Marlon was the closest in age to Michael Jackson, who was born one year after him. Marlon left the Jackson 5 in 1985, shortly after Michael, and released the solo album "Baby Tonight" in 1987. After that, he mostly left the music business and began to pursue real estate. He has made several public appearances recently while promoting the biopic "Michael."
 
 ============================================================
-[46] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
+[50] Teagan Meredith &#038; Jacob Batalon Join Disney's 'Lilo &#038; Stitch 2'
 Source: Deadline | Status: expanded | Words: 473
 Published: 2026-11-19T20:30:00+00:00
 URL: https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336
@@ -1423,324 +1521,4 @@ Sanders is writing and directing the new film, with Jonathan Eirich producing. R
 Meredith is a rising actress who has previously been seen in Prime Video's Fallout and AMC's The Terror: Devil in Silver . She made her professional stage debut at just 7 years old in Lilliana Padilla's How to Defend Yourself at New York Theatre Workshop and will next appear in the film Claws , written and directed by the Adams Brothers. She is represented by Nouveaux Talent Management and Zuri Agency.
 
 Batalon is best known for his breakout role as Ned Leeds in Marvel/Sony's Spider-Man franchise, most recently reprising the fan-favorite character in Spider-Man: Brand New Day , the highest-grossing film of 2026 and the third-highest-grossing film of all time. He also recently starred in the action comedy The Wrecking Crew , opposite Jason Momoa and Dave Bautista, and in the action thriller Novocaine . Previously, he exec produced and starred in the titular role of Syfy's Reginald the Vampire . He is represented by Independent Artist Group and Brecheen Feldman Breimer.
-
-============================================================
-[47] Zooey Deschanel &#038; Caleb Hearon TIFF World Premiere 'Trash Mountain' Acquired By Magnolia Pictures
-Source: Deadline | Status: expanded | Words: 521
-Published: 2026-11-19T20:24:19+00:00
-URL: https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: The TIFF world premiere, Trash Mountain, starring Zooey Deschanel and Caleb Hearon, is seeing its North American rights go to Magnolia Pictures for a theatrical release next year. The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE: The TIFF world premiere, Trash Mountain , starring Zooey Deschanel and Caleb Hearon , is seeing its North American rights go to Magnolia Pictures for a theatrical release next year.
-
-The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return to his hometown in rural Missouri following the death of his hoarder father. The story takes us on a journey of emotional acceptance and resilience as Gavin and his half-sister Abbi (Deschanel) navigate challenging family dynamics and their complicated relationships with the past. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'I Want Your Sex' Sets HBO Max Streaming Release Date News Jordan Firstman Voiced Animated Pic 'Jim Queen' Acquired By Magnolia Pictures, Sets Summer Release
-
-The pic currently is 100% fresh on Rotten Tomatoes with critics. Trash Mountain also stars Jacki Weaver, Jaboukie Young-White, Kyle Marvin, and Holmes also star in the film co-written by Ruby Caster. Magnolia is planning a theatrical release for next year. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-" Trash Mountain is such a funny, smart, joyful work, which is no surprise coming from the brilliant mind of Caleb Hearon," said Magnolia Pictures co-CEOs Eamonn Bowles and Dori Begley. "We're so excited to collaborate with Caleb, Kris, Colin and this fantastic cast to bring it to audiences.&#x201D;
-
-"I&#x2019;m truly thrilled to be working with Magnolia," said Rey. "They have been a well-respected champion for indie film over the last twenty-five years. I&#x2019;m so happy they are planning a theatrical release of this funny, tender film, and can&#x2019;t wait for audiences to see the hilarious and touching performances from Caleb, Zooey, and the rest of this lovable cast."
-
-" Trash Mountain is a film about home. The physical homes we reside in, the emotions that we make home in, the place where we grew up, and the way that many of us make home elsewhere when we've spilled out over the brims of our hometowns," said Hearon. "I've been a fan of Magnolia films for a very long time and we're honored to be partnering with them."
-
-Metronome Film Company presents, in association with Sight Unseen, Pigasus Pictures, Five Sticks Productions, Streeterville Productions. Rebecca Linfoot co-produced. Executive producers are Zachary Spicer, Julia Lebedev, Eddie Vaisman, Caleb Hearon, Lilly Wachowski, Annys Hamilton, Carrie Holt De Lama, Kelley Sims, Chris Cafero, Scott L. Goldstein, George Rush, Willie Trieger. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-The deal was negotiated by Magnolia Pictures SVP of Acquisitions John Von Thaden and VP of Acquisitions Miranda Hill, and by CAA Media Finance and WME on behalf of the filmmakers.
-
-============================================================
-[48] Peacock Is Decking the Streaming Halls With Festive New Holiday 2026 Lineup
-Source: ComicBook.com | Status: expanded | Words: 1058
-Published: 2026-11-19T20:22:00+00:00
-URL: https://comicbook.com/movies/news/peacock-is-decking-the-streaming-halls-with-festive-new-holiday-2026-lineup
-------------------------------------------------------------
-SUMMARY:
-With Thanksgiving just a week away, we’ve officially entered the holiday season — aka the most wonderful time of the year. It’s a time of celebration, of merriment, of friends, family, and all things cozy and bright and, of course, it is also a perfect time to stay home with some low-key plans and stream […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google With Thanksgiving just a week away, we’ve officially entered the holiday season — aka the most wonderful time of the year. It’s a time of celebration, of merriment, of friends, family, and all things cozy and bright and, of course, it is also a perfect time to stay home with some low-key plans and stream some movies and television shows for the holidays, too. For that, Peacock has you covered with their freshly released holiday streaming lineup.
-
-This holiday season, Peacock is stacked with some great entertainment options. The biggest festivities kick off with the 100th Macy’s Thanksgiving Day Parade on November 26th, but there’s so much more than just that. Even before the parade, there are movies and other programming to stream and as we get into December, there are lots of movies to cover just about every kind of holiday entertainment you can imagine. There’s an absolute wealth of holiday cheer to be had — check out the full lineup for yourself below.
-
-Alpha & Omega 2: A Howl-iday Adventure
-
-A Saturday Night Live Thanksgiving (2024)
-
-Adam Sandler’s Eight Crazy Nights*
-
-Bridget Jones: The Edge of Reason
-
-94th Annual Christmas in Rockefeller Center (NBC Simulstream)
-
-A Saturday Night Live Christmas (2024)
-
-The Case of the Christmas Diamond
-
-&nbsp;Christmas Lover's Anonymous
-
-&nbsp;A Christmas Proposal (2008)
-
-&nbsp;Dognapped: Hound for the Holidays
-
-&nbsp;The Flight Before Christmas
-
-&nbsp;How the Gringo Stole Christmas
-
-&nbsp;Once Upon a Time at Christmas
-
-Alpha & Omega: A Howl-Iday Adventure
-
-The Bible Collection: Paul The Apostle
-
-Blippi's Snowflake Scavenger Hunt
-
-&nbsp;A Christmas to Remember (2026)
-
-Coming Home For Christmas (2020)
-
-Dr. Seuss' How The Grinch Stole Christmas (2000)
-
-For The Love Of Christmas 2: A Heart For The Holidays
-
-Harry Potter And The Chamber Of Secrets
-
-Harry Potter And The Half-Blood Prince
-
-Harry Potter And The Deathly Hallows Part 1
-
-Harry Potter And The Deathly Hallows Part 2
-
-Harry Potter And The Goblet Of Fire
-
-Harry Potter And The Order Of The Phoenix
-
-Harry Potter And The Prisoner Of Azkaban
-
-Harry Potter And The Sorcerer's Stone
-
-How The Grinch Stole Christmas! (Animated Special)
-
-It’s a Very Merry Muppet Christmas Movie
-
-The Legend Of Frosty The Snowman
-
-A Merry Christmas Miracle (2014)
-
-&nbsp;The Spirit of Christmas Station
-
-Wiggles, The: The Sound Of Christmas
-
-America's Parade: 100 Years of Macy's Thanksgiving Day Parade
-
-An All Day Holiday: Holidays in My House
-
-Caillou: Caillou's Perfect Christmas
-
-Gavin & Stacey Christmas Special
-
-The Housewives of the North Pole
-
-Kelly Clarkson Presents When Christmas Comes Around
-
-Mariah Carey's Merriest Christmas
-
-Michael Bublé's Christmas in the City
-
-Miracle on Ice: 40th Anniversary
-
-NBC’s 94th Annual Christmas in Rockefeller Center
-
-Watch What Happens Live: Andy’s New Years Party
-
-"Ludachristmas" - Season 2, Episode 9
-
-"Christmas Special" - Season 3, Episode 6
-
-"Secret Santa" - Season 4, Episode 8
-
-"Christmas Attack Zone" - Season 5, Episode 10
-
-"My Whole Life Is Thunder" - Season 7, Episode 8
-
-"Christmas" - Season 1, Episode 11
-
-"The Pontiac Bandit Returns" - Season 2, Episode 10
-
-"Yippie Kayak" - Season 3, Episode 10
-
-"Captain Latvia" - Season 4, Episode 10
-
-"Comparative Religion" - Season 1, Episode 12
-
-"Abed's Uncontrollable Christmas" - "Abed's Uncontrollable Christmas"
-
-"Regional Holiday Music" - Season 3, Episode 10
-
-"Intro to Knots" - Season 4, Episode 10
-
-“Christmas at Downton Abbey” - Season 2, Christmas Special “A Journey to the Highlands” - Season 3, Christmas Special
-
-“Meet the Cuban Parents” - Season 2, Episode 11
-
-“Christmas Punch” - Season 3, Episode 12
-
-“George is Being Elfish and Christ-misses His Family” - Season 5, Episode 11
-
-“Ho-Ho-Howey” - Season 1, Episode 7
-
-“Noel Cowards” - Season 1, Episode 11
-
-“Net Prophets” - Season 2, Episode 12
-
-“Better Camera” - Season 3, Episode 11
-
-“Ovary Action” - Season 4, Episode 12
-
-“Mentalo Case” - Season 5, Episode 11
-
-“Santa Claustrophobia” - Season6, Episode 11
-
-“Silent Mike” - Season 7, Episode 7
-
-“Baker’s Doesn’t” - Season 8, Episode 11
-
-“Christmas” - Season 1, Episode 10
-
-“A Simple Christmas” - Season 2, Episode 10
-
-“A Christmas Gift” - Season 3, Episode 11
-
-“Christmas Help” - Season 4, Episode 9
-
-“The Christmas Wall” - Season 6, Episode 9
-
-“Not So Silent Night” - Season 7, Episode 10
-
-“A Very Marry Christmas” - Season 8, Episode 9
-
-“The Christmas Miracle” - Season 9, Episode 10
-
-"Undeck The Halls" - Season 1, Episode 10
-
-"Express Christmas" - Season 3, Episode 10
-
-"The Old Man And The Tree" - Season 5, Episode 10
-
-"White Christmas" - Season 7, Episode 9
-
-"Stuck In A Moment" - Season 10, Episode 10
-
-"The Last Christmas" - Season 11, Episode 9
-
-"Christmas Party" - Season 2, Episode 10
-
-"A Benihana Christmas Part 1" - Season 3, Episode 10
-
-"A Benihana Christmas Part 2" - Season 3, Episode 11
-
-"Moroccan Christmas" - Season 5, Episode 11
-
-"Secret Santa" - Season 6, Episode 13
-
-"Classy Christmas Part 1" - Season 7, Episode 11
-
-"Classy Christmas Part 2" - Season 7, Episode 12
-
-"Christmas Wishes" - Season 8, Episode 10
-
-“Dwight Christmas” - Season 9, Episode 9
-
-"Christmas Eve Eve" Season 6, Episode 10
-
-"Christmas Scandal" - Season 2, Episode 12
-
-"Citizen Knope" - Season 4, Episode 10
-
-"Ron and Diane" - Season 5, Episode 9
-
-“Santa Claus” - Season 4, Episode 12
-
-“No Place Like Home for the Holidays” - Season 5, Episode 12
-
-“White Trash Christmas” - Season 6, Episode 12
-
-“Home for the Holidays” - Season 9, Episode 12
-
-Saturday Night Live: Christmas Special (2014)
-
-SNL Presents: A Very Gilly Christmas (2009)
-
-Saturday Night Live: Christmas 2013
-
-Saturday Night Live: A Saturday Night Live Thanksgiving (2024)
-
-“A Very Supernatural Christmas” - Season 3, Episode 8
-
-“Last Holiday” - Season 15, Episode 14
-
-“Christmas Eve” - Season 1, Episode 10
-
-“Black Friday” (Holiday Shopping Chaos) - Season 2, Episode 9
-
-“Christmas Eve Eve” - Season 3, Episode 7
-
-“The Best Christmas Ever” - Season 1, Episode 12
-
-“Christmas” - Season 6, Episode 11
-
-What are you most excited for with Peacock’s holiday streaming lineup? Let us know in the comments!
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Grand Trump Accomplishment: POTUS Defeats NYT Move To Toss $15B 'Lucky Loser' Defamation Suit
-Source: Deadline | Status: expanded | Words: 746
-Published: 2026-11-19T20:08:57+00:00
-URL: https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384
-------------------------------------------------------------
-SUMMARY:
-Donald Trump's never ending war against what the former Apprentice host loves to term "fake news" just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line. Which means, the Gray Lady and Penguin Random House must be […]
-
-CONTENT / EXTRACTED DETAILS:
-Donald Trump 's never ending war against what the former Apprentice host loves to term fake news just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.
-
-Which means, the Gray Lady and Penguin Random House must be feeling, as Grand Theft Auto VI' s Lucia says in the just released blockbuster video game: "Bad luck, I guess."
-
-Gratuitous but satisfying GTA VI reference aside, Tampa-based US District Judge Steven Merryday's order Thursday takes some sharp digs at the NYT, and the publisher over the 2024 book Lucky Loser: How Donald Trump Squandered His Father's Fortune and Created The Illusion of Success and a subsequent piece in the paper. Trump sued all concerned for $15 billion back in September last year, claiming &#x201C;the newspaper&#x2019;s editorial routine is now one of industrial-scale defamation and libel against political opponents" - a.k.a. him. That suit was tossed out, but Trump was allowed to refile and then in July the defendants filed their motion to dismiss. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News CBS And Paramount+ To Air Next Kennedy Center Honors News UK Culture Minister Delivers Emotional Plea To YouTube To "Set An Example" & Remove Russell Brand's Channel
-
-While stripping journalists and Lucky Loser authors Russ Buettner and Susanne Craig from the big bucks action, as well as the NYT' s chief White House correspondent Peter Baker, Judge Merryday pretty brazenly did hold PRH and the paper's feet to the qualified fire over published unsubstantiated statements that Trump committed the series of tax crimes over the years. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-In refusing the Times and the publisher's motion to dismiss the case, the George W. Bush appointed judge wrote: "Anyone who publishes the claim that someone else has committed a crime of the complex nature described in some of the challenged statements and who has not received an explicit opinion from a qualified source after a thorough examination of pertinent facts necessarily proceeds with particularized reason to doubt the truth of their statements and with knowledge of a high degree of probable falsity of the statements; in other words, they know that they don&#x2019;t know, but they are undeterred. Knowing of the necessity for that opinion but failing to procure that opinion is a fine example of the purposeful avoidance of the truth, a knowing failure that remains actionable." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-With the case now set to move towards further discovery and trial, it may or may not be resolved before Trump is supposed to leave the White House in 2029. What is certain is that fresh off his very reality TV stage managed meeting with Russia's Putin and China's Xi, Trump will be crowing about this win for a while.
-
-"President Trump continues holding the Fake News accountable for deceiving the American people, a spokesperson for POTUS' lawyers told Deadline after the order appeared in the court docket.
-
-"Judge Merryday has correctly denied the motion to dismiss filed by The New York Times, Penguin Publishing, and their writers, as to President Trump&#x2019;s powerhouse defamation lawsuit," the flack continued. "These Defendants will now have to answer for intentionally and maliciously defaming President Trump. The New York Times has a long pattern of defaming President Trump in service of its leftist political agenda, and today&#x2019;s momentous ruling is a victory for honesty in America."
-
-On the flip side, having enduring a plethora of Trump attacks and suits over the years, the Gray Lady hasn't given up the fight. &#x201C; The Times is encouraged to see Judge Merryday&#x2019;s dismissal of almost all claims against us,' the NYT's Charlie Stadtlander stated today. "We continue to believe the remaining claim in the filing has no legal merit. We look forward to making this argument as we continue to defend ourselves against this baseless attack on The Times and the rights of the free and independent press in this country.&#x201D;
-
-============================================================
-[50] Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored
-Source: Variety | Status: expanded | Words: 369
-Published: 2026-11-19T20:06:36+00:00
-URL: https://variety.com/2026/film/news/rosario-dawson-night-nurse-spider-man-brand-new-day-1236953529
-------------------------------------------------------------
-SUMMARY:
-"Spider-Man: Brand New Day" broke box office records when it hit theaters over the summer, but several scenes were left on the cutting room floor. One of those included Rosario Dawson's character Claire Temple, aka the Night Nurse, from Netflix's Marvel shows. Now, "Brand New Day" is getting a theatrical re-release that will re-add some […]
-
-CONTENT / EXTRACTED DETAILS:
-"Spider-Man: Brand New Day" broke box office records when it hit theaters over the summer, but several scenes were left on the cutting room floor. One of those included Rosario Dawson 's character Claire Temple, aka the Night Nurse, from Netflix's Marvel shows. Now, "Brand New Day" is getting a theatrical re-release that will re-add some of those deleted scenes, and Dawson confirmed that she will be in the extended cut.
-
-"It&#x2019;s a brand new BRAND NEW DAY with our friendly neighborhood Spider-Man!" Dawson wrote on Instagram with a photo of her character and Tom Holland's wall-crawler. "So excited to enjoy this record-breaking movie on the big screen (starting on December 4th) with an extended cut of new scenes and surprises&#x2026; Ahhhh! Join me in getting tickets NOW!!! #SpiderManBrandNewDay PS: mom can finally share her BTS photos." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories China Box Office: 'Resident Evil' Holds Top Spot for Fourth Straight Frame as 2014's 'John Wick' Debuts in Third
-
-It appears that Spidey will visit the Night Nurse at some point in "Brand New Day," perhaps to get his haywire spider powers checked up on. Or, he might get some medical attention after he faces off against Scorpion (Michael Mando), Jean Grey (Sadie Sink), Hulk (Mark Ruffalo), Punisher (Jon Bernthal) or one of the several other super-powered fighters in the movie.
-
-Dawson debuted the character, a nurse who specializes in aiding heroes, in Season 1 of Netflix's "Daredevil" series, starring Charlie Cox. She was a series regular, then returned for an episode of "Jessica Jones" before joining the main casts of "Luke Cage," "Iron Fist" and "The Defenders." Netflix's heroes, including Cox as Daredevil, Krysten Ritter as Jessica Jones, Mike Colter as Luke Cage and Finn Jones as Iron Fist, have rejoined the MCU through "Daredevil: Born Again" on Disney+ — so it makes sense that Dawson's would make her comeback too. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-The re-release, titled "Spider-Man: [Brand New] Brand New Day," will return to theaters on Dec. 4.
 
