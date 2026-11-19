@@ -5,9 +5,39 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T00:24:10.313Z"
+    "updated_at": "2026-11-19T00:28:05.473Z"
   },
   "articles": [
+    {
+      "id": "3a3c6f93-30e6-406a-a283-36687ad8a55d",
+      "title": "Chris Pratt To Star In Paramount's Feature Take Of Joseph Eckert Novel 'The Traveler'",
+      "summary": "Chris Pratt is set to headline Paramount Pictures’ adaptation of The Traveler, based on the novel by Joseph Eckert. The project is part of the Guardians of the Galaxy star's first-look three-year producing deal with the Melrose Ave lot through his Indivisible production banner, with the potential to star in select projects. Zach Lipovsky and […]",
+      "content": "Chris Pratt is set to headline Paramount Pictures &#x2019; adaptation of The Traveler , based on the novel by Joseph Eckert.\n\nThe project is part of the Guardians of the Galaxy star's first-look three-year producing deal with the Melrose Ave lot through his Indivisible production banner, with the potential to star in select projects.\n\nZach Lipovsky and Adam Stein are helming the feature off Justin Rhodes' screenplay. The film will be produced by Adam Rosenberg and Jules Daly.\n\nAdditional projects under Pratt&#x2019;s deal include Miami Heat , written by Brad Copeland ( Jerry & Marge Go Large ), with Pratt ( Way of the Warrior Kid ) set to star and produce alongside Hutch Parker ( Venom: The Last Dance ). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nPratt's movie canon counts more than $15 billion at the global box office. He can be seen this fall in Apple Original Films' Way of the Warrior Kid , an adaptation of Jocko Willink&#x2019;s bestselling children&#x2019;s novel&#x2014;which is streaming on Nov. 25. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nHe stars in one of the five $1 billion-plus grossing movies of the year, Universal/Illumination's Super Mario Galaxy Movie. Pratt also starred in TV's The Terminal List , which premiered in July 2022. Based on the Jack Carr novel and produced through his production company, Indivisible Productions, the series debuted at #1 on Prime Video. The series was renewed for a second season, True Believer, which debuted on Oct. 21. A prequel series, Dark Wolf , led by Taylor Kitsch, premiered on Aug. 27, 2025.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/chris-pratt-the-traveler-paramount-pictures-1237228625",
+      "published_at": "2026-11-19T00:27:36+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/03/P101ZVYR-e1795047674444.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 320,
+      "extracted_at": "2026-11-19T00:27:52.863802+00:00",
+      "updated_at": "2026-11-19T00:27:52.863802+00:00"
+    },
+    {
+      "id": "6a6c9ad4-4210-4d7f-9f3e-15b5aeee340e",
+      "title": "Chris Pratt to Star in Sci-Fi Movie 'The Traveler' as He Inks Paramount First-Look",
+      "summary": "The film has Zach Lipovsky and Adam Stein set to direct.",
+      "content": "Chris Pratt is taking a trip to Paramount . He will star in The Traveler at the studio, where he has also just signed a first-look deal to produce. The pact spans three years, and could involve starring in projects as well for his Indivisible production banner.\n\nThe Traveler , meanwhile, is based on Joseph Eckert's novel. It's a father-son story, about a man who is flung through time every morning at 7:52 a.m. The first jump is 24 hours, but every day, the jump doubles in time, meaning soon he's hurtling years in a single day. His son, meanwhile, grows up to quantum physics as he attempts to save his father. Zach Lipovsky and Adam Stein are directing from Justin Rhodes' screenplay. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nPratt's first-look deal also includes Miami Heat , which has a script from Brad Copeland. Pratt is starring and producing with Hutch Parker.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984",
+      "published_at": "2026-11-19T00:26:05+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 167,
+      "extracted_at": "2026-11-19T00:27:53.400697+00:00",
+      "updated_at": "2026-11-19T00:27:53.400697+00:00"
+    },
     {
       "id": "cc0dae75-8ef9-426d-b9e2-7b4e6a14f054",
       "title": "Rain-Related Evacuation Warnings Issued For The Palisades &#038; Parts Of Malibu, The Hollywood Hills, Altadena, Calabasas &#038; Santa Clarita",
@@ -22,6 +52,21 @@
       "word_count": 832,
       "extracted_at": "2026-11-19T00:23:53.685898+00:00",
       "updated_at": "2026-11-19T00:23:53.685898+00:00"
+    },
+    {
+      "id": "e8a233ac-4b8c-4c5c-89c6-37050ba220e1",
+      "title": "I Expect Big Deaths In Yellowjackets’ Final Season, But Who’s Been The Hardest To Kill Off (So Far)?",
+      "summary": "Who could be next?",
+      "content": "There are some shows on the 2026 TV schedule where I never need to worry if my favorite characters are going to die. That’s very much not the case with Yellowjackets ’ impending final season . Tons of key people on the show have already kicked the bucket, and I don’t expect things to slow down before we say goodbye to the series forever. But what do the minds behind the series think about committing make-believe murder on the series so far?\n\nOof, yeah… Coach’s death was a rough one. Last season, we learned the details of Scott’s demise after the Yellowjackets’ cabin was burned to the ground. Then, he was put on trial by the Yellowjackets, and Shauna ordered Melissa to incapacitate him, which she did by slashing his Achilles tendon. After that, he’s left in agonizing pain and decides to stop eating and essentially begs Natalie to kill him.\n\nHonestly, I totally agree with Lyle here. This was the most difficult death to watch, especially since we saw Coach decline over a number of episodes and felt his impending death coming. I love Yellowjackets , but I have to admit this was a really rough chapter in the series to sit through. While Lyle had to call out Coach’s death, my question wasn’t an easy one to answer. In her words:\n\nOn the flip side of things, they’ve already reached the finish line of the series. All that’s left is for us to watch it. Nickerson said it did get easier to kill characters off in the final season, saying this:\n\nUhh… What does this mean? Who’s going to be safe and who’s going to die? I have no idea (and even the cast was left in the dark about spoilers ), but I know I trust the writers to shock, surprise and make me feel a lot of things.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/i-expect-big-deaths-yellowjackets-final-season-hardest-kill-off-so-far-showrunners-interview",
+      "published_at": "2026-11-19T00:21:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nszvYd7f2A5UqSwy6VshKZ-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 312,
+      "extracted_at": "2026-11-19T00:27:51.687535+00:00",
+      "updated_at": "2026-11-19T00:27:51.687535+00:00"
     },
     {
       "id": "ae7762f1-cfbb-48b5-a468-18ce089f35a4",
@@ -41,7 +86,7 @@
     {
       "id": "4263f232-3718-47cb-a0f5-e4f65dff4d67",
       "title": "Chris Pratt to Star in Sci-Fi Family Drama 'The Traveler,' Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
-      "summary": "Chris Pratt is setting up his next sci-fi adventure: starring in Paramount Pictures' big-screen adaptation of \"The Traveler,\" based on the novel by Joseph Eckert. The film is part of the new first-look, three-year producing deal Pratt inked at the studio through his Indivisible Productions banner. Pratt will potentially star in select projects. Eckert's \"The […]",
+      "summary": "Chris Pratt is setting up his next sci-fi adventure: starring in Paramount Pictures' big-screen adaptation of “The Traveler,” based on the novel by Joseph Eckert. The film is part of the new first-look, three-year producing deal Pratt inked at the studio through his Indivisible Productions banner. Pratt will potentially star in select projects. Eckert's “The […]",
       "content": "Chris Pratt is setting up his next sci-fi adventure: starring in Paramount Pictures ' big-screen adaptation of \"The Traveler,\" based on the novel by Joseph Eckert.\n\nThe film is part of the new first-look, three-year producing deal Pratt inked at the studio through his Indivisible Productions banner. Pratt will potentially star in select projects.\n\nEckert's \"The Traveler\" tells the story of a reluctant time-traveler and his son, and \"the bond between them that even millennia cannot break.\" A synopsis of the story describes it as \"an adventure full of heartbreak, hope, and futures beyond imagination.\" Zach Lipovsky and Adam Stein will direct \"The Traveler,\" based on a screenplay by Justin Rhodes. The film will be produced by Adam Rosenberg and Jules Daly. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nAdditional projects under Pratt&#x2019;s deal include \"Miami Heat,\" written by Brad Copeland (\"Jerry & Marge Go Large\"), with Pratt set to star and produce alongside Hutch Parker (\"Venom: The Last Dance\").",
       "source": "Variety",
       "source_url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
@@ -50,8 +95,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 174,
-      "extracted_at": "2026-11-19T00:17:53.100088+00:00",
-      "updated_at": "2026-11-19T00:17:53.100088+00:00"
+      "extracted_at": "2026-11-19T00:27:53.589302+00:00",
+      "updated_at": "2026-11-19T00:27:53.589302+00:00"
     },
     {
       "id": "895b4ce4-c43c-471e-b038-9d23c52dc838",
@@ -146,7 +191,7 @@
     {
       "id": "7cbed0bd-c547-41ac-b2a9-e9c38fc163a2",
       "title": "Elon Musk Admits He Feels 'Pretty Foolish' Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is 'Not MAGA'",
-      "summary": "Elon Musk spent big backing Republicans in the 2026 midterm elections — which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate. Musk spent nearly $500 million during the 2026 midterm elections, including $200 million to try to defeat Senator-elect James Talarico in Texas. \"I feel pretty foolish […]",
+      "summary": "Elon Musk spent big backing Republicans in the 2026 midterm elections — which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate. Musk spent nearly $500 million during the midterms, including $200 million to try to defeat Senator-elect James Talarico in Texas in his race against Lone Star […]",
       "content": "Elon Musk spent big backing Republicans in the 2026 midterm elections — which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate .\n\nMusk spent nearly $500 million during the 2026 midterm elections, including $200 million to try to defeat Senator-elect James Talarico in Texas.\n\n\"I feel pretty foolish about having spent so much money and and not seeing much for it,\" Musk conceded, \"or maybe it it would have been much worse without that.\" Musk appeared virtually Wednesday at the New York Times&#x2019; 2026 DealBook Summit in New York City, connecting via videoconference from China, where the tech mogul is part of President Donald Trump's American delegation to the region. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories 'PUBG' Live-Action Series From Donald Glover, Stephen Glover in Development at Netflix How Netflix‘s Animated 'Steps’ Reimagines the Cinderella Story Through the Eyes of Her Asian Stepsisters and Finds a New Kind of Happily Ever After\n\nEarlier at the conference, Skydance CEO David Ellison said Musk — whose roles include founder, CEO and chief engineer of SpaceX and CEO of Tesla — is an investor in Skydance, the company formed through the megamerger of Paramount and Warner Bros. Discovery. (The subject of Skydance did not come up in Musk's appearance.)\n\nOn the topic of the midterms, Musk said he believes the newly elected governor of Texas, Gina Hinojosa, \"I think is going to be quite moderate. I think I don't think she's sort of a far-left governor, and and based on everything I've heard about her, I think things will be fine in Texas with [Hinojosa] as governor.\"\n\nMusk, who ranks as the world's wealthiest individual, insisted that \"I'm not MAGA\" — even though he has worn \"Make American Great Again\" hats and served as head of DOGE, the Trump administration's ad-hoc cost-cutting department, for several months in 2025 before he exited as a &#x201C;special government employee\" amid a dispute with Trump. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nSaid Musk, \"I'm not sure what MAGA means\" but \"if that means sort of blind adherence to a set of policies by the Republican Party then I certainly don't have that. I think there are positives and negatives in both parties… but politics is very tribal, and for a lot of people. A lot of people cannot see any good in in the other party, and they cannot see any bad in their own party because they're more or less invested in their party like it's their hometown sports team, and it's just their team, and they won't accept that there's anything that the other team can do that's good or anything that their team can do that's bad.\"\n\nMusk last month said SpaceX and Tesla are exploring a potential merger. \"There's more and more areas of interaction or overlap with SpaceX and Tesla that that didn't exist before,\" he said. \"So if you'd asked me five years ago, do I ever think there's any purpose in SpaceX and Tesla getting together? I would have said no.\" He continued, \"really, it's just a question of do SpaceX and Tesla execute better together and create more value than if they're apart… and that would be up to the shareholders to decide.\"\n\nMusk also spoke about Nvidia CEO Jensen Huang's resignation last week , after the revelation that he had engaged in several affairs, including with an alleged Chinese spy and an Nvidia employee. Musk, who as suggested Huang be reinstated as Nvidia's CEO, said Haung's removal as chief executive of the AI company was like \"kicking Michael Jordan off your team,\" while also acknowledging that Huang \"certainly made some mistakes.\"\n\nMusk, interviewed by the New York Times' Andrew Ross Sorkin, discussed the controversy over Starlink's recent restrictions on satellite internet access to the Ukrainian military amid the war being waged on the country by Russia. Musk said, \"From the beginning, I've said that Starlink is a civilian system. It is not meant to to be used for offensive drone strikes that kill people…. If you want to do that you need to do Starshield, which is a separate system that is controlled by the U.S. government, but do not ask me as as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers.\"\n\nMusk appeared at the DealBook conference in 2023 , where he accused advertisers who had pulled ads from X over his support of an antisemitic conspiracy theory of &#x201C;blackmail&#x201D; and told them — calling out Bob Iger, then CEO of Disney, by name — to \"Go fuck yourself.\"",
       "source": "Variety",
       "source_url": "https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400",
@@ -155,8 +200,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 803,
-      "extracted_at": "2026-11-18T23:31:52.390677+00:00",
-      "updated_at": "2026-11-18T23:31:52.390677+00:00"
+      "extracted_at": "2026-11-19T00:27:53.59632+00:00",
+      "updated_at": "2026-11-19T00:27:53.59632+00:00"
     },
     {
       "id": "09b1b485-f50b-4ed3-b217-48a8e886c8b8",
@@ -712,51 +757,6 @@
       "word_count": 1144,
       "extracted_at": "2026-11-18T21:01:42.647081+00:00",
       "updated_at": "2026-11-18T21:01:42.647081+00:00"
-    },
-    {
-      "id": "668a2228-2f8f-41f5-adb0-be6a2e02f86f",
-      "title": "Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically",
-      "summary": "Willa and Women Make Movies have teamed up to distribute documentary “Love Apptually,” theatrically in the U.S. Set for a February released timed to Valentine’s Day, “Love Apptually,” directed by Shalini Kantayya, follows French journalist Judith Duportail's journey from her early fascination with Tinder to an investigation into the technologies and business incentives mediating our […]",
-      "content": "Willa and Women Make Movies have teamed up to distribute documentary &#x201C; Love Apptually ,&#x201D; theatrically in the U.S. Set for a February released timed to Valentine&#x2019;s Day, &#x201C;Love Apptually,&#x201D; directed by Shalini Kantayya, follows French journalist Judith Duportail's journey from her early fascination with Tinder to an investigation into the technologies and business incentives mediating our search for human connection. After uncovering Tinder's hidden desirability rating system, Duportail demanded access to her personal data, ultimately receiving 800 pages of information collected by the platform. What begins as a personal curiosity evolves into a global investigation into how a multi-billion-dollar tech industry is quietly reshaping desire, intimacy and love. Kantayya digs into how dating platforms are designed to maximize engagement and profit, often at the expense of authentic human connection. The film raises questions about agency, autonomy, privacy, and the commercialization of human intimacy. &#x201C;I&#x2019;ve watched Big Tech move from capturing our attention to shaping our most intimate human relationships. &#x2018;Love Apptually&#x2019; asks whether the loneliness epidemic is a consequence of technological design,&#x201D; said director Shalini Kantayya. The film bowed at Hot Docs and also recently screened at DOC NYC. &#x201C;Love Apptually&#x201D; marks the final installment in Kantayya's trilogy examining technology's impact on human experience, following &#x201C;Coded Bias&#x201D; and &#x201C;TikTok, Boom.,&#x201D; which both premiered at Sundance, screened on PBS&#x2019;s Independent Lens and received Emmy nominations. &#x201C;Valentine&#x2019;s Day is a time when we celebrate love, but &#x2018;Love Apptually&#x2019; asks us to look more closely at the forces shaping how we find it,&#x201D; said Elizabeth Woodward, founder and CEO of Willa and producer of the film. &#x201C;Shalini has created a film that reveals how technology has moved beyond capturing our attention to influencing our most intimate relationships. We're excited to bring the film to audiences at a moment when these conversations feel particularly meaningful, and to use the theatrical experience as an opportunity to reconnect, reflect, and rethink what it means to find love in the digital age.&#x201D; &#x201C;We have worked with Shalini Kantayya since her first film, &#x2018;A Drop of Life,&#x2019; and we were proud to support &#x2018;Love Apptually&#x2019; through our Production Assistance Program,&#x201D; says Debra Zimmerman, executive director of Women Make Movies. &#x201C;After the phenomenal success and tremendous impact of &#x2018;Coded Bias,&#x2019; including screenings with decision makers at major technology companies, we&#x2019;re eager to work with Willa to help audiences everywhere see the film and continue these conversations.&#x201D; Related Stories 'The Hunger Games: Sunrise on the Reaping' First Reactions Call Prequel the 'Rogue One' of the Franchise and Praise Joseph Zada as Haymitch 'X-Men': 'Hunger Games' Actor Ben Wang Circling Iceman Role in Marvel's Reboot\n\n&#x2018;Love Apptually&#x2019; is a 7th Empire Media production, presented by Willa in association with Minderoo Pictures and the Concordia Fellowship, with support from the Alfred P. Sloan Foundation and the Perspective Fund. The film is produced by Kantayya and Woodward. Executive producers include Davis Guggenheim, Rahdi Taylor, Doron Weber, and Malinda Wink, with co-executive producers Meryl Metni, Natasha Dolby and David Dolby. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
-      "published_at": "2026-11-18T21:00:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/1_JudithDiscoversTinder.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 518,
-      "extracted_at": "2026-11-18T21:01:44.119603+00:00",
-      "updated_at": "2026-11-18T21:01:44.119603+00:00"
-    },
-    {
-      "id": "f85cdadf-81ce-41c1-ba15-b8e8607922f3",
-      "title": "Sasha Lane, Alia Shawkat &#038; Simon Rex Wrap On Horror Thriller 'Nepo Babies'",
-      "summary": "EXCLUSIVE: Sasha Lane (Twisters), Alia Shawkat (Blink Twice) and Simon Rex (Red Rocket) have wrapped on the Mexico City shoot for Nepo Babies, a darkly comic horror thriller written and directed by Brian McGreevy. Described as Entourage by way of David Lynch, Nepo Babies unfolds over a New Year's Eve pregame in Los Angeles, following […]",
-      "content": "EXCLUSIVE: Sasha Lane ( Twisters ), Alia Shawkat ( Blink Twice ) and Simon Rex ( Red Rocket ) have wrapped on the Mexico City shoot for Nepo Babies , a darkly comic horror thriller written and directed by Brian McGreevy .\n\nDescribed as Entourage by way of David Lynch, Nepo Babies unfolds over a New Year's Eve pregame in Los Angeles, following a close-knit circle of privileged young Hollywood friends whose glamorous celebration takes a sinister turn when an unwelcome outsider arrives.\n\nOthers in the cast include Gabriella Kessler ( The Beast in Me ), Pretty Lonesome podcast host Madeline Argy, who makes her acting debut, Samuel Farnsworth ( Dickinson ), Corrado Martini ( Vampire Carnival ) and comedian Lucas Zelnick ( Pizza Movie ). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories Casting Daisy Ridley, Sosie Bacon & Simon Rex Set For 'Get Rid of It' Horror From Director Ry Russo-Young Casting Simon Rex Joins Eiza González & Brandon Sklenar In Bodybuilding Drama 'Iron Jane' From Lissette Feliciano\n\nThe film is produced by McGreevy through BPM Video, Braxton Pope (Paul Scrhader's The Card Counter , The Basics of Philosophy ) under his Film Maudit banner, Gabriella Kessler through Betwixt, Stacy Perskie ( Blink Twice ) of Redrum, Samantha Sneider of Cine Alquimia and Cameron Parker. Aaron Schoonover handled casting. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nMcGreevy is coming off his feature debut with The Technique , a thriller he wrote and directed, which stars Kelsey Asbille, Nicholas Alexander Chavez, Ben Platt, Emma Roberts, Laura Harrier and Noomi Rapace. He is represented by Dissident and The Nord Group.\n\nAmerican Honey breakout Lane has most recently been seen in Ira Sachs' The Man I Love , which premiered at Cannes this year, as well as the films Corporate Retreat and Twisters . She is repped by Untitled and Granderson Des Rochers.\n\nShawkat stars alongside Kristen Stewart in Neon's The Wrong Girls and will next be seen in Tony Gilroy's Behemoth! , out December 4. She is repped by UTA, Mgmt Entertainment and Lichter, Grossman, Nichols.\n\nRex is coming off films including The Leader , Operation Taco Gary's and Easy's Waltz . He is repped by Buchwald and Range.\n\nKessler is repped by IAG and Reel Talent; Argy by UTA and Yorn Levine; Farnsworth by BRS/Gage and Venture Entertainment Partners; Martini by UTA and Untitled; Zelnick by WME, Mosaic and Ziffren Brittenham; and Perskie by WME and Hirsch Wallerstein Hayum.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/sasha-lane-alia-shawkat-simon-rex-wrap-nepo-babies-1237228406",
-      "published_at": "2026-11-18T20:55:15+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/2026-LACMA-ArtFilm-Gala-2026-TIME100-Gala-1000-1.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 469,
-      "extracted_at": "2026-11-18T20:55:42.318934+00:00",
-      "updated_at": "2026-11-18T20:55:42.318934+00:00"
-    },
-    {
-      "id": "593808bb-b36b-475e-a857-381bdfb1eb85",
-      "title": "Whoops, The Devil Wears Prada 2 Designer Seemingly Leaked Info About Anne Hathaway’s Baby",
-      "summary": "Were we supposed to know this?",
-      "content": "After releasing five projects on the 2026 movie schedule, Anne Hathaway disappeared in a plume of smoke (as she joked she would) and finally got some time off. However, not long after she finished her generational press run, she had her third baby. Now, we know the gender of her little one; however, it’s because The Devil Wears Prada 2 costume designer seemingly leaked it.\n\nNews broke on November 17 that Hathaway had given birth, after she was spotted walking in New York City with her little one strapped to her chest. She announced he was pregnant with her third child in June, and she promoted The Odyssey , The End of Oak Street and Verity after that. So, we got to see some gorgeous looks featuring her bump , and then, a little over a month after Verity came out, it was revealed that she’d given birth.\n\nNow, we know her baby’s gender too. It’s unclear if the actress was aware of Rogers post or if the designer did it on purpose. However, no matter how you shake it, the gender of Hathaway’s baby was seemingly leaked when Rogers wrote:\n\nAt the time of this writing, Hathaway has not posted about giving birth. In fact, since she vanished in a plume of smoke, she’s only posted twice – once on October 27 to promote Verity’s VOD release (which was filmed when they made the movie) and another time on November 12 to wish Ryan Gosling a happy birthday (they share the same birthday, by the way). So, it’s unclear how she’d feel about this information regarding her baby’s gender being public knowledge.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/the-devil-wears-prada-2-designer-leaked-gender-anne-hathaway-baby",
-      "published_at": "2026-11-18T20:51:48+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QceVQzWMoDZ7B8TSPAmSTM-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 273,
-      "extracted_at": "2026-11-18T20:53:41.4174+00:00",
-      "updated_at": "2026-11-18T20:53:41.4174+00:00"
     }
   ]
 }
