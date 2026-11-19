@@ -5,9 +5,39 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-19T16:28:54.570Z"
+    "updated_at": "2026-11-19T16:30:54.374Z"
   },
   "articles": [
+    {
+      "id": "8cc7f756-7f8f-4c1d-85b5-f8a18324ca31",
+      "title": "'The Beast In Me' Season 2: Riley Keough &#038; Aaron Paul Lead New Cast For Netflix's Thriller Series",
+      "summary": "Who's joining Claire Danes on the next season of Netflix 's \" The Beast In Me \"? A new announcement from the streamer reports that Riley Keough and Aaron Paul headline the cast additions for Season 2 of the thriller series, along with child actor Lorelei Olivia Mote , Taip Ceman , and Matthew James Thomas . The four join previously announced John Goodman and Lily Taylor . Continue reading 'The Beast In Me' Season 2: Riley Keough & Aaron Paul Lead New Cast For Netflix's Thriller Series at The Playlist.",
+      "content": "Who's joining Claire Danes on the next season of Netflix 's \" The Beast In Me \"? A new announcement from the streamer reports that Riley Keough and Aaron Paul headline the cast additions for Season 2 of the thriller series, along with child actor Lorelei Olivia Mote , Taip Ceman , and Matthew James Thomas . The four join previously announced John Goodman and Lily Taylor . Continue reading 'The Beast In Me' Season 2: Riley Keough & Aaron Paul Lead New Cast For Netflix's Thriller Series at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/the-beast-in-me-season-2-riley-keough-aaron-paul-20261119",
+      "published_at": "2026-11-19T16:30:02+00:00",
+      "image_url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/19112904/The-Beast-In-Me-S2-cast-announcement-1024x573.jpg",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 91,
+      "extracted_at": "2026-11-19T16:30:42.595241+00:00",
+      "updated_at": "2026-11-19T16:30:42.595241+00:00"
+    },
+    {
+      "id": "e8314849-d1f1-400b-9f7a-694a59b655a6",
+      "title": "'Bridgerton' Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com 'The More The Merrier'",
+      "summary": "EXCLUSIVE: Hannah Dodd, the English actress from Netflix's Bridgerton who is stepping up to lead its fifth season, has inked a deal to star opposite Nick Jonas in The More the Merrier, a rom-com from the same streamer that we announced back in April, which has now entered production in New Jersey. Directed by The […]",
+      "content": "EXCLUSIVE: Hannah Dodd , the English actress from Netflix 's Bridgerton who is stepping up to lead its fifth season, has inked a deal to star opposite Nick Jonas in The More the Merrier , a rom-com from the same streamer that we announced back in April, which has now entered production in New Jersey.\n\nDirected by The DUFF 's Ari Sandel, the film follows a perennial bachelor whose carefree life is upended when he unexpectedly inherits his cousin's infant child. Just as he gets a grip on life as a dad, complications arise when the child's godmother appears around the holidays to claim custody of her. What ensues is a love story neither saw coming. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nTamara Chestna ( Something from Tiffany's , Moxie ) penned the script. Steve Barnett is producing for Monarch Media, alongside Mark Ross for Lincoln Road Films, Spencer Berman and Jonas for Powered by Jonas and Chestna. Alan Powell and Vicky Patel are exec producing for Monarch. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nDodd took on the role of Francesca Bridgerton in Netflix's hit series from Shonda Rhimes in Season 3, reprising in the fourth installment before being set to co-lead Season 5 with Masali Baduza. The new season is due next year. Dodd comes to Netflix's new rom-com with feature credits including Enola Holmes 2 &#x2014; also from Netflix &#x2014; Marvel's Eternals and Fighting with My Family .\n\nLast month, Dodd signed on to lead Miss You Forever, Zara Drake , a romantic drama marking the feature directorial debut of Lucas Jones. She is represented by Olivia Bell Management, Range Media Partners and Gang, Tyre, Ramer.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
+      "published_at": "2026-11-19T16:30:00+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Bridgerton-Season-4-Paris-World-Premiere-1000.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 338,
+      "extracted_at": "2026-11-19T16:30:42.273649+00:00",
+      "updated_at": "2026-11-19T16:30:42.273649+00:00"
+    },
     {
       "id": "5c001b64-0c20-47af-a218-b50e99400bab",
       "title": "‘The Altruists’ Review: A Temu-Ass ‘Social Network’ About Crypto’s Most Toxic &#038; Morally Bankrupt Couple",
@@ -727,36 +757,6 @@
       "word_count": 136,
       "extracted_at": "2026-11-19T14:40:37.015924+00:00",
       "updated_at": "2026-11-19T14:40:37.015924+00:00"
-    },
-    {
-      "id": "0917987d-babe-43bc-b70a-03fe7a554381",
-      "title": "'The Nightingale' Trailer: Dakota and Elle Fanning Share the Screen for the First Time and Play Sisters During WWII in Adaptation of Popular Book",
-      "summary": "Real-life sisters Dakota and Elle Fanning are sharing the screen for the first time and playing siblings in Sony's adaptation of author Kristin Hannah's popular novel, \"The Nightingale.\" It will be released in theaters on March 19. Set during World War II, the Fannings play sisters in France who struggle to survive and resist the […]",
-      "content": "Real-life sisters Dakota and Elle Fanning are sharing the screen for the first time and playing siblings in Sony's adaptation of author Kristin Hannah's popular novel, \" The Nightingale .\" It will be released in theaters on March 19.\n\nSet during World War II, the Fannings play sisters in France who struggle to survive and resist the occupation by Nazi Germany in the country. Elle plays Isabelle Rossignol, while Dakota plays Vianne Mauriac. The film tells the \"powerful, emotional story of two sisters forced to embark on separate courageous, dangerous paths in a fight for survival and freedom during World War II,\" the logline reads. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Sanjay Gupta, Indian Director of 'Kaante' and 'Zinda,' Dies at 59 Steven Spielberg Calls ‘The Odyssey’ a ‘Showstopper’ and ‘One of the Greatest Things’ Matt Damon Has Ever Done\n\nThe \"Nightingale\" cast also includes Edmund Donovan, Shira Haas as Rachel de Champlain, Mark Rylance as Julien Rossignol, Albrecht Schuch, Douglas Hodge, Gwilym Lee and Vinette Robinson.\n\nThe Fannings previously both starred in the 2001 movie \"I Am Sam,\" with Sean Penn and Michelle Pfeiffer. Dakota starred as Lucy, the young daughter of Penn's character, with Elle playing the 2-year-old infant version of the character on screen. This weekend, Elle co-stars in \"The Hunger Games: Sunrise on the Reaping\" prequel, where she plays a younger version of Effie Trinket, the fashionista previously portrayed by Elizabeth Banks. Dakota starred in this year's drama \"The Sun Never Sets\" and TV shows like \"All Her Fault\" and \"The Perfect Couple.\" She also executive produced the Apple TV series \"Margo's Got Money Troubles,\" starring Elle.\n\nThe film is directed by Michael Morris, with a screenplay by: Dana Stevens and Ann Peacock. It's produced by the Fannings, Brittany Kahan Ward, Reese Witherspoon, Lauren Neustadter and Elizabeth Cantillon with executive producers including author Hannah, Emily Ferenbach and J. Michael Williams. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/news/the-nightingale-trailer-dakota-elle-fanning-book-1236953111",
-      "published_at": "2026-11-19T14:38:22+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/sisters.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 352,
-      "extracted_at": "2026-11-19T14:38:41.76222+00:00",
-      "updated_at": "2026-11-19T14:38:41.76222+00:00"
-    },
-    {
-      "id": "49b8e2d6-3467-4f55-bf19-859dede881d1",
-      "title": "'The Day Of The Jackal' Season 2 Teaser: Eddie Redmayne Leaps Back Into Action In Peacock/Sky Series",
-      "summary": "Sky and Peacock have offered the first look at The Day Of The Jackal Season 2. The teaser trailer features Eddie Redmayne as The Jackal, an internationally renowned assassin, standing at the top of the mountain and leaping into the unknown. Watch below. \"The man known as The Jackal has our attention,\" a voice can […]",
-      "content": "Sky and Peacock have offered the first look at The Day Of The Jackal Season 2.\n\nThe teaser trailer features Eddie Redmayne as The Jackal, an internationally renowned assassin, standing at the top of the mountain and leaping into the unknown. Watch below.\n\n\"The man known as The Jackal has our attention,\" a voice can be heard saying. The series premieres in March 2027.\n\nThe Day Of The Jackal Season 1 became Sky&#x2019;s biggest-ever new series launch, drawing a UK audience of 4.6 million in its first 28 days, with the debut episode going on to reach 7M viewers. The thriller also became Peacock's most-watched new original drama series ever after 75 days of viewership, according to NBCUniversal. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News 'The Good Daughter' Author Is \"Thinking About\" Short Story Sequel News 'Love Trapped' Podcast Featuring Former 'Bachelor' Star Clayton Echard Being Adapted As True-Crime Series For Peacock\n\nReturning cast members include &#xDA;rsula Corber&#xF3; ( Money Heist ), Charles Dance ( Game of Thrones ,), Chukwudi Iwuji ( Guardians of the Galaxy Vol. 3 ), Eleanor Matsuura ( The Walking Dead ), Adam James ( Mr Bates vs The Post Office ), Christy Meyer ( The Amateur ), and Corey Johnson (The Bourne Ultimatum ). Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nJoining the cast are Pablo Schreiber ( Halo ), Weruche Opia ( Genius MLK/X ), Matt Bomer ( White Collar ), and Pia Tjelta ( Jo Nesb&#xF8;&#x2019;s Detective Hole ).\n\nBased on Frederick Forsyth&#x2019;s novel and the 1973 Universal Pictures film adaptation, The Day of the Jackal is produced by Carnival Films, part of Universal Global Television, a division of Universal Studio Group.\n\nThe lead writer for Season 2 is David Harrower ( Lockerbie: A Search for Truth ) and the lead director is Brian Kirk ( Furious ). Executive producers are Gareth Neame, Nigel Marchant, Marianne Buckland (Carnival Films), Eddie Redmayne, David Harrower, Brian Kirk, Sam Hoyle (Sky), Sue Naegle and Ronan Bennett. Lis Steele serves as series producer.\n\nFilming took place in Hungary, Croatia, Spain, Belgium, Austria and the UK.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/the-day-of-the-jackal-season-2-teaser-eddie-redmayne-1237228950",
-      "published_at": "2026-11-19T14:37:02+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/FLTease_01_TheDayoftheJackal_S02-e1795097946881.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 409,
-      "extracted_at": "2026-11-19T14:52:39.834092+00:00",
-      "updated_at": "2026-11-19T14:52:39.834092+00:00"
     }
   ]
 }
