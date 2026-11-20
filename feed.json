@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T01:25:18.763Z"
+    "updated_at": "2026-11-20T01:33:17.660Z"
   },
   "articles": [
+    {
+      "id": "5cce63a2-3611-4a3e-bd8d-093b45b654ec",
+      "title": "There Was A Lot Of Drama Around Survivor 51's Coin Flip That Wasn’t Aired",
+      "summary": "I'm actually mad now that I know this.",
+      "content": "Warning! The following contains spoilers from the Survivor episode \"Wilder Than A Cat In A Bathtub.\" Stream the episode with a Paramount+ subscription , and read at your own risk!\n\nLewis spoke to Rob Has A Podcast about his exit and was asked if he'd pick water over fire if he flipped the coin again in a future season. The third juror revealed that he didn't have to think about the hypothetical, because he flipped the coin twice the night of his elimination. Hear the story below:\n\nLewis had to flip the coin twice, and the first time it landed on fire! Unfortunately, because it didn't land primarily in the circle placed on the ground, it was negated and he had to flip it again. Lewis didn't say how he felt about that, but I can say that as a Survivor fan, I'm pissed.\n\nI went back and watched Survivor , and Jeff Probst said that the contestant who correctly called the coin flip won immunity, an idol, and the grand prize went up another million. The only rule was that it had to land on what he called. At no point was it said the coin had to land on the mat, which wasn't even used for the shot of Lewis' coin flip.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/there-was-a-lot-of-drama-around-survivor-51s-coin-flip-that-wasnt-aired",
+      "published_at": "2026-11-20T01:31:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/L4BCFD5Syu6qmFDiLJrtxW-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 214,
+      "extracted_at": "2026-11-20T01:33:05.713824+00:00",
+      "updated_at": "2026-11-20T01:33:05.713824+00:00"
+    },
     {
       "id": "9406b0d6-18c1-4060-b16f-e8fb3c956ecd",
       "title": "Even After 9 Years, This is Still Goku's Best Kamehameha in Dragon Ball Super",
@@ -742,21 +757,6 @@
       "word_count": 1074,
       "extracted_at": "2026-11-19T22:06:56.514176+00:00",
       "updated_at": "2026-11-19T22:06:56.514176+00:00"
-    },
-    {
-      "id": "5869f99b-ace1-407d-9ce4-54b2dd00372c",
-      "title": "Steven Spielberg Gently Pitched Christopher Nolan The Movie Idea I Think Fans Have Been Wanting",
-      "summary": "This follow-up makes all too much sense.",
-      "content": "I don't know how you follow a $1.8 billion trip through Greek mythology , but Steven Spielberg apparently has an idea. Christopher Nolan is still taking a victory lap for The Odyssey , one of the biggest hits on the 2026 movie schedule , and the Jaws director just floated a follow-up I'd pay good money to see. The way he brought it up made me laugh, too. Even Hollywood legends know how to suggest another movie without sounding too pushy.\n\nI love how politely Spielberg slid that into the conversation. It's the cinematic equivalent of complimenting somebody's enormous Thanksgiving dinner and then asking what they're making next year. He even followed it up by insisting there was no pressure. Nolan, understandably, joked that Spielberg seemed to be speaking for Universal Pictures. Spielberg admitted the studio would probably appreciate it, but he was interested himself.\n\nNolan has already explained why he chose The Odyssey . He considers The Iliad more grounded, while the later poem's monsters and stranger adventures offered something he hadn't seen done the way he envisioned. That doesn't mean he couldn't change his mind, especially after his latest movie has reportedly earned more than $1.8 billion worldwide.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/steven-spielberg-gently-pitched-christopher-nolan-movie-idea-fans-have-been-wanting-the-odyssey-the-illiad",
-      "published_at": "2026-11-19T22:01:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/26heHgjsDVhGDizzTgdzo4-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 200,
-      "extracted_at": "2026-11-19T22:06:56.561525+00:00",
-      "updated_at": "2026-11-19T22:06:56.561525+00:00"
     }
   ]
 }
