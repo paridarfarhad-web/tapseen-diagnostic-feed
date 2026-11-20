@@ -5,7 +5,7 @@
     <link>https://tapseen.com</link>
     <description>Latest 50 verified cinema and TV news articles aggregated by TapSeen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:20:15 GMT</lastBuildDate>
     <item>
       <title>&apos;Home Alone&apos; Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg</title>
       <link>https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116</link>
@@ -13,6 +13,14 @@
       <pubDate>Fri, 20 Nov 2026 20:15:48 GMT</pubDate>
       <source url="https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116">The Hollywood Reporter</source>
       <description>Culkin is expected to reprise his role as Kevin McCallister, while Rogen and Goldberg are writing and producing the sequel.</description>
+    </item>
+    <item>
+      <title>&apos;GTA VI&apos; Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B</title>
+      <link>https://deadline.com/2026/11/gta6-first-day-sales-3-79-billion-1237230465</link>
+      <guid isPermaLink="false">ad41b12d-0e26-4c4b-a2a0-3ebcabeac017</guid>
+      <pubDate>Fri, 20 Nov 2026 20:09:00 GMT</pubDate>
+      <source url="https://deadline.com/2026/11/gta6-first-day-sales-3-79-billion-1237230465">Deadline</source>
+      <description>Less than 48 hours after Grand Theft Auto VI went live, Rockstar Games has released sales figures for the long anticipated and heavily hyped misadventures out of the seedy fictional state of Leonida. Based on data from November 19, GTA VI has hit an astonishing $3.79 billion in day one retail sales. Including the massive […]</description>
     </item>
     <item>
       <title>Trump Suggests Theaters Could Be Added to Federal Film Credit Bill</title>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 20 Nov 2026 18:05:00 GMT</pubDate>
       <source url="https://variety.com/2026/awards/actors/actor-awards-2027-preview-film-tv-contenders-1236952294">Variety</source>
       <description>The awards season acting races are taking shape, and nothing will test them like the Actor Awards, the ceremony formerly known as the SAG Awards. There is a real possibility the season is barreling toward another edition of #OscarsSoWhite, and this is the stage where the nominating committee can exert the most influence. In TV, […]</description>
-    </item>
-    <item>
-      <title>Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)</title>
-      <link>https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233</link>
-      <guid isPermaLink="false">4d2713ce-0b40-4547-a3e8-116c30db1459</guid>
-      <pubDate>Fri, 20 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233">Variety</source>
-      <description>The latest way for comedians to find a second act: AI. Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison&apos;s AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson […]</description>
     </item>
   </channel>
 </rss>

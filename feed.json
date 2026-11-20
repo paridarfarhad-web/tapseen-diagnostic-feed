@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T20:16:19.788Z"
+    "updated_at": "2026-11-20T20:20:15.986Z"
   },
   "articles": [
     {
@@ -22,6 +22,21 @@
       "word_count": 435,
       "extracted_at": "2026-11-20T20:16:04.334573+00:00",
       "updated_at": "2026-11-20T20:16:04.334573+00:00"
+    },
+    {
+      "id": "ad41b12d-0e26-4c4b-a2a0-3ebcabeac017",
+      "title": "'GTA VI' Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B",
+      "summary": "Less than 48 hours after Grand Theft Auto VI went live, Rockstar Games has released sales figures for the long anticipated and heavily hyped misadventures out of the seedy fictional state of Leonida. Based on data from November 19, GTA VI has hit an astonishing $3.79 billion in day one retail sales. Including the massive […]",
+      "content": "Less than 48 hours after Grand Theft Auto VI went live, Rockstar Games has released sales figures for the long anticipated and heavily hyped misadventures out of the seedy fictional state of Leonida.\n\nBased on data from November 19, GTA VI has hit an astonishing $3.79 billion in day one retail sales.\n\nIncluding the massive pre-sales the download only open sandbox video game has had over the past few weeks, that translates in \"32.5 million units pre-release, a new record across all platforms,\" says the Take-Two Interactive subsidiary.\n\nBy a wide wide margin, like a Vice City car chase, that makes GTV VI the most successful entertainment debut in media history — beating the game's own record of earlier this week and the previous record holder of 2013's GTA V. Set up against the likes of 2019's Avengers: Endgame or Christopher Nolan's acclaimed The Odyssey from earlier this year, GTA VI has made more cash already than either of those big screen blockbusters have made over their entire release. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\n&#x201C;It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI ,&#x201D; said Rockstar prez and founder Sam Houser said Friday. &#x201C;We are incredibly humbled by the response from players around the world and we couldn&#x2019;t be more excited to share this moment with you.&#x201D;",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/gta6-first-day-sales-3-79-billion-1237230465",
+      "published_at": "2026-11-20T20:09:00+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/gta-cover-rockstar-logo.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 297,
+      "extracted_at": "2026-11-20T20:20:00.613058+00:00",
+      "updated_at": "2026-11-20T20:20:00.613058+00:00"
     },
     {
       "id": "2c37e83d-322c-439c-9450-2727ca0df031",
@@ -742,21 +757,6 @@
       "word_count": 1262,
       "extracted_at": "2026-11-20T18:05:52.416741+00:00",
       "updated_at": "2026-11-20T18:05:52.416741+00:00"
-    },
-    {
-      "id": "4d2713ce-0b40-4547-a3e8-116c30db1459",
-      "title": "Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)",
-      "summary": "The latest way for comedians to find a second act: AI. Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison's AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson […]",
-      "content": "The latest way for comedians to find a second act: AI.\n\nBuchwald has signed the estate of stand-up comedian Sam Kinison , who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison's AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson founder Rob LoCascio, has developed a model of Kinison, which Buchwald says can be used to &#x201C;expand opportunities&#x201D; for the late comedian &#x201C;across multiple verticals.&#x201D; The agency is working with Kinison's brother and former manager, Bill Kinison, to figure out places the avatar could be deployed. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories '14th' Director Ava DuVernay on Midterm Elections: 'Either Way We're in Trouble' ‘Golden Girls’ and 'Gilmore Girls' Writers' 'Silver Foxes' Screenplay Acquired by Alder Street Productions (EXCLUSIVE)\n\n&#x201C;Sam was always on the cutting-edge of comedy and entertainment, and with the genius of Uare.ai&#x2019;s work and the Buchwald agency&#x2019;s vision, we&#x2019;re keeping the promise of my brother&#x2019;s legacy alive,&#x201D; Bill Kinison said in a statement. &#x201C;I can&#x2019;t wait to see what Sam will do!&#x201D;\n\nKinison's style was associated with intense outbursts, screams and an acerbic delivery. He released five comedy albums throughout his career, winning a posthumous Grammy in 1994 for the album &#x201C;Live from Hell.&#x201D; He made numerous appearances on &#x201C;The Tonight Show Starring Johnny Carson,&#x201D; &#x201C;The Late Show with David Letterman&#x201D;&#xA0;and hosted &#x201C;Saturday Night Live&#x201D;&#xA0;in 1986. He also appeared in Rodney Dangerfield's film &#x201C;Back to School.&#x201D; After Kinison's 1992 death, celebrity tributes included a 1993 Fox special featuring appearances by Dangerfield, Robin Williams and Jim Carrey. Kinison was also repeatedly highly regarded by radio star Howard Stern. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nThe licensing of Kinison's AI avatar comes as celebrities, both living and dead, have found a new revenue stream by monetizing their name, voice and likeness through AI as the industry grapples with its ethical implications. Michael Caine joined the estates of Stan Lee and Judy Garland in licensing his voice to ElevenLabs, with their cloned voices available for commercial licensing and audiobook narration. The estate of Val Kilmer was also paid for allowing the late actor's likeness to appear in &#x201C;As Deep As the Grave,&#x201D; a film he was cast in but couldn't film due to his battle with throat cancer. He died in 2025. (The use of Kilmer's likeness also abided by SAG-AFTRA guidelines, the filmmakers told Variety this spring.)\n\nMore recently, &#x201C;The View&#x201D; co-host Sunny Hostin licensed her likeness this summer to the AI creative startup Fountain 0, weeks after Higgsfield licensed the appearances of the streamer N3on and UFC&#x2019;s Israel Adesanya and Quinton &#x2018;Rampage&#x2019; Jackson, among others, for its most recent film &#x201C;Cully Hill Boys.&#x201D;",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233",
-      "published_at": "2026-11-20T18:00:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 483,
-      "extracted_at": "2026-11-20T18:01:54.159033+00:00",
-      "updated_at": "2026-11-20T18:01:54.159033+00:00"
     }
   ]
 }
