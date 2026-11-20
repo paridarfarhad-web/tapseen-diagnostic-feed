@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T23:16:25.018Z"
+    "updated_at": "2026-11-20T23:18:21.883Z"
   },
   "articles": [
+    {
+      "id": "6a2eb009-2a2a-4d9a-b839-651682712172",
+      "title": "'Hunger Games: Sunrise On The Reaping' Begins Global Weekend With $76M Running Cume - Update",
+      "summary": "EXCLUSIVE: Lionsgate's sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M. Already, that's close to toppling the previous $100.1M worldwide start […]",
+      "content": "EXCLUSIVE: Lionsgate 's sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M . Already, that's close to toppling the previous $100.1M worldwide start of 2023's The Hunger Games: The Ballad of Songbirds & Snakes.\n\nThe fifth Francis Lawrence directed movie in the Suzanne Collins franchise has opened to No. 1 in 66 out of 67 markets to date with another 17 territories set to bow this weekend. It would not be shocking if the movie files a global opening plus-or-minus $200M global. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News 'Hunger Games: Sunrise On The Reaping' 2nd Best Previews YTD & For Franchise With $21M; Scorches 'Wicked' & 'The Odyssey' - Box Office Update News Everything We Know About The 'Hunger Games: Sunrise On The Reaping' Movie So Far\n\nOn Wednesday, the Joseph Zada, McKenna Grace, Elle Fanning, Jesse Plemons, Glenn Close, Kieran Culkin ensemble pic bowed in France to No. 1 with 154,000 admissions or $1.4M, which was +157% ahead of Songbirds & Snakes. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nIn Scandinavia, Norway on Wednesday, Sunrise opened to No. 1 with $494,000, marking the largest opening day in the Hunger Games franchise locally. Sweden opened to No. 1 with $459,000, coming in +31% ahead of Songbirds & Snakes .\n\nBelgium bowed to No. 1 as well with $343,000, the largest opening day locally for the feature take of the Collins' novels.\n\nOn Thursday, Haymitch set down in Australia with a No. 1 $1.5M opening for the day, +137% ahead of Songbirds and Snakes. Germany was also No. 1 with $1M, +83% ahead of Songbirds & Snakes.\n\nLionsgate distributes their movies in Latin America with partner IDC. The series has always called at the B.O. there and combined all markets did close to $3M at No. 1. Of that, Mexico minted $1M, +107% ahead of Songbirds and Snakes, while Brazil grossed $679,000.\n\nItaly's first day was also molto bene, +79% ahead of Songbirds & Snakes, for a No. 1 of $680K.\n\nIn Scandinavia, Denmark bowed to No. 1 with $461,000, +65% ahead of the previous 2023 chapter. Finland was also No. 1 with $205,000 +36% higher than the Tom Blyth and Rachel Zegler starring installment. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nNetherlands charted No. 1 yesterday with $412,000, +66% over Songbirds & Snakes.\n\nIn the Middle East, Sunrise on the Reaping bowed to first place in all markets with a combined $390,000. The UAE opened to $129,000, +135% ahead of Songbirds & Snakes . Saudi Arabia opened to $126,000 was also +155% ahead of the last Hunger Games movie.\n\nThe net production cost of Sunrise on the Reaping is $150M, with a majority of that financed via foreign sales. The U.S. marketing spend is $60M, sources say. Lionsgate also directly distributes the movie in the United Kingdom.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714",
+      "published_at": "2026-11-20T23:16:11+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG068.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 578,
+      "extracted_at": "2026-11-20T23:18:08.520325+00:00",
+      "updated_at": "2026-11-20T23:18:08.520325+00:00"
+    },
     {
       "id": "c6099d1f-f2c7-4975-8232-fd596a6aebe8",
       "title": "HIDIVE Locks Down Release for 2027's Biggest New Anime - Watch Trailer",
@@ -742,21 +757,6 @@
       "word_count": 671,
       "extracted_at": "2026-11-20T20:44:01.590007+00:00",
       "updated_at": "2026-11-20T20:44:01.590007+00:00"
-    },
-    {
-      "id": "bca6999f-3e1a-4dca-804b-8c2297ff2d93",
-      "title": "Creator Kennedy Eurich to Launch YouTube Series (Exclusive)",
-      "summary": "The digital series will debut in early 2027 on YouTube and across social media platforms.",
-      "content": "Creator Kennedy Eurich is launching a new digital series on YouTube , The Hollywood Reporter has learned.\n\nThe variety series, currently titled the Untitled Ken Eurich Project, is set to debut in early 2027 and will be distributed on YouTube and other social media platforms. The show will feature a mix of guests and hidden camera segments. The creator has secured independent financing to the tune of seven figures.\n\nEurich, known to followers as Ken, has nearly 2 million followers on TikTok alone, with much of her content focusing on speaking directly to the audience content. She has a secondary account with over 800K followers on TikTok, with another half a million followers on Instagram. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nLike many creators working today, she's been no stranger to brand deals. She's partnered with brands like Cetaphil, Redken, Celsius, Coach and Tory Burch and partnered on ads with DoorDash, Popeyes and Torchy&#x2019;s Tacos. She's also hosted and done content for Tory Burch&#x2019;s SS27 runway show and the 2025 Victoria's Secret Fashion Show.\n\nThe creator will allocate a portion of the show's revenue to animal welfare initiatives through the Dallas-based Camillo Foundation, a private 501(c)(3) grantmaking foundation, according to a release.\n\nEurich is represented by CAA, OS Talent and Brecheen Feldman Breimer Silver and Thompson.",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/business/digital/creator-kennedy-eurich-youtube-series-1236760125",
-      "published_at": "2026-11-20T20:42:27+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 231,
-      "extracted_at": "2026-11-20T20:44:03.386489+00:00",
-      "updated_at": "2026-11-20T20:44:03.386489+00:00"
     }
   ]
 }
