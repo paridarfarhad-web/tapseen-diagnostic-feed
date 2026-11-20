@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T19:22:14.041Z"
+    "updated_at": "2026-11-20T19:26:10.172Z"
   },
   "articles": [
+    {
+      "id": "0a2f370c-5d2f-4c53-9881-d9e744648784",
+      "title": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
+      "summary": "Crime pays: Rockstar Games' \"Grand Theft Auto 6\" Day 1 sales have hit $3.79 billion. Per, Take-Two Interactive, that tole sets \"a new record for entertainment across any medium, and becoming the biggest entertainment launch in history. “It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of […]",
+      "content": "Crime pays: Rockstar Games' \" Grand Theft Auto 6&#8243; Day 1 sales have hit $3.79 billion.\n\nPer, Take-Two Interactive, that tole sets \"a new record for entertainment across any medium, and becoming the biggest entertainment launch in history.\n\n&#x201C;It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI ,&#x201D; said Sam Houser, President and Founder of Rockstar Games. &#x201C;We are incredibly humbled by the response from players around the world and we couldn&#x2019;t be more excited to share this moment with you.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198",
+      "published_at": "2026-11-20T19:24:41+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/08/GTA-6-2.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 115,
+      "extracted_at": "2026-11-20T19:25:58.205136+00:00",
+      "updated_at": "2026-11-20T19:25:58.205136+00:00"
+    },
     {
       "id": "95c07964-15f4-426f-88fc-b22c0e5acd92",
       "title": "Free Nintendo Switch Online Promotion Announced by Nintendo",
@@ -742,21 +757,6 @@
       "word_count": 764,
       "extracted_at": "2026-11-20T17:11:49.983112+00:00",
       "updated_at": "2026-11-20T17:11:49.983112+00:00"
-    },
-    {
-      "id": "d3510e20-0cf9-41bc-9c8e-ffbeef93101d",
-      "title": "I’m Shocked That A Big Brother Houseguest Is In Grand Theft Auto VI",
-      "summary": "This is a cameo that I wasn't expecting.",
-      "content": "Grand Theft Auto VI dropped this week, and its release exceeds any release we've seen on the 2026 movie schedule . It's fitting because the game is loaded with all sorts of celebrities, including one unexpected face from one of the best reality shows , Big Brother .\n\nChristian Birkenberger revealed on his Instagram that he voices three different characters in Grand Theft Auto VI . For those playing the game, here are the moments you might hear Christian, according to his post about being part of the game:\n\nI've only logged a couple of hours into the game since its release, but I think the second voice-acting bit comes in during Jason's first mission in the game. Not a bad gig for a former Big Brother player who didn't even make the jury, and I'm happy to see him land a job like that after appearing on the CBS series.\n\nChristian might be best known on Big Brother for his showmance with Alyssa Lopez, which quickly fizzled after his eviction . The nail in the coffin seemed to come when the Houseguests got videos from family members back home, and Lopez was shocked when she got a video from Christian rather than from her family.\n\nThe couple announced they were dating on Big Brother 's finale night, but less than 48 hours later, they broke up. He has not done any work in reality television since then, but Alyssa did two seasons of The Challenge after her exit.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/shocked-big-brother-houseguest-grand-theft-auto-vi-christian-birkenberger",
-      "published_at": "2026-11-20T17:08:30+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/nvfGhmZjiR7ZGGKDWBthH8-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 249,
-      "extracted_at": "2026-11-20T17:13:49.029283+00:00",
-      "updated_at": "2026-11-20T17:13:49.029283+00:00"
     }
   ]
 }
