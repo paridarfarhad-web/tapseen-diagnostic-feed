@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T23:22:19.397Z"
+    "updated_at": "2026-11-20T23:24:26.294Z"
   },
   "articles": [
+    {
+      "id": "39659d8a-26de-4ff4-9862-b9266793b3e0",
+      "title": "Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year",
+      "summary": "A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq's gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, […]",
+      "content": "A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq 's gains for the year.\n\nAbout $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia , Dell, AMD and Meta all taking big hits. The Nasdaq fell 1,261 points, or 5%, logging its seventh straight down day, the longest losing streak it has had since 2020.\n\nThe Dow and the S&P 500 fared a bit better, but still slipped 2% and 4%, respectively.\n\nThe selloff in tech coincided with two major developments in AI earlier in the week: Anthropic 's IPO and a leadership change at Nvidia. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nAfter raising a record $81 billion in going public Thursday, Anthropic fell back near its $83 opening price mark. Earlier in the week, Nvidia CEO Jensen Huang, was ousted after admitting to multiple affairs, including one with a woman suspected by U.S. intelligence agencies of being a Chinese spy. The scandal is likely to disrupt the AI sector for some time due to pending investigations into the affair and also a complex web of investments making Nvidia not just the leading AI chipmaker but a key investor in many emerging companies.\n\nAgainst the gloomy backdrop, core Hollywood companies fared slightly better, even if it wasn't a banner day.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137",
+      "published_at": "2026-11-20T23:24:03+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Stock-market-Nov-20.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 307,
+      "extracted_at": "2026-11-20T23:24:09.628889+00:00",
+      "updated_at": "2026-11-20T23:24:09.628889+00:00"
+    },
     {
       "id": "daed72cc-d8bb-4dd9-9ff5-769fb0b4a4e3",
       "title": "CMA Awards See a 55% Ratings Bump in Key Adults Demo With Taylor Swift's Return to the Show",
@@ -742,21 +757,6 @@
       "word_count": 412,
       "extracted_at": "2026-11-20T20:52:02.500736+00:00",
       "updated_at": "2026-11-20T20:52:02.500736+00:00"
-    },
-    {
-      "id": "13219f83-40a8-4cbc-97a5-cb0cfb40f9be",
-      "title": "Rockstar Games Boss Fires Back at Questions About GTA 7",
-      "summary": "After 13 years of waiting, Grand Theft Auto 6 is now finally live around the globe. Arguably the most eagerly anticipated game in history, most who are playing GTA 6 are surely nowhere close to finishing it, as Rockstar's latest boasts hundreds of hours' worth of content to dig into. Despite this, some have already […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google After 13 years of waiting, Grand Theft Auto 6 is now finally live around the globe. Arguably the most eagerly anticipated game in history, most who are playing GTA 6 are surely nowhere close to finishing it, as Rockstar's latest boasts hundreds of hours' worth of content to dig into . Despite this, some have already started to think ahead, specifically with Grand Theft Auto 7 and what it might end up looking like. And if you feel like it already might be a bit too early to look forward to GTA 7 , one of the key bosses in charge of the series would agree.\n\nSpeaking on TBPN , Take-Two Interactive CEO Strauss Zelnick was asked about Grand Theft Auto 7 and what it might have in store. While Rockstar's world in GTA 6 is drastically larger than anything else the studio has ever done , Zelnick was asked if the next entry in the series could take place around the entire globe rather than in one region. Rather than entertaining this idea at all, Zelnick kept the focus on GTA 6 , suggesting that they've not even begun to think even a little about GTA 7 .\n\n\"We at Take-Two just went live with GTA 6 on November 19th,\" Zelnick said. \"Wait, let me check my watch. Oh, it's still November 19th. And you're asking a question about GTA 7 . I mean, guys, really?\"\n\nJordi: \"Theoretically, GTA 7 could just be a live version of the entire world, right?\" @StraussZelnick , the CEO behind GTA 6: \"We went live with GTA 6 on November 19. Let me check my watch. Oh, it&#39;s still November 19. And you&#39;re asking a question about GTA 7.\" https://t.co/Up2ILZaP5t pic.twitter.com/3fgFISHqgy\n\nYou can't blame Zelnick for having this reaction for a number of reasons. Not only do those at Rockstar Games surely have no idea what Grand Theft Auto 7 might look like right now, but their work on GTA 6 has truly only just begun. While the single-player component of GTA 6 is live now, it's expected that a new version of GTA Online will come to the game in the future . This will give GTA 6 a live-service aspect that will continue to take up a good amount of Rockstar's focus in the years to come.\n\nThe good news with GTA 7 is that Rockstar should be able to continue going bigger and better than before with the next installment in the series. GTA 6 sales have already been confirmed to have topped 32 million units , with Rockstar and Take-Two having made nearly $4 billion on the first day of the game's launch. This makes GTA 6 the most successful entertainment release in history, and will undoubtedly give Rockstar plenty of resources at its disposal whenever it does decide to make the next Grand Theft Auto game.\n\nHow do you feel about GTA 6 based on what you may have played so far? And do you think there's still room for improvement with GTA 7 ? Let me know in the comments below.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/gta-7-grand-theft-auto-vii-rockstar-games-boss-response",
-      "published_at": "2026-11-20T20:51:09+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 572,
-      "extracted_at": "2026-11-20T20:51:59.729188+00:00",
-      "updated_at": "2026-11-20T20:51:59.729188+00:00"
     }
   ]
 }
