@@ -102,6 +102,11 @@ export async function run(filePath) {
     { p_request_id: requestId, p_payload: draft, p_post_id: null,
       p_expected_updated_at: null },
     { apikey: apiKey, authorization: "Bearer " + auth.access_token });
+  if (result.status === "discarded") {
+    console.log(JSON.stringify({ mode: "draft-discarded", slug: draft.slug,
+      reason: "tombstoned", publication_enabled: false }));
+    return;
+  }
   if (result.status !== "draft" || !result.post_id || result.slug !== draft.slug)
     throw Error("Unexpected draft creation response");
   console.log(JSON.stringify({ mode: "draft-created", slug: result.slug,
