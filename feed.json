@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T19:56:08.368Z"
+    "updated_at": "2026-11-20T19:58:09.942Z"
   },
   "articles": [
+    {
+      "id": "b8752f47-75af-4cca-97f3-86f78c196ffd",
+      "title": "'GTA VI' Generates $3.79 Billion in \"Day One\" Sales",
+      "summary": "That includes pre-sales.",
+      "content": "Grand Theft Auto VI is out here breaking every record: the game generated $3.79 billion in \"day one retail sales,\" Rockstar Games said on Friday. That's a whole lot of love &#x2014; it's like Jason- and Lucia-levels of love, actually (if you play the game correctly).\n\nRockstar is using its own internal estimate through the end of Thursday. The eye-popping number includes pre-sales and makes GTA VI the \"highest-grossing entertainment property\" of all time, the Take-Two label announced.\n\nIt's a \"new record for entertainment across any medium\" and \"the biggest entertainment launch in history,\" per Rockstar. GTA VI sold 32.5 million units pre-release. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\n&#x201C;It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI ,&#x201D; said Sam Houser, president and founder of Rockstar. &#x201C;We are incredibly humbled by the response from players around the world and we couldn&#x2019;t be more excited to share this moment with you.&#x201D;\n\nFor the 10 of you who have not yet bought it, Grand Theft Auto VI is available at the PlayStation Store, Microsoft Store, Rockstar Games Store, and global retailers and storefronts. A PC launch will come at some point, as will GTA VI Online .",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/business/business-news/gta-vi-day-one-sales-1236760139",
+      "published_at": "2026-11-20T19:55:51+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 224,
+      "extracted_at": "2026-11-20T19:57:58.939976+00:00",
+      "updated_at": "2026-11-20T19:57:58.939976+00:00"
+    },
     {
       "id": "8657e7c8-ae00-46d1-b87c-7c38a3aba191",
       "title": "‘Bridgerton’ and ‘Mad Men’ Costumers on the 'Magic of Costume Design' and Why the 'Script Is Our Bible'",
@@ -742,21 +757,6 @@
       "word_count": 18,
       "extracted_at": "2026-11-20T17:31:51.115805+00:00",
       "updated_at": "2026-11-20T17:31:51.115805+00:00"
-    },
-    {
-      "id": "23910c93-f553-4035-b66b-c1812df0a759",
-      "title": "UTA Hires Sam Yabrow As Talent Agent",
-      "summary": "EXCLUSIVE: UTA has hired Sam Yabrow as a talent agent based in its Los Angeles office. Yabrow joins from Buchwald, bringing nearly a decade of entertainment industry experience spanning casting and talent representation. Clients expected to join him at UTA include Will Price (The Only Living Pickpocket in New York, The Chair Company), Igby Rigney […]",
-      "content": "EXCLUSIVE: UTA has hired Sam Yabrow as a talent agent based in its Los Angeles office.\n\nYabrow joins from Buchwald, bringing nearly a decade of entertainment industry experience spanning casting and talent representation.\n\nClients expected to join him at UTA include Will Price ( The Only Living Pickpocket in New York , The Chair Company ), Igby Rigney ( The Shards ), Everett Blunck ( The Plague , The Audacity ) and Jaren Lewison ( Eternally Yours ).\n\nYabrow began his career in casting in New York before moving into talent representation at Abrams Artists Agency, later known as A3 Artists Agency. Following A3's closure in 2024, he joined Buchwald, where he spent the past two and a half years. He relocated to Los Angeles earlier this year. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nOriginally from Georgia, Yabrow is a graduate of the University of Michigan. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/uta-hires-sam-yabrow-talent-agent-1237229460",
-      "published_at": "2026-11-20T17:30:00+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Image_08c485.jpeg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 212,
-      "extracted_at": "2026-11-20T17:31:50.419587+00:00",
-      "updated_at": "2026-11-20T17:31:50.419587+00:00"
     }
   ]
 }
