@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T23:34:24.690Z"
+    "updated_at": "2026-11-20T23:46:23.687Z"
   },
   "articles": [
+    {
+      "id": "b6e9f394-2f3a-48c6-94cb-a72e32a2d67c",
+      "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
+      "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the […]",
+      "content": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood&#x2019;s past, David Fincher claims to represent the future.\n\nWhile many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI , the 3x Oscar-nominated director recently shared his thoughts on the rapidly growing tech.\n\n\"I&#x2019;m not a Luddite, so I don't fear the unknown,\" Fincher told the Los Angeles Times .\n\n\"Is everyone satisfied that we have figured this art form out enough that what we really need to do is go back to celluloid?\" he continued. \"How long have people painted? 40,000 years? We're talking about a thing that's a hundred years old and everyone's going, 'Stop. Pencils down. No more iterating. It's not necessary to have at your fingertips the ability to change the color of that person&#x2019;s eyes.'\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nFincher added, \"Well, it exists. Should we not use it?\"\n\nThe comments come after several fans have taken to social media to criticize the apparent use of AI in the film as \" astounding to an absurd degree ,\" with one viewer saying they \" walked out of Cliff Booth completely gutted .\"\n\nSet in 1977, eight years after Once Upon a Time… , The Further Mis-Adventures of Cliff Booth follows Brad Pitt's eponymous stuntman, now a projectionist who moonlights as a Hollywood fixer, getting caught up in a conspiracy that involves a Filipino gang and a stolen Oscar.\n\nPremiering Thanksgiving on Imax, The Further Mis-Adventures of Cliff Booth premieres Dec. 23 on Netflix.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711",
+      "published_at": "2026-11-20T23:45:30+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 332,
+      "extracted_at": "2026-11-20T23:46:08.25414+00:00",
+      "updated_at": "2026-11-20T23:46:08.25414+00:00"
+    },
     {
       "id": "fe905f3a-1b52-4952-9a73-986501604d60",
       "title": "How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change",
@@ -742,21 +757,6 @@
       "word_count": 551,
       "extracted_at": "2026-11-20T21:20:02.009446+00:00",
       "updated_at": "2026-11-20T21:20:02.009446+00:00"
-    },
-    {
-      "id": "c77a4bf4-476c-40f3-8f39-b6421664b178",
-      "title": "‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation",
-      "summary": "Sterling K. Brown may be heading into the unsettling world of “ Longlegs .” According to Deadline, the “ Paradise ” star is negotiating to join Nicolas Cage in Paramount’s upcoming follow-up to the 2024 horror hit, with Osgood Perkins returning to write and direct. Brown’s role remains a mystery, as does the story itself. Cage will reprise his grotesque serial killer, although the new film won’t be a straightforward sequel. Continue reading ‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation at The Playlist.",
-      "content": "Sterling K. Brown may be heading into the unsettling world of “ Longlegs .” According to Deadline, the “ Paradise ” star is negotiating to join Nicolas Cage in Paramount’s upcoming follow-up to the 2024 horror hit, with Osgood Perkins returning to write and direct. Brown’s role remains a mystery, as does the story itself. Cage will reprise his grotesque serial killer, although the new film won’t be a straightforward sequel. Continue reading ‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/longlegs-sterling-k-brown-nicolas-cage-osgood-perkins-20261120",
-      "published_at": "2026-11-20T20:57:38+00:00",
-      "image_url": "https://www.youtube.com/embed/OG7wOTE8NhE",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 93,
-      "extracted_at": "2026-11-20T21:02:01.284155+00:00",
-      "updated_at": "2026-11-20T21:02:01.284155+00:00"
     }
   ]
 }
