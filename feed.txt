@@ -1,9 +1,63 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-20T22:02:20.605Z
+Last Updated: 2026-11-20T22:08:24.663Z
 Website: https://tapseen.com
 
 ============================================================
-[1] I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened?
+[1] 'You Can See Everything': Elizabeth Holmes Documentary Crossing $100M Worldwide Tonight
+Source: Deadline | Status: expanded | Words: 801
+Published: 2026-11-20T22:07:47+00:00
+URL: https://deadline.com/2026/11/box-office-global-you-can-see-everything-1237230458
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Whip up the eggs. A24's Lance Oppenheim and Nathan Fielder co-directed groundbreaking documentary, You Can See Everything, continues to have 20/20 vision at the box office and will pass the $100M global mark tonight. Broken out that's $90.9M at the domestic B.O. with a foreign cume that's coursing to $8M today. Already, the movie […]
+
+CONTENT / EXTRACTED DETAILS:
+A24 's Lance Oppenheim and Nathan Fielder co-directed groundbreaking documentary, You Can See Everything , continues to have 20/20 vision at the box office and will pass the $100M global mark tonight.
+
+Broken out that's $90.9M at the domestic B.O. with a foreign cume that's coursing to $8M today. Already, the movie is the second highest grossing non-concert documentary at the domestic B.O. after Michael Moore's Cannes Palme d'Or winning Fahrenheit 9/11 which counts $119.1M.
+
+Already, You Can See Everything counts $6.4M abroad having already unspooled in Turkey (Oct. 30, $458K), Poland ($1.46M), Czech Republic ($163K) and Australia/New Zealand ($2.5M). Today the movie is clearing $2M offshore inclusive of $1.2M in the UK/Ireland (which also includes Thursday monies). A24 has the movie in the UK. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Casting Louis Garrel And Harry Lawtey Join Jeremy Allen White In Ben Stiller-Directed 'Airman' From Laika Live-Action And A24 News 'Primetime' Cinematographer & Editor On Making Robert Pattinson Look Like A "Superhero" & Breakdown Viral Meme Catchphrase
+
+The pic is also hitting Russia and CIS (via VLG) and Philippines, Scandinavia, Middle East, and South Africa (via Sony) today. As Deadline first reported, Sony Pictures acquired rights to the documentary in Germany/Austria, Latin America, Scandinavia, Greece, the Middle East, Israel, India, South Africa, South Korea, and Southeast Asia.
+
+Abroad the Elizabeth Holmes and Billy Evans sit-down is setting market records in some territories as the widest-ever theatrical release for a documentary. In UK/Ireland, You Can See Everything is playing in 600 cinemas; that location count being the widest ever for a non-concert documentary. You Can See Everything also posted the biggest presales in A24 UK history. Screenings there sold out a month in advance of its release with theaters adding extra showtimes due to demand (including midnight shows and extended operating hours). There's been a big turnout by Gen Z and young millennial audiences, which is unusual for documentaries in recent years, outside of concert films. Cineworld, which has 87 sites across the UK reported that a third of advance ticket sales are coming from 18&#x2013;24 year olds, with about two thirds from the under 35 demo. Picturehouse has currently sold more tickets to the documentary than No Time to Die and Star Wars: The Rise of Skywalker at the same point in time before release. Everyman had sold more tickets at eight days out than Deadpool & Wolverine at the same point. At Curzon, only No Time to Die had stronger pre-sales at this stage. Lighthouse Dublin broke its all time presale record with You Can See Everything , ahead of Barbie.
+
+Among the Sony market holdovers, Portugal posted the 2nd highest per screen average in the weekend's top 10, while the pic bowed to No. 1 in the Baltics, No. 2 in Estonia, and No. 2 in Lithuania and Latvia (behind a local title). In Turkey, You Can See Everything has officially sold the most tickets of any international documentary ever in Turkey and reps the third highest opening for A24 behind only Backrooms and The Drama . Last weekend, You Can See Everything opened to $2.5M in Australia/New Zealand for the No. 1 spot, which is the highest start for a non-concert doc in the territory and third highest when including concerts (Michael Jackson's This Is It and Taylor Swift's Eras Tour rank ahead). It's also the third highest opening for an A24 title in the territory. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Meantime, the global marketing for You Can See Everything remains the meme that doesn't stop giving. AI has taken full control, which you can see below; a possible topic for another Oppenheim and Fielder documentary down the road in these Anthropic and OpenAI times.
+
+Here's the rest of the international release schedule for You Can See Everything :
+
+Nov 19 & 20: UK, Russia & CIS, Scandi, UAE, Saudi Arabia, Kuwait, Qatar, Bahrain, Iraq, Oman, Greece, South Africa, Philippines. Nov. 26 & 27: Mexico, Brazil, Argentina, Italy (event screenings), Slovakia, Slovenia, Egypt, Jordan, Lebanon, Singapore, Israel, Romania, Vietnam, India, Taiwan, Indonesia, Bulgaria. Dec. 3 & 4: Germany, Austria, Switzerland, Hong Kong, Thailand, Malaysia, Chile, Peru.
+
+Dec. 10 & 11: Korea. Dec 25: Spain
+
+Dec 30: France, Belgium Jan 7: Netherlands, Hungary Jan 21: Central America Feb TBD: Italy March 12: Japan
+
+============================================================
+[2] TV Ratings: CMA Awards Score Seven-Year High
+Source: The Hollywood Reporter | Status: expanded | Words: 313
+Published: 2026-11-20T22:06:14+00:00
+URL: https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246
+------------------------------------------------------------
+SUMMARY:
+The show delivers its biggest audience of the 2020s so far.
+
+CONTENT / EXTRACTED DETAILS:
+The 60th CMA Awards delivered their largest TV audience of the decade.
+
+The Nov. 18 awards averaged 7.62 million viewers on ABC and Disney+, the best same-day total for the awards since 2019 (when it brought in more than 11 million viewers). Wednesday's show finished just ahead of the 7.57 million viewers for the 2022 awards &#x2014; with the caveat that Nielsen has made several changes to the way it measures ratings in the years since then.
+
+The CMA Awards drew a 1.01 rating among adults 18-49 (equivalent to about 1.37 million people in the demographic), the first time the show has cleared a 1.0 rating since 2022. The telecast grew by 26 percent in viewers and 55 percent in adults 18-49 from a year ago (6.04 million viewers, 0.65 rating in the 18-49 demo). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV Streaming Ratings: Rough Week for Original Series, 'From' Remains No. 1 Overall Music Taylor Swift Performs "Our Song" and "I Knew It, I Knew You" at the CMAs
+
+Ella Langley set a record with six wins at the awards, including entertainer of the year. Her long-running No. 1 hit "Choosin' Texas" won CMA Awards for song, single and music video of the year.
+
+Along with Langley's big night, the CMA Awards featured a performance by Taylor Swift &#x2014;&#xA0;her first at the ceremony since 2013 &#x2014;&#xA0;and a tribute to Dolly Parton that featured Vince Gill and host Lainey Wilson performing a duet of "I Will Always Love You." Several other artists paid tribute to Parton during the show and on the red carpet beforehand.
+
+ABC's annual Countdown to the CMAs special on Tuesday also earned multi-year ratings highs. Hosted by Robin Roberts, the show drew just under 3 million viewers, its best showing since 2023.
+
+============================================================
+[3] I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened?
 Source: CinemaBlend | Status: expanded | Words: 372
 Published: 2026-11-20T22:01:00+00:00
 URL: https://www.cinemablend.com/movies/i-thought-rocky-creed-fight-scene-end-i-play-rocky-what-happened-credits
@@ -29,7 +83,7 @@ James also confirmed that they took some hits while preparing for and filming th
 Well, considering the amount of time, effort and punches that went into this, I’m happy that Rocky and Creed’s fight did find its way into the movie…even if it wasn’t in the way it was originally intended.
 
 ============================================================
-[2] Hello Sunshine’s Lauren Neustadter Stepping Down at Year's End (Exclusive)
+[4] Hello Sunshine’s Lauren Neustadter Stepping Down at Year's End (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 541
 Published: 2026-11-20T22:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220
@@ -53,7 +107,7 @@ In partnering with the growing French media company, Hello Sunshine joins a spra
 Prior to her near-decade at Hello Sunshine, Neustadter worked at old Fox &#x2014; where she was senior vice president of programming at the broadcast network, overseeing such series as The Mindy Project and Brooklyn Nine-Nine . She joined the network after a tenure at 20th Century Fox, where she worked on such films as Parental Guidance and Witherspoon vehicle This Means War . While at 20th, she was included The Hollywood Reporter &#x2019;s Next Gen list &#x2014; the magazine&#x2019;s annual assessment of the 35 fastest rising entertainment executives under the age of 35.
 
 ============================================================
-[3] 'War' Creator George Kay on Writing the Celebrity Divorce Drama, That Shocking Season Finale and the Real Couple Who Inspired a Key Scene: 'It's Probably an Awful Moment in Someone's Life'
+[5] 'War' Creator George Kay on Writing the Celebrity Divorce Drama, That Shocking Season Finale and the Real Couple Who Inspired a Key Scene: 'It's Probably an Awful Moment in Someone's Life'
 Source: Variety | Status: expanded | Words: 1651
 Published: 2026-11-20T22:00:00+00:00
 URL: https://variety.com/2026/tv/global/war-creator-george-kay-finale-spoilers-season-2-1236951842
@@ -115,7 +169,7 @@ I'm actually looking the other way. I'm looking for the thing that affects peopl
 This interview has been edited and condensed. Related Stories 'The Debut' to Open Marrakech Film Festival, With 'Artificial' and 'Paper Tiger' Among Gala Screenings Marrakech Film Festival Grows Its Awards-Season Clout With 'Artificial,' 'The Debut,' 'Fjord' and Other Oscar Hopefuls
 
 ============================================================
-[4] Marvel’s ‘Blade’ Director Exited Failed Movie Because 'Life’s Too Short to Make S— Films' and It Was 'Dangerous' Working 'Without a Proper Script'
+[6] Marvel’s ‘Blade’ Director Exited Failed Movie Because 'Life’s Too Short to Make S— Films' and It Was 'Dangerous' Working 'Without a Proper Script'
 Source: Variety | Status: expanded | Words: 672
 Published: 2026-11-20T21:55:50+00:00
 URL: https://variety.com/2026/film/news/blade-director-exited-marvel-movie-script-never-finished-1236954556
@@ -143,7 +197,7 @@ Amid the film&#x2019;s development struggles, Ali&#x2019;s interest in playing B
 Feige explained in July 2025 how the prolonged delays on &#x201C;Blade&#x201D; were a symptom of Marvel&#x2019;s &#x201C;over-expansion&#x201D; into Disney+ streaming content where &#x201C;for the very first time ever, quantity trumped quality.&#x201D; When Marvel began to reevaluate its development process, the &#x201C;Blade&#x201D; movie was one of the projects that stalled.
 
 ============================================================
-[5] Egyptian Actor Asser Yassin on His Dark Role in Psychological Thriller ‘Asal Ahmar,’ Alongside Hend Sabry: ‘I Like to Indulge in Intense Characters’
+[7] Egyptian Actor Asser Yassin on His Dark Role in Psychological Thriller ‘Asal Ahmar,’ Alongside Hend Sabry: ‘I Like to Indulge in Intense Characters’
 Source: Variety | Status: expanded | Words: 962
 Published: 2026-11-20T21:49:21+00:00
 URL: https://variety.com/2026/film/global/asser-yassin-asal-ahmar-1236954598
@@ -191,7 +245,7 @@ Yassin is equally optimistic about the future of Egyptian cinema, despite rising
 &#x201C;The audience is telling us they need new, different movies, not just commercial box-office movies. They need something new,&#x201D; he argues. &#x201C;I think there is a new wave that is shaping up. I can see it and I&#x2019;m very excited about it.&#x201D;
 
 ============================================================
-[6] How to Watch 'Yellowjackets’ Season 4 Online: The Hit Thriller Returns for Its Final Season
+[8] How to Watch 'Yellowjackets’ Season 4 Online: The Hit Thriller Returns for Its Final Season
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-20T21:45:00+00:00
 URL: https://variety.com/2026/shopping/news/how-to-watch-yellowjackets-season-4-online-streaming-1236954592
@@ -217,7 +271,7 @@ The final installment follows a particularly successful third season for the ser
 &#x201C;Yellowjackets&#x201D; is produced for Showtime by Lionsgate Television, with Lyle and Nickerson serving as showrunners and executive producers.
 
 ============================================================
-[7] Bowen Yang Apologizes For Using Word "Without Knowing Its Antisemitic History"
+[9] Bowen Yang Apologizes For Using Word "Without Knowing Its Antisemitic History"
 Source: Deadline | Status: expanded | Words: 399
 Published: 2026-11-20T21:44:02+00:00
 URL: https://deadline.com/2026/11/bowen-yang-apologizes-using-word-antisemitic-history-1237230608
@@ -245,7 +299,7 @@ Despite accusations of antisemitism, Yang and Las Culturistas co-host Matt Roger
 Since Israel's ongoing strikes on Gaza in the wake of Hamas' Oct. 7, 2023 attack, multiple organizations have classified Israel's actions as a genocide against Palestinians, including the United Nations , Amnesty International and Human Rights Watch .
 
 ============================================================
-[8] Indie Holiday Push: ‘Minotaur’, ‘Elsinore’ &#038; ‘Josephine’ Debut With Cameron Winter Concert Film; ‘Club Kid’ Expands - Specialty Preview
+[10] Indie Holiday Push: ‘Minotaur’, ‘Elsinore’ &#038; ‘Josephine’ Debut With Cameron Winter Concert Film; ‘Club Kid’ Expands - Specialty Preview
 Source: Deadline | Status: expanded | Words: 1019
 Published: 2026-11-20T21:36:31+00:00
 URL: https://deadline.com/2026/11/indie-films-opening-minotaur-elisnore-josephine-cameron-winter-1237230528
@@ -281,7 +335,7 @@ IFC Entertainment Group debuts Ken Sanzel&#x2019;s action-thriller Best Pancakes
 Event : Trafalgar Releasing has a pair. BTS World Tour &#x2018;Arirang&#x2019; In Kaohsiung & Jakarta: Live Viewing , presented with Hybe & Bighit Music, will play two showtimes Nov. 21 on 840 screens marking the year-end finale of the group&#x2019;s studio tour. And, on 159 screens, from London&#x2019;s West End, the live theater capture of Giant - The Play with John Lithgow starring as Roald Dahl in the production by Mark Rosenblatt. Two showtimes Nov. 22.
 
 ============================================================
-[9] Demon Slayer's Success Continues to Be a Problem for the Anime Industry
+[11] Demon Slayer's Success Continues to Be a Problem for the Anime Industry
 Source: ComicBook.com | Status: expanded | Words: 953
 Published: 2026-11-20T21:34:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayers-success-continues-to-be-a-problem-for-the-anime-industry
@@ -309,7 +363,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] The 25 Best Christmas Gifts for Every Kind of Boyfriend, Whether He's a Situationship or Soulmate
+[12] The 25 Best Christmas Gifts for Every Kind of Boyfriend, Whether He's a Situationship or Soulmate
 Source: The Hollywood Reporter | Status: expanded | Words: 305
 Published: 2026-11-20T21:31:58+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-boyfriend-2026-holiday-presents-1236756642
@@ -335,7 +389,7 @@ While there are more powerful options, this is an affordable, entry-level pick t
 Related: 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys
 
 ============================================================
-[11] How the Censored Version of GTA 6 Compares to the Standard Version
+[13] How the Censored Version of GTA 6 Compares to the Standard Version
 Source: ComicBook.com | Status: expanded | Words: 485
 Published: 2026-11-20T21:26:32+00:00
 URL: https://comicbook.com/gaming/news/how-the-censored-version-of-gta-6-compares-to-the-standard-version
@@ -365,7 +419,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] I Didn’t Expect The X Files And David Duchovny To Be A Key Part Of JLo’s Famous Green Dress Story
+[14] I Didn’t Expect The X Files And David Duchovny To Be A Key Part Of JLo’s Famous Green Dress Story
 Source: CinemaBlend | Status: expanded | Words: 288
 Published: 2026-11-20T21:19:13+00:00
 URL: https://www.cinemablend.com/television/the-x-files-david-duchovny-key-part-jlo-famous-green-dress-story
@@ -385,7 +439,7 @@ I can imagine Duchovny feeling perhaps like the heavily covered lawsuit might be
 It sounds like the room absolutely lost it when JLo hit the stage with Duchovny, and his line complimented it all like a cherry on top. Even though the moment happened over twenty-five years ago, it has remained relevant over the years with a number of pop culture moments. The most recent one has to be when Mika Abdalla wore the dress during a scene in Off Campus . (The show’s costume designer shouted out how the dress stayed on if you’re as curious as I was).
 
 ============================================================
-[13] Zelda: Ocarina of Time Is Getting the Remake Treatment, and Its Original N64 Release Is a Surprising Steal
+[15] Zelda: Ocarina of Time Is Getting the Remake Treatment, and Its Original N64 Release Is a Surprising Steal
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-20T21:12:00+00:00
 URL: https://comicbook.com/collectibles/news/zelda-ocarina-of-time-is-getting-the-remake-treatment-and-its-original-n64-release-is-a-surprising-steal
@@ -405,7 +459,7 @@ With only three days left for bidding to end (at the time of writing), it looks 
 Hey listen! Which is your favorite game from The Legend of Zelda series? Let us know in the comments!
 
 ============================================================
-[14] Tallinn Black Nights Fest Awards: ‘On Top of the Cliff’ Scores Grand Prix, ’When She Hears the Bells’ Bags Best First Feature
+[16] Tallinn Black Nights Fest Awards: ‘On Top of the Cliff’ Scores Grand Prix, ’When She Hears the Bells’ Bags Best First Feature
 Source: Variety | Status: expanded | Words: 1769
 Published: 2026-11-20T21:10:09+00:00
 URL: https://variety.com/2026/film/global/tallinn-black-nights-fest-awards-on-top-of-the-cliff-1236954570
@@ -481,7 +535,7 @@ Industry awards Works in progress: Best international project award worth &#x20A
 Co-Production Market Eurimages Co-Production Development Award -Best Project to Wild Love (Lithuania, Estonia, Latvia) by Jonas Trukanas. Produced by Afterschool Eurimages Special Co-Production Development Award to My 19-Year-Old Granny (Ukraine, Lithuania, Czechia). Directed by Victoria Zadorska, produced by Olena Yershova. Producers Network Prize to the promising producers Greta Akcijonaite (Magic Film, Lithuania), and Martina Sakov&#xE1; (What if Films, Slovakia) Pluto Consultancy Award to At Your Service (Iceland, Estonia) directed by Magnus J&#xF3;nsson for Projects, Munchenhausen Films Apostlab Scholarship to &#x201C;Wild Love&#x201D;
 
 ============================================================
-[15] 'I Play Rocky' Fact vs Fiction: Butkus the Dog, Bloody Knuckles and Stallone's Fight to Get 'Rocky' Made
+[17] 'I Play Rocky' Fact vs Fiction: Butkus the Dog, Bloody Knuckles and Stallone's Fight to Get 'Rocky' Made
 Source: Variety | Status: expanded | Words: 1838
 Published: 2026-11-20T21:10:00+00:00
 URL: https://variety.com/2026/film/news/i-play-rocky-fact-vs-fiction-butkus-dog-stallone-fee-1236952451
@@ -553,7 +607,7 @@ Sylvester Stallone had a difficult relationship with both his absentee mother an
 Not so much, Stallone recounts in his book &#x201C;The Steps: A Memoir.&#x201D; As he tells it, when he showed up on set to shoot a scene, Frank Sr. was already there waiting for him and insisted on being given a part. There was just one problem, Stallone says in his memoir: The part had already been cast. &#x201C;There was no reasoning with him, so with apologies, I let go of the timekeeper,&#x201D; he recalled. When it came time to shoot, Frank Jr. repeatedly missed his cue and didn't ring the bell, and the result was a &#x201C;big Italian drama&#x201D; of a fight, Stallone said .
 
 ============================================================
-[16] Searchlight Pictures Casting Head Yesi Ramirez Leaving Division Amid Restructuring
+[18] Searchlight Pictures Casting Head Yesi Ramirez Leaving Division Amid Restructuring
 Source: The Hollywood Reporter | Status: expanded | Words: 363
 Published: 2026-11-20T21:07:21+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/searchlight-pictures-casting-head-leaving-restructuring-1236760157
@@ -577,7 +631,7 @@ Prior to Disney purchasing 20th Century Fox, Ramirez led casting for three diffe
 Across her 20-year career in casting, Ramirez has worked on projects as varied as Blood Diamond, 21 Jump Street and Magic Mike XXL . She notably cast Barry Jenkins&#x2019; Oscar winner Moonlight , which earned her a 2017 Artios Award from Casting Society.
 
 ============================================================
-[17] Avengers: Doomsday Just Got Confusing After Marvel Confirms X-Men Deleted Scene Is Canon
+[19] Avengers: Doomsday Just Got Confusing After Marvel Confirms X-Men Deleted Scene Is Canon
 Source: ComicBook.com | Status: expanded | Words: 599
 Published: 2026-11-20T21:05:53+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-just-got-confusing-after-marvel-confirms-x-men-deleted-scene-is-canon
@@ -603,7 +657,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Atlus Comments on Persona 7 Ahead of Persona 6
+[20] Atlus Comments on Persona 7 Ahead of Persona 6
 Source: ComicBook.com | Status: expanded | Words: 905
 Published: 2026-11-20T21:04:26+00:00
 URL: https://comicbook.com/gaming/news/atlus-comments-on-persona-7-ahead-of-persona-6
@@ -635,7 +689,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Catholic Girls' School Thriller 'On Top of the Cliff' Wins Top Tallinn Black Nights Film Festival Award
+[21] Catholic Girls' School Thriller 'On Top of the Cliff' Wins Top Tallinn Black Nights Film Festival Award
 Source: The Hollywood Reporter | Status: expanded | Words: 1099
 Published: 2026-11-20T21:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/tallinn-black-nights-film-festival-2026-awards-winners-poff-1236759928
@@ -675,7 +729,7 @@ Check out the full Tallinn 2026 winners list below.
 OFFICIAL SELECTION COMPETITION Grand Prix for the Best Film On Top of the Cliff , director Enrica Perez, producers Enid Campos, Martha Orozco, Jo&#xEB;l Jent (Mexico, Peru, Switzerland) Best Director Fred Baillif, A Job Well Done (Switzerland) Best Cinematography Owen McPolin, One Sweet Hour (Ireland) Best Script Alison Kuhn, The Matriarch (Germany) Best Actor Mathisse De Sutter, The Assignment (Belgium, Germany, Netherlands) Best Actress Bianca Bucelli, On Top of the Cliff (Mexico, Peru, Switzerland) Special Mention the ensemble cast of A Job Well Done Best Original Score Beatriz L&#xF3;pez-Nogales, Caballe (Spain, Belgium) Best Production Design Vanesa de la Haza, Caballe (Spain, Belgium) FIRST FEATURE COMPETITION Best Film Award When She Hears the Bells (France, Germany, Belgium), director Chabname Zariab, producers Jean-Etienne Brat, Lou Chicoteau. Best Director Nagieb Khaja, Lionheart (Denmark) Jury Special Award Exotic (Poland), directed by Sonia Orlewicz-Zakrzewsa and produced by Magdalena Sztorc, Anna Zajaczkowska Jury Special Award: Oblivion , directed by Danielius Minkevi&#x10D;ius and produced by Ieva Norviliene. (Lithuania) CRITICS' PICKS COMPETITION Best Film Award One Month , directed and produced by Maya Vitkova-Kosev (Bulgaria, Romania, Spain) Best Director Mat&#xED;as Meyer, The Great Family ( Mexico, Italy) REBELS WITH THE CAUSE COMPETITION Special mention Arrow for A Stone Heart, director Luiza Calagian (Brazil) Best Film Award Pop Pop, director Dylan Stephen Levers and producers W. Ian Ross, Dylan Stephen Levers, Consuelo Althouse (USA) Best Director Christopher Yates, Night Vision ( Belgium) Best Rebel Short If Only, dir. Ada G&#xFC;venir (Belgium) BALTIC FILM COMPETITION Best Baltic Feature Film How to Divorce During the War , director Andrius Bla&#x17E;evi&#x10D;ius, producer Marija Razgut&#x117; (Lithuania, Luxembourg, Ireland, Czech Republic) Best Director Linda Olte, The Child (Latvia, Lithuania) Best Baltic Producer for Co-production Stasys Baltakis, Helena Pokorny, Vesna (France, Lithuania, Estonia) DOC@P&#xD6;FF INTERNATIONAL COMPETITION Best Film The War We Carry , director Kaspar Astrup Schr&#xF6;der (Denmark) Best Cinematography Loup Bureau, Child of Sinai (Egypt, France) Special Award Father's House , director Adam Nielsen, Andreas Koefoed, Eva Mulvad (Denmark) DOC@P&#xD6;FF BALTIC COMPETITION Best Film La Piet&#xE0; , directors Pepe Andreu and Rafa Mol&#xE9;s (Iceland, Lithuania, Spain) Special Award Riga, My Love , director Karolina Peterson NETPAC (Network for the Promotion of Asia Cinema) JURY PRIZE White as Salt , director Murat Ero&#x11F;lu (T&#xFC;rkiye) INTERNATIONAL FEDERATION OF FILM CRITICS (FIPRESCI) AWARD Princess , director Christian Rojas (Ecuador, Mexico, Argentina, Peru, Bolivia) AUDIENCE AWARD The Incomer , director Louis Paxton (United Kingdom, Ireland) FREE WORLD AWARD No Paradise If You Are Killed by a Woman , director Halkawt Mustafa (Norway, Iraq, United Arab Emirates, Sweden) LIFETIME ACHIEVEMENT AWARDS Priit P&#xE4;rn Sven Gr&#xFC;nberg Hilmar Oddsson BRUNO O'YA YOUNG ACTOR SCHOLARSHIP Jarmo Reha
 
 ============================================================
-[20] ‘Artificial’ Writer Simon Rich Boards Oscar-Qualified Sci-Fi Short ‘Houston, We Have a Crush’ as Executive Producer (EXCLUSIVE)
+[22] ‘Artificial’ Writer Simon Rich Boards Oscar-Qualified Sci-Fi Short ‘Houston, We Have a Crush’ as Executive Producer (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 551
 Published: 2026-11-20T20:59:21+00:00
 URL: https://variety.com/2026/film/columns/artificial-simon-rich-short-houston-we-have-a-crush-producer-new-yorker-1236954543
@@ -705,7 +759,7 @@ Ben-Shachar previously directed &#x201C;Tree #3,&#x201D; which won a Student Aca
 The short is currently being developed as a feature film.
 
 ============================================================
-[21] ‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation
+[23] ‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-20T20:57:38+00:00
 URL: https://theplaylist.net/longlegs-sterling-k-brown-nicolas-cage-osgood-perkins-20261120
@@ -717,7 +771,7 @@ CONTENT / EXTRACTED DETAILS:
 Sterling K. Brown may be heading into the unsettling world of “ Longlegs .” According to Deadline, the “ Paradise ” star is negotiating to join Nicolas Cage in Paramount’s upcoming follow-up to the 2024 horror hit, with Osgood Perkins returning to write and direct. Brown’s role remains a mystery, as does the story itself. Cage will reprise his grotesque serial killer, although the new film won’t be a straightforward sequel. Continue reading ‘Longlegs’: Sterling K. Brown In Talks To Join Nicolas Cage In Osgood Perkins’ New Horror Film Continuation at The Playlist.
 
 ============================================================
-[22] I Didn't Think It Would Take A Doc To Get Amanda Seyfried On SNL, But I Love Her 'Sweet' Response
+[24] I Didn't Think It Would Take A Doc To Get Amanda Seyfried On SNL, But I Love Her 'Sweet' Response
 Source: CinemaBlend | Status: expanded | Words: 296
 Published: 2026-11-20T20:56:32+00:00
 URL: https://www.cinemablend.com/television/shocked-took-documentary-amanda-seyfried-snl-sweet-response-cake-you-can-see-everything
@@ -737,7 +791,7 @@ Getting a cake on your birthday is kind of fun, but cake actually has a special 
 I’m genuinely excited for Amanda Seyfried to expand her abilities and to give the late night series a whirl. It's a special rite of passage for a lot of Hollywood, and hey, if she's good, maybe one day she'll even enter the coveted Five Timers Club ! Regardless, if you told me all this would have happened because of a literal documentary, I'm not sure I would have believed you.
 
 ============================================================
-[23] Sterling K. Brown in Talks to Star in New 'Longlegs' Movie with Nicolas Cage
+[25] Sterling K. Brown in Talks to Star in New 'Longlegs' Movie with Nicolas Cage
 Source: Variety | Status: expanded | Words: 393
 Published: 2026-11-20T20:54:54+00:00
 URL: https://variety.com/2026/film/news/sterling-k-brown-new-longlegs-movie-nicolas-cage-1236954539
@@ -761,7 +815,7 @@ Academy Award nominee Brown, known for roles in films like "Black Panther," "Wav
 Brown is represented by CAA, JWM Entertainment Group, Jill Fritzo PR and Johnson Shapiro Slewett & Kole
 
 ============================================================
-[24] 'Narnia' White Witches Tilda Swinton and Emma Mackey Excited to Meet for the First Time at Marrakech Film Festival: 'My Absolute Dream'
+[26] 'Narnia' White Witches Tilda Swinton and Emma Mackey Excited to Meet for the First Time at Marrakech Film Festival: 'My Absolute Dream'
 Source: Variety | Status: expanded | Words: 412
 Published: 2026-11-20T20:51:58+00:00
 URL: https://variety.com/2026/film/festivals/narnia-white-witches-tilda-swinton-emma-mackey-meet-marrakech-fest-1236954244
@@ -789,7 +843,7 @@ This year's edition of Marrakech Film Festival is presided over by Marion Cotill
 The Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[25] Rockstar Games Boss Fires Back at Questions About GTA 7
+[27] Rockstar Games Boss Fires Back at Questions About GTA 7
 Source: ComicBook.com | Status: expanded | Words: 572
 Published: 2026-11-20T20:51:09+00:00
 URL: https://comicbook.com/gaming/news/gta-7-grand-theft-auto-vii-rockstar-games-boss-response
@@ -817,7 +871,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Jill Scott, Grammy Award-Winning Singer &#038; Actress, Signs With Independent Artist Group
+[28] Jill Scott, Grammy Award-Winning Singer &#038; Actress, Signs With Independent Artist Group
 Source: Deadline | Status: expanded | Words: 336
 Published: 2026-11-20T20:46:24+00:00
 URL: https://deadline.com/2026/11/jill-scott-independent-artist-group-agency-1237230457
@@ -839,7 +893,7 @@ In 2026, Scott was inducted into Billboard&#x2019;s R&B Hall of Fame in recognit
 Scott is represented by her business partner Shawn Gee and lawyer Stephen Barnes.
 
 ============================================================
-[27] Hunger Games Star Confirms His DC Superhero Role Isn't Just for HBO's New Cartoon
+[29] Hunger Games Star Confirms His DC Superhero Role Isn't Just for HBO's New Cartoon
 Source: ComicBook.com | Status: expanded | Words: 671
 Published: 2026-11-20T20:43:53+00:00
 URL: https://comicbook.com/tv-shows/news/hunger-games-star-confirms-his-dc-superhero-role-isnt-just-for-hbos-new-cartoon
@@ -869,7 +923,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Creator Kennedy Eurich to Launch YouTube Series (Exclusive)
+[30] Creator Kennedy Eurich to Launch YouTube Series (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 231
 Published: 2026-11-20T20:42:27+00:00
 URL: https://www.hollywoodreporter.com/business/digital/creator-kennedy-eurich-youtube-series-1236760125
@@ -891,7 +945,7 @@ The creator will allocate a portion of the show's revenue to animal welfare init
 Eurich is represented by CAA, OS Talent and Brecheen Feldman Breimer Silver and Thompson.
 
 ============================================================
-[29] Steven Paul Talks Up Federal Film &#038; TV Tax Credit: "It's Going To Be Good For The World" - Industry Days Doha
+[31] Steven Paul Talks Up Federal Film &#038; TV Tax Credit: "It's Going To Be Good For The World" - Industry Days Doha
 Source: Deadline | Status: expanded | Words: 627
 Published: 2026-11-20T20:30:23+00:00
 URL: https://deadline.com/2026/11/steven-paul-federal-film-tv-tax-credit-good-world-1237230531
@@ -925,7 +979,7 @@ Set in 1948, the film follows ambitious, 35-year-old Congressman Richard Nixon a
 &#x201C;So there's just films that need to be done there&#x2026; and I think with these with these tax credits, it'll be comparable," he said.
 
 ============================================================
-[30] Bruce Greenwood, Johnny Knoxville And Dylan Hawco Join 'Fake Skating' Adaptation At Sony
+[32] Bruce Greenwood, Johnny Knoxville And Dylan Hawco Join 'Fake Skating' Adaptation At Sony
 Source: Deadline | Status: expanded | Words: 449
 Published: 2026-11-20T20:30:00+00:00
 URL: https://deadline.com/2026/11/bruce-greenwood-johnny-knoxville-fake-skating-1237230348
@@ -949,7 +1003,7 @@ Knoxville can recently be seen in I Want Your Sex, Tiny Fugitives, and as the ho
 Hawco will next be seen starring in Sarah Polley&#x2019;s film adaptation of The Bell Jar. His recent credits include Youngblood and Eli Roth&#x2019;s horror film Ice Cream Man. He is repped by GGA, Gersh, and Circle Management + Production.
 
 ============================================================
-[31] "The Secrecy Was Insane:" The Making of 'The Hunger Games: Sunrise on the Reaping,' From Locked Safes to Original Cast's Return
+[33] "The Secrecy Was Insane:" The Making of 'The Hunger Games: Sunrise on the Reaping,' From Locked Safes to Original Cast's Return
 Source: The Hollywood Reporter | Status: expanded | Words: 4915
 Published: 2026-11-20T20:29:51+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/sunrise-on-the-reaping-making-hunger-games-prequel-1236746299
@@ -1121,7 +1175,7 @@ As for future stories, Lawrence and Jacobson are hopeful but note only Collins w
 The Hunger Games: Sunrise on the Reaping is now in theaters.
 
 ============================================================
-[32] 5 2010s Anime Classics That Still Hit Today
+[34] 5 2010s Anime Classics That Still Hit Today
 Source: ComicBook.com | Status: expanded | Words: 1077
 Published: 2026-11-20T20:22:00+00:00
 URL: https://comicbook.com/anime/list/5-2010s-anime-classics-that-still-hit-today
@@ -1161,7 +1215,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Emmy Rossum on Producing and Starring in 'Furious': "I Have Been 'Matrix'-Style Dodging Mega-Predators Since I Was Seven"
+[35] Emmy Rossum on Producing and Starring in 'Furious': "I Have Been 'Matrix'-Style Dodging Mega-Predators Since I Was Seven"
 Source: The Hollywood Reporter | Status: expanded | Words: 910
 Published: 2026-11-20T20:21:30+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/emmy-rossum-furious-awards-chatter-newport-beach-1236746071
@@ -1189,7 +1243,7 @@ The first season of Furious , which rolled out in July and August, was described
 In the meantime, though, she's headed back to work: a second season of Furious was ordered just before its season one finale aired , and it starts shooting in January. She can't wait &#x2014;&#xA0;but she also wants the industry to know that she's not only interested in acting in stuff that she also produces: "I'm still in the incoming-call business, so please hire me! I want great roles."
 
 ============================================================
-[34] Laura Poitras Turns Lens on ICE's 'Paramilitary Occupation' of Minneapolis in 'They’re Here'
+[36] Laura Poitras Turns Lens on ICE's 'Paramilitary Occupation' of Minneapolis in 'They’re Here'
 Source: Variety | Status: expanded | Words: 1139
 Published: 2026-11-20T20:21:03+00:00
 URL: https://variety.com/2026/film/global/laura-poitras-theyre-here-ice-1236954019
@@ -1231,7 +1285,7 @@ Poitras believes the film is going to be &#x201C;taught in every film school bec
 &#x201C;I think it&#x2019;s a lock for a Best Picture nomination, and it deserves it,&#x201D; she concludes.
 
 ============================================================
-[35] ‘Once Upon a Time in Harlem’ Duo Praise Neon’s Strategy to Reach Young Audiences
+[37] ‘Once Upon a Time in Harlem’ Duo Praise Neon’s Strategy to Reach Young Audiences
 Source: Variety | Status: expanded | Words: 1044
 Published: 2026-11-20T20:20:21+00:00
 URL: https://variety.com/2026/film/global/once-upon-a-time-in-harlem-neon-young-audiences-idfa-1236954016
@@ -1271,7 +1325,7 @@ The producer notes how she and her father see the film as a &#x201C;collaboratio
 &#x201C;It feels very natural to hear his voice and to see his handwriting,&#x201D; adds David, with Liani mentioning how she feels her grandfather is &#x201C;in the cipher.&#x201D; &#x201C;It feels very much like this was the technology that would be useful in order to have his words be used in the film. It was the choice that we made, that we spent a lot of time on. Again, it&#x2019;s less than 90 seconds. We thought a lot about it, and I feel like we made the absolute best choice for this film.&#x201D;
 
 ============================================================
-[36] 'Home Alone' Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg
+[38] 'Home Alone' Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg
 Source: The Hollywood Reporter | Status: expanded | Words: 435
 Published: 2026-11-20T20:15:48+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116
@@ -1295,7 +1349,7 @@ The original Home Alone , written by John Hughes, starred a nine-year-old Culkin
 The franchise continued without Culkin in other installments. Mike Weinberg took over the role of Kevin in the 2002 made-for-TV movie Home Alone 4 , while 2012's Home Alone: The Holiday Heist followed a new protagonist, Finn Baxter, played by Christian Martyn. Disney most recently attempted to revive the franchise with 2021's Home Sweet Home Alone , starring Archie Yates.
 
 ============================================================
-[37] 'GTA VI' Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B
+[39] 'GTA VI' Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B
 Source: Deadline | Status: expanded | Words: 297
 Published: 2026-11-20T20:09:00+00:00
 URL: https://deadline.com/2026/11/gta6-first-day-sales-3-79-billion-1237230465
@@ -1315,7 +1369,7 @@ By a wide wide margin, like a Vice City car chase, that makes GTV VI the most su
 &#x201C;It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand Theft Auto VI ,&#x201D; said Rockstar prez and founder Sam Houser said Friday. &#x201C;We are incredibly humbled by the response from players around the world and we couldn&#x2019;t be more excited to share this moment with you.&#x201D;
 
 ============================================================
-[38] Trump Suggests Theaters Could Be Added to Federal Film Credit Bill
+[40] Trump Suggests Theaters Could Be Added to Federal Film Credit Bill
 Source: Variety | Status: expanded | Words: 511
 Published: 2026-11-20T20:08:13+00:00
 URL: https://variety.com/2026/politics/news/trump-theaters-film-credit-bill-1236954402
@@ -1351,7 +1405,7 @@ Trump said that the entertainment industry will be "thriving" if the bill is pas
 "Everybody would come back," he said, adding that several states also support the industry. "New Jersey did a good job. A couple of them have done good, but it doesn't matter if they don't have the federal government."
 
 ============================================================
-[39] Jennifer Lawrence Teases Miss Piggy Movie Update: "I Always Get In Trouble For Saying Stuff"
+[41] Jennifer Lawrence Teases Miss Piggy Movie Update: "I Always Get In Trouble For Saying Stuff"
 Source: Deadline | Status: expanded | Words: 422
 Published: 2026-11-20T20:05:12+00:00
 URL: https://deadline.com/2026/11/jennifer-lawrence-miss-piggy-movie-update-1237230448
@@ -1379,7 +1433,7 @@ Noting "there hasn't actually been" a solo project about Miss Piggy, Lawrence ad
 Starting as a chorus pig on The Muppet Show in the mid-1970s, Miss Piggy gradually became a bigger part of the series, before becoming an icon in the late '70s and early '80s. Despite Kermit being the star, she's long hogged the spotlight from her froggy beau.
 
 ============================================================
-[40] Channing Tatum's Josephine Is Not An Easy Watch, But Here's Why I Think It's A Must-See Film
+[42] Channing Tatum's Josephine Is Not An Easy Watch, But Here's Why I Think It's A Must-See Film
 Source: CinemaBlend | Status: expanded | Words: 198
 Published: 2026-11-20T20:05:00+00:00
 URL: https://www.cinemablend.com/movies/channing-tatum-josephine-not-easy-watch-why-must-see-film
@@ -1397,7 +1451,7 @@ Many films touch upon difficult subjects. However, not many of them create an at
 Many of the best courtroom dramas often end with a sense of justice being served. Whether Josephine ends with a positive result or a negative result, it doesn’t matter. It ends with a sense that nothing is completely resolved. That feels more realistic than movies with an impressive lawyer who saves the day.
 
 ============================================================
-[41] Jasmin Savoy Brown Bids Farewell to 'Yellowjackets' and Finds Her Way to 'Hadestown'
+[43] Jasmin Savoy Brown Bids Farewell to 'Yellowjackets' and Finds Her Way to 'Hadestown'
 Source: The Hollywood Reporter | Status: expanded | Words: 1747
 Published: 2026-11-20T20:04:32+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/jasmin-savoy-brown-yellowjackets-ending0hadestown-interview-1236759992
@@ -1477,7 +1531,7 @@ No, and I don't know if I could. I love her a lot. I would try to be so cool. It
 The Yellowjackets season four premiere is now streaming on Paramount+.
 
 ============================================================
-[42] 'Oobah: Scams for a Better Tomorrow' Review: Oobah Butler Exposes Modern Life's Many Frauds in Nathan Fielder-esque HBO Comedy Doc
+[44] 'Oobah: Scams for a Better Tomorrow' Review: Oobah Butler Exposes Modern Life's Many Frauds in Nathan Fielder-esque HBO Comedy Doc
 Source: The Hollywood Reporter | Status: expanded | Words: 1505
 Published: 2026-11-20T20:04:04+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/oobah-scams-for-a-better-tomorrow-review-hbo-1236759621
@@ -1525,7 +1579,7 @@ The "Dating Apps" episode might be the exception; it's the one that requires the
 Scams for a Better Tomorrow is also a show that will probably work better when watched on a weekly basis than as a 2.5 hour binge, since the point is identical each time: Modern life is rigged and over-designed so that you don't notice how rigged it is. Kudos to Butler for making the point as clearly and as repeatedly as he does, but I kept waiting for more insight beyond that, more awareness of the cultural toll of living in a contrived world. Scams for a Better Tomorrow is content to prove its point, installment by installment, leaving any deeper critique to other series or other investigators.
 
 ============================================================
-[43] 'Serendipity': Madelyn Cline To Star In New Take On 2001 Rom-Com From Amazon MGM &#038; Miramax
+[45] 'Serendipity': Madelyn Cline To Star In New Take On 2001 Rom-Com From Amazon MGM &#038; Miramax
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-20T20:03:54+00:00
 URL: https://theplaylist.net/serendipity-madelyn-cline-amazon-mgm-rom-com-20261120
@@ -1537,7 +1591,7 @@ CONTENT / EXTRACTED DETAILS:
 What's next for Madelyn Cline now that " Outer Banks " has finished its run on Netflix ? Variety reports that the actress has lined up another major film role after " The Comeback King " and " The Day Drinker ," both due in theaters earlier next year, except this one isn't a comedy or a thriller. Instead, it's an update of the 2001 rom-com " Serendipity ," with Michael Showalter on board to direct. Continue reading 'Serendipity': Madelyn Cline To Star In New Take On 2001 Rom-Com From Amazon MGM & Miramax at The Playlist.
 
 ============================================================
-[44] 'Upgraded 2' Film Casts Tanner Zagarino, Christopher McDonald, Andrea Arcangeli &#038; Alessandro Preziosi
+[46] 'Upgraded 2' Film Casts Tanner Zagarino, Christopher McDonald, Andrea Arcangeli &#038; Alessandro Preziosi
 Source: Deadline | Status: expanded | Words: 611
 Published: 2026-11-20T20:00:00+00:00
 URL: https://deadline.com/2026/11/upgraded-2-cast-tanner-zagarino-christopher-mcdonald-1237230367
@@ -1565,7 +1619,7 @@ Arcangeli's credits include&#xA0; Trust , directed by Danny Boyle,&#xA0; The Fir
 Preziosi's credits include Aeschylus's Oresteia trilogy ( Coefore , Agamemnon ), King Lear , and Hamlet , and directing and starring, among other productions, in Cyrano de Bergerac and Van Gogh: The Deafening Smell of White . TV credits include a lead role in Elisa di Rivombrosa , Saint Augustine , Edda Ciano and the Communist , the Medici saga, and Sandokan .
 
 ============================================================
-[45] SXSW, Deadline &#038; The Improv Launching New Comedy Competition Circuit Breakers For 2027
+[47] SXSW, Deadline &#038; The Improv Launching New Comedy Competition Circuit Breakers For 2027
 Source: Deadline | Status: expanded | Words: 390
 Published: 2026-11-20T20:00:00+00:00
 URL: https://deadline.com/2026/11/circuit-breakers-competition-sxsw-deadline-the-improv-1237230243
@@ -1585,7 +1639,7 @@ Submissions to the inaugural Circuit Breakers program can be submitted here . Co
 Submissions are due by December 11.
 
 ============================================================
-[46] Paramount Eyeing Sterling K. Brown To Star in New 'Longlegs' Movie Opposite Nicolas Cage
+[48] Paramount Eyeing Sterling K. Brown To Star in New 'Longlegs' Movie Opposite Nicolas Cage
 Source: Deadline | Status: expanded | Words: 504
 Published: 2026-11-20T20:00:00+00:00
 URL: https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255
@@ -1611,7 +1665,7 @@ He recently starred in Amazon/MGM&#x2019;s film Is God Is and stars in Roadside 
 Brown is represented by CAA, JWM Entertainment Group and Johnson Shapiro Johnson Shapiro Slewett & Kole.
 
 ============================================================
-[47] 'GTA VI' Generates $3.79 Billion in "Day One" Sales
+[49] 'GTA VI' Generates $3.79 Billion in "Day One" Sales
 Source: The Hollywood Reporter | Status: expanded | Words: 224
 Published: 2026-11-20T19:55:51+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/gta-vi-day-one-sales-1236760139
@@ -1631,7 +1685,7 @@ It's a "new record for entertainment across any medium" and "the biggest enterta
 For the 10 of you who have not yet bought it, Grand Theft Auto VI is available at the PlayStation Store, Microsoft Store, Rockstar Games Store, and global retailers and storefronts. A PC launch will come at some point, as will GTA VI Online .
 
 ============================================================
-[48] ‘Bridgerton’ and ‘Mad Men’ Costumers on the 'Magic of Costume Design' and Why the 'Script Is Our Bible'
+[50] ‘Bridgerton’ and ‘Mad Men’ Costumers on the 'Magic of Costume Design' and Why the 'Script Is Our Bible'
 Source: Variety | Status: expanded | Words: 635
 Published: 2026-11-20T19:54:46+00:00
 URL: https://variety.com/2026/film/news/costume-designers-round-top-film-festival-1236952347
@@ -1671,42 +1725,4 @@ That aspect of the job — serving as a support system for actors — is one tha
 &#x201C;What&#x2019;s very important is that you gain the confidence of the actor in the fitting room," Glaser says. "You have to be there when that costume is first seen to give them that support and confidence.&#x201D;
 
 Bryant adds, &#x201C;When the actors come to see us, we're the first person that they see. A lot of times they're really scared and they don't want to be that vulnerable, so I think having that understanding and compassion is so important.&#x201D;
-
-============================================================
-[49] 'GTA 6' Music Breakdown: More Than 700 Songs and 90 Years of Music Across 20 Radio Stations
-Source: Variety | Status: expanded | Words: 261
-Published: 2026-11-20T19:54:20+00:00
-URL: https://variety.com/2026/gaming/news/gta-6-music-songs-artists-radio-stations-tracks-1236954390
-------------------------------------------------------------
-SUMMARY:
-You may never run out of music to listen to while playing "Grand Theft Auto VI." The latest game in the "GTA" series, which officially released on Thursday and has already taken the world by storm, has a truly massive list of songs — nearly 750 individual tracks have been spotted online by players. You […]
-
-CONTENT / EXTRACTED DETAILS:
-You may never run out of music to listen to while playing "Grand Theft Auto VI."
-
-The latest game in the "GTA" series, which officially released on Thursday and has already taken the world by storm, has a truly massive list of songs — nearly 750 individual tracks have been spotted online by players. You can check out the game's full credits here , but it would take hours to read over every contributor, from directors to writers, animators to artists, and actors to tattoo artists. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Griffin Dunne on Renewed Interest in 'Practical Magic' and 'An American Werewolf in London': 'I Seem to Be the King of Lapsed Love' Tony Award Winner Lois Smith Joins Colin West’s ‘Outside of Cleveland’: ‘She’s an Icon’ (EXCLUSIVE)
-
-There are 20 in-game radio stations that players can listen to while they're driving or even on foot with headphones or earbuds attached to Jason and Lucia's phones. There are even podcasts, talk shows, like a conservative Fox News parody, and a secret nightclub radio station that players can listen to. In total, there are songs from across nine decades of music featured in the game.
-
-The official "Grand Theft Auto VI: The Album" has also been released, with 34 tracks from artists like Travis Scott, Cardi B, Future, Dua Lipa, Morgan Wallen, Don Tolliver, Jennie, Zara Larsson and more.
-
-Several of the radio stations have celebrity hosts that DJ the songs. They include:
-
-============================================================
-[50] Selena Gomez’s Reaction To Martin Short Accidentally Cutting Her Wedding Cake Is As Funny As I’d Hoped
-Source: CinemaBlend | Status: expanded | Words: 230
-Published: 2026-11-20T19:51:36+00:00
-URL: https://www.cinemablend.com/streaming-news/selena-gomez-reaction-martin-short-accidentally-cutting-wedding-cake-funny
-------------------------------------------------------------
-SUMMARY:
-She couldn't have had a better reaction.
-
-CONTENT / EXTRACTED DETAILS:
-It's been well established that Selena Gomez , Martin Short and Steve Martin know how to get into hilarious trouble on Only Murders in the Building , which you can stream with a Hulu subscription . However, the members of the unexpected trio know how to do that in real life too. Need an example? Look no further than the time Martin Short accidentally cut Gomez's wedding cake , and her hilarious reaction to it.
-
-I do love that Short tried his hardest to cover it up, but I can’t say I blame him for cutting into the cake. He revealed that there were different sections at the reception with couches and groups of people, and he simply thought there was a cake in each section.
-
-Considering how close Gomez and Short have become over the years, I love that there were no hard feelings over the accidental cake cutting. It also further proves why they’re bestie goals . Even now, she laughed the entire time retelling the story, which Short says he is “blameless” in.
-
-The friendship between Short, Martin, and Gomez is definitely the best thing to come out of Only Murders in the Building . Of course, Short and Martin have long been friends, but I definitely feel like Gomez was the missing piece. Now, I hope there are many more funny stories like this to come.
 
