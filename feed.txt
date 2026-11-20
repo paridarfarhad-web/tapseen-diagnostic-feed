@@ -1,9 +1,35 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-20T04:03:25.421Z
+Last Updated: 2026-11-20T04:23:25.506Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Major Crunchyroll Anime Confirms Spring 2027 Return for Season 2 - Watch Trailer
+[1] Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO
+Source: The Hollywood Reporter | Status: expanded | Words: 452
+Published: 2026-11-20T04:22:43+00:00
+URL: https://www.hollywoodreporter.com/news/general-news/ashton-kutcher-billionaire-anthropic-ipo-1236759822
+------------------------------------------------------------
+SUMMARY:
+The actor and famed tech investor's venture capital firm, Sound Ventures holds a roughly 0.5 percent stake in the AI giant.
+
+CONTENT / EXTRACTED DETAILS:
+Ashton Kutcher is perhaps better known for his savvy tech investments than he is for his acting these days, and that reputation will only solidify after the blockbuster IPO of AI giant Anthropic this week.
+
+The venture capital firm Sound Ventures, which Kutcher co-founded with music talent manager Guy Oseary in 2015, was an early investor in Anthropic, and currently holds 0.5 percent of the company, according to a report in Bloomberg . Since it started investing in Anthropic in 2023, Sound Ventures has pumped $435 million into the company and on Thursday saw a more than 1,500 percent increase in its investment when Anthropic debuted with a market cap of more than $1.5 trillion. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Music Anthropic Sued for Using Elvis Presley Music to Train AI Models Movies Now It's Clear Why Amazon Didn't Want to Release 'Artificial': It's Withering AF
+
+According to Bloomberg , Sound Ventures' 0.5 percent in Anthropic is now worth somewhere in the region of $7 billion, though it is unclear how much the founders will each make from the IPO as the firm has partners and manages outside capital.
+
+Suffice to say, Kutcher will be entering the realms of the super rich very soon, if he hasn't already hit billionaire status, with some unverified reports suggesting his net worth was north of $500 million before the Anthropic's market debut.
+
+Outwardly, it might seem bizarre that the breakout star of nostalgia-bait sitcom That '70s Show , the stoner classic Dude, Where's My Car? , and artistically questionable films like Spread , My Boss's Daughter and Just Married has achieved such massive financial success, but a closer look at Kutcher's long history of investing reveals that the latest Anthropic windfall is just the latest in a long series of smart moves. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
+
+Through Sound Ventures, Kutcher held stakes in tech unicorns like Spotify, Uber, Bitcoin and Airbnb, and the firm was an investor in Hugging Face before it was acquired by Nvidia for $11.2 billion.
+
+Kutcher left Sound Ventures earlier this year to launch his own VC firm, though he remains involved as a senior adviser. A few months ago he launched Decimal Capital, a new tech-focused VC firm. Decimal was co-founded with Morgan Beller, a former partner at Andreessen Horowitz and also the man who previously co-led Meta's Libra crypto project.
+
+Despite his investment prowess, Kutcher is still acting and most recently starred in FX's buzzy Ryan Murphy-produced series The Beauty which debuted in January.
+
+============================================================
+[2] Major Crunchyroll Anime Confirms Spring 2027 Return for Season 2 - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 698
 Published: 2026-11-20T04:01:20+00:00
 URL: https://comicbook.com/anime/news/major-crunchyroll-anime-confirms-spring-2027-return-for-season-2-watch-trailer
@@ -31,7 +57,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] 3 Things We Need to See in Solo Leveling's New Movie
+[3] 3 Things We Need to See in Solo Leveling's New Movie
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-20T03:47:48+00:00
 URL: https://comicbook.com/anime/list/3-things-we-need-to-see-in-solo-levelings-new-movie
@@ -63,7 +89,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Jennifer Love Hewitt "Had Not Seen" Ryan Phillippe Since 'IKWYDLS' When Reuniting For '9-1-1' Crossover: "He Hadn't Changed At All"
+[4] Jennifer Love Hewitt "Had Not Seen" Ryan Phillippe Since 'IKWYDLS' When Reuniting For '9-1-1' Crossover: "He Hadn't Changed At All"
 Source: Deadline | Status: expanded | Words: 416
 Published: 2026-11-20T03:47:28+00:00
 URL: https://deadline.com/2026/11/jennifer-love-hewitt-ryan-phillippe-ikwydls-reunion-9-1-1-1237229879
@@ -89,7 +115,7 @@ Having "never seen each other again" after wrapping the film, Hewitt noted that 
 The upcoming 9-1-1 crossover with 9-1-1: Nashville comes amid the parent series' 10th season and the spinoff's sophomore season, airing back-to-back on Thursdays at 8/7c and 9/8c on ABC.
 
 ============================================================
-[4] Lanterns Star Aaron Pierre Addresses DCU Future After James Gunn's Firing, "I'm Very At Peace"
+[5] Lanterns Star Aaron Pierre Addresses DCU Future After James Gunn's Firing, "I'm Very At Peace"
 Source: ComicBook.com | Status: expanded | Words: 644
 Published: 2026-11-20T03:46:53+00:00
 URL: https://comicbook.com/tv-shows/news/lanterns-star-aaron-pierre-addresses-dcu-future-after-james-gunns-firing-im-very-at-peace
@@ -115,7 +141,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] The DCU’s New Leader Made Two Non-Marvel Movies That Are Actually Masterpieces
+[6] The DCU’s New Leader Made Two Non-Marvel Movies That Are Actually Masterpieces
 Source: ComicBook.com | Status: expanded | Words: 864
 Published: 2026-11-20T03:46:22+00:00
 URL: https://comicbook.com/movies/feature/the-dcus-new-leader-made-two-non-marvel-movies-that-are-actually-masterpieces
@@ -147,7 +173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] 'Hanuman Ansh,' 'Pyre' and Shah Rukh Khan Classics Lead International Film Festival of India's Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership
+[7] 'Hanuman Ansh,' 'Pyre' and Shah Rukh Khan Classics Lead International Film Festival of India's Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership
 Source: Variety | Status: expanded | Words: 446
 Published: 2026-11-20T03:30:00+00:00
 URL: https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961
@@ -173,7 +199,7 @@ Chaudhary added: "What makes this edition especially exciting is the range of au
 The Goa run caps a busy year for the company. PictureTime also supported the exhibition infrastructure at the Dharamshala International Film Festival and took "Pyre" to audiences in the Indian hinterland.
 
 ============================================================
-[7] 29 Years Later, Dragon Ball Ended Its Controversial 64-Episode Long Series That Fans Still Don't Appreciate
+[8] 29 Years Later, Dragon Ball Ended Its Controversial 64-Episode Long Series That Fans Still Don't Appreciate
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-20T03:29:43+00:00
 URL: https://comicbook.com/anime/feature/29-years-later-dragon-ball-ended-its-controversial-64-episode-long-series-that-fans-still-dont-appreciate
@@ -203,7 +229,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Did Anthony Mackie Spoil Avengers: Doomsday Cameo? Marvel Star Sets the Record Straight
+[9] Did Anthony Mackie Spoil Avengers: Doomsday Cameo? Marvel Star Sets the Record Straight
 Source: ComicBook.com | Status: expanded | Words: 738
 Published: 2026-11-20T03:27:40+00:00
 URL: https://comicbook.com/movies/news/did-anthony-mackie-spoil-avengers-doomsday-cameo-marvel-star-sets-the-record-straight
@@ -231,7 +257,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Everything Coming to Hulu in December 2026
+[10] Everything Coming to Hulu in December 2026
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-20T03:26:17+00:00
 URL: https://comicbook.com/movies/news/everything-coming-to-hulu-in-december-2026
@@ -321,7 +347,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Is Billy Maximoff in Avengers: Doomsday? Marvel Star Responds After VisionQuest Tease
+[11] Is Billy Maximoff in Avengers: Doomsday? Marvel Star Responds After VisionQuest Tease
 Source: ComicBook.com | Status: expanded | Words: 570
 Published: 2026-11-20T03:25:13+00:00
 URL: https://comicbook.com/movies/news/is-billy-maximoff-in-avengers-doomsday-marvel-star-responds-after-visionquest-tease
@@ -347,7 +373,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] The Batman's Most Clever Twist Fooled Even Comic Book Readers &#038; It Could Set Up the Sequel
+[12] The Batman's Most Clever Twist Fooled Even Comic Book Readers &#038; It Could Set Up the Sequel
 Source: ComicBook.com | Status: expanded | Words: 826
 Published: 2026-11-20T03:20:00+00:00
 URL: https://comicbook.com/movies/feature/the-batmans-most-clever-twist-fooled-even-comic-book-readers-it-could-set-up-the-sequel
@@ -377,7 +403,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Netflix Renews Japanese Crime Hit ‘Tokyo Swindlers’ for Season 2
+[13] Netflix Renews Japanese Crime Hit ‘Tokyo Swindlers’ for Season 2
 Source: The Hollywood Reporter | Status: expanded | Words: 459
 Published: 2026-11-20T03:05:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/netflix-japanese-tokyo-swindlers-season-2-1236759815
@@ -405,7 +431,7 @@ Toyokawa offered a humorously ominous assessment of his task of stepping back in
 &#x201C;I have been reunited with a terrifying man,&#x201D; he said. &#x201C;He destroys my conscience, my sense of social decency, my love for my family. He destroys my life, my very humanity. I pray filming wraps before he consumes me. Imagine it: Harrison Yamanaka is always there in the mirror.&#x201D;
 
 ============================================================
-[13] 'Much Ado About Nothing' Broadway Review: Tom Hiddleston, Hayley Atwell &#038; Jamie Lloyd Throw An Irresistible Party Of Shakespeare's Great Comedy
+[14] 'Much Ado About Nothing' Broadway Review: Tom Hiddleston, Hayley Atwell &#038; Jamie Lloyd Throw An Irresistible Party Of Shakespeare's Great Comedy
 Source: Deadline | Status: expanded | Words: 1201
 Published: 2026-11-20T03:00:00+00:00
 URL: https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924
@@ -443,7 +469,7 @@ The grand appeal of this production is evident in just how much Hiddleston, Atwe
 Title: Much Ado About Nothing Venue: Broadway&#x2019;s Winter Garden Theatre Written By: Willliam Shakespeare Directed By: Jamie Lloyd Cast: Tom Hiddleston, Hayley Atwell, Mara Huf, Mika Onyx Johnson, Gerald Kyd, Forbes Masson, Phillip Olagoke, Mason Alexander Park, James Phoon, Tim Steed Running Time: 2 hr 20 min (including intermission)
 
 ============================================================
-[14] 'War' Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: 'Gwyneth Paltrow Ran So That the Rest of Us Could Walk'
+[15] 'War' Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: 'Gwyneth Paltrow Ran So That the Rest of Us Could Walk'
 Source: Variety | Status: expanded | Words: 1553
 Published: 2026-11-20T03:00:00+00:00
 URL: https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845
@@ -523,7 +549,7 @@ West: Yeah, I mean, I suppose I did have hesitations about it, but in practice, 
 This interview has been edited and condensed.
 
 ============================================================
-[15] 4 More Roles Robert Pattinson Would Be Perfect For, Including One That Would Drive Twilight Fans Wild
+[16] 4 More Roles Robert Pattinson Would Be Perfect For, Including One That Would Drive Twilight Fans Wild
 Source: ComicBook.com | Status: expanded | Words: 1053
 Published: 2026-11-20T02:58:19+00:00
 URL: https://comicbook.com/movies/list/4-more-roles-robert-pattinson-would-be-perfect-for-including-one-that-would-drive-twilight-fans-wild
@@ -563,7 +589,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] How to Play GTA 6 In 1st-Person Mode in 4 Simple Steps
+[17] How to Play GTA 6 In 1st-Person Mode in 4 Simple Steps
 Source: ComicBook.com | Status: expanded | Words: 530
 Published: 2026-11-20T02:56:49+00:00
 URL: https://comicbook.com/gaming/news/how-to-play-gta-6-in-1st-person-mode-in-4-simple-steps
@@ -593,7 +619,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] 'Can't Hardly Wait' Stars Campaign For Sequel To 1998 Teen Movie: "Would Be So Fun"
+[18] 'Can't Hardly Wait' Stars Campaign For Sequel To 1998 Teen Movie: "Would Be So Fun"
 Source: Deadline | Status: expanded | Words: 424
 Published: 2026-11-20T02:41:16+00:00
 URL: https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853
@@ -621,7 +647,7 @@ In Can't Hardly Wait , six high school seniors attend their grad night house par
 The star-studded ensemble also included Seth Green, Lauren Ambrose, Charlie Korsmo, Selma Blair, Jason Segel, Melissa Joan Hart, Jerry O'Connell, Donald Faison, Jaime Pressly, Clea DuVall, Leslie Grossman, Breckin Meyer, Sara Rue, Sean Patrick Thomas, Amber Benson, Marisol Nichols, Jennifer Elise Cox and more.
 
 ============================================================
-[18] This Forgotten Sci-Fi Movie Gave Us One of the Most Underrated Alien Invasions in Film History
+[19] This Forgotten Sci-Fi Movie Gave Us One of the Most Underrated Alien Invasions in Film History
 Source: ComicBook.com | Status: expanded | Words: 747
 Published: 2026-11-20T02:37:00+00:00
 URL: https://comicbook.com/movies/feature/this-forgotten-sci-fi-movie-gave-us-one-of-the-most-underrated-alien-invasions-in-film-history
@@ -649,7 +675,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Miss Delicious in Dungeon? This New 2027 Anime Could Be For You
+[20] Miss Delicious in Dungeon? This New 2027 Anime Could Be For You
 Source: ComicBook.com | Status: expanded | Words: 632
 Published: 2026-11-20T02:02:22+00:00
 URL: https://comicbook.com/anime/news/miss-delicious-in-dungeon-this-new-2027-anime-could-be-for-you
@@ -675,7 +701,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] 5 Overlooked DC Heroes With Powers That Could Change the DC Universe
+[21] 5 Overlooked DC Heroes With Powers That Could Change the DC Universe
 Source: ComicBook.com | Status: expanded | Words: 1343
 Published: 2026-11-20T01:54:00+00:00
 URL: https://comicbook.com/comics/list/5-overlooked-dc-heroes-with-powers-that-could-change-the-dc-universe
@@ -713,7 +739,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Billy Evans Will Secure His Cut of 'You Can See Everything' Profits After All — and Give It to Charity (Exclusive)
+[22] Billy Evans Will Secure His Cut of 'You Can See Everything' Profits After All — and Give It to Charity (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 657
 Published: 2026-11-20T01:52:13+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/billy-evans-profits-you-can-see-everything-ycse-charity-1236759761
@@ -735,7 +761,7 @@ Speaking to The Hollywood Reporter this week, Evans said he made that decision "
 Amanda Seyfried, who plays Holmes in the film's reconstructions, challenges Evans on camera and tells Fielder she wants to break up the couple. Fan boards, meanwhile, routinely debate his level of villainy.
 
 ============================================================
-[22] Jorrybell Agoto Dies: 'Filipiñana' Breakout Actress Was 32
+[23] Jorrybell Agoto Dies: 'Filipiñana' Breakout Actress Was 32
 Source: Deadline | Status: expanded | Words: 569
 Published: 2026-11-20T01:37:12+00:00
 URL: https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689
@@ -763,7 +789,7 @@ Kino Lorber, which is distributing Filipi&#xF1;ana in the U.S., also remembered 
 Filipi&#xF1;ana is being released in the UK and Ireland this weekend by BFI Distribution. Kino Lorber released the film in the U.S. in August and is currently organizing a series of screenings as part of its Oscar campaign.
 
 ============================================================
-[23] There Was A Lot Of Drama Around Survivor 51's Coin Flip That Wasn’t Aired
+[24] There Was A Lot Of Drama Around Survivor 51's Coin Flip That Wasn’t Aired
 Source: CinemaBlend | Status: expanded | Words: 214
 Published: 2026-11-20T01:31:00+00:00
 URL: https://www.cinemablend.com/television/there-was-a-lot-of-drama-around-survivor-51s-coin-flip-that-wasnt-aired
@@ -781,7 +807,7 @@ Lewis had to flip the coin twice, and the first time it landed on fire! Unfortun
 I went back and watched Survivor , and Jeff Probst said that the contestant who correctly called the coin flip won immunity, an idol, and the grand prize went up another million. The only rule was that it had to land on what he called. At no point was it said the coin had to land on the mat, which wasn't even used for the shot of Lewis' coin flip.
 
 ============================================================
-[24] Even After 9 Years, This is Still Goku's Best Kamehameha in Dragon Ball Super
+[25] Even After 9 Years, This is Still Goku's Best Kamehameha in Dragon Ball Super
 Source: ComicBook.com | Status: expanded | Words: 564
 Published: 2026-11-20T01:24:58+00:00
 URL: https://comicbook.com/anime/feature/even-after-9-years-this-is-still-gokus-best-kamehameha-in-dragon-ball-super
@@ -807,7 +833,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Grand Theft Auto 6 Just Broke 3 Massive Records in 24 Hours, Including One For the Whole Internet
+[26] Grand Theft Auto 6 Just Broke 3 Massive Records in 24 Hours, Including One For the Whole Internet
 Source: ComicBook.com | Status: expanded | Words: 280
 Published: 2026-11-20T01:16:44+00:00
 URL: https://comicbook.com/gaming/news/grand-theft-auto-6-just-broke-3-massive-records-in-24-hours-including-one-for-the-whole-internet
@@ -831,7 +857,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Patrick Stewart Cause Of Death Revealed
+[27] Patrick Stewart Cause Of Death Revealed
 Source: Deadline | Status: expanded | Words: 453
 Published: 2026-11-20T01:16:13+00:00
 URL: https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735
@@ -855,7 +881,7 @@ Stewart also was praised for his portrayal of Charles Xavier aka Professor X , a
 Stewart&#x2019;s many additional screen credits include Coda ; L.A. Story ; Green Room ; Blunt Talk ; Robin Hood: Men in Tights ; Conspiracy Theory; I, Claudius; Tinker Tailor Soldier Spy ; The Kid Who Would Be King; Match; The King of Texas; Jeffrey; Dune and Excalibur . Stewart also did voice work on The Simpsons, Seth MacFarlane&#x2019;s Family Guy and American Dad! as such films as The Prince of Egypt, Chicken Little and Jimmy Neutron: Boy Genius .
 
 ============================================================
-[27] 5 Battleworld Domains Marvel Needs in Avengers: Secret Wars, Including the MCU's Best What If Characters
+[28] 5 Battleworld Domains Marvel Needs in Avengers: Secret Wars, Including the MCU's Best What If Characters
 Source: ComicBook.com | Status: expanded | Words: 1108
 Published: 2026-11-20T01:14:00+00:00
 URL: https://comicbook.com/comics/list/5-battleworld-domains-marvel-needs-in-avengers-secret-wars-including-the-mcus-best-what-if-characters
@@ -895,7 +921,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Trump’s $15 Billion Defamation Suit Against The New York Times Moves Forward
+[29] Trump’s $15 Billion Defamation Suit Against The New York Times Moves Forward
 Source: The Hollywood Reporter | Status: expanded | Words: 427
 Published: 2026-11-20T01:10:52+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/trump-defamation-lawsuit-new-york-times-moves-forward-1236759764
@@ -927,7 +953,7 @@ The four Times journalists named in the lawsuit are investigative reporters Susa
 The lawsuit seeks at least $15 billion and brings claims for defamation. It was filed by Alejandro Brito, who&#x2019;s handled other media lawsuits for Trump.
 
 ============================================================
-[29] Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year
+[30] Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year
 Source: Variety | Status: expanded | Words: 346
 Published: 2026-11-20T01:04:34+00:00
 URL: https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811
@@ -953,7 +979,7 @@ The 2026 festival featured 34 feature competition films, with winners including 
 See key dates for 2027 festival submissions below.
 
 ============================================================
-[30] That Time Robert Pattinson’s The Odyssey Request Was Immediately Shot Down By Christopher Nolan
+[31] That Time Robert Pattinson’s The Odyssey Request Was Immediately Shot Down By Christopher Nolan
 Source: CinemaBlend | Status: expanded | Words: 316
 Published: 2026-11-20T01:01:00+00:00
 URL: https://www.cinemablend.com/movies/robert-pattinson-the-odyssey-request-immediately-shot-down-christopher-nolan-matt-damon-wigs
@@ -975,7 +1001,7 @@ Pattinson wasn’t the only actor on the set of The Odyssey that made a request 
 Same reaction! How funny. Damon really did grow a magnificent beard though, so it all worked out. And, honestly Pattinson’s forward-swept bangs fit perfectly, too. You can appreciate the lack of wigs on The Odyssey by purchasing it for home viewing now.
 
 ============================================================
-[31] How 'Hunger Games' Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for 'Sunrise on the Reaping'
+[32] How 'Hunger Games' Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for 'Sunrise on the Reaping'
 Source: Variety | Status: expanded | Words: 437
 Published: 2026-11-20T01:00:00+00:00
 URL: https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893
@@ -995,7 +1021,7 @@ There are several other hints to the original "Hunger Games" series in "Sunrise 
 The "Sunrise on the Reaping" ending jumps ahead to show adult Peeta and Katniss post-"Mockingjay," living peacefully in Victors' Village together with Haymitch as their neighbor. They greet Haymitch and wish him a happy birthday before he goes to the meadow to pay tribute to this late love, Lenore Dove (Whitney Peak). He says hi to the geese, something he and Lenore would do as kids. It's a touching ending that comes full circle with the original stars and Haymitch's tragic past.
 
 ============================================================
-[32] Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film
+[33] Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film
 Source: Deadline | Status: expanded | Words: 401
 Published: 2026-11-20T00:43:16+00:00
 URL: https://deadline.com/2026/11/tyra-banks-sally-hansen-film-andy-vallentine-director-1237229673
@@ -1019,7 +1045,7 @@ SMiZE Productions&#x2019; global slate includes scripted, unscripted, live theat
 Vallentine is repped by Heroes and Villains.
 
 ============================================================
-[33] Major Fantasy Reboot Confirms Season 2 Return After 3 Years With New Look
+[34] Major Fantasy Reboot Confirms Season 2 Return After 3 Years With New Look
 Source: ComicBook.com | Status: expanded | Words: 819
 Published: 2026-11-20T00:35:00+00:00
 URL: https://comicbook.com/anime/news/major-fantasy-reboot-confirms-season-2-return-after-3-years-with-new-look
@@ -1047,7 +1073,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Fans Are Over The Moon About Epic Universe’s Latest Update, But They Have Questions
+[35] Fans Are Over The Moon About Epic Universe’s Latest Update, But They Have Questions
 Source: CinemaBlend | Status: expanded | Words: 290
 Published: 2026-11-20T00:31:00+00:00
 URL: https://www.cinemablend.com/theme-parks/fans-over-moon-epic-universe-annual-passes-questions
@@ -1067,7 +1093,7 @@ Whenever there’s a big change at one of Universal Orlando’s parks, inquiries
 Universal was all over the comment section trying to answer some of these questions. Most of them seem to point to there being another wave of details being on the way, but for now Universal Orlando’s Annual Pass website has been refreshed with current steps to take.
 
 ============================================================
-[35] Bill Hader's Feature Directorial Debut 'They Know' Acquired by Black Bear
+[36] Bill Hader's Feature Directorial Debut 'They Know' Acquired by Black Bear
 Source: Variety | Status: expanded | Words: 545
 Published: 2026-11-20T00:30:46+00:00
 URL: https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795
@@ -1095,7 +1121,7 @@ MRC recently released "The Only Living Pickpocket in New York" with John Turturr
 Deadline was the first to report Black Bear's acquisition of "They Know."
 
 ============================================================
-[36] Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving
+[37] Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving
 Source: Variety | Status: expanded | Words: 1104
 Published: 2026-11-20T00:30:00+00:00
 URL: https://variety.com/lists/2027-oscars-predictions
@@ -1181,7 +1207,7 @@ Oscar category page with rankings>>>
 Oscar category page with rankings>>>
 
 ============================================================
-[37] 'GTA VI' Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over
+[38] 'GTA VI' Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over
 Source: Deadline | Status: expanded | Words: 795
 Published: 2026-11-20T00:29:12+00:00
 URL: https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514
@@ -1217,7 +1243,7 @@ The White House, HGTV , a sycophantic Vice-President JD Vance , Miami Internatio
 To paraphrase that big Hot Chocolate hit, everyone loves a winner, baby.
 
 ============================================================
-[38] Where to Find GTA 6’s X-Men Parody Comic &#038; How The Characters Compare
+[39] Where to Find GTA 6’s X-Men Parody Comic &#038; How The Characters Compare
 Source: ComicBook.com | Status: expanded | Words: 557
 Published: 2026-11-20T00:22:15+00:00
 URL: https://comicbook.com/gaming/news/where-to-find-gta-6s-x-men-parody-comic-how-the-characters-compare
@@ -1245,7 +1271,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?
+[40] Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?
 Source: Variety | Status: expanded | Words: 1563
 Published: 2026-11-20T00:20:00+00:00
 URL: https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486
@@ -1331,7 +1357,7 @@ Documentary Feature &#x201C;American Doctor&#x201D; (Watermelon Pictures) "Concr
 International Feature &#x201C;Fjord&#x201D; from Romania (Neon) &#x201C;La Bola Negra&#x201D; from Spain (Netflix) *** &#x201C;Minotaur&#x201D; from France (Mubi) &#x201C;Possible Love&#x201D; from South Korea (Netflix) &#x201C;Rose&#x201D; from Austria (Mubi)
 
 ============================================================
-[40] Lakers’ Official History Book Gets $9,600 Limited Edition With Magic Johnson Handprints, Staples Center Hardwood and Rare Artwork
+[41] Lakers’ Official History Book Gets $9,600 Limited Edition With Magic Johnson Handprints, Staples Center Hardwood and Rare Artwork
 Source: Variety | Status: expanded | Words: 452
 Published: 2026-11-20T00:15:40+00:00
 URL: https://variety.com/2026/shopping/news/lakers-photo-book-collectible-deluxe-edition-buy-online-1236953793
@@ -1359,7 +1385,7 @@ The limited editions arrive nearly two months after Taschen released the standar
 Both limited editions are available now through Taschen&#x2019;s website.
 
 ============================================================
-[41] Love Overgeared? Watch These 3 Anime Next
+[42] Love Overgeared? Watch These 3 Anime Next
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-20T00:09:00+00:00
 URL: https://comicbook.com/anime/list/love-overgeared-watch-these-3-anime-next
@@ -1389,7 +1415,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] What Is Snoggletog? All The Tea On The Celebration At Universal Orlando This Holiday Season
+[43] What Is Snoggletog? All The Tea On The Celebration At Universal Orlando This Holiday Season
 Source: CinemaBlend | Status: expanded | Words: 228
 Published: 2026-11-20T00:06:00+00:00
 URL: https://www.cinemablend.com/theme-parks/what-is-snoggletog-the-celebration-universal-orlando-holiday-season
@@ -1405,7 +1431,7 @@ For those not in the know, Snoggletog is the winter holiday celebrated by the Vi
 I have to say, the thing that most caught my eye was the wreath full of apples. It’s the perfect decor idea that not only looks beautifully festive but would also just be delicious. I also love that you can find a tree made of wood inside Hiccup’s Workshop that you could probably easily replicate if you’re crafty, or you can just pick up themed ornaments for your own home holiday tree.
 
 ============================================================
-[43] Ice-T Dropped A Funny Take After Someone Didn’t Know He Was An Answer On Final Jeopardy
+[44] Ice-T Dropped A Funny Take After Someone Didn’t Know He Was An Answer On Final Jeopardy
 Source: CinemaBlend | Status: expanded | Words: 1514
 Published: 2026-11-20T00:01:00+00:00
 URL: https://www.cinemablend.com/television/ice-t-funny-take-someone-didnt-know-answer-final-jeopardy
@@ -1459,7 +1485,7 @@ Television A Jeopardy Contestant Wanted To ‘Steal’ An Answer. Then, She Felt
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[44] Dermot Mulroney On How Filming 'The Family Stone' Sequel Feels Like Life Imitating Art: "So Moved"
+[45] Dermot Mulroney On How Filming 'The Family Stone' Sequel Feels Like Life Imitating Art: "So Moved"
 Source: Deadline | Status: expanded | Words: 334
 Published: 2026-11-19T23:59:10+00:00
 URL: https://deadline.com/2026/11/dermot-mulroney-filming-family-stone-sequel-life-imitating-art-1237229646
@@ -1481,7 +1507,7 @@ The Families Stone picks up 20 years after the death of Diane Keaton's character
 Following Keaton's death at age 79 in October 2025, Bezucha revealed that he was writing the sequel , which was set at Searchlight in September and is now filming in New York. In addition to Mulroney, Nelson and Wilson, original cast members Claire Danes, Rachel McAdams, Sarah Jessica Parker, Tyrone Giordano, Elizabeth Reaser, Paul Schneider and Brian White are returning.
 
 ============================================================
-[45] Paramount+ Is Down to $2.99 a Month With This Black Friday Deal
+[46] Paramount+ Is Down to $2.99 a Month With This Black Friday Deal
 Source: Variety | Status: expanded | Words: 358
 Published: 2026-11-19T23:56:45+00:00
 URL: https://variety.com/2026/shopping/news/paramount-black-friday-streaming-deals-1236953772
@@ -1503,7 +1529,7 @@ Sports fans can also take advantage of the promotion to stream NFL games airing 
 To claim the deal, subscribers can sign up directly through Paramount+'s website before Nov. 30. The promotion applies to monthly subscriptions only and is available to new customers and eligible former subscribers, with certain platform restrictions for returning users.
 
 ============================================================
-[46] Oscar Predictions: Costume Design — Will the Academy Embrace the Three Distinct Eras of ‘La Bola Negra’?
+[47] Oscar Predictions: Costume Design — Will the Academy Embrace the Three Distinct Eras of ‘La Bola Negra’?
 Source: Variety | Status: expanded | Words: 273
 Published: 2026-11-19T23:55:48+00:00
 URL: https://variety.com/feature/2027-oscars-best-costume-design-predictions-1236878516
@@ -1521,7 +1547,7 @@ The list of predictions in all categories can be found here .
 The Governors Awards, which will hand out honorary Oscars to Glenn Close and Ridley Scott, will take place Sunday, Nov. 15. Preliminary voting for the Oscars shortlist in 12 categories runs Dec. 7-11, with the shortlist announcement to follow Tuesday, Dec. 15. Following the close of the eligibility period on Dec. 31, 2026, nominations voting will run Jan. 11-15, 2027. The official Oscar nominations will be announced on Thursday, Jan. 21, 2027. The 99th Oscars will take place on Sunday, March 14, 2027, and will be hosted by Conan O'Brien. The ceremony airs live at 7 p.m. ET on ABC and in more than 200 territories worldwide from the Dolby Theatre at Ovation Hollywood.
 
 ============================================================
-[47] Lance Broadway, Former MLB Pitcher and ‘Agents Of S.H.I.E.L.D.’ Actor, Dies at 43
+[48] Lance Broadway, Former MLB Pitcher and ‘Agents Of S.H.I.E.L.D.’ Actor, Dies at 43
 Source: Variety | Status: expanded | Words: 305
 Published: 2026-11-19T23:54:48+00:00
 URL: https://variety.com/2026/tv/news/lance-broadway-dead-mlb-pitcher-agents-of-shield-1236953699
@@ -1543,7 +1569,7 @@ Broadway was cast as Commander Linden in &#x201C;Teleios,&#x201D; which was late
 Born in Bryan, Texas, Broadway was an all-district baseball player in high school and went on to pitch for Dallas Baptist University. He transferred to Texas Christian University, where he was named conference pitcher of the year before being selected 15th overall by the Chicago White Sox in the 2005 Major League Baseball draft. He made his Major League debut in 2007 and was traded to the New York Mets in 2009. He signed a minor league deal with the Toronto Blue Jays that same year but never played for the team.
 
 ============================================================
-[48] 5 Game of Thrones Characters Totally Ruined by the HBO TV Series
+[49] 5 Game of Thrones Characters Totally Ruined by the HBO TV Series
 Source: ComicBook.com | Status: expanded | Words: 1231
 Published: 2026-11-19T23:52:00+00:00
 URL: https://comicbook.com/tv-shows/feature/5-game-of-thrones-characters-totally-ruined-by-the-hbo-tv-series
@@ -1583,7 +1609,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Black Bear Snaps Up Bill Hader's MRC Horror Pic 'They Know' With Linda Cardellini
+[50] Black Bear Snaps Up Bill Hader's MRC Horror Pic 'They Know' With Linda Cardellini
 Source: Deadline | Status: expanded | Words: 658
 Published: 2026-11-19T23:47:19+00:00
 URL: https://deadline.com/2026/11/bill-hader-linda-cardellini-they-know-1237229655
@@ -1611,28 +1637,4 @@ In addition to Wicker , Black Bear has a Guy Ritchie&#x2019;s Wife & Dog releasi
 MRC is behind the recently released The Only Living Pickpocket in New York which is currently in theaters via Sony Pictures Classics, The Love Hypothesis , and Warner Bros' Wuthering Heights ($242M at the global B.O.) , as well as American Fiction , Knives Out , Saltburn , Fair Play, All of You , and G20 . Its upcoming films include The Gallerist , A Place in Hell , The Best Is Yet to Come , and Eloise. MRC is also known for hit TV series such as Poker Face , Terminal List, Ted, Ozark, and House of Cards .
 
 Hader is represented by UTA and Toczek Suddleson Law group.
-
-============================================================
-[50] Playbill Apologizes for Posting Casting Notice for 'George Floyd the Musical'
-Source: Variety | Status: expanded | Words: 410
-Published: 2026-11-19T23:45:16+00:00
-URL: https://variety.com/2026/legit/news/playbill-apologizes-casting-notice-george-floyd-musical-1236953750
-------------------------------------------------------------
-SUMMARY:
-Playbill is apologizing for running an ad for singers for a cast album called "George Floyd the Musical" from the Busted Broadway company. The project drew numerous negative comments from Broadway stars and many others. Busted Broadway responded on its social media Thursday that "The project 'George Floyd the Musical' is NOT making light of, […]
-
-CONTENT / EXTRACTED DETAILS:
-Playbill is apologizing for running an ad for singers for a cast album called "George Floyd the Musical" from the Busted Broadway company.
-
-The project drew numerous negative comments from Broadway stars and many others. Busted Broadway responded on its social media Thursday that "The project 'George Floyd the Musical' is NOT making light of, condoning, or mocking the horrific 2020 murder of George Floyd. It&#x2019;s a satire on the CULTURE, rather than the person. Never judge a show by its title, as many who have never seen the script or score appear to be doing now.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories ‘Gordon,’ a Big Netflix Series From Argentina, Unpacked by Pablo Trapero and Star Rodrigo de la Serna 'Stranger Things' Prequel Spinoff 'Other Worlds' Ordered to Series at Netflix
-
-The theater publishing company Playbill wrote in a public apology , "Late yesterday afternoon, Playbill Jobs incorrectly approved a job listing that had no place on our site. Once leadership was alerted, the listing was immediately removed, and we began reviewing and revising our approval processes. We apologize unequivocally for giving this hateful listing any further air, and we promise to do better going forward. We at Playbill aim to lift up this community with empathy, consideration, and respect. We hope those who read and follow us do the same.
-
-"We know this listing has upset and offended many, and the fact that it made it onto our site has disappointed those who trust us as an outlet," the post continued.
-
-"For that, we are sorry, and are committed to regaining your trust," the apology concluded.
-
-Busted Broadway "brings you musical cast recordings that are too ridiculous, too raunchy and too absurd to see the stage," according to its website. "Busted Broadway is not for the mollycoddled or politically correct listener," says the company which has produced projects for "Human Centipede: The Musical" and "Genghis Khan: The Musical." The company lists that "George Floyd: The Musical" is coming soon, according to its website , with the tagline "The $20 bill that changed the world." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Playbill said in a statement that going forward, it would ban Busted Broadway from posting ads and would not write about their projects, according to Deadline .
 
