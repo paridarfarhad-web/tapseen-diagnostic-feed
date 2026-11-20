@@ -1,9 +1,105 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-20T18:32:06.308Z
+Last Updated: 2026-11-20T18:38:11.449Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Lisa Kudrow, Michael Schur and More Top TV Scribes Share Storytelling Secrets at Variety's Night in the Writers' Room: Photos
+[1] Candle Media’s Kevin Mayer Says Company Caught Out By Drop In Streamer Demand: "We Didn't See That Contraction Coming"
+Source: Deadline | Status: expanded | Words: 808
+Published: 2026-11-20T18:37:01+00:00
+URL: https://deadline.com/2026/11/candle-medias-kevin-mayer-drop-streamer-demand-contraction-1237230294
+------------------------------------------------------------
+SUMMARY:
+Candle Media cofounder Kevin Mayer told an industry conference in Doha on Friday that he had not foreseen the impending contraction in demand for streaming content ahead of the company’s launch in 2021. He was speaking six weeks after Candle Media hit the trade headlines for its sale of Reece Witherspoon’s Hello Sunshine to Paris-based […]
+
+CONTENT / EXTRACTED DETAILS:
+Candle Media cofounder Kevin Mayer told an industry conference in Doha on Friday that he had not foreseen the impending contraction in demand for streaming content ahead of the company&#x2019;s launch in 2021.
+
+He was speaking six weeks after Candle Media hit the trade headlines for its sale of Reece Witherspoon&#x2019;s Hello Sunshine to Paris-based European content group Mediawan.
+
+Candle Media originally acquired the company, behind Big Little Lies and The Morning Show , in 2021, as one of its first acquisitions for $900M. The re-sale price was not made public, but sources told Deadline that it was likely several hundreds of millions of dollars less than the original price. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News Doha Film Festival Lifts Off As Gulf States Remain On High Alert Amid Iran Attacks Books Elle And Dakota Fanning Rebel In First Trailer For 'The Nightingale' Based On Kristin Hannah Best-Seller
+
+Mayer, who was talking on to the Qatar Film Committee&#x2019;s Industry Days event in Doha via video-link from L.A., did not dwell on the sale.
+
+&#x201C;On the live action side, we gave it a really good shot with Hella Sunshine and other assets. It was okay, but they didn't work out to what we wanted, so we recently sold those,&#x201D; he said.
+
+Mayer did not go into details on why Hello Shine had not worked out for Candle Media, and there were no opportunities for questions from the floor.
+
+His wide discussion, however, gave some insight into some of the challenges facing the company as well as triumphs led by its acquisition of Moonbug , the children&#x2019;s media company behind shows such as CoComelon , Blippi and Little Ange l.
+
+The former Disney exec, who oversaw the studio's 2019 acquisition of 20th Century Fox and also helped spearhead the creation of Disney+ alongside Bon Iger, said the idea for Candle Media had been sparked by the studios getting into streaming and taking their IP in-house.
+
+This trend, he said, suggested that streamers without big inhouse production capacity would be on the hunt for high-quality content.
+
+"We felt that the value of being independent in that sort of industry, that vertically integrated, would be increasing, and I think that is still true. Being independent and having that that ability to sell to any of the streaming services is great,&#x201D; he said. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+&#x201C;We also thought content demand would continue to increase double digits a year&#x2026; with increasing demand globally for high-quality content, like we were producing at Candle Media, which would provide us with the volume we needed to make all of our acquisitions work financially,&#x201D; he continued.
+
+&#x201C;Starting in 2023, that didn't happen. In fact, the demand for streaming content actually contracted quite a bit, to about 35% below the peak of 2022. So, that part of our thesis was incorrect, unfortunately. We didn't see that contraction coming.&#x201D;
+
+The second premise on which the company was built, he said, was the belief that strong IP and stories could exist on multiple formats.
+
+&#x201C;They could exist on YouTube and on TikTok and on other platforms as short form entertainment&#x2026; they could coexist in traditional film, on streaming and television and elsewhere,&#x201D; he said. &#x201C;Then they would open up other revenue platforms such as consumer products licensing, which we did a lot with Disney, games, music&#x2026;&#x201D;
+
+Mayer pointed to children&#x2019;s media company Moonbug, which Candle Media acquired in 2021, as having fulfilled that gaol thanks to shows like CoCocomelon, which was born on YouTube, and then repackaged for Netflix.
+
+&#x201C;We took those stories that came from YouTube, put them into one-hour compilations and licensed them to Netflix from 2021 to 2024. While CoComelon was the largest YouTube channel in the world, it was also the most popular Netflix show in the world. For three solid years, it was the number one streaming show and the number one YouTube show," he said.
+
+He said the operation had not worked in the opposite direction for more traditional IP.
+
+&#x201C;We were hopeful that we could take traditional film and TV and cross it over into social media. That didn't work all that well. But what did work really well is taking social media storytelling and crossing it over to traditional. And you've seen Obsession and Backrooms &#x2026; all this stuff is happening from that perspective.&#x201D;
+
+============================================================
+[2] Does Niko Bellic Return in GTA 6? Everything We Know About “The Hitman”
+Source: ComicBook.com | Status: expanded | Words: 658
+Published: 2026-11-20T18:36:52+00:00
+URL: https://comicbook.com/gaming/feature/gta-6-grand-theft-auto-vi-niko-bellic-the-hitman
+------------------------------------------------------------
+SUMMARY:
+One of the biggest questions that has surrounded Grand Theft Auto 6 since its launch is surprisingly tied to Niko Bellic, the main protagonist from Grand Theft Auto 4. While Niko hasn't been seen in the Grand Theft Auto series since the conclusion of GTA 4, many wondered if he would potentially appear in the […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google One of the biggest questions that has surrounded Grand Theft Auto 6 since its launch is surprisingly tied to Niko Bellic, the main protagonist from Grand Theft Auto 4 . While Niko hasn't been seen in the Grand Theft Auto series since the conclusion of GTA 4 , many wondered if he would potentially appear in the latest installment in the series. After all, past GTA games have brought back other characters from the franchise's history, which certainly made it possible for Niko to have a cameo of some sort.
+
+These questions surrounding Niko Bellic only grew louder when fans noticed that his character's voice actor, Michael Hollick, appeared in the cast list for GTA 6 . However, Hollick isn't mentioned in the credits of GTA 6 as portraying Bellic, but instead, a character known only as "The Hitman". Just who is The Hitman, though, and how does he play part in
+
+WARNING: Spoilers for GTA 6 are mentioned from this point forward in this article. Read onward at your own discretion.
+
+In short, yes, Niko Bellic does appear in Grand Theft Auto 6 . Niko appears relatively late in the main story of GTA 6 , as he ends up crossing paths with Jason and Lucia. He's aged quite a bit since we last saw him, with Niko even mentioning that he hasn't killed anyone since 2012. This suggests that he may have been able to briefly get away from his life of crime, which was his goal at the end of GTA 4 , but he ultimately got pulled back in.
+
+As a whole, Niko doesn't end up being in GTA 6 very much. He only appears in two of the game's scenes in Chapter 5, the first of which is titled "Taking Liberties." In addition to his short screen time, Niko is joined by some of the music that was heard in GTA 4 . This makes his appearance all the more nostalgic for those who have been playing Grand Theft Auto for the better part of the past 20 years.
+
+As for the reason behind Niko being referred to as "The Hitman" in the credits of Grand Theft Auto 6 , it's because that's his brief role in the game. When Niko first shows up, it's at the penthouse of Giorgio Gallo, who is one of the biggest crime lords in Vice City. Giorgio works in tandem with a European mafia to ship billions of dollars of drugs across the globe, but when he makes a mistake that results in said drugs being confiscated by the United States government, Niko arrives to take him out as a punishment for his error.
+
+Ultimately, Niko agrees to give Giorgio one more chance to rectify his mistake. This results in him enlisting Lucia and Jason to help steal back the confiscated drugs. Once Lucia and Jason complete this mission, Niko shows up once again and is stunned that they were able to pull off such a difficult heist. He then mentions that he's now going to head back home, which is an obvious reference to his own residence within Liberty City.
+
+Even though Niko never actually kills anyone in Grand Theft Auto 6 , it's clear that Rockstar chose to call him "The Hitman" in the game's credits just to preserve the surprise nature of his appearance. His brief cameo is one of the biggest moments in the entirety of GTA 6 and helps make the larger Grand Theft Auto saga feel a bit more cohesive.
+
+Grand Theft Auto 6 is available now on PS5 and Xbox Series X/S.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[3] 'Home Alone' Sequel With Macaulay Culkin In Early Works With Seth Rogen &#038; Evan Goldberg Writing &#038; Producing
+Source: Deadline | Status: expanded | Words: 237
+Published: 2026-11-20T18:34:07+00:00
+URL: https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258
+------------------------------------------------------------
+SUMMARY:
+Ever since Macaulay Culkin pitched his idea for a Home Alone sequel to Disney Motion Pictures Boss David Greenbaum, that being from an older dad's POV, there's been some heat on a continuation of the Christmas comedy franchise which has been a gold mine for 20th Century Studios since its inception 36 years ago. Culkin, […]
+
+CONTENT / EXTRACTED DETAILS:
+Ever since Macaulay Culkin pitched his idea for a sequel to Home Alone to Disney Motion Pictures Boss David Greenbaum, that being from an older dad's POV, there's been some heat on a continuation of the Christmas comedy franchise which has been a gold mine for 20th Century Studios since its inception 36 years ago.
+
+We've confirmed with sources that a sequel starring Culkin and with Point Grey 's Seth Rogen and Evan Goldberg writing and producing is in early works. The duo are working with Culkin on his idea.
+
+Chris Columbus directed both the first movie in 1990 and the sequel Home Alone 2: Lost in New York which combined grossed $836.3M. No word if he's coming back yet. A 1997 threequel sans Culkin was made taking the franchise to $915.7M WW. Home Alone was back on the Nielsen top 10 streaming movies chart this week at No. 9 with 177M minutes viewed on Disney+. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Disney declined to comment on the Home Alone news. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+============================================================
+[4] Lisa Kudrow, Michael Schur and More Top TV Scribes Share Storytelling Secrets at Variety's Night in the Writers' Room: Photos
 Source: Variety | Status: expanded | Words: 108
 Published: 2026-11-20T18:31:21+00:00
 URL: https://variety.com/gallery/night-in-the-writers-room-awards-season-edition-2026-photos
@@ -19,7 +115,7 @@ Creator, showrunner, executive producer, director, writer &ldquo;P-Valley&rdquo;
 &ldquo;I care about the story being the best it can be. I care about your perspective. I want to hear eerything that everyone has to say, and so my room is very democratic &mdash; literally everyone has equal say.&rdquo;
 
 ============================================================
-[2] Yo, Academy! When ‘Rocky’ Was Crowned Best Picture Champ
+[5] Yo, Academy! When ‘Rocky’ Was Crowned Best Picture Champ
 Source: The Hollywood Reporter | Status: expanded | Words: 375
 Published: 2026-11-20T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/rocky-best-picture-flashback-1236757348
@@ -37,7 +133,7 @@ Then there was round two, Oscar night. At the 49th Academy Awards , Rocky beat N
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[3] 'Best Pancakes in the County' Review: Nicolas Cage Goes Gonzo, Again, in a Dismal Action-Comedy That Fails to Match His Energy
+[6] 'Best Pancakes in the County' Review: Nicolas Cage Goes Gonzo, Again, in a Dismal Action-Comedy That Fails to Match His Energy
 Source: The Hollywood Reporter | Status: expanded | Words: 726
 Published: 2026-11-20T18:22:49+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/best-pancakes-in-the-county-review-nicolas-cage-1236759412
@@ -61,7 +157,7 @@ Cage, absent from the proceedings for long stretches, gives it all and then some
 His efforts, as gonzo as they are, are all for naught, with the movie&#x2019;s incoherent plotting, risible dialogue, and subpar filmmaking making it a torturous experience with nothing memorable about it other than its title. That the distributor doesn&#x2019;t have much confidence in its prospects is evident from its simultaneous release in &#x201C;select&#x201D; theaters and availability on digital platforms.
 
 ============================================================
-[4] Jean Grey Has Finally Lost Everything, and It's a Perfect Reversal of Her Most Iconic X-Men Story
+[7] Jean Grey Has Finally Lost Everything, and It's a Perfect Reversal of Her Most Iconic X-Men Story
 Source: ComicBook.com | Status: expanded | Words: 1056
 Published: 2026-11-20T18:22:00+00:00
 URL: https://comicbook.com/comics/feature/jean-grey-has-finally-lost-everything-and-its-a-perfect-reversal-of-her-most-iconic-x-men-story
@@ -93,7 +189,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Marvel Shows Off an Avenger's 7th Superhero Costume in Doomsday
+[8] Marvel Shows Off an Avenger's 7th Superhero Costume in Doomsday
 Source: ComicBook.com | Status: expanded | Words: 568
 Published: 2026-11-20T18:20:30+00:00
 URL: https://comicbook.com/movies/news/marvel-shows-off-an-avengers-7th-superhero-costume-in-doomsday
@@ -119,7 +215,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] ‘Steps’: Ali Wong &#038; Stephanie Hsu Talk Reinventing Cinderella, Sisterhood &#038; Why ‘Weird Science’ Is Sacred [Interview]
+[9] ‘Steps’: Ali Wong &#038; Stephanie Hsu Talk Reinventing Cinderella, Sisterhood &#038; Why ‘Weird Science’ Is Sacred [Interview]
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-20T18:16:09+00:00
 URL: https://theplaylist.net/ali-wong-stephanie-hsu-steps-cinderella-weird-science-interview-20261120
@@ -131,7 +227,7 @@ CONTENT / EXTRACTED DETAILS:
 While Cinderella had her fair share of opportunities to tell her side of the tale, Cinderella’s stepsisters have not… at least not until now. It seems unfair that the girls have had to sit around for generations as the bad guys in someone else’s happily ever after, but Netflix ’s latest animated musical, “ Steps ,” changes that and lets them tell their side of the story. As it turns out, these two have a little more going on than just jealousy, rudeness, and a bad mom. Continue reading ‘Steps’: Ali Wong & Stephanie Hsu Talk Reinventing Cinderella, Sisterhood & Why ‘Weird Science’ Is Sacred [Interview] at The Playlist.
 
 ============================================================
-[7] Elin Hilderbrand's '28 Summers' &#038; 'The Rumor' Series Adaptations In Works At 20th Television With 'Five Star Weekend' EPs &#038; 'Perfect Couple' Creator
+[10] Elin Hilderbrand's '28 Summers' &#038; 'The Rumor' Series Adaptations In Works At 20th Television With 'Five Star Weekend' EPs &#038; 'Perfect Couple' Creator
 Source: Deadline | Status: expanded | Words: 818
 Published: 2026-11-20T18:15:00+00:00
 URL: https://deadline.com/2026/11/elin-hilderbrand-28-summers-the-rumor-tv-series-adaptation-1237229505
@@ -171,7 +267,7 @@ In addition to serving as creator, executive producer and showrunner on The Perf
 Hilderbrand is repped by UTA, InkWell Management and Kleinberg, Lange, Cuddy & Carlo. Whidden, who also was a consulting producer on HBO's The Undoing , is repped by Karen Gottlieb at Grubman Shire Meiselas & Sacks.
 
 ============================================================
-[8] ‘GTA 6’: First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years
+[11] ‘GTA 6’: First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years
 Source: Variety | Status: expanded | Words: 517
 Published: 2026-11-20T18:14:02+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-jason-lucia-baby-tomas-parents-twist-1236954289
@@ -201,7 +297,7 @@ From here, it&#x2019;s up to &#x201C;GTA 6&#x201D; players to decide how they wa
 See below for &#x201C;GTA 6&#8243; players&#x2019; reactions to the game's earliest big twist.
 
 ============================================================
-[9] Super Dragon Ball Heroes Proves Even The Weakest Saiyan Form Is Powerful
+[12] Super Dragon Ball Heroes Proves Even The Weakest Saiyan Form Is Powerful
 Source: ComicBook.com | Status: expanded | Words: 638
 Published: 2026-11-20T18:12:00+00:00
 URL: https://comicbook.com/anime/feature/super-dragon-ball-heroes-proves-even-the-weakest-saiyan-form-is-powerful
@@ -227,7 +323,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Bowen Yang Apologizes for Calling Regina Spektor an Antisemitic Slur, Didn't Know It Was 'Popularized by Far-Right Movements'
+[13] Bowen Yang Apologizes for Calling Regina Spektor an Antisemitic Slur, Didn't Know It Was 'Popularized by Far-Right Movements'
 Source: Variety | Status: expanded | Words: 241
 Published: 2026-11-20T18:06:00+00:00
 URL: https://variety.com/2026/tv/news/bowen-yang-apologizes-regina-spektor-antisemitic-slur-1236954304
@@ -247,7 +343,7 @@ On the Oct. 14 episode of "Las Culturistas," Yang, his co-host Matt Rogers and g
 In recent days, social media users found the resurfaced clip of the podcast and called out Yang for using the slur.
 
 ============================================================
-[11] Actor Awards 2027 Preview: Breaking Down the Top Film and TV Contenders
+[14] Actor Awards 2027 Preview: Breaking Down the Top Film and TV Contenders
 Source: Variety | Status: expanded | Words: 1262
 Published: 2026-11-20T18:05:00+00:00
 URL: https://variety.com/2026/awards/actors/actor-awards-2027-preview-film-tv-contenders-1236952294
@@ -285,7 +381,7 @@ In comedy, Matthew Rhys is the early predicted nominee after his &#x201C;Widow&#
 Jean Smart is a top contender for the last time in this category for &#x201C;Hacks,&#x201D; but unlike the Emmys, she hasn&#x2019;t always taken the trophy. &#x201C;Widow&#x2019;s Bay&#x2019;s&#x201D; Kate O&#x2019;Flynn is solidly in the race (and won the supporting Emmy), as is Lisa Kudrow, a two-time SAG winner returning with &#x201C;The Comeback.&#x201D; Two-time nominee Hannah Waddingham is back for &#x201C;Ted Lasso.&#x201D; The drama race could see a plethora of actresses from &#x201C;The Pitt&#x201D; in the race, as well as Keri Russell (&#x201C;The Diplomat&#x201D;), Carrie Coon (&#x201C;The Gilded Age&#x201D;), Zendaya (&#x201C;Euphoria&#x201D;) and Emmy Rossum for the only freshman show, &#x201C;Furious.&#x201D; In the limited/movie category, both Linda Cardellini (&#x201C;DTF St. Louis&#x201D;) and Sally Field (&#x201C;Remarkably Bright Creatures&#x201D;) took home Emmys, but keep an eye on Florence Pugh with her impressive role in &#x201C;East of Eden" and Meghann Fahy who shone in "The Good Daughter."
 
 ============================================================
-[12] Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)
+[15] Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 483
 Published: 2026-11-20T18:00:00+00:00
 URL: https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233
@@ -307,7 +403,7 @@ The licensing of Kinison's AI avatar comes as celebrities, both living and dead,
 More recently, &#x201C;The View&#x201D; co-host Sunny Hostin licensed her likeness this summer to the AI creative startup Fountain 0, weeks after Higgsfield licensed the appearances of the streamer N3on and UFC&#x2019;s Israel Adesanya and Quinton &#x2018;Rampage&#x2019; Jackson, among others, for its most recent film &#x201C;Cully Hill Boys.&#x201D;
 
 ============================================================
-[13] After All Those Holiday Rumors, Prince Harry Just Revealed What He And Meghan Markle Have Planned
+[16] After All Those Holiday Rumors, Prince Harry Just Revealed What He And Meghan Markle Have Planned
 Source: CinemaBlend | Status: expanded | Words: 1426
 Published: 2026-11-20T17:53:09+00:00
 URL: https://www.cinemablend.com/streaming-news/after-holiday-rumors-prince-harry-revealed-what-he-meghan-markle-have-planned
@@ -359,7 +455,7 @@ Streaming News Prince Harry And Meghan Markle Have (Reportedly) ALREADY Relocate
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[14] This Sunrise On The Reaping BTS Photodump Just Solved A Huge Hunger Games Mystery
+[17] This Sunrise On The Reaping BTS Photodump Just Solved A Huge Hunger Games Mystery
 Source: CinemaBlend | Status: expanded | Words: 433
 Published: 2026-11-20T17:47:53+00:00
 URL: https://www.cinemablend.com/movies/sunrise-on-the-reaping-bts-photodump-solved-huge-hunger-games-mystery-lucy-gray-baird
@@ -385,7 +481,7 @@ It's true. It could be more of a memorial than her actual grave site. Either way
 This is a good question! Why didn't this show up in the movie? I think the short answer is the movie's already long runtime of two hours and 38 minutes, making it on the longer side of 2026 movies . Thankfully Whitney Peak and Joseph Zada pointed it out for us.
 
 ============================================================
-[15] Lili Reinhart in Talks to Join ‘Polly Pocket’ Movie After Lily Collins Exit
+[18] Lili Reinhart in Talks to Join ‘Polly Pocket’ Movie After Lily Collins Exit
 Source: Variety | Status: expanded | Words: 320
 Published: 2026-11-20T17:44:20+00:00
 URL: https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282
@@ -405,7 +501,7 @@ Ever since Mattel hit big with 2023's "Barbie," the toy maker has pushed hard in
 The Polly Pocket and her miniature play sets first hit shelves in the summer of 1989 through Bluebird Toys. Mattel acquired the brand in 1998. Mattel reintroduced the toy in 2018 with a more modern design to appeal to a new generation of kids.
 
 ============================================================
-[16] 'Cliff Booth': David Fincher Says He Cut Three Different Versions Of His New Film: "Tore It Back To The Studs, Started Over Again, Built It All Again"
+[19] 'Cliff Booth': David Fincher Says He Cut Three Different Versions Of His New Film: "Tore It Back To The Studs, Started Over Again, Built It All Again"
 Source: The Playlist | Status: summary_only | Words: 122
 Published: 2026-11-20T17:42:32+00:00
 URL: https://theplaylist.net/cliff-booth-david-fincher-three-different-cuts-20261120
@@ -417,7 +513,7 @@ CONTENT / EXTRACTED DETAILS:
 With less than a week before it hits theaters, " The Further Misadventures Of Cliff Booth " is the talk of the film world, for good and ill. Critics agree (for the most part; The Playlist didn't love the movie in our review) that Quentin Tarantino 's chatty dialogue and lounge-about plotting meeting David Fincher 's sharp framing and dry, calculated tone are a stylistic combo that works, most importantly due to the ease of Brad Pitt sliding back behind the sunglasses of the movie's constantly cool and collected anti-hero. Continue reading 'Cliff Booth': David Fincher Says He Cut Three Different Versions Of His New Film: "Tore It Back To The Studs, Started Over Again, Built It All Again" at The Playlist.
 
 ============================================================
-[17] Did Loki's Doomsday Scene Create an MCU Plot Hole? Tom Hiddleston Clears Up Marvel Misunderstanding
+[20] Did Loki's Doomsday Scene Create an MCU Plot Hole? Tom Hiddleston Clears Up Marvel Misunderstanding
 Source: ComicBook.com | Status: expanded | Words: 559
 Published: 2026-11-20T17:42:22+00:00
 URL: https://comicbook.com/movies/news/did-lokis-doomsday-scene-create-an-mcu-plot-hole-tom-hiddleston-clears-up-marvel-misunderstanding
@@ -441,7 +537,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] 3 More Fantasy TV Shows Where The Worldbuilding Is Better Than The Story, But 1 Deserved Room To Grow
+[21] 3 More Fantasy TV Shows Where The Worldbuilding Is Better Than The Story, But 1 Deserved Room To Grow
 Source: ComicBook.com | Status: expanded | Words: 838
 Published: 2026-11-20T17:42:00+00:00
 URL: https://comicbook.com/tv-shows/list/3-more-fantasy-tv-shows-where-the-worldbuilding-is-better-than-the-story-but-1-deserved-room-to-grow
@@ -471,7 +567,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Maleah Joi Moon on Netflix’s ‘A Different World,’ Debbie Allen’s Backstage Offer and Owning the Show’s ‘Complicated History’ With Cosby
+[22] Maleah Joi Moon on Netflix’s ‘A Different World,’ Debbie Allen’s Backstage Offer and Owning the Show’s ‘Complicated History’ With Cosby
 Source: Variety | Status: expanded | Words: 731
 Published: 2026-11-20T17:40:00+00:00
 URL: https://variety.com/2026/tv/awards/maleah-joi-moon-a-different-world-netflix-cosby-history-1236952490
@@ -505,7 +601,7 @@ The two shows &#x201C;have their own fortitude, like they have their own legacie
 Her prayer is that the Netflix version earns the same footing. &#x201C;No matter what that conversation looks like, the point is that we are telling a story of love that was born in its genesis from &#x2018;The Cosby Show&#x2019; and has continued through this generational re-embarking of another story and another story and another story,&#x201D; she says. &#x201C;That is how love is passed down. Period.&#x201D;
 
 ============================================================
-[20] Kristin Chenoweth to Honor Late Dolly Parton With Gay Men's Chorus of Los Angeles at Holiday Shows
+[23] Kristin Chenoweth to Honor Late Dolly Parton With Gay Men's Chorus of Los Angeles at Holiday Shows
 Source: The Hollywood Reporter | Status: expanded | Words: 422
 Published: 2026-11-20T17:34:34+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/kristin-chenoweth-dolly-parton-gay-mens-chorus-la-concerts-1236760027
@@ -525,7 +621,7 @@ Said Chenoweth: "Celebrating my queen Dolly Parton with the Gay Men's Chorus of 
 Most recently, Chenoweth, best known for a range of roles from Wicked to Pushing Daisies, most recently produced and starred in Broadway's The Queen of Versailles . She can be seen on the upcoming fifth season of Peacock&#x2019;s The Traitors. Tickets are available here . GMCLA's nearly 200-voice chorus is under the leadership of artistic director Ernest H. Harrison.
 
 ============================================================
-[21] 'Presumed Innocent' Season 2 Pairs Rachel Brosnahan With Matthew Rhys in First Look at Next Courtroom Face-Off
+[24] 'Presumed Innocent' Season 2 Pairs Rachel Brosnahan With Matthew Rhys in First Look at Next Courtroom Face-Off
 Source: The Hollywood Reporter | Status: expanded | Words: 437
 Published: 2026-11-20T17:32:50+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/presumed-innocent-season-2-brosnahan-rhys-1236760022
@@ -551,7 +647,7 @@ Brosnahan is known for her Emmy-winning star turn on The Marvelous Mrs. Maisel, 
 Kelley, Abrams share executive producer credits on Presumed Innocent season two with Rachel Rusch Rich, Dee Johnson, Dustin Thomason, Brosnahan, Scott Turow and Gyllenhaal, after he starred in the first season. The opening two episodes will debut on Feb. 19, with weekly releases to follow until April 2.
 
 ============================================================
-[22] Jennifer Lawrence and Josh Hutcherson Reunite for 'The Hunger Games,' 'Cliff Booth' Returns and This Week's Best Events
+[25] Jennifer Lawrence and Josh Hutcherson Reunite for 'The Hunger Games,' 'Cliff Booth' Returns and This Week's Best Events
 Source: The Hollywood Reporter | Status: expanded | Words: 18
 Published: 2026-11-20T17:30:26+00:00
 URL: https://www.hollywoodreporter.com/gallery/hunger-games-cliff-booth-red-carpet-events-1236755440
@@ -563,7 +659,7 @@ CONTENT / EXTRACTED DETAILS:
 David Fincher, Quentin Tarantino and Brad Pitt debuted The Further Mis-Adventures of Cliff Booth in Hollywood on Monday.
 
 ============================================================
-[23] UTA Hires Sam Yabrow As Talent Agent
+[26] UTA Hires Sam Yabrow As Talent Agent
 Source: Deadline | Status: expanded | Words: 212
 Published: 2026-11-20T17:30:00+00:00
 URL: https://deadline.com/2026/11/uta-hires-sam-yabrow-talent-agent-1237229460
@@ -583,7 +679,7 @@ Yabrow began his career in casting in New York before moving into talent represe
 Originally from Georgia, Yabrow is a graduate of the University of Michigan. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[24] Hollywood’s Top 25 Legal Troubleshooters
+[27] Hollywood’s Top 25 Legal Troubleshooters
 Source: The Hollywood Reporter | Status: expanded | Words: 1992
 Published: 2026-11-20T17:30:00+00:00
 URL: https://www.hollywoodreporter.com/lists/hollywood-top-25-legal-troubleshooters
@@ -653,7 +749,7 @@ For Zwicker’s wealthy clients, moving away can be as complicated as passing a 
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[25] Louis Garrel And Harry Lawtey Join Jeremy Allen White In Ben Stiller-Directed 'Airman' From Laika Live-Action And A24
+[28] Louis Garrel And Harry Lawtey Join Jeremy Allen White In Ben Stiller-Directed 'Airman' From Laika Live-Action And A24
 Source: Deadline | Status: expanded | Words: 449
 Published: 2026-11-20T17:30:00+00:00
 URL: https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602
@@ -677,7 +773,7 @@ Stiller will produce for his Red Hour Films as will John Lesher for his Le Grisb
 Stiller is represented by WME, VIE and Sloane, Offer, Weber & Dern. White is represented by WME. Garrel is represented by UTA and Agence Adequat. Lawtey is represented by CAA, B-Side and Goodman, Genow, Schenkman, Smelkinson & Christopher.
 
 ============================================================
-[26] 'Outer Banks' Alum Madelyn Cline in Final Talks to Join New 'Serendipity' Movie (EXCLUSIVE)
+[29] 'Outer Banks' Alum Madelyn Cline in Final Talks to Join New 'Serendipity' Movie (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 442
 Published: 2026-11-20T17:30:00+00:00
 URL: https://variety.com/2026/film/news/serendipity-reboot-cast-madelyn-cline-1236952550
@@ -703,7 +799,7 @@ Michael Showalter is attached to direct "Serendipity." Marc Klein, who wrote the
 The original "Serendipity" starred John Cusack and Kate Beckinsale. In the film, their characters meet one night in New York and decide to leave the chance of meeting again up to fate. They ultimately go searching for each other years later despite being in relationships with other people. The film was a box office success, grossing over $77 million on a reported budget of $28 million.
 
 ============================================================
-[27] Solo Leveling Studio's Next Big Anime Confirms Early Crunchyroll Premiere With New Event
+[30] Solo Leveling Studio's Next Big Anime Confirms Early Crunchyroll Premiere With New Event
 Source: ComicBook.com | Status: expanded | Words: 573
 Published: 2026-11-20T17:29:43+00:00
 URL: https://comicbook.com/anime/news/solo-leveling-studios-next-big-anime-confirms-early-crunchyroll-premiere-with-new-event
@@ -731,7 +827,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Deltarune Chapter 6 Gets New Development Update From Toby Fox
+[31] Deltarune Chapter 6 Gets New Development Update From Toby Fox
 Source: ComicBook.com | Status: expanded | Words: 540
 Published: 2026-11-20T17:23:00+00:00
 URL: https://comicbook.com/gaming/news/deltarune-chapter-6-7-toby-fox-update
@@ -757,7 +853,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Mckenna Grace Rocked Purple, And I Can’t Decide If It’s A Tribute To Maysilee Or Scooby-Doo’s Daphne
+[32] Mckenna Grace Rocked Purple, And I Can’t Decide If It’s A Tribute To Maysilee Or Scooby-Doo’s Daphne
 Source: CinemaBlend | Status: expanded | Words: 284
 Published: 2026-11-20T17:17:23+00:00
 URL: https://www.cinemablend.com/movies/mckenna-grace-rocked-purple-cant-decide-tribute-to-maysilee-or-scooby-doo-daphne
@@ -775,7 +871,7 @@ This type of passion and attention to detail is no doubt why Mckenna Grace has h
 Given how much Grace has embraced the method dressing trend in Hollywood , I'm curious to see if she does the same thing when publicity starts for her live-action Scooby-Doo series. That show is expected to arrive sometime in 2027 for those with a Netflix subscription . Hopefully we get more information about exactly when soon.
 
 ============================================================
-[30] Golden Globes Category Chaos: When ‘The Drama’ Is a Comedy…
+[33] Golden Globes Category Chaos: When ‘The Drama’ Is a Comedy…
 Source: The Hollywood Reporter | Status: expanded | Words: 1138
 Published: 2026-11-20T17:15:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/golden-globes-category-chaos-the-drama-comedy-1236757819
@@ -811,7 +907,7 @@ Moving forward, it would make everyone's life easier if the Globes consolidated 
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[31] 'Hunger Games: Sunrise on the Reaping' Hunts Down $21M in Box Office Previews
+[34] 'Hunger Games: Sunrise on the Reaping' Hunts Down $21M in Box Office Previews
 Source: The Hollywood Reporter | Status: expanded | Words: 505
 Published: 2026-11-20T17:12:26+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000
@@ -835,7 +931,7 @@ Sunrise on the Reaping holds a 67 critical score on Rotten Tomatoes as it lags b
 The weekend's competition includes Amazon MGM Studios' I Play Rocky going wide after two frames in limited release for Peter Farrelly's origin story of the 1976 Oscar-winning Rocky . Also fighting for attention spans this weekend is the highly anticipated video game Grand Theft Auto 6 , which launched Thursday after a 13-year wait since the franchise's last title.
 
 ============================================================
-[32] AI Estimates GTA 7 Could Be Twice as Big and Arrive By 2031 If Rockstar Games Does One Thing
+[35] AI Estimates GTA 7 Could Be Twice as Big and Arrive By 2031 If Rockstar Games Does One Thing
 Source: ComicBook.com | Status: expanded | Words: 764
 Published: 2026-11-20T17:11:36+00:00
 URL: https://comicbook.com/gaming/news/ai-estimates-gta-7-could-be-twice-as-big-and-arrive-by-2031-if-rockstar-games-does-one-thing
@@ -865,7 +961,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] I’m Shocked That A Big Brother Houseguest Is In Grand Theft Auto VI
+[36] I’m Shocked That A Big Brother Houseguest Is In Grand Theft Auto VI
 Source: CinemaBlend | Status: expanded | Words: 249
 Published: 2026-11-20T17:08:30+00:00
 URL: https://www.cinemablend.com/television/shocked-big-brother-houseguest-grand-theft-auto-vi-christian-birkenberger
@@ -885,7 +981,7 @@ Christian might be best known on Big Brother for his showmance with Alyssa Lopez
 The couple announced they were dating on Big Brother 's finale night, but less than 48 hours later, they broke up. He has not done any work in reality television since then, but Alyssa did two seasons of The Challenge after her exit.
 
 ============================================================
-[34] Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller 'Cupid'
+[37] Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller 'Cupid'
 Source: Deadline | Status: expanded | Words: 290
 Published: 2026-11-20T17:06:52+00:00
 URL: https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124
@@ -903,7 +999,7 @@ The psychological thriller, written by the Van Dyke Brothers ( Don't Worry Darli
 Cupid follows a couple (Ridley and Criss) whose relationship is on the rocks as they try, over one weekend, to repair their marriage at the home of a seemingly helpful but unorthodox marriage counselor (Zeta-Jones). What starts out as a hopeful endeavor quickly turns dark as her methods become crueler and more dangerous. Vayntrub's credits also include Netflix&#x2019;s Monsters: The Erik and Lyle Menendez Story , in which she portrayed prosecutor Pam Bozanich, and Bad Shabbos , which debuted at the 2024 Tribeca Film Festival. She also directed and starred in the short film Pickled Herring and previously appeared in Werewolves Within , Die Hart , This Is Us and Silicon Valley . The actress is repped by Innovative Artists Entertainment and Artists First. Upgrade is handling international sales and CAA Media Finance, which arranged financing for the film, is handling U.S. distribution rights for Cupid . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[35] Spider-Man Meets Luke Skywalker in New Look at Marvel x Star Wars Crossover, Even if the Line Makes My Brain Break
+[38] Spider-Man Meets Luke Skywalker in New Look at Marvel x Star Wars Crossover, Even if the Line Makes My Brain Break
 Source: ComicBook.com | Status: expanded | Words: 953
 Published: 2026-11-20T17:00:00+00:00
 URL: https://comicbook.com/comics/news/spider-man-meets-luke-skywalker-in-new-look-at-marvel-x-star-wars-crossover-even-if-the-line-makes-my-brain-break
@@ -937,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Tracy Oliver &#038; Issa Rae Drama 'Open' Lands At HBO
+[39] Tracy Oliver &#038; Issa Rae Drama 'Open' Lands At HBO
 Source: Deadline | Status: expanded | Words: 660
 Published: 2026-11-20T17:00:00+00:00
 URL: https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921
@@ -969,7 +1065,7 @@ Oliver is writing and executive producing Hilary , a Bel-Air spinoff headlined b
 With the 2017 Girls Trip , Oliver became the first Black woman to write a film that grossed more than $100 million. In TV, she created and exec produced the series First Wives Club and Harlem . Oliver also has in the works The Wedding Date , a movie for Netflix based on Jasmine Guillory&#x2019;s book, Girls Trip 2, The Blackening 2, the holiday film Deck the Y&#x2019;alls starring Octavia Spencer and Jessica Chastain as well as thriller drama series Paper Gods at Netflix and Not a Happy Family at Starz. She is repped by CAA, Artists First and Myman Greenspan Fox.
 
 ============================================================
-[37] GTA 6 - How To Fast Travel &#038; Collect More Vehicles To Explore The World
+[40] GTA 6 - How To Fast Travel &#038; Collect More Vehicles To Explore The World
 Source: ComicBook.com | Status: expanded | Words: 1326
 Published: 2026-11-20T17:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-how-to-fast-travel-collect-more-vehicles-to-explore-the-world
@@ -1007,7 +1103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Before a New Friday the 13th Movie, the Mask from the Jason's Worst Movie Is Up For Sale and Will Put Your Wallet Through Hell
+[41] Before a New Friday the 13th Movie, the Mask from the Jason's Worst Movie Is Up For Sale and Will Put Your Wallet Through Hell
 Source: ComicBook.com | Status: expanded | Words: 656
 Published: 2026-11-20T16:57:00+00:00
 URL: https://comicbook.com/collectibles/news/before-a-new-friday-the-13th-movie-the-mask-from-the-jasons-worst-movie-is-up-for-sale-and-will-put-your-wallet-through-hell
@@ -1027,7 +1123,7 @@ Regardless of what happens in the future of the franchise, the past is full of n
 Was Jason Goes to Hell the worst movie of the Friday the 13th franchise? Let us know in the comments.
 
 ============================================================
-[39] 'The Prisoner': Amazon Snags Rights To Cult Classic 1960s TV Show For A New Adaptation
+[42] 'The Prisoner': Amazon Snags Rights To Cult Classic 1960s TV Show For A New Adaptation
 Source: The Playlist | Status: summary_only | Words: 87
 Published: 2026-11-20T16:56:47+00:00
 URL: https://theplaylist.net/the-prisoner-amazon-snags-rights-to-cult-classic-1960s-tv-show-for-a-new-adaptation-20261120
@@ -1039,7 +1135,7 @@ CONTENT / EXTRACTED DETAILS:
 Fans of British TV take note: there's a new take on the cult classic " The Prisoner " on the way. READ MORE: 62 TV Shows To Watch This Fall: 'VisionQuest,' 'Blade Runner 2099,' 'East Of Eden', 'Pride And Prejudice,' & More THR reports that Amazon Studios has snagged the rights of the '60s TV show, a series that lasted only one season but remains highly influential. Continue reading 'The Prisoner': Amazon Snags Rights To Cult Classic 1960s TV Show For A New Adaptation at The Playlist.
 
 ============================================================
-[40] Peak Halftime Show: The A-List Machine Eventizing Pro Games
+[43] Peak Halftime Show: The A-List Machine Eventizing Pro Games
 Source: The Hollywood Reporter | Status: expanded | Words: 1065
 Published: 2026-11-20T16:56:29+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/peak-halftime-show-pro-games-1236759927
@@ -1077,7 +1173,7 @@ From the league&#x2019;s point of view, the performances are ultimately about gr
 This story appeared in the Nov. 17 issue of The Hollywood Reporter magazine. Click here to subscribe.
 
 ============================================================
-[41] Steam Machine Price Increase Likely Coming Very Soon, Says Valve
+[44] Steam Machine Price Increase Likely Coming Very Soon, Says Valve
 Source: ComicBook.com | Status: expanded | Words: 522
 Published: 2026-11-20T16:55:20+00:00
 URL: https://comicbook.com/gaming/news/steam-machine-price-increase-valve-2027-warning
@@ -1103,7 +1199,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Jennifer Lopez Wears 186-Carat Diamond Necklace to 'JLo Show' Premiere: 'There's Security All Around'
+[45] Jennifer Lopez Wears 186-Carat Diamond Necklace to 'JLo Show' Premiere: 'There's Security All Around'
 Source: Variety | Status: expanded | Words: 824
 Published: 2026-11-20T16:50:41+00:00
 URL: https://variety.com/2026/film/columns/jennifer-lopez-186-carat-diamond-necklace-jlo-show-premiere-dolce-gabbana-1236953996
@@ -1143,7 +1239,7 @@ After four marriages that ended in divorce and numerous boyfriends, Lopez said, 
 &#x201C;The JLo Show: Live in Las Vegas&#x201D; premieres Nov. 26 at 8 p.m. ET/PT on CBS and Paramount+, with an extended version available exclusively on Paramount+.
 
 ============================================================
-[43] Former James Bond Endorses Robert Pattinson as 007 16 Years After Playing His Dad in a Wild Movie
+[46] Former James Bond Endorses Robert Pattinson as 007 16 Years After Playing His Dad in a Wild Movie
 Source: ComicBook.com | Status: expanded | Words: 643
 Published: 2026-11-20T16:42:22+00:00
 URL: https://comicbook.com/movies/news/former-james-bond-endorses-robert-pattinson-as-007-16-years-after-playing-his-dad-in-a-wild-movie
@@ -1171,7 +1267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] I Just Learned The Incredible Amount Johnny Depp Earned, Then Lost After Pirates
+[47] I Just Learned The Incredible Amount Johnny Depp Earned, Then Lost After Pirates
 Source: CinemaBlend | Status: expanded | Words: 192
 Published: 2026-11-20T16:38:27+00:00
 URL: https://www.cinemablend.com/movies/just-learned-incredible-amount-johnny-depp-earned-then-lost-after-pirates
@@ -1187,7 +1283,7 @@ That spending, according to PageSix, included buying a luxury yacht, 14 homes, p
 As Depp has admitted, he was also on the hook for $100 million in back taxes owed to Uncle Sam, a debt he blamed on the accountants and advisors he thought were paying the taxes when they apparently weren’t.
 
 ============================================================
-[45] Lili Reinhart Circling Amazon MGM Studios &#038; Mattel's 'Polly Pocket' After Lily Collins Exit
+[48] Lili Reinhart Circling Amazon MGM Studios &#038; Mattel's 'Polly Pocket' After Lily Collins Exit
 Source: Deadline | Status: expanded | Words: 275
 Published: 2026-11-20T16:37:28+00:00
 URL: https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090
@@ -1211,7 +1307,7 @@ Riverdale star Reinhart most recently headlined The Love Hypothesis for Amazon M
 Amazon didn't respond to request for comment.
 
 ============================================================
-[46] All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried
+[49] All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried
 Source: Deadline | Status: expanded | Words: 207
 Published: 2026-11-20T16:30:00+00:00
 URL: https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486
@@ -1227,7 +1323,7 @@ Amanda Seyfried voices Cinderella in the film, and she gets the chance to show o
 Find all the songs in the fairytale retelling film below: blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[47] 'Bouchra' Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: 'Through Specificity, You Can Reach Truth'
+[50] 'Bouchra' Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: 'Through Specificity, You Can Reach Truth'
 Source: Variety | Status: expanded | Words: 688
 Published: 2026-11-20T16:30:00+00:00
 URL: https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372
@@ -1265,104 +1361,4 @@ Without necessarily intending to, Barki&#x2019;s friend had zeroed in on a centr
 &#x201C;The movie is about a mother-daughter relationship that has this foundation of love, [which] is what gets them to have all these conversations,&#x201D; Barki explained. &#x201C;And in a way, it doesn't matter if they'll understand everything about it, but just the willingness to have this conversation is already the acceptance and the love.&#x201D;
 
 Watch the video above to learn more about Bennani and Barki&#x2019;s artistry; how they drew inspiration from Wong Kar-wai&#x2019;s &#x201C;Chungking Express&#x201D; and Martin Scorsese&#x2019;s &#x201C;After Hours&#x201D;; and what Bennani&#x2019;s mother made of the finished film.
-
-============================================================
-[48] Prime Video Rebooting a Cult Sci-Fi TV Series That Even Chris Nolan Couldn't Make Work
-Source: ComicBook.com | Status: expanded | Words: 583
-Published: 2026-11-20T16:27:00+00:00
-URL: https://comicbook.com/tv-shows/news/prime-video-rebooting-a-cult-sci-fi-tv-series-that-even-chris-nolan-couldnt-make-work
-------------------------------------------------------------
-SUMMARY:
-IMAGE COURTESY OF ITV A remake of The Prisoner is being attempted again, and this time it looks like it'll actually work. The groundbreaking 1967 TV series, about a secret agent trapped in a bizarre seaside village meant to disorient and interrogate him, memorably used surreal imagery and a Kafka-esque plot, and has been a cult hit ever since. […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A remake of The Prisoner is being attempted again, and this time it looks like it'll actually work. The groundbreaking 1967 TV series , about a secret agent trapped in a bizarre seaside village meant to disorient and interrogate him, memorably used surreal imagery and a Kafka-esque plot, and has been a cult hit ever since. AMC and ITV collaborated on an American TV remake in 2009, but reviews and ratings were not kind. Movies have been attempted over the years, by Simon West in 2001, Ridley Scott in 2016 , and Christopher Nolan, in 2009 and 2024 .
-
-Now, however, Transformers producer Don Murphy will be bringing it to Prime Video, according to The Hollywood Reporter . Given that Prime has managed to bring back Spider-Noir , Blade Runner , and The Lord of the Rings as streaming shows, this version of The Prisoner seems likely to happen, and is said to be a priority. Murphy recently remade the faux-snuff film Faces of Death into a modern, dramatic horror movie. He's apparently a lifelong fan of the original, and is looking for showrunners now.
-
-Like many surreal sci-fi shows, The Prisoner didn't have a huge budget for special effects, so it often went weird instead, famously using giant balloons to represent security robots. It all added to the disorienting effect that was meant to make the titular character (Patrick McGoohan) confess and spill his secrets. The resort-like prison called The Village was loosely based on an isolated World War II installation in Scotland, near Inverness. The prisoner himself, known only as Number Six, would occasionally foil the authorities but never escape. Sixties style color schemes and fashions made it look hip at the time, but mark it as even more strangely off-kilter today. Broadcast in black and white originally in the UK, it was shot in color for the U.S. market. Maybe they could do both on Prime, as Spider-Noir did.
-
-As the producer of the Transformers movies, including Rise of the Beasts , which ended in a G.I. Joe tease, Murphy has to be aware that Danny McBride's upcoming G.I. Joe reboot is based on a Prisoner -inspired storyline , "There's No Place Like Springfield." It seems safe to say that Duke, or whichever Joe is captured, will break out of Springfield by the end, but if Murphy's reboot is successful, it's more likely to go the other way — indeed, the finale of the original answered very little and left more questions than answers, infuriating fans at the time. Nonetheless, the similar hook probably helps both projects.
-
-Murphy is also working on a reboot of Buck Rogers (another project that has had several failed attempts prior ), and presumably the next Transformers movie, which is bringing back original director Michael Bay. His 2011 Real Steel was an adaptation of a Twilight Zone episode based on a Richard Matheson short story; Murphy's genre TV fandom, and determination to adapt that which he loves, knows few bounds.
-
-Are you interested in a new take on The Prisoner ? Did you watch the original, or the 2009 version? Let's build a village of comments below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Tony Winner Ivy Lion Productions Gets Development Capital For Film &#038; TV Push, Switches From Zero Gravity To Gotham Group For Management
-Source: Deadline | Status: expanded | Words: 500
-Published: 2026-11-20T16:15:00+00:00
-URL: https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group. Last season, at the age of 33, Ivy Lion's Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime). Richardson runs Ivy Lion with […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE : Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group .
-
-Last season, at the age of 33, Ivy Lion's Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime ).
-
-Richardson runs Ivy Lion with wife Zaire-Julion Richardson and the duo recently secured a seven-figure capital raise from private investors as it looks to build into film and TV. The funding will go towards acquiring and optioning book IP and plays for screen adaptions, as well as developing and packaging projects for production. On the TV front, the company has a slate of scripted projects in active development with talent attached. The feature slate is also growing with IP acquisitions seen as a central priority. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Agencies Terri J. Vaughn Signs With Zero Gravity Management Agencies Zero Gravity Management Signs Horror Director Alex Kahuam
-
-On the Broadway front, upcoming projects include lead-producing Sweet Charity starring Ariana Debose, Lincoln Center Theater's spring 2027 revival of The Sound of Music starring Jasmine Amy Rogers and co-producing Purple Rain , the spring 2027 Prince-inspired new musical starring Jordan Fisher. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Founded in 2022, Ivy Lion's portfolio to date includes Tony-winning Ragtime , Merrily We Roll Along , and Appropriate , in addition to Bleecker Street&#x2019;s comedy feature The Fabulous Four , starring Bette Midler, Susan Sarandon, Sheryl Lee Ralph and Megan Mullally.
-
-Said Richardson: &#x201C;Zaire and I founded Ivy Lion to serve as a 360 vehicle for content development and production in an ever-evolving media landscape, and we are thrilled for this new chapter with The Gotham Group as we scale our footprint on screen and hunker down on our exciting partnerships with the next generation of authors, screenwriters, and playwrights.&#x201D;
-
-Added Julion-Richardson: &#x201C;As we continue building Ivy Lion&#x2019;s film and television slate, we&#x2019;re excited to partner with the Gotham team, who share our passion for distinctive storytelling and understand how to bring compelling projects to audiences at scale. We look forward to what we&#x2019;ll build together.&#x201D;
-
-Julion-Richardson&#x2019;s resume has included stops at NBCUniversal, ICM Partners, Courtney Kemp&#x2019;s production company End of Episode, and McKinsey & Company. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Producer Lamar Richardson also has an acting background with turns in Phylicia Rashad's production of the August Wilson play Ma Rainey&#x2019;s Black Bottom , and appearances in series Law & Order: SVU , Blue Bloods , and FBI .
-
-============================================================
-[50] Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee's Style Is Her ‘Form of Defiance Against the Capitol’
-Source: Variety | Status: expanded | Words: 1428
-Published: 2026-11-20T16:15:00+00:00
-URL: https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484
-------------------------------------------------------------
-SUMMARY:
-Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]
-
-CONTENT / EXTRACTED DETAILS:
-Mckenna Grace has been on a red carpet run for the ages during the global press tour for &#x201C;The Hunger Games : Sunrise on the Reaping.&#x201D;
-
-Over the last few weeks, the 20-year-old actress (and certified &#x201C;Hunger Games&#x201D; fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, who plays District 12 tribute Maysilee Donner (and her twin sister, Merilee), launched the tour with an archival Monique Lhuillier gown that evoked Lawrence's wedding dress as Katniss in &#x201C;Catching Fire.&#x201D; Then, for the film&#x2019;s final premiere on Monday night in New York City, Grace glided onto the red carpet in a cobalt blue Pamella Roland gown &#x2014; with feathered wings! &#x2014; mirroring the iconic Mockingjay look that bridal gown turned into. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Hold Onto Me' Director Myrsini Aristidou Kicks Off Historic Oscar Campaign for Sundance Audience Award Winner: 'I Really Feel Like We're Underdogs'
-
-Like Katniss, Grace&#x2019;s Maysilee aims to defy the Capitol &#x2014; something the actress wanted to portray in real life, too.
-
-&#x201C;Maysilee&#x2019;s form of rebellion was also her style and holding onto her personality in the face of the Capitol,&#x201D; Grace told Variety's Antonio Ferme at the New York City premiere. &#x201C;I felt like I&#x2019;d be doing myself a disservice not paying homage to all of the incredible performers and costume designers from the previous films.&#x201D;
-
-Grace joined Variety for a longer chat a few days earlier, checking in on Zoom the morning after the Los Angeles fan event for &#x201C;Sunrise on the Reaping,&#x201D; where she recreated another of Katniss&#x2019; dresses from &#x201C;Catching Fire.&#x201D; With just two stops left on the press tour (Mexico and New York City), Grace is in between fittings for her final two outfits, both of which paid homage to the mockingjay that started it all. After all, her character is the original owner of the mockingjay pin. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Her character, Maysilee, is the hot-headed, dignified ally of Haymitch Abernathy (Joseph Zada), who similarly wishes to take down the Capitol and stop the Hunger Games. Although District 12 is known as the poorest district, she prides herself in her fine dresses and overzealous amounts of jewelry &#x2014; something she continues to prioritize after being reaped.
-
-&#x201C;I didn't want it to be like, &#x2018;Oh, I'm an actor and I'm in the Hunger Games, but I still want my character to look pretty and have good, snatched makeup,&#x2019;&#x201D; she says. &#x201C;To me, her fashion and her style isn't a vain thing. It's her form of defiance against the Capitol.&#x201D;
-
-Below, Grace talks to Variety about playing Maysilee, details she included from Suzanne Collins&#x2019; novel and fangirling over franchise stars Jennifer Lawrence and Sam Claflin.
-
-There's a lot. I got the braid and the bangs [from the fan film]. I know this is silly and it's not something that's mentioned in the books, but I wanted Maysilee to have different colored eyeshadows in all the scenes that we see her in. That's how she stood out as a twin and in District 12: all of her necklaces, dresses, jewelry and her braid. The Capitol is appointing them clothes. She can't have her personality shine through with her fashion, which is something she really enjoys. She has this line where she's like, &#x201C;Do we all have to look like triplets?&#x201D; because they put them in all the same clothes, and they're bland. Throughout that, she's still finding ways to stand out and be seen as a classy person. And a person, not an animal. Somebody with fashion. Somebody with personality, with dignity. So I wanted her to have that little defiance with her eyeshadow.
-
-I also made sure that she wore a bunch of rings and jewelry. I made sure that her sleeves were torn off whenever we see her in the games, which is random. But in the books, it's mentioned that whenever they see her again, she's missing her sleeves because she ripped them off, and she has burns up her shoulders. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Also, something important to me was when Haymitch and Maysilee sit down for their picnic, I got Jo [Zada] to add back in &#x2014; because this was not in the original scene &#x2014; where he tells Maysilee about how his mom had twin girls that didn't make it. I told Jo and Francis [Lawrence, the film's director] that I felt that was so important because Maysilee, for the first time, is giving Haymitch some vulnerability. And he gives that back to her. That's so important for their relationship and such a beautiful thing for her to hear at that time. I had a lot of things that I wanted to get in there!
-
-I don't know, because I don't think that there's any version &#x2014; I mean, of course there are ways that she's found joy, even within the games when Haymitch brings out the juice, and they sit and have their picnic. That's a moment of joy; that doesn't come with worrying about all the heaviness of the world in the games. And there are moments of connection and joy throughout it, but she's a very angry character.
-
-I don't know if there is a version of Maysilee, even not being chosen by the games, where she feels truly happy in the world that she lives in or the circumstances that she was born into. She didn't set up that system or the world that she's in, and I don't think that she was ever truly happy in District 12, because she was just so angry at the way that it was all designed and at the games just for existing.
-
-It was really fun. She is learning to be more outwardly kind and a little bit more sensitive to the others around her, and she's learning how to be a sister and a healer and a friend more than just being angry and lashing out at everybody throughout the film. That's kind of what her arc is. But I didn't want that arc of her learning to be kinder to diminish her anger. I didn't want it to be like, &#x201C;Oh, this angry female character all of a sudden learns how to be a sister and a mother and a friend, and she's not angry anymore and has found happiness in that.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-While she finds happiness in being kind to the people around her and protecting them, she's still a very angry character. It's really important to show young women, and anyone in general, that the two can coexist. You can be very angry at the world. You can be very loud in standing up for yourself and standing up for the people around you, but you can also be kind throughout that. That's something we lose a lot; that it has to be one or the other. But no, you can stand up; you can speak out. You don't have to box up your emotions and the things that you believe in, or make yourself more digestible for the people around you. You can still have your personality. You can still be loud about the things that you believe in, but you can still be kind and have conversations and care about people and stick up for the people around you throughout that.
-
-It is ridiculous! It&#x2019;s insane. Jennifer Lawrence&#x2019;s comment was so funny. And the fact that Sam Claflin is commenting on my video of me dressed up [with] Finnick&#x2019;s abs painted on my shirt &#x2014; that was the funniest thing. I will never not be exposed to any celebrity that I am the biggest fan of. Between him and Josh [Hutcherson] and Jen, it&#x2019;s just ridiculous. It&#x2019;s so surreal. We&#x2019;re all such huge fans of them. Jo and I spent so many nights mulling over Josh and Jen, and I spent so long studying Sam for Finnick. It&#x2019;s such an honor that they even know who I am.
-
-This interview has been edited and condensed for length and clarity.
-
-For more from Grace, watch her episode of Variety's Up Next, hosted by Tiana DeNicola, below:
 
