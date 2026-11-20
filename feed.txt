@@ -1,9 +1,119 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-20T09:13:39.784Z
+Last Updated: 2026-11-20T09:43:46.783Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 5 Sci-Fi Movies That Were Too Ambitious For Their Own Good, Including Multiple Directors’ Pet Projects
+[1] BBC Cuts Could Hurt Audiences, Editorial Integrity &#038; Cybersecurity, Watchdog Warns
+Source: Deadline | Status: expanded | Words: 687
+Published: 2026-11-20T09:42:26+00:00
+URL: https://deadline.com/2026/11/bbc-cuts-hurt-audiences-editorial-integrity-cybersecurity-1237229946
+------------------------------------------------------------
+SUMMARY:
+The BBC has been told that its £500 million ($655M) savings plan will have a bigger impact on audiences than previous cuts, according to a new report. The UK's National Audit Office (NAO) spending watchdog warned that the £500M target is a "significant step up" in savings efforts and will likely "result in more noticeable […]
+
+CONTENT / EXTRACTED DETAILS:
+The BBC has been told that its &#xA3;500 million ($655M) savings plan will have a bigger impact on audiences than previous cuts, according to a new report.
+
+The UK's National Audit Office (NAO) spending watchdog warned that the &#xA3;500M target is a "significant step up" in savings efforts and will likely "result in more noticeable changes for audiences."
+
+The BBC has been steadily announcing cuts in recent months, including plans to slash 2,000 jobs, close services like BBC Three, and cancel shows such as RuPaul's Drag Race UK . Related Stories News BBC Deputy Boss Questions Impact Of "Creative Choices Taken On West Coast Of United States" On UK Audiences News Melissa George Leading BBC-BritBox Detective Series 'The Loch Ness Mysteries'
+
+The BBC has unveiled roughly &#xA3;200M of the savings , which are required because the broadcaster has hemorrhaged more than two million licence fee payers since 2020. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+In a 52-page report, the NAO said: "Larger savings from scope reductions, delivered at a faster pace, could increase the risk of cumulative impacts on audiences, reputation and services, while potentially reducing the BBC&#x2019;s capacity to manage further change."
+
+The NAO warned that layoffs at the BBC could mean a brain drain that increases the risk of mistakes in content. In compiling the report, the BBC told the NAO that errors &#x2014; such as Gaza: How to Survive a Warzone being narrated by the child of a Hamas minister &#x2014; were not related to cuts.
+
+The BBC acknowledged, however, that there is a "risk that further headcount reductions could result in the loss of staff with important skills and long-term experience of maintaining editorial integrity."
+
+The NAO added: "The BBC&#x2019;s efforts to achieve savings could reduce its data and cyber capability; delay investment in replacing ageing technology; and increase dependence on third-party suppliers."
+
+The spending watchdog said the BBC should review whether its governance arrangements for delivering savings remain appropriate for the &#xA3;500M plan.
+
+"We accept the recommendation, and as the report notes, we have already started establishing governance arrangements for the &#xA3;500 million savings programme. These include a new steering group &#x2013; with membership including the director-general &#x2013; to provide executive oversight and ensure that savings are aligned with our wider priorities," the BBC said. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"This steering group has now reviewed the governance framework for the new programme, and we will carefully consider the NAO&#x2019;s observations to identify where this could be further strengthened, whilst balancing the need for any additional governance with the risk of adding unnecessary bureaucracy."
+
+Gareth Davies, head of the NAO, said: "As the BBC approaches charter renewal in just over a year's time, there is no doubt that there are difficult choices ahead."
+
+BBC CFO B&#xE9;rang&#xE8;re Michel said: &#x201C;We welcome this report and are pleased that the NAO has acknowledged the significant savings already delivered by the BBC, with the programme on track to meet its target one year ahead of schedule.
+
+&#x201C;The BBC must respond to significant cost pressures while reinventing for a changing world. This continues to require tough decisions, while ensuring that the impacts on audiences and colleagues are minimised.
+
+&#x201C;We accept the NAO&#x2019;s recommendations and have already begun implementing them to strengthen the delivery of our current savings programme, while recognising there are further opportunities to build on this progress.
+
+&#x201C;We have consistently argued that the current funding model is not sustainable and needs reform. We will continue to engage with Government to secure a new Charter that provides sufficient, sustainable and universal funding so the BBC can deliver for audiences for generations to come.&#x201D;
+
+============================================================
+[2] Imax Inks Largest UK Deal With Cinema Chain Acquired By Former Cineworld CEO Mooky Greidinger
+Source: Deadline | Status: expanded | Words: 405
+Published: 2026-11-20T09:42:23+00:00
+URL: https://deadline.com/2026/11/imax-mooky-greidinger-showcase-cineworld-1237229960
+------------------------------------------------------------
+SUMMARY:
+Imax has locked a deal with Showcase Cinemas to install 13 new Imax with Laser systems across 12 locations in the United Kingdom and one additional European location, the largest deal the company has completed in the UK. The deal was announced in a statement by Imax, which also revealed that former Cineworld CEO Mooky […]
+
+CONTENT / EXTRACTED DETAILS:
+Imax has locked a deal with Showcase Cinemas to install 13 new Imax with Laser systems across 12 locations in the United Kingdom and one additional European location, the largest deal the company has completed in the UK.
+
+The deal was announced in a statement by Imax, which also revealed that former Cineworld CEO Mooky Greidinger has acquired Showcase Cinemas. Greidinger left Cineworld in 2023 following a restructure after a Chapter 11 bankruptcy process in the United States.
+
+As part of this deal, five new Imax locations will open across the UK in 2027, with the remaining sites opening over the next few years. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships News Imax CEO Wades Into 'Cliff Booth' Debate: "Frankly, I Don't Understand"
+
+&#x201C;Mooky is a visionary leader and an excellent partner who recognized the value in IMAX long before our recent run of record-breaking success &#x2014; we&#x2019;re excited to be back in business with his team at Showcase Cinemas UK,&#x201D; Rich Gelfond, CEO of IMAX, said in a statement. &#x201C;This agreement significantly expands our footprint in one of our most successful markets, and underscores the strong opportunity for network growth as we deliver our best year ever at the global box office.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Greidinger added: &#x201C;I&#x2019;ve been in the IMAX business for decades, and the value of its technology, brand, and strategic partnership to exhibitors have grown exponentially in that time. There is no doubt that IMAX plays a significant role in the results of the industry and I am sure it will continue to grow and attract new audiences and become even more significant in the coming years. I look forward to working with Rich and his team and making the IMAX Experience a cornerstone of the new Showcase Cinemas in the UK.&#x201D;
+
+Earlier this week, Imax confirmed longtime exec Giovanni Dolci has been promoted to a newly created role of chief operating officer, overseeing the company&#x2019;s expanding global theater network.
+
+============================================================
+[3] Skydance Will Need International Films to Supply Theatrical Release Pledge, Raine’s Joe Ravitch Predicts: ‘Those Are Big Investments’
+Source: Variety | Status: expanded | Words: 1168
+Published: 2026-11-20T09:30:00+00:00
+URL: https://variety.com/2026/film/global/raine-joe-ravitch-skydance-international-theatrical-promise-1236953992
+------------------------------------------------------------
+SUMMARY:
+One of the key promises David Ellison made to the industry in the lead-up to his heavily scrutinized merger of Paramount and Warner Brothers was that the newly-formed Skydance would release at least 30 films theatrically per year. To ensure that he delivers on the promise, the studio magnate will need to look beyond Hollywood, […]
+
+CONTENT / EXTRACTED DETAILS:
+One of the key promises David Ellison made to the industry in the lead-up to his heavily scrutinized merger of Paramount and Warner Brothers was that the newly-formed Skydance would release at least 30 films theatrically per year . To ensure that he delivers on the promise, the studio magnate will need to look beyond Hollywood, said top entertainment business investor Joe Ravitch .
+
+Ravitch, who is the co-founder and partner of the Raine Group , a global merchant bank focused exclusively on technology, media and telecommunications, gave an insightful keynote talk on the first day of the Doha Film Festival &#x2019;s Industry Days. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Oscar Predictions: Documentary Feature — Will the Branch Embrace ‘You Can See Everything’ or Snub the Frontrunner (Again)? Oscar Predictions: Best Casting — 'Being Heumann' and 'La Bola Negra' Found the Year's Boldest Discoveries. Will the Academy Reward Them?
+
+&#x201C;Paramount-Warner is committing to 30 theatrical releases a year,&#x201D; he said. &#x201C;I would guarantee you they are going to need international films to succeed as part of the world plan for national releases. And those are big investments by them. They are going to be looking to the world and partners to help feed that pipeline across multiple genres.&#x201D;
+
+Ravitch cited this gap as one of the key opportunities contributing to a golden window for Arab cinema to fulfill its international potential. Another, even more pressing one, is the streamers&#x2019; growing interest in the Global South after having exhausted their subscriber base in the Western world, particularly Netflix . Last month, the major platform&#x2019;s shares hit a two-year low , with the concerning numbers coming a few days after a massive round of layoffs that saw the American powerhouse dismiss key executives such as chief content officer Bela Bajaria and film chief Dan Lin.
+
+&#x201C;The next wave for the streamers is the Global South,&#x201D; said Ravitch. &#x201C;Netflix stock is down. Why? Because they&#x2019;ve basically matured and have hit [all] subscription levels they&#x2019;re ever going to hit in Western Europe and the United States. They are focused on Asia; they are focused on Africa, the Middle East. The same is true for all the streamers. That&#x2019;s where they see subscriber growth happening, so that&#x2019;s where they need to get into that kind of content.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+This movement is even more interesting to Arab execs given that streamers are flocking to the region at a time when the &#x201C;Hollywood monoculture is over,&#x201D; he noted, adding how films like "Avengers: Doomsday" and "The Odyssey" will always top global box office charts, but "the next 10 films in a particular market are going to be local, and the streamers know that,&#x201D; said the veteran. &#x201C;If all the streamers show up in a market and deliver Hollywood content, they are not going to succeed.&#x201D;
+
+The world of tentpoles, Ravitch noted, is also eroding. Getting &#x201C;big stars&#x201D; to do &#x201C;superhero movies&#x201D; based on IP is no longer the easiest route to success in Hollywood. &#x201C;We&#x2019;ve seen this through &#x2018;Backrooms,&#x2019; &#x2018;Obsession,&#x2019; and other small-budget, YouTube movies succeeding beyond anybody&#x2019;s wildest imagination. That&#x2019;s a trend that will continue.&#x201D;
+
+The end of an era of over-reliance on stars is pivotal to the Middle East&#x2019;s strategy to internationalize its industry, given that many countries in the region have opted to kickstart their markets by attracting big-gun Hollywood names either to shoot in their territory or promote it as a destination. &#x201C;I think there have been a lot of missteps, to be honest,&#x201D; said Ravitch of the strategy, refusing to cite any countries as an example of such practice. &#x201C;It&#x2019;s not about getting Tom Cruise to shoot a movie,&#x201D; he observed.
+
+&#x201C;There&#x2019;s been too much of a race to the bottom historically of 'let&#x2019;s get a famous movie star to come shoot this movie here' as opposed to a sort of bottom-up approach,&#x201D; he continued. This strategy is inefficient because the Hollywood films shot in Arab countries tend to be generic, characterless representations of the region that lead audiences to believe they might have been shot elsewhere.
+
+Audiences can just as easily believe films have been shot in other popular production hubs such as Hungary, Italy and China, added the exec.
+
+"[Productions] will go wherever it&#x2019;s cheapest to shoot the film,&#x201D; he said. &#x201C;It doesn&#x2019;t develop any kind of organic organization or systematized way where people are going to [focus] on the local culture.&#x201D;
+
+Focusing on developing local creativity, while also feeding from the know-how of international execs is the strongest way forward, especially in a market that has a key advantage: demand driven by a native audience coupled with demand from streamers. &#x201C;What&#x2019;s exciting to me about Arab culture, having done this in China, Korea, India and other places, is that you actually have a market here,&#x201D; Ravitch pointed out. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+&#x201C;Whether it&#x2019;s the Arab diaspora or Arab-speaking markets, there&#x2019;s real disposable income and a common culture,&#x201D; he said. The Arab world is a huge market, with around 500 million Arabic speakers worldwide, including a significant diasporic population in the U.S. and Europe, who also want to see themselves and their culture represented on screen.
+
+There is, however, one key issue: streamers have famously entered international markets without sharing creative rights or long-term revenue with local makers. Industries in massive markets like Brazil, Netflix&#x2019;s second-largest subscriber base, have been trying to regulate streamers for years without success.
+
+Sitting in the audience, chairman and chief executive officer of AGC Studio Stuart Ford asked Ravitch about this &#x201C;wrinkle in the system,&#x201D; which he described as: &#x201C;Streaming doesn't share in the revenues. So ultimately you have local sectors and local stakeholders such as the Film Committee [in Qatar] [who] will invest in local content, develop it, finance it, but ultimately, if they want the global audience as the industry stands today, they're gonna give up most of the upside.&#x201D;
+
+Stuart brought up the case of &#x201C;Squid Game.&#x201D; The massively popular series skyrocketed Korean production company Firstman Studio to global prominence, but Netflix owns the rights to the franchise. &#x201C;They gave away the goose that laid the golden egg,&#x201D; said Ravitch.
+
+&#x201C;One of my good friends at Property Media has a top show on Apple, one of the top shows on Paramount, and he makes no money because he got 120% cost,&#x201D; he added. &#x201C;So he'll never make any. That's a systemic problem we have.&#x201D;
+
+&#x201C;As we start at the infancy of really building the more mature market for Arab storytelling and Arab culture, it's something to be thoughtful about and careful about in how to avoid that and how to create an environment where all the streamers sort of want to be in this market.&#x201D;
+
+============================================================
+[4] 5 Sci-Fi Movies That Were Too Ambitious For Their Own Good, Including Multiple Directors’ Pet Projects
 Source: ComicBook.com | Status: expanded | Words: 1280
 Published: 2026-11-20T09:13:00+00:00
 URL: https://comicbook.com/movies/list/5-sci-fi-movies-that-were-too-ambitious-for-their-own-good-including-multiple-directors-pet-projects
@@ -41,7 +151,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Golshifteh Farahani:'It's Absolute B…shit What Hollywood Shows of the Middle East: We’re Victims of Propaganda, Both From the U.S. and Iran'
+[5] Golshifteh Farahani:'It's Absolute B…shit What Hollywood Shows of the Middle East: We’re Victims of Propaganda, Both From the U.S. and Iran'
 Source: Variety | Status: expanded | Words: 1208
 Published: 2026-11-20T08:52:45+00:00
 URL: https://variety.com/2026/film/global/golshifteh-farahani-hollywood-war-tallinn-free-world-award-1236953680
@@ -77,13 +187,13 @@ The panelists praised P&#xD6;FF&#x2019;s exceptional efforts as festival directo
 Lokk will also receive at the festival&#x2019;s closing ceremony Ukraine&#x2019;s Order of Princess Olga, Third Class, an award in recognition of her dedicated support for Ukrainian cinema and its international promotion.
 
 ============================================================
-[3] 'The Swindler And The Billionaire Murder' &#038; 'Two Marys' Set As Epis Vertical Doc Originals From 'Death Of The Pastor's Wife' Maker Silvio Productions
+[6] 'The Swindler And The Billionaire Murder' &#038; 'Two Marys' Set As Epis Vertical Doc Originals From 'Death Of The Pastor's Wife' Maker Silvio Productions
 Source: Deadline | Status: expanded | Words: 913
 Published: 2026-11-20T08:52:00+00:00
 URL: https://deadline.com/2026/11/epis-vertical-true-crime-doc-originals-silvio-productions-1237229934
 ------------------------------------------------------------
 SUMMARY:
-EXCLUSIVE: Vertical video streamer Epis is readying a pair of true crime originals, The Swindler and the Billionaire Murder and Two Marys. Epis is framing the series as "premium true crime" and claims this is the first a microdrama-style service has created something in this vein. Both shows come from Fremantle's Silvio Productions, which co-produces […]
+EXCLUSIVE: Vertical video streamer Epis is readying a pair of true crime originals, The Swindler and the Billionaire Murder and Two Marys. Epis is framing the series as "premium true crime" and claims this is the first time a microdrama-style service has created something in this vein. Both shows come from Fremantle's Silvio Productions, which […]
 
 CONTENT / EXTRACTED DETAILS:
 EXCLUSIVE: Vertical video streamer Epis is readying a pair of true crime originals, The Swindler and the Billionaire Murder and Two Marys .
@@ -119,7 +229,7 @@ Hameiri said conversations with distributors had developed when the sellers bega
 "It reminds me of the early days of cable TV," he added. "Rights owners could license a programme to a new channel, reach new audiences, and earn more from a title they&#x2019;d already invested in. At Roseberry, we believe vertical TV can do something similar. A distributor with a strong true-crime catalogue can bring those stories to audiences watching on their phones. That&#x2019;s the massive opportunity we see and are hearing from our partners and rights owners.&#x201D;
 
 ============================================================
-[4] 4 Years Ago, Star Wars TV's Best Series Delivered an Action Scene That Rivaled the Movies
+[7] 4 Years Ago, Star Wars TV's Best Series Delivered an Action Scene That Rivaled the Movies
 Source: ComicBook.com | Status: expanded | Words: 1329
 Published: 2026-11-20T08:31:00+00:00
 URL: https://comicbook.com/starwars/feature/4-years-ago-star-wars-tvs-best-series-delivered-an-action-scene-that-rivaled-the-movies
@@ -157,7 +267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] "Learn From the Mistakes of Mentors": The Head of Tallinn's Discovery Campus Is All About Bridging Film Education and Industry
+[8] "Learn From the Mistakes of Mentors": The Head of Tallinn's Discovery Campus Is All About Bridging Film Education and Industry
 Source: The Hollywood Reporter | Status: expanded | Words: 710
 Published: 2026-11-20T08:25:10+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/tallinn-discovery-campus-head-dhanushka-gunathilake-plans-1236759902
@@ -191,7 +301,7 @@ The Discovery Campus head's ambitions don't stop here, though. "We already have 
 Stay tuned for more from Tallinn's Discovery Campus in the months and years ahead.
 
 ============================================================
-[6] ‘Sentimental Value’ Creative Duo Joachim Trier and Eskil Vogt Set for Göteborg Fest’s Nordic Honorary Dragon Award 2027
+[9] ‘Sentimental Value’ Creative Duo Joachim Trier and Eskil Vogt Set for Göteborg Fest’s Nordic Honorary Dragon Award 2027
 Source: Variety | Status: expanded | Words: 483
 Published: 2026-11-20T08:10:36+00:00
 URL: https://variety.com/2026/film/global/joachim-trier-eskil-vogt-goteborg-nordic-honorary-dragon-1236954032
@@ -219,7 +329,7 @@ Described by Sweden&#x2019;s G&#xF6;teborg Film Festival as &#x2018;one of the m
 She added: &#x201C;With humor, melancholy and keen psychological insight, they explore life&#x2019;s biggest questions through seemingly small, everyday moments. It is a great pleasure to honour their shared body of work with this year&#x2019;s Nordic Honorary Dragon Award.&#x201D;
 
 ============================================================
-[7] 'Hunger Games: Sunrise On The Reaping' 2nd Best Franchise Previews With $21M+; Scorches 'Wicked' &#038; 'The Odyssey' - Box Office
+[10] 'Hunger Games: Sunrise On The Reaping' 2nd Best Franchise Previews With $21M+; Scorches 'Wicked' &#038; 'The Odyssey' - Box Office
 Source: Deadline | Status: expanded | Words: 532
 Published: 2026-11-20T07:22:42+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925
@@ -241,7 +351,7 @@ Overseas, industry projects have risen from a $70M forecast to $86M.
 Critics aren't hot on the fifth Hunger Games movie from director Francis Lawrence (the original 2012 movie was helmed by Gary Ross) with an RT score of 68% fresh. However, even if Katniss was shooting Cupid's arrows at critics, they'd still play hard to get, for the best reviews in the series were a a while ago with Catching Fire (90% certified fresh) and Hunger Games ( 85% certified fresh). Ever since the Mockingjays (both 70%), critics' love for Hunger Games has waned with Songbirds and Snakes being the worst reviewed in franchise at 64%. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[8] Busan-Selected Director Anoop Lokkur Turns His Own Tenant War Into Bengaluru Dark Comedy 'Melgade Mane Kelgade Mane' at India's WAVES Film Bazaar
+[11] Busan-Selected Director Anoop Lokkur Turns His Own Tenant War Into Bengaluru Dark Comedy 'Melgade Mane Kelgade Mane' at India's WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 696
 Published: 2026-11-20T07:08:12+00:00
 URL: https://variety.com/2026/film/markets-festivals/busan-director-tenant-war-bangalore-dark-comedy-1236954007
@@ -271,7 +381,7 @@ Henke says she went through the dispute alongside Lokkur, and that with the fami
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[9] Darsheel Safary &#038; Zain Khan Durrani Leading Alok Naik's 'Cyber'
+[12] Darsheel Safary &#038; Zain Khan Durrani Leading Alok Naik's 'Cyber'
 Source: Deadline | Status: expanded | Words: 371
 Published: 2026-11-20T07:06:21+00:00
 URL: https://deadline.com/2026/11/cyber-darsheel-safary-zain-khan-durrani-alok-nair-director-1237229931
@@ -295,7 +405,7 @@ Award-winning composer Gopi Sundar CS, known for his work in Geetha Govindam , B
 "What attracted me to this was it's a story of two engineering graduates who are jobless and trying to do something in life," said Zacharias. "It's a common man's story. It's a pure, raw and realistic storyline about how they get a chance to work with a cyber agency and how their life changes."
 
 ============================================================
-[10] Season 2 Of Hugo Weaving Drama 'The Airport Chaplain' Coming Together As Producer Wooden Horse Expands With Hires &#038; R.L. Stine TV Series
+[13] Season 2 Of Hugo Weaving Drama 'The Airport Chaplain' Coming Together As Producer Wooden Horse Expands With Hires &#038; R.L. Stine TV Series
 Source: Deadline | Status: expanded | Words: 1659
 Published: 2026-11-20T06:53:24+00:00
 URL: https://deadline.com/2026/11/airport-chaplain-season-2-wooden-horse-interview-1237215499
@@ -369,7 +479,7 @@ Troy addressed how to remain independent in a global production landscape where 
 "There are always conversations, and the rumour mill is always active," she said. "Fully independent Australian companies have shown how agile they can be. That flexibility matters. Not being tethered to one mothership is probably how we have continued to get projects made."
 
 ============================================================
-[11] Australian Brothers Discover They Are Indian Cinema Royalty in WAVES Film Bazaar Documentary 'Dada &#038; Us'
+[14] Australian Brothers Discover They Are Indian Cinema Royalty in WAVES Film Bazaar Documentary 'Dada &#038; Us'
 Source: Variety | Status: expanded | Words: 847
 Published: 2026-11-20T06:53:12+00:00
 URL: https://variety.com/2026/film/markets-festivals/australian-brothers-indian-cinema-royalty-dada-us-1236954002
@@ -403,7 +513,7 @@ He is finishing "Framed," a film about Islamophobia told through what he calls A
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[12] Berlinale Forum-Selected Director R. Gowtham Salutes Village Health Workers in Tamil Dark Comedy 'Superman Vivagaram' at India's WAVES Film Bazaar
+[15] Berlinale Forum-Selected Director R. Gowtham Salutes Village Health Workers in Tamil Dark Comedy 'Superman Vivagaram' at India's WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 794
 Published: 2026-11-20T06:37:42+00:00
 URL: https://variety.com/2026/film/markets-festivals/berlinale-forum-director-village-health-comedy-superman-vivagaram-1236953998
@@ -433,7 +543,7 @@ Gowtham is also distributing "Members of the Problematic Family," and has writte
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[13] Jennifer Lawrence Thinks Her 'Hunger Games' Bow and Arrow Prop Was Stolen
+[16] Jennifer Lawrence Thinks Her 'Hunger Games' Bow and Arrow Prop Was Stolen
 Source: The Hollywood Reporter | Status: expanded | Words: 397
 Published: 2026-11-20T06:30:45+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/jennifer-lawrence-hunger-games-bow-arrow-stolen-1236759843
@@ -459,7 +569,7 @@ The Hunger Games : Sunrise on the Reaping centers on Haymitch Abernathy's time i
 Sources told The Hollywood Reporter that Sunrise on the Reaping is likely to surpass $100 million in its box office debut this weekend.
 
 ============================================================
-[14] Jorrybell Agoto, Star of Philippines Oscar Submission 'Filipinana,' Dies at 32
+[17] Jorrybell Agoto, Star of Philippines Oscar Submission 'Filipinana,' Dies at 32
 Source: Variety | Status: expanded | Words: 573
 Published: 2026-11-20T06:18:19+00:00
 URL: https://variety.com/2026/film/obituaries-people-news/jorrybell-agoto-dead-filipinana-star-1236953982
@@ -489,7 +599,7 @@ The Film Development Council of the Philippines also paid tribute to Agoto .
 Her death comes as "Filipinana" opens in U.K. and Irish cinemas and campaigns for a spot on the Academy's international feature shortlist.
 
 ============================================================
-[15] 'Sh*t Happens' Is Full of Dark Humor, But Its Director Knows It Will Cause a Stink in the DR
+[18] 'Sh*t Happens' Is Full of Dark Humor, But Its Director Knows It Will Cause a Stink in the DR
 Source: The Hollywood Reporter | Status: expanded | Words: 686
 Published: 2026-11-20T06:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sht-happens-film-cause-stink-in-dominican-republic-tallinn-1236759641
@@ -515,7 +625,7 @@ But he highlighted that viewers back home in the Dominican Republic will immedia
 Added the director: "Whenever we show the film, if people see the political side, the social side of the movie, of course, they laugh, but then they question, 'What are we laughing at?' That's the principal objective of making this movie and trying to treat the characters principally very seriously, because they are not in a comedy because they are actually living in the drama." And Cabral concluded: "It's going to upset people back home, let me tell you that. It's going to upset some people." After all, "we are questioning privilege. … Just with the title, people are going to react. They are going to be like, 'Why are you pointing at us? Why are you pointing the camera at this place?' The movie is questioning it, and it's putting it in an absurd situation, and it's pointing out the inequalities, the hierarchies, and it's doing it in a fun, entertaining way - and that bothers people."
 
 ============================================================
-[16] Invincible Season 5 First Trailer Just Apologized to Fans for Season 4's Weirdest Episode
+[19] Invincible Season 5 First Trailer Just Apologized to Fans for Season 4's Weirdest Episode
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-20T05:46:28+00:00
 URL: https://comicbook.com/tv-shows/news/invincible-season-5-first-trailer-just-apologized-to-fans-for-season-4s-weirdest-episode
@@ -541,7 +651,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Sundance-Winning 'Cactus Pears' Producer's Delhi Beauty Salon Comedy-Drama 'Nisa' Bows at India's WAVES Film Bazaar
+[20] Sundance-Winning 'Cactus Pears' Producer's Delhi Beauty Salon Comedy-Drama 'Nisa' Bows at India's WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 569
 Published: 2026-11-20T05:43:56+00:00
 URL: https://variety.com/2026/film/markets-festivals/sundance-winning-cactus-pears-producer-nisa-waves-film-bazaar-1236953978
@@ -571,7 +681,7 @@ The project has $300,000 secured against a $750,000 budget, leaving a gap of $45
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[18] Climate Displacement Drama 'The River Without a Bridge' Heads to India's WAVES Film Bazaar Co-Production Market
+[21] Climate Displacement Drama 'The River Without a Bridge' Heads to India's WAVES Film Bazaar Co-Production Market
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-20T05:30:15+00:00
 URL: https://variety.com/2026/film/markets-festivals/climate-drama-river-without-bridge-waves-film-bazaar-1236953974
@@ -599,7 +709,7 @@ With the screenplay in advanced development, the team plans to shoot in 2028. "W
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[19] Maharaja Ranjit Singh, the Sikh Ruler Known as 'Sher-e-Punjab,' Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)
+[22] Maharaja Ranjit Singh, the Sikh Ruler Known as 'Sher-e-Punjab,' Gets Biopic, Plans 2027 Shoot (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 549
 Published: 2026-11-20T05:30:00+00:00
 URL: https://variety.com/2026/film/news/maharaja-ranjit-singh-sher-e-punjab-biopic-2027-shoot-1236952982
@@ -625,7 +735,7 @@ Big-screen versions have been slower to take shape. Babbar had earlier planned a
 The project, unveiled on the sidelines of WAVES Film Bazaar , the market component of the International Film Festival of India in Goa, lands as large-canvas historical dramas continue to pull Indian audiences into theaters, with Laxman Utekar's 2025 Maratha warrior saga "Chhaava" among the biggest recent hits.
 
 ============================================================
-[20] Jennifer Lawrence Ranks Her Onscreen Kisses, Details 'New' Implants and Says Her 'Hunger Games' Bow and Arrow Was 'Stolen' in Andy Cohen Interview
+[23] Jennifer Lawrence Ranks Her Onscreen Kisses, Details 'New' Implants and Says Her 'Hunger Games' Bow and Arrow Was 'Stolen' in Andy Cohen Interview
 Source: Variety | Status: expanded | Words: 387
 Published: 2026-11-20T05:10:33+00:00
 URL: https://variety.com/2026/film/news/jennifer-lawrence-breast-implants-celebrity-kissers-1236953902
@@ -657,7 +767,7 @@ Elsewhere, when Cohen asked if she ever snagged a bow and arrow from the &#x201C
 Watch parts of the interview below.
 
 ============================================================
-[21] What Happened to Face/Off 2? John Travolta Reveals Why He Turned Down Highly Anticipated Sequel
+[24] What Happened to Face/Off 2? John Travolta Reveals Why He Turned Down Highly Anticipated Sequel
 Source: ComicBook.com | Status: expanded | Words: 579
 Published: 2026-11-20T04:54:31+00:00
 URL: https://comicbook.com/movies/news/what-happened-to-face-off-2-john-travolta-reveals-why-he-turned-down-highly-anticipated-sequel
@@ -683,7 +793,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] 'Sunrise On The Reaping' Epilogue Scene Explained: How Everything Ties Together
+[25] 'Sunrise On The Reaping' Epilogue Scene Explained: How Everything Ties Together
 Source: Deadline | Status: expanded | Words: 932
 Published: 2026-11-20T04:38:15+00:00
 URL: https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907
@@ -717,7 +827,7 @@ At the end of the snippet, Haymitch goes to the meadow to feed his flock of gees
 As for whether there could be more films in the franchise, it seems like it would come down to Collins and her decision to write another book or two. Fans have been particularly vocal about wanting more of one Finnick Odair&#x2019;s first Hunger Games, and director Francis Lawrence as well as star Joseph Zada have expressed interest in diving into Plutarch&#x2019;s (Jesse Plemons) story as well as the lore behind the mysterious District 13, which makes itself known in the Mockingjay books and films. Collins is known for writing these books only when she has something to say and express through them. The final scene at the end of Sunrise on the Reaping could make a great close to the story as is.
 
 ============================================================
-[23] 'Project 11,' Shot by 11 Directors in 11 Global Cities, Returns on Oh Short Flips (EXCLUSIVE)
+[26] 'Project 11,' Shot by 11 Directors in 11 Global Cities, Returns on Oh Short Flips (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 615
 Published: 2026-11-20T04:30:00+00:00
 URL: https://variety.com/2026/film/markets-festivals/project-11-shot-11-directors-11-cities-re-release-1236952973
@@ -751,7 +861,7 @@ Chandra said that, looking back, the film was probably a little ahead of its mom
 The news was unveiled on the sidelines of the WAVES Film Bazaar , the market arm of the International Film Festival of India in Goa.
 
 ============================================================
-[24] How High Can 'Hunger Games: Sunrise on the Reaping' Reach in Its Box Office Opening?
+[27] How High Can 'Hunger Games: Sunrise on the Reaping' Reach in Its Box Office Opening?
 Source: The Hollywood Reporter | Status: expanded | Words: 830
 Published: 2026-11-20T04:26:26+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813
@@ -783,7 +893,7 @@ As for whether the game could impact box office numbers, it's likely that both H
 Among the other films looking to draw moviegoers this weekend is Amazon MGM Studios' I Play Rocky , as director Peter Farrelly's origin story about 1976's Oscar-winning boxing drama Rocky goes wide after two weekends in limited release. Anthony Ippolito stars as a young Sylvester Stallone in the project that Rooney describes as a "big-hearted movie about moviemaking, if not an artful one."
 
 ============================================================
-[25] This Marvel Fan's 6-Minute Road to Avengers: Doomsday Video Is the Only Thing You Need to Watch
+[28] This Marvel Fan's 6-Minute Road to Avengers: Doomsday Video Is the Only Thing You Need to Watch
 Source: ComicBook.com | Status: expanded | Words: 650
 Published: 2026-11-20T04:26:17+00:00
 URL: https://comicbook.com/movies/news/this-marvel-fans-6-minute-road-to-avengers-doomsday-video-is-the-only-thing-you-need-to-watch
@@ -811,7 +921,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] 5 Perfect Steven Universe Episodes That Define the Whole Show, Including the One That Cancelled It
+[29] 5 Perfect Steven Universe Episodes That Define the Whole Show, Including the One That Cancelled It
 Source: ComicBook.com | Status: expanded | Words: 1762
 Published: 2026-11-20T04:24:12+00:00
 URL: https://comicbook.com/tv-shows/list/5-perfect-steven-universe-episodes-that-define-the-whole-show-including-the-one-that-cancelled-it
@@ -849,7 +959,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO
+[30] Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO
 Source: The Hollywood Reporter | Status: expanded | Words: 452
 Published: 2026-11-20T04:22:43+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/ashton-kutcher-billionaire-anthropic-ipo-1236759822
@@ -875,7 +985,7 @@ Kutcher left Sound Ventures earlier this year to launch his own VC firm, though 
 Despite his investment prowess, Kutcher is still acting and most recently starred in FX's buzzy Ryan Murphy-produced series The Beauty which debuted in January.
 
 ============================================================
-[28] Major Crunchyroll Anime Confirms Spring 2027 Return for Season 2 - Watch Trailer
+[31] Major Crunchyroll Anime Confirms Spring 2027 Return for Season 2 - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 698
 Published: 2026-11-20T04:01:20+00:00
 URL: https://comicbook.com/anime/news/major-crunchyroll-anime-confirms-spring-2027-return-for-season-2-watch-trailer
@@ -903,7 +1013,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] 3 Things We Need to See in Solo Leveling's New Movie
+[32] 3 Things We Need to See in Solo Leveling's New Movie
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-20T03:47:48+00:00
 URL: https://comicbook.com/anime/list/3-things-we-need-to-see-in-solo-levelings-new-movie
@@ -935,7 +1045,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Jennifer Love Hewitt "Had Not Seen" Ryan Phillippe Since 'IKWYDLS' When Reuniting For '9-1-1' Crossover: "He Hadn't Changed At All"
+[33] Jennifer Love Hewitt "Had Not Seen" Ryan Phillippe Since 'IKWYDLS' When Reuniting For '9-1-1' Crossover: "He Hadn't Changed At All"
 Source: Deadline | Status: expanded | Words: 416
 Published: 2026-11-20T03:47:28+00:00
 URL: https://deadline.com/2026/11/jennifer-love-hewitt-ryan-phillippe-ikwydls-reunion-9-1-1-1237229879
@@ -961,7 +1071,7 @@ Having "never seen each other again" after wrapping the film, Hewitt noted that 
 The upcoming 9-1-1 crossover with 9-1-1: Nashville comes amid the parent series' 10th season and the spinoff's sophomore season, airing back-to-back on Thursdays at 8/7c and 9/8c on ABC.
 
 ============================================================
-[31] Lanterns Star Aaron Pierre Addresses DCU Future After James Gunn's Firing, "I'm Very At Peace"
+[34] Lanterns Star Aaron Pierre Addresses DCU Future After James Gunn's Firing, "I'm Very At Peace"
 Source: ComicBook.com | Status: expanded | Words: 644
 Published: 2026-11-20T03:46:53+00:00
 URL: https://comicbook.com/tv-shows/news/lanterns-star-aaron-pierre-addresses-dcu-future-after-james-gunns-firing-im-very-at-peace
@@ -987,7 +1097,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] The DCU’s New Leader Made Two Non-Marvel Movies That Are Actually Masterpieces
+[35] The DCU’s New Leader Made Two Non-Marvel Movies That Are Actually Masterpieces
 Source: ComicBook.com | Status: expanded | Words: 864
 Published: 2026-11-20T03:46:22+00:00
 URL: https://comicbook.com/movies/feature/the-dcus-new-leader-made-two-non-marvel-movies-that-are-actually-masterpieces
@@ -1019,7 +1129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] 'Hanuman Ansh,' 'Pyre' and Shah Rukh Khan Classics Lead International Film Festival of India's Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership (EXCLUSIVE)
+[36] 'Hanuman Ansh,' 'Pyre' and Shah Rukh Khan Classics Lead International Film Festival of India's Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 446
 Published: 2026-11-20T03:30:00+00:00
 URL: https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961
@@ -1045,7 +1155,7 @@ Chaudhary added: "What makes this edition especially exciting is the range of au
 The Goa run caps a busy year for the company. PictureTime also supported the exhibition infrastructure at the Dharamshala International Film Festival and took "Pyre" to audiences in the Indian hinterland.
 
 ============================================================
-[34] 29 Years Later, Dragon Ball Ended Its Controversial 64-Episode Long Series That Fans Still Don't Appreciate
+[37] 29 Years Later, Dragon Ball Ended Its Controversial 64-Episode Long Series That Fans Still Don't Appreciate
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-20T03:29:43+00:00
 URL: https://comicbook.com/anime/feature/29-years-later-dragon-ball-ended-its-controversial-64-episode-long-series-that-fans-still-dont-appreciate
@@ -1075,7 +1185,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Did Anthony Mackie Spoil Avengers: Doomsday Cameo? Marvel Star Sets the Record Straight
+[38] Did Anthony Mackie Spoil Avengers: Doomsday Cameo? Marvel Star Sets the Record Straight
 Source: ComicBook.com | Status: expanded | Words: 738
 Published: 2026-11-20T03:27:40+00:00
 URL: https://comicbook.com/movies/news/did-anthony-mackie-spoil-avengers-doomsday-cameo-marvel-star-sets-the-record-straight
@@ -1103,7 +1213,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Everything Coming to Hulu in December 2026
+[39] Everything Coming to Hulu in December 2026
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-20T03:26:17+00:00
 URL: https://comicbook.com/movies/news/everything-coming-to-hulu-in-december-2026
@@ -1193,7 +1303,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Is Billy Maximoff in Avengers: Doomsday? Marvel Star Responds After VisionQuest Tease
+[40] Is Billy Maximoff in Avengers: Doomsday? Marvel Star Responds After VisionQuest Tease
 Source: ComicBook.com | Status: expanded | Words: 570
 Published: 2026-11-20T03:25:13+00:00
 URL: https://comicbook.com/movies/news/is-billy-maximoff-in-avengers-doomsday-marvel-star-responds-after-visionquest-tease
@@ -1219,7 +1329,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] The Batman's Most Clever Twist Fooled Even Comic Book Readers &#038; It Could Set Up the Sequel
+[41] The Batman's Most Clever Twist Fooled Even Comic Book Readers &#038; It Could Set Up the Sequel
 Source: ComicBook.com | Status: expanded | Words: 826
 Published: 2026-11-20T03:20:00+00:00
 URL: https://comicbook.com/movies/feature/the-batmans-most-clever-twist-fooled-even-comic-book-readers-it-could-set-up-the-sequel
@@ -1249,7 +1359,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Netflix Renews Japanese Crime Hit ‘Tokyo Swindlers’ for Season 2
+[42] Netflix Renews Japanese Crime Hit ‘Tokyo Swindlers’ for Season 2
 Source: The Hollywood Reporter | Status: expanded | Words: 459
 Published: 2026-11-20T03:05:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/netflix-japanese-tokyo-swindlers-season-2-1236759815
@@ -1277,7 +1387,7 @@ Toyokawa offered a humorously ominous assessment of his task of stepping back in
 &#x201C;I have been reunited with a terrifying man,&#x201D; he said. &#x201C;He destroys my conscience, my sense of social decency, my love for my family. He destroys my life, my very humanity. I pray filming wraps before he consumes me. Imagine it: Harrison Yamanaka is always there in the mirror.&#x201D;
 
 ============================================================
-[40] 'Much Ado About Nothing' Broadway Review: Tom Hiddleston, Hayley Atwell &#038; Jamie Lloyd Throw An Irresistible Party Of Shakespeare's Great Comedy
+[43] 'Much Ado About Nothing' Broadway Review: Tom Hiddleston, Hayley Atwell &#038; Jamie Lloyd Throw An Irresistible Party Of Shakespeare's Great Comedy
 Source: Deadline | Status: expanded | Words: 1201
 Published: 2026-11-20T03:00:00+00:00
 URL: https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924
@@ -1315,7 +1425,7 @@ The grand appeal of this production is evident in just how much Hiddleston, Atwe
 Title: Much Ado About Nothing Venue: Broadway&#x2019;s Winter Garden Theatre Written By: Willliam Shakespeare Directed By: Jamie Lloyd Cast: Tom Hiddleston, Hayley Atwell, Mara Huf, Mika Onyx Johnson, Gerald Kyd, Forbes Masson, Phillip Olagoke, Mason Alexander Park, James Phoon, Tim Steed Running Time: 2 hr 20 min (including intermission)
 
 ============================================================
-[41] 'War' Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: 'Gwyneth Paltrow Ran So That the Rest of Us Could Walk'
+[44] 'War' Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: 'Gwyneth Paltrow Ran So That the Rest of Us Could Walk'
 Source: Variety | Status: expanded | Words: 1553
 Published: 2026-11-20T03:00:00+00:00
 URL: https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845
@@ -1395,7 +1505,7 @@ West: Yeah, I mean, I suppose I did have hesitations about it, but in practice, 
 This interview has been edited and condensed.
 
 ============================================================
-[42] 4 More Roles Robert Pattinson Would Be Perfect For, Including One That Would Drive Twilight Fans Wild
+[45] 4 More Roles Robert Pattinson Would Be Perfect For, Including One That Would Drive Twilight Fans Wild
 Source: ComicBook.com | Status: expanded | Words: 1053
 Published: 2026-11-20T02:58:19+00:00
 URL: https://comicbook.com/movies/list/4-more-roles-robert-pattinson-would-be-perfect-for-including-one-that-would-drive-twilight-fans-wild
@@ -1435,7 +1545,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] How to Play GTA 6 In 1st-Person Mode in 4 Simple Steps
+[46] How to Play GTA 6 In 1st-Person Mode in 4 Simple Steps
 Source: ComicBook.com | Status: expanded | Words: 530
 Published: 2026-11-20T02:56:49+00:00
 URL: https://comicbook.com/gaming/news/how-to-play-gta-6-in-1st-person-mode-in-4-simple-steps
@@ -1465,7 +1575,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] 'Can't Hardly Wait' Stars Campaign For Sequel To 1998 Teen Movie: "Would Be So Fun"
+[47] 'Can't Hardly Wait' Stars Campaign For Sequel To 1998 Teen Movie: "Would Be So Fun"
 Source: Deadline | Status: expanded | Words: 424
 Published: 2026-11-20T02:41:16+00:00
 URL: https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853
@@ -1493,7 +1603,7 @@ In Can't Hardly Wait , six high school seniors attend their grad night house par
 The star-studded ensemble also included Seth Green, Lauren Ambrose, Charlie Korsmo, Selma Blair, Jason Segel, Melissa Joan Hart, Jerry O'Connell, Donald Faison, Jaime Pressly, Clea DuVall, Leslie Grossman, Breckin Meyer, Sara Rue, Sean Patrick Thomas, Amber Benson, Marisol Nichols, Jennifer Elise Cox and more.
 
 ============================================================
-[45] This Forgotten Sci-Fi Movie Gave Us One of the Most Underrated Alien Invasions in Film History
+[48] This Forgotten Sci-Fi Movie Gave Us One of the Most Underrated Alien Invasions in Film History
 Source: ComicBook.com | Status: expanded | Words: 747
 Published: 2026-11-20T02:37:00+00:00
 URL: https://comicbook.com/movies/feature/this-forgotten-sci-fi-movie-gave-us-one-of-the-most-underrated-alien-invasions-in-film-history
@@ -1521,7 +1631,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Miss Delicious in Dungeon? This New 2027 Anime Could Be For You
+[49] Miss Delicious in Dungeon? This New 2027 Anime Could Be For You
 Source: ComicBook.com | Status: expanded | Words: 632
 Published: 2026-11-20T02:02:22+00:00
 URL: https://comicbook.com/anime/news/miss-delicious-in-dungeon-this-new-2027-anime-could-be-for-you
@@ -1547,7 +1657,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] 5 Overlooked DC Heroes With Powers That Could Change the DC Universe
+[50] 5 Overlooked DC Heroes With Powers That Could Change the DC Universe
 Source: ComicBook.com | Status: expanded | Words: 1343
 Published: 2026-11-20T01:54:00+00:00
 URL: https://comicbook.com/comics/list/5-overlooked-dc-heroes-with-powers-that-could-change-the-dc-universe
@@ -1583,72 +1693,4 @@ Which of these underrated but overpowered heroes would you want to see more of? 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[48] Billy Evans Will Secure His Cut of 'You Can See Everything' Profits After All — and Give It to Charity (Exclusive)
-Source: The Hollywood Reporter | Status: expanded | Words: 657
-Published: 2026-11-20T01:52:13+00:00
-URL: https://www.hollywoodreporter.com/movies/movie-news/billy-evans-profits-you-can-see-everything-ycse-charity-1236759761
-------------------------------------------------------------
-SUMMARY:
-After relinquishing his backend, the villain of A24's smash documentary negotiated a deal and arranged for the payout to go to a children's nonprofit.
-
-CONTENT / EXTRACTED DETAILS:
-It looks like Billy Evans will get paid for the success of You Can See Everything after all. He just won't keep the money. Evans and his representatives have negotiated for the backend share he gave up to be paid out, according to two sources not affiliated with him or his partner Elizabeth Holmes. The money will go to an unnamed children's charity instead of to Evans, the sources said. While the exact percentage is unknown, the total payout will be a lot bigger now than it would have been even a few weeks ago. The film has grossed $89 million domestically to date, a jaw-dropping sum for a documentary. Subject-payment is a key plot point in Nathan Fielder and Lance Oppenheim's hit about the convicted Theranos founder and her life partner Evans. The film shows Evans back in 2023 seeking money from A24 without Holmes' knowledge, casting him in a greedy light; the filmmakers reluctantly then agree to pay him in order to secure access and make a deal. But a title card at the end says that "Billy Evans ultimately relinquished his negotiated share of the film's profits and would not receive backend compensation." Related Stories Movies IDA Documentary Awards Nominations: 'Concrete Land,' 'To Hold a Mountain,' 'You Can See Everything' Among Top Nominees Movies Billy Evans Fires Back at Amanda Seyfried and Nathan Fielder: "It's My Life and I Love It"
-
-It is unclear if Evans at the time of that relinquishing secured a payout to charity with the title card omitting that point, or if Evans had fully given up on the possibility at the time and had a change of heart after the film was released and started raking in cash. Supporting the latter timing, Page Six reported on Oct. 23, a week after the movie opened, that Evans had contacted lawyers to try to restore his deal, with no word in that story that he had even succeeded in retaining counsel let alone striking a deal.
-
-A representative for Evans did not provide comment. A spokesperson for A24 did not immediately reply to a request for comment. Documentary subjects these days often ask to be paid, and distributors sometimes agree, usually without giving up control of a film's final cut. That is what happened here until Evans decided to relinquish what he'd negotiated. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; });
-
-Speaking to The Hollywood Reporter this week, Evans said he made that decision "maybe five months ago" because the filmmakers "said it would help the project"
-
-"I am totally stubborn, but if there's anything that I can do to help Liz regardless of the cost, I will do it,&#x201D; he said. (He explained his earlier push for money this way: "I'm a single dad with two kids whose best friend's about to be sent to prison. And at that time I didn't have a job. I'm trying to provide for my family and I'm really scared about what's to come." Evans is a member of the family that owns Evans Hotels, which operates three high-end Southern California properties including The Lodge at Torrey Pines, the Bahia Resort Hotel and the Catamaran Resort Hotel.) The new deal means A24 will be cutting a profit-participation check for Evans' role, just not to the entrepreneur himself. The move could still possibly help Evans' image. The entrepreneur has become a pop-culture villain thanks to moments like a domineering scene in which he shows Holmes how to whisk eggs, along with diatribes at filmmakers over questions he doesn't like. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Amanda Seyfried, who plays Holmes in the film's reconstructions, challenges Evans on camera and tells Fielder she wants to break up the couple. Fan boards, meanwhile, routinely debate his level of villainy.
-
-============================================================
-[49] Jorrybell Agoto Dies: 'Filipiñana' Breakout Actress Was 32
-Source: Deadline | Status: expanded | Words: 569
-Published: 2026-11-20T01:37:12+00:00
-URL: https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689
-------------------------------------------------------------
-SUMMARY:
-Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32. Epicmedia Productions, the Philippine production company behind Filipiñana, posted on its Instagram account: “We love you, Belle. No more pain.” Manuel posted: “The tragedy of this loss cannot be put […]
-
-CONTENT / EXTRACTED DETAILS:
-Philippines actress Jorrybell Agoto, the star of Rafael Manuel&#x2019;s award-winning debut feature Filipi&#xF1;ana , has died aged 32.
-
-Her family announced that she passed away on Tuesday, November 17, following a battle with lymphoma. Epicmedia Productions, the Philippine production company behind Filipi&#xF1;ana , posted on its Instagram account: &#x201C;We love you, Belle. No more pain.&#x201D;
-
-Manuel posted: &#x201C;The tragedy of this loss cannot be put into words. The world has just lost one of its brightest stars. We have just lost a great friend. But our thoughts and prayers go out especially to Jorrybell&#x2019;s family who have just lost a loving older sister and a devoted daughter.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Buddy' Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions, Saban - Specialty Box Office News Dark Comedy 'Buddy', Thriller 'Colony', John Boorman Doc Hit Theaters - Specialty Preview
-
-Filipi&#xF1;ana premiered at this year&#x2019;s Sundance Film Festival where it won the Special Jury Award for Creative Vision in the World Cinema Dramatic Competition. It is also the Philippines&#x2019; entry for the Best International Feature category of next year&#x2019;s Oscars. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Agoto played the lead role of a quiet but determined resort worker at a high-end golf club in the film, which explores themes of gentrification, class and globalization. She also starred in the original short film, Filipi&#xF1;ana (2020), that the feature was based on. Also directed by Manuel, the short film won a Silver Bear Jury Prize at the Berlinale.
-
-Born in Ilocos, Philippines, on September 25, 1994, Agoto started acting in community theatre at a young age before graduating with a BA in Theater Arts from Polytechnic University of the Philippines. She also had roles in short films including Cross My Heart And Hope To Die and features such as Jun Robles Lana&#x2019;s Sisa , which premiered at Tallinn Black Nights Film Festival in 2025, and Lawrence Fajardo&#x2019;s Silenced Nights , which premiered at this year&#x2019;s Toronto International Film Festival.
-
-The Film Development Council of the Philippines (FDCP) also issued a statement following the news of her passing: &#x201C;The Film Development Council of the Philippines extends its deepest condolences to the family and loved ones of Ms. Jorrybell Agoto &#x2014; Lead Actress, Filipi&#xF1;ana (1994&#x2013;2026). Your contribution to the Philippine film industry will remain etched in our hearts. Thank you so much, and farewell, Jorrybell.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Kino Lorber, which is distributing Filipi&#xF1;ana in the U.S., also remembered the young actress and paid tribute to her talent: &#x201C;While we never met Jorrybell, we felt like we had through the light she brought to Isabel in &#x2018; Filipi&#xF1;ana &#x2019;. Cinema is poorer for having lost her so young.&#x201D;
-
-Filipi&#xF1;ana is being released in the UK and Ireland this weekend by BFI Distribution. Kino Lorber released the film in the U.S. in August and is currently organizing a series of screenings as part of its Oscar campaign.
-
-============================================================
-[50] There Was A Lot Of Drama Around Survivor 51's Coin Flip That Wasn’t Aired
-Source: CinemaBlend | Status: expanded | Words: 214
-Published: 2026-11-20T01:31:00+00:00
-URL: https://www.cinemablend.com/television/there-was-a-lot-of-drama-around-survivor-51s-coin-flip-that-wasnt-aired
-------------------------------------------------------------
-SUMMARY:
-I'm actually mad now that I know this.
-
-CONTENT / EXTRACTED DETAILS:
-Warning! The following contains spoilers from the Survivor episode "Wilder Than A Cat In A Bathtub." Stream the episode with a Paramount+ subscription , and read at your own risk!
-
-Lewis spoke to Rob Has A Podcast about his exit and was asked if he'd pick water over fire if he flipped the coin again in a future season. The third juror revealed that he didn't have to think about the hypothetical, because he flipped the coin twice the night of his elimination. Hear the story below:
-
-Lewis had to flip the coin twice, and the first time it landed on fire! Unfortunately, because it didn't land primarily in the circle placed on the ground, it was negated and he had to flip it again. Lewis didn't say how he felt about that, but I can say that as a Survivor fan, I'm pissed.
-
-I went back and watched Survivor , and Jeff Probst said that the contestant who correctly called the coin flip won immunity, an idol, and the grand prize went up another million. The only rule was that it had to land on what he called. At no point was it said the coin had to land on the mat, which wasn't even used for the shot of Lewis' coin flip.
 
