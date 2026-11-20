@@ -1,9 +1,65 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-20T16:28:05.377Z
+Last Updated: 2026-11-20T16:32:01.346Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Prime Video Rebooting a Cult Sci-Fi TV Series That Even Chris Nolan Couldn't Make Work
+[1] All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried
+Source: Deadline | Status: expanded | Words: 207
+Published: 2026-11-20T16:30:00+00:00
+URL: https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486
+------------------------------------------------------------
+SUMMARY:
+Netflix’s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly “wicked” and “evil” stepsisters, Lilith (voiced by Ali Wong) and Margot (Stephanie Hsu). Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson Boone […]
+
+CONTENT / EXTRACTED DETAILS:
+Netflix &#x2019;s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly &#x201C;wicked&#x201D; and &#x201C;evil&#x201D; stepsisters, Lilith (voiced by Ali Wong ) and Margot (Stephanie Hsu).
+
+Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson Boone and Jess Glynne to name a few. BlackPink member JENNIE also performed a song penned by Justin Tranter, Julia Michaels and Jason Gill for the film. Tranter is behind several of the original songs for the movie. Related Stories News 'From' Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix News Netflix's 'The Body' Sparks 126K-Strong Petition To Remove "Blasphemous Anti-Christian" Show
+
+Find all the songs in the fairytale retelling film below: blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+============================================================
+[2] 'Bouchra' Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: 'Through Specificity, You Can Reach Truth'
+Source: Variety | Status: expanded | Words: 688
+Published: 2026-11-20T16:30:00+00:00
+URL: https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372
+------------------------------------------------------------
+SUMMARY:
+Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I'm a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&#38;A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]
+
+CONTENT / EXTRACTED DETAILS:
+Meriem Bennani never set out to make a movie quite as personal as &#x201C; Bouchra .&#x201D;
+
+&#x201C;I'm a pretty private person &#x2014; hard to believe, probably, after seeing this film,&#x201D; Bennani joked, sitting with her co-director Orian Barki for a Variety&#x2019;s Screening Series Q&A.
+
+Sure, the animated film was always a work of autofiction: &#x201C;Bouchra&#x201D; explores the journey of a 35-year-old Moroccan lesbian navigating life and love in New York City and writing the script for an autobiographical film. (Bouchra, the title character, is a jackal and all the cast are anthropomorphic animals, mirroring the duo&#x2019;s first project, the 2020 web series &#x201C;2 Lizards.&#x201D;) The movie was also inspired by Bennani's mother&#x2019;s reaction to her coming out as queer. But the movie wasn&#x2019;t supposed to be about their relationship. So how did it end up that way? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Hold Onto Me' Director Myrsini Aristidou Kicks Off Historic Oscar Campaign for Sundance Audience Award Winner: 'I Really Feel Like We're Underdogs'
+
+Bennani and Barki had begun developing the project with their collaborators, cinematographer John Michael Boling and head of animation Jason Coombs, but something wasn&#x2019;t quite clicking.
+
+&#x201C;We had the script, but as we were editing the dialogues and starting to put the storyboards [together], we felt like there was something we were still looking for, and it&#x2019;s the heart of the film," Bennani recalled.
+
+So, she told Barki she needed to call her mom to get more insight into her perspective. Why did she react that way when Bennani came out? The call was purely for research, but Bennani knew it&#x2019;d be prudent to record the conversation.
+
+&#x201C;I knew I would be too emotional to be there as a director. I would be there as a daughter,&#x201D; she explained. &#x201C;So I recorded them and then I played them for Orian. &#x2026; And we knew in that moment, that was the film and that we needed to put these conversations in the film.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Those recordings became the new framework for the movie as the filmmakers lasered in on this personal narrative over a more synthesized version of a Moroccan lesbian's experience.
+
+&#x201C;Through specificity, you can reach truth,&#x201D; Bennani said. &#x201C;And when I say truth, I don&#x2019;t mean realism. Just an emotional truth.&#x201D;
+
+The experimental indie film debuted as part of Bennani&#x2019;s art exhibition at Fondazione Prada in Milan (which backed the film), then was part of the official selection at TIFF in 2025. The feature has picked up a handful of prizes as it traveled the art house and film festival circuits, including the Gold Q-Hugo prize at the Chicago International Film Festival. (&#x201C;Bouchra&#x201D; is now streaming on Mubi.)
+
+&#x201C;People are really into seeing a film that is original and looks different and is so handcrafted,&#x201D; Barki said, reflecting on the positive response. &#x201C;I was happy to see that people are just down for a new story and a new visual.&#x201D;
+
+One of the most poignant pieces of feedback came from a friend who told Barki, &#x201C;I always thought that my parents loving me means that they have to understand everything about me. And maturing, I learned that I can receive their love without them having to actually understand every detail of my existence the same way that I understand it.&#x201D;
+
+Without necessarily intending to, Barki&#x2019;s friend had zeroed in on a central theme of the meta movie.
+
+&#x201C;The movie is about a mother-daughter relationship that has this foundation of love, [which] is what gets them to have all these conversations,&#x201D; Barki explained. &#x201C;And in a way, it doesn't matter if they'll understand everything about it, but just the willingness to have this conversation is already the acceptance and the love.&#x201D;
+
+Watch the video above to learn more about Bennani and Barki&#x2019;s artistry; how they drew inspiration from Wong Kar-wai&#x2019;s &#x201C;Chungking Express&#x201D; and Martin Scorsese&#x2019;s &#x201C;After Hours&#x201D;; and what Bennani&#x2019;s mother made of the finished film.
+
+============================================================
+[3] Prime Video Rebooting a Cult Sci-Fi TV Series That Even Chris Nolan Couldn't Make Work
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-20T16:27:00+00:00
 URL: https://comicbook.com/tv-shows/news/prime-video-rebooting-a-cult-sci-fi-tv-series-that-even-chris-nolan-couldnt-make-work
@@ -29,7 +85,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Tony Winner Ivy Lion Productions Gets Development Capital For Film &#038; TV Push, Switches From Zero Gravity To Gotham Group For Management
+[4] Tony Winner Ivy Lion Productions Gets Development Capital For Film &#038; TV Push, Switches From Zero Gravity To Gotham Group For Management
 Source: Deadline | Status: expanded | Words: 500
 Published: 2026-11-20T16:15:00+00:00
 URL: https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021
@@ -57,7 +113,7 @@ Julion-Richardson&#x2019;s resume has included stops at NBCUniversal, ICM Partne
 Producer Lamar Richardson also has an acting background with turns in Phylicia Rashad's production of the August Wilson play Ma Rainey&#x2019;s Black Bottom , and appearances in series Law & Order: SVU , Blue Bloods , and FBI .
 
 ============================================================
-[3] Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee's Style Is Her ‘Form of Defiance Against the Capitol’
+[5] Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee's Style Is Her ‘Form of Defiance Against the Capitol’
 Source: Variety | Status: expanded | Words: 1428
 Published: 2026-11-20T16:15:00+00:00
 URL: https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484
@@ -103,7 +159,7 @@ This interview has been edited and condensed for length and clarity.
 For more from Grace, watch her episode of Variety's Up Next, hosted by Tiana DeNicola, below:
 
 ============================================================
-[4] 5 WildStorm Teams That Could Become Major Players in the DC Universe
+[6] 5 WildStorm Teams That Could Become Major Players in the DC Universe
 Source: ComicBook.com | Status: expanded | Words: 1293
 Published: 2026-11-20T16:14:00+00:00
 URL: https://comicbook.com/comics/list/5-wildstorm-teams-that-could-become-major-players-in-the-dc-universe
@@ -143,7 +199,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] 'Presumed Innocent' Season 2 Teaser: Matthew Rhys &#038; Rachel Brosnahan Star In New Season Of Apple TV's Anthology Series
+[7] 'Presumed Innocent' Season 2 Teaser: Matthew Rhys &#038; Rachel Brosnahan Star In New Season Of Apple TV's Anthology Series
 Source: The Playlist | Status: summary_only | Words: 89
 Published: 2026-11-20T16:08:10+00:00
 URL: https://theplaylist.net/presumed-innocent-season-2-teaser-matthew-rhys-rachel-brosnahan-20261120
@@ -155,7 +211,7 @@ CONTENT / EXTRACTED DETAILS:
 There are plenty of titles for Apple TV subscribers to be excited about in 2027, but "Presumed Innocent" Season 2 may be the most intriguing, largely because of its two leads. Gone are Season 1 stars Jake Gyllenhaal , Bill Camp , Peter Sarsgaard , and Ruth Negga , and in their place? " Widow's Bay " star Matthew Rhys and " The Marvelous Ms. Continue reading 'Presumed Innocent' Season 2 Teaser: Matthew Rhys & Rachel Brosnahan Star In New Season Of Apple TV's Anthology Series at The Playlist.
 
 ============================================================
-[6] 'Ramayana' Star Sai Pallavi, Ravi Kishan's 'Spider-Man' Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa
+[8] 'Ramayana' Star Sai Pallavi, Ravi Kishan's 'Spider-Man' Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa
 Source: Variety | Status: expanded | Words: 1224
 Published: 2026-11-20T16:07:53+00:00
 URL: https://variety.com/2026/film/festivals/sai-pallavi-ravi-kishan-ricky-kej-iffi-opening-goa-1236954225
@@ -203,7 +259,7 @@ Chief guest Ravi Kishan, a Bhojpuri star and second-term Member of Parliament fr
 Gowariker urged the audience to spend part of the nine days on a film they would not normally pick. "Watch at least one film in a language you do not understand, a film from a country you have not visited, and by a filmmaker whose name you have not heard," he said. "Let the subtitles do their work. I think you will find that the border was never as wide as you thought."
 
 ============================================================
-[7] Box Office: 'Hunger Games: Sunrise on the Reaping' Makes $21 Million in Previews
+[9] Box Office: 'Hunger Games: Sunrise on the Reaping' Makes $21 Million in Previews
 Source: Variety | Status: expanded | Words: 343
 Published: 2026-11-20T16:05:04+00:00
 URL: https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-reaping-previews-1236953592
@@ -225,7 +281,7 @@ The first "Hunger Games" debuted to $152 million in 2012, with 2013&#x2019;s &#x
 "Sunrise on the Reaping" tells the story of young Haymitch Abernathy, played by Woody Harrelson in the original movies and now portrayed by Joseph Zada. He becomes a tribute for the 50th Hunger Games, which brings in twice the number of kids to battle to the death. The movie also stars Mckenna Grace, Ralph Fiennes, Kiernan Culkin, Glenn Close, Elle Fanning, Jesse Plemons and more.
 
 ============================================================
-[8] Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq
+[10] Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq
 Source: Variety | Status: expanded | Words: 457
 Published: 2026-11-20T16:03:20+00:00
 URL: https://variety.com/2026/film/global/gerard-depardieu-rape-complaint-guillaume-nicloux-houellebecq-1236954229
@@ -257,7 +313,7 @@ His lawyer, Meillet, said the actor had undergone a period of reflection and wan
 Depardieu also faces a separate rape case involving actress Charlotte Arnould, who accused him of assaulting her in 2018. An investigating judge has ordered the actor to stand trial, a decision he is contesting. The Paris appeals court is expected to rule on Nov. 26 on whether the case will proceed to trial. Depardieu has denied the allegations made by Arnould.
 
 ============================================================
-[9] A Survivor Legend Went Off About The Coin Flip, And Honestly She’s Right
+[11] A Survivor Legend Went Off About The Coin Flip, And Honestly She’s Right
 Source: CinemaBlend | Status: expanded | Words: 178
 Published: 2026-11-20T16:01:54+00:00
 URL: https://www.cinemablend.com/television/kelley-wentworth-survivor-coin-flip-lewis-kelly
@@ -273,7 +329,7 @@ She’s obviously right. I wasn’t a huge fan of the coin flip on 50 . I could 
 Survivor has already announced that the coin flip is coming back for future seasons. During Survivor 52 , one player will flip for the chance to push the prize pot to three million dollars. I hope it hits, and then I hope the producers take a look at the coin flip and its future in the game.
 
 ============================================================
-[10] Women In Vertical Media: Execs From Shorties Studios, aTwist &#038; Eris Join Inaugural Advisory Circle
+[12] Women In Vertical Media: Execs From Shorties Studios, aTwist &#038; Eris Join Inaugural Advisory Circle
 Source: Deadline | Status: expanded | Words: 448
 Published: 2026-11-20T16:00:00+00:00
 URL: https://deadline.com/2026/11/women-in-vertical-media-inaugural-advisory-circle-1237229953
@@ -297,7 +353,7 @@ Launched in October 2026, WVM was established to recognize women's contributions
 "Our advisory circle brings that collective expertise together to identify industry priorities, drive meaningful solutions, and provide much-needed insights that can help shape the future of vertical entertainment,&#x201D; added co-founder Read.
 
 ============================================================
-[11] Don't Tell Comedy &#038; Cash App Partner On Slate Of Half-Hour Stand-Up Specials
+[13] Don't Tell Comedy &#038; Cash App Partner On Slate Of Half-Hour Stand-Up Specials
 Source: Deadline | Status: expanded | Words: 565
 Published: 2026-11-20T16:00:00+00:00
 URL: https://deadline.com/2026/11/dont-tell-comedy-cash-app-partner-half-hour-special-slate-1237229481
@@ -321,7 +377,7 @@ The half-hours build on Don&#x2019;t Tell's recent work with Cash App on the DTC
 Founded by Kyle Kazanjian-Amory in a Los Angeles backyard in 2017, Don't Tell Comedy has come to be recognized as one of our most important current incubators of rising comedic talent. The company stages more than 5,000 secret-location shows worldwide each year, with taped sets that draw more than 1.5 billion views annually across social channels that have amassed 14 million followers since launching in 2022. Comics who got their start on Don't Tell stages include Ralph Barbosa, Robby Hoffman, Shapel Lacey, Katherine Blanford and Malik Elassal, to name a few. The company struck a strategic partnership with Banijay America in October, as we first reported.
 
 ============================================================
-[12] What Every Cheat In GTA 6 Does &#038; Which Cheats Are Best to Use
+[14] What Every Cheat In GTA 6 Does &#038; Which Cheats Are Best to Use
 Source: ComicBook.com | Status: expanded | Words: 704
 Published: 2026-11-20T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/what-every-cheat-in-gta-6-does-which-cheats-are-best-to-use
@@ -351,7 +407,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] All's Fair in Love and 'War': Creator George Kay Explains His Ruling on Morgan and Carla's Divorce
+[15] All's Fair in Love and 'War': Creator George Kay Explains His Ruling on Morgan and Carla's Divorce
 Source: The Hollywood Reporter | Status: expanded | Words: 3985
 Published: 2026-11-20T15:58:13+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/war-finale-explained-morgan-carla-divorce-1236759966
@@ -461,7 +517,7 @@ I think Johnny&#x2019;s not all bad. It&#x2019;s been interesting to see how the
 All episodes of War are now streaming on HBO Max in the U.S. and Sky NOW in the U.K.
 
 ============================================================
-[14] What's Next, Doomsday? The Internet Can't Stop With The Robert Pattinson Is In Everything Jokes
+[16] What's Next, Doomsday? The Internet Can't Stop With The Robert Pattinson Is In Everything Jokes
 Source: CinemaBlend | Status: expanded | Words: 222
 Published: 2026-11-20T15:54:40+00:00
 URL: https://www.cinemablend.com/movies/whats-next-doomsday-internet-cant-stop-with-robert-pattinson-in-everything-jokes
@@ -477,7 +533,7 @@ The internet can be a dark place, but it can also be one for some hilarious joke
 The internet has been truly unmatched this week, and plenty of people are poking fun at Robert Pattinson 's resume, and especially his hustle over the last few years. In 2026 alone, we saw him star in The Drama , The Odyssey , Primetime and the upcoming Dune: Part Three . Landing the role as James Bond is a huge gig, and sees him join yet another beloved blockbuster franchise after Harry Potter , Twilight , The Batman , and the aforementioned Dune threequel.
 
 ============================================================
-[15] Is Guillermo del Toro Making a Star Wars Movie? Oscar-Winning Director Responds to Rumors
+[17] Is Guillermo del Toro Making a Star Wars Movie? Oscar-Winning Director Responds to Rumors
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-20T15:51:44+00:00
 URL: https://comicbook.com/movies/news/is-guillermo-del-toro-making-a-star-wars-movie-oscar-winning-director-responds-to-rumors
@@ -507,7 +563,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] 'They Know': Black Bear Lands Distribution Rights For Bill Hader's Upcoming Horror Pic Co-Starring Linda Cardilleni
+[18] 'They Know': Black Bear Lands Distribution Rights For Bill Hader's Upcoming Horror Pic Co-Starring Linda Cardilleni
 Source: The Playlist | Status: summary_only | Words: 89
 Published: 2026-11-20T15:51:18+00:00
 URL: https://theplaylist.net/they-know-black-bear-bill-hader-horror-pic-20261120
@@ -519,7 +575,7 @@ CONTENT / EXTRACTED DETAILS:
 Count Bill Hader 's feature debut " They Know " among the most anticipated movies of 2027, in no small part because of " Barry ," Hader's excellent Emmy -winning HBO series. So how did Black Bear , of all studios, snag the horror film's distribution rights? It's a great get for the indie label, but also a mild shock that A24 or NEON didn't grab them first. Continue reading 'They Know': Black Bear Lands Distribution Rights For Bill Hader's Upcoming Horror Pic Co-Starring Linda Cardilleni at The Playlist.
 
 ============================================================
-[17] Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’
+[19] Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’
 Source: Variety | Status: expanded | Words: 692
 Published: 2026-11-20T15:38:10+00:00
 URL: https://variety.com/2026/film/global/sofia-coppola-pays-tribute-eleanor-making-marie-antoinette-1236954157
@@ -553,7 +609,7 @@ The screening was supported by Chanel, which has maintained a longstanding creat
 &#x201C;Making Marie Antoinette&#x201D; is produced by Sofia Coppola, Mieli, Mario Gianani, Rachel Dengiz and Youree Henley for Our Films, a Mediawan company, and American Zoetrope. The documentary is financed by Our Films, Mediawan Rights and Entourage Media.
 
 ============================================================
-[18] Witch Hat Atelier Returns With New Look at Most Beloved Character Ahead of Season 2
+[20] Witch Hat Atelier Returns With New Look at Most Beloved Character Ahead of Season 2
 Source: ComicBook.com | Status: expanded | Words: 554
 Published: 2026-11-20T15:37:55+00:00
 URL: https://comicbook.com/anime/news/witch-hat-atelier-returns-with-new-look-at-most-beloved-character-ahead-of-season-2
@@ -579,7 +635,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007
+[21] Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007
 Source: Variety | Status: expanded | Words: 789
 Published: 2026-11-20T15:35:59+00:00
 URL: https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194
@@ -609,7 +665,7 @@ While there will be detractors, it&#x2019;s inarguable that the Bond gig now ens
 Given the shocking November news that DC Studios heads James Gunn and Peter Safran had been jettisoned by the David Ellison regime, it&#x2019;s doubtful Pattinson would linger long as Matt Reeves&#x2019; caped crusader &#x2014; freeing him up to embody the sultry British charm and execute the bare-knuckle action audiences have come to expect from 007. Art-house horror movies may have to take a back seat.
 
 ============================================================
-[20] Cartoon Network Changed Superheroes With This '90s Hit, But Its Place in Animation History Is Forgotten
+[22] Cartoon Network Changed Superheroes With This '90s Hit, But Its Place in Animation History Is Forgotten
 Source: ComicBook.com | Status: expanded | Words: 800
 Published: 2026-11-20T15:33:00+00:00
 URL: https://comicbook.com/tv-shows/feature/cartoon-network-changed-superheroes-with-this-90s-hit-but-its-place-in-animation-history-is-forgotten
@@ -641,7 +697,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Rich Eisen's 'Beautiful Day': Landing All Four Members of U2 as Guests
+[23] Rich Eisen's 'Beautiful Day': Landing All Four Members of U2 as Guests
 Source: Variety | Status: expanded | Words: 565
 Published: 2026-11-20T15:30:00+00:00
 URL: https://variety.com/2026/tv/news/rich-eisen-u2-beautiful-day-1236954135
@@ -671,7 +727,7 @@ Eisen says he didn't spend hours trying to come up with questions that would fer
 The "Eisen" team hopes for more. "We take the show seriously but we don't take ourselves seriously," says Eisen. "We are open for business every day."
 
 ============================================================
-[22] Prince Harry Approves of Robert Pattinson's Bond Casting
+[24] Prince Harry Approves of Robert Pattinson's Bond Casting
 Source: The Hollywood Reporter | Status: expanded | Words: 516
 Published: 2026-11-20T15:27:37+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/prince-harry-james-bond-robert-pattinson-1236759950
@@ -699,7 +755,7 @@ Harry and Meghan have begun to make more public appearances here since moving ba
 Markle's estranged father, Thomas Markle Sr., has grabbed headlines in recent weeks for being at the center of an alleged police probe into child abuse imagery. "I am deeply distressed at the news," said the Duchess in a public statement in October. "[I hope] it can now be understood, that, despite certain media publications&#x2019; distortion over the years, any distance from my father and my choice to not allow him to have contact with our children, was for one reason: to protect them."
 
 ============================================================
-[23] 'MobLand' Season 3 Starts Shooting As Season 2 Finale Drops On Paramount+
+[25] 'MobLand' Season 3 Starts Shooting As Season 2 Finale Drops On Paramount+
 Source: Deadline | Status: expanded | Words: 282
 Published: 2026-11-20T15:26:50+00:00
 URL: https://deadline.com/2026/11/mobland-season-3-starts-shooting-finale-paramount-1237230065
@@ -723,7 +779,7 @@ MobLand is commissioned by Paramount+ and executive produced by David C. Glasser
 Season 2 stars Paddy Considine, Joanne Froggatt, Lara Pulver, Anson Boon, Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Flynn, Ophelia Lovibond, Janet McTeer, and Toby Jones.
 
 ============================================================
-[24] Jennifer Lawrence Took A Note From Kylie Jenner And Opened Up About Her Breast Implants
+[26] Jennifer Lawrence Took A Note From Kylie Jenner And Opened Up About Her Breast Implants
 Source: CinemaBlend | Status: expanded | Words: 114
 Published: 2026-11-20T15:20:43+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lawrence-kylie-jenner-opened-up-breast-implants
@@ -739,7 +795,7 @@ The host went on to ask if the Hunger Games star’s implants are Bs, to which J
 Cohen then reiterated that “they’re beautiful,” and Lawrence humorously responded with an “OK, thanks.”
 
 ============================================================
-[25] 'Killing Castro' Movie Starring Diego Boneta Drops First Trailer
+[27] 'Killing Castro' Movie Starring Diego Boneta Drops First Trailer
 Source: Deadline | Status: expanded | Words: 294
 Published: 2026-11-20T15:16:06+00:00
 URL: https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063
@@ -759,7 +815,7 @@ Based on true events, the film is set in 1960. Shortly after winning the Cuban r
 John Takis, Rudy Langlais, Josh Glick, Boneta, Sam Slater, Leon Hendrix, Colin Bateman, Piers Tempest, Joseph Ingrassia and Nick Ham will exec produce.
 
 ============================================================
-[26] MAMA Awards Crowns BTS &#038; Enhypen As K-Pop Show's Producer Says "Lines Are Blurring Between Music, Film, TV &#038; Fashion"
+[28] MAMA Awards Crowns BTS &#038; Enhypen As K-Pop Show's Producer Says "Lines Are Blurring Between Music, Film, TV &#038; Fashion"
 Source: Deadline | Status: expanded | Words: 1429
 Published: 2026-11-20T15:15:37+00:00
 URL: https://deadline.com/2026/11/mama-awards-2026-night-one-bts-enhypen-win-mnet-interview-1237230016
@@ -821,7 +877,7 @@ YSH: I think it&#x2019;s a very natural progression. K-pop artists are true all-
 These days, the lines between music, film, TV and fashion are really blurring, so I see it as a positive thing that artists are expressing their talent in more ways. Of course, acting requires its own skill and dedication, but these new challenges can help artists grow and find new ways to express themselves. And as K-pop, film, TV and other K-content become more connected, there are more chances to reach new global audiences. I&#x2019;m looking forward to seeing K-POP artists build on their music and explore their potential in many different fields.
 
 ============================================================
-[27] Andrea Scrosati to Leave Fremantle Group
+[29] Andrea Scrosati to Leave Fremantle Group
 Source: The Hollywood Reporter | Status: expanded | Words: 490
 Published: 2026-11-20T15:07:44+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/andrea-scrosati-leaving-fremantle-1236759946
@@ -849,7 +905,7 @@ The M&A activity was part of a broader growth strategy set by Fremantle's parent
 Scrosati said the time was right to move on and focus on building something new. &#x201C;I leave with enormous pride in what we have achieved together and great affection for the company and everyone who makes it what it is."
 
 ============================================================
-[28] One Big Complaint About The Voice I Always Remember I Have With The Live Shows
+[30] One Big Complaint About The Voice I Always Remember I Have With The Live Shows
 Source: CinemaBlend | Status: expanded | Words: 209
 Published: 2026-11-20T15:05:19+00:00
 URL: https://www.cinemablend.com/television/one-big-complaint-the-voice-remember-live-shows-coaches
@@ -865,7 +921,7 @@ Earlier this season, Kelly Clarkson and newbie Riley Green really upped The Voic
 With the Blind Auditions, Battles, and Cut Week having two-hour episodes, cutting the Live Shows to one hour doesn’t even allow for much coach commentary and feedback. To me that's a big problem. When it comes time to announce which singers have made it through for another week and who’s going to be sent home, there’s barely the time to even say goodbye, right?
 
 ============================================================
-[29] 5 Most Exciting GTA 6 Easter Eggs Players Have Found After Launch Day
+[31] 5 Most Exciting GTA 6 Easter Eggs Players Have Found After Launch Day
 Source: ComicBook.com | Status: expanded | Words: 1828
 Published: 2026-11-20T15:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-most-exciting-gta-6-easter-eggs-players-have-found-after-launch-day
@@ -915,7 +971,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] FromSoftware Needs to Bring Its Most Underrated Game Back and a New Indie Masterpiece Proves It
+[32] FromSoftware Needs to Bring Its Most Underrated Game Back and a New Indie Masterpiece Proves It
 Source: ComicBook.com | Status: expanded | Words: 897
 Published: 2026-11-20T15:00:00+00:00
 URL: https://comicbook.com/gaming/feature/fromsoftware-needs-to-bring-its-most-underrated-game-back-and-a-new-indie-masterpiece-proves-it
@@ -951,7 +1007,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Archie Renaux on 'War's Resident — and Misunderstood — Bad Boy
+[33] Archie Renaux on 'War's Resident — and Misunderstood — Bad Boy
 Source: The Hollywood Reporter | Status: expanded | Words: 1135
 Published: 2026-11-20T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/archie-renaux-war-bad-boy-season-1-finale-interview-1236758191
@@ -997,7 +1053,7 @@ What did they tell you about plans for future seasons of the show?
 Well they've got plans for multiple seasons, and it's sort of an anthology series following the two law firms over different cases. So I knew there was a possibility for doing more seasons. I don't want to say much more right now.
 
 ============================================================
-[32] Harrison Ford Kisses Calista Flockhart On Stage As Couple Receives Their First Joint Award
+[34] Harrison Ford Kisses Calista Flockhart On Stage As Couple Receives Their First Joint Award
 Source: The Hollywood Reporter | Status: expanded | Words: 1255
 Published: 2026-11-20T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/harrison-ford-calista-flockhart-kiss-speech-joint-award-1236759856
@@ -1037,7 +1093,7 @@ The veteran actress paid her respects to the Women's Guild, and then closed her 
 With that, Flockhart raised her middle finger in the air. "True story. I was lucky enough to experience the commitment and the humanity firsthand. And that's a pun, but it was a good one," she quipped. "OK, so everyone at Cedars-Sinai to me is an icon of brilliant and compassionate care."
 
 ============================================================
-[33] 'The Body' Breakout Geena Meszaros on Finding Empathy for Lisbeth and "Life-Altering" Female Friendships
+[35] 'The Body' Breakout Geena Meszaros on Finding Empathy for Lisbeth and "Life-Altering" Female Friendships
 Source: The Hollywood Reporter | Status: expanded | Words: 1188
 Published: 2026-11-20T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/the-body-breakout-geena-meszaros-interview-1236758667
@@ -1091,7 +1147,7 @@ Do you have a most memorable experience from shooting it?
 The whole thing is a giant blur of chaos and just love and hanging out with all of my new best friends. I've never ever been part of a giant girl friend group, and that's just honestly life-altering for me. It's so lovely. I get how Lisbeth feels because it really is so empowering to be part of a group. I want to squeeze them all. They're all perfect.
 
 ============================================================
-[34] 'MobLand' Season 3 Starts Shooting With Tom Hardy, Helen Mirren and Pierce Brosnan
+[36] 'MobLand' Season 3 Starts Shooting With Tom Hardy, Helen Mirren and Pierce Brosnan
 Source: Variety | Status: expanded | Words: 330
 Published: 2026-11-20T15:00:00+00:00
 URL: https://variety.com/2026/tv/global/mobland-season-3-tom-hardy-helen-mirren-1236954158
@@ -1119,7 +1175,7 @@ Hardy attended the Season 2 premiere in London alongside Glasser, Ritchie, Mirre
 Introducing the cast on stage inside the theater, Glasser called Hardy the "captain of our ship" saying he "stayed with it to the bitter end."
 
 ============================================================
-[35] Recasting the Original Home Alone for 2026
+[37] Recasting the Original Home Alone for 2026
 Source: ComicBook.com | Status: expanded | Words: 1529
 Published: 2026-11-20T14:50:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-home-alone-for-2026
@@ -1163,7 +1219,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] CNN Films Acquires Documentary 'Bernie Taupin: Life, Music, Elton &#038; Me' (EXCLUSIVE)
+[38] CNN Films Acquires Documentary 'Bernie Taupin: Life, Music, Elton &#038; Me' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 371
 Published: 2026-11-20T14:45:00+00:00
 URL: https://variety.com/2026/tv/news/cnn-films-acquires-bernie-taupin-documentary-elton-john-1236954105
@@ -1181,7 +1237,7 @@ Taupin has largely remained out of the spotlight, while John sang his words. The
 &#x201C;I wanted to explore the imagination behind those words and the singular mind that has helped shape the soundtrack of our lives," Miele says in a statement. &#x201C;Bernie afforded me rare access to his creative world, revealing an unconventional approach to songwriting in which he paints abstract portraits with words, conjuring images, characters, and emotions that often defy literal interpretation.&#x201D; CNN Films has previously featured films that explored the lives of Linda Ronstadt and Glen Campbell , among others. "Bernie Taupin: Life, Music, Elton & Me" is directed and executive produced by Matthew Miele. Producers are Derik Murray for Network Entertainment and Stephen McCormack for Reflektor Media. The film is executive produced by Gary Oldman, Charlie Hendon, Greg Zeschuk, Tim Gamble, Brian Gersh, Kent Wingerak, Greg Zeschuk, and Jody Gerson and David Blackman for Polygram Entertainment. CNN Films has acquired television and SVOD rights for the US and Canada.
 
 ============================================================
-[37] Content Chiefs At Denmark's TV2 Step Down To "Restore Trust" After Backlash Over 'Truman Show'-Style Reality Series
+[39] Content Chiefs At Denmark's TV2 Step Down To "Restore Trust" After Backlash Over 'Truman Show'-Style Reality Series
 Source: Deadline | Status: expanded | Words: 755
 Published: 2026-11-20T14:41:54+00:00
 URL: https://deadline.com/2026/11/denmark-tv2-content-program-directors-exit-reality-series-1237230030
@@ -1219,7 +1275,7 @@ Pors took to social media to address her exit. "After nearly an entire professio
 "Following the series Alle elsker Rasmus , TV2 will install new leadership to rebuild trust in the broadcaster&#x2019;s programming and its relationships with external producers. That&#x2019;s just how it is. For now, I am stepping away and have no further comments, but I look forward to new challenges, conversations, and whatever else the future may hold."
 
 ============================================================
-[38] Prince Harry Gives New James Bond Robert Pattinson the Royal Seal of Approval: 'I Want to Make Sure That It's in Good Hands'
+[40] Prince Harry Gives New James Bond Robert Pattinson the Royal Seal of Approval: 'I Want to Make Sure That It's in Good Hands'
 Source: Variety | Status: expanded | Words: 479
 Published: 2026-11-20T14:41:18+00:00
 URL: https://variety.com/2026/film/global/prince-harry-james-bond-robert-pattinson-1236954165
@@ -1249,7 +1305,7 @@ On &#x201C;This Morning,&#x201D; Harry, Charles's son, also touched on his retur
 &#x201C;It's always interesting when you're living overseas and looking back in, you can see all sorts of stuff happening. But then I think now that I'm back, everything feels quite familiar and similar. Obviously there's lots of change, but I think as far as London, as far as the U.K., it's home.&#x201D;
 
 ============================================================
-[39] David Fincher Defends AI As ‘Cliff Booth’ Faces Generative AI Controversy: “I Don’t Fear The Unknown”
+[41] David Fincher Defends AI As ‘Cliff Booth’ Faces Generative AI Controversy: “I Don’t Fear The Unknown”
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-20T14:32:00+00:00
 URL: https://theplaylist.net/david-fincher-ai-cliff-booth-controversy-20261120
@@ -1261,7 +1317,7 @@ CONTENT / EXTRACTED DETAILS:
 David Fincher has never been particularly sentimental about filmmaking technology, and he’s certainly not about to start now. As his Quentin Tarantino -scripted sequel, “ The Further Mis-Adventures Of Cliff Booth ,” faces growing scrutiny over its alleged use of generative AI, the famously exacting director is making it clear that he has little patience for arguments against technological progress. “I’m not a Luddite, so I don’t fear the unknown,” Fincher told the Los Angeles Times in a recent interview. Continue reading David Fincher Defends AI As ‘Cliff Booth’ Faces Generative AI Controversy: “I Don’t Fear The Unknown” at The Playlist.
 
 ============================================================
-[40] Kristen Doute to Host Sports and Pop Culture Podcast 'Run It Back' in Partnership With PODGO (Exclusive)
+[42] Kristen Doute to Host Sports and Pop Culture Podcast 'Run It Back' in Partnership With PODGO (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 855
 Published: 2026-11-20T14:30:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/kristen-doute-sports-pop-culture-podcast-run-it-back-podgo-1236759725
@@ -1297,7 +1353,7 @@ PODGO will handle distribution across major podcast platforms and manage adverti
 Run It Back will release new episodes weekly. Full video episodes will be available on YouTube and video podcast distribution across Spotify and Apple Podcasts , while short-form content and highlights will be distributed across social media at @runitbackwithKD across platforms.
 
 ============================================================
-[41] 'Josephine': Beth de Araújo On Breakout Star Mason Reeves, Her "Baby Natalie Portman" [Interview]
+[43] 'Josephine': Beth de Araújo On Breakout Star Mason Reeves, Her "Baby Natalie Portman" [Interview]
 Source: The Playlist | Status: summary_only | Words: 86
 Published: 2026-11-20T14:30:00+00:00
 URL: https://theplaylist.net/josephine-beth-de-araujo-on-breakout-star-mason-reeves-her-baby-natalie-portman-interview-20261120
@@ -1309,7 +1365,7 @@ CONTENT / EXTRACTED DETAILS:
 Twelve years ago, Beth de Araújo began writing "Josephine." Almost eight years ago, she took the project to the Sundance labs. Seven years ago, Gemma Chan attached herself to the film. Two years ago, it finally began production in San Francisco with Channing Tatum on board, and 11 months ago, it took the Grand Jury - U.S. Dramatic and Audience Award at the 2026 Sundance Film Festival. Continue reading 'Josephine': Beth de Araújo On Breakout Star Mason Reeves, Her "Baby Natalie Portman" [Interview] at The Playlist.
 
 ============================================================
-[42] I’m Gonna Make A Bold DWTS Finale Prediction Based On Instagram Likes Alone
+[44] I’m Gonna Make A Bold DWTS Finale Prediction Based On Instagram Likes Alone
 Source: CinemaBlend | Status: expanded | Words: 1538
 Published: 2026-11-20T14:24:27+00:00
 URL: https://www.cinemablend.com/television/im-make-bold-dwts-finale-prediction-instagram-likes-alone-rylee-arnold-connor-wood
@@ -1369,7 +1425,7 @@ Television Derek Hough And A DWTS Winner Have The Same Prediction About One Star
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[43] Venice Audience Award Winner 'Ish' Gets North American Deal With Watermelon Pictures
+[45] Venice Audience Award Winner 'Ish' Gets North American Deal With Watermelon Pictures
 Source: Deadline | Status: expanded | Words: 569
 Published: 2026-11-20T14:15:00+00:00
 URL: https://deadline.com/2026/11/ish-british-film-venice-north-america-deal-watermelon-1237230036
@@ -1399,7 +1455,7 @@ The film features black-and-white cinematography by Jermaine Canute Edwards ( My
 Faben Westerhoff, MD Film, Global Constellation, added: &#x201C;Imran&#x2019;s transition into feature filmmaking is a masterclass in visual storytelling and emotional honesty. We are delighted to partner with Watermelon on this release. They are the ideal North American distributor for Ish , fearless champions of distinctive, culturally resonant cinema that strikes a deep chord with contemporary audiences.&#x201D;
 
 ============================================================
-[44] Two of Marvel’s Greatest Villains Face Off in Challenges of Doom: Magneto #1 First Look [EXCLUSIVE]
+[46] Two of Marvel’s Greatest Villains Face Off in Challenges of Doom: Magneto #1 First Look [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 678
 Published: 2026-11-20T14:08:00+00:00
 URL: https://comicbook.com/comics/news/two-of-marvels-greatest-villains-face-off-in-challenges-of-doom-magneto-1-first-look-exclusive
@@ -1427,7 +1483,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Traitors: New Blood’s Finale Was Thrilling, And I Can’t Stop Thinking About The Losers’ Reactions
+[47] Traitors: New Blood’s Finale Was Thrilling, And I Can’t Stop Thinking About The Losers’ Reactions
 Source: CinemaBlend | Status: expanded | Words: 159
 Published: 2026-11-20T14:04:39+00:00
 URL: https://www.cinemablend.com/television/traitors-new-bloods-finale-thrilling-i-cant-stop-thinking-about-losers-reactions
@@ -1443,7 +1499,7 @@ I'm counting the days for the next celebrity-filled Traitors cast to get on my T
 While it took until the reunion for Andie to forgive Cirie back in Season 1, I was so impressed by the way that Abbey and Wyatt were able to put their hurt feelings aside and give Shane the support he needed in this emotional moment. I truly can't stop thinking about the two of them walking over to him from opposite sides of the Round Table, and embracing him as he cried.
 
 ============================================================
-[46] Star Wars: Knights of the Old Republic Remake Report Gives Update on Missing Game
+[48] Star Wars: Knights of the Old Republic Remake Report Gives Update on Missing Game
 Source: ComicBook.com | Status: expanded | Words: 506
 Published: 2026-11-20T14:00:40+00:00
 URL: https://comicbook.com/gaming/news/star-wars-knights-of-the-old-republic-remake-report-update-the-game-awards
@@ -1469,7 +1525,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Rachel Brosnahan-Led 'Presumed Innocent' Sets Season 2 Release Date, Unveils First Photos Of Matthew Rhys, Courtney B. Vance &#038; More
+[49] Rachel Brosnahan-Led 'Presumed Innocent' Sets Season 2 Release Date, Unveils First Photos Of Matthew Rhys, Courtney B. Vance &#038; More
 Source: Deadline | Status: expanded | Words: 457
 Published: 2026-11-20T14:00:00+00:00
 URL: https://deadline.com/2026/11/presumed-innocent-season-2-release-date-photos-teaser-1237229678
@@ -1493,7 +1549,7 @@ Kelley serves as showrunner on season two and executive produces through David E
 Presumed Innocent season one earned several Emmy Award nominations, including Outstanding Lead Actor in a Limited or Anthology Series or Movie for Jake Gyllenhaal; Outstanding Supporting Actor in a Limited or Anthology Series or Movie for Bill Camp; Outstanding Supporting Actor in a Limited or Anthology Series or Movie for Peter Sarsgaard; and Outstanding Supporting Actress in a Limited or Anthology Series or Movie for Ruth Negga.
 
 ============================================================
-[48] International Insider: Pattinson Becomes Bond; SkyShowtime Shutting Down; The Brit List
+[50] International Insider: Pattinson Becomes Bond; SkyShowtime Shutting Down; The Brit List
 Source: Deadline | Status: expanded | Words: 1335
 Published: 2026-11-20T14:00:00+00:00
 URL: https://deadline.com/2026/11/international-insider-robert-pattinson-james-bond-1237229978
@@ -1533,180 +1589,4 @@ Digging it: Another group of young British writing hopefuls had their moment in 
 &#x1F440; First look: At Minnie Driver in Paramount+'s British heist drama series The Day .
 
 Oh, Danny Boy - Ink director Danny Boyle received the Deadline Legend Award at our Deadline Contenders Los Angeles event.
-
-============================================================
-[49] Bo Derek Is Still a ‘10’ at 70: “It All Worked Out, Didn’t It?”
-Source: The Hollywood Reporter | Status: expanded | Words: 3389
-Published: 2026-11-20T14:00:00+00:00
-URL: https://www.hollywoodreporter.com/movies/movie-features/bo-derek-interview-fame-love-life-10-1236757273
-------------------------------------------------------------
-SUMMARY:
-Forty-seven years after the racy rom-com made her a generational sex symbol, Derek opens up about the surprising origins of her iconic braids, her scandalous first marriage and the Hollywood career she never really wanted.
-
-CONTENT / EXTRACTED DETAILS:
-Bo Derek was 21 when she came bounding down a beach in a flesh-colored bathing suit, beaded cornrows bouncing on her shoulders. The movie was 10 , Blake Edwards' 1979 comedy about a film composer, played by Dudley Moore, who's in the throes of a midlife crisis.
-
-Ten is also roughly the number of minutes Derek appears onscreen. A lot more happens in the movie. Derek and Moore smoke up and get down to the rump-pa-pa-pump of Ravel's "Bol&#xE9;ro." Julie Andrews, Edwards' wife, plays Moore's girlfriend and sings several songs.
-
-The beach sequence ends with them crashing into each other. But no one remembers the slapstick part. They just remember Bo. A blond, blue-eyed California surfer girl, she managed to look all-American and exotic at the same time. A few seconds in slow motion were enough to make Derek a superstar and 10 a smash hit. The shot belongs alongside Rita Hayworth peeling off a glove in Gilda . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV 'And Just Like That' Writers Compare Finale Reaction to Ending 'Sex and the City': "It Was the Opposite of a Heated Debate" TV Sarah Jessica Parker Responds to 'And Just Like That' "Hate-Watching" Trend: "I Guess I Don't Really Care"
-
-On Nov. 20, Derek turns 70. She's talking via Zoom from her ranch in the Santa Ynez Valley, just north of Santa Barbara, where she lives with her husband, John Corbett , 65, the easygoing star of Sex and the City and the My Big Fat Greek Wedding movies.
-
-Rain is pounding outside the window behind her. Lying nearby is Bear, the 110-pound German shepherd who had previously belonged to Gene Hackman and wife Betsy Arakawa. Derek and Corbett adopted him after the couple died in early 2025 &#x2014; a mutual publicist made the connection.
-
-I ask her when she was happier: now or at the peak of her post- 10 success?
-
-Derek got her role in 10 thanks in part to Hugh Hefner. Her first husband, John Derek, was a good friend of Hef's and spent a lot of time at the Playboy Mansion. Bo and John's relationship caused a major scandal: They got together making a movie in Greece when he was 46 and she was only 16. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-Bo was still just 16 the first time John brought her to the Playboy Mansion. According to Bo's 2001 memoir, Riding Lessons , John showed Hef some photos he'd taken of his new girlfriend. "I've never seen anything I wanted to defile so much," was his response. John told Bo to take it as a compliment. "He respected me," she tells me of the Playboy founder. "We only talked about things that you might consider more important than the grotto."
-
-One night at the Mansion, John ran into Edwards, who told him he'd heard about Bo and thought she might be perfect for 10 . He'd already seen hundreds of girls, and no one was quite right. John thought the rejection would do her good. He felt she lacked discipline when it came to her career. "I went in to meet Blake and came home with the part," she writes.
-
-She remembers the shoot with great fondness, particularly working with Edwards and the addition of the "brilliant" Moore, a last-minute casting change from George Segal, who clashed with the director.
-
-The problems began after 10 had wrapped. The studio, Orion Pictures, didn't have high hopes for it. But they negotiated a shoot with Life magazine, which was getting a reboot and wanted a young ingenue &#x2014; a throwback to the days of putting up-and-comers like Hayworth and Marilyn Monroe on its cover.
-
-The photographer assigned to the shoot was given strict orders: The magazine wanted to faithfully re-create vintage pinup shoots of Hollywood starlets, right down to Hayworth's negligee and Monroe's bed of red satin. They also wanted Derek to appear emerging out of a burlap sack for the actual cover photo. She hated the idea and stormed out of the shoot. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Derek, who was born in Long Beach and grew up surfing, was shopping for a new windsurfer in a store in Marina del Rey when, somehow, incensed Orion executives tracked her down. They demanded to be put on the surf shop's speakerphone.
-
-"At first it was pleading," she recalls of their attempt to get her to return to the photo shoot. "Then it was threatening. Then I'd had enough. I wasn't interested anymore."
-
-Edwards was overseas at the time, prepping his next movie. By the time she got home, Derek had a message waiting for her from his agent: "Blake is furious and you'll never work for him again."
-
-Derek &#x2014; 22 at the time and with no representation &#x2014; demanded to see it in writing. And so she was sent a telegram stating that Edwards would never hire her again if she failed to do the promotional shoot for 10 . The thing was, Edwards had an option on Derek for three more films. "So I got out of that," she says.
-
-The studio retaliated by cutting her out of the press materials and disinviting her to the movie's premiere. But a TV spot featuring Derek aired during a hugely rated Muhammad Ali fight.
-
-"It just started this buzz," she recalls. "All of a sudden, people were trying to reach me, the press was trying to track me down."
-
-10 opened on Oct. 5, 1979, and became a box office smash, grossing $75 million domestically. (That year's Alien made $79 million.) Derek, meanwhile, became an overnight sensation, with women around the world demanding the "Bo braids" from their hairdressers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-John Derek had suggested she spend the film with her hair slicked back &#x2014; something that would stand out from the feathered hair Farrah Fawcett had made a sensation. They were shopping in Inglewood when they spotted the African American hairstyle and together thought it would be the perfect look for Jenny. One of Ann-Margret's backup singers connected her with a braider in Compton. (The Viva Las Vegas star was an old family friend who had known Bo since childhood.)
-
-"I only work from my dreams," the braider told them, adding that she dreamed of a butterfly the night before, which served as the design's inspiration. She also told them she had braided Cleopatra's hair in a previous life.
-
-In Riding Lessons , Derek remembers singer Roberta Flack criticizing her on The Phil Donahue Show for taking credit for a hairstyle Black women had worn for generations.
-
-"For the record," Bo writes, "I never, ever intended to take credit for the sensation that my hairdo caused." There was a Bo Derek pinup poster in 1979, which featured her seductively kneeling in the surf, and a Bo Derek calendar by 1981.
-
-All of this Bo-mania seemed to smooth things over with Orion. "All of a sudden, I start getting jewelry from the studio chairman, Arthur Krim," Derek says. "I had people coming with suitcases of cash trying to get me to sign on the dotted line, telling me what I should and shouldn't do." Edwards, too, found it in his heart to forgive her, and the two remained friends until his death in 2010. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-It wasn't that Derek didn't enjoy being famous. She was just less sure she wanted the career everyone else seemed to want her to have. She was in a hotel room in Paris when it all caught up with her.
-
-"I remember sobbing and saying, 'I'm so confused. I don't know what to do,' " she says. "And my husband said, 'Well, do what you want. Just because everybody would kill for this career doesn't mean you have to love it.' "
-
-The handsome son of silent film actors, John Derek appeared in more than 50 films, most famously playing Joshua, a follower of Charlton Heston's Moses, in 1956's The Ten Commandments . When the roles dried up, he transitioned to independent filmmaking and photography, particularly of beautiful women. (He shot Bo's 1980 Playboy cover and spread.)
-
-"I said, 'Well, I just want to go make little films like we were doing before,' " Derek continues. "So I called my agent Marty Baum, and he put together Tarzan ." A soft-core spin on the legend told from Jane's point of view &#x2014; the alternate title was Me, Jane &#x2014; 1981's Tarzan, the Ape Man was eviscerated by critics but a surprise hit at the box office, earning $37 million. Her husband directed it, while Bo also produced the film. "I cringe when I look at a lot of it now," she says. "But it was beautiful. It was fun. It was a romp in the jungle."
-
-The first little film they made together was in Greece, another soft-core outing written and directed by John called Fantasies that involved an affair between a teenage girl and her adoptive brother. Bo, newly 16, was accompanied by her mother to the audition. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid5' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Bo went by Mary Cathleen Collins then. "He was the most beautiful man I had ever seen," she writes of John in Riding Lessons . She adopted the nickname Bo shortly after John came into her life.
-
-The 46-year-old John was married to Linda Evans at the time &#x2014; his third wife, after Russian ballerina Pati Behrs and original Bond girl Ursula Andress. A TV actress since the 1960s, Evans was 30 at the time &#x2014; Dynasty was still several years away &#x2014; and was discouraged by John from pursuing acting work.
-
-"She was beautifully independent," Evans, now 84, recalls of Bo, adding that she had "zero, zero, zero" inkling her husband might have romantic designs on the teen.
-
-At John's encouragement, Evans gave the neophyte acting lessons several times a week at their home. Evans noticed the director and the ingenue would spar during rehearsals and worried the film would fall apart once they left for Greece.
-
-When Evans arrived on set a few weeks into filming, she learned her husband had fallen in love with Bo. "To say I was devastated is an understatement," she says.
-
-Still, she never put the blame on Bo. "She didn't break up my marriage," Evans says. She's equally emphatic about who pursued whom. "She did not go after him &#x2014; he went after her."
-
-But she doesn't hold much resentment for John, either. She describes him as an "exceptionally fascinating man" who wrote her a love letter every night for nine years. She'd wake up every morning and read it. "When he loved you, he was consumed with you." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid6' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Once the press caught wind of the affair, it sparked a feeding frenzy. "They want you to be humiliated," Evans says. "I refuse to be humiliated."
-
-While she held out hope John would come back and admit he made a huge mistake, that never transpired. She finally let go when he called her up at 3 a.m. one night and inquired if she was seeing anyone. "Oh my God," Evans recalls. "I'm trying to figure out how to live here and he wants to know about dating."
-
-Evans thinks it all played out for a reason. "John didn't want me to work a lot with other people," says Evans, who went on to marry real estate executive Stan Herman in 1976. "He wanted me to mostly work with him. So if I'd stayed with John, I never would have done Dynasty .
-
-"It was a favor they both did to me," she continues, "because I ended up having an extraordinary life going off on my own."
-
-John took Bo from Greece to West Germany. He later told The Washington Post that he was concerned about statutory rape laws in the U.S. "It was definitely more acceptable there," Bo says. They were married in the Wee Kirk Chapel in Las Vegas a few years later, a wheezing pug tucked under the minister's arm. They spent their wedding night in an RV parked outside Caesars Palace. Bo was 19 and he was 49.
-
-The following day, Bo set off for Newfoundland to play a victim in the Jaws knockoff Orca , her screen debut. (Producer Dino De Laurentiis offered her the part himself.) She's listed in the closing credits as Bo Derek. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid7' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Bo has no children. I ask what she'd do if her own daughter came home with a man 30 years her senior. "If it were my daughter, I would have kidnapped her and taken her away from him, of course," she says. "It's not the natural way of things.
-
-"At the same time," she continues, "I was with him 25 years until he died. He was a very ridiculously honest, good man. And it all worked out, didn't it?"
-
-Bo never sustained a particularly memorable acting career. Edwards' farce turned her into one of the most recognizable and desired women in the world, but her subsequent parts never lived up to her star power.
-
-After Tarzan, the Ape-Man came Bolero in 1984 (whose title shamelessly capitalized on the famous scene from 10 ) and Ghosts Can't Do It in 1990 &#x2014; both of which were directed by her husband and disappointed at the box office. The films' main draw involved Bo taking her clothes off.
-
-Derek's days as a leading lady mostly drew to a close by the early 1990s. She remained a fixture in popular culture over the decades, turning up in small roles on TV shows, in the occasional movie and in one startling cameo from 2015, playing Tara Reid's mother in Sharknado 3: Oh Hell No!
-
-"I didn't always make the right career moves," she says. "But God, it was fun." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid8' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Corbett relishes telling the story of how he and Derek met.
-
-It was 2002, and old-school agent Norby Walters, who lived in the apartment above him in West Hollywood, hosted Wednesday night poker games attended by the likes of Burt Reynolds, Sharon Stone, Richard Lewis and Harvey Korman.
-
-Corbett was a regular attendee at those. But it was another celebrity get-together &#x2014; Walters' annual Oscar night party Night of 100 Stars &#x2014; that brought him and Derek together.
-
-The guy known to millions of Sex and the City fans as Aidan had no one to bring as a date. So Walters slid a sheet of paper under his door with the names of about 20 actresses on it.
-
-"Give me your picks one through five," Walters wrote.
-
-Corbett circled Derek's name and slid it under Walters' door. Not long after, his phone rang.
-
-"One name? Corbett, one fucking name?"
-
-Corbett was mostly kidding. He was an 18-year-old high school senior in Wheeling, West Virginia, when 10 came out. He never even saw the movie, but he remembers the newspaper photo &#x2014; a black-and-white close-up of Derek that took up a half page of the Sunday paper.
-
-"She's sort of staring into the camera," Corbett recalls. "I remember thinking, 'My God, I wish I had a girlfriend that beautiful.' "
-
-The pair met first for a dinner in Beverly Hills to see if they would hit it off. They did &#x2014; big time. On Oscar night, they hit the Walters party, attended by a less-sizzling set, then Derek got them into the much hotter Vanity Fair affair. The celebrity circuit was kind of foreign to Corbett, who spent most of his time in Seattle. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid9' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-"I had filmed Big Fat Greek Wedding , but it wasn't out yet," he recalls. "But they knew me from Sex and the City . I got to be kind of famous at this party, which was kind of cool. And it felt good, too, to be showing that off in front of Bo. I liked it."
-
-When he dropped her off, they made plans to see each other again. "We've kind of never been apart since then, really," he says. Early in their courtship, he finally got to see 10 when they rented it from a Blockbuster on Sunset Boulevard. "Bo's never been better in anything," he says, praising her "nuanced little looks" and line readings. They married quietly in late 2020.
-
-She keeps a packed schedule. An avid equestrian, she was appointed in 2008 by Gov. Arnold Schwarzenegger to the California Horse Racing Board, where she served until 2015, advocating for the safety of racehorses and jockeys. She's still on the board of Del Mar racetrack.
-
-Corbett says she recently spent two weeks on the road, traveling between Kentucky for the Breeders' Cup, Washington, D.C., and New Jersey for a tribute to Dudley Moore. She's flying to Finland this winter to see the northern lights on horseback. Corbett, meanwhile, is happier hanging at home with the dogs. "She just loves to be around people, man," he says.
-
-He was 40 and Bo was 45 when they met: "I just can't believe how quickly my life has flashed in front of my eyes."
-
-I ask Derek what works so well between them.
-
-"I fall in love," she says. "I fall hard, and I think that when someone else truly loves you, it's such a gift to cherish. It's kind of a miracle with all the billions of people in the world, so I cherish it." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid10' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-When a call came about a year and a half ago saying a dog named Bear belonging to Gene Hackman and his wife, Betsy Arakawa, needed a happy home, the couple said no. They already had two German shepherds, and one was a rambunctious puppy. Then they saw a picture of Bear.
-
-"I was a goner," Derek recalls.
-
-In police bodycam footage taken the day their bodies were discovered, an officer describes a dog holding vigil by Arakawa's side. Corbett says it was Bear. The couple's death was still a mystery at the time. It would turn out Arakawa died of hantavirus and Hackman, who suffered from Alzheimer's, died a week later from heart disease.
-
-Bear made the 17-hour trip from New Mexico in the back of a Ford Explorer. The couple has raised many German shepherds over the years &#x2014; but none nearly as big as the massive creature who came bounding out of the trunk.
-
-"Oh no," Corbett recalls thinking. "What have we gotten ourselves into?" But Bear turned out to be a "perfect gentleman," as Derek says, and loves to sing along whenever Corbett plays piano or guitar.
-
-Her birthday will be a quiet one &#x2014; just Bo and John and a few intimates over dinner. I ask if she has any regrets.
-
-"No," she says. "I tend to be an optimist. And I'm grateful to the industry. It's been so good to me and I've made the most amazing friends around the world. It's an embarrassment of riches, honestly." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid11' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
-
-============================================================
-[50] ‘Presumed Innocent’ Season 2 Sets Premiere Date as Apple Releases Teaser With Rachel Brosnahan and Matthew Rhys
-Source: Variety | Status: expanded | Words: 318
-Published: 2026-11-20T14:00:00+00:00
-URL: https://variety.com/2026/tv/news/presumed-innocent-season-2-release-date-trailer-1236953834
-------------------------------------------------------------
-SUMMARY:
-New season, new case, new lies. The Apple TV legal anthology thriller “Presumed Innocent” is back for Season 2 on Feb. 19. This time, Rachel Brosnahan and Matthew Rhys are taking the stand. A 50-second teaser released by Apple shows Brosnahan, Rhys, Courtney B. Vance and Fiona Shaw in the tense moments of a trial, […]
-
-CONTENT / EXTRACTED DETAILS:
-New season, new case, new lies. The Apple TV legal anthology thriller &#x201C; Presumed Innocent &#x201D; is back for Season 2 on Feb. 19.
-
-This time, Rachel Brosnahan and Matthew Rhys are taking the stand. A 50-second teaser released by Apple shows Brosnahan, Rhys, Courtney B. Vance and Fiona Shaw in the tense moments of a trial, while all being asked the same question, &#x201C;Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?,&#x201D; before the swelling soundtrack drowns out the oath, building until Jack Reynor&#x2019;s character proclaims, &#x201C;I do.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Season 2 is based on &#x201C;Dissection of a Murder,&#x201D; the novel by Jo Murray, which follows the up-and-coming defense attorney Lelia Reynolds (Brosnahan) as she faces off against her district attorney husband (Rhys) in a murder case that threatens to destroy both their careers and their marriage.
-
-The first season, released in 2024, starred Jake Gyllenhaal and Ruth Negga as the prosecutor Rusty Sabich and his wife, Barbara Sabich. The eight-episode series received four Emmy nominations, two of which were for Gyllenhaal and Negga&#x2019;s performances.
-
-The first two episodes of Season 2 will drop on Feb. 19 followed by weekly releases until April 2. David E. Kelley and J.J. Abrams helm the series. Kelley serves as showrunner on Season 2 and executive produces through David E. Kelley Productions in association with Warner Bros. Television alongside Matthew Tinker. Abrams executive produces through Bad Robot Productions. Rachel Rusch Rich, Dee Johnson, Dustin Thomason and Brosnahan also serve as executive producers. Gyllenhaal executive produces under his Nine Stories banner. Murray and Scott Turow, author of &#x201C;Presumed Innocent,&#x201D; are co-executive producers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
