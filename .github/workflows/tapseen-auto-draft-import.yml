@@ -1,0 +1,69 @@
+name: TapSeen auto-import new Persian drafts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'publish-test/articles/*.json'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tapseen-auto-draft-import
+  cancel-in-progress: false
+
+jobs:
+  import_new_drafts:
+    name: Import newly added draft JSONs only
+    runs-on: ubuntu-latest
+    environment: tapseen-draft-writer
+    timeout-minutes: 15
+    steps:
+      - name: Checkout with parent history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Verify importer tests
+        run: node --test publish-test/bridge/import-draft.test.mjs
+
+      - name: Safely identify added JSON files
+        env:
+          PUSH_BEFORE: ${{ github.event.before }}
+          PUSH_AFTER: ${{ github.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$PUSH_BEFORE" =~ ^[a-f0-9]{40}$ || ! "$PUSH_AFTER" =~ ^[a-f0-9]{40}$ ]]; then
+            echo "Invalid commit SHA"; exit 1
+          fi
+          if [[ "$PUSH_BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+            echo "No base revision; stop to avoid bulk importing existing articles"; exit 1
+          fi
+          git diff --name-only --diff-filter=A -z "$PUSH_BEFORE" "$PUSH_AFTER" -- 'publish-test/articles/*.json' > "$RUNNER_TEMP/added.jsonpaths"
+          node --input-type=module -e '
+            import { readFileSync, writeFileSync } from "node:fs";
+            const paths = readFileSync(process.env.RUNNER_TEMP+"/added.jsonpaths","utf8").split("\\0").filter(Boolean);
+            if (paths.length > 20) throw Error("Too many new drafts in one push (limit 20)");
+            if (paths.some(p => !/^publish-test\\/articles\\/[a-z0-9][a-z0-9-]{1,110}\\.json$/.test(p))) throw Error("Unsafe path");
+            writeFileSync(process.env.RUNNER_TEMP+"/paths.json",JSON.stringify(paths));
+            console.log("New draft files:", paths.length);
+          '
+
+      - name: Import drafts via authenticated draft-only RPC
+        env:
+          TAPSEEN_DRAFT_WRITE: "true"
+          TAPSEEN_SUPABASE_URL: ${{ secrets.TAPSEEN_SUPABASE_URL }}
+          TAPSEEN_SUPABASE_PUBLISHABLE_KEY: ${{ secrets.TAPSEEN_SUPABASE_PUBLISHABLE_KEY }}
+          TAPSEEN_BLOG_AUTHOR_EMAIL: ${{ secrets.TAPSEEN_BLOG_AUTHOR_EMAIL }}
+          TAPSEEN_BLOG_AUTHOR_PASSWORD: ${{ secrets.TAPSEEN_BLOG_AUTHOR_PASSWORD }}
+        run: |
+          node --input-type=module -e '
+            import { readFileSync } from "node:fs";
+            import { run } from "./publish-test/bridge/import-draft.mjs";
+            const files = JSON.parse(readFileSync(process.env.RUNNER_TEMP+"/paths.json","utf8"));
+            for (const path of files) await run(path);
+          '
