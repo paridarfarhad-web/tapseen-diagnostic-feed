@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-20T18:50:06.157Z"
+    "updated_at": "2026-11-20T18:56:15.104Z"
   },
   "articles": [
+    {
+      "id": "4352fa7f-9807-49ae-ae03-9a358776d320",
+      "title": "‘Home Alone’: Macaulay Culkin Returning As Kevin McCallister For New Disney Sequel From Seth Rogen &#038; Evan Goldberg",
+      "summary": "After more than three decades, Macaulay Culkin is finally ready to return to “ Home Alone ,” and Disney has recruited Seth Rogen and Evan Goldberg to help bring Kevin McCallister back to the big screen. The long-discussed sequel/reboot is now officially in development, with the producing duo’s Point Grey banner attached and Culkin involved in developing the story. According to Puck’s Matthew Belloni, Rogen and Goldberg recently closed their deal with Disney and will work alongside Culkin to develop a screenplay. Continue reading ‘Home Alone’: Macaulay Culkin Returning As Kevin McCallister For New Disney Sequel From Seth Rogen &#038; Evan Goldberg at The Playlist.",
+      "content": "After more than three decades, Macaulay Culkin is finally ready to return to “ Home Alone ,” and Disney has recruited Seth Rogen and Evan Goldberg to help bring Kevin McCallister back to the big screen. The long-discussed sequel/reboot is now officially in development, with the producing duo’s Point Grey banner attached and Culkin involved in developing the story. According to Puck’s Matthew Belloni, Rogen and Goldberg recently closed their deal with Disney and will work alongside Culkin to develop a screenplay. Continue reading ‘Home Alone’: Macaulay Culkin Returning As Kevin McCallister For New Disney Sequel From Seth Rogen &#038; Evan Goldberg at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-sequel-20261120",
+      "published_at": "2026-11-20T18:55:52+00:00",
+      "image_url": "https://www.youtube.com/embed/A4c6TvOxSko",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 105,
+      "extracted_at": "2026-11-20T18:55:58.129252+00:00",
+      "updated_at": "2026-11-20T18:55:58.129252+00:00"
+    },
     {
       "id": "11a451cc-0b7d-4083-b3a5-bc4ec6ef45bd",
       "title": "'Polly Pocket': Lili Reinhart Replace Lily Collin On Amazon MGM &#038; Mattel's Upcoming Film",
@@ -742,21 +757,6 @@
       "word_count": 1065,
       "extracted_at": "2026-11-20T16:57:50.352658+00:00",
       "updated_at": "2026-11-20T16:57:50.352658+00:00"
-    },
-    {
-      "id": "d1575cf8-59d1-4a49-a8db-274e99c227d2",
-      "title": "Steam Machine Price Increase Likely Coming Very Soon, Says Valve",
-      "summary": "Valve has indicated that it will likely have to increase the price of its Steam Machine platforms in the future. Prior to launching earlier this year, Valve was forced to indefinitely delay the Steam Machine due to manufacturing costs that continued to prompt the company to reevaluate how much it would sell its new hardware […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Valve has indicated that it will likely have to increase the price of its Steam Machine platforms in the future. Prior to launching earlier this year, Valve was forced to indefinitely delay the Steam Machine due to manufacturing costs that continued to prompt the company to reevaluate how much it would sell its new hardware for . Eventually, it settled on a pricing scheme that saw the 512GB model going for $1,049, with the 2TB version selling for $1,349. And while these prices have continued to hold firm since release, they might not for much longer.\n\nIn a new blog post on Steam , Valve talked about what's next for the Steam Machine. Starting this week, Valve said that the 512GB edition of the Steam Machine no longer has a waitlist, which means that anyone looking to buy it can simply head to the product's website and purchase one without an invite. For the 2TB model, however, Valve said it still has more people on the device's waitlist than it does units to sell. Because of this, Valve explained that it now has to manufacture more Steam Machine units before they can put them up for sale, but once it does this, it could lead to price changes for the platform.\n\n\"We are continuing to build more Steam Machine units, but memory and storage costs continue to increase at unprecedented levels; as a result we don't yet know the number we are able to make, and at what price we'll be able to offer them,\" Valve said. \"The 2TB model in particular will be especially constrained.\"\n\nWhile this is all a bit disappointing to hear from Valve, the company warned as much back in July that the cost of the Steam Machine would likely end up going up. In fact, Valve is far from alone in being forced to increase the cost of its products, as companies like PlayStation, Xbox, and Nintendo have all done the same over the past year as well.\n\nAs for when these potential price changes for the Steam Machine would go into effect, Valve said that it will share more details in January. This indicates that a price hike would likely happen around the same time, as Valve almost certainly wouldn't want to delay an increase for very long. With this in mind, if you happen to have an invite to purchase the 2TB Steam Machine now, or you simply are willing to settle for the 512GB version, you might want to pull the trigger sooner rather than later.\n\nHow do you feel about the Steam Machine becoming even pricier in the future? And will this warning from Valve prompt you to pick up the device now? Be sure to let me know for yourself in the comments below.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/steam-machine-price-increase-valve-2027-warning",
-      "published_at": "2026-11-20T16:55:20+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 522,
-      "extracted_at": "2026-11-20T16:55:49.193301+00:00",
-      "updated_at": "2026-11-20T16:55:49.193301+00:00"
     }
   ]
 }
