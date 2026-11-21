@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-21T00:36:23.906Z"
+    "updated_at": "2026-11-21T01:04:25.565Z"
   },
   "articles": [
+    {
+      "id": "832d13e4-f14f-43a4-b6cf-6f441cc6cf3c",
+      "title": "Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well?",
+      "summary": "I did not see this crossover coming.",
+      "content": "A good measure of how popular and beloved a movie is these days is how often the internet memeifies it, and Obsession is oozing with viral tributes. From all those Nikki memes to that gross cat scene becoming a popular Halloween costume, the horror movie is clearly one of the most memorable 2026 movies . I just found a new video that really took Obsession to a whole new level for me.\n\nNo, no, no, don’t do that! I would never have believed you if you told me I’d be saying Obsession and Disney Channel in the same sentence, but here I am. Honestly, this is so impressive. It really does transform one of the scariest scenes in the whole movie into a more lighthearted comedy thanks to the soundtrack, laugh tracks and graphics that famously play on Disney Channel. Check out some of the comments:\n\nMy favorite part of the video has to be when Nikki does her iconic backwards walk back into the corner and there’s a laugh track. I mean, like the comments say, it really is crazy how important the sound can transform a scene because I sort of believe the scene in this wild universe where it’s a Disney Channel film – minus the muted colors and two characters sharing the same bed.\n\nNow, if you recall the Backrooms ending , what happens next is a lot darker, but it’s still funny to see the same scene redone to try to fit the Disney Channel aesthetic. These movies are two of the most popular horror films of the year, so this crossover is the ultimate way to change how we typically think of them.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/obsession-disney-channel-movie-fits-so-well-inde-navarrette-michael-johnston",
+      "published_at": "2026-11-21T01:01:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Kg6C9KchEDPFGiaroWDXLJ-1920-80.png",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 279,
+      "extracted_at": "2026-11-21T01:04:11.808053+00:00",
+      "updated_at": "2026-11-21T01:04:11.808053+00:00"
+    },
     {
       "id": "1bfe71e7-be36-4556-a6ba-b93d8485de26",
       "title": "Matt Damon Went Viral For A Cute Disneyland Video, But The Story Behind It Is Even Lovelier",
@@ -742,21 +757,6 @@
       "word_count": 953,
       "extracted_at": "2026-11-20T21:36:02.845821+00:00",
       "updated_at": "2026-11-20T21:36:02.845821+00:00"
-    },
-    {
-      "id": "195541c4-46a6-4658-ba70-30f778b0aa41",
-      "title": "The 25 Best Christmas Gifts for Every Kind of Boyfriend, Whether He's a Situationship or Soulmate",
-      "summary": "Whether you just got together or you're practically married, there are gift ideas for every kind of partner.",
-      "content": "Spare a thought for the humble boyfriend. Gift-giving for significant others can be tough, and &#x201C;boyfriend&#x201D; can mean a lot of things, from just-got-together to long-term partner. Do you go all out on your new boo and risk overdoing it, or play it cool and risk playing it too cool? Of course, there&#x2019;s the happy middle, which is where we (hopefully) come in.\n\nBelow, you&#x2019;ll find carefully chosen gifts for boyfriends of all stripes. There are gifts for the cinephile boyfriend who can rattle off his Letterboxd top four at any time (this is The Hollywood Reporter , after all), the fashion-forward guy with a mile-long Mr. Porter wishlist and even gifts for the guy who promises, year after year, that he doesn&#x2019;t want anything. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle T-Mobile Introduces T-Mix, an Innovative Phone Plan That Lets You Choose What's Included Lifestyle The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte\n\nCheck out our favorites below, and bookmark this list, as we&#x2019;ll be updating it throughout the holiday season.\n\nAn Audible gift membership lets him choose his own books to listen to at home or on the go, and Audible also includes original exclusive podcasts.\n\nLeatherology&#x2019;s spiral journal is a great way to get thoughts off the notes app and onto paper. It&#x2019;s refillable too, so he doesn&#x2019;t have to be too precious with it.\n\nNike&#x2019;s Metcon sneakers are purpose-built for the gym, offering the support needed for strength training, while still offering flexibility for cardio.\n\nWhile there are more powerful options, this is an affordable, entry-level pick that can make quick work of everyday tasks.\n\nRelated: 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to Big-Ticket Buys",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-for-boyfriend-2026-holiday-presents-1236756642",
-      "published_at": "2026-11-20T21:31:58+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 305,
-      "extracted_at": "2026-11-20T21:34:01.917147+00:00",
-      "updated_at": "2026-11-20T21:34:01.917147+00:00"
     }
   ]
 }
