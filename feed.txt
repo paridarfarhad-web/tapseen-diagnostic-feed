@@ -1,9 +1,47 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-21T19:35:19.577Z
+Last Updated: 2026-11-21T19:45:21.120Z
 Website: https://tapseen.com
 
 ============================================================
-[1] CAA's Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans "Famous Or Not"
+[1] Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee
+Source: Deadline | Status: expanded | Words: 605
+Published: 2026-11-21T19:43:07+00:00
+URL: https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984
+------------------------------------------------------------
+SUMMARY:
+Watermelon Pictures and the Film Committee at Media City Qatar have announced a planned strategic partnership to develop and co-produce a slate of films telling stories from the Global South. Badie Ali and Hamza Ali launched their Chicago-based production and distribution company in 2024, with a mission to amplify Palestinian and other under-represented voices. Until […]
+
+CONTENT / EXTRACTED DETAILS:
+Watermelon Pictures and the Film Committee at Media City Qatar have announced a planned strategic partnership to develop and co-produce a slate of films telling stories from the Global South.
+
+Badie Ali and Hamza Ali launched their Chicago-based production and distribution company in 2024, with a mission to amplify Palestinian and other under-represented voices.
+
+Until now, the company has focused mainly on distribution, with recent releases including The Voice of Hind Rajab , El Sett , Who Killed Alex Odeh? and American Doctor . Related Stories News Egyptian Music Star Mohamed Mounir Gets Biopic - Doha Industry Days News 'Al Hayba' Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed 'Caesar' Biopic
+
+Its cofounders recently signaled to Deadline that they were working on a development slate , without going into detail. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The strategic partnership aims to combine Qatar &#x2019;s infrastructure and resources as it seeks to grow the film and TV sector at home and regionally, and Watermelon's access to leading talent, established distribution infrastructure, and understanding of what resonates with audiences.
+
+For Watermelon, the partnership marks a significant expansion into larger-scale, mainstream production.
+
+&#x201C;When we founded Watermelon Pictures, our vision was to bring powerful stories to the big screen with an unwavering commitment to authenticity," said Watermelon Pictures cofounder Badie Ali.
+
+"Our partnership with the Film Committee at Media City Qatar is a major step toward realizing that promise, allowing us to tell these stories on a larger scale while remaining true to the people and places at their heart."
+
+Under the partnership, the parties would aim to shoot projects substantially in Qatar or structure them as Qatari co-productions.
+
+They would also seek to involve Doha-based post-production companies and help eligible projects access the Qatar Screen Production Incentive (QSPI), creating opportunities for local crews, businesses, and creative talent while strengthening Qatar's position as an international production hub.
+
+&#x201C;Through this partnership, we want to give filmmakers the resources to tell stories rooted in their communities and bring them to audiences around the world. We also want the films we support to create work for crews and businesses in Qatar and give them experience they can carry into their next production,&#x201D; said Hassan Al Thawadi, Chairman of the Film Committee at Media City Qatar. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The Film Committee and Watermelon Pictures will jointly identify projects for the initial slate. The proposed partnership is subject to definitive agreements and the required approvals, with projects to be considered individually. More details on specific projects are soon to be announced
+
+&#x201C; Too many compelling stories and perspectives, including those of Arab and Muslim communities, have historically been underrepresented in mainstream cinema. We see an enormous opportunity to change that. Our planned slate will span genres, challenge perceptions, and, above all, entertain. Our ambition isn't simply to create space in the industry. It's to compete at its highest level,&#x201D; said Watermelon Pictures cofounder Hamza Ali.
+
+The announcement of the planned partnership was made during the Film Committee's Doha Industry Days, running from November 19 to 21 within the framework of the Doha Film Festival .
+
+============================================================
+[2] CAA's Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans "Famous Or Not"
 Source: Deadline | Status: expanded | Words: 591
 Published: 2026-11-21T19:34:05+00:00
 URL: https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979
@@ -35,7 +73,7 @@ Earlier this month, Lourd told Deadline's Dominic Patten, that the issues around
 Read Deadline's exclusive interview with Lourd here .
 
 ============================================================
-[2] Broadway's Cure For The Post-Holiday Blues? Stars, Stars &#038; More Stars, Coming This Winter
+[3] Broadway's Cure For The Post-Holiday Blues? Stars, Stars &#038; More Stars, Coming This Winter
 Source: Deadline | Status: expanded | Words: 974
 Published: 2026-11-21T19:30:00+00:00
 URL: https://deadline.com/2026/11/broadway-winter-2027-shows-julia-roberts-steve-carell-1237230909
@@ -71,7 +109,7 @@ And March goes out like a lion with Evita , director Jamie Lloyd's revival of th
 Evita will be the final opening before the spring crunch of Tony-qualifying last minute arrivals goes full swing, and, yes, those shows will have plenty of stars as well - Jessica Chastain, Bryan Cranston, Laura Linney, Neil Patrick Harris and more. Those April openers include Gloria (April 5), Warriors (April 8), Purple Rain (April 12), All My Sons (April 13), The Sound of Music (April 15), Paddington The Musical (April 18), Montauk (April 19), Damn Yankees (April 20), Lost Lear (April 23) and Rhinoceros (April 25).
 
 ============================================================
-[3] Doomsday Video Puts Fans In Thor, Beast, and More’s First Person POV
+[4] Doomsday Video Puts Fans In Thor, Beast, and More’s First Person POV
 Source: ComicBook.com | Status: expanded | Words: 520
 Published: 2026-11-21T19:29:11+00:00
 URL: https://comicbook.com/movies/news/doomsday-video-puts-fans-in-thor-beast-and-mores-first-person-pov
@@ -95,7 +133,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ in Sequence Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’
+[5] Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ in Sequence Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’
 Source: Variety | Status: expanded | Words: 387
 Published: 2026-11-21T19:28:57+00:00
 URL: https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038
@@ -123,7 +161,7 @@ The sequential approach paid off. &#x201C;A Beautiful Mind&#x201D; went on to wi
 A new 4K remastering of &#x201C;A Beautiful Mind&#x201D; hits theaters Sunday for its 25th anniversary.
 
 ============================================================
-[5] Amid Miley Cyrus’ Wedding Weekend, The Details (And Photos) From The Rehearsal Dinner Are So Fancy
+[6] Amid Miley Cyrus’ Wedding Weekend, The Details (And Photos) From The Rehearsal Dinner Are So Fancy
 Source: CinemaBlend | Status: expanded | Words: 299
 Published: 2026-11-21T19:22:23+00:00
 URL: https://www.cinemablend.com/streaming-news/miley-cyrus-maxx-morando-wedding-weekend-details-photos-from-rehearsal-dinner-fancy
@@ -143,7 +181,7 @@ Per reports, the rehearsal dinner was a very intimate affair, with just around 2
 Career-wise, Cyrus released her tenth studio album, Bass Persuades , back in September. The album includes the very apt track “Let’s Get Married,” with the music video even featuring Cyrus and Morando together. Morando also joined Cyrus on stage to play drums during the song during her first big concert in years at the Hollywood Bowl last month.
 
 ============================================================
-[6] Xbox Series X First-Person Shooter Gets $57 Price Cut and Is Now Available for $3
+[7] Xbox Series X First-Person Shooter Gets $57 Price Cut and Is Now Available for $3
 Source: ComicBook.com | Status: expanded | Words: 530
 Published: 2026-11-21T19:13:32+00:00
 URL: https://comicbook.com/gaming/news/xbox-series-x-first-person-shooter-sale
@@ -167,7 +205,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] New Star Wars Series Creator Reveals How Lucasfilm "Got Angry" Over Creative Control
+[8] New Star Wars Series Creator Reveals How Lucasfilm "Got Angry" Over Creative Control
 Source: ComicBook.com | Status: expanded | Words: 616
 Published: 2026-11-21T19:11:09+00:00
 URL: https://comicbook.com/anime/news/new-star-wars-series-creator-reveals-how-lucasfilm-got-angry-over-creative-control
@@ -193,7 +231,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life
+[9] How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life
 Source: Variety | Status: expanded | Words: 933
 Published: 2026-11-21T19:09:40+00:00
 URL: https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968
@@ -231,7 +269,7 @@ Fast forward to the film's premiere at the London Film Festival, and Colman refl
 Colman also shared the film's powerful response: "There&#x2019;s something beautiful about film reminding you of these past heroes."
 
 ============================================================
-[9] 5 Novelizations That Made Classic Comic Stories Even Better
+[10] 5 Novelizations That Made Classic Comic Stories Even Better
 Source: ComicBook.com | Status: expanded | Words: 1471
 Published: 2026-11-21T19:08:00+00:00
 URL: https://comicbook.com/comics/list/5-novelizations-that-made-classic-comic-stories-even-better
@@ -271,7 +309,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Netflix's ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute 'SpongeBob'-Length Episodes”
+[11] Netflix's ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute 'SpongeBob'-Length Episodes”
 Source: Deadline | Status: expanded | Words: 1048
 Published: 2026-11-21T19:06:00+00:00
 URL: https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899
@@ -325,7 +363,7 @@ The pair are also developing more projects using a similar model of testing out 
 &#x201C;It takes a few months to get there, and then it takes a year or so of incubating that online to get a fan base, and then you're ready to start a show with some solid footing behind it, and the audience feels like they were part of the inception of this,&#x201D; said Phelps. &#x201C;I think it's the future of TV.&#x201D;
 
 ============================================================
-[11] I Found Out From The Director and Mckenna Grace My Favorite Sunrise On The Reaping Scene WAS Shot, But Cut
+[12] I Found Out From The Director and Mckenna Grace My Favorite Sunrise On The Reaping Scene WAS Shot, But Cut
 Source: CinemaBlend | Status: expanded | Words: 335
 Published: 2026-11-21T19:03:32+00:00
 URL: https://www.cinemablend.com/movies/sunrise-on-the-reaping-director-and-mckenna-grace-talk-maysilee-scene-being-shot
@@ -347,7 +385,7 @@ While interviewing the cast of the new Hunger Games movie, I asked Mckenna Grace
 Points were made. As awesome as it would have been to see Maysilee kill a Gamemaker with one of her poisoned darts, that sequence also complicated her relationship with Haymitch shortly before her death. Instead, Francis Lawrence and company decided to keep the District 12 tributes as a united force until Mckenna Grace's character was killed by bird mutts. As such, the death and Haymitch's reaction are given extra emotional weight.
 
 ============================================================
-[12] Hollywood’s Biggest Watch Nerds Are Obsessing Over These Indie Brands
+[13] Hollywood’s Biggest Watch Nerds Are Obsessing Over These Indie Brands
 Source: The Hollywood Reporter | Status: expanded | Words: 528
 Published: 2026-11-21T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/indie-watch-brands-hollywood-1236760300
@@ -375,7 +413,7 @@ Heinrich Moser founded his namesake brand in 1828; 174 years later, his great-gr
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[13] Why Bari Weiss’ CBS News Is Going Through More Staff Shakeups Months After 60 Minutes Firings
+[14] Why Bari Weiss’ CBS News Is Going Through More Staff Shakeups Months After 60 Minutes Firings
 Source: CinemaBlend | Status: expanded | Words: 439
 Published: 2026-11-21T18:48:51+00:00
 URL: https://www.cinemablend.com/television/bari-weiss-cbs-news-more-staff-shakeups-months-after-60-minutes-firings
@@ -395,7 +433,7 @@ What’s also notable about this situation is that it comes on the heels of a si
 Weiss and 60 Minutes executive producer Nick Bilton made some major changes to the news magazine show on May 28, 2026 (which is allegedly known as “Black Thursday” within the company). On that day, the company officially parted ways with veteran correspondents Sharyn Alfonsi and Cecilia Vega as well as EP Tanya Simon and others for reasons that have still yet to be specified. And, shortly after that, another seasoned correspondent – Scott Pelley – was fired after a heated meeting with Bilton. It was during that conversation that Pelley allegedly accused Weiss of “murdering” the show .
 
 ============================================================
-[14] Even After 42 Years, Dragon Ball Is Still Anime &#038; Manga's Biggest Action Icon
+[15] Even After 42 Years, Dragon Ball Is Still Anime &#038; Manga's Biggest Action Icon
 Source: ComicBook.com | Status: expanded | Words: 830
 Published: 2026-11-21T18:38:47+00:00
 URL: https://comicbook.com/anime/feature/even-after-42-years-dragon-ball-is-still-anime-mangas-biggest-action-icon
@@ -427,7 +465,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] How Raising Cane's Became an A-List Magnet
+[16] How Raising Cane's Became an A-List Magnet
 Source: The Hollywood Reporter | Status: expanded | Words: 956
 Published: 2026-11-21T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/raising-canes-a-list-parties-1236757826
@@ -463,7 +501,7 @@ But L.A. remains as much of a home base as Louisiana. "The town has so accepted 
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[16] Stephan James on Honoring Carl Weathers' Legacy and Learning to Box for 'I Play Rocky'
+[17] Stephan James on Honoring Carl Weathers' Legacy and Learning to Box for 'I Play Rocky'
 Source: Variety | Status: expanded | Words: 1809
 Published: 2026-11-21T18:30:00+00:00
 URL: https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058
@@ -527,7 +565,7 @@ First of all, I wear like the greatest suits ever, so that's really fly. They're
 And then, just playing this young, smart, quick-witted lawyer has been really fun. I just feel like I'm stepping outside of myself and again giving the world something that they haven't really seen me in.
 
 ============================================================
-[17] Grand Theft Auto 6's Satire Is More Important Than Ever, and I Hope Rockstar Never Loses Its Bite
+[18] Grand Theft Auto 6's Satire Is More Important Than Ever, and I Hope Rockstar Never Loses Its Bite
 Source: ComicBook.com | Status: expanded | Words: 792
 Published: 2026-11-21T18:30:00+00:00
 URL: https://comicbook.com/gaming/feature/grand-theft-auto-6s-satire-is-more-important-than-ever-and-i-hope-rockstar-never-loses-its-bite
@@ -555,7 +593,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Emily Blunt Teases Return for 10/10 Action-Thriller Sequel After An 11 Year Wait
+[19] Emily Blunt Teases Return for 10/10 Action-Thriller Sequel After An 11 Year Wait
 Source: ComicBook.com | Status: expanded | Words: 541
 Published: 2026-11-21T18:25:06+00:00
 URL: https://comicbook.com/movies/news/emily-blunt-teases-return-for-10-10-action-thriller-sequel-after-an-11-year-wait
@@ -581,7 +619,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Batman: Year One Changed the Dark Knight Forever, but 40 Years Later, It's Time for Something New
+[20] Batman: Year One Changed the Dark Knight Forever, but 40 Years Later, It's Time for Something New
 Source: ComicBook.com | Status: expanded | Words: 1055
 Published: 2026-11-21T18:24:00+00:00
 URL: https://comicbook.com/comics/feature/batman-year-one-changed-the-dark-knight-forever-but-40-years-later-its-time-for-something-new
@@ -613,7 +651,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’
+[21] Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’
 Source: Variety | Status: expanded | Words: 390
 Published: 2026-11-21T18:20:47+00:00
 URL: https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011
@@ -635,7 +673,7 @@ Rannells originated the role of Elder Price in the long-running musical, perform
 Spacey&#x2019;s sexual assault allegations came years later in 2017, when fellow Broadway actor Anthony Rapp said that the actor assaulted him in his New York apartment while Rapp was a teenager. Rapp later filed a $40 million civil lawsuit for sexual assault and battery in 2022, but a New York jury found Spacey not liable on all counts. Earlier this year, Spacey reached a settlement with three men who sued him over sexual assault claims, avoiding a civil trial in London that was set for October.
 
 ============================================================
-[21] Journalist Shared One Normal Person Tidbit About Timothèe Chalamet After Interview Went Viral (In Awkward Way)
+[22] Journalist Shared One Normal Person Tidbit About Timothèe Chalamet After Interview Went Viral (In Awkward Way)
 Source: CinemaBlend | Status: expanded | Words: 283
 Published: 2026-11-21T18:19:50+00:00
 URL: https://www.cinemablend.com/movies/journalist-shared-normal-person-tidbit-timothee-chalamet-after-interview-viral-awkward
@@ -651,7 +689,7 @@ However, this turned out not to be the case. Chalamet remained incredibly guarde
 Considering Chalamet grew up in New York City himself and still spends a lot of time in the Big Apple , he’s likely used to drinking New York’s tap water. Plus, I wouldn't be surprised if he had some sort of awareness that if he asked for anything specific it would end up in the article. I personally don’t doubt that Chalamet was kind, charming, and easy going, especially since the Dune star has been described as being “normal” before. It’s just hard to get a true read on a person when the person in question is aware they’re being observed.
 
 ============================================================
-[22] Actor Awards Predictions: Andrew Garfield, Inde Navarrette and 'The Odyssey' Lead an Unsettled Film Race as 'Widow's Bay' and HBO Max Could Rule TV
+[23] Actor Awards Predictions: Andrew Garfield, Inde Navarrette and 'The Odyssey' Lead an Unsettled Film Race as 'Widow's Bay' and HBO Max Could Rule TV
 Source: Variety | Status: expanded | Words: 854
 Published: 2026-11-21T18:15:00+00:00
 URL: https://variety.com/lists/2027-sag-actor-awards-predictions
@@ -731,7 +769,7 @@ Next in line: Rose Byrne ("The Good Daughter"); Sally Field ("Remarkably Bright 
 Next in line: "Carrie" (Prime Video); "Crystal Lake" (Peacock); "Fallout" (Prime Video); "House of the Dragon" (HBO Max); "Star Trek: Starfleet Academy" (Paramount+)
 
 ============================================================
-[23] As A Theater Kid, I Have So Many Feelings About Elsinore
+[24] As A Theater Kid, I Have So Many Feelings About Elsinore
 Source: CinemaBlend | Status: expanded | Words: 272
 Published: 2026-11-21T18:05:00+00:00
 URL: https://www.cinemablend.com/movies/as-a-theater-kid-i-have-so-many-feelings-about-elsinore-andrew-scott
@@ -747,7 +785,7 @@ While Club Kid is my favorite movie of the year (so far) , Elsinore is another L
 Then there was the process of line memorization. Ian is shown drilling lines pretty much non-stop throughout Elsinore , including when he's getting treatments and even while recovering after being hospitalized. This rings so true to me; if I'm in a dialogue-heavy play, I function in the same way. For instance, when I played Prior Walter in Tony Kushner's Angels in America, I couldn't stop drilling my lines. That includes testing myself with flashcards, as well as repeating my monologues every time I was in the shower and/or driving in the car.
 
 ============================================================
-[24] Critically Panned 2016 Movies That Are Actually Worth Watching 10 Years Later
+[25] Critically Panned 2016 Movies That Are Actually Worth Watching 10 Years Later
 Source: ComicBook.com | Status: expanded | Words: 1068
 Published: 2026-11-21T17:43:00+00:00
 URL: https://comicbook.com/movies/list/critically-panned-2016-movies-that-are-actually-worth-watching-10-years-later
@@ -783,7 +821,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Ice Age: Boiling Point Brings the Hit Franchise Back to Theaters After 11 Years - Watch New Trailer
+[26] Ice Age: Boiling Point Brings the Hit Franchise Back to Theaters After 11 Years - Watch New Trailer
 Source: ComicBook.com | Status: expanded | Words: 588
 Published: 2026-11-21T17:39:47+00:00
 URL: https://comicbook.com/movies/news/ice-age-boiling-point-brings-the-hit-franchise-back-to-theaters-after-11-years-watch-new-trailer
@@ -809,7 +847,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] This GTA VI Comparison To Taylor Swift’s Eras Tour Blew My Mind (But Fans Are Less Impressed)
+[27] This GTA VI Comparison To Taylor Swift’s Eras Tour Blew My Mind (But Fans Are Less Impressed)
 Source: CinemaBlend | Status: expanded | Words: 338
 Published: 2026-11-21T17:35:39+00:00
 URL: https://www.cinemablend.com/streaming-news/gta-vi-comparison-taylor-swift-eras-tour-blew-my-mind-fans-less-impressed
@@ -829,7 +867,7 @@ When you really think about it, comparing GTA to the Eras Tour is like comparing
 Something many comments pointed out was that there was a cap on how many people could attend the Eras Tour. There are only so many people you can fit in a stadium. Anyone can buy and play Grand Theft Auto VI . So, it makes sense that it could make more than the tour in such a short period of time.
 
 ============================================================
-[27] Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes
+[28] Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes
 Source: Variety | Status: expanded | Words: 1291
 Published: 2026-11-21T17:25:00+00:00
 URL: https://variety.com/2026/artisans/news/fewer-women-composers-awards-season-1236953531
@@ -883,7 +921,7 @@ Karijord employed a 40-piece string section from the London Contemporary Orchest
 Regarding the few female composers scoring studio films, Karijord notes that "it's such a deeply empathetic craft to score films, and it's a deeply collaborative craft. I know a lot of women who are both very empathetic and collaborative and brave. So I think there should be more of us doing it."
 
 ============================================================
-[28] CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’
+[29] CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’
 Source: Variety | Status: expanded | Words: 493
 Published: 2026-11-21T17:10:18+00:00
 URL: https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989
@@ -907,7 +945,7 @@ CAA has advocated against the unauthorized proliferation of celebrity deepfakes 
 Deepfakes have been a constant presence since large-language models emerged in 2022, with many being used to produce unauthorized and sometimes explicit depictions of actors, singers and other celebrities. Other industry backers of the NO FAKES Act include SAG-AFTRA, the Motion Picture Association, the Recording Industry Association of America, the Recording Academy and the National Association of Broadcasters, OpenAI, the AFL-CIO, YouTube and IBM.
 
 ============================================================
-[29] How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories
+[30] How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories
 Source: Variety | Status: expanded | Words: 1530
 Published: 2026-11-21T17:05:00+00:00
 URL: https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703
@@ -919,7 +957,7 @@ CONTENT / EXTRACTED DETAILS:
 For years, Simon Rich wanted to sound the alarm about AI. Rich&#x2019;s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film &#x201C;An American Pickle,&#x201D; an early version of the software, and the two friends discussed its ramifications. &#x201C;It seemed to have real contempt for mankind,&#x201D; Rich says. &#x201C;It scared the hell out of me.&#x201D; Rich published a book, &#x201C;which was completely ignored,&#x201D; and found himself striking out in his attempts to get attention with magazine articles. &#x201C;So, in desperation,&#x201D; he recalls, &#x201C;I was like, &#x2018;Maybe if I got a movie star&#x2026;&#x2019;&#x201D; He got Andrew Garfield. In &#x201C; Artificial ,&#x201D; Garfield plays OpenAI CEO Sam Altman as a blithely destructive sociopath who manipulates his way into the center of a potentially civilization-ending technological advance. Rich uses the juicy character to tell a story about the most consequential political issue of the present moment. &#x201C;I&#x2019;ve been living with knowledge of this danger for at least five years, due to my fluke friendship with this scientist,&#x201D; he says. (Selsam issued a public warning about AI&#x2019;s increasingly uncontrollable behavior in September.) &#x201C;I wrote this film out of a desperation to communicate to the world this information.&#x201D; That desperation may be unique to Rich. But the desire to use the tools of screenwriting to illuminate political concerns is certainly not. Had &#x201C;Artificial&#x201D; simply been an enumeration of AI&#x2019;s dangers, it&#x2019;d likely have attracted as much attention as Rich&#x2019;s book; instead, it&#x2019;s a well-told story with a sharp argument at its core. That makes it one of several movies this year that use character and incident &#x2014; the stuff of quality storytelling &#x2014; to illuminate their writers&#x2019; very real political concerns. That goes for the year&#x2019;s most-discussed blockbusters: Writer-director Christopher Nolan has imbued &#x201C;The Odyssey&#x201D; with a rueful sense of what it means to lose one&#x2019;s humanity in wartime, while, if it&#x2019;s anything like its two predecessor films, &#x201C;Dune: Part Three,&#x201D; written by Denis Villeneuve and Brian K. Vaughan, promises to examine the uses, and misuses, of power. But it&#x2019;s showing up across more human-scale dramas this fall, as well. Take &#x201C; I Play Rocky .&#x201D; The film depicts the writing and production of &#x201C;Rocky,&#x201D; which &#x2014; before it was an Oscar-winning smash &#x2014; was the Hail Mary attempt of unknown actor Sylvester Stallone (played by Anthony Ippolito) to write himself a place in the industry. For screenwriter Peter Gamble, the story has resonances well beyond Hollywood history. &#x201C;&#x2018;Rocky&#x2019; came out right after the Vietnam War, and it was a time when people needed to believe,&#x201D; Gamble says. Stallone, in the film&#x2019;s telling, is the ultimate underdog; Gamble, who himself yearned for a screenwriting breakout, could relate. The message of the film, the writer says, is intended in part for his children: &#x201C;They&#x2019;re like, &#x2018;We&#x2019;re all going to die from global warming. If not, AI is going to kill us next week.&#x2019; What power do I have in the universe at all? We need to believe in ourselves again.&#x201D; American history provides many stories that feel akin to the charged atmosphere of recent years: One, as Gamble notes, is the demoralization of the Vietnam War, and another is the cataclysm of the Great Depression. &#x201C; The Weight ,&#x201D; written by Matthew Booi and Shelby Gaines, is a rip-roaring adventure film in which unjustly imprisoned convict Samuel Murphy (Ethan Hawke) has the chance to win his freedom by transporting gold bricks across an unruly wilderness. The viewer roots for Murphy in part because he&#x2019;s compellingly played by a movie star, and in part because the boot under which he struggles looks, at a moment of increased attention to mass incarceration and wealth inequality, familiar. &#x201C;You don&#x2019;t want it to be didactic and message-y or preachy in any way,&#x201D; Gaines says. &#x201C;But the idea was to try and tell a good story on a personal, individual level and hope that it would echo sympathetically with things that happen on a larger social level &#x2014; both during the Great Depression and today.&#x201D; Murphy&#x2019;s journey depicts the stakes of its historical moment in frankly personal terms &#x2014; his loss of freedom means the loss of access to his daughter, a crisis the film treats with gravity and righteous anger. &#x201C;Abstraction doesn&#x2019;t help you as a writer much,&#x201D; Gaines says. &#x201C;If you want to convey something, the heart is the place to start.&#x201D; Or you can go for the gut. &#x201C; Ink ,&#x201D; which James Graham adapted from his own stage play, makes the case that Rupert Murdoch (Guy Pearce) and newspaper editor Larry Lamb (Jack O&#x2019;Connell) created the venal media world we live in today. The dawning realization that Lamb, especially, is a force for evil hits particularly hard because Graham has, in the film&#x2019;s early going, taken pains to make him so charming and his exploits so rootable. &#x201C;You need these people to surprise you,&#x201D; Graham says, &#x201C;so that you want to be in that newsroom &#x2014; and suddenly, weirdly, for a brief moment, you might even want them to get one over on the establishment.&#x201D; How did tabloid culture gain such purchase? Because, as the film&#x2019;s characters make clear, we&#x2019;re willing to pay for it. &#x201C; Being Heumann &#x201D; makes us root for its band of rebels, too &#x2014; but, in this case, they&#x2019;re working to bring about a better world. The biopic, written by Sian Heder and Rebekah Taussig, tells the story of Judith Heumann (Ruth Madeley), the activist who led the 1977 demonstration over the government&#x2019;s failure to enforce disability-rights legislation. By its nature, the film is explicitly political, but its screenplay is also the product of a thoughtful, careful approach to representation and inclusivity. Taussig, who, like the late Heumann, uses a wheelchair, saw a certain power in learning about &#x2014; and then writing about &#x2014; the many activists Heumann helped organize. &#x201C;What was so exciting about the research,&#x201D; she says, &#x201C;was this gold mine of learning about these absolutely compelling people.&#x201D; The first-time screenwriter had grown up seeing &#x201C;very little disability representation &#x2014; and [when there was], it always felt so flat. There is a richness to the experience of disability that gets missed if you don&#x2019;t live it and you can&#x2019;t portray it.&#x201D; Taussig&#x2019;s ability to mine her own insights enriches the film, one that Heder, an Oscar-winner for &#x201C;CODA,&#x201D; intended to inspire and delight audiences, as well as educate them. &#x201C;It&#x2019;s very important to me that this story reach the widest audience possible,&#x201D; Heder says, &#x201C;because the events of the story actually were about a triumph. In a time where a lot of us are feeling really helpless, it was so important to express disabled joy and humor. I wanted to take the audience on a really entertaining ride, where they could leave seeing the world differently.&#x201D; &#x201C;Fjord&#x201D; has a similar reframing effect &#x2014; though its true-life basis is substantially more downbeat than Judith Heumann&#x2019;s story. Cristian Mungiu took inspiration from the story of the Bodnariu family, an immigrant couple whose five children were taken away by the Norwegian state amid accusations of child abuse. &#x201C;Fjord&#x201D; presents the story of Mihai and Lisbet Gheorghiu (Sebastian Stan and Renate Reinsve) in a who-do-you-believe social drama, one with painful repercussions. &#x201C;What I&#x2019;m looking into, in the stories that I pick up,&#x201D; Mungiu says, &#x201C;is this possibility of speaking about something bigger than just that story.&#x201D; For its writer-director, &#x201C;Fjord&#x201D; addresses the painful consequences of globalization, as people from different traditions find that they cannot in fact understand one another. &#x201C;It&#x2019;s not a reenactment&#x201D; of the Bodnariu story, he says: &#x201C;That&#x2019;s the starting point of a story in which everything is structured to speak about the relationship between the majority and the individual.&#x201D; &#x201C;Fjord&#x201D; won the top prize at this year&#x2019;s Cannes; the runner-up, &#x201C;Minotaur,&#x201D; also places a family drama in counterpoint with a story of major import. Here, a story of marital infidelity (based on Claude Chabrol&#x2019;s 1969 film &#x201C;The Unfaithful Wife&#x201D;) plays out in 2022 as Russia is scaling up its military actions against Ukraine. Writer-director Andrey Zvyagintsev had been working to put the film together for years &#x2014; and, as he wrote, the mobilization against Ukraine was all over the news. &#x201C;It was a very logical thing,&#x201D; he says through a translator. &#x201C;I started to fill gaps in the script with the realities of what was happening.&#x201D; Like Simon Rich trying to spread the word against AI, Zvyagintsev used his script to convey what he was hearing, like local mayors asking businesspeople to choose which of their employees will be conscripted. &#x201C;This is not something I took from the air,&#x201D; Zvyagintsev says. &#x201C;This is real information that came by phone. People would be afraid to speak up about those situations.&#x201D; For Zvyagintsev, this use of character to explore the world around him is what screenwriting is all about. &#x201C;The whole ocean,&#x201D; he says, &#x201C;can be reflected in one ocean drop.&#x201D; Related Stories ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia 'GTA 6' Presales 'Far in Excess' of Expectations Ahead of Next Week's Launch, Take-Two CEO Says
 
 ============================================================
-[30] Major Shonen Jump Creator Shares First Look at New Series Return After Only a Year
+[31] Major Shonen Jump Creator Shares First Look at New Series Return After Only a Year
 Source: ComicBook.com | Status: expanded | Words: 543
 Published: 2026-11-21T17:03:17+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-creator-shares-first-look-at-new-series-return-after-only-a-year
@@ -945,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] 5 Deadly Demons From Hell Who Could Become a Threat to Doctor Doom's Throne
+[32] 5 Deadly Demons From Hell Who Could Become a Threat to Doctor Doom's Throne
 Source: ComicBook.com | Status: expanded | Words: 1235
 Published: 2026-11-21T17:02:00+00:00
 URL: https://comicbook.com/comics/list/5-deadly-demons-from-hell-who-could-become-a-threat-to-doctor-dooms-throne
@@ -985,7 +1023,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Hunger Games: Sunrise On The Reaping is About to Break a Major Odyssey Milestone
+[33] Hunger Games: Sunrise On The Reaping is About to Break a Major Odyssey Milestone
 Source: ComicBook.com | Status: expanded | Words: 516
 Published: 2026-11-21T16:59:40+00:00
 URL: https://comicbook.com/movies/news/hunger-games-sunrise-on-the-reaping-is-about-to-break-a-major-odyssey-milestone
@@ -1009,7 +1047,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Alexandra Daddario Would Be Great As A Bond Girl. She Weighed In On Those Rumors
+[34] Alexandra Daddario Would Be Great As A Bond Girl. She Weighed In On Those Rumors
 Source: CinemaBlend | Status: expanded | Words: 1445
 Published: 2026-11-21T16:57:54+00:00
 URL: https://www.cinemablend.com/movies/alexandra-daddario-weighed-in-bond-girl-rumors
@@ -1063,7 +1101,7 @@ Movies I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[34] Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million
+[35] Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million
 Source: Variety | Status: expanded | Words: 578
 Published: 2026-11-21T16:42:06+00:00
 URL: https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987
@@ -1095,7 +1133,7 @@ Bill Hader voices the titular character in the cartooned version, which revolves
 Finally, in fifth place was Columbia Pictures&#x2019; &#x201C;Ghost Soldier.&#x201D; The William Eubank-directed film earned $700,000 on Friday, coming in just ahead of GKids&#x2019; &#x201C;Godzilla Minus Zero,&#x201D; which brought in $680,000 on Friday. That puts the &#x201C;Godzilla Minus One&#x201D; follow-up at more than $51 million domestically.
 
 ============================================================
-[35] Bleach Reveals New Look at Major Event for the Anime's Grand Finale
+[36] Bleach Reveals New Look at Major Event for the Anime's Grand Finale
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T16:31:46+00:00
 URL: https://comicbook.com/anime/news/bleach-reveals-new-look-at-major-event-for-the-animes-grand-finale
@@ -1121,7 +1159,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] 'Percy Jackson': How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3
+[37] 'Percy Jackson': How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3
 Source: Deadline | Status: expanded | Words: 702
 Published: 2026-11-21T16:30:00+00:00
 URL: https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405
@@ -1157,7 +1195,7 @@ Rather than put a wedge in Annabeth's relationship with either, Jeffries thinks 
 She continues: "You get to see the fight [in her] more, not physically, but just like 'No, I love this person. You're not gonna take him away from me.'"
 
 ============================================================
-[37] Hearties Have A Lot Of Thoughts After THAT When Calls The Heart Wedding Trailer Dropped
+[38] Hearties Have A Lot Of Thoughts After THAT When Calls The Heart Wedding Trailer Dropped
 Source: CinemaBlend | Status: expanded | Words: 574
 Published: 2026-11-21T16:20:59+00:00
 URL: https://www.cinemablend.com/television/when-calls-the-heart-wedding-trailer-hearties-have-thoughts
@@ -1181,7 +1219,7 @@ There is indeed a lot to be excited about for When Calls the Heart Season 14. An
 Like so many others, I really hope the wait for When Calls the Heart 's return won't be too bad. Hopefully, now that we’re getting into the holiday season, time will be moving a little bit quicker. That aside, though, I'm optimistic that the moment Nathan and Elizabeth finally say “I do” will be well worth the wait. On that note, WCTH Season 14 premieres on Sunday, January 3 at 8 p.m. ET on Hallmark Channel.
 
 ============================================================
-[38] Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts
+[39] Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts
 Source: ComicBook.com | Status: expanded | Words: 1710
 Published: 2026-11-21T16:18:00+00:00
 URL: https://comicbook.com/collectibles/news/batman-1-is-one-of-the-most-iconic-comic-books-ever-published-but-its-cover-left-out-two-legendary-debuts
@@ -1221,7 +1259,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[39] 'Hunger Games: Sunrise on the Reaping' Feasting With $120M+ in Franchise's Box Office Comeback
+[40] 'Hunger Games: Sunrise on the Reaping' Feasting With $120M+ in Franchise's Box Office Comeback
 Source: The Hollywood Reporter | Status: expanded | Words: 731
 Published: 2026-11-21T16:16:34+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511
@@ -1249,7 +1287,7 @@ I Play Rocky holds an 89 percent approval rating from critics on Rotten Tomatoes
 In its sophomore frame, Paramount's horror-tinged holiday offering Ebenezer is likely to claim third place with $8.2 million to bring its domestic cume to $33 million after opening atop last weekend's box office. Johnny Depp marks his studio comeback vehicle with director Ti West's reimagining of Charles Dickens' A Christmas Carol .
 
 ============================================================
-[40] Lindsay Hubbard Teases 'Summer House' Spinoff 'In the City' Season 2: "Better Than Season One"
+[41] Lindsay Hubbard Teases 'Summer House' Spinoff 'In the City' Season 2: "Better Than Season One"
 Source: The Hollywood Reporter | Status: expanded | Words: 935
 Published: 2026-11-21T16:15:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/lindsay-hubbard-teases-in-the-city-season-2-kyle-cooke-kiss-1236759562
@@ -1295,7 +1333,7 @@ Hubbard added that she's "actually really nervous" about readers discovering som
 "I have been giggling and crying. It's a lot of vulnerability," she said. "I'm actually really nervous to open up some of these stories that people have never heard before, and it's also the wildest moments of my entire life. There's no holding back.&#x201D;
 
 ============================================================
-[41] Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81
+[42] Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81
 Source: Variety | Status: expanded | Words: 567
 Published: 2026-11-21T16:10:24+00:00
 URL: https://variety.com/2026/biz/news/liz-daly-byrne-dead-model-wife-gerry-byrne-variety-pmc-1236954966
@@ -1323,7 +1361,7 @@ Byrne was a dedicated marathon runner who participated in multiple New York City
 (Pictured: Liz Daly Byrne and Gerry Byrne in 2017)
 
 ============================================================
-[42] GTA 6 Players Warned Not to Make Major Chapter 1 Mistake
+[43] GTA 6 Players Warned Not to Make Major Chapter 1 Mistake
 Source: ComicBook.com | Status: expanded | Words: 558
 Published: 2026-11-21T16:09:23+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-chapter-1
@@ -1353,7 +1391,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Missing My Hero Academia Movie Is Finally Streaming With Crunchyroll After 5 Years
+[44] Missing My Hero Academia Movie Is Finally Streaming With Crunchyroll After 5 Years
 Source: ComicBook.com | Status: expanded | Words: 616
 Published: 2026-11-21T16:08:13+00:00
 URL: https://comicbook.com/anime/news/missing-my-hero-academia-movie-is-finally-streaming-with-crunchyroll-after-5-years
@@ -1381,7 +1419,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Without This Donkey Kong Game Releasing 32 Years Ago, One Of the Best N64 Platformers Wouldn't Exist
+[45] Without This Donkey Kong Game Releasing 32 Years Ago, One Of the Best N64 Platformers Wouldn't Exist
 Source: ComicBook.com | Status: expanded | Words: 868
 Published: 2026-11-21T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/without-this-donkey-kong-game-releasing-32-years-ago-one-of-the-best-n64-platformers-wouldnt-exist
@@ -1413,7 +1451,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] An Obsession Sequel Could Go Anywhere, Here's What Curry Barker &#038; Inde Navarrette Have Said
+[46] An Obsession Sequel Could Go Anywhere, Here's What Curry Barker &#038; Inde Navarrette Have Said
 Source: ComicBook.com | Status: expanded | Words: 642
 Published: 2026-11-21T15:34:00+00:00
 URL: https://comicbook.com/movies/feature/an-obsession-sequel-could-go-anywhere-heres-what-curry-barker-inde-navarrette-have-said
@@ -1441,7 +1479,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] How Brad Pitt Responded When Asked About Thanksgiving Plans Amid Reports Of Drama With His Kids
+[47] How Brad Pitt Responded When Asked About Thanksgiving Plans Amid Reports Of Drama With His Kids
 Source: CinemaBlend | Status: expanded | Words: 364
 Published: 2026-11-21T15:27:46+00:00
 URL: https://www.cinemablend.com/movies/brad-pitt-talks-thanksgiving-plans-amid-reports-drama-kids
@@ -1459,7 +1497,7 @@ That kind of answer definitely tracks for Pitt, who usually has no problem makin
 All the while, if recent reports are to be believed, Brad Pitt isn’t on good terms with the six children he shares with ex-wife Angelina Jolie . Pitt and Jolie are parents to Maddox (25), Pax (22), Zahara (21), Shiloh (20) and twins Knox & Vivienne (18). The last few years have seen several of Pitt’s kids drop his last name and solely maintain their mother’s last name. Simultaneously, Pitt remains engaged in a legal battle with Jolie over the Château Miraval, the winery they formerly co-owned. It’s been alleged that even a decade after Jolie’s initial divorce filing , there are still hard negative feelings between the former couple.
 
 ============================================================
-[47] 5 of the Best Movie &#038; TV Easter Eggs In GTA 6, Including a Tribute to Paul Walker
+[48] 5 of the Best Movie &#038; TV Easter Eggs In GTA 6, Including a Tribute to Paul Walker
 Source: ComicBook.com | Status: expanded | Words: 1655
 Published: 2026-11-21T15:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-of-the-best-movie-tv-easter-eggs-in-gta-6-including-a-tribute-to-paul-walker
@@ -1505,7 +1543,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] 5 DC Superheroes Who Had Their Origin Stories Drastically Changed
+[49] 5 DC Superheroes Who Had Their Origin Stories Drastically Changed
 Source: ComicBook.com | Status: expanded | Words: 1057
 Published: 2026-11-21T14:53:00+00:00
 URL: https://comicbook.com/comics/list/5-dc-superheroes-who-had-their-origin-stories-drastically-changed
@@ -1535,7 +1573,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Boruto Just Revealed an Epic New Duo Rivaling Naruto and Sasuke
+[50] Boruto Just Revealed an Epic New Duo Rivaling Naruto and Sasuke
 Source: ComicBook.com | Status: expanded | Words: 599
 Published: 2026-11-21T14:47:00+00:00
 URL: https://comicbook.com/anime/feature/boruto-just-revealed-an-epic-new-duo-rivaling-naruto-and-sasuke
@@ -1557,52 +1595,4 @@ Sarada has already showcased this by deliberately allowing Code to kidnap her so
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Well, Well Well, There’s Another Wrinkle In You Can See Everything’s Payday Twist
-Source: CinemaBlend | Status: expanded | Words: 1455
-Published: 2026-11-21T14:43:05+00:00
-URL: https://www.cinemablend.com/movies/another-wrinkle-you-can-see-everythings-payday-twist-elizabeth-holmes-billy-evans-nathan-fielder
-------------------------------------------------------------
-SUMMARY:
-A twist on the twist for Billy Evans!
-
-CONTENT / EXTRACTED DETAILS:
-Discover the latest entertainment updates and trailers.
-
-Read reviews, interviews and deep dives on new releases.
-
-Get the latest movie, TV and streaming news delivered to your inbox.
-
-Main navigation menu Open menu Close main menu Cinemablend @layer global { #burgerbar ~ [data-component-name="SiteHeader:Masthead"] .button-menu.checked { display: none; } #burgerbar:checked ~ [data-component-name="SiteHeader:Masthead"] .button-menu.unchecked { display: none; } #burgerbar:checked ~ [data-component-name="SiteHeader:Masthead"] .button-menu.checked { display: block; } } US Edition US UK Australia Canada Sign in View Profile Sign out Search Search Cinemablend TV & Film News Streaming Books Interviews Voices Reality TV Fashion Videos Deals Trailers Theme Parks Newsletter More About Us SFX @layer legacy { .st0{clip-path:url(#SVGID_2_);fill:#000}} } YOUR NEXT READ:
-
-1 Amanda Seyfried And Elizabeth Holmes’ Partner Had Different Intentions In You Can See Everything's Infamous Dinner Scene
-
-2 One Thing Nathan Fielder Found Interesting About Elizabeth Holmes That Wasn't In You Can See Everything
-
-3 Robert Pattinson Allegedly Got A Big Payday Just For Auditioning For Bond (And More Money Is On The Way)
-
-Unlock instant access to exclusive member features.
-
-Get full access to premium articles, exclusive features and a growing list of member rewards.
-
-(Image credit: A24) {alert('Link copied')}).catch(err => {console.error('Failed to copy: ', err)})" data-platform="copy_link" data-action="" class="font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent w-full text-left normal-case" aria-label="Copy link" role="menuitem" data-analytics-id="article-social" analytics-label="utility-bar-social-share-copy-link" analytics-name="utility-bar-secondary" data-mrf-recirculation="article-social"> Copy link Facebook X Pinterest Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It turns out Elizabeth Holmes’ partner, Billy Evans, did successfully manage a payout from the producers of You Can See Everything , which has been crushing it on the 2026 movie schedule . However, the money isn’t going to him or Holmes. Instead, it’s going to charity. The details are still a little murky, but we do have more understanding of what went down after the scene in the movie where he brings it up and the card at the end that explains he changed his mind and wasn’t going to profit from the movie. Given how big a box office hit ($89 million and counting) the A24 release has been, it's probably a nice chunk of change. So what is going on? Here’s what we know.
-
-One of the more controversial aspects of the production of You Can See Everything was Evans negotiating a payout with execs from A24 and the movie's co-directors, Nathan Fielder and Lance Oppenheim. The scene, which sees Evans asking for money after Holmes has left the room, has been a topic of conversation among fans of the film. Even lawyers have chimed in on how it could affect the judgment against Holmes, who owes somewhere north of $400 million in restitution after her conviction on fraud crimes .
-
-In the scene, everyone agrees that Evans (and presumably Holmes) will be paid for their appearances. Then, at the end, a card appears informing the audience that Evans backed off this deal and wouldn’t be paid. Now, a new report in The Hollywood Reporter has clarified it. According to the article, Evans is earning money on the backend, but that money is reportedly going to a children’s charity. The article did not specify which charity.
-
-The outlet also confirmed with A24 that a deal had been struck, but neither the outlet’s sources nor A24 revealed how much the charity would be getting or what percentage of the backend was negotiated. The film is closing in on $100 million at the box office, and it's sure to earn more when it hits VOD sometime in the near future (the exact date is still not confirmed). That’s to say nothing about whatever money the film will earn when it moves to HBO Max, likely in early 2027.
-
-This is yet another saga in a movie that is full of intrigue both on-screen and off. It is also another wrinkle in trying to determine what is true and what is not. That question is at the core of the movie, and it seems even now, weeks after its release and years after Evans and Holmes were filmed before she reported to prison in 2023. That question is still lingering in every aspect. I’ve said before that this movie is like an onion, and this is one more layer getting peeled away, but it’s only offering up another layer that is just as fascinating.
-
-Hugh Scott Syndication Editor Hugh Scott is the Syndication Editor for CinemaBlend. Before CinemaBlend, he was the managing editor for Suggest.com and Gossipcop.com, covering celebrity news and debunking false gossip. He has been in the publishing industry for almost two decades, covering pop culture – movies and TV shows, especially – with a keen interest and love for Gen X culture, the older influences on it, and what it has since inspired.&nbsp;He graduated from Boston University with a degree in Political Science but cured himself of the desire to be a politician almost immediately after graduation.
-
-Please logout and then login again, you will then be prompted to enter your display name.
-
-Movies The Scene In You Can See Everything That Showed EVERYTHING Might NOT Have Been Billy Evans' Idea &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Elizabeth Holmes’ Partner Is A Villain In You Can See Everything. I’m Shocked By His Thoughts On It &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I'm Shocked To Learn One Surprising Scene In You Can See Everything Came From Billy Evans Himself &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Amanda Seyfried And Elizabeth Holmes’ Partner Had Different Intentions In You Can See Everything's Infamous Dinner Scene &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I Read Through Billy Evans' Confessional, And He'd Like To Explain All That Sniffing &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Elizabeth Holmes’ Partner Wants To Set The Record Straight On New Business NOT Being ‘Theranos 3’ &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Latest in Movies Movies Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well? &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I Rewatched Anthony Bourdain's Tony Because It's Heartwarming (But Making It Felt Like 'Being Stabbed In The Stomach') &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Fired Home Alone Star Sad ‘Every Christmas’ He Has To ‘Put Up’ With More Stories About What Happened &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I Thought Rocky And Creed's Big Fight Scene Would Be The End Of I Play Rocky. So What Happened? &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Latest in News Movies Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well? &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Television Macy’s Bringing Back Its Blue Hippo For The 100th Parade, And Fiona The Hippo Fans Have A Request &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Theme-parks Matt Damon Went Viral For A Cute Disneyland Video, But The Story Behind It Is Even Lovelier &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Television I Didn’t Expect The X Files And David Duchovny To Be A Key Part Of JLo’s Famous Green Dress Story &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE Movies I Rewatched Anthony Bourdain's Tony Because It's Heartwarming (But Making It Felt Like 'Being Stabbed In The Stomach') &nbsp; &nbsp; SPONSORED SPONSORED_HEADLINE LATEST ARTICLES 1 Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened 2 I Thought Inde Navarrette Was A Shoe-In For The Oscars. Then I Saw Her Biggest Competition 3 I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both 4 I Watched Smoke Signals For The First Time, And Two Things Really Caught Me Off Guard 5 Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well? //Block Requirejs Cinemablend is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site .
-
-{let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,o.bj)(e)):(0,a.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,o.qL)(e)):(u.log("Authenticated under metered paywall"),(0,a.kR)(e)?(0,i.aq)(e)&&(0,o.qL)(e):(0,i.aq)(e)&&g(e)?((0,o.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,o.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,o.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,o.bj)(e)),t&&(0,i.aq)(e)&&(0,s.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,a.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",a="kiosq-micropaywall-content",o="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),l=e=>e?.finalSiteConfig??e?.defaultSiteConfig,s=e=>!0===l(e)?.micropaywall_layer_enabled,c=e=>s(e)&&r().length>0,d=e=>{if(!s(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=l(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${a}`))return;const t=document.createElement("div");for(t.className=a;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${o}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
-
-\n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
