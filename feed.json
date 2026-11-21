@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-21T17:45:14.719Z"
+    "updated_at": "2026-11-21T18:11:14.517Z"
   },
   "articles": [
+    {
+      "id": "edb97dcf-0cd9-4b05-9599-aca08432f812",
+      "title": "As A Theater Kid, I Have So Many Feelings About Elsinore",
+      "summary": "Andrew Scott's drama hit me where I live.",
+      "content": "Actor Andrew Scott is synonymous with playing Hot Priest in Fleabag (streaming with an Amazon Prime subscription ), but he's a versatile star of the screen and stage. Those two worlds combine in the new LGBTQ+ movie Elsinore , directed by Simone Stone. The biographical drama film tells the story of late actor Ian Charleson, who performed the title role of Hamlet at the National Theatre while secretly struggling with AIDS in the midst of the AIDS crisis. The movie is endlessly powerful, and I have so many thoughts as someone who comes from the theatre.\n\nWhile Club Kid is my favorite movie of the year (so far) , Elsinore is another LGBTQ+ story that I feel privileged to have seen. The movie tells the real-life story of Ian Charleson struggling with AIDS while also preparing to play the behemoth role of Hamlet at the National Theatre. It's a truly gut-wrenching story, told expertly through the film's 111-minute runtime. Throughout the movie, I was shook by how seen I felt by the way it portrayed working on a theater production.\n\nThen there was the process of line memorization. Ian is shown drilling lines pretty much non-stop throughout Elsinore , including when he's getting treatments and even while recovering after being hospitalized. This rings so true to me; if I'm in a dialogue-heavy play, I function in the same way. For instance, when I played Prior Walter in Tony Kushner's Angels in America, I couldn't stop drilling my lines. That includes testing myself with flashcards, as well as repeating my monologues every time I was in the shower and/or driving in the car.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/as-a-theater-kid-i-have-so-many-feelings-about-elsinore-andrew-scott",
+      "published_at": "2026-11-21T18:05:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/B2asCJx64yzEdXthqJxvQA-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 272,
+      "extracted_at": "2026-11-21T18:11:01.759119+00:00",
+      "updated_at": "2026-11-21T18:11:01.759119+00:00"
+    },
     {
       "id": "5ca48421-5a55-4cff-ac9a-6d8ed6dde5a1",
       "title": "Critically Panned 2016 Movies That Are Actually Worth Watching 10 Years Later",
@@ -742,21 +757,6 @@
       "word_count": 262,
       "extracted_at": "2026-11-21T12:00:44.827416+00:00",
       "updated_at": "2026-11-21T12:00:44.827416+00:00"
-    },
-    {
-      "id": "30a0dc60-9abd-4ab3-9d7c-968fdc030f59",
-      "title": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
-      "summary": "“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov. 29, with international premieres to follow. The documentary will premiere on the BBC in the U.K. on Nov. 29, via NBCUniversal in the United States on Nov. 30, Channel […]",
-      "content": "&#x201C;Heal,&#x201D; a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov. 29, with international premieres to follow.\n\nThe documentary will premiere on the BBC in the U.K. on Nov. 29, via NBCUniversal in the United States on Nov. 30, Channel 9 in Australia on Dec. 1 and CTV in Canada on Dec. 7.\n\nThe Princess of Wales was diagnosed with cancer in early 2024 and announced she was in remission in January 2025 after undergoing chemotherapy. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Harrison Ford Exec-Produced Voyaging Film ‘The Navigator’ Unveils Clip Ahead of DOC NYC Premiere (EXCLUSIVE) Alex Gibney-Produced ‘Mohabat,’ Directed by James Longley, Wins at Ji.hlava: The Film Is 'Meticulously Researched and Exquisitely Crafted'\n\nThe documentary follows Princess Kate as she undertakes the National Three Peaks Challenge, climbing the highest mountains in Scotland, England and Wales within 24 hours in support of The Royal Marsden Cancer Charity. During her challenge attempt, she reflects on her experience alongside others navigating their health journeys, exploring the impact that illness has on a person and the people, places and experiences that can aid in healing.\n\nThe documentary shines a light on navigating diagnosis, recovery and life beyond cancer. Princess Kate aims to transform access to holistic cancer care that supports resilience and quality of life during and after diagnosis. All funds received during the documentary&#x2019;s distribution have been directed to The Royal Marsden Cancer Charity to support those living with and beyond a cancer diagnosis.\n\nIn the U.S., &#x201C;Heal&#x201D; will be available on Nov. 30 at 8 p.m. ET/PT on NBC and at 11:30 p.m. ET/PT on Bravo. It will also be available to stream next day on Peacock.\n\n&#x201C;Heal&#x201D; was produced by Detail Films and directed by Benji Jackson. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nWatch the documentary trailer below.",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745",
-      "published_at": "2026-11-21T12:00:00+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2025/01/kate-middleton.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 346,
-      "extracted_at": "2026-11-21T12:00:45.58805+00:00",
-      "updated_at": "2026-11-21T12:00:45.58805+00:00"
     }
   ]
 }
