@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-21T17:07:13.161Z
+Last Updated: 2026-11-21T17:11:10.400Z
 Website: https://tapseen.com
 
 ============================================================
-[1] How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories
+[1] CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’
+Source: Variety | Status: expanded | Words: 493
+Published: 2026-11-21T17:10:18+00:00
+URL: https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989
+------------------------------------------------------------
+SUMMARY:
+Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]
+
+CONTENT / EXTRACTED DETAILS:
+Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act , a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that &#x201C;every one of us should have the right to say no to an unwelcome use of our likeness.&#x201D;
+
+The NO FAKES Act was introduced by Sen. Chris Coons (D-ME) in May, following a previous attempt at the bill last year. While it advanced out of the Senate Judiciary Committee in June and has a bipartisan coalition of co-sponsors, the full Senate has not taken it up. Lourd wrote that the bill would introduce a federal standard for &#x201C;control, consent and compensation&#x201D; surrounding deepfakes, replacing &#x201C;outdated, ill-fitting state laws, many of them written with an analog world in mind.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories ‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover ‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales
+
+&#x201C;I come to this issue not as a policymaker but as a practitioner. I run a global talent agency. Part of our job is to help our clients license their likenesses and performances, sometimes to AI companies,&#x201D;&#xA0;he added. &#x201C;We regularly negotiate those deals, and I can tell you that the bill pending in Congress delivers what the industry needs and what will protect all Americans.&#x201D;
+
+Lourd laid out the stakes for Hollywood by citing Tom Hanks, who warned his followers in 2023 about a dental office using an AI deepfake of a younger version of him in an advertisement. Hanks likely wouldn't have agreed to the dental ad, Lourd wrote, but he should've been given a choice before the dental office ran with an unauthorized deepfake.
+
+&#x201C;What&#x2019;s missing is a bright-line rule affirming that right in the AI age, and it is one Congress can supply before the year is out,&#x201D;&#xA0;Lourd wrote. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+CAA has advocated against the unauthorized proliferation of celebrity deepfakes online, working with the Cate Blanchett-backed Human Consent Foundation to help people control permissions for their likenesses if they're scraped by AI models. The agency also joined the foundation and other entertainment backers in an amicus brief in the New York Times' lawsuit against OpenAI, noting the active licensing market for likenesses that's developed in the AI era.
+
+Deepfakes have been a constant presence since large-language models emerged in 2022, with many being used to produce unauthorized and sometimes explicit depictions of actors, singers and other celebrities. Other industry backers of the NO FAKES Act include SAG-AFTRA, the Motion Picture Association, the Recording Industry Association of America, the Recording Academy and the National Association of Broadcasters, OpenAI, the AFL-CIO, YouTube and IBM.
+
+============================================================
+[2] How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories
 Source: Variety | Status: expanded | Words: 1530
 Published: 2026-11-21T17:05:00+00:00
 URL: https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703
@@ -15,7 +39,7 @@ CONTENT / EXTRACTED DETAILS:
 For years, Simon Rich wanted to sound the alarm about AI. Rich&#x2019;s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film &#x201C;An American Pickle,&#x201D; an early version of the software, and the two friends discussed its ramifications. &#x201C;It seemed to have real contempt for mankind,&#x201D; Rich says. &#x201C;It scared the hell out of me.&#x201D; Rich published a book, &#x201C;which was completely ignored,&#x201D; and found himself striking out in his attempts to get attention with magazine articles. &#x201C;So, in desperation,&#x201D; he recalls, &#x201C;I was like, &#x2018;Maybe if I got a movie star&#x2026;&#x2019;&#x201D; He got Andrew Garfield. In &#x201C; Artificial ,&#x201D; Garfield plays OpenAI CEO Sam Altman as a blithely destructive sociopath who manipulates his way into the center of a potentially civilization-ending technological advance. Rich uses the juicy character to tell a story about the most consequential political issue of the present moment. &#x201C;I&#x2019;ve been living with knowledge of this danger for at least five years, due to my fluke friendship with this scientist,&#x201D; he says. (Selsam issued a public warning about AI&#x2019;s increasingly uncontrollable behavior in September.) &#x201C;I wrote this film out of a desperation to communicate to the world this information.&#x201D; That desperation may be unique to Rich. But the desire to use the tools of screenwriting to illuminate political concerns is certainly not. Had &#x201C;Artificial&#x201D; simply been an enumeration of AI&#x2019;s dangers, it&#x2019;d likely have attracted as much attention as Rich&#x2019;s book; instead, it&#x2019;s a well-told story with a sharp argument at its core. That makes it one of several movies this year that use character and incident &#x2014; the stuff of quality storytelling &#x2014; to illuminate their writers&#x2019; very real political concerns. That goes for the year&#x2019;s most-discussed blockbusters: Writer-director Christopher Nolan has imbued &#x201C;The Odyssey&#x201D; with a rueful sense of what it means to lose one&#x2019;s humanity in wartime, while, if it&#x2019;s anything like its two predecessor films, &#x201C;Dune: Part Three,&#x201D; written by Denis Villeneuve and Brian K. Vaughan, promises to examine the uses, and misuses, of power. But it&#x2019;s showing up across more human-scale dramas this fall, as well. Take &#x201C; I Play Rocky .&#x201D; The film depicts the writing and production of &#x201C;Rocky,&#x201D; which &#x2014; before it was an Oscar-winning smash &#x2014; was the Hail Mary attempt of unknown actor Sylvester Stallone (played by Anthony Ippolito) to write himself a place in the industry. For screenwriter Peter Gamble, the story has resonances well beyond Hollywood history. &#x201C;&#x2018;Rocky&#x2019; came out right after the Vietnam War, and it was a time when people needed to believe,&#x201D; Gamble says. Stallone, in the film&#x2019;s telling, is the ultimate underdog; Gamble, who himself yearned for a screenwriting breakout, could relate. The message of the film, the writer says, is intended in part for his children: &#x201C;They&#x2019;re like, &#x2018;We&#x2019;re all going to die from global warming. If not, AI is going to kill us next week.&#x2019; What power do I have in the universe at all? We need to believe in ourselves again.&#x201D; American history provides many stories that feel akin to the charged atmosphere of recent years: One, as Gamble notes, is the demoralization of the Vietnam War, and another is the cataclysm of the Great Depression. &#x201C; The Weight ,&#x201D; written by Matthew Booi and Shelby Gaines, is a rip-roaring adventure film in which unjustly imprisoned convict Samuel Murphy (Ethan Hawke) has the chance to win his freedom by transporting gold bricks across an unruly wilderness. The viewer roots for Murphy in part because he&#x2019;s compellingly played by a movie star, and in part because the boot under which he struggles looks, at a moment of increased attention to mass incarceration and wealth inequality, familiar. &#x201C;You don&#x2019;t want it to be didactic and message-y or preachy in any way,&#x201D; Gaines says. &#x201C;But the idea was to try and tell a good story on a personal, individual level and hope that it would echo sympathetically with things that happen on a larger social level &#x2014; both during the Great Depression and today.&#x201D; Murphy&#x2019;s journey depicts the stakes of its historical moment in frankly personal terms &#x2014; his loss of freedom means the loss of access to his daughter, a crisis the film treats with gravity and righteous anger. &#x201C;Abstraction doesn&#x2019;t help you as a writer much,&#x201D; Gaines says. &#x201C;If you want to convey something, the heart is the place to start.&#x201D; Or you can go for the gut. &#x201C; Ink ,&#x201D; which James Graham adapted from his own stage play, makes the case that Rupert Murdoch (Guy Pearce) and newspaper editor Larry Lamb (Jack O&#x2019;Connell) created the venal media world we live in today. The dawning realization that Lamb, especially, is a force for evil hits particularly hard because Graham has, in the film&#x2019;s early going, taken pains to make him so charming and his exploits so rootable. &#x201C;You need these people to surprise you,&#x201D; Graham says, &#x201C;so that you want to be in that newsroom &#x2014; and suddenly, weirdly, for a brief moment, you might even want them to get one over on the establishment.&#x201D; How did tabloid culture gain such purchase? Because, as the film&#x2019;s characters make clear, we&#x2019;re willing to pay for it. &#x201C; Being Heumann &#x201D; makes us root for its band of rebels, too &#x2014; but, in this case, they&#x2019;re working to bring about a better world. The biopic, written by Sian Heder and Rebekah Taussig, tells the story of Judith Heumann (Ruth Madeley), the activist who led the 1977 demonstration over the government&#x2019;s failure to enforce disability-rights legislation. By its nature, the film is explicitly political, but its screenplay is also the product of a thoughtful, careful approach to representation and inclusivity. Taussig, who, like the late Heumann, uses a wheelchair, saw a certain power in learning about &#x2014; and then writing about &#x2014; the many activists Heumann helped organize. &#x201C;What was so exciting about the research,&#x201D; she says, &#x201C;was this gold mine of learning about these absolutely compelling people.&#x201D; The first-time screenwriter had grown up seeing &#x201C;very little disability representation &#x2014; and [when there was], it always felt so flat. There is a richness to the experience of disability that gets missed if you don&#x2019;t live it and you can&#x2019;t portray it.&#x201D; Taussig&#x2019;s ability to mine her own insights enriches the film, one that Heder, an Oscar-winner for &#x201C;CODA,&#x201D; intended to inspire and delight audiences, as well as educate them. &#x201C;It&#x2019;s very important to me that this story reach the widest audience possible,&#x201D; Heder says, &#x201C;because the events of the story actually were about a triumph. In a time where a lot of us are feeling really helpless, it was so important to express disabled joy and humor. I wanted to take the audience on a really entertaining ride, where they could leave seeing the world differently.&#x201D; &#x201C;Fjord&#x201D; has a similar reframing effect &#x2014; though its true-life basis is substantially more downbeat than Judith Heumann&#x2019;s story. Cristian Mungiu took inspiration from the story of the Bodnariu family, an immigrant couple whose five children were taken away by the Norwegian state amid accusations of child abuse. &#x201C;Fjord&#x201D; presents the story of Mihai and Lisbet Gheorghiu (Sebastian Stan and Renate Reinsve) in a who-do-you-believe social drama, one with painful repercussions. &#x201C;What I&#x2019;m looking into, in the stories that I pick up,&#x201D; Mungiu says, &#x201C;is this possibility of speaking about something bigger than just that story.&#x201D; For its writer-director, &#x201C;Fjord&#x201D; addresses the painful consequences of globalization, as people from different traditions find that they cannot in fact understand one another. &#x201C;It&#x2019;s not a reenactment&#x201D; of the Bodnariu story, he says: &#x201C;That&#x2019;s the starting point of a story in which everything is structured to speak about the relationship between the majority and the individual.&#x201D; &#x201C;Fjord&#x201D; won the top prize at this year&#x2019;s Cannes; the runner-up, &#x201C;Minotaur,&#x201D; also places a family drama in counterpoint with a story of major import. Here, a story of marital infidelity (based on Claude Chabrol&#x2019;s 1969 film &#x201C;The Unfaithful Wife&#x201D;) plays out in 2022 as Russia is scaling up its military actions against Ukraine. Writer-director Andrey Zvyagintsev had been working to put the film together for years &#x2014; and, as he wrote, the mobilization against Ukraine was all over the news. &#x201C;It was a very logical thing,&#x201D; he says through a translator. &#x201C;I started to fill gaps in the script with the realities of what was happening.&#x201D; Like Simon Rich trying to spread the word against AI, Zvyagintsev used his script to convey what he was hearing, like local mayors asking businesspeople to choose which of their employees will be conscripted. &#x201C;This is not something I took from the air,&#x201D; Zvyagintsev says. &#x201C;This is real information that came by phone. People would be afraid to speak up about those situations.&#x201D; For Zvyagintsev, this use of character to explore the world around him is what screenwriting is all about. &#x201C;The whole ocean,&#x201D; he says, &#x201C;can be reflected in one ocean drop.&#x201D; Related Stories ‘GTA 6’ Upsets Conservatives: Fox News Tells Fans to ‘Grow Up’ as Clavicular and More Manosphere Influencers Complain About Lucia 'GTA 6' Presales 'Far in Excess' of Expectations Ahead of Next Week's Launch, Take-Two CEO Says
 
 ============================================================
-[2] Major Shonen Jump Creator Shares First Look at New Series Return After Only a Year
+[3] Major Shonen Jump Creator Shares First Look at New Series Return After Only a Year
 Source: ComicBook.com | Status: expanded | Words: 543
 Published: 2026-11-21T17:03:17+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-creator-shares-first-look-at-new-series-return-after-only-a-year
@@ -41,7 +65,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] 5 Deadly Demons From Hell Who Could Become a Threat to Doctor Doom's Throne
+[4] 5 Deadly Demons From Hell Who Could Become a Threat to Doctor Doom's Throne
 Source: ComicBook.com | Status: expanded | Words: 1235
 Published: 2026-11-21T17:02:00+00:00
 URL: https://comicbook.com/comics/list/5-deadly-demons-from-hell-who-could-become-a-threat-to-doctor-dooms-throne
@@ -81,7 +105,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Hunger Games: Sunrise On The Reaping is About to Break a Major Odyssey Milestone
+[5] Hunger Games: Sunrise On The Reaping is About to Break a Major Odyssey Milestone
 Source: ComicBook.com | Status: expanded | Words: 516
 Published: 2026-11-21T16:59:40+00:00
 URL: https://comicbook.com/movies/news/hunger-games-sunrise-on-the-reaping-is-about-to-break-a-major-odyssey-milestone
@@ -105,7 +129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Alexandra Daddario Would Be Great As A Bond Girl. She Weighed In On Those Rumors
+[6] Alexandra Daddario Would Be Great As A Bond Girl. She Weighed In On Those Rumors
 Source: CinemaBlend | Status: expanded | Words: 1445
 Published: 2026-11-21T16:57:54+00:00
 URL: https://www.cinemablend.com/movies/alexandra-daddario-weighed-in-bond-girl-rumors
@@ -159,7 +183,7 @@ Movies I’m Glad People Are Out There Asking Rumored Bond Girls How They'd Feel
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[6] Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million
+[7] Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million
 Source: Variety | Status: expanded | Words: 578
 Published: 2026-11-21T16:42:06+00:00
 URL: https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987
@@ -191,7 +215,7 @@ Bill Hader voices the titular character in the cartooned version, which revolves
 Finally, in fifth place was Columbia Pictures&#x2019; &#x201C;Ghost Soldier.&#x201D; The William Eubank-directed film earned $700,000 on Friday, coming in just ahead of GKids&#x2019; &#x201C;Godzilla Minus Zero,&#x201D; which brought in $680,000 on Friday. That puts the &#x201C;Godzilla Minus One&#x201D; follow-up at more than $51 million domestically.
 
 ============================================================
-[7] Bleach Reveals New Look at Major Event for the Anime's Grand Finale
+[8] Bleach Reveals New Look at Major Event for the Anime's Grand Finale
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T16:31:46+00:00
 URL: https://comicbook.com/anime/news/bleach-reveals-new-look-at-major-event-for-the-animes-grand-finale
@@ -217,7 +241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] 'Percy Jackson': How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3
+[9] 'Percy Jackson': How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3
 Source: Deadline | Status: expanded | Words: 702
 Published: 2026-11-21T16:30:00+00:00
 URL: https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405
@@ -253,7 +277,7 @@ Rather than put a wedge in Annabeth's relationship with either, Jeffries thinks 
 She continues: "You get to see the fight [in her] more, not physically, but just like 'No, I love this person. You're not gonna take him away from me.'"
 
 ============================================================
-[9] Hearties Have A Lot Of Thoughts After THAT When Calls The Heart Wedding Trailer Dropped
+[10] Hearties Have A Lot Of Thoughts After THAT When Calls The Heart Wedding Trailer Dropped
 Source: CinemaBlend | Status: expanded | Words: 574
 Published: 2026-11-21T16:20:59+00:00
 URL: https://www.cinemablend.com/television/when-calls-the-heart-wedding-trailer-hearties-have-thoughts
@@ -277,7 +301,7 @@ There is indeed a lot to be excited about for When Calls the Heart Season 14. An
 Like so many others, I really hope the wait for When Calls the Heart 's return won't be too bad. Hopefully, now that we’re getting into the holiday season, time will be moving a little bit quicker. That aside, though, I'm optimistic that the moment Nathan and Elizabeth finally say “I do” will be well worth the wait. On that note, WCTH Season 14 premieres on Sunday, January 3 at 8 p.m. ET on Hallmark Channel.
 
 ============================================================
-[10] Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts
+[11] Batman #1 Is One of the Most Iconic Comic Books Ever Published, But Its Cover Left Out Two Legendary Debuts
 Source: ComicBook.com | Status: expanded | Words: 1710
 Published: 2026-11-21T16:18:00+00:00
 URL: https://comicbook.com/collectibles/news/batman-1-is-one-of-the-most-iconic-comic-books-ever-published-but-its-cover-left-out-two-legendary-debuts
@@ -317,7 +341,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[11] 'Hunger Games: Sunrise on the Reaping' Feasting With $120M+ in Franchise's Box Office Comeback
+[12] 'Hunger Games: Sunrise on the Reaping' Feasting With $120M+ in Franchise's Box Office Comeback
 Source: The Hollywood Reporter | Status: expanded | Words: 731
 Published: 2026-11-21T16:16:34+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511
@@ -345,7 +369,7 @@ I Play Rocky holds an 89 percent approval rating from critics on Rotten Tomatoes
 In its sophomore frame, Paramount's horror-tinged holiday offering Ebenezer is likely to claim third place with $8.2 million to bring its domestic cume to $33 million after opening atop last weekend's box office. Johnny Depp marks his studio comeback vehicle with director Ti West's reimagining of Charles Dickens' A Christmas Carol .
 
 ============================================================
-[12] Lindsay Hubbard Teases 'Summer House' Spinoff 'In the City' Season 2: "Better Than Season One"
+[13] Lindsay Hubbard Teases 'Summer House' Spinoff 'In the City' Season 2: "Better Than Season One"
 Source: The Hollywood Reporter | Status: expanded | Words: 935
 Published: 2026-11-21T16:15:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/lindsay-hubbard-teases-in-the-city-season-2-kyle-cooke-kiss-1236759562
@@ -391,7 +415,7 @@ Hubbard added that she's "actually really nervous" about readers discovering som
 "I have been giggling and crying. It's a lot of vulnerability," she said. "I'm actually really nervous to open up some of these stories that people have never heard before, and it's also the wildest moments of my entire life. There's no holding back.&#x201D;
 
 ============================================================
-[13] Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81
+[14] Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81
 Source: Variety | Status: expanded | Words: 567
 Published: 2026-11-21T16:10:24+00:00
 URL: https://variety.com/2026/biz/news/liz-daly-byrne-dead-model-wife-gerry-byrne-variety-pmc-1236954966
@@ -419,7 +443,7 @@ Byrne was a dedicated marathon runner who participated in multiple New York City
 (Pictured: Liz Daly Byrne and Gerry Byrne in 2017)
 
 ============================================================
-[14] GTA 6 Players Warned Not to Make Major Chapter 1 Mistake
+[15] GTA 6 Players Warned Not to Make Major Chapter 1 Mistake
 Source: ComicBook.com | Status: expanded | Words: 558
 Published: 2026-11-21T16:09:23+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-chapter-1
@@ -449,7 +473,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Missing My Hero Academia Movie Is Finally Streaming With Crunchyroll After 5 Years
+[16] Missing My Hero Academia Movie Is Finally Streaming With Crunchyroll After 5 Years
 Source: ComicBook.com | Status: expanded | Words: 616
 Published: 2026-11-21T16:08:13+00:00
 URL: https://comicbook.com/anime/news/missing-my-hero-academia-movie-is-finally-streaming-with-crunchyroll-after-5-years
@@ -477,7 +501,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Without This Donkey Kong Game Releasing 32 Years Ago, One Of the Best N64 Platformers Wouldn't Exist
+[17] Without This Donkey Kong Game Releasing 32 Years Ago, One Of the Best N64 Platformers Wouldn't Exist
 Source: ComicBook.com | Status: expanded | Words: 868
 Published: 2026-11-21T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/without-this-donkey-kong-game-releasing-32-years-ago-one-of-the-best-n64-platformers-wouldnt-exist
@@ -509,7 +533,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] An Obsession Sequel Could Go Anywhere, Here's What Curry Barker &#038; Inde Navarrette Have Said
+[18] An Obsession Sequel Could Go Anywhere, Here's What Curry Barker &#038; Inde Navarrette Have Said
 Source: ComicBook.com | Status: expanded | Words: 642
 Published: 2026-11-21T15:34:00+00:00
 URL: https://comicbook.com/movies/feature/an-obsession-sequel-could-go-anywhere-heres-what-curry-barker-inde-navarrette-have-said
@@ -537,7 +561,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] How Brad Pitt Responded When Asked About Thanksgiving Plans Amid Reports Of Drama With His Kids
+[19] How Brad Pitt Responded When Asked About Thanksgiving Plans Amid Reports Of Drama With His Kids
 Source: CinemaBlend | Status: expanded | Words: 364
 Published: 2026-11-21T15:27:46+00:00
 URL: https://www.cinemablend.com/movies/brad-pitt-talks-thanksgiving-plans-amid-reports-drama-kids
@@ -555,7 +579,7 @@ That kind of answer definitely tracks for Pitt, who usually has no problem makin
 All the while, if recent reports are to be believed, Brad Pitt isn’t on good terms with the six children he shares with ex-wife Angelina Jolie . Pitt and Jolie are parents to Maddox (25), Pax (22), Zahara (21), Shiloh (20) and twins Knox & Vivienne (18). The last few years have seen several of Pitt’s kids drop his last name and solely maintain their mother’s last name. Simultaneously, Pitt remains engaged in a legal battle with Jolie over the Château Miraval, the winery they formerly co-owned. It’s been alleged that even a decade after Jolie’s initial divorce filing , there are still hard negative feelings between the former couple.
 
 ============================================================
-[19] 5 of the Best Movie &#038; TV Easter Eggs In GTA 6, Including a Tribute to Paul Walker
+[20] 5 of the Best Movie &#038; TV Easter Eggs In GTA 6, Including a Tribute to Paul Walker
 Source: ComicBook.com | Status: expanded | Words: 1655
 Published: 2026-11-21T15:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-of-the-best-movie-tv-easter-eggs-in-gta-6-including-a-tribute-to-paul-walker
@@ -601,7 +625,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] 5 DC Superheroes Who Had Their Origin Stories Drastically Changed
+[21] 5 DC Superheroes Who Had Their Origin Stories Drastically Changed
 Source: ComicBook.com | Status: expanded | Words: 1057
 Published: 2026-11-21T14:53:00+00:00
 URL: https://comicbook.com/comics/list/5-dc-superheroes-who-had-their-origin-stories-drastically-changed
@@ -631,7 +655,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Boruto Just Revealed an Epic New Duo Rivaling Naruto and Sasuke
+[22] Boruto Just Revealed an Epic New Duo Rivaling Naruto and Sasuke
 Source: ComicBook.com | Status: expanded | Words: 599
 Published: 2026-11-21T14:47:00+00:00
 URL: https://comicbook.com/anime/feature/boruto-just-revealed-an-epic-new-duo-rivaling-naruto-and-sasuke
@@ -655,7 +679,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Well, Well Well, There’s Another Wrinkle In You Can See Everything’s Payday Twist
+[23] Well, Well Well, There’s Another Wrinkle In You Can See Everything’s Payday Twist
 Source: CinemaBlend | Status: expanded | Words: 1455
 Published: 2026-11-21T14:43:05+00:00
 URL: https://www.cinemablend.com/movies/another-wrinkle-you-can-see-everythings-payday-twist-elizabeth-holmes-billy-evans-nathan-fielder
@@ -703,7 +727,7 @@ Movies The Scene In You Can See Everything That Showed EVERYTHING Might NOT Have
 \n We\'re processing your payment. Please don\'t close or refresh this page.\n
 
 ============================================================
-[23] Remake of NES Exclusive RPG Now Free for Some PS5 Users
+[24] Remake of NES Exclusive RPG Now Free for Some PS5 Users
 Source: ComicBook.com | Status: expanded | Words: 611
 Published: 2026-11-21T14:24:12+00:00
 URL: https://comicbook.com/gaming/news/nes-ps5-playstation-plus-free-game-rpg
@@ -729,7 +753,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened
+[25] Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened
 Source: CinemaBlend | Status: expanded | Words: 156
 Published: 2026-11-21T14:12:46+00:00
 URL: https://www.cinemablend.com/movies/sunrise-on-the-reaping-ending-hunger-games-cameos-how-they-happened-jennifer-lawrence-josh-hutcherson-woody-harrelson
@@ -749,7 +773,7 @@ Hutcherson quickly learned it was Sunrise on the Reaping , and the director was 
 When Hutcherson was asked what his texts with Lawrence looked like after they learned about this, he said it was “just all caps.” They really were so excited to reunite for this.
 
 ============================================================
-[25] 5 TV Shows That Tried To Be The Next Game of Thrones &#038; Failed Miserably
+[26] 5 TV Shows That Tried To Be The Next Game of Thrones &#038; Failed Miserably
 Source: ComicBook.com | Status: expanded | Words: 1304
 Published: 2026-11-21T14:12:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-tv-shows-that-tried-to-be-the-next-game-of-thrones-failed-miserably
@@ -787,7 +811,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Kylian Mbappé Impersonator Leads Colorful Roster of Doubles in Egyptian Doc ‘The Lookalike’
+[27] Kylian Mbappé Impersonator Leads Colorful Roster of Doubles in Egyptian Doc ‘The Lookalike’
 Source: Variety | Status: expanded | Words: 705
 Published: 2026-11-21T14:10:00+00:00
 URL: https://variety.com/2026/film/global/mbappe-impersonator-the-lookalike-egyptian-doc-1236954825
@@ -815,7 +839,7 @@ According to the director, this human warmth and connection is something &#x201C
 Premiering at home at the Cairo Film Festival has been a special experience for the filmmaker, particularly because her three subjects made it to the screening. &#x201C;I made sure to share those moments with them as they&#x2019;re the real makers of the film,&#x201D; she says. &#x201C;They really loved it, and they felt that we captured their lives and who they truly are without passing judgment or criticizing them. Having all of those emotions come back toward the film made me really happy.&#x201D;
 
 ============================================================
-[27] I Thought Inde Navarrette Was A Shoe-In For The Oscars. Then I Saw Her Biggest Competition
+[28] I Thought Inde Navarrette Was A Shoe-In For The Oscars. Then I Saw Her Biggest Competition
 Source: CinemaBlend | Status: expanded | Words: 193
 Published: 2026-11-21T14:05:00+00:00
 URL: https://www.cinemablend.com/movies/i-thought-inde-navarrette-oscars-best-actress-biggest-competition-julianne-moore-the-debut
@@ -831,7 +855,7 @@ I’ve been looking around at Oscar prediction sites, and while Inde Navarrette 
 So, who am I rooting for now? I wish I could give it to both of them! While I’m more torn than I was before, I’d still like to see Inde Navarrette win that Oscar, the most honorable for what I think is a generational horror performance we’ll be talking about longer than The Debut .
 
 ============================================================
-[28] $80 Nintendo Switch Game Now Available for $8
+[29] $80 Nintendo Switch Game Now Available for $8
 Source: ComicBook.com | Status: expanded | Words: 516
 Published: 2026-11-21T14:03:46+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-game-sale-eshop-lego-star-wars
@@ -857,7 +881,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] SkyShowtime Staff Complained About Workplace Culture &#038; Handling Of "Racist Conduct" Before Comcast/Skydance Shuttered Streamer
+[30] SkyShowtime Staff Complained About Workplace Culture &#038; Handling Of "Racist Conduct" Before Comcast/Skydance Shuttered Streamer
 Source: Deadline | Status: expanded | Words: 898
 Published: 2026-11-21T14:00:00+00:00
 URL: https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353
@@ -901,7 +925,7 @@ Deadline first revealed concerns about the venture in May , when we reported tha
 Commenting on the external investigation, a SkyShowtime spokesperson said: "Concerns that were raised were reviewed by an external law firm. The review is complete and the findings have been carefully considered, and appropriate action has been taken."
 
 ============================================================
-[30] Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped
+[31] Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped
 Source: Deadline | Status: expanded | Words: 628
 Published: 2026-11-21T13:52:48+00:00
 URL: https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896
@@ -929,7 +953,7 @@ Jones, who joined LCT in the summer of 2025 as Chief Marketing Officer, assumes 
 &#x201C;We are thrilled to recognize Robert Jones with this expanded role at Lincoln Center Theater,&#x201D; said deBessonet and Schleifer. &#x201C;Our vision for the organization extends far beyond individual shows, centering how we serve our mission in the culture at large. Robert has distinguished himself as a remarkable leader in how we define ourselves as an institution, build relationships with our audiences, and shape our place in the cultural landscape. We look forward to this expanded role for an integral member of our team.&#x201D;
 
 ============================================================
-[31] An Iranian Woman Falls Pregnant to Avoid Execution in ‘Inherited’: Situation in Iran Is ‘Increasingly Complex’
+[32] An Iranian Woman Falls Pregnant to Avoid Execution in ‘Inherited’: Situation in Iran Is ‘Increasingly Complex’
 Source: Variety | Status: expanded | Words: 827
 Published: 2026-11-21T13:50:00+00:00
 URL: https://variety.com/2026/film/global/morteza-alizadeh-morally-knotty-inherited-iran-1236954820
@@ -963,7 +987,7 @@ This week, major industry names such as Mark Ruffalo and Tilda Swinton signed a 
 &#x201C;Iranian cinema is going through a very difficult period as it tries to redefine its relationship with these circumstances and overcome both internal obstacles, such as the relationship between filmmakers and society, and external ones, particularly censorship,&#x201D; he goes on. &#x201C;This makes it harder and slower for new talents to emerge. I believe the most important thing that can help move Iranian cinema forward and create opportunities for new filmmakers is their courage to tell stories while staying true to their own personal voice and style.&#x201D;
 
 ============================================================
-[32] I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both
+[33] I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both
 Source: CinemaBlend | Status: expanded | Words: 176
 Published: 2026-11-21T13:34:36+00:00
 URL: https://www.cinemablend.com/movies/monica-chandler-debated-batman-james-bond-friends-before-robert-pattinson-cast-both
@@ -979,7 +1003,7 @@ The humorous moment occurred in Season 7, Episode 20, “The One with Rachel’s
 Personally, I think we should dub Pattinson ‘Batbond’ and call it a day.
 
 ============================================================
-[33] Anthony Clark’s Official Cause Of Death Revealed
+[34] Anthony Clark’s Official Cause Of Death Revealed
 Source: Deadline | Status: expanded | Words: 458
 Published: 2026-11-21T13:33:03+00:00
 URL: https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888
@@ -1001,7 +1025,7 @@ On hearing the news of Clark's death, Garcia, who also created NBC's My Name I E
 I&#x2019;ve been very lucky to be friends with some of the funniest people in the world, and Anthony Clark had the most insane sense of humor of all of them. The things that would come out of his mouth were so unexpected and hilarious. Over the last two or three years we had reconnected, and I always looked forward to our monthly phone calls where we would catch up and make each other laugh. Recently, he was so full of joy and encouragement when he found out I was trying stand-up comedy for the first time. He enjoyed talking about the art of stand-up, being on the road, and would also offer some great advice. Just a few weeks ago we were laughing hysterically on the phone, trading jokes and telling stories. It&#x2019;s a sad day, and I&#x2019;ll miss him very much. I&#x2019;m glad he was able to bring a lot of joy and laughter into the world.
 
 ============================================================
-[34] 5 Tom Holland Performances That Don’t Get Enough Love (Including A Huge Box Office Bomb)
+[35] 5 Tom Holland Performances That Don’t Get Enough Love (Including A Huge Box Office Bomb)
 Source: ComicBook.com | Status: expanded | Words: 1177
 Published: 2026-11-21T13:31:00+00:00
 URL: https://comicbook.com/movies/list/5-tom-holland-performances-that-dont-get-enough-love-including-a-huge-box-office-bomb
@@ -1039,7 +1063,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] ‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album
+[36] ‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album
 Source: Deadline | Status: expanded | Words: 804
 Published: 2026-11-21T13:30:00+00:00
 URL: https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855
@@ -1075,7 +1099,7 @@ Zaidy said: &#x201C;From Posesif to Ali & Ratu Ratu Queens and Dear David , and 
 Dancing With My Shadow is being lined up for an Indonesian theatrical release in summer 2027.
 
 ============================================================
-[36] 'Fatherland' Review: Thomas Mann and His Daughter Travel Across Germany in 1949 in Pawel Pawlikowski's Meticulous Time Machine of a Drama
+[37] 'Fatherland' Review: Thomas Mann and His Daughter Travel Across Germany in 1949 in Pawel Pawlikowski's Meticulous Time Machine of a Drama
 Source: Variety | Status: expanded | Words: 1103
 Published: 2026-11-21T13:08:05+00:00
 URL: https://variety.com/2026/film/reviews/fatherland-review-pawel-pawlikowskis-sandra-huller-1236748388
@@ -1101,7 +1125,7 @@ The two actors are pitch-perfect, with H&#xFC;ller&#x2019;s Erika tart yet polit
 The matter-of-fact seduction of Pawlikowski&#x2019;s filmmaking lies in how he stages everything with a coolly objective authenticity. In "Fatherland," he lends this historical moment a time-machine quality, so that we feel we&#x2019;re right there, in the ruins of Germany in 1949, seeing the sands of history shift. Pawlikowski is ruminating on moral choice, and he&#x2019;s also ruminating on God. The final scene, in which Mann and Erika visit the church where Johann Sebastian Bach had his first appointment (they hear "Jesu, Joy of Man&#x2019;s Desiring" played on the church&#x2019;s ancient pipe organ), speaks to both. Yet Pawlikowski, whose best film, in my book, remains the rapturous hot-house romance "My Summer of Love" (2004), works in such a deliberate way that as compelling as "Fatherland" is, it&#x2019;s a movie that has already thought out everything it wants us to feel.
 
 ============================================================
-[37] I Think Mephisto Is Going to Be the Next MCU Big Bad and the Comics Are Proving It
+[38] I Think Mephisto Is Going to Be the Next MCU Big Bad and the Comics Are Proving It
 Source: ComicBook.com | Status: expanded | Words: 1265
 Published: 2026-11-21T12:51:00+00:00
 URL: https://comicbook.com/comics/feature/i-think-mephisto-is-going-to-be-the-next-mcu-big-bad-and-the-comics-are-proving-it
@@ -1139,7 +1163,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
+[39] ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
 Source: Variety | Status: expanded | Words: 1028
 Published: 2026-11-21T12:45:49+00:00
 URL: https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929
@@ -1199,7 +1223,7 @@ At CIFF, Al-Fatlawi says he has been particularly moved by audiences discovering
 &#x201C;They add things which make the movie even richer,&#x201D; he reflects. &#x201C;They have the doors open. They can enter from everywhere.&#x201D;
 
 ============================================================
-[39] Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in 'Boltrim' at India's WAVES Film Bazaar
+[40] Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in 'Boltrim' at India's WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 523
 Published: 2026-11-21T12:32:07+00:00
 URL: https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925
@@ -1227,7 +1251,7 @@ Producer Dheer Momaya of Jugaad Motion Pictures, whose credits include India's O
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[40] Oscar-Winning Doc 'The Elephant Whisperers' Co-Writer's Dark Comedy 'Nose Bone' Follows a Punjabi Woman's Race for an Abortion at WAVES Film Bazaar
+[41] Oscar-Winning Doc 'The Elephant Whisperers' Co-Writer's Dark Comedy 'Nose Bone' Follows a Punjabi Woman's Race for an Abortion at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 650
 Published: 2026-11-21T12:14:08+00:00
 URL: https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922
@@ -1257,7 +1281,7 @@ Minocha, a Mumbai-based producer who has worked with Mira Nair and National Awar
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[41] The Hunger Games: Sunrise on the Reaping Makes a Major Mistake by Removing One of the Book's Most Horrifying Details
+[42] The Hunger Games: Sunrise on the Reaping Makes a Major Mistake by Removing One of the Book's Most Horrifying Details
 Source: ComicBook.com | Status: expanded | Words: 1262
 Published: 2026-11-21T12:11:00+00:00
 URL: https://comicbook.com/movies/feature/the-hunger-games-sunrise-on-the-reaping-makes-a-major-mistake-by-removing-one-of-the-books-most-horrifying-details
@@ -1291,7 +1315,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] I Watched Smoke Signals For The First Time, And Two Things Really Caught Me Off Guard
+[43] I Watched Smoke Signals For The First Time, And Two Things Really Caught Me Off Guard
 Source: CinemaBlend | Status: expanded | Words: 488
 Published: 2026-11-21T12:05:00+00:00
 URL: https://www.cinemablend.com/movies/watched-smoke-signals-first-time-two-things-surprised-me
@@ -1313,7 +1337,7 @@ Throughout the film, there’s also a heavy emphasis on the Native American trad
 All in all, this keen focus on storytelling only enhances the movie, and Eyre and Alexie’s reverence for it is more than evident. It also opens the door for viewers like myself to gain a better understanding of an aspect of Native American culture we wouldn’t otherwise be privy to. As a viewer, I really enjoy being engulfed in different cultural perspectives via film and TV, and truly relish whenever nuanced stories centered on (and told by) Indigenous people are pushed to the forefront.
 
 ============================================================
-[43] Princess Of Wales Documentary 'Heal' Set At BBC &#038; NBC; Special About Kate Middleton's Cancer Journey Gets Release Date &#038; Trailer
+[44] Princess Of Wales Documentary 'Heal' Set At BBC &#038; NBC; Special About Kate Middleton's Cancer Journey Gets Release Date &#038; Trailer
 Source: Deadline | Status: expanded | Words: 459
 Published: 2026-11-21T12:00:00+00:00
 URL: https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712
@@ -1339,7 +1363,7 @@ This is Middleton's first time headlining a documentary. Prince William has done
 Harry and his wife, Meghan Markle, have starred in a number of docuseries under their Netflix deal, most notably Harry & Meghan .
 
 ============================================================
-[44] NBC to Air Princess of Wales Cancer Charity Documentary
+[45] NBC to Air Princess of Wales Cancer Charity Documentary
 Source: The Hollywood Reporter | Status: expanded | Words: 262
 Published: 2026-11-21T12:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297
@@ -1359,7 +1383,7 @@ Heal will explore "life beyond diagnosis and the many ways people find comfort, 
 All money from distribution of the special (it will also air in Australia on Dec. 1 and Canada on Dec. 7) will go to the Royal Marsden Cancer Charity to help people living with and after a cancer diagnosis. Detail Films produced the special, with Benji Jackson directing.
 
 ============================================================
-[45] Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
+[46] Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
 Source: Variety | Status: expanded | Words: 346
 Published: 2026-11-21T12:00:00+00:00
 URL: https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745
@@ -1385,7 +1409,7 @@ In the U.S., &#x201C;Heal&#x201D; will be available on Nov. 30 at 8 p.m. ET/PT o
 Watch the documentary trailer below.
 
 ============================================================
-[46] ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and 'Uncle Joe,' Youssef Chahine: ‘Filmmaking Is Really About Healing’
+[47] ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and 'Uncle Joe,' Youssef Chahine: ‘Filmmaking Is Really About Healing’
 Source: Variety | Status: expanded | Words: 963
 Published: 2026-11-21T11:59:00+00:00
 URL: https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836
@@ -1427,7 +1451,7 @@ The Cairo premiere has brought an unexpected response, including from men who re
 But having explored both parents on screen, Shazli is ready to turn toward fiction. &#x201C;I did a film about my dad. I did a film about my mom. I&#x2019;m done,&#x201D; she says. &#x201C;Now I want to have more fun. I want to write a fiction. I want to work with actors. I want to create differently now.&#x201D;
 
 ============================================================
-[47] 'The Tree' Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her 'Italian Shoes' Adaptation, Readies India-Set Feature
+[48] 'The Tree' Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her 'Italian Shoes' Adaptation, Readies India-Set Feature
 Source: Variety | Status: expanded | Words: 886
 Published: 2026-11-21T11:55:26+00:00
 URL: https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904
@@ -1471,7 +1495,7 @@ She closed the session by pointing back to the Lumi&#xE8;re brothers, whose oper
 "Cinema was born documentary and it will die documentary," she said.
 
 ============================================================
-[48] Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days
+[49] Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days
 Source: Deadline | Status: expanded | Words: 603
 Published: 2026-11-21T11:53:50+00:00
 URL: https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880
@@ -1509,7 +1533,7 @@ Alongside the feature film, plans include a behind-the-scenes documentary featur
 With development in the early stages, the hunt is now on for an actor to play Mounir.
 
 ============================================================
-[49] Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the 'Global South'
+[50] Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the 'Global South'
 Source: Variety | Status: expanded | Words: 476
 Published: 2026-11-21T11:36:53+00:00
 URL: https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880
@@ -1537,42 +1561,4 @@ The plan envisions that these projects will shoot mainly in Qatar or be structur
 &#x201C;Through this partnership, we want to give filmmakers the resources to tell stories rooted in their communities and bring them to audiences around the world," Hassan Al Thawadi, the Qatari lawyer who chairs the Qatar Film Committee, said in the statement.
 
 For Watermelon Pictures, the partnership marks a significant leap into larger-scale, mainstream production, backed by its distribution expertise.
-
-============================================================
-[50] 5 Brilliant Movie Concepts That Deserved Better Execution (&#038; #1 Could Have Been a Sci-Fi Classic)
-Source: ComicBook.com | Status: expanded | Words: 1478
-Published: 2026-11-21T11:28:00+00:00
-URL: https://comicbook.com/movies/list/5-brilliant-movie-concepts-that-deserved-better-execution-1-could-have-been-a-sci-fi-classic
-------------------------------------------------------------
-SUMMARY:
-Imagine watching a movie after reading its premise and getting your hopes up, only to reach the end and see that you either wasted your time or just watched something that could have been a thousand times better. Some films have been released with such fantastic concepts that it's extremely frustrating to find out how […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Imagine watching a movie after reading its premise and getting your hopes up, only to reach the end and see that you either wasted your time or just watched something that could have been a thousand times better. Some films have been released with such fantastic concepts that it's extremely frustrating to find out how badly they were handled . And honestly, quite a few productions of the last few years have faced backlash for exactly failing to properly develop their stories.
-
-Maybe some of these still have their good points, and you might even consider your experience watching them to be just okay. But you can see how much more satisfying they could have been with a better-written script, right? We've picked 5 movies that are perfect examples of this. Have you seen any of them?
-
-Old came from the brilliant mind of M. Night Shyamalan , but it's not a movie people remember so much, mainly because its execution falls so short of its potential (although, sure, some people did enjoy it). Based on the graphic novel Sandcastle , the story follows a group of tourists who discover that time moves differently on a beach: children grow up super fast, adults age right before their eyes, and even health problems progress at an alarming rate. Just imagine realizing that you could lose your entire life before you even have a chance to find a way out. The premise has huge thriller potential and could lead to some really good family conflicts, especially when it comes to how parents and children would deal with the possibility of growing old together in just a few hours.
-
-Unfortunately, the movie doesn't make the most of these possibilities. There are a few crazy, uncomfortable moments, such as Kara's (Eliza Scanlen) accelerated pregnancy and Chrystal's (Abbey Lee) bones repeatedly breaking and rebuilding themselves, but the characters are never developed enough, and the explanation behind what's happening gets more attention than the emotional consequences. Old had a great idea that could have made for an impactful film in the vein of Signs or The Sixth Sense , but it keeps finding ways to complicate the story without even making the twists all that interesting .
-
-When you watch Don't Worry Darling , you easily understand the kind of criticism the movie is going for with its mix of sci-fi and psychological thriller elements . But while it's still an entertaining watch, the film gets a little lost in its own ideas. Here we follow Alice (Florence Pugh), a woman living with her husband, Jack (Harry Styles), in Victory, a perfect community inspired by '50s American suburbs. But while the men go to work for a mysterious company and the women spend their days taking care of their homes, Alice starts noticing that something isn't quite right. And what she eventually finds out is actually a great (but obvious) twist , touching on important issues such as abusive relationships and technology being used for manipulation. The problem is that it takes far too long to get there.
-
-There's nothing wrong with taking your time to build a mystery, but there's a limit. By the time the big reveal finally happens, the film is already close to ending , leaving very little room to explore its consequences. So, some important questions get pushed aside: how exactly does this system work? And why doesn't the film do more with the situation between Alice and the people responsible for keeping her trapped in that place? Pugh's performance definitely helps, but even she can't make Don't Worry Darling a phenomenal feature on her own. It didn't need to explain every single detail, but it did need to do more with the ideas it had introduced.
-
-The Circle is the kind of film you might watch once and never think about again. And that's a shame, since its premise has aged well. We meet Mae Holland (Emma Watson) , a young woman who lands a job at The Circle, one of the biggest tech companies in the world. Led by Eamon Bailey (Tom Hanks), this company develops a platform designed to bring together all of its users' information and activities, arguing that getting rid of privacy can make the world safer and more connected. Excited about the opportunity, Mae gets more involved in the company's projects and eventually decides to broadcast her whole life online, only to realize that this idea of total transparency can also be used to control and monitor people.
-
-The concept has plenty of potential, as it talks about how much of our privacy we are willing to give up in exchange for convenience and security. You also can't help thinking how interesting it would be to see the story explore the ways a powerful company could influence people's behavior—but The Circle barely scratches the surface of any of these ideas. The protagonist's development isn't convincing, the company is more like a generic evil corporation, and the central conflict loses momentum right when it should be getting more complicated. The cast is solid, but the narrative never really pulls you in , which makes the whole thing disappointing. By the end, you feel like you've watched an incomplete movie.
-
-The concept behind In Time is so good that, honestly, it could have worked better as a TV show or a full movie franchise—one film just wasn't enough to explore everything this world had to offer, which is why it's on this list. This dystopia imagines a future where people stop aging at 25 but are given just one more year to live, which they have to manage like money. In this world, time is literally currency: people work to earn more hours, pay for food and bills with minutes of their lives, while the wealthy can afford to accumulate decades or even centuries. It's a direct way of exploring social inequality . And the main character is Will Salas (Justin Timberlake), a man from a poor neighborhood who suddenly comes into a large amount of time and becomes a target for the authorities. His journey then turns into a fight against the system.
-
-The problem with In Time is that it starts with an idea that makes economic inequality feel immediate: while the rich keep accumulating time, the poor are literally running out of life. But after setting this up, the script loses sight of what makes it compelling and turns into a fairly standard action movie, with car chases, shootouts, and a romance that gets more attention than the social issues that should be at the heart of it all. We get why those things were included, but maybe they would have worked better in a sequel. Ultimately, this is a production that never quite understood the size of what it had on its hands—one of the most creative concepts in sci-fi.
-
-Anyone who remembers Passengers probably remembers that, much like In Time , it strays far from its original premise. However, in this case, it's an even bigger missed opportunity. The story takes place aboard the Avalon, a spaceship carrying 5,000 passengers on a 120-year journey to a distant planet. Everyone is supposed to remain in hibernation until they reach their destination, but a malfunction causes Jim Preston (Chris Pratt) to wake up 90 years too early. Unable to go back to sleep and realizing he'll spend the rest of his life alone, he loses hope and decides to wake up Aurora Lane (Jennifer Lawrence), another passenger, without telling her that he did it on purpose. So the two begin building a relationship while trying to figure out what went wrong with the ship.
-
-Jim's decision should have been at the center of a debate about loneliness, selfishness, consent, and responsibility, right? But Passengers treats it more like an obstacle the couple needs to overcome before they can be together. Sure, the film is marketed as a sci-fi romance, but the idea had the potential to become the kind of story people would still be talking about and recommending today. Aurora has every reason to feel betrayed, since Jim didn't just take away her chance to reach the planet and start a new life; he made that decision for her without giving her a choice. This could have been a gripping psychological thriller because of that, and the ship could have played an important role as well, but the focus is on both characters trying to become a couple you're supposed to root for.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
