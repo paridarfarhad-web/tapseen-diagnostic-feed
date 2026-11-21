@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-21T14:13:02.953Z"
+    "updated_at": "2026-11-21T14:19:01.736Z"
   },
   "articles": [
+    {
+      "id": "860ce5c3-6053-4504-8195-c1027b4200be",
+      "title": "Sunrise On The Reaping’s Ending (And Those Hunger Games Cameos) Are Sticking With Me. How They Happened",
+      "summary": "I'll be thinking about those final moments for a long time.",
+      "content": "Spoilers for Sunrise on the Reaping are ahead! You can catch The Hunger Games prequel in theaters now.\n\nBefore we get into how these cameos happened, let’s talk about what happened on the big screen.\n\nPlus, seeing Jennifer Lawrence back as Katniss and Josh Hutcherson return as Peeta meant the world to me, a gal who literally grew up on The Hunger Games books and movies. Now, how did the original band get back together for this? Hutcherson answered the question on Happy Sad Confused , explaining that it was a pretty big secret for a while:\n\nHutcherson quickly learned it was Sunrise on the Reaping , and the director was also quick to tell him that Lawrence and Harrelson had already said yes:\n\nWhen Hutcherson was asked what his texts with Lawrence looked like after they learned about this, he said it was “just all caps.” They really were so excited to reunite for this.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/sunrise-on-the-reaping-ending-hunger-games-cameos-how-they-happened-jennifer-lawrence-josh-hutcherson-woody-harrelson",
+      "published_at": "2026-11-21T14:12:46+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hdCkxjEDxYgmuuPPHhL986-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 156,
+      "extracted_at": "2026-11-21T14:18:50.304016+00:00",
+      "updated_at": "2026-11-21T14:18:50.304016+00:00"
+    },
     {
       "id": "c70c09be-cf95-4f89-8d79-a04d808532c7",
       "title": "5 TV Shows That Tried To Be The Next Game of Thrones &#038; Failed Miserably",
@@ -742,21 +757,6 @@
       "word_count": 601,
       "extracted_at": "2026-11-21T02:34:16.503053+00:00",
       "updated_at": "2026-11-21T02:34:16.503053+00:00"
-    },
-    {
-      "id": "7c1c811f-81b1-4bd4-8b12-c3f91206da62",
-      "title": "'Godavari' Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project 'Mongoose'",
-      "summary": "Nikhil Mahajan, the Indian National Film Award-winning director of \"Godavari\" and the Netflix series \"Betaal,\" is bringing \"Mongoose,\" a Marathi-language neo-noir thriller about a cab driver and the con man who steals his taxi, to the Co-Production Market at WAVES Film Bazaar. Set in the hardscrabble town of Malegaon, the film follows Abhimanyu, a hardworking […]",
-      "content": "Nikhil Mahajan, the Indian National Film Award-winning director of \"Godavari\" and the Netflix series \"Betaal,\" is bringing \"Mongoose,\" a Marathi-language neo-noir thriller about a cab driver and the con man who steals his taxi, to the Co-Production Market at WAVES Film Bazaar. Set in the hardscrabble town of Malegaon, the film follows Abhimanyu, a hardworking […]",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786",
-      "published_at": "2026-11-21T02:32:10+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Mongoose-concept-art.jpg",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 56,
-      "extracted_at": "2026-11-21T02:36:17.199886+00:00",
-      "updated_at": "2026-11-21T02:36:17.199886+00:00"
     }
   ]
 }
