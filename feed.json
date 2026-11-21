@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-21T22:35:29.198Z"
+    "updated_at": "2026-11-21T23:07:30.060Z"
   },
   "articles": [
+    {
+      "id": "3b6b63d1-2eac-4807-8acb-ba768c402c14",
+      "title": "‘The Doors Of Perception’: Paul Schrader Casts Domhnall Gleeson, Eyes Brendan Gleeson For Drug Trip Film &#038; Explains Liam Hemsworth Movie Delay",
+      "summary": "When he’s not poking the bear of potential cancellation by making films about pedophilia or touting the A.I. movies he plans to make, Paul Schrader continues to move forward with a slew of projects, many of them seemingly cooking at the same time. And during a new appearance on “The Moynihan Report,” the “ Taxi Driver ” screenwriter and “ First Reformed ” filmmaker discussed several of those projects, offering updates on how they’ve evolved, changed, and taken shape, including new casting developments and an unexpected scheduling delay. Continue reading ‘The Doors Of Perception’: Paul Schrader Casts Domhnall Gleeson, Eyes Brendan Gleeson For Drug Trip Film & Explains Liam Hemsworth Movie Delay at The Playlist.",
+      "content": "When he’s not poking the bear of potential cancellation by making films about pedophilia or touting the A.I. movies he plans to make, Paul Schrader continues to move forward with a slew of projects, many of them seemingly cooking at the same time. And during a new appearance on “The Moynihan Report,” the “ Taxi Driver ” screenwriter and “ First Reformed ” filmmaker discussed several of those projects, offering updates on how they’ve evolved, changed, and taken shape, including new casting developments and an unexpected scheduling delay. Continue reading ‘The Doors Of Perception’: Paul Schrader Casts Domhnall Gleeson, Eyes Brendan Gleeson For Drug Trip Film & Explains Liam Hemsworth Movie Delay at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/paul-schrader-domhnall-brendan-gleeson-liam-hemsworth-film-delay-20261121",
+      "published_at": "2026-11-21T23:06:21+00:00",
+      "image_url": "https://www.youtube.com/embed/_VK9NeZHAj8",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 115,
+      "extracted_at": "2026-11-21T23:07:17.235188+00:00",
+      "updated_at": "2026-11-21T23:07:17.235188+00:00"
+    },
     {
       "id": "1c2485de-7c75-4e64-b460-3c5c634b7a99",
       "title": "Developer Warns Nintendo Fans Not to Buy Their Switch 2 Games",
@@ -742,21 +757,6 @@
       "word_count": 390,
       "extracted_at": "2026-11-21T18:21:04.304315+00:00",
       "updated_at": "2026-11-21T18:21:04.304315+00:00"
-    },
-    {
-      "id": "72a9e812-9702-4040-9aff-6cf6d107e994",
-      "title": "Journalist Shared One Normal Person Tidbit About Timothèe Chalamet After Interview Went Viral (In Awkward Way)",
-      "summary": "Stars are just like us.",
-      "content": "Given he's one of the world's biggest stars, Timothée Chalamet's life remains a topic of curiosity . Of course, as a star's fame rises, it's not unheard for them to reveal less about themselves. On that note, when Vanity Fair editor Mark Guiducci was given the task of profiling the megastar, he had a bigger task than he initially thought. The interview has now gone viral for awkward reasons, but Guiducci is defending his work and sharing a complimentary note about Chalamet.\n\nHowever, this turned out not to be the case. Chalamet remained incredibly guarded and opted out of talking about his life. He declined to answer questions or comment on his high profile relationship with Kylie Jenner (with the latter admittedly being something he's long opted not to discuss). He did however spend a lot of time making observations about Guiducci’s home decor, which ended up becoming the centerpiece of the article. As a result, the story has gone viral due to Chalamet's evasive, awkward nature as well as the piece feeling more like it's about Guiducci’s apartment rather than Chalamet.\n\nConsidering Chalamet grew up in New York City himself and still spends a lot of time in the Big Apple , he’s likely used to drinking New York’s tap water. Plus, I wouldn't be surprised if he had some sort of awareness that if he asked for anything specific it would end up in the article. I personally don’t doubt that Chalamet was kind, charming, and easy going, especially since the Dune star has been described as being “normal” before. It’s just hard to get a true read on a person when the person in question is aware they’re being observed.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/journalist-shared-normal-person-tidbit-timothee-chalamet-after-interview-viral-awkward",
-      "published_at": "2026-11-21T18:19:50+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/A4Jnk8DUCJSDpWGTqxhBU7-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 283,
-      "extracted_at": "2026-11-21T18:25:02.224795+00:00",
-      "updated_at": "2026-11-21T18:25:02.224795+00:00"
     }
   ]
 }
