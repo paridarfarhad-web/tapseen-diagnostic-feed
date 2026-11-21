@@ -1,9 +1,53 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-21T13:53:03.318Z
+Last Updated: 2026-11-21T14:01:02.531Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped
+[1] SkyShowtime Staff Complained About Workplace Culture &#038; Handling Of "Racist Conduct" Before Comcast/Skydance Shuttered Streamer
+Source: Deadline | Status: expanded | Words: 898
+Published: 2026-11-21T14:00:00+00:00
+URL: https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Comcast and Skydance announced this week that they planned to shutter SkyShowtime for commercial reasons, but behind the scenes, the U.S. media giants have also been addressing serious unrest among employees at the joint-venture streamer. Deadline can reveal that a group of SkyShowtime staff lodged a formal complaint in June about the company's workplace […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : Comcast and Skydance announced this week that they planned to shutter SkyShowtime for commercial reasons, but behind the scenes, the U.S. media giants have also been addressing serious unrest among employees at the joint-venture streamer.
+
+Deadline can reveal that a group of SkyShowtime staff lodged a formal complaint in June about the company's workplace culture, citing concerns including favoritism, retaliation against staff raising grievances, and the handling of alleged "racist conduct" by an unnamed manager.
+
+SkyShowtime's board, which is comprised of representatives from Comcast and Skydance, engaged external law firm Osborne Clarke to investigate. The board shared the outcome of the review with aggrieved employees this week, informing them that "appropriate action has been taken." The response landed on the same day staff were told that SkyShowtime would be closed. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News CBS News Staffers Take Buyout Offers As Skydance Looks For Cost Savings News Biggest ITV Shows Like 'Love Island' & 'I'm A Celebrity' To Remain Free-To-Air Once Sky Deal Completes
+
+A 50-50 pact between Comcast and Skydance, SkyShowtime streams in 22 European markets, boasting around 9 million subscribers. It is stocked with Comcast/Skydance series like The Day of the Jackal and Taylor Sheridan&#x2019;s Yellowstone , as well as originals, such as Swedish drama Where the Sun Always Shines , starring Game of Thrones actor Kristofer Hivju .
+
+Deadline understands that SkyShowtime employee unrest had been percolating for months before the group complaint, with Deadline reporting in May that mood metrics had been below benchmarks. Some staffers also had misgivings about the amount of time CEO Monty Sarhan was spending in Philadelphia when he was running a business headquartered in London. At the time, senior SkyShowtime figures denied that morale was low and insisted that Sarhan was based in the UK.
+
+In their June complaint, around 25 anonymous employees raised at least five key concerns and questioned the leadership of Sarhan and Richard Thurston, SkyShowtime's chief HR officer. Deadline has seen an email the employees sent SkyShowtime's board earlier this month summarizing their position. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"We have chosen to remain anonymous because of the nature of these concerns and because a previous employee who raised similar issues through internal channels was subsequently dismissed. Employees should not have to risk adverse consequences to raise legitimate concerns," the employees said in their November 2 email.
+
+They listed their concerns as follows: "Inadequate responses to complaints of racist conduct by a manager; favouritism and unequal treatment of employees; promotion, levelling and compensation disparities influenced by personal proximity; selective resourcing and inconsistent treatment across functions; and retaliation against employees who have raised concerns."
+
+They specifically questioned if Thurston was the right person to wind down SkyShowtime, arguing that employees must have confidence that decisions will be "handled fairly, consistently and transparently" at a time of "significant uncertainty about their livelihoods."
+
+"We recognise the difficult circumstances facing the company. But a difficult transition is precisely when accountability matters most. We urge you to ensure that appropriate action follows and that employees can have confidence in the fairness of the process," they continued.
+
+The SkyShowtime board responded to the employees this week. A board representative said: "As you are aware, your concerns were reviewed by an external law firm. The investigation has now been completed, the findings have been carefully considered, and appropriate action has been taken.
+
+"We take workplace concerns very seriously. To respect the privacy and confidentiality of everyone involved, we won't be sharing further details. Thank you for raising your concerns and for showing a commitment to upholding SkyShowtime's values."
+
+Sarhan and Thurston are among the executives leaving SkyShowtime ahead of the business shuttering by late 2027. They have both stepped back from day-to-day operations and are on gardening leave.
+
+SkyShowtime's position is that their departure is for commercial reasons and is unrelated to the external investigation. In an internal email this week, the SkyShowtime board thanked Sarhan for his "commitment and contributions." Deadline offered Sarhan and Thurston the opportunity to comment through reps from Comcast and Skydance.
+
+Mark Neil, SkyShowtime&#x2019;s CFO, will become interim general manager as the company winds down. Based out of Sky&#x2019;s campus on the outskirts of central London, SkyShowtime employs around 300 people. Most of them will face an uncertain future, with employees in consultation about their jobs.
+
+Deadline first revealed concerns about the venture in May , when we reported that Skydance's proposed ownership of HBO Max would put the David Ellison -run company in breach of its joint venture agreement with Comcast. Last year, Deadline revealed that the shareholders had ploughed $1 billion into SkyShowtime, even though it remained loss-making.
+
+Commenting on the external investigation, a SkyShowtime spokesperson said: "Concerns that were raised were reviewed by an external law firm. The review is complete and the findings have been carefully considered, and appropriate action has been taken."
+
+============================================================
+[2] Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped
 Source: Deadline | Status: expanded | Words: 628
 Published: 2026-11-21T13:52:48+00:00
 URL: https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896
@@ -31,7 +75,7 @@ Jones, who joined LCT in the summer of 2025 as Chief Marketing Officer, assumes 
 &#x201C;We are thrilled to recognize Robert Jones with this expanded role at Lincoln Center Theater,&#x201D; said deBessonet and Schleifer. &#x201C;Our vision for the organization extends far beyond individual shows, centering how we serve our mission in the culture at large. Robert has distinguished himself as a remarkable leader in how we define ourselves as an institution, build relationships with our audiences, and shape our place in the cultural landscape. We look forward to this expanded role for an integral member of our team.&#x201D;
 
 ============================================================
-[2] I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both
+[3] I Can’t Believe Monica And Chandler Debated Batman And James Bond On Friends Decades Before Robert Pattinson Was Cast As Both
 Source: CinemaBlend | Status: expanded | Words: 176
 Published: 2026-11-21T13:34:36+00:00
 URL: https://www.cinemablend.com/movies/monica-chandler-debated-batman-james-bond-friends-before-robert-pattinson-cast-both
@@ -47,7 +91,7 @@ The humorous moment occurred in Season 7, Episode 20, “The One with Rachel’s
 Personally, I think we should dub Pattinson ‘Batbond’ and call it a day.
 
 ============================================================
-[3] Anthony Clark’s Official Cause Of Death Revealed
+[4] Anthony Clark’s Official Cause Of Death Revealed
 Source: Deadline | Status: expanded | Words: 458
 Published: 2026-11-21T13:33:03+00:00
 URL: https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888
@@ -69,7 +113,7 @@ On hearing the news of Clark's death, Garcia, who also created NBC's My Name I E
 I&#x2019;ve been very lucky to be friends with some of the funniest people in the world, and Anthony Clark had the most insane sense of humor of all of them. The things that would come out of his mouth were so unexpected and hilarious. Over the last two or three years we had reconnected, and I always looked forward to our monthly phone calls where we would catch up and make each other laugh. Recently, he was so full of joy and encouragement when he found out I was trying stand-up comedy for the first time. He enjoyed talking about the art of stand-up, being on the road, and would also offer some great advice. Just a few weeks ago we were laughing hysterically on the phone, trading jokes and telling stories. It&#x2019;s a sad day, and I&#x2019;ll miss him very much. I&#x2019;m glad he was able to bring a lot of joy and laughter into the world.
 
 ============================================================
-[4] 5 Tom Holland Performances That Don’t Get Enough Love (Including A Huge Box Office Bomb)
+[5] 5 Tom Holland Performances That Don’t Get Enough Love (Including A Huge Box Office Bomb)
 Source: ComicBook.com | Status: expanded | Words: 1177
 Published: 2026-11-21T13:31:00+00:00
 URL: https://comicbook.com/movies/list/5-tom-holland-performances-that-dont-get-enough-love-including-a-huge-box-office-bomb
@@ -107,7 +151,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] ‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album
+[6] ‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album
 Source: Deadline | Status: expanded | Words: 804
 Published: 2026-11-21T13:30:00+00:00
 URL: https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855
@@ -143,7 +187,7 @@ Zaidy said: &#x201C;From Posesif to Ali & Ratu Ratu Queens and Dear David , and 
 Dancing With My Shadow is being lined up for an Indonesian theatrical release in summer 2027.
 
 ============================================================
-[6] 'Fatherland' Review: Thomas Mann and His Daughter Travel Across Germany in 1949 in Pawel Pawlikowski's Meticulous Time Machine of a Drama
+[7] 'Fatherland' Review: Thomas Mann and His Daughter Travel Across Germany in 1949 in Pawel Pawlikowski's Meticulous Time Machine of a Drama
 Source: Variety | Status: expanded | Words: 1103
 Published: 2026-11-21T13:08:05+00:00
 URL: https://variety.com/2026/film/reviews/fatherland-review-pawel-pawlikowskis-sandra-huller-1236748388
@@ -169,7 +213,7 @@ The two actors are pitch-perfect, with H&#xFC;ller&#x2019;s Erika tart yet polit
 The matter-of-fact seduction of Pawlikowski&#x2019;s filmmaking lies in how he stages everything with a coolly objective authenticity. In "Fatherland," he lends this historical moment a time-machine quality, so that we feel we&#x2019;re right there, in the ruins of Germany in 1949, seeing the sands of history shift. Pawlikowski is ruminating on moral choice, and he&#x2019;s also ruminating on God. The final scene, in which Mann and Erika visit the church where Johann Sebastian Bach had his first appointment (they hear "Jesu, Joy of Man&#x2019;s Desiring" played on the church&#x2019;s ancient pipe organ), speaks to both. Yet Pawlikowski, whose best film, in my book, remains the rapturous hot-house romance "My Summer of Love" (2004), works in such a deliberate way that as compelling as "Fatherland" is, it&#x2019;s a movie that has already thought out everything it wants us to feel.
 
 ============================================================
-[7] I Think Mephisto Is Going to Be the Next MCU Big Bad and the Comics Are Proving It
+[8] I Think Mephisto Is Going to Be the Next MCU Big Bad and the Comics Are Proving It
 Source: ComicBook.com | Status: expanded | Words: 1265
 Published: 2026-11-21T12:51:00+00:00
 URL: https://comicbook.com/comics/feature/i-think-mephisto-is-going-to-be-the-next-mcu-big-bad-and-the-comics-are-proving-it
@@ -207,7 +251,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
+[9] ‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’
 Source: Variety | Status: expanded | Words: 1028
 Published: 2026-11-21T12:45:49+00:00
 URL: https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929
@@ -267,7 +311,7 @@ At CIFF, Al-Fatlawi says he has been particularly moved by audiences discovering
 &#x201C;They add things which make the movie even richer,&#x201D; he reflects. &#x201C;They have the doors open. They can enter from everywhere.&#x201D;
 
 ============================================================
-[9] Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in 'Boltrim' at India's WAVES Film Bazaar
+[10] Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in 'Boltrim' at India's WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 523
 Published: 2026-11-21T12:32:07+00:00
 URL: https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925
@@ -295,7 +339,7 @@ Producer Dheer Momaya of Jugaad Motion Pictures, whose credits include India's O
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[10] Oscar-Winning Doc 'The Elephant Whisperers' Co-Writer's Dark Comedy 'Nose Bone' Follows a Punjabi Woman's Race for an Abortion at WAVES Film Bazaar
+[11] Oscar-Winning Doc 'The Elephant Whisperers' Co-Writer's Dark Comedy 'Nose Bone' Follows a Punjabi Woman's Race for an Abortion at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 650
 Published: 2026-11-21T12:14:08+00:00
 URL: https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922
@@ -325,7 +369,7 @@ Minocha, a Mumbai-based producer who has worked with Mira Nair and National Awar
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[11] The Hunger Games: Sunrise on the Reaping Makes a Major Mistake by Removing One of the Book's Most Horrifying Details
+[12] The Hunger Games: Sunrise on the Reaping Makes a Major Mistake by Removing One of the Book's Most Horrifying Details
 Source: ComicBook.com | Status: expanded | Words: 1262
 Published: 2026-11-21T12:11:00+00:00
 URL: https://comicbook.com/movies/feature/the-hunger-games-sunrise-on-the-reaping-makes-a-major-mistake-by-removing-one-of-the-books-most-horrifying-details
@@ -359,7 +403,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] I Watched Smoke Signals For The First Time, And Two Things Really Caught Me Off Guard
+[13] I Watched Smoke Signals For The First Time, And Two Things Really Caught Me Off Guard
 Source: CinemaBlend | Status: expanded | Words: 488
 Published: 2026-11-21T12:05:00+00:00
 URL: https://www.cinemablend.com/movies/watched-smoke-signals-first-time-two-things-surprised-me
@@ -381,7 +425,7 @@ Throughout the film, there’s also a heavy emphasis on the Native American trad
 All in all, this keen focus on storytelling only enhances the movie, and Eyre and Alexie’s reverence for it is more than evident. It also opens the door for viewers like myself to gain a better understanding of an aspect of Native American culture we wouldn’t otherwise be privy to. As a viewer, I really enjoy being engulfed in different cultural perspectives via film and TV, and truly relish whenever nuanced stories centered on (and told by) Indigenous people are pushed to the forefront.
 
 ============================================================
-[13] Kate Middleton Documentary 'Heal' Set At BBC &#038; NBC; Special About Princess' Three Peaks Challenge &#038; Cancer Journey Gets Release Date &#038; Trailer
+[14] Kate Middleton Documentary 'Heal' Set At BBC &#038; NBC; Special About Princess' Three Peaks Challenge &#038; Cancer Journey Gets Release Date &#038; Trailer
 Source: Deadline | Status: expanded | Words: 459
 Published: 2026-11-21T12:00:00+00:00
 URL: https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712
@@ -407,7 +451,7 @@ This is Middleton's first time headlining a documentary. Prince William has done
 Harry and his wife, Meghan Markle, have starred in a number of docuseries under their Netflix deal, most notably Harry & Meghan .
 
 ============================================================
-[14] NBC to Air Princess of Wales Cancer Charity Documentary
+[15] NBC to Air Princess of Wales Cancer Charity Documentary
 Source: The Hollywood Reporter | Status: expanded | Words: 262
 Published: 2026-11-21T12:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297
@@ -427,7 +471,7 @@ Heal will explore "life beyond diagnosis and the many ways people find comfort, 
 All money from distribution of the special (it will also air in Australia on Dec. 1 and Canada on Dec. 7) will go to the Royal Marsden Cancer Charity to help people living with and after a cancer diagnosis. Detail Films produced the special, with Benji Jackson directing.
 
 ============================================================
-[15] Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
+[16] Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates
 Source: Variety | Status: expanded | Words: 346
 Published: 2026-11-21T12:00:00+00:00
 URL: https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745
@@ -453,7 +497,7 @@ In the U.S., &#x201C;Heal&#x201D; will be available on Nov. 30 at 8 p.m. ET/PT o
 Watch the documentary trailer below.
 
 ============================================================
-[16] ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and 'Uncle Joe,' Youssef Chahine: ‘Filmmaking Is Really About Healing’
+[17] ‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and 'Uncle Joe,' Youssef Chahine: ‘Filmmaking Is Really About Healing’
 Source: Variety | Status: expanded | Words: 963
 Published: 2026-11-21T11:59:00+00:00
 URL: https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836
@@ -495,7 +539,7 @@ The Cairo premiere has brought an unexpected response, including from men who re
 But having explored both parents on screen, Shazli is ready to turn toward fiction. &#x201C;I did a film about my dad. I did a film about my mom. I&#x2019;m done,&#x201D; she says. &#x201C;Now I want to have more fun. I want to write a fiction. I want to work with actors. I want to create differently now.&#x201D;
 
 ============================================================
-[17] 'The Tree' Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her 'Italian Shoes' Adaptation, Readies India-Set Feature
+[18] 'The Tree' Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her 'Italian Shoes' Adaptation, Readies India-Set Feature
 Source: Variety | Status: expanded | Words: 886
 Published: 2026-11-21T11:55:26+00:00
 URL: https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904
@@ -539,7 +583,7 @@ She closed the session by pointing back to the Lumi&#xE8;re brothers, whose oper
 "Cinema was born documentary and it will die documentary," she said.
 
 ============================================================
-[18] Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days
+[19] Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days
 Source: Deadline | Status: expanded | Words: 603
 Published: 2026-11-21T11:53:50+00:00
 URL: https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880
@@ -577,7 +621,7 @@ Alongside the feature film, plans include a behind-the-scenes documentary featur
 With development in the early stages, the hunt is now on for an actor to play Mounir.
 
 ============================================================
-[19] Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the 'Global South'
+[20] Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the 'Global South'
 Source: Variety | Status: expanded | Words: 476
 Published: 2026-11-21T11:36:53+00:00
 URL: https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880
@@ -607,7 +651,7 @@ The plan envisions that these projects will shoot mainly in Qatar or be structur
 For Watermelon Pictures, the partnership marks a significant leap into larger-scale, mainstream production, backed by its distribution expertise.
 
 ============================================================
-[20] 5 Brilliant Movie Concepts That Deserved Better Execution (&#038; #1 Could Have Been a Sci-Fi Classic)
+[21] 5 Brilliant Movie Concepts That Deserved Better Execution (&#038; #1 Could Have Been a Sci-Fi Classic)
 Source: ComicBook.com | Status: expanded | Words: 1478
 Published: 2026-11-21T11:28:00+00:00
 URL: https://comicbook.com/movies/list/5-brilliant-movie-concepts-that-deserved-better-execution-1-could-have-been-a-sci-fi-classic
@@ -645,7 +689,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Indian Auteur Girish Kasaravalli Looks Back on 50 Years of Cinema at IFFI Masterclass: 'All My Films Talk About Othering'
+[22] Indian Auteur Girish Kasaravalli Looks Back on 50 Years of Cinema at IFFI Masterclass: 'All My Films Talk About Othering'
 Source: Variety | Status: expanded | Words: 883
 Published: 2026-11-21T11:13:22+00:00
 URL: https://variety.com/2026/film/festivals/girish-kasaravalli-othering-iffi-goa-1236954891
@@ -681,7 +725,7 @@ In the audience Q&A, he addressed open endings and whether a filmmaker should pr
 As the session concluded, IFFI festival director Ashutosh Gowariker described Kasaravalli's work as "textbooks," saying he had returned to "Ghatashraddha" while developing a new film. He also singled out the filmmaker's close-ups. "You let your actors simply be. You make the audience think and anticipate what the character is going through," Gowariker said.
 
 ============================================================
-[22] Marion Cotillard Says 'I'm Not Here to Judge Movies' as Marrakech Jury President and 'Doesn't Want Any Information' Before Watching: 'Like a Virgin'
+[23] Marion Cotillard Says 'I'm Not Here to Judge Movies' as Marrakech Jury President and 'Doesn't Want Any Information' Before Watching: 'Like a Virgin'
 Source: Variety | Status: expanded | Words: 470
 Published: 2026-11-21T11:13:22+00:00
 URL: https://variety.com/2026/film/festivals/marion-cotillard-marrakech-jury-president-not-here-to-judge-1236954852
@@ -713,7 +757,7 @@ Mackey is next playing the White Witch in Greta Gerwig's "Narnia: The Magician's
 The Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[23] What Is the Most Misunderstood '80s Sci-Fi Movie? There's a Clear Answer
+[24] What Is the Most Misunderstood '80s Sci-Fi Movie? There's a Clear Answer
 Source: ComicBook.com | Status: expanded | Words: 792
 Published: 2026-11-21T10:47:00+00:00
 URL: https://comicbook.com/movies/feature/what-is-the-most-misunderstood-80s-sci-fi-movie-theres-a-clear-answer
@@ -741,7 +785,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be 'Active' in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’
+[25] Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be 'Active' in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’
 Source: Variety | Status: expanded | Words: 1044
 Published: 2026-11-21T10:29:05+00:00
 URL: https://variety.com/2026/film/global/trump-advisor-steven-paul-federal-tax-credit-january-1236954857
@@ -781,7 +825,7 @@ The producer said the execs &#x201C;love the idea of bringing a certain amount o
 Paul is &#x201C;thankful&#x201D; for Trump&#x2019;s seemingly dismissal of his previously fervent support of a 100% tariff on films produced outside of the U.S. as a way of countering foreign tax incentives. &#x201C;Thankfully, I haven't heard the word tariff. In the beginning, we were hearing tariffs all the time. That was the thing. When I came here last time, it was the tariff, but no. Now it's all hands on deck, federal tax credit.&#x201D;
 
 ============================================================
-[25] Marvel Delivered Its Most Terrifying MCU Villain 11 Years Ago, And He Broke the TV Series That Created Him
+[26] Marvel Delivered Its Most Terrifying MCU Villain 11 Years Ago, And He Broke the TV Series That Created Him
 Source: ComicBook.com | Status: expanded | Words: 893
 Published: 2026-11-21T10:02:00+00:00
 URL: https://comicbook.com/tv-shows/feature/marvel-delivered-its-most-terrifying-mcu-villain-11-years-ago-and-he-broke-the-tv-series-that-created-him
@@ -813,7 +857,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] ‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic
+[27] ‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic
 Source: Deadline | Status: expanded | Words: 697
 Published: 2026-11-21T09:53:09+00:00
 URL: https://deadline.com/2026/11/al-hayba-taim-hassan-syrian-neon-department-m-caesar-biopic-1237230860
@@ -849,7 +893,7 @@ We will tackle this project with the utmost care and sensitivity, working closel
 The Caesar signings are among a raft of announcements made by the Film Committee across the Industry Days, running from November 19 to 21 within the framework of the Doha Film Festival. Hasan received a Lifetime Achievement Award at the opening night of the festival.
 
 ============================================================
-[27] Michael Jackson Biopic 'Michael' Skipping BAFTAs
+[28] Michael Jackson Biopic 'Michael' Skipping BAFTAs
 Source: Deadline | Status: expanded | Words: 395
 Published: 2026-11-21T09:47:11+00:00
 URL: https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863
@@ -875,7 +919,7 @@ It's not clear whether this played into the decision to avoid this year's BAFTAs
 The Michael Jackson biopic stars Jaafar Jackson in his feature film debut as his uncle, Michael Jackson. The film also stars Nia Long, Juliano Valdi, Laura Harrier and Mike Myers, with Miles Teller and Colman Domingo. Directed by Antoine Fuqua and written by John Logan, the film is produced by Graham King, John Branca, and John McClain.
 
 ============================================================
-[28] 3 Unadaptable Sci-Fi Books That Actually Became Great Movies (But One Took Multiple Attempts)
+[29] 3 Unadaptable Sci-Fi Books That Actually Became Great Movies (But One Took Multiple Attempts)
 Source: ComicBook.com | Status: expanded | Words: 955
 Published: 2026-11-21T09:17:00+00:00
 URL: https://comicbook.com/movies/list/3-unadaptable-sci-fi-books-that-actually-became-great-movies-but-one-took-multiple-attempts
@@ -907,7 +951,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Robert Pattinson's 007 Movie in Talks to Shoot at Pinewood as Studio Says 'We're the Home of Bond'
+[30] Robert Pattinson's 007 Movie in Talks to Shoot at Pinewood as Studio Says 'We're the Home of Bond'
 Source: Variety | Status: expanded | Words: 678
 Published: 2026-11-21T09:07:49+00:00
 URL: https://variety.com/2026/film/global/robert-pattinson-bond-movie-shoot-pinewood-studios-1236954829
@@ -939,7 +983,7 @@ For now, Pinewood is keeping its eye on Bond, but also branching out to new tech
 At the panel, Smith emphasized the importance of embracing technology and new formats, noting how content creators working on moving into long-form content might be &#x201C;the next Russo Brothers.&#x201D;
 
 ============================================================
-[30] A Forgotten Sci-Fi Series About a Detective in a Time Loop Premiered 20 Years Ago, And It Deserves a Reboot
+[31] A Forgotten Sci-Fi Series About a Detective in a Time Loop Premiered 20 Years Ago, And It Deserves a Reboot
 Source: ComicBook.com | Status: expanded | Words: 760
 Published: 2026-11-21T08:32:00+00:00
 URL: https://comicbook.com/tv-shows/feature/a-forgotten-sci-fi-series-about-a-detective-in-a-time-loop-premiered-20-years-ago-and-it-deserves-a-reboot
@@ -967,7 +1011,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] 'Concrete Music,' 'Leopard Spots' Among Industry@Tallinn and Baltic Event Award Winners
+[32] 'Concrete Music,' 'Leopard Spots' Among Industry@Tallinn and Baltic Event Award Winners
 Source: The Hollywood Reporter | Status: expanded | Words: 1459
 Published: 2026-11-21T08:30:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061
@@ -1023,7 +1067,7 @@ Eurimages Co-Production Development Award Winner: Wild Love Director: Jonas Truk
 Eurimages Special Co-Production Development Award Winner: My 19-Year-Old Granny Director and screenwriter: Victoria Zadorska Producer: Olena Yershova (Ukraine) Co-producers: Greta Akcijonaite (Lithuania) and Matej Paclik (Czechia) Countries: Ukraine, Lithuania and Czechia Award: &#x20AC;20,000 Jury's statement: "The award goes to a project which gives us an inspiring look into things we have forgotten and the inclusive effort to protect the future from oblivion."
 
 ============================================================
-[32] 'Real Time': Bill Maher Jokes 'GTA VI' Has Caused "More Workplace Absences Than ICE," Notes He's Glad James Bond Cast "Very Heterosexual Male"
+[33] 'Real Time': Bill Maher Jokes 'GTA VI' Has Caused "More Workplace Absences Than ICE," Notes He's Glad James Bond Cast "Very Heterosexual Male"
 Source: Deadline | Status: expanded | Words: 479
 Published: 2026-11-21T04:17:52+00:00
 URL: https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827
@@ -1053,7 +1097,7 @@ Maher added, "And also, I would have been happy with Black James Bond, because y
 Real Time 's Season 24 finale comes after HBO gave the show another two-season renewal back in January.
 
 ============================================================
-[33] Toy Story Franchise Future Addressed by Pixar, And It's the Right Call
+[34] Toy Story Franchise Future Addressed by Pixar, And It's the Right Call
 Source: ComicBook.com | Status: expanded | Words: 646
 Published: 2026-11-21T03:40:43+00:00
 URL: https://comicbook.com/movies/news/toy-story-franchise-future-addressed-by-pixar-and-its-the-right-call
@@ -1081,7 +1125,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] One Piece’s Elbaph Arc Teases Luffy Is One Step Closer to Gear 6
+[35] One Piece’s Elbaph Arc Teases Luffy Is One Step Closer to Gear 6
 Source: ComicBook.com | Status: expanded | Words: 773
 Published: 2026-11-21T03:40:20+00:00
 URL: https://comicbook.com/anime/feature/one-pieces-elbaph-arc-teases-luffy-is-one-step-closer-to-gear-6
@@ -1111,7 +1155,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Idris Elba Is "Flattered" That Fans Want Him in a James Bond Movie, Even as the Villain [EXCLUSIVE]
+[36] Idris Elba Is "Flattered" That Fans Want Him in a James Bond Movie, Even as the Villain [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T03:38:07+00:00
 URL: https://comicbook.com/movies/news/idris-elba-is-flattered-that-fans-want-him-in-a-james-bond-movie-even-as-the-villain-exclusive
@@ -1139,7 +1183,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Blade Director Reveals the Major Problems Behind Scrapped MCU Movie, And the Big Lesson It Taught Him
+[37] Blade Director Reveals the Major Problems Behind Scrapped MCU Movie, And the Big Lesson It Taught Him
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T03:37:27+00:00
 URL: https://comicbook.com/movies/news/blade-director-reveals-the-major-problems-behind-scrapped-mcu-movie-and-the-big-lesson-it-taught-him
@@ -1165,7 +1209,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke
+[38] Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke
 Source: Variety | Status: expanded | Words: 354
 Published: 2026-11-21T03:21:11+00:00
 URL: https://variety.com/2026/tv/news/bill-maher-grand-theft-auto-6-young-men-ice-real-time-hbo-1236954795
@@ -1185,7 +1229,7 @@ Then, the 70-year-old political pundit took aim at the cultural phenomenon that 
 &#x201C;Apple? Oh my gosh. I mean, I worry for young men. Really, without the phone, anyone hoping to see tits will have to talk to an actual girl,&#x201D; he joked. &#x201C;And if you think that joke is stereotypical or unfair, I will just remind you that &#x2018; Grand Theft Auto &#x2019; came out yesterday, and about a fifth of the young men in America stayed home and didn&#x2019;t go to work to play a game. This thing has caused more workplace absences than ICE.&#x201D;
 
 ============================================================
-[38] E.J. Carroll Punisher &#038; GTA V Actor, Dead at 66
+[39] E.J. Carroll Punisher &#038; GTA V Actor, Dead at 66
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-21T03:08:31+00:00
 URL: https://comicbook.com/tv-shows/news/e-j-carroll-punisher-gta-v-actor-dead-at-66
@@ -1213,7 +1257,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Everything To Know About 'Presumed Innocent' Season 2 As Apple Series Goes Anthology
+[40] Everything To Know About 'Presumed Innocent' Season 2 As Apple Series Goes Anthology
 Source: Deadline | Status: expanded | Words: 666
 Published: 2026-11-21T03:03:06+00:00
 URL: https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924
@@ -1257,7 +1301,7 @@ Presumed Innocent&#xA0; hails from Bad Robot Productions and David E. Kelley Pro
 Brosnahan will executive produce in addition to starring. Season 1 star Gyllenhaal executive produces under his Nine Stories banner. Turow and Jo Murray, author of&#xA0; Dissection of a Murder, &#xA0;co-executive produce.
 
 ============================================================
-[40] ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
+[41] ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
 Source: Deadline | Status: expanded | Words: 933
 Published: 2026-11-21T02:55:51+00:00
 URL: https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820
@@ -1303,7 +1347,7 @@ Taylor Swift wrote &#x201C;Safe and Sound (feat. Civil Wars)&#x201D; featured in
 Watch the 'Black Stars' music video below.
 
 ============================================================
-[41] Doctor Strange Just Made a Surprisingly Convincing Case for Why House of M Was Better Than Days of Future Past
+[42] Doctor Strange Just Made a Surprisingly Convincing Case for Why House of M Was Better Than Days of Future Past
 Source: ComicBook.com | Status: expanded | Words: 834
 Published: 2026-11-21T02:50:00+00:00
 URL: https://comicbook.com/comics/feature/doctor-strange-just-made-a-surprisingly-convincing-case-for-why-house-of-m-was-better-than-days-of-future-past
@@ -1335,7 +1379,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] 14-Year-Old PC Game Officially the New #1 Best-Selling Steam Game
+[43] 14-Year-Old PC Game Officially the New #1 Best-Selling Steam Game
 Source: ComicBook.com | Status: expanded | Words: 529
 Published: 2026-11-21T02:41:18+00:00
 URL: https://comicbook.com/gaming/news/steam-deck-pc-game-best-selling-euro-truck-simulator-2
@@ -1357,7 +1401,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] 3 Things We Need to See in Avatar: Seven Havens Season 2
+[44] 3 Things We Need to See in Avatar: Seven Havens Season 2
 Source: ComicBook.com | Status: expanded | Words: 747
 Published: 2026-11-21T02:37:09+00:00
 URL: https://comicbook.com/anime/list/3-things-we-need-to-see-in-avatar-seven-havens-season-2
@@ -1389,7 +1433,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Longlegs Sequel Confirms Another Marvel Star Will Join Nicolas Cage in Cult Horror Follow-Up
+[45] Longlegs Sequel Confirms Another Marvel Star Will Join Nicolas Cage in Cult Horror Follow-Up
 Source: ComicBook.com | Status: expanded | Words: 601
 Published: 2026-11-21T02:33:37+00:00
 URL: https://comicbook.com/movies/news/longlegs-sequel-confirms-another-marvel-star-will-join-nicolas-cage-in-cult-horror-follow-up
@@ -1415,7 +1459,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] 'Godavari' Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project 'Mongoose'
+[46] 'Godavari' Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project 'Mongoose'
 Source: Variety | Status: summary_only | Words: 56
 Published: 2026-11-21T02:32:10+00:00
 URL: https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786
@@ -1427,7 +1471,7 @@ CONTENT / EXTRACTED DETAILS:
 Nikhil Mahajan, the Indian National Film Award-winning director of "Godavari" and the Netflix series "Betaal," is bringing "Mongoose," a Marathi-language neo-noir thriller about a cab driver and the con man who steals his taxi, to the Co-Production Market at WAVES Film Bazaar. Set in the hardscrabble town of Malegaon, the film follows Abhimanyu, a hardworking […]
 
 ============================================================
-[46] GTA VI Just Beat Avengers: Endgame’s Entire Box Office Run in Less Than 24 Hours
+[47] GTA VI Just Beat Avengers: Endgame’s Entire Box Office Run in Less Than 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 543
 Published: 2026-11-21T02:31:44+00:00
 URL: https://comicbook.com/movies/news/gta-vi-just-beat-avengers-endgames-entire-box-office-run-in-less-than-24-hours
@@ -1453,7 +1497,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Before Its Reboot, the Greatest Sci-Fi Conspiracy Series of All Time Has Been Beamed Up to #1 on Streaming
+[48] Before Its Reboot, the Greatest Sci-Fi Conspiracy Series of All Time Has Been Beamed Up to #1 on Streaming
 Source: ComicBook.com | Status: expanded | Words: 719
 Published: 2026-11-21T02:30:00+00:00
 URL: https://comicbook.com/tv-shows/news/before-its-reboot-the-greatest-sci-fi-conspiracy-series-of-all-time-has-been-beamed-up-to-1-on-streaming
@@ -1477,7 +1521,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] The Wildest Fantasy Movie of the 2000s Changed the Story Completely, But It Still Holds Up 19 Years Later
+[49] The Wildest Fantasy Movie of the 2000s Changed the Story Completely, But It Still Holds Up 19 Years Later
 Source: ComicBook.com | Status: expanded | Words: 980
 Published: 2026-11-21T02:08:00+00:00
 URL: https://comicbook.com/movies/feature/the-wildest-fantasy-movie-of-the-2000s-changed-the-story-completely-but-it-still-holds-up-19-years-later
@@ -1511,7 +1555,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare
+[50] Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare
 Source: The Hollywood Reporter | Status: expanded | Words: 649
 Published: 2026-11-21T01:50:09+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332
@@ -1537,30 +1581,4 @@ Some members have also recently faulted the labor group for dropping its COVID-e
 As these concerns were developing, its national board extended union staff leader Duncan Crabtree-Ireland &#x2019;s contract until 2032 on Oct. 24 and reportedly gave him a 15 percent raise, drawing some further scrutiny. Prior to the reported raise, Crabtree-Ireland, whose title has been expanded to deem him the chief executive officer of the union, was already the highest-paid labor leader in Hollywood with a published gross salary of $1,068,535. The union explained at the time, &#x201C;The extended term provides for added stability and continuity for the union during a time of unprecedented industry disruption.&#x201D; But some members found the timing insensitive.
 
 Once seen as a progressive pipe dream, universal healthcare may be becoming more politically palatable after a midterm election that hinged on affordability concerns and amid rampant healthcare inflation. But achieving it would, to say the least, be politically complex and require immense support from many quarters. Still, at a time of major healthcare challenges across the country, the union can at least point to its advocacy as a form of action.
-
-============================================================
-[50] 'Yellowjackets' Stars Melanie Lynskey &#038; Christina Ricci On Misty's Plot "To Save Themselves" From Shauna: "She'll Be The Downfall Of Everybody"
-Source: Deadline | Status: expanded | Words: 392
-Published: 2026-11-21T01:47:22+00:00
-URL: https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788
-------------------------------------------------------------
-SUMMARY:
-SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode "Hivemind" As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday's Season 4 premiere episode "Hivemind" with Deadline, Christina Ricci explained that the episode picks up shortly after the Season […]
-
-CONTENT / EXTRACTED DETAILS:
-SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode "Hivemind"
-
-As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness.
-
-While discussing Friday's Season 4 premiere episode "Hivemind" with Deadline, Christina Ricci explained that the episode picks up shortly after the Season 3 finale, as her character Misty is "trying to get rid of Shauna [ Melanie Lynskey ], to save themselves, really, because they feel that she'll be the downfall of everybody" following the death of Van (Lauren Ambrose). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-"It's an interesting thing to play because I think Shauna is always kind of thinking that Misty might try to kill her," explained Lynskey. "And then Taissa [Tawny Cypress], it's a different story. There's so much love and trust that she has for Taissa, so that whole journey is an interesting one." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-After Melissa (Hilary Swank) killed Van in the Season 3 penultimate episode "How the Story Ends," Shauna and Tai have hired a private investigator to track her down, only for their former teammate to come out of hiding and move her family in to the house next door to Shauna.
-
-Lynskey said, "Yeah, I think it's such a weird choice. And it just makes [Shauna] a thousand times more paranoid, and she's already very, very paranoid. So, it just kind of goes off the rails from there."
-
-In Yellowjackets , a 1996 New Jersey soccer team's plane crashes in the Canadian wilderness, where they struggle to survive while they're stranded for 19 months as a dark supernatural force seemingly lurks in the woods. Meanwhile, their adult counterparts cope with the memories of what went down in the wilderness.
-
-With new episodes available to stream Fridays on Paramount+ with Premium Plan, the fourth and final season sees the Yellowjackets rescued and returned home, where they must adjust to civilization and take their secrets to the grave.
 
