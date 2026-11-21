@@ -1,9 +1,45 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-21T09:48:48.547Z
+Last Updated: 2026-11-21T09:54:48.833Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Michael Jackson Biopic 'Michael' Skipping BAFTAs
+[1] ‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic
+Source: Deadline | Status: expanded | Words: 697
+Published: 2026-11-21T09:53:09+00:00
+URL: https://deadline.com/2026/11/al-hayba-taim-hassan-syrian-neon-department-m-caesar-biopic-1237230860
+------------------------------------------------------------
+SUMMARY:
+Syrian actor Taim Hasan (Al Haybar) has signed to star in Neon-backed biopic Caesar, about military officer Farid Al-Madhhan who risked his life to expose torture and human-rights abuses in prisons under Bashar Al Assad’s reign as president. At the same time, Ameer Fakher Eldin has been unveiled as the director on the drama. The […]
+
+CONTENT / EXTRACTED DETAILS:
+Syrian actor Taim Hasan ( Al Haybar ) has signed to star in Neon -backed biopic Caesar , about military officer Farid Al-Madhhan who risked his life to expose torture and human-rights abuses in prisons under Bashar Al Assad&#x2019;s reign as president.
+
+At the same time, Ameer Fakher Eldin has been unveiled as the director on the drama. The Ukraine-born, Germany-based Syrian Lebanese filmmaker is known for films including Yunan and The Stranger .
+
+Hasan has a big following across the Middle East and North Africa where he has built a career in Syrian, Lebanese and Egyptian productions, with notable recent roles including Jabal in hit organized crime drama Al Hayba and Mawlana . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Steven Paul Talks Up Federal Film & TV Tax Credit: "It's Going To Be Good For The World" - Industry Days Doha News Candle Media's Kevin Mayer Says Company Caught Out By Drop In Streamer Demand: "We Didn't See That Contraction Coming"
+
+The signings were announced at a press conference at the Film Committee at Media City Qatar&#x2019;s second Industry Days Doha, taking place within the framework of the Doha Film Festival , with Al-Madhhan, Hasan and Eldin in attendance. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+"The story of Caesar is not simply a story of suffering. It is not just the story of a photographer or someone who took pictures. It is a story about humanity. It is a story about confronting challenges. Above all, it is an ethical story. That is what we have worked to communicate," said Al-Madhlan.
+
+"This was never intended to be simply a forensic or documentary exercise. It is a human story &#x2013; the story of people who had lives, families and experiences, but whose lives unfortunately ended in inhumane circumstances."
+
+The project was first announced at the first edition of the event in 2025, with the Film Committee revealing it had acquired the life rights to al-Madhhan&#x2019;s story and was partnering with Department M and Doha-based Katara Studios on the planned feature with Neon on board as a distributor.
+
+Al-Madhhan was the Head of the Forensic Evidence Department of the Military Police in Damascus before fleeing Syria in 2014 with more than 54,000 images for the human rights abuses taking place in the country&#x2019;s prisons.
+
+He spent three years smuggling evidence out via hidden memory cards inside his clothes and loaves of bread. Fearing for his life, he hid behind the pseudonym of Caesar for more, only to unveil his true identity last year in the wake of Al Assad&#x2019;s ousting in December 2024. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The images he gathered were used to raise awareness around the brutality of the Al-Assad regime. His evidence also informed the bipartisan 2019 Caesar Act in the U.S., introducing sanctions targeting Al-Assad and his collaborators.
+
+"This project carries a tremendous responsibility," said Hasan. "It is about the collective conscience of a nation and the individual experiences of people in Syria. I would particularly like to thank the team for approaching the story with such bravery and respect."
+
+We will tackle this project with the utmost care and sensitivity, working closely with my partners, Michael and everyone contributing to its success. As much as we want to portray the many different dimensions of Caesar&#x2019;s story, we also want to show the beauty of Syria and the bravery of its people. We want to portray the real Syria.
+
+The Caesar signings are among a raft of announcements made by the Film Committee across the Industry Days, running from November 19 to 21 within the framework of the Doha Film Festival. Hasan received a Lifetime Achievement Award at the opening night of the festival.
+
+============================================================
+[2] Michael Jackson Biopic 'Michael' Skipping BAFTAs
 Source: Deadline | Status: expanded | Words: 395
 Published: 2026-11-21T09:47:11+00:00
 URL: https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863
@@ -29,7 +65,7 @@ It's not clear whether this played into the decision to avoid this year's BAFTAs
 The Michael Jackson biopic stars Jaafar Jackson in his feature film debut as his uncle, Michael Jackson. The film also stars Nia Long, Juliano Valdi, Laura Harrier and Mike Myers, with Miles Teller and Colman Domingo. Directed by Antoine Fuqua and written by John Logan, the film is produced by Graham King, John Branca, and John McClain.
 
 ============================================================
-[2] Robert Pattinson's James Bond Movie 'Talking About' Shooting at U.K.'s Pinewood Studios, Director Says: 'We're the Home of Bond'
+[3] Robert Pattinson's James Bond Movie 'Talking About' Shooting at U.K.'s Pinewood Studios, Director Says: 'We're the Home of Bond'
 Source: Variety | Status: expanded | Words: 678
 Published: 2026-11-21T09:07:49+00:00
 URL: https://variety.com/2026/film/global/robert-pattinson-bond-movie-shoot-pinewood-studios-1236954829
@@ -61,7 +97,7 @@ For now, Pinewood is keeping its eye on Bond, but also branching out to new tech
 At the panel, Smith emphasized the importance of embracing technology and new formats, noting how content creators working on moving into long-form content might be &#x201C;the next Russo Brothers.&#x201D;
 
 ============================================================
-[3] A Forgotten Sci-Fi Series About a Detective in a Time Loop Premiered 20 Years Ago, And It Deserves a Reboot
+[4] A Forgotten Sci-Fi Series About a Detective in a Time Loop Premiered 20 Years Ago, And It Deserves a Reboot
 Source: ComicBook.com | Status: expanded | Words: 760
 Published: 2026-11-21T08:32:00+00:00
 URL: https://comicbook.com/tv-shows/feature/a-forgotten-sci-fi-series-about-a-detective-in-a-time-loop-premiered-20-years-ago-and-it-deserves-a-reboot
@@ -89,7 +125,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 'Concrete Music,' 'Leopard Spots' Among Industry@Tallinn and Baltic Event Award Winners
+[5] 'Concrete Music,' 'Leopard Spots' Among Industry@Tallinn and Baltic Event Award Winners
 Source: The Hollywood Reporter | Status: expanded | Words: 1459
 Published: 2026-11-21T08:30:00+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061
@@ -145,7 +181,7 @@ Eurimages Co-Production Development Award Winner: Wild Love Director: Jonas Truk
 Eurimages Special Co-Production Development Award Winner: My 19-Year-Old Granny Director and screenwriter: Victoria Zadorska Producer: Olena Yershova (Ukraine) Co-producers: Greta Akcijonaite (Lithuania) and Matej Paclik (Czechia) Countries: Ukraine, Lithuania and Czechia Award: &#x20AC;20,000 Jury's statement: "The award goes to a project which gives us an inspiring look into things we have forgotten and the inclusive effort to protect the future from oblivion."
 
 ============================================================
-[5] 'Real Time': Bill Maher Jokes 'GTA VI' Has Caused "More Workplace Absences Than ICE," Notes He's Glad James Bond Cast "Very Heterosexual Male"
+[6] 'Real Time': Bill Maher Jokes 'GTA VI' Has Caused "More Workplace Absences Than ICE," Notes He's Glad James Bond Cast "Very Heterosexual Male"
 Source: Deadline | Status: expanded | Words: 479
 Published: 2026-11-21T04:17:52+00:00
 URL: https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827
@@ -175,7 +211,7 @@ Maher added, "And also, I would have been happy with Black James Bond, because y
 Real Time 's Season 24 finale comes after HBO gave the show another two-season renewal back in January.
 
 ============================================================
-[6] Toy Story Franchise Future Addressed by Pixar, And It's the Right Call
+[7] Toy Story Franchise Future Addressed by Pixar, And It's the Right Call
 Source: ComicBook.com | Status: expanded | Words: 646
 Published: 2026-11-21T03:40:43+00:00
 URL: https://comicbook.com/movies/news/toy-story-franchise-future-addressed-by-pixar-and-its-the-right-call
@@ -203,7 +239,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] One Piece’s Elbaph Arc Teases Luffy Is One Step Closer to Gear 6
+[8] One Piece’s Elbaph Arc Teases Luffy Is One Step Closer to Gear 6
 Source: ComicBook.com | Status: expanded | Words: 773
 Published: 2026-11-21T03:40:20+00:00
 URL: https://comicbook.com/anime/feature/one-pieces-elbaph-arc-teases-luffy-is-one-step-closer-to-gear-6
@@ -233,7 +269,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Idris Elba Is "Flattered" That Fans Want Him in a James Bond Movie, Even as the Villain [EXCLUSIVE]
+[9] Idris Elba Is "Flattered" That Fans Want Him in a James Bond Movie, Even as the Villain [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T03:38:07+00:00
 URL: https://comicbook.com/movies/news/idris-elba-is-flattered-that-fans-want-him-in-a-james-bond-movie-even-as-the-villain-exclusive
@@ -261,7 +297,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Blade Director Reveals the Major Problems Behind Scrapped MCU Movie, And the Big Lesson It Taught Him
+[10] Blade Director Reveals the Major Problems Behind Scrapped MCU Movie, And the Big Lesson It Taught Him
 Source: ComicBook.com | Status: expanded | Words: 589
 Published: 2026-11-21T03:37:27+00:00
 URL: https://comicbook.com/movies/news/blade-director-reveals-the-major-problems-behind-scrapped-mcu-movie-and-the-big-lesson-it-taught-him
@@ -287,7 +323,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke
+[11] Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke
 Source: Variety | Status: expanded | Words: 354
 Published: 2026-11-21T03:21:11+00:00
 URL: https://variety.com/2026/tv/news/bill-maher-grand-theft-auto-6-young-men-ice-real-time-hbo-1236954795
@@ -307,7 +343,7 @@ Then, the 70-year-old political pundit took aim at the cultural phenomenon that 
 &#x201C;Apple? Oh my gosh. I mean, I worry for young men. Really, without the phone, anyone hoping to see tits will have to talk to an actual girl,&#x201D; he joked. &#x201C;And if you think that joke is stereotypical or unfair, I will just remind you that &#x2018; Grand Theft Auto &#x2019; came out yesterday, and about a fifth of the young men in America stayed home and didn&#x2019;t go to work to play a game. This thing has caused more workplace absences than ICE.&#x201D;
 
 ============================================================
-[11] E.J. Carroll Punisher &#038; GTA V Actor, Dead at 66
+[12] E.J. Carroll Punisher &#038; GTA V Actor, Dead at 66
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-21T03:08:31+00:00
 URL: https://comicbook.com/tv-shows/news/e-j-carroll-punisher-gta-v-actor-dead-at-66
@@ -335,7 +371,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Everything To Know About 'Presumed Innocent' Season 2 As Apple Series Goes Anthology
+[13] Everything To Know About 'Presumed Innocent' Season 2 As Apple Series Goes Anthology
 Source: Deadline | Status: expanded | Words: 666
 Published: 2026-11-21T03:03:06+00:00
 URL: https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924
@@ -379,7 +415,7 @@ Presumed Innocent&#xA0; hails from Bad Robot Productions and David E. Kelley Pro
 Brosnahan will executive produce in addition to starring. Season 1 star Gyllenhaal executive produces under his Nine Stories banner. Turow and Jo Murray, author of&#xA0; Dissection of a Murder, &#xA0;co-executive produce.
 
 ============================================================
-[13] ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
+[14] ‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film
 Source: Deadline | Status: expanded | Words: 933
 Published: 2026-11-21T02:55:51+00:00
 URL: https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820
@@ -425,7 +461,7 @@ Taylor Swift wrote &#x201C;Safe and Sound (feat. Civil Wars)&#x201D; featured in
 Watch the 'Black Stars' music video below.
 
 ============================================================
-[14] Doctor Strange Just Made a Surprisingly Convincing Case for Why House of M Was Better Than Days of Future Past
+[15] Doctor Strange Just Made a Surprisingly Convincing Case for Why House of M Was Better Than Days of Future Past
 Source: ComicBook.com | Status: expanded | Words: 834
 Published: 2026-11-21T02:50:00+00:00
 URL: https://comicbook.com/comics/feature/doctor-strange-just-made-a-surprisingly-convincing-case-for-why-house-of-m-was-better-than-days-of-future-past
@@ -457,7 +493,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] 14-Year-Old PC Game Officially the New #1 Best-Selling Steam Game
+[16] 14-Year-Old PC Game Officially the New #1 Best-Selling Steam Game
 Source: ComicBook.com | Status: expanded | Words: 529
 Published: 2026-11-21T02:41:18+00:00
 URL: https://comicbook.com/gaming/news/steam-deck-pc-game-best-selling-euro-truck-simulator-2
@@ -479,7 +515,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] 3 Things We Need to See in Avatar: Seven Havens Season 2
+[17] 3 Things We Need to See in Avatar: Seven Havens Season 2
 Source: ComicBook.com | Status: expanded | Words: 747
 Published: 2026-11-21T02:37:09+00:00
 URL: https://comicbook.com/anime/list/3-things-we-need-to-see-in-avatar-seven-havens-season-2
@@ -511,7 +547,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Longlegs Sequel Confirms Another Marvel Star Will Join Nicolas Cage in Cult Horror Follow-Up
+[18] Longlegs Sequel Confirms Another Marvel Star Will Join Nicolas Cage in Cult Horror Follow-Up
 Source: ComicBook.com | Status: expanded | Words: 601
 Published: 2026-11-21T02:33:37+00:00
 URL: https://comicbook.com/movies/news/longlegs-sequel-confirms-another-marvel-star-will-join-nicolas-cage-in-cult-horror-follow-up
@@ -537,7 +573,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] 'Godavari' Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project 'Mongoose'
+[19] 'Godavari' Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project 'Mongoose'
 Source: Variety | Status: summary_only | Words: 56
 Published: 2026-11-21T02:32:10+00:00
 URL: https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786
@@ -549,7 +585,7 @@ CONTENT / EXTRACTED DETAILS:
 Nikhil Mahajan, the Indian National Film Award-winning director of "Godavari" and the Netflix series "Betaal," is bringing "Mongoose," a Marathi-language neo-noir thriller about a cab driver and the con man who steals his taxi, to the Co-Production Market at WAVES Film Bazaar. Set in the hardscrabble town of Malegaon, the film follows Abhimanyu, a hardworking […]
 
 ============================================================
-[19] GTA VI Just Beat Avengers: Endgame’s Entire Box Office Run in Less Than 24 Hours
+[20] GTA VI Just Beat Avengers: Endgame’s Entire Box Office Run in Less Than 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 543
 Published: 2026-11-21T02:31:44+00:00
 URL: https://comicbook.com/movies/news/gta-vi-just-beat-avengers-endgames-entire-box-office-run-in-less-than-24-hours
@@ -575,7 +611,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] Before Its Reboot, the Greatest Sci-Fi Conspiracy Series of All Time Has Been Beamed Up to #1 on Streaming
+[21] Before Its Reboot, the Greatest Sci-Fi Conspiracy Series of All Time Has Been Beamed Up to #1 on Streaming
 Source: ComicBook.com | Status: expanded | Words: 719
 Published: 2026-11-21T02:30:00+00:00
 URL: https://comicbook.com/tv-shows/news/before-its-reboot-the-greatest-sci-fi-conspiracy-series-of-all-time-has-been-beamed-up-to-1-on-streaming
@@ -599,7 +635,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] The Wildest Fantasy Movie of the 2000s Changed the Story Completely, But It Still Holds Up 19 Years Later
+[22] The Wildest Fantasy Movie of the 2000s Changed the Story Completely, But It Still Holds Up 19 Years Later
 Source: ComicBook.com | Status: expanded | Words: 980
 Published: 2026-11-21T02:08:00+00:00
 URL: https://comicbook.com/movies/feature/the-wildest-fantasy-movie-of-the-2000s-changed-the-story-completely-but-it-still-holds-up-19-years-later
@@ -633,7 +669,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare
+[23] Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare
 Source: The Hollywood Reporter | Status: expanded | Words: 649
 Published: 2026-11-21T01:50:09+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332
@@ -661,7 +697,7 @@ As these concerns were developing, its national board extended union staff leade
 Once seen as a progressive pipe dream, universal healthcare may be becoming more politically palatable after a midterm election that hinged on affordability concerns and amid rampant healthcare inflation. But achieving it would, to say the least, be politically complex and require immense support from many quarters. Still, at a time of major healthcare challenges across the country, the union can at least point to its advocacy as a form of action.
 
 ============================================================
-[23] 'Yellowjackets' Stars Melanie Lynskey &#038; Christina Ricci On Misty's Plot "To Save Themselves" From Shauna: "She'll Be The Downfall Of Everybody"
+[24] 'Yellowjackets' Stars Melanie Lynskey &#038; Christina Ricci On Misty's Plot "To Save Themselves" From Shauna: "She'll Be The Downfall Of Everybody"
 Source: Deadline | Status: expanded | Words: 392
 Published: 2026-11-21T01:47:22+00:00
 URL: https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788
@@ -687,7 +723,7 @@ In Yellowjackets , a 1996 New Jersey soccer team's plane crashes in the Canadian
 With new episodes available to stream Fridays on Paramount+ with Premium Plan, the fourth and final season sees the Yellowjackets rescued and returned home, where they must adjust to civilization and take their secrets to the grave.
 
 ============================================================
-[24] Days of Future Past's Most Tragic Hero Just Got a Second Chance, and It Could Have Huge Marvel Implications
+[25] Days of Future Past's Most Tragic Hero Just Got a Second Chance, and It Could Have Huge Marvel Implications
 Source: ComicBook.com | Status: expanded | Words: 924
 Published: 2026-11-21T01:28:00+00:00
 URL: https://comicbook.com/comics/feature/days-of-future-pasts-most-tragic-hero-just-got-a-second-chance-and-it-could-have-huge-marvel-implications
@@ -719,7 +755,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] A Panned Marvel Movie with a 15% RT Score Is Crawling into the Streaming Charts 2 Years After Derailing an Entire Franchise
+[26] A Panned Marvel Movie with a 15% RT Score Is Crawling into the Streaming Charts 2 Years After Derailing an Entire Franchise
 Source: ComicBook.com | Status: expanded | Words: 692
 Published: 2026-11-21T01:05:00+00:00
 URL: https://comicbook.com/movies/news/the-panned-marvel-movie-with-a-15-rt-score-is-crawling-into-the-streaming-charts-2-years-after-derailing-an-entire-franchise
@@ -743,7 +779,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well?
+[27] Someone Made Obsession Look Like A Disney Channel Movie, And Why Does This Fit SO Well?
 Source: CinemaBlend | Status: expanded | Words: 279
 Published: 2026-11-21T01:01:00+00:00
 URL: https://www.cinemablend.com/movies/obsession-disney-channel-movie-fits-so-well-inde-navarrette-michael-johnston
@@ -761,7 +797,7 @@ My favorite part of the video has to be when Nikki does her iconic backwards wal
 Now, if you recall the Backrooms ending , what happens next is a lot darker, but it’s still funny to see the same scene redone to try to fit the Disney Channel aesthetic. These movies are two of the most popular horror films of the year, so this crossover is the ultimate way to change how we typically think of them.
 
 ============================================================
-[27] Matt Damon Went Viral For A Cute Disneyland Video, But The Story Behind It Is Even Lovelier
+[28] Matt Damon Went Viral For A Cute Disneyland Video, But The Story Behind It Is Even Lovelier
 Source: CinemaBlend | Status: expanded | Words: 230
 Published: 2026-11-21T00:31:00+00:00
 URL: https://www.cinemablend.com/theme-parks/matt-damon-went-viral-for-a-cute-disneyland-video-but-the-story-behind-it-is-even-lovelier
@@ -777,7 +813,7 @@ When I first saw the video, I immediately thought, “Now there’s a dad who’
 I love when the timing lines up and someone can ask a celebrity to explain the story behind a viral moment, making them more relatable to everyone else. And there’s nothing more human than spending and missing time with our loved ones. I can’t imagine what the family in the video thought when they realized that not only was The Bourne Identity star at Disneyland on the same day, but he was in the background of their video, reacting to that special interaction.
 
 ============================================================
-[28] Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere
+[29] Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere
 Source: Variety | Status: expanded | Words: 661
 Published: 2026-11-21T00:30:25+00:00
 URL: https://variety.com/2026/tv/news/melania-trump-series-gaza-israel-children-peace-amazon-1236954718
@@ -809,7 +845,7 @@ Did Jeff Bezos participate? &#x201C;No, he never was involved,&#x201D; Beckman c
 &#x201C;Melania: The Series&#x201D; is now streaming on Prime Video.
 
 ============================================================
-[29] Bassam Tariq Says Marvel's Scrapped 'Blade' Reboot Taught Him "Life's Too Short to Make Sh** Films"
+[30] Bassam Tariq Says Marvel's Scrapped 'Blade' Reboot Taught Him "Life's Too Short to Make Sh** Films"
 Source: The Hollywood Reporter | Status: expanded | Words: 562
 Published: 2026-11-21T00:28:41+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314
@@ -837,7 +873,7 @@ Ali said in a September interview with GQ that he agrees the failed film is Kevi
 When asked why the film didn&#x2019;t happen with the interviewer, the Oscar winner said, &#x201C;That&#x2019;s a Kevin Feige question.&#x201D; He continued, &#x201C;They had, as you said, a two-time Oscar-winning actor under contract and you got billions of dollars. That&#x2019;s a question for them. I don&#x2019;t mean anything personal to you, but I don&#x2019;t know why it didn&#x2019;t. To this day, I don&#x2019;t know why it didn&#x2019;t happen. I just know that it was &#x2014; Kevin, he said it was the biggest failure of his career and I agree.&#x201D;
 
 ============================================================
-[30] E.J. Carroll, ‘Law &#038; Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66
+[31] E.J. Carroll, ‘Law &#038; Order,’ ‘GTA 5’ and ‘Blue Bloods’ Actor, Dies at 66
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-21T00:17:59+00:00
 URL: https://variety.com/2026/tv/news/e-j-carroll-dead-the-deuce-1236954725
@@ -859,7 +895,7 @@ He also voiced a character in &#x201C;Grand Theft Auto V&#x201D; in 2013 and pla
 Prior to his death, Carroll most recently starred in &#x201C;A Delicate Arrangement,&#x201D; the upcoming Vivian Leigh biopic. Starring Carla Gugino as the &#x201C;Gone With the Wind&#x201D; actress, the film is written and produced by Jayce Bartok and directed by Nick Sandow.
 
 ============================================================
-[31] PS2 Series Now Available on PS5 for $2.24
+[32] PS2 Series Now Available on PS5 for $2.24
 Source: ComicBook.com | Status: expanded | Words: 575
 Published: 2026-11-21T00:16:59+00:00
 URL: https://comicbook.com/gaming/news/ps2-ps5-playstation-store-red-faction
@@ -885,7 +921,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Macy’s Bringing Back Its Blue Hippo For The 100th Parade, And Fiona The Hippo Fans Have A Request
+[33] Macy’s Bringing Back Its Blue Hippo For The 100th Parade, And Fiona The Hippo Fans Have A Request
 Source: CinemaBlend | Status: expanded | Words: 248
 Published: 2026-11-21T00:01:00+00:00
 URL: https://www.cinemablend.com/television/macy-brought-back-blue-hippo-for-100th-parade-fiona-the-hippo-fans-have-request
@@ -901,7 +937,7 @@ In addition to the balloon possibly representing Fiona, it also has a long, lege
 If the blue hippo isn’t enough to sell you on the parade, then maybe some new floats might. We’ll be seeing a variety of newcomers, including "Hogwarts Holiday," which features a Harry Potter -themed float that will celebrate (and promote) the newly rebooted series on HBO kicking off in December. The cool floats and balloons are an opportunity for brands (like Starbucks) to promote themselves with whimsical, colorful, and unique floats or balloons.
 
 ============================================================
-[33] Godzilla x Kong: Supernova Could Introduce A Dangerous Kaiju That Already Destroyed Godzilla Before
+[34] Godzilla x Kong: Supernova Could Introduce A Dangerous Kaiju That Already Destroyed Godzilla Before
 Source: ComicBook.com | Status: expanded | Words: 768
 Published: 2026-11-20T23:59:00+00:00
 URL: https://comicbook.com/movies/feature/godzilla-x-kong-supernova-could-introduce-a-dangerous-kaiju-that-already-destroyed-godzilla-before
@@ -931,7 +967,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Supernatural Star Confirms Sequel Series Ideas, And It Would Change a 15 Season Formula
+[35] Supernatural Star Confirms Sequel Series Ideas, And It Would Change a 15 Season Formula
 Source: ComicBook.com | Status: expanded | Words: 575
 Published: 2026-11-20T23:57:57+00:00
 URL: https://comicbook.com/tv-shows/news/supernatural-star-confirms-sequel-series-ideas-and-it-would-change-a-15-season-formula
@@ -959,7 +995,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] 'Lanterns' Star Aaron Pierre On DCU Future After Safran &#038; Gunn's DC Studios Exit: "I'm Very At Peace"
+[36] 'Lanterns' Star Aaron Pierre On DCU Future After Safran &#038; Gunn's DC Studios Exit: "I'm Very At Peace"
 Source: Deadline | Status: expanded | Words: 482
 Published: 2026-11-20T23:50:33+00:00
 URL: https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759
@@ -987,7 +1023,7 @@ Amid the administration change at DC Studios following the Paramount and Warner 
 Gunn took to social media to debunk the rumors, posting on&#xA0; Threads , "No one from Skydance has even seen the movie - the only people that have are Peter Safran and a very small trusted group of friends and family. So any stories around this narrative are false."
 
 ============================================================
-[36] How 'I Play Rocky' Star P.J. Byrne Became One of Hollywood’s Go-To Character Actors
+[37] How 'I Play Rocky' Star P.J. Byrne Became One of Hollywood’s Go-To Character Actors
 Source: The Hollywood Reporter | Status: expanded | Words: 6080
 Published: 2026-11-20T23:48:08+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/i-play-rocky-star-p-j-byrne-1236760259
@@ -1183,7 +1219,7 @@ Years from now, when you write your memoir, how will you sum up the 2026 chapter
 *** I Play Rocky is now playing in movie theaters nationwide.
 
 ============================================================
-[37] David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: "Well, It Exists. Should We Not Use It?"
+[38] David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: "Well, It Exists. Should We Not Use It?"
 Source: Deadline | Status: expanded | Words: 332
 Published: 2026-11-20T23:45:30+00:00
 URL: https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711
@@ -1209,7 +1245,7 @@ Set in 1977, eight years after Once Upon a Time… , The Further Mis-Adventures 
 Premiering Thanksgiving on Imax, The Further Mis-Adventures of Cliff Booth premieres Dec. 23 on Netflix.
 
 ============================================================
-[38] How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change
+[39] How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change
 Source: Variety | Status: expanded | Words: 753
 Published: 2026-11-20T23:33:15+00:00
 URL: https://variety.com/2026/biz/news/rick-baker-alabama-tax-charity-sean-weissbart-strictly-1236954674
@@ -1243,7 +1279,7 @@ After a roller-coaster week on Wall Street that saw the Anthropic IPO generate e
 (Pictured: Wealth manager Rick Baker with students at his hometown high school in Crossville, Ala.)
 
 ============================================================
-[39] I Rewatched Anthony Bourdain's Tony Because It's Heartwarming (But Making It Felt Like 'Being Stabbed In The Stomach')
+[40] I Rewatched Anthony Bourdain's Tony Because It's Heartwarming (But Making It Felt Like 'Being Stabbed In The Stomach')
 Source: CinemaBlend | Status: expanded | Words: 309
 Published: 2026-11-20T23:30:00+00:00
 URL: https://www.cinemablend.com/movies/i-rewatched-anthony-bourdain-tony-heartwarming-making-felt-stabbed-stomach-matt-johnson-dominic-sessa
@@ -1261,7 +1297,7 @@ Well, I can’t say I blame Sessa, specifically, for having this reaction. I mea
 Well, loukoumades are Greek donuts with honey, and they look delectable. And like Halkias pointed out, Tony is like a warm treat for viewers. Between Tony learning how to cook with Antonio Banderas ’ Ciro, his realization that this is what he wanted to do with his life, and that Eric Ripert cameo at the end of the movie that comes with the first time Tony refers to himself as Anthony, it’s hard not to feel heartwarming energy radiating off this A24 flick.
 
 ============================================================
-[40] GTA 6 User Review Score Revealed, and It's Not Good
+[41] GTA 6 User Review Score Revealed, and It's Not Good
 Source: ComicBook.com | Status: expanded | Words: 562
 Published: 2026-11-20T23:27:53+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-user-review-score-metacritic
@@ -1289,7 +1325,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year
+[42] Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year
 Source: Deadline | Status: expanded | Words: 307
 Published: 2026-11-20T23:24:03+00:00
 URL: https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137
@@ -1311,7 +1347,7 @@ After raising a record $81 billion in going public Thursday, Anthropic fell back
 Against the gloomy backdrop, core Hollywood companies fared slightly better, even if it wasn't a banner day.
 
 ============================================================
-[42] CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift's Return to the Show
+[43] CMA Awards See a 55% Ratings Bump in Key Adult Demo With Taylor Swift's Return to the Show
 Source: Variety | Status: expanded | Words: 769
 Published: 2026-11-20T23:21:58+00:00
 URL: https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677
@@ -1341,7 +1377,7 @@ The CMAs telecast on Wednesday night was preceded the evening before on ABC by a
 The CMAs marked Swift's first public performance of "I Knew It, I Knew You," after she'd previously sung it at the Motion Picture Academy's governors ball and at private awards-circuit showcases. It may not be the last the public sees and hears of Swift doing it. She was just nominated this week for a Grammy for song of the year for the film theme, and is hoping to be nominated for a best song Oscar for the first time.
 
 ============================================================
-[43] This Rare DC Comic Introduced a Size-Changing Hero Before Marvel's Ant-Man, and It's Worth a Fortune
+[44] This Rare DC Comic Introduced a Size-Changing Hero Before Marvel's Ant-Man, and It's Worth a Fortune
 Source: ComicBook.com | Status: expanded | Words: 1392
 Published: 2026-11-20T23:19:00+00:00
 URL: https://comicbook.com/collectibles/news/this-rare-dc-comic-introduced-a-size-changing-hero-before-marvels-ant-man-and-its-worth-a-fortune
@@ -1375,7 +1411,7 @@ Now, two honorable mentions here if we are going a little more out there with th
 I actually like the New 52 costume a lot but Kingdom Come might be my absolute favorite. Alex Ross is just amazing.
 
 ============================================================
-[44] Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison
+[45] Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison
 Source: Deadline | Status: expanded | Words: 1155
 Published: 2026-11-20T23:18:00+00:00
 URL: https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822
@@ -1429,7 +1465,7 @@ More such motions from the defense may be in the offering ASAP if this deadlocke
 Erik Pedersen and City News Service contributed to this report.
 
 ============================================================
-[45] 'Hunger Games: Sunrise On The Reaping' Begins Global Weekend With $76M Running Cume - Update
+[46] 'Hunger Games: Sunrise On The Reaping' Begins Global Weekend With $76M Running Cume - Update
 Source: Deadline | Status: expanded | Words: 578
 Published: 2026-11-20T23:16:11+00:00
 URL: https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714
@@ -1463,7 +1499,7 @@ In the Middle East, Sunrise on the Reaping bowed to first place in all markets w
 The net production cost of Sunrise on the Reaping is $150M, with a majority of that financed via foreign sales. The U.S. marketing spend is $60M, sources say. Lionsgate also directly distributes the movie in the United Kingdom.
 
 ============================================================
-[46] HIDIVE Locks Down Release for 2027's Biggest New Anime - Watch Trailer
+[47] HIDIVE Locks Down Release for 2027's Biggest New Anime - Watch Trailer
 Source: ComicBook.com | Status: expanded | Words: 628
 Published: 2026-11-20T23:15:34+00:00
 URL: https://comicbook.com/anime/news/hidive-locks-down-release-for-2027s-biggest-new-anime-watch-trailer
@@ -1489,7 +1525,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] ‘Michael’ Won’t Be Submitted for BAFTA Awards as Filmmakers Pass on Billion-Dollar Biopic’s Entry (EXCLUSIVE)
+[48] ‘Michael’ Won’t Be Submitted for BAFTA Awards as Filmmakers Pass on Billion-Dollar Biopic’s Entry (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 972
 Published: 2026-11-20T23:05:49+00:00
 URL: https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593
@@ -1543,7 +1579,7 @@ Skipping BAFTA doesn&#x2019;t affect the film&#x2019;s Oscar eligibility, and th
 Whether the decision ultimately costs &#x201C;Michael&#x201D; a trip to the Oscars remains to be seen.
 
 ============================================================
-[48] 'Yellowjackets' Creators on Closing Their Survival Story, Killing Characters and Thoughts on Spinoffs: "This Was Meant to Be the Final End"
+[49] 'Yellowjackets' Creators on Closing Their Survival Story, Killing Characters and Thoughts on Spinoffs: "This Was Meant to Be the Final End"
 Source: The Hollywood Reporter | Status: expanded | Words: 3080
 Published: 2026-11-20T23:05:16+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/yellowjackets-creators-finale-ending-show-no-spinoffs-1236760260
@@ -1667,7 +1703,7 @@ LYLE There was a moment on set this season when Melanie [Lynskey] brought her da
 Yellowjackets is now streaming the first episode of season four on Paramount+ Premium.
 
 ============================================================
-[49] Bassam Tariq On Exiting Marvel's 'Blade': "Life's Too Short To Make Sh** Films"
+[50] Bassam Tariq On Exiting Marvel's 'Blade': "Life's Too Short To Make Sh** Films"
 Source: Deadline | Status: expanded | Words: 546
 Published: 2026-11-20T23:05:11+00:00
 URL: https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728
@@ -1693,24 +1729,4 @@ The silver lining in walking away from Blade and the film never getting made was
 Although Tariq didn't direct Ali in the Blade adaptation, they finally worked together on Your Mother Your Mother Your Mother . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 "I'm blessed that Mahershala came along on this journey with me. The fights, I didn't expect him to nail it on the first try. I think it was unexpected for him too, since he'd never done it before," Tariq said. "What really blew me away was how he conducted himself with other actors. Sometimes actors can get greedy and want to make sure they give their best performance when the cameras are on them, and not be present when they aren't."
-
-============================================================
-[50] Billie From Hexed Has Just Landed At Disney Parks, But The Directors Already Have Bigger Ideas
-Source: CinemaBlend | Status: expanded | Words: 336
-Published: 2026-11-20T23:01:00+00:00
-URL: https://www.cinemablend.com/theme-parks/billie-hexed-landed-disney-parks-directors-bigger-ideas
-------------------------------------------------------------
-SUMMARY:
-This would be magical.
-
-CONTENT / EXTRACTED DETAILS:
-There are a lot of new Disney movies that have come out this year, but few are as exciting as Walt Disney Animation’s Hexed . It’s also especially exciting when a release like this means a new character has arrived at Disney Parks. So, that got me wondering: could the new magic-focused movie find a home at one of the resorts permanently? With that in mind, I had to field some early ideas from the movie’s directors when CinemaBlend visited Disney's studio in Burbank, California.
-
-She looks so good! Disney Parks really got all the details right, making it look like she jumped right out of the new movie. It hasn’t been revealed yet where Billie will be stationed, but I think she would fit right into the upcoming Villains Land . She’s not a villain herself, but she’s from a world of witches, and the vibes just seem to fit. When I shared this idea with the directors of Hexed , one half of the team, Jason Hand, said this:
-
-OK, now we’re talking! The Hexed trailer shows off a gorgeous new land called Hexe where all witches live. In the new animated movie, Billie opens a secret portal to Hexe after accidentally taking off a bracelet she’s worn all her life that has been concealing her powers. Hexe is a whimsical, beautiful land full of lush forests and magic (of course). Just take a look:
-
-Gorgeous, right? I know I’d especially love to see a recreation of the home of Beef Roger, who is a three-eyed cat who lives on the outskirts of Hexe. Here it is:
-
-I know, I know, perhaps it’s a little too soon to dream up Disney Parks concepts for the movie. It’s not even out yet. But Hexed is getting a ton of positive early reactions for being “unexpected”, and as someone who’s seen the latest from Walt Disney Animation, the studio has definitely created the kind of world I want to visit in real life. Hence, my enthusiasm.
 
