@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-21T22:07:26.567Z"
+    "updated_at": "2026-11-21T22:27:26.186Z"
   },
   "articles": [
+    {
+      "id": "6e4c4630-bdc1-4401-b62c-e62970bfa7c3",
+      "title": "Percy Jackson Has Been Making Percabeth A 'Slow Burn'. I’m Already Seeing It More In Season 3",
+      "summary": "Our demigod babies are growing up!",
+      "content": "SPOILERS ahead for Percy Jackson and the Olympians' Season 3 two-episode premiere, now streaming for those with a Disney+ subscription or Hulu subscription .\n\nThe last time CinemaBlend caught up with the showrunners, they told us they’re trying to “slow burn” the relationship between Percy and Annabeth . When I caught up with them again, Jonathan E. Steinberg delved into where we’re at this season with their dynamic, saying this:\n\nOh, I feel it. I mean, what sticks out to me so far is that dance scene between them in Episode 1. After Percy famously told Annabeth he would “burn it all down” for her last season if he had to, you can feel this unsaid chemistry between them. However, in true teenage boy fashion, Percy shoots down the comment when Annabeth brings it up. Then, right before she gets captured by the manticore, Percy looks like he was about to risk everything to try to save her if Artemis didn’t pull him off the ledge.\n\nSeason 3 really feels like the sweet spot for Percy and the rest of the cast, where they are at the right age for the show to mature a bit more, and that makes me more excited for what’s to come. I know there’s always discourse around the book changes in TV shows like this, but I like what’s been done so far. For one, we’re getting to see Annabeth’s time in captivity, and we’re also getting more Percabeth moments ahead of the pair going from friends to romantic partners.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/streaming-news/percy-jackson-percabeth-slow-burn-already-seeing-more--season-3-interview",
+      "published_at": "2026-11-21T22:23:34+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kSMQGZejjFXXsAfV2CNwS4-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 256,
+      "extracted_at": "2026-11-21T22:27:14.089061+00:00",
+      "updated_at": "2026-11-21T22:27:14.089061+00:00"
+    },
     {
       "id": "31877709-3355-4b0b-930d-6f806a1c0918",
       "title": "What Inspired Glen Powell To Play A Country Singer? It Involves Shotgunning Beer With Luke Combs",
@@ -742,21 +757,6 @@
       "word_count": 588,
       "extracted_at": "2026-11-21T17:41:01.100313+00:00",
       "updated_at": "2026-11-21T17:41:01.100313+00:00"
-    },
-    {
-      "id": "0f647d0c-794e-41b6-ae43-809a8e9445b0",
-      "title": "This GTA VI Comparison To Taylor Swift’s Eras Tour Blew My Mind (But Fans Are Less Impressed)",
-      "summary": "In both cases, it'd been a long time coming.",
-      "content": "Grand Theft Auto VI came out on November 19, and literally one day after that, it was announced that it had hit $3.79 billion in sales. That’s a seriously impressive number. I mean, it took Taylor Swift nearly two years to make $2 billion with her highly profitable Eras Tour . GTA did more than that in one day. However, while that is quite mind-blowing to think about, fans aren’t so impressed by this comparison.\n\nTo get into the specifics, it was reported by Rockstar Games that GTA VI has reached $3.79 billion in sales as of November 20, per The AP . It also stated that 32.5 million units were sold in pre-release. When People published a story on what the video game had reportedly made, it prominently noted that it had already outgrossed Taylor Swift’s Eras Tour.\n\nLooking at the Eras Tour, specifically, after its 21-month run, it racked up $2 billion in tickets sold and over 10 million people attended the concerts (its proshot was also a major box office success and can now be streamed with a Disney+ subscription ). The NYT , that’s “double the gross ticket sales of any other concert tour in history.” Also, reportedly, the tour’s average gross per night was between $14 and $17 million.\n\nWhen you really think about it, comparing GTA to the Eras Tour is like comparing apples and oranges. One is a concert tour; the other is a video game. Yes, they’re both major moments of monoculture. However, that’s kind of all they have in common. So, that left people commenting things like this on People’s post about the video game outgrossing Swift’s tour:\n\nSomething many comments pointed out was that there was a cap on how many people could attend the Eras Tour. There are only so many people you can fit in a stadium. Anyone can buy and play Grand Theft Auto VI . So, it makes sense that it could make more than the tour in such a short period of time.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/gta-vi-comparison-taylor-swift-eras-tour-blew-my-mind-fans-less-impressed",
-      "published_at": "2026-11-21T17:35:39+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/95k7DvkZU6BfGHZbgQ4BpS-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 338,
-      "extracted_at": "2026-11-21T17:41:00.429397+00:00",
-      "updated_at": "2026-11-21T17:41:00.429397+00:00"
     }
   ]
 }
