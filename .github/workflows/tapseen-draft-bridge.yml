@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       article_path:
-        description: "Exact path under publish-test/articles/"
+        description: "Exact path under publish-test/articles/ or publish-test/articles-en/"
         required: true
         type: string
         default: "publish-test/articles/tendo-nagenda-proximity-media-2026-11-19.json"

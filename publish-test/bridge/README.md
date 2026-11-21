@@ -1,4 +1,4 @@
-# ChatGPT Plus → GitHub → TapSeen blog draft bridge
+# ChatGPT Plus â†’ GitHub â†’ TapSeen blog draft bridge
 
 **Current state: manual test only. No article is auto-published.**
 
@@ -18,7 +18,7 @@ TapSeen blog with a dedicated writer's real Supabase Auth session.
 
 ## 1. Dry run (no credentials)
 
-In GitHub, open Actions → **TapSeen draft-only bridge (test)** → Run workflow.
+In GitHub, open Actions â†’ **TapSeen draft-only bridge (test)** â†’ Run workflow.
 Leave `apply_draft = false`. The action runs unit tests, then checks the
 sample article. No requests to TapSeen or Supabase occur.
 
@@ -41,10 +41,10 @@ article JSON, ChatGPT prompt, or workflow file.
 
 Configure these environment secrets:
 
-- `TAPSEEN_SUPABASE_URL` — HTTPS origin for the authorized target environment
-- `TAPSEEN_SUPABASE_PUBLISHABLE_KEY` — anon/publishable key (not service_role)
-- `TAPSEEN_BLOG_AUTHOR_EMAIL` — dedicated author login
-- `TAPSEEN_BLOG_AUTHOR_PASSWORD` — dedicated author password
+- `TAPSEEN_SUPABASE_URL` â€” HTTPS origin for the authorized target environment
+- `TAPSEEN_SUPABASE_PUBLISHABLE_KEY` â€” anon/publishable key (not service_role)
+- `TAPSEEN_BLOG_AUTHOR_EMAIL` â€” dedicated author login
+- `TAPSEEN_BLOG_AUTHOR_PASSWORD` â€” dedicated author password
 
 There is intentionally no service_role, direct SQL, developer Supabase
 connector write, or untrusted `author_id` field. The script uses the author

@@ -1,10 +1,11 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
  * TapSeen draft-only handoff. Never publishes an article.
  *
  * Usage:
  *   node publish-test/bridge/import-draft.mjs publish-test/articles/example.json
- *   TAPSEEN_DRAFT_WRITE=true ... node publish-test/bridge/import-draft.mjs publish-test/articles/example.json
+ *   node publish-test/bridge/import-draft.mjs publish-test/articles-en/example.json
+ *   TAPSEEN_DRAFT_WRITE=true ... node publish-test/bridge/import-draft.mjs ...
  *
  * Writes through an authenticated, least-privilege TapSeen blog author's
  * Supabase Auth JWT, not service_role, SQL admin tools, or impersonation.
@@ -19,7 +20,7 @@ const FIELDS = new Set(["slug", "title", "body_md", "excerpt", "category", "loca
   "tmdb_id", "tmdb_type"]);
 const CATEGORIES = new Set(["movies", "series", "animation", "documentary",
   "entertainment", "news", "interviews", "feature", "trailer", "review"]);
-const FILE_PATTERN = /^publish-test\/articles\/[a-z0-9][a-z0-9-]{1,110}\.json$/;
+const FILE_PATTERN = /^publish-test\/(articles|articles-en)\/[a-z0-9][a-z0-9-]{1,110}\.json$/;
 
 export function validateDraft(value) {
   if (!value || typeof value !== "object" || Array.isArray(value)) throw Error("Expected one JSON object");
@@ -35,8 +36,20 @@ export function validateDraft(value) {
       !value.body_md.trim() || value.body_md.length > 100000) throw Error("Invalid title/body length");
   if (value.excerpt.length > 400 || value.seo_title.length > 70 ||
       value.seo_description.length > 160) throw Error("SEO or excerpt too long");
-  if (value.locale !== "fa" || value.audience !== "ir" ||
-      !CATEGORIES.has(value.category)) throw Error("Only approved Persian ir blog categories");
+
+  // Validate locale/audience pairing: (fa/ir) for Persian tapseen.ir or (en/com) for English tapseen.com
+  const isPersian = value.locale === "fa" && value.audience === "ir";
+  const isEnglish = value.locale === "en" && (value.audience === "com" || value.audience === "global");
+  if (!isPersian && !isEnglish) {
+    throw Error("Invalid locale/audience pair (must be fa/ir or en/com)");
+  }
+  if (!CATEGORIES.has(value.category)) throw Error("Invalid blog category: " + value.category);
+
+  // Normalize "global" to "com" for English posts
+  if (value.locale === "en" && value.audience === "global") {
+    value.audience = "com";
+  }
+
   if (!Array.isArray(value.hashtags) || value.hashtags.length > 20 ||
       !value.hashtags.every(tag => typeof tag === "string" &&
         /^#[\p{L}\p{N}_]{1,40}$/u.test(tag))) throw Error("Invalid hashtags");
@@ -77,7 +90,7 @@ async function postJSON(url, body, headers = {}) {
 }
 
 export async function run(filePath) {
-  if (!FILE_PATTERN.test(filePath)) throw Error("File must be under publish-test/articles/");
+  if (!FILE_PATTERN.test(filePath)) throw Error("File must be under publish-test/articles/ or publish-test/articles-en/");
   const raw = await readFile(resolve(process.cwd(), filePath), "utf8");
   if (raw.length > 120000) throw Error("Article file too large");
   const draft = validateDraft(JSON.parse(raw));
