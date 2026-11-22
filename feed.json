@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T23:06:39.804Z"
+    "updated_at": "2026-11-22T23:10:40.546Z"
   },
   "articles": [
+    {
+      "id": "73b3f538-2242-45d7-b5ba-419ee96e0b6d",
+      "title": "I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced",
+      "summary": "A little misunderstanding led to a BIG issue.",
+      "content": "Rocky has returned to the big screen amid the 2026 movie schedule , but not in the way fans of the fictional boxer would’ve likely expected. Sylvester Stallone ’s journey to getting the iconic 1976 film made is chronicled in the acclaimed biopic, I Play Rocky , which is helmed by Peter Farrelly. While Stallone had no direct involvement in the movie, he did give it his official stamp of approval to the creative team. However, the beloved actor accidentally sparked some serious drama after the movie was announced, and I was totally unaware of it.\n\nHonestly, the Oscar-winning filmmaker’s rationale (as shared on X ) makes a lot of sense. If Stallone were credited as a producer on the film, which shows him in a mostly positive light, many may be tempted to think he manipulated the narrative. The Rambo star is, of course, no stranger to moviemaking so, given his directing and producing experience, I can see why he’d agree. Despite coming to an accord on Stallone needing to “separate” himself from the production, that apparently led to a serious faux pas on the actor’s part:\n\nThe mere thought of getting heat from fans is daunting enough, but receiving heat from a member of the Stallone family is something else entirely. Farrelly went on to say that he later had another chat with the purveyor and lover of the Rocky films , and it went down as follows:\n\nWhile all this drama was due to a simple misunderstanding, it definitely created quite a mess for the filmmaking team. No lasting damage was seemingly done, though, and I’d say that things have been working out for Farrelly and his collaborators. The movie has been well received and gaining considerable buzz in the lead-up to the Oscars. It even received a stamp of approval from Ryan Gosling . As for Stallone, he admitted he was prepared to be “hypercritical” of the film, but he ended up really enjoying the movie as a whole and lead actor Anthony Ippolito’s portrayal of him.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced",
+      "published_at": "2026-11-22T23:06:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LPHMDG3Ncxd9dEWvcpniJ9-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 341,
+      "extracted_at": "2026-11-22T23:10:26.38745+00:00",
+      "updated_at": "2026-11-22T23:10:26.38745+00:00"
+    },
     {
       "id": "3b160e5d-d0bf-4ffe-acf5-e03f5a704f85",
       "title": "5 Most Powerful One Piece Characters Luffy’s Gear 5 Can’t Defeat",
@@ -742,21 +757,6 @@
       "word_count": 298,
       "extracted_at": "2026-11-22T18:18:11.908893+00:00",
       "updated_at": "2026-11-22T18:18:11.908893+00:00"
-    },
-    {
-      "id": "6ebd918b-f79d-485f-b758-0cceff3f8c54",
-      "title": "The More I Read The Dungeon Crawler Series, The More Worried I Get About The Peacock Series",
-      "summary": "I can't be the only person wondering this between chapters.",
-      "content": "I dove into Dungeon Crawler Carl back in July , and now that I'm almost caught up on the book series, I have some major thoughts about the upcoming streaming series on Peacock . Mainly, I'm worried about how the streamer intends to pull this off, and whether I'll actually get to see the series the way we all want to.\n\nDungeon Crawler Carl is one of the best-selling book series of recent years, and its name recognition is growing. That said, it's not Harry Potter , and while the upcoming series for that HBO Max show received a massive budget for its streaming debut, I'm not sure DCC would get the same.\n\nNot only is the budget for Dungeon Crawler Carl massive, but each floor of the Dungeon also transforms the series entirely. A lot of sets will need to be scrapped entirely and rebuilt, which will only impact the amount of time it takes between seasons. The events of the book only take place over the course of a few months, but I imagine adapting it all to streaming would take years, if not longer.\n\nIf there's one thing I hate in this modern era of television, it's waiting multiple years for new seasons. As mentioned, however, I'm not sure how it could happen any other way. This is going to be a big series, and if it isn't, it's going to disappoint a lot of people.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/more-read-dungeon-crawler-series-more-worried-get-about-peacock-series",
-      "published_at": "2026-11-22T18:05:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Y2w2uHqakhQyQ72yTZX4vn-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 239,
-      "extracted_at": "2026-11-22T18:08:11.543109+00:00",
-      "updated_at": "2026-11-22T18:08:11.543109+00:00"
     }
   ]
 }
