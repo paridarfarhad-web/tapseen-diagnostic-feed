@@ -1,9 +1,65 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-22T19:00:32.532Z
+Last Updated: 2026-11-22T19:04:28.330Z
 Website: https://tapseen.com
 
 ============================================================
-[1] The Hotel Bel-Air’s Menu Returns to Tradition
+[1] Nintendo Switch 2 Report Reveals 4 Open-World Games Coming to the Console
+Source: ComicBook.com | Status: expanded | Words: 574
+Published: 2026-11-22T19:02:00+00:00
+URL: https://comicbook.com/gaming/news/nintendo-switch-2-games-open-world-leak
+------------------------------------------------------------
+SUMMARY:
+A new Nintendo Switch 2 report has revealed four different open-world games coming to the console. None of the games are brand new, but rather ports. In this case, two are from the 2010s, while the other two are from the 2020s. And all four come from the same European publisher. Ubisoft. Unsurprisingly, three of […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A new Nintendo Switch 2 report has revealed four different open-world games coming to the console. None of the games are brand new, but rather ports. In this case, two are from the 2010s, while the other two are from the 2020s. And all four come from the same European publisher. Ubisoft. Unsurprisingly, three of these four games come from the series the publisher is primarily known for: Assassin's Creed . The fourth game, meanwhile, is a licensed release.
+
+The new report comes from Nash Weedle , a well-known Nintendo insider with a decent track record of scoops. According to the insider, Ubisoft is preparing to bring the following four games to Nintendo Switch 2: Assassin's Creed Origins , Assassin's Creed Odyssey , Assassin's Creed Valhalla , and Avatar: Frontiers of Pandora . This would be pretty noteworthy because three of these games never came to Nintendo Switch. Only Assassin's Creed Odyssey did. So, this would be a potential introduction to three of these Ubisoft games for Nintendo purists. Unfortunately, this is the extent of the report, other than the note that the Assassin's Creed Valhalla port has been given priority among the four ports.
+
+Assassin's Creed Valhalla is the 12th mainline installment in the long-running Ubisoft series that is sometimes a stealth series, other times an open-world RPG series. This installment is an example of the latter. It is also a successor specifically to 2018's Assassin's Creed Odyssey .
+
+Upon release, the Ubisoft Montreal game earned a Metacritic range of 80 to 82 and would go to become one of Ubisoft's best-selling games of all time and the best-selling game in the series.
+
+Avatar: Frontiers of Pandora is an action-adventure from developer Massive Entertainment, the studio best-known for The Division series. Upon release, it earned a 72 to 75 Metacritic range. This was obviously a disappointment and paired poorly with its commericial underperformance. That said, it is undeniably one of the best-looking open-world games of the generation .
+
+Assassin's Creed Origins is another Assassin's Creed game from Ubisoft and the 10th major installment in the series, and a pioneering installment at that, as it was the first game in the series to be an open-world RPG rather than a stealth-action game. Upon release, it earned a Metacritic range of 81 to 85.
+
+Lastly, there is Assassin's Creed Odyssey , the successor to Assassin's Creed Origins . It was released the following year in 2018 by developer Ubisoft Quebec. And while Assassin's Creed Valhalla is the commercial high point of the series, Assassin's Creed Odyssey was the best reviewed game in the series among the open-world RPGs. In the series as a whole, it falls below a few other earlier releases in the franchise. To this end, upon release, it earned a Metacritic range of 83 to 87.
+
+Al of that said, and as always, remember to take this unofficial report with a grain of salt. So far, Ubisoft has not commented on it. We do not expect this to change for a variety of reasons, but if it does, we will update the story accordingly.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[2] David Leitch Gives 'Ocean's 14' Update, Notes "Lot Of Motivation" To Make Sequel
+Source: Deadline | Status: expanded | Words: 330
+Published: 2026-11-22T19:01:06+00:00
+URL: https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206
+------------------------------------------------------------
+SUMMARY:
+Nearly 20 years later, Danny Ocean is trying to get the gang back together for Ocean's 14, which was expected to begin filming in 2026. David Leitch, who is attached to direct the fourth installment in the heist film franchise, recently noted that George Clooney and his Smokehouse producing partner Grant Heslov have delivered a […]
+
+CONTENT / EXTRACTED DETAILS:
+Nearly 20 years later, Danny Ocean is trying to get the gang back together for Ocean's 14 , which was expected to begin filming in 2026.
+
+David Leitch , who is attached to direct the fourth installment in the heist film franchise, recently noted that George Clooney and his Smokehouse producing partner Grant Heslov have delivered a "great script," but scheduling issues stand in the way.
+
+"Oh, I mean, there's a great script and I think everybody's excited about moving it forward," he told People . "I think it's always been about getting all those people together, and their schedules are always the issue." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Leitch added, "Look, there's a lot of excitement around it and … George and Grant did incredible work on the script. So, yeah, a lot of motivation to make it happen." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Clooney starred as Danny Ocean in the 2001 Steven Soderbergh-helmed remake of the 1960 Rat Pack film, reprising the role in Ocean's Twelve (2004) and Ocean's Thirteen (2007).
+
+In January 2025, Leitch was in early talks to direct the next installment. Last October, the 2x Oscar winner Warner Bros. approved the budget for Ocean's 14 , which he expected to begin filming this year.
+
+Ocean's 14 will mark the first installment in the main franchise not directed by Soderbergh, after Gary Ross helmed the 2018 female-led spin-off Ocean's 8 , starring Sandra Bullock as Danny's sister Debbie Ocean.
+
+Meanwhile, Bradley Cooper is attached write and direct an Ocean's 11 prequel , which will star Ryan Gosling and Margot Robbie as Danny Ocean's parents.
+
+============================================================
+[3] The Hotel Bel-Air’s Menu Returns to Tradition
 Source: The Hollywood Reporter | Status: expanded | Words: 260
 Published: 2026-11-22T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hotel-bel-airs-returns-classic-menu-1236757360
@@ -21,7 +77,37 @@ The bill of fare has long had a dedicated section of "Bel-Air Classics": the tor
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[2] Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’
+[4] Grand Theft Auto 6 Has an Almost Impossible Task Ahead of It, And GTA Online Is the Reason
+Source: ComicBook.com | Status: expanded | Words: 978
+Published: 2026-11-22T19:00:00+00:00
+URL: https://comicbook.com/gaming/feature/grand-theft-auto-6-has-an-almost-impossible-task-ahead-of-it-and-gta-online-is-the-reason
+------------------------------------------------------------
+SUMMARY:
+Courtesy of Rockstar Games Imagine spending more than a decade building your criminal empire, filling garages with cars you've painstakingly collected, buying properties across Los Santos, and turning a fresh character into an absurdly wealthy menace. Now imagine being told it's time to do it all over again. That's the awkward position Rockstar faces with Grand Theft Auto 6. […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Imagine spending more than a decade building your criminal empire, filling garages with cars you've painstakingly collected, buying properties across Los Santos, and turning a fresh character into an absurdly wealthy menace. Now imagine being told it's time to do it all over again. That's the awkward position Rockstar faces with Grand Theft Auto 6 . Its predecessor isn't some aging multiplayer mode that players have been desperately waiting to abandon. GTA Online has grown into an entertainment platform of its own, with an enormous amount of content and a community that has spent years making Los Santos their second home. Following that is going to be a monumental challenge, regardless of how impressive Vice City turns out to be.
+
+And honestly, I don't think simply giving players a new map is going to cut it. There's a reason people keep returning to GTA Online after all these years, and it isn't exclusively because they enjoy driving around Los Santos. They've built up characters with virtual lives that represent an incredible amount of time and money. Rockstar needs to give those players a compelling reason to start over without making them feel as though everything they've accumulated suddenly means nothing. Fortunately, there's a fairly straightforward way to approach this problem that SEGA has already experimented, with a positive result.
+
+The challenge facing Rockstar isn't really about making a better version of GTA Online (though that's a given). It's the player base that leaving the original behind is worth it. That's a difficult proposition when you consider just how much the game has accumulated since its debut in 2013. Some players have been around practically from the beginning, and their characters have grown alongside the experience. They've purchased businesses and spent years acquiring things that newer players might not even realize exist. Even the most outrageous criminal empire represents a personal investment when you've spent that long building it. Starting over might be exciting for some, but I can absolutely understand why others would be reluctant.
+
+Its unrealistic, though, for Rockstar to try to preserve everyone's entire criminal empire. The games are literally decade apart, and the tech involved is massively different. A new generation GTA Online also deserves a fresh economy, a new progression system, and its own reasons for players to chase that next big purchase. Carrying over billions in GTA$ or allowing veterans to immediately bring their entire arsenal into a new game would undermine much of that experience before it even gets going. But there's a meaningful difference between resetting someone's progress and wiping away everything they've collected. I'd happily start from the bottom again if it meant having a new world to explore and a fresh set of criminal opportunities to pursue. What I wouldn't appreciate is losing years of cosmetic purchases and collectibles simply because Rockstar wants everyone to begin with an empty wardrobe.
+
+This might sound like an unusual comparison, but SEGA's Phantasy Star Online 2: New Genesis offers Rockstar a surprisingly good blueprint. The original Phantasy Star Online 2 had already been running for more than a decade when SEGA introduced New Genesis as a massive next-generation evolution of the experience. Players weren't simply moving into a new region with their existing progression intact. Character growth was reset, and much of the original game's equipment and progression systems didn't make the transition. However, SEGA made a particularly smart decision with one of the things players had spent years collecting: their fashion. A substantial range of avatar items and customization options carried over, allowing longtime players to bring their established appearance into the new experience. It wasn't a complete transfer of everything, but it meant that a decade of cosmetic collecting wasn't simply thrown away.
+
+Rockstar should make players start from scratch in GTA 6 Online , but give them access to the clothing and cosmetic items they've purchased or earned throughout GTA Online 's lifespan. There might be some technical hurdles involved, especially if older assets need to be rebuilt to meet the new game's visual standards, but that doesn't make the idea any less worthwhile. In fact, Grinding Gear Games is already demonstrating another approach with Path of Exile 2 . The studio is bringing applicable cosmetic purchases from the original Path of Exile into its sequel, while gradually adapting its enormous backlog of microtransactions to work in the new game. Not every item is immediately available, but the commitment to preserving purchases is there.
+
+I don't expect Rockstar to make everything from GTA Online compatible with a completely different game. Some things simply won't make sense in Vice City, and a fresh online experience needs room to establish its own identity. But cosmetics are a different matter. If someone has spent years collecting outfits and accessories, why should all of that disappear when they move to a new game? GTA Online has been an enormous part of the franchise's success, and the people who kept it alive deserve to feel that their time and purchases mattered. Rockstar doesn't need to let everyone bring their old empire into Vice City, it should consider letting players bring their visual selves along for the ride. GTA 6 Online has not yet been announced, but its evitable arrival is already setting the stage for conversations just like this.
+
+How much of your GTA Online progress would you want to carry into the next game, and would you be willing to start your criminal empire all over again? Let us know in the comment section below.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[5] Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’
 Source: Variety | Status: expanded | Words: 308
 Published: 2026-11-22T18:47:06+00:00
 URL: https://variety.com/2026/film/news/noah-schnapp-auditioned-hunger-games-1236955369
@@ -41,7 +127,7 @@ Schnapp may be onto something with his casting assessment, given the prequel&#x2
 While he may have been denied the coveted role in &#x201C;Sunrise on the Reaping,&#x201D; Schnapp is still booked and busy. The 22-year-old actor is currently starring in Andy Sandberg&#x2019;s play &#x201C;Affluenza,&#x201D; marking his professional stage debut at Riverside Studios in London. The dark comedy, inspired by real-life events, follows 16-year-old Dylan (Schnapp) dealing with the aftermath of causing a fatal drunk-driving crash in the Hamptons. Alongside Schnapp, the cast includes Janette Manrara, Juliet Cowan, Wallis Currie-Wood and Rupert Young.
 
 ============================================================
-[3] See The Funny Video Witney Carson Made With DWTS Friends About Coming Back To The Finale VERY Pregnant
+[6] See The Funny Video Witney Carson Made With DWTS Friends About Coming Back To The Finale VERY Pregnant
 Source: CinemaBlend | Status: expanded | Words: 268
 Published: 2026-11-22T18:45:33+00:00
 URL: https://www.cinemablend.com/television/see-funny-video-witney-carson-made-with-dwts-friends-about-returning-pregnant-finale
@@ -59,7 +145,7 @@ Finale night is very much about crowning the winner of DWTS , but it's also a ce
 It's just another big return to throw into another big night for Dancing with the Stars . Each finalist will be required to do an "Instant Dance Challenge," a "Judges' Choice," and the "freestyle." One of the elements that makes it a can't-miss show is that there's just so much going on that it really feels like a huge celebration.
 
 ============================================================
-[4] After 114 Years, the Beverly Hills Hotel Gets a (Night)life
+[7] After 114 Years, the Beverly Hills Hotel Gets a (Night)life
 Source: The Hollywood Reporter | Status: expanded | Words: 730
 Published: 2026-11-22T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/beverly-hills-hotel-nightlife-supper-club-bar-1236757355
@@ -87,7 +173,7 @@ A key challenge for the new spaces is competing with the landmark existing ones,
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[5] Jujutsu Kaisen Gives the Anime a Cool Makeover Ahead of Jump Festa 2027 Update
+[8] Jujutsu Kaisen Gives the Anime a Cool Makeover Ahead of Jump Festa 2027 Update
 Source: ComicBook.com | Status: expanded | Words: 590
 Published: 2026-11-22T18:28:02+00:00
 URL: https://comicbook.com/anime/news/jujutsu-kaisen-gives-the-anime-a-cool-makeover-ahead-of-jump-festa-2027-update
@@ -113,7 +199,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
+[9] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
 Source: Variety | Status: expanded | Words: 315
 Published: 2026-11-22T18:27:55+00:00
 URL: https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340
@@ -137,7 +223,7 @@ Mangubat&#x2019;s sister, Grace, also shared a tribute to the reality star, as w
 Mangubat is survived by her son, Jhonreil.
 
 ============================================================
-[7] New Mashle Live-Action Movie Reveals Best Look at Its Hero Yet
+[10] New Mashle Live-Action Movie Reveals Best Look at Its Hero Yet
 Source: ComicBook.com | Status: expanded | Words: 572
 Published: 2026-11-22T18:17:00+00:00
 URL: https://comicbook.com/anime/news/new-mashle-live-action-movie-reveals-best-look-at-its-hero-yet
@@ -163,7 +249,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Adam Driver Finally Reveals the Strangely Hypocritical Reason Disney Passed on Hunt for Ben Solo Movie
+[11] Adam Driver Finally Reveals the Strangely Hypocritical Reason Disney Passed on Hunt for Ben Solo Movie
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-22T18:13:11+00:00
 URL: https://comicbook.com/movies/news/adam-driver-finally-reveals-the-strangely-hypocritical-reason-disney-passed-on-hunt-for-ben-solo-movie
@@ -185,7 +271,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Anthony Mackie Ranked His MCU Screen Partners (And Shots Fired At Sebastian Stan)
+[12] Anthony Mackie Ranked His MCU Screen Partners (And Shots Fired At Sebastian Stan)
 Source: CinemaBlend | Status: expanded | Words: 298
 Published: 2026-11-22T18:10:23+00:00
 URL: https://www.cinemablend.com/movies/anthony-mackie-ranked-mcu-screen-partners-threw-shade-sebastian-stan
@@ -203,7 +289,7 @@ That's one way to rank acting ability. Mackie had good reason to bring up the ha
 Anyone who's followed these two beyond the release of new Marvel movies knows this is pretty standard behavior. Mackie and Stan first appeared together in 2014's Captain America: The Winter Soldier and, later, their verbal squabbles in 2016's Civil War made a real splash with audiences. Watching Sam and Bucky bicker was also half the fun of their eventual Marvel series , 2021's The Falcon and the Winter Soldier . Their Mackie and Stan's interviews together were sometimes even better.
 
 ============================================================
-[10] The More I Read The Dungeon Crawler Series, The More Worried I Get About The Peacock Series
+[13] The More I Read The Dungeon Crawler Series, The More Worried I Get About The Peacock Series
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-22T18:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/more-read-dungeon-crawler-series-more-worried-get-about-peacock-series
@@ -221,7 +307,7 @@ Not only is the budget for Dungeon Crawler Carl massive, but each floor of the D
 If there's one thing I hate in this modern era of television, it's waiting multiple years for new seasons. As mentioned, however, I'm not sure how it could happen any other way. This is going to be a big series, and if it isn't, it's going to disappoint a lot of people.
 
 ============================================================
-[11] Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival
+[14] Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival
 Source: Variety | Status: expanded | Words: 430
 Published: 2026-11-22T18:01:36+00:00
 URL: https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306
@@ -243,7 +329,7 @@ While a live orchestra played famed scores from throughout cinema history, atten
 As the dinner wound down, guests got up out of their seats to mingle and migrate to a more intimate room. Red, velvet couches invited guests to settle in while photos of famous faced who had graced the festival throughout years past dotted the walls. Goldblum and his wife, Emilie Goldblum, chatted animatedly to Mackey while Krieps &#x2014; who was sporting a chic headscarf printed with red roses &#x2014; caught up with Cakarel.
 
 ============================================================
-[12] 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office
+[15] 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-22T18:00:40+00:00
 URL: https://theplaylist.net/the-hunger-games-sunrise-on-the-reaping-overcomes-grand-theft-auto-box-office-20261122
@@ -255,7 +341,7 @@ CONTENT / EXTRACTED DETAILS:
 Lionsgate's incredible year continues. After "Michael" took in $372 million at the domestic box office this past spring, a franchise favorite has given the mini-major its biggest opening in over a decade. "The Hunger Games: Sunrise of the Reaping" battled to $120 million in the U.S. and $225 million worldwide. That stateside tally is over double the $44.6 million "The Hunger Games: The Ballad of Songbirds and Snakes" earned three years ago. Continue reading 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office at The Playlist.
 
 ============================================================
-[13] Blue Eye Samurai Season 2 Teases Mizu's Return With New Look
+[16] Blue Eye Samurai Season 2 Teases Mizu's Return With New Look
 Source: ComicBook.com | Status: expanded | Words: 642
 Published: 2026-11-22T17:58:20+00:00
 URL: https://comicbook.com/anime/news/blue-eye-samurai-season-2-teases-mizus-return-with-new-look
@@ -283,7 +369,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Robert Eggers Is "Eager" To Move Away From Horror Genre: "I Think I Need A Break"
+[17] Robert Eggers Is "Eager" To Move Away From Horror Genre: "I Think I Need A Break"
 Source: Deadline | Status: expanded | Words: 322
 Published: 2026-11-22T17:41:30+00:00
 URL: https://deadline.com/2026/11/robert-eggers-eager-move-away-horror-genre-1237231196
@@ -307,7 +393,7 @@ Following his 2015 feature debut The Witch , Eggers has been praised as a new ma
 In Werwulf , a man (Aaron Taylor-Johnson) in 14th century England finds him and his family threatened by a ravenous beast haunting the town. The film also stars Lily-Rose Depp, Willem Dafoe, Ralph Ineson and more.
 
 ============================================================
-[15] 3 Horror TV Shows Far More Disturbing Than They Needed to Be, Including A Beloved Cult Classic Series
+[18] 3 Horror TV Shows Far More Disturbing Than They Needed to Be, Including A Beloved Cult Classic Series
 Source: ComicBook.com | Status: expanded | Words: 781
 Published: 2026-11-22T17:41:00+00:00
 URL: https://comicbook.com/tv-shows/list/3-horror-tv-shows-far-more-disturbing-than-they-needed-to-be-including-a-beloved-cult-classic-series
@@ -337,7 +423,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the '80s’
+[19] Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the '80s’
 Source: Variety | Status: expanded | Words: 815
 Published: 2026-11-22T17:40:00+00:00
 URL: https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248
@@ -379,7 +465,7 @@ Still, Johnson argued that the platform itself matters less than the work filmma
 "Whether it gets into a festival or whether people start discovering you online or whatever, there's so many things that make it hard," Johnson continued. "But I truly believe that is the gold coin that everybody is searching for in the world. So the more opportunities you have in the world to do that and get your work out there, the better, I think."
 
 ============================================================
-[17] Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75
+[20] Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75
 Source: Variety | Status: expanded | Words: 650
 Published: 2026-11-22T17:23:24+00:00
 URL: https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322
@@ -407,7 +493,7 @@ He continued: "Away from the set, Tom was a trusted colleague, generous mentor a
 Jackson is survived by his wife, Jennifer, and his two daughters, Taylor and Morgan.
 
 ============================================================
-[18] Lost Kids WB Classic Is Finally Coming to Streaming After 23 Years
+[21] Lost Kids WB Classic Is Finally Coming to Streaming After 23 Years
 Source: ComicBook.com | Status: expanded | Words: 559
 Published: 2026-11-22T17:20:52+00:00
 URL: https://comicbook.com/tv-shows/news/lost-kids-wb-classic-is-finally-coming-to-streaming-after-23-years
@@ -435,7 +521,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] I’d Wondered How Lanterns’ Star Felt About The Show After James Gunn’s Exit. Someone Asked
+[22] I’d Wondered How Lanterns’ Star Felt About The Show After James Gunn’s Exit. Someone Asked
 Source: CinemaBlend | Status: expanded | Words: 260
 Published: 2026-11-22T17:18:42+00:00
 URL: https://www.cinemablend.com/television/how-lanterns-aaron-pierre-feels-after-james-gunn-dc-exit
@@ -451,7 +537,7 @@ Given the uncertainty surrounding the DCU, that’s a very admirable response fr
 Pierre’s portrayal of Stewart has received praise, and a number of fans have been looking forward to seeing him play the role for years to come. After James Gunn shared his farewell post, fans flooded the comments, and many lamented that Lanterns Season 2 likely wouldn’t happen . And Pierre isn’t the only member of the show’s team to have weighed in on the Gunn news. The co-showrunner, Chris Mundy, also reacted and expressed his surprise due to assuming that the dust had settled at DC after the Paramount/Warner Bros. merger.
 
 ============================================================
-[20] New Fantasy Isekai Confirms Winter 2027 Launch With First Look Trailer - Watch
+[23] New Fantasy Isekai Confirms Winter 2027 Launch With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 591
 Published: 2026-11-22T17:11:00+00:00
 URL: https://comicbook.com/anime/news/new-fantasy-isekai-confirms-winter-2027-launch-with-first-look-trailer-watch
@@ -477,7 +563,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Tom Jackson Dies: Broncos Alum &#038; ESPN Hall Of Fame Broadcaster Was 75
+[24] Tom Jackson Dies: Broncos Alum &#038; ESPN Hall Of Fame Broadcaster Was 75
 Source: Deadline | Status: expanded | Words: 142
 Published: 2026-11-22T17:07:19+00:00
 URL: https://deadline.com/2026/11/tom-jackson-dies-broncos-espn-1237231183
@@ -495,7 +581,7 @@ Jackson's family told ESPN that he passed on Friday, in what his longtime co-hos
 In honor of the Broncos "Orange Crush Defense" linebacker, the entire Countdown crew wore orange ties during Sunday's show. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[22] Fans Wanted One Thing From The Hunger Games: Sunrise on the Reaping, But the Movie Fumbled It
+[25] Fans Wanted One Thing From The Hunger Games: Sunrise on the Reaping, But the Movie Fumbled It
 Source: ComicBook.com | Status: expanded | Words: 753
 Published: 2026-11-22T17:01:00+00:00
 URL: https://comicbook.com/movies/feature/fans-wanted-one-thing-from-the-hunger-games-sunrise-on-the-reaping-but-the-movie-fumbled-it
@@ -523,7 +609,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] How Oobah Butler Scammed His Way to HBO
+[26] How Oobah Butler Scammed His Way to HBO
 Source: Variety | Status: expanded | Words: 1707
 Published: 2026-11-22T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998
@@ -603,7 +689,7 @@ He flashes his card at the cashier. &#x201C;So what do I get with this?&#x201D;
 &#x201C;This is America,&#x201D; Butler says, smiling as he clutches his new black-and-red fire breather. &#x201C;There&#x2019;s always a Joker card.&#x201D;
 
 ============================================================
-[24] Joe Russo Talks 'Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans"
+[27] Joe Russo Talks 'Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans"
 Source: Deadline | Status: expanded | Words: 1248
 Published: 2026-11-22T16:54:33+00:00
 URL: https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111
@@ -665,7 +751,7 @@ Russo credited longtime collaborator, screenwriter Steve McFeely, with coming up
 &#x201C;The concept was like that's a very happy ending for one character. And what if happiness is finite, and what if you have to take happiness from someone else to create your own happiness… What happens in that story? That&#x2019;s where I went, &#x2018;Right, I know what to do with this.&#x201D; The idea that like there was a cost to a happy ending."
 
 ============================================================
-[25] The Hunger Games Prequel Just Put Up A Huge Number At The Box Office
+[28] The Hunger Games Prequel Just Put Up A Huge Number At The Box Office
 Source: CinemaBlend | Status: expanded | Words: 209
 Published: 2026-11-22T16:52:01+00:00
 URL: https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky
@@ -681,7 +767,7 @@ You can check out the full top ten from the weekend, as per The Numbers . Those 
 I’ll get to the other movies in a bit, but before that, we need to talk about Sunrise On The Reaping a little bit more. The four initial Hunger Games movies, which were released between 2012 and 2015 all grossed between $650M and $900M at the worldwide box office. They were also collectively a major pop culture force that came up regularly in casual conversation. Unfortunately, 2023’s Ballad Of Songbirds & Snakes , which follows the story of President Snow prior to gaining power, didn’t have the same appeal and grossed less than $350M worldwide.
 
 ============================================================
-[26] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
+[29] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-22T16:48:56+00:00
 URL: https://comicbook.com/gaming/news/is-gta-6-being-purposely-review-bombed-new-player-poll-has-a-very-clear-answer
@@ -707,7 +793,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
+[30] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
 Source: The Hollywood Reporter | Status: expanded | Words: 574
 Published: 2026-11-22T16:45:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660
@@ -747,7 +833,7 @@ He often said that he had been &#x201C;blessed to work for two companies in my l
 Survivors include his wife, Jennifer, and his daughters, Taylor and Morgan.
 
 ============================================================
-[28] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
+[31] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-22T16:43:18+00:00
 URL: https://comicbook.com/anime/news/after-15-years-surprise-action-series-confirms-return-with-new-anime-revival
@@ -773,7 +859,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
+[32] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
 Source: Deadline | Status: expanded | Words: 236
 Published: 2026-11-22T16:41:07+00:00
 URL: https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163
@@ -793,7 +879,7 @@ In 2023, Sheila and David appeared on Season 6 of Before the 90 Days , having me
 David followed Sheila to the Philippines, where she lived with her mother, her father and her son Jhonreil. The season ended with Sheila accepting David's proposal.
 
 ============================================================
-[30] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
+[33] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
 Source: CinemaBlend | Status: expanded | Words: 208
 Published: 2026-11-22T16:34:44+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-david-dangerfield-spoke-out-former-fiance-sheila-mangubat-died
@@ -809,7 +895,7 @@ Further details about Shelia's passing arrived via 90 Day insider Shabooty , who
 90 Day Fiancé fans may remember David (who is deaf) finding love with Sheila and traveling to see if a life together was possible. Almost immediately, they were hit with tragedy, as her mother died after falling down a stairwell just hours after his arrival. Because of the tragedy, David and Sheila arguably weren't in the right mindset to really explore a future relationship and talk about the possibility of her being an eventual father to her son, Jhonreil.
 
 ============================================================
-[31] 5 Marvel Teams That Deserve a Comeback More Than Ever
+[34] 5 Marvel Teams That Deserve a Comeback More Than Ever
 Source: ComicBook.com | Status: expanded | Words: 1332
 Published: 2026-11-22T16:19:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-teams-that-deserve-a-comeback-more-than-ever
@@ -849,7 +935,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
+[35] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
 Source: Variety | Status: expanded | Words: 1059
 Published: 2026-11-22T16:16:28+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061
@@ -887,7 +973,7 @@ In limited release, the Focus Features drama "Elsinore" earned $240,000 from six
 "This is a very good weekend," Gross says. "The weekend before Thanksgiving sets up 10 very strong days. Moviegoing is back on track."
 
 ============================================================
-[33] Netflix's One Piece Season 3 Readies for Launch With Behind-the-Scenes Teases
+[36] Netflix's One Piece Season 3 Readies for Launch With Behind-the-Scenes Teases
 Source: ComicBook.com | Status: expanded | Words: 606
 Published: 2026-11-22T16:06:12+00:00
 URL: https://comicbook.com/anime/news/netflixs-one-piece-season-3-readies-for-launch-with-new-behind-the-scenes-teases
@@ -913,7 +999,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Remaster of Entire PS1 Trilogy Now Available for $2.54
+[37] Remaster of Entire PS1 Trilogy Now Available for $2.54
 Source: ComicBook.com | Status: expanded | Words: 517
 Published: 2026-11-22T16:05:42+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-steam-games-trilogy-sale-tomb-raider
@@ -941,7 +1027,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
+[38] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
 Source: CinemaBlend | Status: expanded | Words: 238
 Published: 2026-11-22T16:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/netflix-the-body-isnt-like-catholic-school-experience-gives-flashbacks
@@ -959,7 +1045,7 @@ I also think The Body does a great job of handling what goes down when something
 Like the kids in The Body , a number of kids attending were from families of some renown. Families were willing to keep quiet about events occurring to protect their children, and the school was eager to let any controversy fade as quickly as possible.
 
 ============================================================
-[36] Wait, How Many People Left Can Actually Win Survivor 51?
+[39] Wait, How Many People Left Can Actually Win Survivor 51?
 Source: CinemaBlend | Status: expanded | Words: 294
 Published: 2026-11-22T16:03:28+00:00
 URL: https://www.cinemablend.com/television/survivor-51-possible-winners-jelly-sharonda-devin-carter
@@ -975,7 +1061,7 @@ I’m not saying the person who wins every season is the person with the most co
 Mike and Eric have been much more present parts of the edit, but their storylines have both been about how much everyone else is annoyed with them. Eric has been getting a wacky theater kid edit that has included multiple montages of him talking and everyone else being annoyed by it . There have maybe been ten shots of characters literally rolling their eyes after he talks. Mike is a different version of the same situation. He’s been the subject of numerous confessionals from other players about how he’s a “bottom feeder” and impossible to work with. I don’t see why Survivor would portray its winner that way.
 
 ============================================================
-[37] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
+[40] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
 Source: ComicBook.com | Status: expanded | Words: 1224
 Published: 2026-11-22T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/two-different-xbox-consoles-released-on-the-same-day-but-their-impacts-couldnt-be-more-different
@@ -1013,7 +1099,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
+[41] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-22T15:38:38+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-series-officially-ends-after-6-years-with-final-release
@@ -1039,7 +1125,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
+[42] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
 Source: ComicBook.com | Status: expanded | Words: 1164
 Published: 2026-11-22T15:37:00+00:00
 URL: https://comicbook.com/movies/list/5-animated-movies-that-struggled-because-everyone-thought-they-were-just-for-kids
@@ -1077,7 +1163,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
+[43] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T15:28:37+00:00
 URL: https://comicbook.com/gaming/news/gta-6-red-dead-redemption-2-abigail-roberts
@@ -1103,7 +1189,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
+[44] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
 Source: CinemaBlend | Status: expanded | Words: 441
 Published: 2026-11-22T15:27:15+00:00
 URL: https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts
@@ -1127,7 +1213,7 @@ After Columbus directed 1990's Home Alone and 1992's Home Alone 2: Lost in New Y
 As for the new project, there's an interesting idea on the table. During a fan event in 2025, Culkin floated a potential sequel in which an adult Kevin is raising a son who locks him out of the house and turns his father's old tricks against him. Reports suggest the film could follow Kevin's perspective as a dad, although no final story or additional casting has been confirmed.
 
 ============================================================
-[42] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
+[45] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
 Source: Variety | Status: expanded | Words: 595
 Published: 2026-11-22T15:02:50+00:00
 URL: https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267
@@ -1159,7 +1245,7 @@ Harari is on hand at the Marrakech Film Festival as part of its popular Conversa
 The Marrakech Film Festival runs Nov. 20&#x2013;28.
 
 ============================================================
-[43] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
+[46] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
 Source: ComicBook.com | Status: expanded | Words: 1041
 Published: 2026-11-22T15:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-how-to-improve-your-health-stats-fast-explained
@@ -1195,7 +1281,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
+[47] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
 Source: ComicBook.com | Status: expanded | Words: 1154
 Published: 2026-11-22T14:56:00+00:00
 URL: https://comicbook.com/comics/feature/if-dc-studios-want-family-friendly-superheroes-the-original-super-team-is-ready-for-their-close-up
@@ -1231,7 +1317,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
+[48] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
 Source: CinemaBlend | Status: expanded | Words: 328
 Published: 2026-11-22T14:55:13+00:00
 URL: https://www.cinemablend.com/television/sweet-way-miley-cyrus-paid-tribute-dolly-parton-during-wedding-ceremony
@@ -1249,7 +1335,7 @@ Miley Cyrus also paid tribute to her “Aunt Dolly” on multiple occasions, eve
 Congratulations are definitely in order for Miley Cyrus and Maxx Morando, and here’s wishing them a lifetime of happiness. Personally, I’d like to think that’s what Dolly Parton would want for them as well. And, while the beloved singer was not present at the ceremony, I’m glad she was able to be a small part of it in some way.
 
 ============================================================
-[46] $70 PS5 Game Now Available for $7
+[49] $70 PS5 Game Now Available for $7
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T14:48:27+00:00
 URL: https://comicbook.com/gaming/news/ps5-game-sale-playstation-store-dead-space
@@ -1275,7 +1361,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
+[50] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1157
 Published: 2026-11-22T14:25:29+00:00
 URL: https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265
@@ -1323,86 +1409,4 @@ Sikhya, a Jio Studios company, has backed titles including "The Lunchbox," "Masa
 For now, Jigmet is busy with the short's Oscar campaign. "But I'm also developing a feature version of 'The Dragon Letter.' That's the plan," he says.
 
 Jigmet is currently attending the WAVES Film Bazaar , the market component of the International Film Festival of India in Goa.
-
-============================================================
-[48] Crunchyroll's Darkest Fall 2026 Anime Has Become the Perfect Zombie Anime
-Source: ComicBook.com | Status: expanded | Words: 596
-Published: 2026-11-22T14:17:00+00:00
-URL: https://comicbook.com/anime/feature/crunchyrolls-darkest-fall-2026-anime-has-become-the-perfect-zombie-anime
-------------------------------------------------------------
-SUMMARY:
-Image courtesy of 100studio Crunchyroll's darkest anime of Fall 2026 has become a zombie anime with the ideal setup, complementing the series' premise and making it even spookier and scarier. The zombie genre is famous across all forms of media, regardless of how it is presented. Many popular zombie anime have incorporated the genre as a comedic element. While […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Crunchyroll 's darkest anime of Fall 2026 has become a zombie anime with the ideal setup, complementing the series' premise and making it even spookier and scarier. The zombie genre is famous across all forms of media, regardless of how it is presented. Many popular zombie anime have incorporated the genre as a comedic element. While they still feature spooky and scary elements, what the darkest anime of Fall 2026 is doing is arguably among the scariest portrayals yet. The Vermilion Mask emerged as a spooky anime thanks to its intriguing premise, in which a mask's type determines the powers of its wearer.
-
-The series has deliberately portrayed the masks' powers as dark and unsettling, establishing the anime's overall tone. Now, in the latest episode, The Vermilion Mask Episode 7, the series has introduced a mask user with arguably one of the most terrifying powers, elevating its horror elements even further. It introduces the Mask of Necromancy, which allows its user to control the dead, as its name suggests. However, the new villain is not simply another mask user but also has a devastating plan, unleashing an apocalyptic zombie outbreak that transforms The Vermilion Mask into a zombie survival action thriller with horror elements .
-
-The Vermilion Mask Episode 7, titled "The Mask of Necromancy," introduces a new character named Rinne, who strangely first appears in Peru's dream before being revealed as the leader of the cult that worships the legendary mask maker Gaston. However, the episode later delivers a surprising revelation: Rinne is the user of the Mask of Necromancy, which is unveiled alongside two more striking details. The first is that this mask has a threat level of four, the same as the Mask of the Warrior God. While this alone is enough to shake Peru and his allies' confidence in how they would deal with it, the second detail reveals that Rinne is the master of this mask.
-
-This means that Rinne and the mask share the same thoughts and desires, with both seeking the same goal: the destruction of humanity. It is now evident that, through the Mask of Necromancy, Rinne plans to gain control over the dead, with the mask also possessing the strange ability to manipulate living humans, as seen with Akane, a woman somehow connected to Peru's childhood. The setup for a horror scenario goes beyond what the series' previous arcs have presented, and with several other elements in play, this new arc has the potential to become the perfect zombie anime .
-
-While the dead coming back to life and attempting to recruit others into their cult is one of the fun elements that gives the series a zombie-like presence, the introduction of Mok Sharib adds another layer. Despite possessing a spooky mask ability that makes him seem like a ghost, he is comically afraid of zombies and ghosts, adding a much-needed element of humor to the series. All in all, The Vermilion Mask has been doing exceptionally well with each arc, and the newest one introduces a zombie premise that perfectly complements the series' overall vibe. Crunchyroll's darkest anime of Fall 2026 has transformed into something incredibly versatile , making it a series that everyone should definitely be watching.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Before Doomsday, I Haven't Forgotten Marvel's Dirtiest Trick With Avengers: Infinity War
-Source: ComicBook.com | Status: expanded | Words: 794
-Published: 2026-11-22T14:11:00+00:00
-URL: https://comicbook.com/movies/feature/before-doomsday-i-havent-forgotten-marvels-dirtiest-trick-with-avengers-infinity-war
-------------------------------------------------------------
-SUMMARY:
-Avengers: Doomsday is just around the corner, and I can't wait for the first half of the Multiverse Saga's epic two-part conclusion. Doomsday and Secret Wars will wrap up the last few years of the MCU, and if Doomsday is anything like its Infinity Saga equivalent, Avengers: Infinity War, I'm prepared for the film to […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Avengers: Doomsday is just around the corner, and I can't wait for the first half of the Multiverse Saga's epic two-part conclusion. Doomsday and Secret Wars will wrap up the last few years of the MCU, and if Doomsday is anything like its Infinity Saga equivalent, Avengers: Infinity War , I'm prepared for the film to be a tragedy .
-
-However, this may not be the only parallel that Doomsday has with Infinity War . After all, I still remember the MCU's dirtiest Infinity War trick, and if Marvel Studios does the same thing this time around, I'll know that I can't trust them ever again.
-
-Avengers: Infinity War was one of the most exciting movies ever made, and there was no stopping the hype train during the lead-up to its release. Thanos had been built up as the MCU's big bad since 2012's The Avengers , and the 2018 crossover film was finally set to properly show off the villain for the first time. The film was sure to be full of major firsts for the franchise, such as the Guardians of the Galaxy finally meeting the Avengers. The marketing for the film knew how to get fans excited, highlighting how everything had been building up to this.
-
-However, when Infinity War finally hit theaters, I and many other fans realized that the marketing for the film was a bit deceptive. Multiple elements from the trailers were not included in the final film, something that isn't uncommon. For example, the Thanos line “Fun isn’t something one considers when balancing the universe, but this does put a smile on my face,” doesn't appear in the movie, as it was replaced by another line during post-production.
-
-As it turns out, though, one shot was entirely invented for the trailer. A hero shot shows Captain America, Hulk, Black Panther , and several other characters running directly at the camera, presumably during the Battle of Wakanda. However, Hulk had already stopped coming out at this point. The Russos have since confirmed that the hero shot was created solely for marketing purposes and was presumably designed to mislead fans (via Collider ). Considering that this was one of the most epic shots from the trailer, its exclusion from the final film was a bit disappointing for fans. After all, we didn't know that it was a fake shot at the time.
-
-Marvel Studios has tampered with trailer footage multiple times since Infinity War , hiding characters and other elements in order to keep surprises safe for the final film. This is a good thing, as the amount of marketing materials that blockbusters of this scale require means that a good chunk of each movie's footage would have to be released ahead of time. So, in order to keep surprise heroes and story beats secret, Marvel needs to trick fans occasionally.
-
-However, this does mean that we need to remember that MCU trailer footage can't be trusted. Avengers: Doomsday 's trailers have shown a surprising amount of footage in the lead-up to the film. While we don't know much about the story, we have seen an Avengers vs. X-Men fight, Thor fighting Doom, the return of Sentinels, the confirmation of multiple incursions, and so much more. These elements seem like way too much to reveal ahead of time, even if Doomsday has other secrets in store.
-
-It is entirely possible that any of these moments are fake, whether they be shots entirely created for the trailer or shots that have been altered for marketing purposes. Characters could be hidden, settings could be changed, and shots could be invented. While it is likely that some of Doomsday 's trailer footage is real, it is also likely that all of it isn't.
-
-We won't know what's real and what's fake in Doomsday 's trailers until the film hits theaters, and it'll be interesting to analyze the film's marketing in retrospect. Marvel Studios has had years to perfect the art of hooking audience members without giving too much away, and hopefully they have found the perfect balance here. After all, Doomsday has received less narrative buildup than the conclusion of the Infinity Saga did. Thus, Marvel has to convince old viewers to come back while still keeping enough surprises to make the viewing experience worth it.
-
-What Avengers: Doomsday trailer shots do you think are fake? Let us know on the ComicBook Forum !
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] New Free Nintendo Switch Game Now Available on the eShop
-Source: ComicBook.com | Status: expanded | Words: 457
-Published: 2026-11-22T14:09:35+00:00
-URL: https://comicbook.com/gaming/news/nintendo-switch-game-free-eshop-geo-book
-------------------------------------------------------------
-SUMMARY:
-A new, free Nintendo Switch game has been released on the Nintendo eShop. It's not common for free games to be released on the eShop, and when it does happen, it's usually a free-to-play game stuffed with microtransactions or the biggest shovelware game in the history of shovelware. This new free Nintendo Switch game is […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A new, free Nintendo Switch game has been released on the Nintendo eShop. It's not common for free games to be released on the eShop, and when it does happen, it's usually a free-to-play game stuffed with microtransactions or the biggest shovelware game in the history of shovelware. This new free Nintendo Switch game is nothing special, but it doesn't fall into these two categories. That said, it is worth noting that there is no Nintendo Switch 2 version of the game, so those on the newer Nintendo console will have to settle for playing the Switch version via backward compatibility.
-
-The new free Nintendo Switch game just released on the Nintendo eShop is a new geography game from developer QubicGames called Geo Book . It's unclear what Nintendo users think of it so far because the Nintendo eShop does not have user reviews. The game is also on PS5, though, and the PlayStation Store does have user reviews. And its user reviews on the PlayStation Store aren't amazing, but they aren't bad either. To this end, it has 151 user reviews so far from PS5 users, with a score of 3.58 out of 5 stars. On a 100-point scale, this is a semi-decent score of 72. Across these 151 user reviews, the most common review is a 5/5, with 55% of the share. The second most common is 1/5, though, with 26% of the share.
-
-It is worth noting that while the new Nintendo Switch game is available for free, there is a premium version that expands upon the game.
-
-For those interested in the free Nintendo Switch game, it is pitched as a geography game that turns exploring the world into a fun adventure. In it, you will explore across the world's continents, discover fascinating locations, and challenge your memory. Obviously, a knowledge of geography will also be put to the test across various mini-games.
-
-It's a free game, so obviously it's not incredible, but for those on a budget who also enjoy geography, it's worth looking into. Those with a little bit of change to spare, meanwhile, will find an $80 Nintendo Switch game discounted on the Nintendo eShop to just $8 , thanks to a massive 90% discount that is live until next month. Meanwhile, to go with this free game is a new promotion directly from Nintendo for some free Nintendo Switch Online .
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
