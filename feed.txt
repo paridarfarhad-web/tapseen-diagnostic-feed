@@ -1,9 +1,87 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-22T16:50:21.448Z
+Last Updated: 2026-11-22T16:56:19.939Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
+[1] Joe Russo Talks 'Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans"
+Source: Deadline | Status: expanded | Words: 1248
+Published: 2026-11-22T16:54:33+00:00
+URL: https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111
+------------------------------------------------------------
+SUMMARY:
+Expectations that a new Avengers: Doomsday teaser or trailer is imminent have hit fever pitch over the weekend following cast member Hayley Atwell’s omission while signing autographs in New York that it is dropping on Monday (November 23). “There’s a new trailer dropping on Monday… am I allowed to have said that?” Atwell, who returns […]
+
+CONTENT / EXTRACTED DETAILS:
+Expectations that a new Avengers: Doomsday teaser or trailer is imminent have hit fever pitch over the weekend following cast member Hayley Atwell&#x2019;s omission while signing autographs in New York that it is dropping on Monday (November 23).
+
+&#x201C;There&#x2019;s a new trailer dropping on Monday&#x2026; am I allowed to have said that?&#x201D; Atwell, who returns to the franchise as Peggy Carter, told fans on Friday night.
+
+Disney has also announced a sneak peek for November 30 during The Wonderful World of Disney: Holiday Spectacular on ABC, but this is believed to be a different tease. Related Stories News Watermelon Expands Production Ambitions As It Seals Partnership With Qatar's Film Committee News Egyptian Music Star Mohamed Mounir Gets Biopic - Doha Industry Days
+
+A few hours prior to Atwell&#x2019;s omission, some 7,000 miles away in Qatar, co-director Joe Russo had also hinted at fresh drops before the picture&#x2019;s opening by Disney on December 18, telling fans to keep checking their feeds. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Talking in a fireside chat at the Qatar Film Committee &#x2019;s second Doha Industry Days, Russo explained that the four teasers, preceding an official trailer this summer, had played an integral role in the final version of the film.
+
+He said it had been a way to connect with the fans, which was essential because the audience landscape had changed so much since Avengers: Infinity War and Avengers: Endgame in 2018 and 2019 respectively.
+
+&#x201C;I have to work extra hard to subvert your expectations and be aware of who you are as a viewer and how you&#x2019;re changing,&#x201D; said Russo.
+
+&#x201C;The last time I did this, in 2018, 2019, is very different than now because we've been through a pandemic; lots of people spent a lot of time on social media. Movies saw a tremendous downturn, streaming saw a tremendous upturn, and now that all seems to be reversing. So, it shifts constantly,&#x201D; he said. &#x201C;You have to be a futurist to try to predict where the market is going.&#x201D;
+
+&#x201C;I have to interact with the fans in order to understand what is moving them, what is working for them,&#x201D; he said. "What we've been doing with Doomsday is very different than the last time we did this because the speed of conversation on the internet is even faster than it was in 2018, 2019." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+&#x201C;I had this idea, why don't we start the story a year early? Why don't we start dropping clues in the year leading up to the movie&#x2026; we did four trailers that were sprinkled out,&#x201D; he continued.
+
+Kicking off on December 23, 2025, the first trailer showing Steve Rogers (Chris Evans) returning home, unpacking his Captain America suit, and holding a baby. A teaser on November 30 showed Thor (Chris Hemsworth) praying to Odin for strength. This was followed onJanuary 6 2026 drop featuring the X-Men and a January 13 teaser, featuring the Wakandans and Fantastic Four.
+
+&#x201C;We've done a series of tags around the characters because the story actually started in January of last year, and you've been watching it slowly unfold and these are all pieces of something that are going to equal two and a half hours of your time on December 18,&#x201D; he said.
+
+&#x201C;It's slowly investing them [fans] emotionally. But I'm also getting feedback as that's happening and we can make adjustments as we go, based on what people are tracking or not tracking,&#x201D; he continued.
+
+&#x201C;It&#x2019;s a very complicated story also, so I have to make sure that they're following each little crumb we give them. If they get the wrong thing from it, then I have to make adjustments, knowing that they might have the wrong idea about it.&#x201D;
+
+Talking about his return to the Avengers franchise alongside brother Anthony Russo, Joe Russo said he had been reluctant at first because of the immense challenge of pulling off a Marvel movie at that scale.
+
+He credited Robert Downey Jr., who played Tony Stark/Iron Man in Avengers: Endgame , with planting the seed for a return to the franchise, with his revelation that he was down to play Victor von Doom/Doctor Doom.
+
+&#x201C;He's a very dear friend of mine, but I also think he's the greatest actor of his generation. This is a supremely talented, charismatic human being. And he translates incredibly well on a global scale. There's something about the nature of his performance that translates,&#x201D; said Russo.
+
+&#x201C;There's a style that belongs to these films that allows them to work in every market around the world. He just embodies that,&#x201D; he said.
+
+Russo said Robert had gently enquired whether he was up for coming back to the Avengers franchise over dinner a couple of years ago.
+
+&#x201C;I was still recovering from Infinity Wars and Endgame . And I was hesitant&#x2026; he's smart, he doesn't push too much, he just kind of dropped the idea on the table and let it sit there, and then after dinner, he brought it up again, and I was like, &#x2018;I don't think I could do it, I'm still too tired.&#x2019; And then this festered for a little bit. And he didn't even really tell me what he was going to do going back,&#x201D; recall Russo.
+
+&#x201C;And then another conversation happened where he said, &#x2018;You know, I'm going to play Doom'. And I said, &#x2018;That's a really clever idea&#x201D;. I can see a corollary there. There are thematics, greatest hero, greatest villain. There's a multiverse. There's a reason for being. There's a compelling idea there. And I went, &#x2018;Well, of course, who else could play the greatest villain other than you.&#x201D;
+
+&#x201C;It started to simmer in my brain a little bit. But we didn't have a story. You can't just show up with an empty canvas, so I still said no."
+
+Russo credited longtime collaborator, screenwriter Steve McFeely, with coming up with the premise that gave a way in to writing Doomsday , after they had been pitching ideas back and forth. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+&#x201C;Steve McFeely called me and said, &#x2018;I have a crazy idea about how this works&#x2026; what would happen if you left the cameras rolling at the end of Endgame ? What&#x2019;s the very next scene that happens,&#x201D; recounted Russo.
+
+&#x201C;I said, &#x201C;That's really risky for a movie that had the level of success it did. You&#x2019;re going to impact people's emotional investment in it&#x2026; this could blow up in your face,&#x2019; and then I went, &#x2018;I love it&#x2019;,&#x201D; he continued.
+
+&#x201C;The concept was like that's a very happy ending for one character. And what if happiness is finite, and what if you have to take happiness from someone else to create your own happiness… What happens in that story? That&#x2019;s where I went, &#x2018;Right, I know what to do with this.&#x201D; The idea that like there was a cost to a happy ending."
+
+============================================================
+[2] The Hunger Games Prequel Just Put Up A Huge Number At The Box Office
+Source: CinemaBlend | Status: expanded | Words: 209
+Published: 2026-11-22T16:52:01+00:00
+URL: https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky
+------------------------------------------------------------
+SUMMARY:
+The Hunger Games is back in a big way.
+
+CONTENT / EXTRACTED DETAILS:
+We all knew The Hunger Games : Sunrise On The Reaping was going to open to a big number this weekend, but exactly what big meant was unclear. Experts seemed cautiously optimistic it would be over one hundred million dollars at the domestic box office, but it turns out that caution wasn’t needed. Hunger Games not only made $100M, it blew past $100M.
+
+You can check out the full top ten from the weekend, as per The Numbers . Those figures notably include a decent opening for I Play Rocky considering its budget and a fine enough hold for Johnny Depp ’s Ebenezer , which reminded everyone he’s still a bankable star last weekend…
+
+I’ll get to the other movies in a bit, but before that, we need to talk about Sunrise On The Reaping a little bit more. The four initial Hunger Games movies, which were released between 2012 and 2015 all grossed between $650M and $900M at the worldwide box office. They were also collectively a major pop culture force that came up regularly in casual conversation. Unfortunately, 2023’s Ballad Of Songbirds & Snakes , which follows the story of President Snow prior to gaining power, didn’t have the same appeal and grossed less than $350M worldwide.
+
+============================================================
+[3] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-22T16:48:56+00:00
 URL: https://comicbook.com/gaming/news/is-gta-6-being-purposely-review-bombed-new-player-poll-has-a-very-clear-answer
@@ -29,13 +107,13 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
+[4] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
 Source: The Hollywood Reporter | Status: expanded | Words: 574
 Published: 2026-11-22T16:45:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660
 ------------------------------------------------------------
 SUMMARY:
-He spent nearly 30 years with the sports network, often teaming with Chris Berman: “We’ve lost one of the best human beings ever to walk the planet.”
+He spent nearly 30 years with the network, often teaming with Chris Berman: “We’ve lost one of the best human beings ever to walk the planet.”
 
 CONTENT / EXTRACTED DETAILS:
 Tom Jackson, who parlayed a 14-season stint as a stalwart linebacker on the Denver Broncos&#x2019; famed &#x201C;Orange Crush&#x201D; defense into a career as a popular football analyst on ESPN , has died. He was 75.
@@ -69,7 +147,7 @@ He often said that he had been &#x201C;blessed to work for two companies in my l
 Survivors include his wife, Jennifer, and his daughters, Taylor and Morgan.
 
 ============================================================
-[3] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
+[5] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-22T16:43:18+00:00
 URL: https://comicbook.com/anime/news/after-15-years-surprise-action-series-confirms-return-with-new-anime-revival
@@ -95,7 +173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
+[6] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
 Source: Deadline | Status: expanded | Words: 236
 Published: 2026-11-22T16:41:07+00:00
 URL: https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163
@@ -115,7 +193,7 @@ In 2023, Sheila and David appeared on Season 6 of Before the 90 Days , having me
 David followed Sheila to the Philippines, where she lived with her mother, her father and her son Jhonreil. The season ended with Sheila accepting David's proposal.
 
 ============================================================
-[5] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
+[7] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
 Source: CinemaBlend | Status: expanded | Words: 208
 Published: 2026-11-22T16:34:44+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-david-dangerfield-spoke-out-former-fiance-sheila-mangubat-died
@@ -131,7 +209,7 @@ Further details about Shelia's passing arrived via 90 Day insider Shabooty , who
 90 Day Fiancé fans may remember David (who is deaf) finding love with Sheila and traveling to see if a life together was possible. Almost immediately, they were hit with tragedy, as her mother died after falling down a stairwell just hours after his arrival. Because of the tragedy, David and Sheila arguably weren't in the right mindset to really explore a future relationship and talk about the possibility of her being an eventual father to her son, Jhonreil.
 
 ============================================================
-[6] 5 Marvel Teams That Deserve a Comeback More Than Ever
+[8] 5 Marvel Teams That Deserve a Comeback More Than Ever
 Source: ComicBook.com | Status: expanded | Words: 1332
 Published: 2026-11-22T16:19:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-teams-that-deserve-a-comeback-more-than-ever
@@ -171,7 +249,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
+[9] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
 Source: Variety | Status: expanded | Words: 1059
 Published: 2026-11-22T16:16:28+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061
@@ -209,7 +287,7 @@ In limited release, the Focus Features drama "Elsinore" earned $240,000 from six
 "This is a very good weekend," Gross says. "The weekend before Thanksgiving sets up 10 very strong days. Moviegoing is back on track."
 
 ============================================================
-[8] Netflix's One Piece Season 3 Readies for Launch With New Behind-the-Scenes Teases
+[10] Netflix's One Piece Season 3 Readies for Launch With Behind-the-Scenes Teases
 Source: ComicBook.com | Status: expanded | Words: 606
 Published: 2026-11-22T16:06:12+00:00
 URL: https://comicbook.com/anime/news/netflixs-one-piece-season-3-readies-for-launch-with-new-behind-the-scenes-teases
@@ -235,7 +313,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Remaster of Entire PS1 Trilogy Now Available for $2.54
+[11] Remaster of Entire PS1 Trilogy Now Available for $2.54
 Source: ComicBook.com | Status: expanded | Words: 517
 Published: 2026-11-22T16:05:42+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-steam-games-trilogy-sale-tomb-raider
@@ -263,7 +341,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
+[12] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
 Source: CinemaBlend | Status: expanded | Words: 238
 Published: 2026-11-22T16:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/netflix-the-body-isnt-like-catholic-school-experience-gives-flashbacks
@@ -281,7 +359,7 @@ I also think The Body does a great job of handling what goes down when something
 Like the kids in The Body , a number of kids attending were from families of some renown. Families were willing to keep quiet about events occurring to protect their children, and the school was eager to let any controversy fade as quickly as possible.
 
 ============================================================
-[11] Wait, How Many People Left Can Actually Win Survivor 51?
+[13] Wait, How Many People Left Can Actually Win Survivor 51?
 Source: CinemaBlend | Status: expanded | Words: 294
 Published: 2026-11-22T16:03:28+00:00
 URL: https://www.cinemablend.com/television/survivor-51-possible-winners-jelly-sharonda-devin-carter
@@ -297,7 +375,7 @@ I’m not saying the person who wins every season is the person with the most co
 Mike and Eric have been much more present parts of the edit, but their storylines have both been about how much everyone else is annoyed with them. Eric has been getting a wacky theater kid edit that has included multiple montages of him talking and everyone else being annoyed by it . There have maybe been ten shots of characters literally rolling their eyes after he talks. Mike is a different version of the same situation. He’s been the subject of numerous confessionals from other players about how he’s a “bottom feeder” and impossible to work with. I don’t see why Survivor would portray its winner that way.
 
 ============================================================
-[12] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
+[14] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
 Source: ComicBook.com | Status: expanded | Words: 1224
 Published: 2026-11-22T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/two-different-xbox-consoles-released-on-the-same-day-but-their-impacts-couldnt-be-more-different
@@ -335,7 +413,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
+[15] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-22T15:38:38+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-series-officially-ends-after-6-years-with-final-release
@@ -361,7 +439,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
+[16] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
 Source: ComicBook.com | Status: expanded | Words: 1164
 Published: 2026-11-22T15:37:00+00:00
 URL: https://comicbook.com/movies/list/5-animated-movies-that-struggled-because-everyone-thought-they-were-just-for-kids
@@ -399,7 +477,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
+[17] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T15:28:37+00:00
 URL: https://comicbook.com/gaming/news/gta-6-red-dead-redemption-2-abigail-roberts
@@ -425,7 +503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
+[18] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
 Source: CinemaBlend | Status: expanded | Words: 441
 Published: 2026-11-22T15:27:15+00:00
 URL: https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts
@@ -449,7 +527,7 @@ After Columbus directed 1990's Home Alone and 1992's Home Alone 2: Lost in New Y
 As for the new project, there's an interesting idea on the table. During a fan event in 2025, Culkin floated a potential sequel in which an adult Kevin is raising a son who locks him out of the house and turns his father's old tricks against him. Reports suggest the film could follow Kevin's perspective as a dad, although no final story or additional casting has been confirmed.
 
 ============================================================
-[17] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
+[19] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
 Source: Variety | Status: expanded | Words: 595
 Published: 2026-11-22T15:02:50+00:00
 URL: https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267
@@ -481,7 +559,7 @@ Harari is on hand at the Marrakech Film Festival as part of its popular Conversa
 The Marrakech Film Festival runs Nov. 20&#x2013;28.
 
 ============================================================
-[18] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
+[20] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
 Source: ComicBook.com | Status: expanded | Words: 1041
 Published: 2026-11-22T15:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-how-to-improve-your-health-stats-fast-explained
@@ -517,7 +595,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
+[21] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
 Source: ComicBook.com | Status: expanded | Words: 1154
 Published: 2026-11-22T14:56:00+00:00
 URL: https://comicbook.com/comics/feature/if-dc-studios-want-family-friendly-superheroes-the-original-super-team-is-ready-for-their-close-up
@@ -553,7 +631,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
+[22] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
 Source: CinemaBlend | Status: expanded | Words: 328
 Published: 2026-11-22T14:55:13+00:00
 URL: https://www.cinemablend.com/television/sweet-way-miley-cyrus-paid-tribute-dolly-parton-during-wedding-ceremony
@@ -571,7 +649,7 @@ Miley Cyrus also paid tribute to her “Aunt Dolly” on multiple occasions, eve
 Congratulations are definitely in order for Miley Cyrus and Maxx Morando, and here’s wishing them a lifetime of happiness. Personally, I’d like to think that’s what Dolly Parton would want for them as well. And, while the beloved singer was not present at the ceremony, I’m glad she was able to be a small part of it in some way.
 
 ============================================================
-[21] $70 PS5 Game Now Available for $7
+[23] $70 PS5 Game Now Available for $7
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T14:48:27+00:00
 URL: https://comicbook.com/gaming/news/ps5-game-sale-playstation-store-dead-space
@@ -597,7 +675,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
+[24] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1157
 Published: 2026-11-22T14:25:29+00:00
 URL: https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265
@@ -647,7 +725,7 @@ For now, Jigmet is busy with the short's Oscar campaign. "But I'm also developin
 Jigmet is currently attending the WAVES Film Bazaar , the market component of the International Film Festival of India in Goa.
 
 ============================================================
-[23] Crunchyroll's Darkest Fall 2026 Anime Has Become the Perfect Zombie Anime
+[25] Crunchyroll's Darkest Fall 2026 Anime Has Become the Perfect Zombie Anime
 Source: ComicBook.com | Status: expanded | Words: 596
 Published: 2026-11-22T14:17:00+00:00
 URL: https://comicbook.com/anime/feature/crunchyrolls-darkest-fall-2026-anime-has-become-the-perfect-zombie-anime
@@ -671,7 +749,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Before Doomsday, I Haven't Forgotten Marvel's Dirtiest Trick With Avengers: Infinity War
+[26] Before Doomsday, I Haven't Forgotten Marvel's Dirtiest Trick With Avengers: Infinity War
 Source: ComicBook.com | Status: expanded | Words: 794
 Published: 2026-11-22T14:11:00+00:00
 URL: https://comicbook.com/movies/feature/before-doomsday-i-havent-forgotten-marvels-dirtiest-trick-with-avengers-infinity-war
@@ -705,7 +783,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] New Free Nintendo Switch Game Now Available on the eShop
+[27] New Free Nintendo Switch Game Now Available on the eShop
 Source: ComicBook.com | Status: expanded | Words: 457
 Published: 2026-11-22T14:09:35+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-game-free-eshop-geo-book
@@ -729,7 +807,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast
+[28] SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-22T14:02:08+00:00
 URL: https://www.cinemablend.com/television/snl-fans-ashley-padilla-push-build-around
@@ -745,7 +823,7 @@ That’s not just the eyetest either. The Saturday Night Network released its ta
 Now, to be clear, this is in no way an indictment of Padilla or an accusation that she’s anything less than brilliant. I think this season has been another step forward for her. Despite trailing in total sketches, she’s actually first in total screentime and has had quite a few buzzy moments already. She’s just as terrific as ever and will almost certainly continue to be one of the main characters, but it’s worth acknowledging that everyone else is getting a chance to eat too .
 
 ============================================================
-[27] 5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place
+[29] 5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place
 Source: CinemaBlend | Status: expanded | Words: 627
 Published: 2026-11-22T14:00:00+00:00
 URL: https://www.cinemablend.com/streaming-news/great-sci-fi-movies-this-century-streaming-one-place
@@ -771,7 +849,7 @@ While most of the movies on this list come with a rather serious tone, I'd be re
 Of course, if you want to make a Tom Cruise sci-fi trilogy out of your day, you can do just that, as Paramount+ also has Spielberg's War of the Worlds available streaming . While many would agree that Amazon's recent book-to-screen adaptation of H.G. Wells' sci-fi classic is not good, the 2005 movie starring Cruise and Dakota Fanning holds up rather nicely.
 
 ============================================================
-[28] Grand Theft Auto 6 Has a Chance to Finally Rectify GTA 5’s Greatest Failure
+[30] Grand Theft Auto 6 Has a Chance to Finally Rectify GTA 5’s Greatest Failure
 Source: ComicBook.com | Status: expanded | Words: 988
 Published: 2026-11-22T14:00:00+00:00
 URL: https://comicbook.com/gaming/feature/grand-theft-auto-6-has-a-chance-to-finally-rectify-gta-5s-greatest-failure
@@ -807,7 +885,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory
+[31] I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory
 Source: CinemaBlend | Status: expanded | Words: 270
 Published: 2026-11-22T13:55:31+00:00
 URL: https://www.cinemablend.com/television/reason-young-sheldon-wasnt-filmed-before-live-audience-like-the-big-bang-theory
@@ -823,7 +901,7 @@ So, apparently, Lorre, along with co-showrunners Steven Molaro and Steve Holland
 I’d imagine that for an actor of any age it can be a little daunting to act in front of a live audience, and doing so is also tedious. Based on Lorre’s sentiments, I imagine that was his thinking in regard to choosing the format for YS. Plenty of current and former child actors (including many still working today) have, of course, given excellent performances on multi-camera sitcoms. Still, I can definitely understand how working with young performers in a more controlled environment would be easier for them and the crew.
 
 ============================================================
-[30] Why Gen Z Is Claiming Robert Pattinson As Their James Bond
+[32] Why Gen Z Is Claiming Robert Pattinson As Their James Bond
 Source: CinemaBlend | Status: expanded | Words: 325
 Published: 2026-11-22T13:37:48+00:00
 URL: https://www.cinemablend.com/movies/why-gen-z-claiming-robert-pattinson-as-their-james-bond
@@ -845,7 +923,7 @@ This actually all stems from a single viral moment that happened between Robert 
 The hilarious moment between the A-list stars went completely viral, and Robert Pattinson saying he’s Gen Z has become something of a meme. So, when people say Pattinson is the first Gen Z James Bond, they are literally just referring to this funny video.
 
 ============================================================
-[31] 3 X-Men Villains That Actually Need Their Own Movies in the MCU, Because Fox Wasted Them
+[33] 3 X-Men Villains That Actually Need Their Own Movies in the MCU, Because Fox Wasted Them
 Source: ComicBook.com | Status: expanded | Words: 937
 Published: 2026-11-22T13:29:00+00:00
 URL: https://comicbook.com/comics/list/3-x-men-villains-that-actually-need-their-own-movies-in-the-mcu-because-fox-wasted-them
@@ -877,7 +955,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming
+[34] Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming
 Source: CinemaBlend | Status: expanded | Words: 154
 Published: 2026-11-22T13:07:29+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lawrence-one-complaint-playing-mystique-x-men-wig-surprise-mullet
@@ -893,7 +971,7 @@ Yeah, I didn't see it coming. Nor did I see the next thing out of the actress' m
 I’m truly surprised that Mystique’s “Dog the Bounty Hunter” -ish look was the big complaint the Silver Linings Playbook actress revealed while playing Raven/Mystique. After all, Lawrence once spoke about having to pee in a funnel while wearing a supersuit. That couldn’t have been fun, either. I'm just saying, I guess the whole thing sounds hard.
 
 ============================================================
-[33] Home Alone Director Says a Legacy Sequel Is Impossible Now But Macaulay Culkin Is Making One Anyway
+[35] Home Alone Director Says a Legacy Sequel Is Impossible Now But Macaulay Culkin Is Making One Anyway
 Source: ComicBook.com | Status: expanded | Words: 859
 Published: 2026-11-22T13:03:00+00:00
 URL: https://comicbook.com/movies/news/home-alone-director-says-a-legacy-sequel-is-impossible-now-but-macaulay-culkin-is-making-one-anyway
@@ -923,7 +1001,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] James McAvoy's Forgotten Comic Book Movie Is Secretly One of His Best, And the Cast Is Stacked With Legends
+[36] James McAvoy's Forgotten Comic Book Movie Is Secretly One of His Best, And the Cast Is Stacked With Legends
 Source: ComicBook.com | Status: expanded | Words: 862
 Published: 2026-11-22T12:46:00+00:00
 URL: https://comicbook.com/movies/feature/james-mcavoys-forgotten-comic-book-movie-is-secretly-one-of-his-best-and-the-cast-is-stacked-with-legends
@@ -955,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] James Bond 26: What Denis Villeneuve's Favorite Bond Movies Can Tell Us About His Plans for the Franchise
+[37] James Bond 26: What Denis Villeneuve's Favorite Bond Movies Can Tell Us About His Plans for the Franchise
 Source: ComicBook.com | Status: expanded | Words: 809
 Published: 2026-11-22T12:06:00+00:00
 URL: https://comicbook.com/movies/feature/james-bond-26-what-denis-villeneuves-favorite-bond-movies-can-tell-us-about-his-plans-for-the-franchise
@@ -985,7 +1063,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] One of TV's Weirdest Unsolved Mysteries Happened 39 Years Ago, And Doctor Who Is a Forgotten Piece Of It
+[38] One of TV's Weirdest Unsolved Mysteries Happened 39 Years Ago, And Doctor Who Is a Forgotten Piece Of It
 Source: ComicBook.com | Status: expanded | Words: 842
 Published: 2026-11-22T11:24:00+00:00
 URL: https://comicbook.com/tv-shows/feature/one-of-tvs-weirdest-unsolved-mysteries-happened-39-years-ago-and-doctor-who-is-a-forgotten-piece-of-it
@@ -1013,7 +1091,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Every Marvel Movie That Secretly Set Up Doctor Doom's MCU Arrival, Even If It Wasn’t Planned
+[39] Every Marvel Movie That Secretly Set Up Doctor Doom's MCU Arrival, Even If It Wasn’t Planned
 Source: ComicBook.com | Status: expanded | Words: 983
 Published: 2026-11-22T10:44:00+00:00
 URL: https://comicbook.com/movies/list/every-marvel-movie-that-secretly-set-up-doctor-dooms-mcu-arrival-even-if-it-wasnt-planned
@@ -1053,7 +1131,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] BBC Apologizes After 'Strictly Come Dancing' Is Interrupted By Sex Noises
+[40] BBC Apologizes After 'Strictly Come Dancing' Is Interrupted By Sex Noises
 Source: Deadline | Status: expanded | Words: 465
 Published: 2026-11-22T10:36:00+00:00
 URL: https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116
@@ -1085,7 +1163,7 @@ The former England player looked perplexed by the noise in the studio, joking to
 Lineker later tweeted a picture of a phone, which he said had been taped to the back of the set in an apparent act of sabotage.
 
 ============================================================
-[39] James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’
+[41] James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’
 Source: Variety | Status: expanded | Words: 784
 Published: 2026-11-22T10:15:50+00:00
 URL: https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238
@@ -1125,7 +1203,7 @@ Gray, meanwhile, recalled that he once believed cinema might follow the trajecto
 &#x201C;I have a kind of optimism about the availability of technology and how that will introduce new voices.&#x201D;
 
 ============================================================
-[40] Tim Burton’s Batman Set-Up an Incredible Twist on a Classic DC Villain, But It Took 28 Years to Happen
+[42] Tim Burton’s Batman Set-Up an Incredible Twist on a Classic DC Villain, But It Took 28 Years to Happen
 Source: ComicBook.com | Status: expanded | Words: 905
 Published: 2026-11-22T10:01:00+00:00
 URL: https://comicbook.com/movies/feature/tim-burtons-batman-set-up-an-incredible-twist-on-a-classic-dc-villain-but-it-took-28-years-to-happen
@@ -1159,7 +1237,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] SXSW Forges Partnership With Egypt's UTH Festival Dedicated to Youth Culture
+[43] SXSW Forges Partnership With Egypt's UTH Festival Dedicated to Youth Culture
 Source: Variety | Status: expanded | Words: 562
 Published: 2026-11-22T09:41:26+00:00
 URL: https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220
@@ -1191,7 +1269,7 @@ El Aawar added: "Our partnership with SXSW is about building that bridge, creati
 Pictured above: Omar El Aawar, founder and CEO of UTH (seated left); Peter Lewis, chief commercial officer of SXSW (seated right). DigiSay founder Ahmed Abbas (standing left) and UTH co-founder Ahmed Ragy (standing right).
 
 ============================================================
-[42] Could Succession Get A Spinoff Show? Kieran Culkin Has a Hilariously Blunt Response
+[44] Could Succession Get A Spinoff Show? Kieran Culkin Has a Hilariously Blunt Response
 Source: ComicBook.com | Status: expanded | Words: 570
 Published: 2026-11-22T09:37:26+00:00
 URL: https://comicbook.com/tv-shows/news/could-succession-get-a-spinoff-show-kieran-culkin-has-a-hilariously-blunt-response
@@ -1215,7 +1293,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Neon-Backed Biopic 'Caesar,' About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin
+[45] Neon-Backed Biopic 'Caesar,' About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin
 Source: Variety | Status: expanded | Words: 783
 Published: 2026-11-22T09:28:22+00:00
 URL: https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196
@@ -1259,7 +1337,7 @@ Larocca at the press conference noted that "it is very rare for a film of this n
 The Doha Film Festival's second edition runs Nov. 19-27 in the Qatari capital.
 
 ============================================================
-[44] Before Robert Downey Jr., These 3 Marvel Stars Who Were Never on Set as Their Beloved Characters Either
+[46] Before Robert Downey Jr., These 3 Marvel Stars Who Were Never on Set as Their Beloved Characters Either
 Source: ComicBook.com | Status: expanded | Words: 833
 Published: 2026-11-22T09:18:00+00:00
 URL: https://comicbook.com/movies/list/before-robert-downey-jr-these-3-marvel-stars-who-were-never-on-set-as-their-beloved-characters-either
@@ -1289,7 +1367,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] A Cult '80s Character Had His Final TV Appearance 36 Years Ago, And He Wasn't Officially Back for Decades
+[47] A Cult '80s Character Had His Final TV Appearance 36 Years Ago, And He Wasn't Officially Back for Decades
 Source: ComicBook.com | Status: expanded | Words: 1259
 Published: 2026-11-22T08:33:00+00:00
 URL: https://comicbook.com/movies/list/a-cult-80s-character-had-his-final-tv-appearance-36-years-ago-and-he-wasnt-officially-back-for-decades
@@ -1327,7 +1405,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Katseye Brings Out Camila Cabello for 'Gabriela' Dance at Los Angeles Show
+[48] Katseye Brings Out Camila Cabello for 'Gabriela' Dance at Los Angeles Show
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-22T08:04:12+00:00
 URL: https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210
@@ -1349,7 +1427,7 @@ Throughout the show, Katseye gave a tour of their discography from the past few 
 Watch Avanzini perform with Cabello below:
 
 ============================================================
-[47] Karla Sofia Gascon Says 'Emilia Perez' Oscar Controversy Came From People Who 'Didn't Want Someone Like Me to Receive an Award'
+[49] Karla Sofia Gascon Says 'Emilia Perez' Oscar Controversy Came From People Who 'Didn't Want Someone Like Me to Receive an Award'
 Source: Variety | Status: expanded | Words: 964
 Published: 2026-11-22T07:39:54+00:00
 URL: https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205
@@ -1393,7 +1471,7 @@ Gascon traced her affection for India to a Madrid screening of Deepa Mehta's "Wa
 She also said filmmakers too often cast to labels such as "Spanish" or "she is a woman" instead of trusting actors' range. "It's nice when Indian people work in Spain, work in the United States. I love when a Russian works in Africa," Gascon said. "I think we are all the same humanity."
 
 ============================================================
-[48] Tom Cruise Starred in a Sequel He Was Completely Miscast for 10 Years Ago, But He Somehow Made It Work
+[50] Tom Cruise Starred in a Sequel He Was Completely Miscast for 10 Years Ago, But He Somehow Made It Work
 Source: ComicBook.com | Status: expanded | Words: 810
 Published: 2026-11-22T04:25:40+00:00
 URL: https://comicbook.com/movies/feature/tom-cruise-starred-in-a-sequel-he-was-completely-miscast-for-10-years-ago-but-he-somehow-made-it-work
@@ -1417,60 +1495,6 @@ However, Alan Ritchson is six foot three and built his weight to around 235 to 2
 Later-season audience scores dropped into the 70s on Rotten Tomatoes, with the fourth dropping to 64%, which is below that of Tom Cruise's first movie. That shows that the television and movie audiences don't have the same desire to have Reacher novel-accurate as long as the story plays out how they want it to. The novel's fans often reveled in the Jack Reacher fight scenes, and by the fourth season of the show, many audience reviews on Rotten Tomatoes complained about those same moments. While Ritchson's hulking man dispensing justice is what Lee Child fans came to see , the more creative fighting style of someone like Tom Cruise seems to have worked just as well when it comes to audiences.
 
 What are your thoughts on Tom Cruise's portrayal of Jack Reacher? Let us know which version of Reacher you liked better in the comments below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] 'American Psycho' Gets Axed: Luca Guadagnino Confirms His Adaptation Is "Not Happening"
-Source: Deadline | Status: expanded | Words: 336
-Published: 2026-11-22T04:21:37+00:00
-URL: https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106
-------------------------------------------------------------
-SUMMARY:
-Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns' American Psycho adaptation. While appearing on Deadline's Crew Call podcast, Guadagnino told Anthony D'Allesandro that he is no longer attached to the projects, two years after we exclusively revealed he and Burns were adapting Bret Easton Ellis' 1991 novel. […]
-
-CONTENT / EXTRACTED DETAILS:
-Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns ' American Psycho adaptation.
-
-While appearing on Deadline's Crew Call podcast, Guadagnino told Anthony D'Allesandro that he is no longer attached to the projects, two years after we exclusively revealed he and Burns were adapting Bret Easton Ellis' 1991 novel .
-
-"Scott Z. Burns wrote a fantastic script," said Guadagnino. "Unfortunately for me, as we speak, it's not happening."
-
-In October 2024, Deadline revealed that Guadagnino was in final talks with Lionsgate to direct Burns' adaptation, which would be produced by Frenesy Films, and executive produced by Sam Pressman, the son of Edward R. Pressman, producer of 2000 original movie, through his company Pressman Film. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Serving as a brief respite from the years-long casting hunt for the next James Bond , there was plenty of speculation about who would play Patrick Bateman. One actor to campaign for the role was Patrick Schwarzenegger, while Guadagnino's Queer (2024) star Drew Starkey noted he read the "amazing" script .
-
-But in February, Ellis claimed that multiple high-profile actors " have turned it down ," adding that Burns had since completed a new draft after the unnamed talent passed on the previous version.
-
-Ellis teased that the film would be "completely different" from Mary Harron's 2000 adaptation of American Psycho , which starred Christian Bale as homicidal investment banker Patrick Bateman, the literary character that Ellis created as a satirical take on masculinity. The Harron-helmed adaptation also starred Justin Theroux, Josh Lucas, Chlo&#xEB; Sevigny, Reese Witherspoon, Jared Leto, Willem Dafoe and more.
-
-============================================================
-[50] No Matter What Happens Next With Batman, This Reeves-verse Cliffhanger Needs to Be Resolved
-Source: ComicBook.com | Status: expanded | Words: 1158
-Published: 2026-11-22T04:06:23+00:00
-URL: https://comicbook.com/tv-shows/feature/no-matter-what-happens-next-with-batman-this-reeves-verse-cliffhanger-needs-to-be-resolved
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Warner Bros. Robert Pattinson’s casting as the next James Bond has made his future as Batman even more uncertain. There was already a considerable amount of doubt about whether the British star would play the role of Bruce Wayne for a third time, despite his frequently mentioned enthusiasm for the character, after the numerous lengthy delays to […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Robert Pattinson’s casting as the next James Bond has made his future as Batman even more uncertain. There was already a considerable amount of doubt about whether the British star would play the role of Bruce Wayne for a third time, despite his frequently mentioned enthusiasm for the character, after the numerous lengthy delays to Matt Reeves’ The Batman: Part II , and many have seen Pattinson taking on the lead role of the Bond franchise as an especially clear indication that his time as DC’s most popular superhero is coming to an end. But even if this is true, there’s at least one more story other than Part II that needs to be told to give fans of Reeves’ version of Gotham City closure.
-
-Two years after The Batman ’s release, its TV spin-off The Penguin became a massive hit for HBO. Taking place shortly after the film, the series depicted a conflict between Colin Farrell’s version of the titular supervillain, also known as Oswald “Oz” Cobb and Sofia Falcone (Cristin Milioti.) The series received widespread critical acclaim and Sofia quickly emerged as its breakout character, with both Farrell and Milioti winning Emmys for their performances. Sofia’s storyline ends with a tantalizing cliffhanger setting up a future encounter between her and her half-sister, The Batman ’s Selina Kyle/Catwoman (Zoë Kravitz,) and regardless of what else is in store for Bruce and Gotham’s onscreen futures, DC still needs to follow up on this promise, whether with another series or film.
-
-As Batman, Bruce first encounters Selina while interrogating Oz at his criminal nightclub, The Iceberg Lounge, where she works. After following her and learning of her skills as a cat burglar, Bruce recruits Selina to help him investigate the string of high profile murders committed by the Riddler (Paul Dano,) which are connected to both the city’s organized crime and the disappearance of Selina’s friend and roommate Annika Kosolov (Hana Hrzic.) It is eventually revealed that Selina’s biological father is Oz’s employer, mob boss Carmine Falcone (John Turturro,) who murdered both Selina’s mother and Annika. Having led Bruce to expose Falcone’s control over the city’s government, Riddler kills Falcone as part of a planned revolt against Gotham’s largely corrupt wealthy class. After helping Bruce stop the insurrection, Selina leaves Gotham.
-
-The Penguin reveals that Falcone (a younger version of whom is played by Mark Strong) had murdered several other women, including his wife, Sofia’s mother, in similar ways. Ten years before the events of the film and series, reporter Summer Gleason (Nadine Malouf) approached Sofia with evidence of her father’s crimes. When Sofia began helping Summer investigate, Oz, who was working as her driver at the time, informed Carmine, who then had Sofia herself framed for the murders and committed to Arkham Asylum, where she endured further, horrific abuse. After her release, Sofia assassinates all the relatives who were aware of her innocence and takes control of the remains of Carmine’s criminal empire, renaming it and herself with her mother’s maiden name of Gigante. But after the pair begin feuding in a gang war, Oz successfully frames her for other crimes with the help of corrupt law enforcement officials, and Sofia is sent back to Arkham. In her final scene in the series, Julian Rush (Theo Rossi,) a psychiatrist with a romantic fixation on Sofia delivers her a letter from Selina, which makes Sofia smirk despite her bleak circumstances.
-
-The Penguin was initially conceived as a limited series and despite frequent rumors to the contrary , a second season has never been officially announced for development. Farrell is set to return as Oz in The Batman: Part II , but Reeves and Milioti herself have confirmed that she will not appear as Sofia in the film. Kravitz is also not among the cast members confirmed to be returning alongside Pattinson, with Scarlett Johansson having instead been cast as a new character widely believed to be the sequel’s female lead. If Selina does turn out to have a secret role in the film, it’s likely to be much smaller than the one she had in the first. Narratively this makes sense, as Part II is also said to take place shortly after the first film and Selina’s departure. But given the Bond casting and unexpected recent changes at DC Studios, concern is growing that Part II could be the last installment in the so-called “Reeves-verse,” before a possible reboot of the cinematic Batman mythology, which would frustrate viewers by leaving them without answers as to how Selina and Sofia’s stories progress.
-
-DC Studios reportedly turned down pitches for series focusing on Catwoman and Poison Ivy recently. However, it’s not clear if the former featured Kravitz’s version of Selina, specifically, and it was subsequently announced that The Penguin creator Lauren LeFranc is now in the early stages of developing a Poison Ivy series . Given this, the even greater popularity of the Catwoman character, and the acclaim and accolades already received by The Batman , The Penguin , and Milioti specifically, one imagines that executives may be willing to reconsider making a Catwoman project if it features both Falcone sisters. The casting of Johansson and multiple other new actors suggest that Part II may focus less on the Falcone family and other established antagonists, aside from further confrontations between Bruce and Oz. But even if that is true, the Falcones’ influence on Gotham will still be responsible for setting the larger saga in motion, so a project in which Selina and Sofia continue to grapple with Carmine’s legacy could be a fitting conclusion for the franchise.
-
-Sofia’s story is one that seems like it will inevitably end in some kind of tragedy, but leaving the character in Arkham again, indefinitely, is arguably too bleak a conclusion to be satisfying, even for such a dark franchise. A Catwoman project could mostly follow her and Selina outside of Gotham, once Sofia is out of the asylum, but if such a project were to be the last in the Reeves-verse it would ideally also involve Bruce and some of the other major established characters, though the story should of course remain rooted in the sisters’ perspectives. Bruce acting as a supporting character would make involving Pattinson despite the Bond casting easier, and a smaller role like those he plays in the movies could likewise entice Farrell to return despite his mixed feelings on the extensive makeup and prosthetic effects used to portray Oz, assuming that character survives Part II .
-
-Do you think DC should give The Batman a Catwoman spin-off? Discuss in the comments.
 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
