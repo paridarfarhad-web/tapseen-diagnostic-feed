@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T21:42:36.629Z"
+    "updated_at": "2026-11-22T22:02:37.269Z"
   },
   "articles": [
+    {
+      "id": "ea4b3e3e-3336-4e35-b865-2addc761567c",
+      "title": "Would Star Wars’ Most Divisive Director Want to Return? Rian Johnson Addresses Future Interest in the Series",
+      "summary": "It's no secret that you either love Rian Johnson or you hate him. At least, that's the case if you're a Star Wars fan, and fans have always been vocal about their stance on the director, with The Last Jedi, the second film in the Star Wars sequel trilogy, becoming one of the franchise's most […]",
+      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google It's no secret that you either love Rian Johnson or you hate him. At least, that's the case if you're a Star Wars fan , and fans have always been vocal about their stance on the director, with The Last Jedi , the second film in the Star Wars sequel trilogy, becoming one of the franchise's most divisive films. It's also a well-known fact that Johnson left the franchise on less-than-stellar terms—both in a fandom sense and in his working relationship with Kathleen Kennedy before she stepped down as head honcho . But would the director ever return? Seemingly, the answer is \"yes.\"\n\nThis weekend at the Marrakech Film Festival , Johnson touched on all sorts of things, including his feelings about Curry Barker representing hope in the effort to save indie filmmaking . And when he was inevitably asked if he'd return to a galaxy far, far away, Johnson said it was a world he \"deeply loved.\" He had initially jumped at the opportunity to direct a Star Wars film, and elaborated on his experience, saying, “I love Star Wars more now than I ever have. And it’s exciting to me that there are a lot of different voices now, taking cracks at it. I’m already writing the next thing I’m gonna do, and it’s not a Star Wars thing or a Knives Out thing.\" He added, \"Right now, I’m very much enjoying making my own stuff, but if the opportunity presented itself, it’s a world I deeply love.”\n\n\"I felt just so connected to it, and just cared so deeply about every single element of it. I think, especially with something that has a big cultural impact and belongs to everybody, that makes it even more important for you and the entire team to make it personal for yourselves, to make sure it’s coming from a personal perspective and something that’s deeply on fire inside of you,\" he said about his desire to do something special with the second film in the sequel trilogy. And it's undeniable that he took risks, creating something that the franchise had never seen before.\n\nAs expected, Star Wars fans are divided, though the most common opinion is to give Johnson his own standalone film and \"let him cook,\" or to set him free in the Old Republic era. \"After his film, the studio executives have gone overly cautious. Some potentially fascinating films by amazing filmmakers have been proposed and canned. It's a real shame,\" said one fan on X, highlighting how Disney has overcorrected in the wake of the disaster that was The Rise of Skywalker , shelving projects like The Hunt for Ben Solo and canceling shows like The Acolyte .\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/movies/news/would-star-wars-most-divisive-director-want-to-return-rian-johnson-addresses-future-interest-in-the-series",
+      "published_at": "2026-11-22T22:01:54+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 508,
+      "extracted_at": "2026-11-22T22:02:23.794323+00:00",
+      "updated_at": "2026-11-22T22:02:23.794323+00:00"
+    },
     {
       "id": "df229c94-c599-4377-9843-118fb6404175",
       "title": "Mahershala Ali Says \"There Are Not Roles for Me\" in \"Vast Majority of Projects,\" Despite Winning 2 Oscars",
@@ -742,21 +757,6 @@
       "word_count": 591,
       "extracted_at": "2026-11-22T17:12:10.32131+00:00",
       "updated_at": "2026-11-22T17:12:10.32131+00:00"
-    },
-    {
-      "id": "a703be84-f962-495b-9e6d-5c66fc6f8447",
-      "title": "Tom Jackson Dies: Broncos Alum &#038; ESPN Hall Of Fame Broadcaster Was 75",
-      "summary": "Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75. Jackson's family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an \"unexpected\" death, having previously spoken \"at length\" with Jackson on Tuesday. \"He was a vital 75,\" said Berman on […]",
-      "content": "Tom Jackson , a former Denver Broncos player and an NFL analyst for ESPN , has died. He was 75.\n\nJackson's family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an \"unexpected\" death, having previously spoken \"at length\" with Jackson on Tuesday.\n\n\"He was a vital 75,\" said Berman on ESPN 's Sunday NFL Countdown . \"Tom was poignant. He was active. This is a shock.\"\n\nIn honor of the Broncos \"Orange Crush Defense\" linebacker, the entire Countdown crew wore orange ties during Sunday's show. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/tom-jackson-dies-broncos-espn-1237231183",
-      "published_at": "2026-11-22T17:07:19+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-51354926.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 142,
-      "extracted_at": "2026-11-22T17:08:08.70046+00:00",
-      "updated_at": "2026-11-22T17:08:08.70046+00:00"
     }
   ]
 }
