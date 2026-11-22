@@ -13,7 +13,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: tapseen-auto-draft-import
+  group: tapseen-draft-import-${{ github.ref }}-${{ github.sha }}-${{ github.run_id }}
   cancel-in-progress: false
 
 jobs:
@@ -36,7 +36,25 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git log -n 20 --name-only --diff-filter=A --pretty="" -- 'publish-test/articles/*.json' 'publish-test/articles-en/*.json' | tr -d '\r' | sort -u | grep -v '^$' > "$RUNNER_TEMP/added.txt" || true
+          BEFORE="${{ github.event.before }}"
+          SHA="${{ github.sha }}"
+
+          > "$RUNNER_TEMP/added.txt"
+
+          # 1. If this is a push with a valid commit range, check files added between before and sha
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            git diff --name-only --diff-filter=A "$BEFORE" "$SHA" -- 'publish-test/articles/*.json' 'publish-test/articles-en/*.json' | tr -d '\r' | sort -u | grep -v '^$' > "$RUNNER_TEMP/added.txt" || true
+          fi
+
+          # 2. If nothing found or before is not available, check files added in the current commit
+          if [ ! -s "$RUNNER_TEMP/added.txt" ]; then
+            git diff-tree --no-commit-id --name-only --diff-filter=A -r "$SHA" -- 'publish-test/articles/*.json' 'publish-test/articles-en/*.json' | tr -d '\r' | sort -u | grep -v '^$' > "$RUNNER_TEMP/added.txt" || true
+          fi
+
+          # 3. Fallback: if still empty (e.g. manual workflow_dispatch), inspect recent commits
+          if [ ! -s "$RUNNER_TEMP/added.txt" ]; then
+            git log -n 25 --name-only --diff-filter=A --pretty="" -- 'publish-test/articles/*.json' 'publish-test/articles-en/*.json' | tr -d '\r' | sort -u | grep -v '^$' > "$RUNNER_TEMP/added.txt" || true
+          fi
           node --input-type=module -e '
             import { readFileSync, writeFileSync } from "node:fs";
             const raw = readFileSync(process.env.RUNNER_TEMP+"/added.txt","utf8");
