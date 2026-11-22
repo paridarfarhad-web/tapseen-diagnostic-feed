@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T20:42:34.840Z"
+    "updated_at": "2026-11-22T21:08:32.457Z"
   },
   "articles": [
+    {
+      "id": "cf30eaba-0abc-4d09-90ec-f4a77b7a5456",
+      "title": "The Hunger Games' Haymitch Actor Had A Hot Take About Sunrise On The Reaping Making Him Say 'Lenore Dove' Over And Over",
+      "summary": "Can he be completely honest?",
+      "content": "Joseph Zada has had a lot to say about the process it took to become Haymitch in The Hunger Games : Sunrise on the Reaping , so I wasn’t surprised he had more to say. However, the actor “being completely honest” about something he didn’t like wasn’t on my Bingo card… and this time it’s not about how Zada’s hair is different . The actor shared his hot take about Sunrise on the Reaping making him say ‘Lenore Dove’ over and over, and I have to admit, he has a point.\n\nWhile Zada explained, Whitney Peak, who plays Lenore Dove, first chose to stay out of it, saying, “I’m so quiet right now.” Something tells me she’s heard this hot take a few times while filming. The actor shared that he attempted to sneak in a “Lenore,” but director Francis Lawrence wasn’t having it and would correct him. Zada assumes the precise name was a Suzanne Collins choice, which is the second time Peak playfully intervenes by shushing him.\n\nNothing was as enjoyable as watching her and Peak attempt to explain the name to him. Peak suggested it was like saying the name ‘Mary-Anne’ and that Lenore Dove had an invisible hyphen. Fans will also appreciate her giving Lucy Gray a shout-out. However, the actor shared that part of the problem had to do with the accent. He has previously discussed working to nail the dialect , so, understandably, it would trip him up.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/the-hunger-games-haymitch-actor-joseph-zada-hot-take-about-sunrise-on-the-reaping-repeating-lenore-dove",
+      "published_at": "2026-11-22T21:05:49+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4VTBqg73ufeBoitmHs6uZW-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 244,
+      "extracted_at": "2026-11-22T21:08:20.482647+00:00",
+      "updated_at": "2026-11-22T21:08:20.482647+00:00"
+    },
     {
       "id": "fb6d974b-f859-4e12-8c07-730c8256cb50",
       "title": "The Godzilla Minus Zero Alternate Version Fans Wanted from the Start Getting Theatrical Release",
@@ -742,21 +757,6 @@
       "word_count": 593,
       "extracted_at": "2026-11-22T16:44:07.525505+00:00",
       "updated_at": "2026-11-22T16:44:07.525505+00:00"
-    },
-    {
-      "id": "3b412093-7c7b-4705-939e-9590630cffc4",
-      "title": "Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35",
-      "summary": "Sheila Mangubat, who appeared in TLC's 90 Day Fiancé franchise, has died. She was 35. David Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days, announced that she died on Saturday in the Philippines, according to her family. \"It breaks my heart to share the news from her family that Sheila passed […]",
-      "content": "Sheila Mangubat, who appeared in TLC's 90 Day Fianc&#xE9; franchise, has died. She was 35.\n\nDavid Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days , announced that she died on Saturday in the Philippines, according to her family.\n\n\"It breaks my heart to share the news from her family that Sheila passed away on Saturday in the Philippines,\" Dangerfield wrote on Instagram . \"I am devastated and still trying to process this loss. Please keep her son, her family, and me in your prayers. Thank you for all your love and support.\"\n\nIn 2023, Sheila and David appeared on Season 6 of Before the 90 Days , having met through an online sign language group. They bonded over the fact that Sheila was hard of hearing and David is deaf, communicating primarily through ASL. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nDavid followed Sheila to the Philippines, where she lived with her mother, her father and her son Jhonreil. The season ended with Sheila accepting David's proposal.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163",
-      "published_at": "2026-11-22T16:41:07+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Sheila-90-Day-Fiance.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 236,
-      "extracted_at": "2026-11-22T16:42:07.496409+00:00",
-      "updated_at": "2026-11-22T16:42:07.496409+00:00"
     }
   ]
 }
