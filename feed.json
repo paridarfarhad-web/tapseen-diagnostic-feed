@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T14:58:15.532Z"
+    "updated_at": "2026-11-22T15:00:19.676Z"
   },
   "articles": [
     {
@@ -22,6 +22,21 @@
       "word_count": 1154,
       "extracted_at": "2026-11-22T14:58:02.46615+00:00",
       "updated_at": "2026-11-22T14:58:02.46615+00:00"
+    },
+    {
+      "id": "80429d67-c3ae-4c7c-b1c4-5148cd7faa1d",
+      "title": "The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony",
+      "summary": "Excuse me, I'm going to go grab a tissue.",
+      "content": "It was reported days ago that Miley Cyrus and fiancé Maxx Morando would finally tie the knot this weekend. That was proven to be true, as Cyrus’ stepsister, Lily Purcell, recently shared some snazzy snapshots from her rehearsal dinner . Well, it’s now been confirmed that the Grammy winner and her man have officially exchanged vows. Along with that, there are also some details on the ceremony, and it was apparently quite lovely. During the event, Cyrus also paid tribute to her late godmother, Dolly Parton , in a sweet way.\n\nFor those who are unfamiliar with the song, “Love Is Like a Butterfly” is the first track on Parton’s 1974 album of the same name. It may not be the first song that people think of when they remember the late Grammy winner but, like many of her other tunes, it has worked its way into the cultural zeitgeist. Parton even performed the song with Stephen Colbert back in 2012 on an episode of The Colbert Report . All in all, it’s an incredibly sentimental song, and it’s perfect for an occasion like a wedding.\n\nMiley Cyrus also paid tribute to her “Aunt Dolly” on multiple occasions, even doing so amid her recent performance at the Hollywood Bowl . Many have long been aware of Cyrus and Parton’s close relationship and, in 2023, the pair even collaborated musically to craft a version of Cyrus’ hit song, “Wrecking Ball”. As of late, Cyrus has also discussed the layers to Parton and even explained that people would misunderstand her authenticity as a person due to her flamboyant public persona.\n\nCongratulations are definitely in order for Miley Cyrus and Maxx Morando, and here’s wishing them a lifetime of happiness. Personally, I’d like to think that’s what Dolly Parton would want for them as well. And, while the beloved singer was not present at the ceremony, I’m glad she was able to be a small part of it in some way.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/sweet-way-miley-cyrus-paid-tribute-dolly-parton-during-wedding-ceremony",
+      "published_at": "2026-11-22T14:55:13+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/YW6oaUFVaAzxNd6eVPZwfi-1920-80.png",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 328,
+      "extracted_at": "2026-11-22T15:00:02.412251+00:00",
+      "updated_at": "2026-11-22T15:00:02.412251+00:00"
     },
     {
       "id": "ce037e4d-b2b4-4833-9656-ca2b20f30c43",
@@ -742,21 +757,6 @@
       "word_count": 1061,
       "extracted_at": "2026-11-22T00:47:21.996841+00:00",
       "updated_at": "2026-11-22T00:47:21.996841+00:00"
-    },
-    {
-      "id": "974078ae-6b3a-437c-a11b-d3b28fa1ed94",
-      "title": "I Can’t Get Over Rob Lowe Explaining Why It’s Easier To Fly ‘100 Americans’ To Ireland Than Film The Floor In LA",
-      "summary": "\"It's a lot of money.\"",
-      "content": "I knew it had become increasingly rare for Hollywood productions to actually be filmed in Los Angeles, but Rob Lowe ’s stats for The Floor really put things into perspective. The host of the Fox game show, which is on the 2026 TV schedule this fall season, just got real about why it’s filmed all the way in Ireland rather than at the network’s own lot. And, wow!\n\nYeah, this really illustrates the rough situation in LA right now. When I looked deeper into it, I found out that there are a few factors that probably played into The Floor deciding to go to Ireland rather than stay in Los Angeles. One is the rigid labor regulations in Los Angeles that just don’t apply in Ireland. Another is how much more expensive it would be for the production to board the one hundred contestants during the shoots. And then, there’s the competitive tax incentives Ireland has in place to encourage productions to be there. Lowe continued with these words:\n\nIt sounds like The Floor just wouldn’t be able to exist if it were shot in Los Angeles. There are a number of TV shows that currently shoot in the City of Angels, like Dancing With The Stars , The Pitt , The Rookie , 911 , Shrinking and Abbott Elementary , and some incentives in California are starting to help repair the market. However, as Lowe also shared while on Mostly Sheenius , there’s a long way to go before it becomes cost-efficient again. As he put it:\n\nTons of Los Angeles TV shows recently moved to new locations, such as Shark Tank and American Idol moving to Atlanta and The Masked Singer to New Jersey. It’s also been reported lately (per Deadline ) that America’s Got Talent is scouting a new home outside of its longtime home in Pasadena, California.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/rob-lowe-why-easier-fly-100-americans-ireland-than-film-the-floor-los-angeles",
-      "published_at": "2026-11-22T00:21:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/MWohdqLwePRorHMaHiQF4g-1920-80.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 311,
-      "extracted_at": "2026-11-22T00:25:19.639071+00:00",
-      "updated_at": "2026-11-22T00:25:19.639071+00:00"
     }
   ]
 }
