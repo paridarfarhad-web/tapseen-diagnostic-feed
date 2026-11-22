@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T13:04:10.793Z"
+    "updated_at": "2026-11-22T13:14:14.600Z"
   },
   "articles": [
+    {
+      "id": "fcedce5d-7cbe-4e2d-a972-bcb149929dec",
+      "title": "Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming",
+      "summary": "Just when you think you’ve heard everything.",
+      "content": "We know playing Mystique in the live-action X-Men movies is never easy. Donning the blue skin and yellow eyes, while also taking part in major action sequences, is a tall task for anyone. Jennifer Lawrence has shared what it was like to play the shapeshifter over the years too. However, she recently revealed one complaint she had about Mystique that I didn't see coming.\n\nYeah, I didn't see it coming. Nor did I see the next thing out of the actress' mouth coming. When Cohen asked her if the haircut was \"like a mullet,\" Lawrence's response was \"accidentally.\"\n\nI’m truly surprised that Mystique’s “Dog the Bounty Hunter” -ish look was the big complaint the Silver Linings Playbook actress revealed while playing Raven/Mystique. After all, Lawrence once spoke about having to pee in a funnel while wearing a supersuit. That couldn’t have been fun, either. I'm just saying, I guess the whole thing sounds hard.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/jennifer-lawrence-one-complaint-playing-mystique-x-men-wig-surprise-mullet",
+      "published_at": "2026-11-22T13:07:29+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5sKfx9RYbWtuWDuzq3BZ5K-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 154,
+      "extracted_at": "2026-11-22T13:13:57.007901+00:00",
+      "updated_at": "2026-11-22T13:13:57.007901+00:00"
+    },
     {
       "id": "53aacef0-06ed-4956-a516-23c8624a22cd",
       "title": "Home Alone Director Says a Legacy Sequel Is Impossible Now But Macaulay Culkin Is Making One Anyway",
@@ -742,21 +757,6 @@
       "word_count": 250,
       "extracted_at": "2026-11-21T23:09:16.392601+00:00",
       "updated_at": "2026-11-21T23:09:16.392601+00:00"
-    },
-    {
-      "id": "1c2485de-7c75-4e64-b460-3c5c634b7a99",
-      "title": "Developer Warns Nintendo Fans Not to Buy Their Switch 2 Games",
-      "summary": "An independent developer has warned Nintendo fans, via Reddit, not to buy their new Nintendo Switch 2 games. Of course, there's a good reason. This warning is specifically for those who already own the Nintendo Switch versions of the games in question. While the developer is not prepared to offer free Switch 2 upgrades for […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google An independent developer has warned Nintendo fans, via Reddit, not to buy their new Nintendo Switch 2 games. Of course, there's a good reason. This warning is specifically for those who already own the Nintendo Switch versions of the games in question. While the developer is not prepared to offer free Switch 2 upgrades for owners of the Switch versions, they will be offering those who own the Switch versions 80% off the Nintendo Switch 2 versions. That said, due to processing times, this offer won't take effect until after November 21 in North America and until after November 28th in Europe, Australia, and New Zealand.\n\nUsing the Nintendo Switch 2 Reddit page, developer Bedtime Digital Games has specifically relayed the above information about the new Nintendo Switch 2 version of Figment and its sequel, Figment 2: Creed Valley . The developer also relayed this information via Nintendo's built-in news and announcement system, but the developer is doubtful that many check those messages; hence the post on the Switch 2 Reddit page.\n\n\"We are really sorry if this impacted you. We want you to have the discount, and we're super grateful for the support you've shown our indie studio over the years,\" writes Bedtime Digital Games to the Nintendo Switch 2 Reddit page.\n\nNintendo Fans Appreciate the Honesty As you would expect, Nintendo fans were very receptive to the warning, which shot to the top of the Switch 2 Reddit page.\n\n\"I respect the hell out of this. Congrats on the launch,\" reads one of the top comments. Another adds, \"Dudes this game wasn’t even on my radar, but this just bought you a purchase. I respect this so damn much. In a world filled with money-hungry companies, this is a breath of fresh air.\"\n\nFor the games themselves — for those unfamiliar like the commentator above — they are surreal action-adventure games. The first game debuted in 2017 to a 77 on Metacritic and positive user reviews, as evidenced by its 88% approval rating on Steam. The sequel followed six years later in 2023, releasing to a similar 76 on Metacritic and a 94% approval rating on Steam. The first game costs $20, while the sequel runs at $25.\n\nAccording to the trailer above, the pair of games have combined for over a million sales on the Nintendo Switch alone, so there are likely many Switch 2 users this warning is relevant to. The new Nintendo Switch 2 versions most notably include a performance upgrade to 60 FPS, alongside visual upgrades as well. Loading times are also substantially faster. What there isn't is new content.\n\nThose hoping and on the lookout for free Nintendo Switch 2 upgrades will be happy to know there are some of those as well. To this end, three different free Nintendo Switch 2 upgrades were all recently released at once.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/gaming/news/nintendo-switch-2-games-buy-warning",
-      "published_at": "2026-11-21T22:33:25+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 534,
-      "extracted_at": "2026-11-21T22:35:14.748227+00:00",
-      "updated_at": "2026-11-21T22:35:14.748227+00:00"
     }
   ]
 }
