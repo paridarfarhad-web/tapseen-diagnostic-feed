@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T18:48:26.365Z"
+    "updated_at": "2026-11-22T19:00:32.531Z"
   },
   "articles": [
+    {
+      "id": "09e32426-b25e-45cc-9be3-fd250b3ab1f1",
+      "title": "The Hotel Bel-Air’s Menu Returns to Tradition",
+      "summary": "Everything old is new again, as classic hits are revived, from the Thai-style chicken salad to the house burger.",
+      "content": "Since Wolfgang Puck's 2023 departure from the Hotel Bel-Air and its eponymous restaurant, the luxury lodging has been tweaking its Cal-Med menus with classical French techniques and hyper-seasonal ingredients. The approach was ambitious, evolving, at times even experimental . Yet the largely local dining clientele &#x2014; 70 percent of weekly regulars are neighbors &#x2014; who treat the place as a second home (or maybe a fourth, given their net worth) have made it clear they prefer familiarity over ingenuity. Under new executive chef Ralf Schlegel (far left), previously of The Peninsula in Beverly Hills, the kitchen has turned back toward the classics. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nThe bill of fare has long had a dedicated section of \"Bel-Air Classics\": the tortilla soup, the club sandwich, the chopped salad named for late No. 1 fan Nancy Reagan. Now, the restaurant has restored several other salads that had been relegated to off-menu, only-by-request status &#x2014; Thai-style chicken, soy ginger BBQ salmon, burrata with squash &#x2014; along with the house burger.\n\n\"When you go home, you want what you remember,\" explains Hotel Bel-Air manager Tiffany Lai, who insists the restaurant's back-to-basics pivot won't condemn it to culinary ossification. \"We're still busy creating new favorites.\" She points to the German-born, Austria-raised Schlegel's signature dish: chicken schnitzel with lemon paprika (left). \"Maybe in 15 years that'll be the next classic.\"\n\nThis story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hotel-bel-airs-returns-classic-menu-1236757360",
+      "published_at": "2026-11-22T19:00:00+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 260,
+      "extracted_at": "2026-11-22T19:00:20.402724+00:00",
+      "updated_at": "2026-11-22T19:00:20.402724+00:00"
+    },
     {
       "id": "007575fe-5da4-4373-b7fa-c417fa574171",
       "title": "Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’",
@@ -742,21 +757,6 @@
       "word_count": 457,
       "extracted_at": "2026-11-22T14:10:00.705558+00:00",
       "updated_at": "2026-11-22T14:10:00.705558+00:00"
-    },
-    {
-      "id": "529388d4-7968-4848-b0c8-9ea2186001fb",
-      "title": "SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast",
-      "summary": "She's getting her time to shine, but it's not turning into the Ashley Padilla show.",
-      "content": "Much of the conversation around Saturday Night Live last season was about Ashley Padilla. In just her sophomore turn, the comedian emerged as a clear breakout star and was the subject of numerous positive articles and think pieces about how she was becoming the face of the show. There was even a fair bit of outrage about the fact that she wasn’t promoted from featured player to full cast member mid-season. Most SNL fans, myself included, assumed Lorne Michaels and the writers would double down and fully build around her this season, potentially at the expense of other cast members, but six episodes in, the numbers are telling a different story.\n\nThat’s not just the eyetest either. The Saturday Night Network released its tally of sketch appearances over the course of the first six episodes, and Padilla is one of six cast members that is sitting between 23 and 25. Here’s the list…\n\nNow, to be clear, this is in no way an indictment of Padilla or an accusation that she’s anything less than brilliant. I think this season has been another step forward for her. Despite trailing in total sketches, she’s actually first in total screentime and has had quite a few buzzy moments already. She’s just as terrific as ever and will almost certainly continue to be one of the main characters, but it’s worth acknowledging that everyone else is getting a chance to eat too .",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/snl-fans-ashley-padilla-push-build-around",
-      "published_at": "2026-11-22T14:02:08+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QPNLSSdgcj73fXh9b9nM6F-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 239,
-      "extracted_at": "2026-11-22T14:09:59.741877+00:00",
-      "updated_at": "2026-11-22T14:09:59.741877+00:00"
     }
   ]
 }
