@@ -1,15 +1,51 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-22T16:18:20.756Z
+Last Updated: 2026-11-22T16:42:24.981Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
+[1] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
+Source: Deadline | Status: expanded | Words: 236
+Published: 2026-11-22T16:41:07+00:00
+URL: https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163
+------------------------------------------------------------
+SUMMARY:
+Sheila Mangubat, who appeared in TLC's 90 Day Fiancé franchise, has died. She was 35. David Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days, announced that she died on Saturday in the Philippines, according to her family. "It breaks my heart to share the news from her family that Sheila passed […]
+
+CONTENT / EXTRACTED DETAILS:
+Sheila Mangubat, who appeared in TLC's 90 Day Fianc&#xE9; franchise, has died. She was 35.
+
+David Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days , announced that she died on Saturday in the Philippines, according to her family.
+
+"It breaks my heart to share the news from her family that Sheila passed away on Saturday in the Philippines," Dangerfield wrote on Instagram . "I am devastated and still trying to process this loss. Please keep her son, her family, and me in your prayers. Thank you for all your love and support."
+
+In 2023, Sheila and David appeared on Season 6 of Before the 90 Days , having met through an online sign language group. They bonded over the fact that Sheila was hard of hearing and David is deaf, communicating primarily through ASL. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+David followed Sheila to the Philippines, where she lived with her mother, her father and her son Jhonreil. The season ended with Sheila accepting David's proposal.
+
+============================================================
+[2] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
+Source: CinemaBlend | Status: expanded | Words: 208
+Published: 2026-11-22T16:34:44+00:00
+URL: https://www.cinemablend.com/television/90-day-fiance-david-dangerfield-spoke-out-former-fiance-sheila-mangubat-died
+------------------------------------------------------------
+SUMMARY:
+Rest in peace to the beloved cast member.
+
+CONTENT / EXTRACTED DETAILS:
+The 90 Day Fiancé family has sadly lost yet another beloved member. Sheila Mangubat, who appeared on Season 6 of Before The 90 Days , has reportedly passed away. News of Mangubat's passing first arrived via her former fiancé, David Dangerfield, who shared the news with all of his followers by way of a heartbreaking statement.
+
+Further details about Shelia's passing arrived via 90 Day insider Shabooty , who found a comment from a friend who said she passed away from uterine cancer. It should be mentioned as of this writing, Sheila's family has not confirmed her official cause of death. There was a level of skepticism from others online, given the lack of an official obituary though, so far, reported evidence seemingly points to this information being accurate.
+
+90 Day Fiancé fans may remember David (who is deaf) finding love with Sheila and traveling to see if a life together was possible. Almost immediately, they were hit with tragedy, as her mother died after falling down a stairwell just hours after his arrival. Because of the tragedy, David and Sheila arguably weren't in the right mindset to really explore a future relationship and talk about the possibility of her being an eventual father to her son, Jhonreil.
+
+============================================================
+[3] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
 Source: Variety | Status: expanded | Words: 1059
 Published: 2026-11-22T16:16:28+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061
 ------------------------------------------------------------
 SUMMARY:
-"Sunrise on the Reaping" caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate's "Hunger Games" franchise. The dystopian prequel is one of just five movies this year to launch above $100 million, joining the company of "Spider-Man: Brand New Day" ($360 million), “Toy Story 5” […]
+"Sunrise on the Reaping" caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate's "Hunger Games" franchise. Overseas, "Sunrise on the Reaping" generated $105 million from 84 territories for a towering launch of $225 million globally. The dystopian prequel is one of just five movies this […]
 
 CONTENT / EXTRACTED DETAILS:
 "Sunrise on the Reaping" caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate's "Hunger Games" franchise.
@@ -41,7 +77,7 @@ In limited release, the Focus Features drama "Elsinore" earned $240,000 from six
 "This is a very good weekend," Gross says. "The weekend before Thanksgiving sets up 10 very strong days. Moviegoing is back on track."
 
 ============================================================
-[2] Netflix's One Piece Season 3 Readies for Launch With New Behind-the-Scenes Teases
+[4] Netflix's One Piece Season 3 Readies for Launch With New Behind-the-Scenes Teases
 Source: ComicBook.com | Status: expanded | Words: 606
 Published: 2026-11-22T16:06:12+00:00
 URL: https://comicbook.com/anime/news/netflixs-one-piece-season-3-readies-for-launch-with-new-behind-the-scenes-teases
@@ -67,7 +103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Remaster of Entire PS1 Trilogy Now Available for $2.54
+[5] Remaster of Entire PS1 Trilogy Now Available for $2.54
 Source: ComicBook.com | Status: expanded | Words: 517
 Published: 2026-11-22T16:05:42+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-steam-games-trilogy-sale-tomb-raider
@@ -95,7 +131,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
+[6] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
 Source: CinemaBlend | Status: expanded | Words: 238
 Published: 2026-11-22T16:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/netflix-the-body-isnt-like-catholic-school-experience-gives-flashbacks
@@ -113,7 +149,7 @@ I also think The Body does a great job of handling what goes down when something
 Like the kids in The Body , a number of kids attending were from families of some renown. Families were willing to keep quiet about events occurring to protect their children, and the school was eager to let any controversy fade as quickly as possible.
 
 ============================================================
-[5] Wait, How Many People Left Can Actually Win Survivor 51?
+[7] Wait, How Many People Left Can Actually Win Survivor 51?
 Source: CinemaBlend | Status: expanded | Words: 294
 Published: 2026-11-22T16:03:28+00:00
 URL: https://www.cinemablend.com/television/survivor-51-possible-winners-jelly-sharonda-devin-carter
@@ -129,7 +165,7 @@ I’m not saying the person who wins every season is the person with the most co
 Mike and Eric have been much more present parts of the edit, but their storylines have both been about how much everyone else is annoyed with them. Eric has been getting a wacky theater kid edit that has included multiple montages of him talking and everyone else being annoyed by it . There have maybe been ten shots of characters literally rolling their eyes after he talks. Mike is a different version of the same situation. He’s been the subject of numerous confessionals from other players about how he’s a “bottom feeder” and impossible to work with. I don’t see why Survivor would portray its winner that way.
 
 ============================================================
-[6] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
+[8] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
 Source: ComicBook.com | Status: expanded | Words: 1224
 Published: 2026-11-22T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/two-different-xbox-consoles-released-on-the-same-day-but-their-impacts-couldnt-be-more-different
@@ -167,7 +203,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
+[9] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-22T15:38:38+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-series-officially-ends-after-6-years-with-final-release
@@ -193,7 +229,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
+[10] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
 Source: ComicBook.com | Status: expanded | Words: 1164
 Published: 2026-11-22T15:37:00+00:00
 URL: https://comicbook.com/movies/list/5-animated-movies-that-struggled-because-everyone-thought-they-were-just-for-kids
@@ -231,7 +267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
+[11] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T15:28:37+00:00
 URL: https://comicbook.com/gaming/news/gta-6-red-dead-redemption-2-abigail-roberts
@@ -257,7 +293,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
+[12] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
 Source: CinemaBlend | Status: expanded | Words: 441
 Published: 2026-11-22T15:27:15+00:00
 URL: https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts
@@ -281,7 +317,7 @@ After Columbus directed 1990's Home Alone and 1992's Home Alone 2: Lost in New Y
 As for the new project, there's an interesting idea on the table. During a fan event in 2025, Culkin floated a potential sequel in which an adult Kevin is raising a son who locks him out of the house and turns his father's old tricks against him. Reports suggest the film could follow Kevin's perspective as a dad, although no final story or additional casting has been confirmed.
 
 ============================================================
-[11] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
+[13] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
 Source: Variety | Status: expanded | Words: 595
 Published: 2026-11-22T15:02:50+00:00
 URL: https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267
@@ -313,7 +349,7 @@ Harari is on hand at the Marrakech Film Festival as part of its popular Conversa
 The Marrakech Film Festival runs Nov. 20&#x2013;28.
 
 ============================================================
-[12] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
+[14] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
 Source: ComicBook.com | Status: expanded | Words: 1041
 Published: 2026-11-22T15:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-how-to-improve-your-health-stats-fast-explained
@@ -349,7 +385,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
+[15] If DC Studios Want Family Friendly Superheroes, the Original Super Team Is Ready for Their Close-Up
 Source: ComicBook.com | Status: expanded | Words: 1154
 Published: 2026-11-22T14:56:00+00:00
 URL: https://comicbook.com/comics/feature/if-dc-studios-want-family-friendly-superheroes-the-original-super-team-is-ready-for-their-close-up
@@ -385,7 +421,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
+[16] The Sweet Way Miley Cyrus Paid Tribute To Dolly Parton During Her Beautiful Wedding Ceremony
 Source: CinemaBlend | Status: expanded | Words: 328
 Published: 2026-11-22T14:55:13+00:00
 URL: https://www.cinemablend.com/television/sweet-way-miley-cyrus-paid-tribute-dolly-parton-during-wedding-ceremony
@@ -403,7 +439,7 @@ Miley Cyrus also paid tribute to her “Aunt Dolly” on multiple occasions, eve
 Congratulations are definitely in order for Miley Cyrus and Maxx Morando, and here’s wishing them a lifetime of happiness. Personally, I’d like to think that’s what Dolly Parton would want for them as well. And, while the beloved singer was not present at the ceremony, I’m glad she was able to be a small part of it in some way.
 
 ============================================================
-[15] $70 PS5 Game Now Available for $7
+[17] $70 PS5 Game Now Available for $7
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T14:48:27+00:00
 URL: https://comicbook.com/gaming/news/ps5-game-sale-playstation-store-dead-space
@@ -429,7 +465,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
+[18] J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner 'The Dragon Letter' as Director Plans Feature Version (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1157
 Published: 2026-11-22T14:25:29+00:00
 URL: https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265
@@ -479,7 +515,7 @@ For now, Jigmet is busy with the short's Oscar campaign. "But I'm also developin
 Jigmet is currently attending the WAVES Film Bazaar , the market component of the International Film Festival of India in Goa.
 
 ============================================================
-[17] Crunchyroll's Darkest Fall 2026 Anime Has Become the Perfect Zombie Anime
+[19] Crunchyroll's Darkest Fall 2026 Anime Has Become the Perfect Zombie Anime
 Source: ComicBook.com | Status: expanded | Words: 596
 Published: 2026-11-22T14:17:00+00:00
 URL: https://comicbook.com/anime/feature/crunchyrolls-darkest-fall-2026-anime-has-become-the-perfect-zombie-anime
@@ -503,7 +539,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Before Doomsday, I Haven't Forgotten Marvel's Dirtiest Trick With Avengers: Infinity War
+[20] Before Doomsday, I Haven't Forgotten Marvel's Dirtiest Trick With Avengers: Infinity War
 Source: ComicBook.com | Status: expanded | Words: 794
 Published: 2026-11-22T14:11:00+00:00
 URL: https://comicbook.com/movies/feature/before-doomsday-i-havent-forgotten-marvels-dirtiest-trick-with-avengers-infinity-war
@@ -537,7 +573,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] New Free Nintendo Switch Game Now Available on the eShop
+[21] New Free Nintendo Switch Game Now Available on the eShop
 Source: ComicBook.com | Status: expanded | Words: 457
 Published: 2026-11-22T14:09:35+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-game-free-eshop-geo-book
@@ -561,7 +597,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast
+[22] SNL Fans Thought The Show Was Building Around Ashley Padilla, But Not So Fast
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-22T14:02:08+00:00
 URL: https://www.cinemablend.com/television/snl-fans-ashley-padilla-push-build-around
@@ -577,7 +613,7 @@ That’s not just the eyetest either. The Saturday Night Network released its ta
 Now, to be clear, this is in no way an indictment of Padilla or an accusation that she’s anything less than brilliant. I think this season has been another step forward for her. Despite trailing in total sketches, she’s actually first in total screentime and has had quite a few buzzy moments already. She’s just as terrific as ever and will almost certainly continue to be one of the main characters, but it’s worth acknowledging that everyone else is getting a chance to eat too .
 
 ============================================================
-[21] 5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place
+[23] 5 Of The Best Sci-Fi Movies From This Century Are All Streaming In The Same Place
 Source: CinemaBlend | Status: expanded | Words: 627
 Published: 2026-11-22T14:00:00+00:00
 URL: https://www.cinemablend.com/streaming-news/great-sci-fi-movies-this-century-streaming-one-place
@@ -603,7 +639,7 @@ While most of the movies on this list come with a rather serious tone, I'd be re
 Of course, if you want to make a Tom Cruise sci-fi trilogy out of your day, you can do just that, as Paramount+ also has Spielberg's War of the Worlds available streaming . While many would agree that Amazon's recent book-to-screen adaptation of H.G. Wells' sci-fi classic is not good, the 2005 movie starring Cruise and Dakota Fanning holds up rather nicely.
 
 ============================================================
-[22] Grand Theft Auto 6 Has a Chance to Finally Rectify GTA 5’s Greatest Failure
+[24] Grand Theft Auto 6 Has a Chance to Finally Rectify GTA 5’s Greatest Failure
 Source: ComicBook.com | Status: expanded | Words: 988
 Published: 2026-11-22T14:00:00+00:00
 URL: https://comicbook.com/gaming/feature/grand-theft-auto-6-has-a-chance-to-finally-rectify-gta-5s-greatest-failure
@@ -639,7 +675,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory
+[25] I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory
 Source: CinemaBlend | Status: expanded | Words: 270
 Published: 2026-11-22T13:55:31+00:00
 URL: https://www.cinemablend.com/television/reason-young-sheldon-wasnt-filmed-before-live-audience-like-the-big-bang-theory
@@ -655,7 +691,7 @@ So, apparently, Lorre, along with co-showrunners Steven Molaro and Steve Holland
 I’d imagine that for an actor of any age it can be a little daunting to act in front of a live audience, and doing so is also tedious. Based on Lorre’s sentiments, I imagine that was his thinking in regard to choosing the format for YS. Plenty of current and former child actors (including many still working today) have, of course, given excellent performances on multi-camera sitcoms. Still, I can definitely understand how working with young performers in a more controlled environment would be easier for them and the crew.
 
 ============================================================
-[24] Why Gen Z Is Claiming Robert Pattinson As Their James Bond
+[26] Why Gen Z Is Claiming Robert Pattinson As Their James Bond
 Source: CinemaBlend | Status: expanded | Words: 325
 Published: 2026-11-22T13:37:48+00:00
 URL: https://www.cinemablend.com/movies/why-gen-z-claiming-robert-pattinson-as-their-james-bond
@@ -677,7 +713,7 @@ This actually all stems from a single viral moment that happened between Robert 
 The hilarious moment between the A-list stars went completely viral, and Robert Pattinson saying he’s Gen Z has become something of a meme. So, when people say Pattinson is the first Gen Z James Bond, they are literally just referring to this funny video.
 
 ============================================================
-[25] 3 X-Men Villains That Actually Need Their Own Movies in the MCU, Because Fox Wasted Them
+[27] 3 X-Men Villains That Actually Need Their Own Movies in the MCU, Because Fox Wasted Them
 Source: ComicBook.com | Status: expanded | Words: 937
 Published: 2026-11-22T13:29:00+00:00
 URL: https://comicbook.com/comics/list/3-x-men-villains-that-actually-need-their-own-movies-in-the-mcu-because-fox-wasted-them
@@ -709,7 +745,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming
+[28] Jennifer Lawrence Had One Complaint About Playing Mystique In X-Men I Didn't See Coming
 Source: CinemaBlend | Status: expanded | Words: 154
 Published: 2026-11-22T13:07:29+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lawrence-one-complaint-playing-mystique-x-men-wig-surprise-mullet
@@ -725,7 +761,7 @@ Yeah, I didn't see it coming. Nor did I see the next thing out of the actress' m
 I’m truly surprised that Mystique’s “Dog the Bounty Hunter” -ish look was the big complaint the Silver Linings Playbook actress revealed while playing Raven/Mystique. After all, Lawrence once spoke about having to pee in a funnel while wearing a supersuit. That couldn’t have been fun, either. I'm just saying, I guess the whole thing sounds hard.
 
 ============================================================
-[27] Home Alone Director Says a Legacy Sequel Is Impossible Now But Macaulay Culkin Is Making One Anyway
+[29] Home Alone Director Says a Legacy Sequel Is Impossible Now But Macaulay Culkin Is Making One Anyway
 Source: ComicBook.com | Status: expanded | Words: 859
 Published: 2026-11-22T13:03:00+00:00
 URL: https://comicbook.com/movies/news/home-alone-director-says-a-legacy-sequel-is-impossible-now-but-macaulay-culkin-is-making-one-anyway
@@ -755,7 +791,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] James McAvoy's Forgotten Comic Book Movie Is Secretly One of His Best, And the Cast Is Stacked With Legends
+[30] James McAvoy's Forgotten Comic Book Movie Is Secretly One of His Best, And the Cast Is Stacked With Legends
 Source: ComicBook.com | Status: expanded | Words: 862
 Published: 2026-11-22T12:46:00+00:00
 URL: https://comicbook.com/movies/feature/james-mcavoys-forgotten-comic-book-movie-is-secretly-one-of-his-best-and-the-cast-is-stacked-with-legends
@@ -787,7 +823,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] James Bond 26: What Denis Villeneuve's Favorite Bond Movies Can Tell Us About His Plans for the Franchise
+[31] James Bond 26: What Denis Villeneuve's Favorite Bond Movies Can Tell Us About His Plans for the Franchise
 Source: ComicBook.com | Status: expanded | Words: 809
 Published: 2026-11-22T12:06:00+00:00
 URL: https://comicbook.com/movies/feature/james-bond-26-what-denis-villeneuves-favorite-bond-movies-can-tell-us-about-his-plans-for-the-franchise
@@ -817,7 +853,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] One of TV's Weirdest Unsolved Mysteries Happened 39 Years Ago, And Doctor Who Is a Forgotten Piece Of It
+[32] One of TV's Weirdest Unsolved Mysteries Happened 39 Years Ago, And Doctor Who Is a Forgotten Piece Of It
 Source: ComicBook.com | Status: expanded | Words: 842
 Published: 2026-11-22T11:24:00+00:00
 URL: https://comicbook.com/tv-shows/feature/one-of-tvs-weirdest-unsolved-mysteries-happened-39-years-ago-and-doctor-who-is-a-forgotten-piece-of-it
@@ -845,7 +881,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Every Marvel Movie That Secretly Set Up Doctor Doom's MCU Arrival, Even If It Wasn’t Planned
+[33] Every Marvel Movie That Secretly Set Up Doctor Doom's MCU Arrival, Even If It Wasn’t Planned
 Source: ComicBook.com | Status: expanded | Words: 983
 Published: 2026-11-22T10:44:00+00:00
 URL: https://comicbook.com/movies/list/every-marvel-movie-that-secretly-set-up-doctor-dooms-mcu-arrival-even-if-it-wasnt-planned
@@ -885,7 +921,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] BBC Apologizes After 'Strictly Come Dancing' Is Interrupted By Sex Noises
+[34] BBC Apologizes After 'Strictly Come Dancing' Is Interrupted By Sex Noises
 Source: Deadline | Status: expanded | Words: 465
 Published: 2026-11-22T10:36:00+00:00
 URL: https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116
@@ -917,7 +953,7 @@ The former England player looked perplexed by the noise in the studio, joking to
 Lineker later tweeted a picture of a phone, which he said had been taped to the back of the set in an apparent act of sabotage.
 
 ============================================================
-[33] James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’
+[35] James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’
 Source: Variety | Status: expanded | Words: 784
 Published: 2026-11-22T10:15:50+00:00
 URL: https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238
@@ -957,7 +993,7 @@ Gray, meanwhile, recalled that he once believed cinema might follow the trajecto
 &#x201C;I have a kind of optimism about the availability of technology and how that will introduce new voices.&#x201D;
 
 ============================================================
-[34] Tim Burton’s Batman Set-Up an Incredible Twist on a Classic DC Villain, But It Took 28 Years to Happen
+[36] Tim Burton’s Batman Set-Up an Incredible Twist on a Classic DC Villain, But It Took 28 Years to Happen
 Source: ComicBook.com | Status: expanded | Words: 905
 Published: 2026-11-22T10:01:00+00:00
 URL: https://comicbook.com/movies/feature/tim-burtons-batman-set-up-an-incredible-twist-on-a-classic-dc-villain-but-it-took-28-years-to-happen
@@ -991,7 +1027,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] SXSW Forges Partnership With Egypt's UTH Festival Dedicated to Youth Culture
+[37] SXSW Forges Partnership With Egypt's UTH Festival Dedicated to Youth Culture
 Source: Variety | Status: expanded | Words: 562
 Published: 2026-11-22T09:41:26+00:00
 URL: https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220
@@ -1023,7 +1059,7 @@ El Aawar added: "Our partnership with SXSW is about building that bridge, creati
 Pictured above: Omar El Aawar, founder and CEO of UTH (seated left); Peter Lewis, chief commercial officer of SXSW (seated right). DigiSay founder Ahmed Abbas (standing left) and UTH co-founder Ahmed Ragy (standing right).
 
 ============================================================
-[36] Could Succession Get A Spinoff Show? Kieran Culkin Has a Hilariously Blunt Response
+[38] Could Succession Get A Spinoff Show? Kieran Culkin Has a Hilariously Blunt Response
 Source: ComicBook.com | Status: expanded | Words: 570
 Published: 2026-11-22T09:37:26+00:00
 URL: https://comicbook.com/tv-shows/news/could-succession-get-a-spinoff-show-kieran-culkin-has-a-hilariously-blunt-response
@@ -1047,7 +1083,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Neon-Backed Biopic 'Caesar,' About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin
+[39] Neon-Backed Biopic 'Caesar,' About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin
 Source: Variety | Status: expanded | Words: 783
 Published: 2026-11-22T09:28:22+00:00
 URL: https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196
@@ -1091,7 +1127,7 @@ Larocca at the press conference noted that "it is very rare for a film of this n
 The Doha Film Festival's second edition runs Nov. 19-27 in the Qatari capital.
 
 ============================================================
-[38] Before Robert Downey Jr., These 3 Marvel Stars Who Were Never on Set as Their Beloved Characters Either
+[40] Before Robert Downey Jr., These 3 Marvel Stars Who Were Never on Set as Their Beloved Characters Either
 Source: ComicBook.com | Status: expanded | Words: 833
 Published: 2026-11-22T09:18:00+00:00
 URL: https://comicbook.com/movies/list/before-robert-downey-jr-these-3-marvel-stars-who-were-never-on-set-as-their-beloved-characters-either
@@ -1121,7 +1157,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] A Cult '80s Character Had His Final TV Appearance 36 Years Ago, And He Wasn't Officially Back for Decades
+[41] A Cult '80s Character Had His Final TV Appearance 36 Years Ago, And He Wasn't Officially Back for Decades
 Source: ComicBook.com | Status: expanded | Words: 1259
 Published: 2026-11-22T08:33:00+00:00
 URL: https://comicbook.com/movies/list/a-cult-80s-character-had-his-final-tv-appearance-36-years-ago-and-he-wasnt-officially-back-for-decades
@@ -1159,7 +1195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Katseye Brings Out Camila Cabello for 'Gabriela' Dance at Los Angeles Show
+[42] Katseye Brings Out Camila Cabello for 'Gabriela' Dance at Los Angeles Show
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-22T08:04:12+00:00
 URL: https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210
@@ -1181,7 +1217,7 @@ Throughout the show, Katseye gave a tour of their discography from the past few 
 Watch Avanzini perform with Cabello below:
 
 ============================================================
-[41] Karla Sofia Gascon Says 'Emilia Perez' Oscar Controversy Came From People Who 'Didn't Want Someone Like Me to Receive an Award'
+[43] Karla Sofia Gascon Says 'Emilia Perez' Oscar Controversy Came From People Who 'Didn't Want Someone Like Me to Receive an Award'
 Source: Variety | Status: expanded | Words: 964
 Published: 2026-11-22T07:39:54+00:00
 URL: https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205
@@ -1225,7 +1261,7 @@ Gascon traced her affection for India to a Madrid screening of Deepa Mehta's "Wa
 She also said filmmakers too often cast to labels such as "Spanish" or "she is a woman" instead of trusting actors' range. "It's nice when Indian people work in Spain, work in the United States. I love when a Russian works in Africa," Gascon said. "I think we are all the same humanity."
 
 ============================================================
-[42] Tom Cruise Starred in a Sequel He Was Completely Miscast for 10 Years Ago, But He Somehow Made It Work
+[44] Tom Cruise Starred in a Sequel He Was Completely Miscast for 10 Years Ago, But He Somehow Made It Work
 Source: ComicBook.com | Status: expanded | Words: 810
 Published: 2026-11-22T04:25:40+00:00
 URL: https://comicbook.com/movies/feature/tom-cruise-starred-in-a-sequel-he-was-completely-miscast-for-10-years-ago-but-he-somehow-made-it-work
@@ -1255,7 +1291,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] 'American Psycho' Gets Axed: Luca Guadagnino Confirms His Adaptation Is "Not Happening"
+[45] 'American Psycho' Gets Axed: Luca Guadagnino Confirms His Adaptation Is "Not Happening"
 Source: Deadline | Status: expanded | Words: 336
 Published: 2026-11-22T04:21:37+00:00
 URL: https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106
@@ -1279,7 +1315,7 @@ But in February, Ellis claimed that multiple high-profile actors " have turned i
 Ellis teased that the film would be "completely different" from Mary Harron's 2000 adaptation of American Psycho , which starred Christian Bale as homicidal investment banker Patrick Bateman, the literary character that Ellis created as a satirical take on masculinity. The Harron-helmed adaptation also starred Justin Theroux, Josh Lucas, Chlo&#xEB; Sevigny, Reese Witherspoon, Jared Leto, Willem Dafoe and more.
 
 ============================================================
-[44] No Matter What Happens Next With Batman, This Reeves-verse Cliffhanger Needs to Be Resolved
+[46] No Matter What Happens Next With Batman, This Reeves-verse Cliffhanger Needs to Be Resolved
 Source: ComicBook.com | Status: expanded | Words: 1158
 Published: 2026-11-22T04:06:23+00:00
 URL: https://comicbook.com/tv-shows/feature/no-matter-what-happens-next-with-batman-this-reeves-verse-cliffhanger-needs-to-be-resolved
@@ -1309,7 +1345,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] 20 Years Ago, Bleach's Dub Forever Changed a Major Plot Twist &#038; Fans Didn't Even Notice
+[47] 20 Years Ago, Bleach's Dub Forever Changed a Major Plot Twist &#038; Fans Didn't Even Notice
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-22T04:04:01+00:00
 URL: https://comicbook.com/anime/feature/20-years-ago-bleachs-dub-forever-changed-a-major-plot-twist-fans-didnt-even-notice
@@ -1335,7 +1371,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Battlestar Galactica Is the Best TV Series of the 2000s and Nothing Has Even Come Close to It Since
+[48] Battlestar Galactica Is the Best TV Series of the 2000s and Nothing Has Even Come Close to It Since
 Source: ComicBook.com | Status: expanded | Words: 1356
 Published: 2026-11-22T03:40:21+00:00
 URL: https://comicbook.com/tv-shows/feature/battlestar-galactica-is-the-best-tv-series-of-the-2000s-and-nothing-has-even-come-close-to-it-since
@@ -1375,7 +1411,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] After 31 Years, This Legendary Sci-Fi Anime Movie Still Has No Worthy Competition
+[49] After 31 Years, This Legendary Sci-Fi Anime Movie Still Has No Worthy Competition
 Source: ComicBook.com | Status: expanded | Words: 575
 Published: 2026-11-22T03:35:20+00:00
 URL: https://comicbook.com/anime/feature/after-31-years-this-legendary-sci-fi-anime-movie-still-has-no-worthy-competition
@@ -1401,7 +1437,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] 4 Forgotten Sci-Fi Movies That Were Too Strange for Hollywood (&#038; 1 Was Almost Impossible to Market)
+[50] 4 Forgotten Sci-Fi Movies That Were Too Strange for Hollywood (&#038; 1 Was Almost Impossible to Market)
 Source: ComicBook.com | Status: expanded | Words: 1152
 Published: 2026-11-22T03:32:54+00:00
 URL: https://comicbook.com/movies/list/4-forgotten-sci-fi-movies-that-were-too-strange-for-hollywood-1-was-almost-impossible-to-market
@@ -1429,66 +1465,6 @@ The story touches on topics like punk culture, sexuality, drugs, and gender iden
 Did you know Sean Connery starred in a movie that went very wrong? After spending much of his career playing James Bond , he showed up in Zardoz wearing a red loincloth, leather boots, and suspenders. That's strange enough, right? But there's more. The story takes place in 2293, in a post-apocalyptic world divided between the Exterminators, warriors who worship an entity called Zardoz, and the Eternals, an isolated society that has managed to achieve immortality. Zed (Connery) is one of these warriors who eventually goes to the Eternals' territory and finds out their perfect way of life actually comes with a whole set of problems. Through this premise, the movie sets out to explore moral questions, religion, social control, sexuality, and the future of humanity.
 
 However, Zardoz has so many things to say that it gets lost in its own ideas. There are philosophical debates, religious symbolism, some bizarre situations, and visual choices that are hard to make sense of. And while having Connery as the lead could have been a great selling point, his unexpected appearance only made the movie even more confusing for some people. Ultimately, the production performed terribly and received mostly negative reviews (a reputation that has followed it over the years). Some of its ideas are actually quite interesting, but they needed to be developed in a way that could keep the audience engaged. You can certainly find people who enjoy it, but it's one of those features that falls into the "it's so crazy, it's good" category .
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Avengers: Doomsday's Original X-Men Reunion Didn't Turn Out Behind-the-Scenes Like Fans Expected
-Source: ComicBook.com | Status: expanded | Words: 765
-Published: 2026-11-22T03:27:00+00:00
-URL: https://comicbook.com/movies/news/avengers-doomsdays-original-x-men-reunion-didnt-turn-out-behind-the-scenes-like-fans-expected
-------------------------------------------------------------
-SUMMARY:
-This sentiment is especially meaningful when it comes to seeing a supergroup return to the roles that first made its members stars. That certainly rings true for the actors who were instrumental in kicking off a new era of comic book movies. It's even more meaningful for the die-hard Marvel fans who are excited about […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google This sentiment is especially meaningful when it comes to seeing a supergroup return to the roles that first made its members stars. That certainly rings true for the actors who were instrumental in kicking off a new era of comic book movies. It's even more meaningful for the die-hard Marvel fans who are excited about the return of the original X-Men to the big screen in Avengers: Doomsday . Professor X, Magneto, Cyclops, Mystique, and Nightcrawler are part of a reunion that, at one point, seemed to be a crossover Hollywood would never see.
-
-And yet, getting everyone to slip right back into their old roles wasn't necessarily an entirely enjoyable experience on set. The returning actors have described rather different experiences, in some cases, when it comes to being a part of this new Marvel blockbuster. One of the returning mutants has shed some interesting light on why this much-anticipated comeback felt, in many ways, like a far cry from the full-cast reunion fans had been hoping for. Regardless, it wasn't a terrible experience by any means, but it's definitely worth taking a deeper dive into some accounts of what supposedly happened behind the scenes.
-
-The most noteworthy piece of information surrounds actor Alan Cumming's involvement, as he makes his return as Nightcrawler after he was introduced as the teleporting mutant in 2003's X2 . Cumming said that the returnees didn't spend quite as much time together as fans may have thought. Much of the filming was done on separate sets and in different locations, meaning the returning actors didn't necessarily get to spend time chatting as old friends between takes, as many fans may have originally imagined. Still, the rapport hasn't deteriorated, as Cumming has maintained relationships with many of his co-stars over the years. And who can forget the trailer when Nightcrawler was first revealed? I remember I was super hyped when I first saw it.
-
-There's even a fascinating history behind these friendships. Cumming has already spoken about the trouble he had in makeup when filming X2 , in order to be turned into Nightcrawler . Though the production left its mark on the cast, it also created bonds that lasted long after filming wrapped. Cumming has described his reentry into the Marvel franchise as far more jovial, especially compared to all the reasons he had for leaving the character in the first place. Clearly, it's been a whole lot more fun to get back into makeup and costume when things around the actor are starting to look up.
-
-This reunion is also particularly meaningful to those who have been in the superhero fandom for a long time. X-Men 's 2000 adaptation came nearly a decade before the start of the Marvel Cinematic Universe with 2008's Iron Man . Patrick Stewart and Ian McKellen set the stage for two of the most iconic characters in the genre with Professor X and Magneto. James Marsden gave an unforgettable performance as Cyclops, Rebecca Romijn was Mystique, and Cumming went on to play Nightcrawler in the follow-up, X2 . Overall, those actors created the foundation for the superhero movies that would come after. Kevin Feige himself was an associate producer on the original X-Men .
-
-It also makes it easier to come to terms with the working conditions of these reunion productions, with Marsden also having spoken of his joy at being able to see his previous co-stars again and Romijn having noted that her return to Mystique was a very surreal one. Still, it does partly take some of the sting out of the production's frankly inconsistent reunion plans. Even if they weren't all in the same place every day, they still got to do this for at least some time, and that part of it really is pretty special, especially given the chance to see Patrick Stewart return as Professor X one final time in what will now be his final on-screen appearance. Avengers: Doomsday will premiere on December 18, 2026, bringing together the different generations of Marvel characters for everyone who grew up on the first mutants. For those who remember the old days, it isn't just a hero showdown; it is a chance to think about the dawning of a new chapter.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Spider-Man: Brand New Day’s “Encore” Extended Cut Could Give Marvel a Record That's Impossible to Beat
-Source: ComicBook.com | Status: expanded | Words: 806
-Published: 2026-11-22T03:24:19+00:00
-URL: https://comicbook.com/movies/feature/spider-man-brand-new-days-encore-extended-cut-could-give-marvel-a-record-thats-impossible-to-beat
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Marvel/Sony The MCU is no stranger to breaking records, as many of the franchise's movies have gone on to become overwhelming box office hits. However, Spider-Man: Brand New Day is on track to break one of the most impressive records in movie history, and it'll never be done again. Spider-Man: Brand New Day has been a […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google The MCU is no stranger to breaking records, as many of the franchise's movies have gone on to become overwhelming box office hits. However, Spider-Man: Brand New Day is on track to break one of the most impressive records in movie history, and it'll never be done again.
-
-Spider-Man: Brand New Day has been a huge box office success , with it not only becoming the highest-grossing solo superhero movie of all time, but also the third highest-grossing movie ever. The film has made $2.52 billion so far, and if things go according to Marvel's plans, that'll be far from its final total.
-
-Spider-Man: Brand New Day is getting a rerelease , and it will hit theaters on Friday, December 4. The rerelease is set to include 10 minutes of new footage that wasn't seen in the film's original theatrical run, including a cut scene that features the return of Rosario Dawson's Claire Temple from Daredevil . This is incredibly exciting for fans, as the return of this cameo and several other cut moments could make the already great film even better.
-
-However, Brand New Day 's rerelease is also incredibly exciting for Marvel Studios. During the film's original theatrical release, Spider-Man: Brand New Day grossed $959 million domestically, making it the highest-grossing film at the domestic box office of all time. The fourth MCU Spider-Man film passed other big hits, like the previous record holder, 2015's Star Wars: Episode VII - The Force Awakens , as well as 2019's Avengers: Endgame , and even 2021's Spider-Man: No Way Home .
-
-What could make things even more impressive is that, if the rerelease makes only $41 million, Spider-Man: Brand New Day will become the first film to cross $1 billion at the domestic box office. While plenty of films have hit this number worldwide, it has yet to be done domestically, at least as of the writing of this article. While future movies could also pass this milestone domestically, Brand New Day has the chance to be the only film that can claim that it did it first.
-
-It isn't a stretch for Brand New Day to make more than $41 million, based on Marvel's previous rereleases. Avengers: Endgame Encore , the 2026 rerelease of the 2019 conclusion to the Infinity Saga, made $40.1 million domestically. So, Brand New Day just has to barely surpass this in order to meet this goal. The rerelease will hit theaters mere weeks before Doomsday 's release, and the hype of the crossover could help boost Brand New Day 's box office. It will be close, but this could make Brand New Day 's rerelease an even more significant box office moment than Doomsday 's.
-
-Spider-Man: Brand New Day will be the third MCU film to get an enhanced rerelease, after 2022's Spider-Man: Brand New Day - The More Fun Stuff Version and 2026's Avengers: Endgame Encore . Each of these rereleases has given their original films a second wind, helping to pad the box office and extend their cultural relevance. This experiment seems to be paying off for Marvel, as the number of rereleases has gone from a coincidence to a pattern.
-
-So, if Brand New Day 's rerelease is more successful than Endgame Encore , it wouldn't be surprising to see more rereleases drop in the future. For example, 2025's The Fantastic Four: First Steps would be the perfect candidate for a rerelease. We know that lots of footage was left out of The Fantastic Four , including John Malkovich's Red Ghost. The film wasn't as big of a box office hit as Marvel had hoped, but now that Doomsday is boosting the popularity of these characters, the MCU could capitalize on this by releasing the film again. Adding in these cut scenes would warrant a viewing from preexisting fans, while one last shot at a theatrical experience could simultaneously bring new fans in.
-
-It is also possible that Marvel could have designed Avengers: Doomsday with an Encore cut in mind. 2027 could see the film get a rerelease ahead of Secret Wars , this time with more cameos or a cut fight scene. While pre-planning an enhanced edition may seem a bit more scummy than making one out of footage that just so happened to be dropped from the original cuts, it is impossible to rule out this possibility.
-
-Which Marvel films do you want to see an Encore cut of? Let us know on the ComicBook Forum !
 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
