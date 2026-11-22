@@ -5,9 +5,39 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T00:07:36.057Z"
+    "updated_at": "2026-11-22T00:11:33.104Z"
   },
   "articles": [
+    {
+      "id": "c26848d1-638e-4dc6-946f-732d2c682ffa",
+      "title": "John Carpenter Reveals Robert Rodriguez In Running To Helm 'Escape from New York' Reimagining",
+      "summary": "After 45 years, John Carpenter is still finding the right director to break an old cult classic out of lockup. Having recently tapped Zack Snyder to write and direct a reimagining of Escape from New York, Carpenter noted he's been considering another candidate, despite being told Synder is \"on fire\" during a recent podcast appearance. […]",
+      "content": "After 45 years, John Carpenter is still finding the right director to break an old cult classic out of lockup.\n\nHaving recently tapped Zack Snyder to write and direct a reimagining of Escape from New York , Carpenter noted he's been considering another candidate, despite being told Synder is \"on fire\" during a recent podcast appearance.\n\n\"He's not anymore, but he&#x2019;s trying to get back,\" Carpenter said on the Dropping Names podcast. \"We'll see. He&#x2019;s a nice man. I liked him.\"\n\nThe comment came after Snyder's The Last Photograph premiered at TIFF in September to poor reviews, mostly over the film's excessive violence and apparent homophobia. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nCarpenter added, \"We have a backup: Robert Rodriguez wants to. He a new story he wants to do. So, we'll see.\"\n\nMeanwhile, after co-writing and directing the original, Carpenter is returning to compose the score once again. \"I demanded to be the composer … we're gonna remake the score,\" he noted.\n\nThe hunt for a director to helm the Escape from New York has had several candidates over the years, including Radio Silence and Neil Cross .\n\nIn Escape from New York , special forces operative-turned-prisoner Snake Plissken (Kurt Russell) has 24 hours to rescue the president of the United States from the island of Manhattan, which has been converted into the country's only maximum security prison. The 1996 sequel Escape from L.A. followed.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
+      "published_at": "2026-11-22T00:10:01+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Escape-New-York-Robert-Rodriguez-2-shot.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 302,
+      "extracted_at": "2026-11-22T00:11:19.055463+00:00",
+      "updated_at": "2026-11-22T00:11:19.055463+00:00"
+    },
+    {
+      "id": "390d39a5-c31b-4cb0-8b39-475ed32a8d49",
+      "title": "John Madden Famously Quit The Raiders. One Madden Star Had To Film This On Day 1",
+      "summary": "Talk about pressure on your first day!",
+      "content": "Light spoilers for Madden lie ahead, so read on with that in mind.\n\nCB had the opportunity to speak with Madden cast members Kathryn Hahn and Sienna Miller about their performances as Virginia Madden and Carol Davis, respectively. During the chat, I also couldn’t help but ask about what it was like for them to shoot that quitting scene. Surprisingly enough, filming for that scene began during Miller’s very first day on set. The Horizon star admitted to having felt “abject terror” over the prospect of starting with that scene and working with Hahn, Cage and Christian Bale . Miller recalled:\n\nHonestly, I can understand exactly where the Jack Ryan : Ghost War star is coming from. Sure, she’s been on more than her fair share of movie sets, but to have to start her job with such a massive scene and doing so with such talented actors. She wasn’t the only person on set feeling a bit of pressure, though, as Hahn – who’s done Marvel projects at this point – said she was nervous as well:\n\nThe scene in question sees John and Virginia meeting with Raiders owner Al Davis (Bale) and Miller so that Madden can quit the team due to serious health issues. During the chat, Al and Carol try to convince John that his bleeding ulcer will pass and that he should continue coaching in the pursuit of more Super Bowl titles. While John is briefly swayed to hold onto his job, he – at Virginia’s urging – does ultimately retire, much to Al’s disappointment. It’s an over-the-top scene that’s as important as it is ridiculous.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/madden-star-sienna-miller-first-day-filmed-john-madden-quitting-raiders",
+      "published_at": "2026-11-22T00:06:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nt4gFKkzMV78C78pdhszGa-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 271,
+      "extracted_at": "2026-11-22T00:09:18.866822+00:00",
+      "updated_at": "2026-11-22T00:09:18.866822+00:00"
+    },
     {
       "id": "fd53dd02-fe9f-46f5-a7dc-bbe5b8186dd5",
       "title": "A Cancelled Comic Ended Up One of the Most Important Issues in Marvel History All Because of One Character",
@@ -727,36 +757,6 @@
       "word_count": 335,
       "extracted_at": "2026-11-21T19:05:07.501445+00:00",
       "updated_at": "2026-11-21T19:05:07.501445+00:00"
-    },
-    {
-      "id": "c3f500b5-b19d-42a9-8090-88b5a397a8c4",
-      "title": "Hollywood’s Biggest Watch Nerds Are Obsessing Over These Indie Brands",
-      "summary": "From Keanu Reeves to Samuel L. Jackson to Ryan Reynolds, in-the-know insiders favor niche watchmakers that surprise and spark conversations.",
-      "content": "Watchmaker Denis Flageollet founded De Bethune in 2002 with art collector David Zanetta. The DB25 Digitale reimagines digital time, with the hour individually displayed above minutes on a rotating disc, while a spherical moon-phase function is positioned in the center of a dial crafted in blued titanium, all set in a 42mm titanium case. At The 1916 Company, Manhattan Beach.\n\nWatchmaker Felix Baumgartner and chief designer Martin Frei co-founded Urwerk in 1997, naming the brand for the Mesopotamian city of Ur, where Sumerians pioneered timekeeping. The UR-300 Time Quantum employs a sculptural approach to time via a T-shape metal frame, on which numbers rotate and rearrange to display hours and minutes. At Urwerk USA, Beverly Hills. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories TV Melania Trump Stresses Humanitarian Efforts at Chic Premiere for Two-Episode Series Documentary Follow-Up Movies Florence Pugh Celebrates Robert Pattinson's Bond Casting: \"He's Been the No. 1 Vote in My Household\"\n\nA legend in watch circles, Jean-Claude Biver launched his eponymous brand in 2023 &#x2014; his latest, the 38mm Biver AB, blends brushed and polished steel, while the dial is crafted of solid 18-karat gold beneath a dark gray treatment. Exclusively at Material Good, New York City.\n\nNamed after watchmaker Fran&#xE7;ois Czapek, who founded his firm in 1845, the Geneva-based brand was revived in 2015 to honor his legacy. The latest model, the 40.5mm Antarctique Tourbillon Victory Green, got its start as a bespoke order and now is available in a limited series of 10 numbered pieces, each one produced on demand. At Cellini Jewelers, New York.\n\nMaster watch restorer Michel Parmigiani founded his firm in Fleurier, Switzerland, in 1996. This month, he won the Chronograph Prize at the 2026 Grand Prix d&#x2019;Horlogerie de Gen&#xE8;ve, the Oscars of watchmaking, for the Tonda PF Chronographe Myst&#xE9;rieux &#x2014; its styling is similar to this Toric Petite Seconde Platinum Morning Blue, which debuted in October. At Feldmar Watch Company, Los Angeles. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nGeneva&#x2019;s MB&F debuted in 2005 as a concept house, in which founder Maximilian B&#xFC;sser would partner with independent watchmakers and artisans. Limited to 33 pieces, the LM1 EVO offers two separate time displays and an oversized flying balance wheel suspended above the movement. At MB&F Lab at Westime, Beverly Hills.\n\nIndustrial designer Beno&#xEE;t Mintiens founded Ressence in 2010 in Antwerp, Belgium, crafting pieces that tell time using a system of orbiting, rotating discs. Weighing just 82 grams, the Type 10 DN is seamlessly crafted of two independent sections, allowing the movement to function while the display above is filled with oil. At Feldmar Watch Company, Los Angeles.\n\nHeinrich Moser founded his namesake brand in 1828; 174 years later, his great-grandson relaunched it in northern Switzerland. This Heritage Centre Seconds Espresso Fum&#xE9; honors the early 20th century moment when wristwatches became the preferred timekeeping device over pocket watches . At Westime, Rodeo Drive.\n\nThis story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/lifestyle/style/indie-watch-brands-hollywood-1236760300",
-      "published_at": "2026-11-21T19:00:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 528,
-      "extracted_at": "2026-11-21T19:01:04.931867+00:00",
-      "updated_at": "2026-11-21T19:01:04.931867+00:00"
-    },
-    {
-      "id": "cd5f9797-b21b-41d4-86be-2906efcc15b1",
-      "title": "Why Bari Weiss’ CBS News Is Going Through More Staff Shakeups Months After 60 Minutes Firings",
-      "summary": "More changes are coming to CBS News.",
-      "content": "Over a year into her tenure as CBS News’ Editor-in-Chief, Bari Weiss has sought to move the storied organization into a new era. Those attempts have apparently come with some growing pains, however, as the network has seen staffing changes and fluctuating ratings in recent months. At the same time, drama has been swirling around Weiss due to her reported vision for the brand and editorial decisions she’s made. Now, the company is experiencing more major staffing shakeups months after those 60 Minutes exits .\n\nIn the aftermath of the Paramount Skydance/Warner Bros. Discovery merger, the media conglomerate Skydance has been born, and further consolidation is on the horizon. The new company recently offered buyouts to employees at CBS News, and dozens of employees reportedly accepted the deals. Status (via The Daily Beast ) reports that different departments within the Eye Network’s news branch were impacted, including CBS Evening News , CBS Mornings , 60 Minutes and the company’s news bureaus.\n\nA source spoke out about this major development, saying “It’s pretty much an extinction-level event.” That particular insider was apparently from the London bureau, which has reportedly been hit the hardest by the buyouts. As for the cause of this, it’s said that London-based employees had been displeased with Foreign Editor Shayndi Raice since she allegedly called out staffers for “insubordination.” Concerns about CBS News being merged with (the recently acquired) CNN are also said to have factored into these staff exits.\n\nWhat’s also notable about this situation is that it comes on the heels of a significant development regarding CBS News’ Face the Nation . Senior executive producer Mary Hager is leaving the show and the network after having worked there for 35 years. (It’s unclear whether Hager’s departure has to do with her accepting a buyout.) Additionally, executive producer Anne Hsu is leaving as well for a new gig with the network’s Hong Kong bureau. So Weiss now finds herself in the position to reshape the show after allegedly having considered firing host Margaret Brennan earlier this year.\n\nWeiss and 60 Minutes executive producer Nick Bilton made some major changes to the news magazine show on May 28, 2026 (which is allegedly known as “Black Thursday” within the company). On that day, the company officially parted ways with veteran correspondents Sharyn Alfonsi and Cecilia Vega as well as EP Tanya Simon and others for reasons that have still yet to be specified. And, shortly after that, another seasoned correspondent – Scott Pelley – was fired after a heated meeting with Bilton. It was during that conversation that Pelley allegedly accused Weiss of “murdering” the show .",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/bari-weiss-cbs-news-more-staff-shakeups-months-after-60-minutes-firings",
-      "published_at": "2026-11-21T18:48:51+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wymiTn9xP3GLpothFMiXo7-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 439,
-      "extracted_at": "2026-11-21T18:51:03.585218+00:00",
-      "updated_at": "2026-11-21T18:51:03.585218+00:00"
     }
   ]
 }
