@@ -1,9 +1,41 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-22T19:32:33.350Z
+Last Updated: 2026-11-22T19:40:29.563Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Noah Kahan Deserved a Lot More Grammy Love Than Just One Minor Nomination. Here's Why He Didn't Get It
+[1] 'Madden' Sparks Backlash From Raiders Owner Mark Davis Over Father Al Davis' Portrayal: "That Hurts"
+Source: Deadline | Status: expanded | Words: 641
+Published: 2026-11-22T19:39:29+00:00
+URL: https://deadline.com/2026/11/madden-backlash-mark-davis-father-al-portrayal-hurts-1237231216
+------------------------------------------------------------
+SUMMARY:
+As John Madden's life gets the biopic treatment, his longtime colleague and friend Al Davis' family is not pleased with their late patriarch's portrayal. Las Vegas Raiders owner Mark Davis, whose father Al recruited Madden to coach for the NFL team when they were located in Oakland in 1967, criticized David O. Russell's Madden for […]
+
+CONTENT / EXTRACTED DETAILS:
+As John Madden 's life gets the biopic treatment, his longtime colleague and friend Al Davis ' family is not pleased with their late patriarch's portrayal.
+
+Las Vegas Raiders owner Mark Davis , whose father Al recruited Madden to coach for the NFL team when they were located in Oakland in 1967, criticized David O. Russell 's Madden for its "totally unfair" depiction his father (portrayed by Christian Bale ), who died at age 82 in 2011.
+
+"It was full of turducken," he told USA Today of the movie, referencing the Thanksgiving dish Madden popularized.
+
+Mark continued, "As far as representations of my dad, yeah, that hurts, and I did the best I could to protect him. It's absolutely a crime that they're able to treat people that have passed away and characterize them in ways that are unfair, and there's nobody around to protect their legacies. It's just unfair. I don't know what the purpose of the movie was to be real honest." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+He doesn't consider his father "a pimp like Christian Bale played him, but that's fine," noting, "And I don't blame Christian Bale. I don't blame Nicolas Cage. All they did was what the director and the writers told them to do."
+
+Having screened the film two weeks before its release, Mark was surprised by a scene depicting the 1978 preseason game that paralyzed New England Patriots wide receiver Darryl Stingley, in which Al discourages Madden (Nicolas Cage) from seeing the player in the hospital.
+
+"One of the main legacies of my father was how much he took care of people, whether it was on the Raiders or other teams," said Mark. "People that were ill or needed help or whatever. He helped so many players on other teams that it's incredible. And he did it quietly.
+
+"And for them to put in the Darryl Stingley incident, that my dad was trying to talk John out of going to see him &#x2013; that was just such a hurt to me personally, because that's my father's legacy, is how he treated people. No matter whether they were Raiders or not, he cared about people. That's one of the redeeming qualities of my father throughout his life. And I just thought it was totally unfair for them to portray it that way," added Mark. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+While he said that scene "hurt" him, Mark added, "All the other crap, I could take all that (stuff). I don't care if they talk about my haircuts and stuff like that. I don't know what it had to do with anything, but I don't mind that. &#x2029;They can do that to me. But to do that to somebody that's passed away, that can't defend himself, is totally unfair. And I'm sure that there's gonna be thousands of people that could contradict what that clip portrayed my father as."
+
+Mark added that the portrayal of his mother Carol Davis (played by Sienna Miller) and John's wife Virginia Madden (Kathryn Hahn) is "all made up stuff too," conceding, "But there are some, you know, elements of them in that. I will say that, but not much."
+
+Co-written by Russell and Cambron Clark, Madden charts John Madden's career from Raiders coach to TV broadcaster to the namesake of the Madden NFL video game franchise.
+
+============================================================
+[2] Noah Kahan Deserved a Lot More Grammy Love Than Just One Minor Nomination. Here's Why He Didn't Get It
 Source: Variety | Status: expanded | Words: 1988
 Published: 2026-11-22T19:30:19+00:00
 URL: https://variety.com/2026/music/columns/noah-kahan-lack-of-grammy-nominations-reasons-1236955321
@@ -45,7 +77,7 @@ But I can think of other artists besides Kahan I think got "robbed" in the top c
 In the meantime, as Kahan fans lick wounds, they ought to be able to take some comfort in the hundred factors that make even a worthy contender get shut out, or nearly ignored. It's not him, it's them &#x2014; in all sorts of ways &#x2014; and there are real reasons to believe that, not just the delusional ones hardcore stans come up with to justify more negligible artists being slighted. And if the reasons for being left out have to do with being the kind of artist who snuck up completely between the cracks, and who's thriving beyond belief, even as he continues to be a little bit stepped over, that's a triumph that might finally be even better than a Grammy.
 
 ============================================================
-[2] GTA 6's Jason and Lucia Are Exactly What Grand Theft Auto's Storytelling Has Been Missing
+[3] GTA 6's Jason and Lucia Are Exactly What Grand Theft Auto's Storytelling Has Been Missing
 Source: ComicBook.com | Status: expanded | Words: 1047
 Published: 2026-11-22T19:30:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6s-jason-and-lucia-are-exactly-what-grand-theft-autos-storytelling-has-been-missing
@@ -77,7 +109,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Dragon Ball Super Remake Gives Frieza's Return a Major Upgrade
+[4] Dragon Ball Super Remake Gives Frieza's Return a Major Upgrade
 Source: ComicBook.com | Status: expanded | Words: 634
 Published: 2026-11-22T19:13:48+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-remake-gives-friezas-return-a-major-upgrade
@@ -105,7 +137,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 5 Common Misconceptions Even Longtime Fans Have About Batman, Especially When it Comes to Killing
+[5] 5 Common Misconceptions Even Longtime Fans Have About Batman, Especially When it Comes to Killing
 Source: ComicBook.com | Status: expanded | Words: 1529
 Published: 2026-11-22T19:04:00+00:00
 URL: https://comicbook.com/comics/list/5-common-misconceptions-even-longtime-fans-have-about-batman-especially-when-it-comes-to-killing
@@ -145,7 +177,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Nintendo Switch 2 Report Reveals 4 Open-World Games Coming to the Console
+[6] Nintendo Switch 2 Report Reveals 4 Open-World Games Coming to the Console
 Source: ComicBook.com | Status: expanded | Words: 574
 Published: 2026-11-22T19:02:00+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-2-games-open-world-leak
@@ -175,7 +207,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] David Leitch Gives 'Ocean's 14' Update, Notes "Lot Of Motivation" To Make Sequel
+[7] David Leitch Gives 'Ocean's 14' Update, Notes "Lot Of Motivation" To Make Sequel
 Source: Deadline | Status: expanded | Words: 330
 Published: 2026-11-22T19:01:06+00:00
 URL: https://deadline.com/2026/11/david-leitch-oceans-14-update-lot-motivation-make-sequel-1237231206
@@ -201,7 +233,7 @@ Ocean's 14 will mark the first installment in the main franchise not directed by
 Meanwhile, Bradley Cooper is attached write and direct an Ocean's 11 prequel , which will star Ryan Gosling and Margot Robbie as Danny Ocean's parents.
 
 ============================================================
-[7] The Hotel Bel-Air’s Menu Returns to Tradition
+[8] The Hotel Bel-Air’s Menu Returns to Tradition
 Source: The Hollywood Reporter | Status: expanded | Words: 260
 Published: 2026-11-22T19:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hotel-bel-airs-returns-classic-menu-1236757360
@@ -219,7 +251,7 @@ The bill of fare has long had a dedicated section of "Bel-Air Classics": the tor
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[8] Grand Theft Auto 6 Has an Almost Impossible Task Ahead of It, And GTA Online Is the Reason
+[9] Grand Theft Auto 6 Has an Almost Impossible Task Ahead of It, And GTA Online Is the Reason
 Source: ComicBook.com | Status: expanded | Words: 978
 Published: 2026-11-22T19:00:00+00:00
 URL: https://comicbook.com/gaming/feature/grand-theft-auto-6-has-an-almost-impossible-task-ahead-of-it-and-gta-online-is-the-reason
@@ -249,7 +281,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’
+[10] Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’
 Source: Variety | Status: expanded | Words: 308
 Published: 2026-11-22T18:47:06+00:00
 URL: https://variety.com/2026/film/news/noah-schnapp-auditioned-hunger-games-1236955369
@@ -269,7 +301,7 @@ Schnapp may be onto something with his casting assessment, given the prequel&#x2
 While he may have been denied the coveted role in &#x201C;Sunrise on the Reaping,&#x201D; Schnapp is still booked and busy. The 22-year-old actor is currently starring in Andy Sandberg&#x2019;s play &#x201C;Affluenza,&#x201D; marking his professional stage debut at Riverside Studios in London. The dark comedy, inspired by real-life events, follows 16-year-old Dylan (Schnapp) dealing with the aftermath of causing a fatal drunk-driving crash in the Hamptons. Alongside Schnapp, the cast includes Janette Manrara, Juliet Cowan, Wallis Currie-Wood and Rupert Young.
 
 ============================================================
-[10] See The Funny Video Witney Carson Made With DWTS Friends About Coming Back To The Finale VERY Pregnant
+[11] See The Funny Video Witney Carson Made With DWTS Friends About Coming Back To The Finale VERY Pregnant
 Source: CinemaBlend | Status: expanded | Words: 268
 Published: 2026-11-22T18:45:33+00:00
 URL: https://www.cinemablend.com/television/see-funny-video-witney-carson-made-with-dwts-friends-about-returning-pregnant-finale
@@ -287,7 +319,7 @@ Finale night is very much about crowning the winner of DWTS , but it's also a ce
 It's just another big return to throw into another big night for Dancing with the Stars . Each finalist will be required to do an "Instant Dance Challenge," a "Judges' Choice," and the "freestyle." One of the elements that makes it a can't-miss show is that there's just so much going on that it really feels like a huge celebration.
 
 ============================================================
-[11] After 114 Years, the Beverly Hills Hotel Gets a (Night)life
+[12] After 114 Years, the Beverly Hills Hotel Gets a (Night)life
 Source: The Hollywood Reporter | Status: expanded | Words: 730
 Published: 2026-11-22T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/beverly-hills-hotel-nightlife-supper-club-bar-1236757355
@@ -315,7 +347,7 @@ A key challenge for the new spaces is competing with the landmark existing ones,
 This story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[12] Jujutsu Kaisen Gives the Anime a Cool Makeover Ahead of Jump Festa 2027 Update
+[13] Jujutsu Kaisen Gives the Anime a Cool Makeover Ahead of Jump Festa 2027 Update
 Source: ComicBook.com | Status: expanded | Words: 590
 Published: 2026-11-22T18:28:02+00:00
 URL: https://comicbook.com/anime/news/jujutsu-kaisen-gives-the-anime-a-cool-makeover-ahead-of-jump-festa-2027-update
@@ -341,7 +373,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
+[14] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
 Source: Variety | Status: expanded | Words: 315
 Published: 2026-11-22T18:27:55+00:00
 URL: https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340
@@ -365,7 +397,7 @@ Mangubat&#x2019;s sister, Grace, also shared a tribute to the reality star, as w
 Mangubat is survived by her son, Jhonreil.
 
 ============================================================
-[14] New Mashle Live-Action Movie Reveals Best Look at Its Hero Yet
+[15] New Mashle Live-Action Movie Reveals Best Look at Its Hero Yet
 Source: ComicBook.com | Status: expanded | Words: 572
 Published: 2026-11-22T18:17:00+00:00
 URL: https://comicbook.com/anime/news/new-mashle-live-action-movie-reveals-best-look-at-its-hero-yet
@@ -391,7 +423,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Adam Driver Finally Reveals the Strangely Hypocritical Reason Disney Passed on Hunt for Ben Solo Movie
+[16] Adam Driver Finally Reveals the Strangely Hypocritical Reason Disney Passed on Hunt for Ben Solo Movie
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-22T18:13:11+00:00
 URL: https://comicbook.com/movies/news/adam-driver-finally-reveals-the-strangely-hypocritical-reason-disney-passed-on-hunt-for-ben-solo-movie
@@ -413,7 +445,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Anthony Mackie Ranked His MCU Screen Partners (And Shots Fired At Sebastian Stan)
+[17] Anthony Mackie Ranked His MCU Screen Partners (And Shots Fired At Sebastian Stan)
 Source: CinemaBlend | Status: expanded | Words: 298
 Published: 2026-11-22T18:10:23+00:00
 URL: https://www.cinemablend.com/movies/anthony-mackie-ranked-mcu-screen-partners-threw-shade-sebastian-stan
@@ -431,7 +463,7 @@ That's one way to rank acting ability. Mackie had good reason to bring up the ha
 Anyone who's followed these two beyond the release of new Marvel movies knows this is pretty standard behavior. Mackie and Stan first appeared together in 2014's Captain America: The Winter Soldier and, later, their verbal squabbles in 2016's Civil War made a real splash with audiences. Watching Sam and Bucky bicker was also half the fun of their eventual Marvel series , 2021's The Falcon and the Winter Soldier . Their Mackie and Stan's interviews together were sometimes even better.
 
 ============================================================
-[17] The More I Read The Dungeon Crawler Series, The More Worried I Get About The Peacock Series
+[18] The More I Read The Dungeon Crawler Series, The More Worried I Get About The Peacock Series
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-22T18:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/more-read-dungeon-crawler-series-more-worried-get-about-peacock-series
@@ -449,7 +481,7 @@ Not only is the budget for Dungeon Crawler Carl massive, but each floor of the D
 If there's one thing I hate in this modern era of television, it's waiting multiple years for new seasons. As mentioned, however, I'm not sure how it could happen any other way. This is going to be a big series, and if it isn't, it's going to disappoint a lot of people.
 
 ============================================================
-[18] Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival
+[19] Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival
 Source: Variety | Status: expanded | Words: 430
 Published: 2026-11-22T18:01:36+00:00
 URL: https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306
@@ -471,7 +503,7 @@ While a live orchestra played famed scores from throughout cinema history, atten
 As the dinner wound down, guests got up out of their seats to mingle and migrate to a more intimate room. Red, velvet couches invited guests to settle in while photos of famous faced who had graced the festival throughout years past dotted the walls. Goldblum and his wife, Emilie Goldblum, chatted animatedly to Mackey while Krieps &#x2014; who was sporting a chic headscarf printed with red roses &#x2014; caught up with Cakarel.
 
 ============================================================
-[19] 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office
+[20] 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office
 Source: The Playlist | Status: summary_only | Words: 97
 Published: 2026-11-22T18:00:40+00:00
 URL: https://theplaylist.net/the-hunger-games-sunrise-on-the-reaping-overcomes-grand-theft-auto-box-office-20261122
@@ -483,7 +515,7 @@ CONTENT / EXTRACTED DETAILS:
 Lionsgate's incredible year continues. After "Michael" took in $372 million at the domestic box office this past spring, a franchise favorite has given the mini-major its biggest opening in over a decade. "The Hunger Games: Sunrise of the Reaping" battled to $120 million in the U.S. and $225 million worldwide. That stateside tally is over double the $44.6 million "The Hunger Games: The Ballad of Songbirds and Snakes" earned three years ago. Continue reading 'The Hunger Games: Sunrise On The Reaping' Overcomes 'Grand Theft Auto VI's' Billions For $120 Million At The Box Office at The Playlist.
 
 ============================================================
-[20] Blue Eye Samurai Season 2 Teases Mizu's Return With New Look
+[21] Blue Eye Samurai Season 2 Teases Mizu's Return With New Look
 Source: ComicBook.com | Status: expanded | Words: 642
 Published: 2026-11-22T17:58:20+00:00
 URL: https://comicbook.com/anime/news/blue-eye-samurai-season-2-teases-mizus-return-with-new-look
@@ -511,7 +543,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Robert Eggers Is "Eager" To Move Away From Horror Genre: "I Think I Need A Break"
+[22] Robert Eggers Is "Eager" To Move Away From Horror Genre: "I Think I Need A Break"
 Source: Deadline | Status: expanded | Words: 322
 Published: 2026-11-22T17:41:30+00:00
 URL: https://deadline.com/2026/11/robert-eggers-eager-move-away-horror-genre-1237231196
@@ -535,7 +567,7 @@ Following his 2015 feature debut The Witch , Eggers has been praised as a new ma
 In Werwulf , a man (Aaron Taylor-Johnson) in 14th century England finds him and his family threatened by a ravenous beast haunting the town. The film also stars Lily-Rose Depp, Willem Dafoe, Ralph Ineson and more.
 
 ============================================================
-[22] 3 Horror TV Shows Far More Disturbing Than They Needed to Be, Including A Beloved Cult Classic Series
+[23] 3 Horror TV Shows Far More Disturbing Than They Needed to Be, Including A Beloved Cult Classic Series
 Source: ComicBook.com | Status: expanded | Words: 781
 Published: 2026-11-22T17:41:00+00:00
 URL: https://comicbook.com/tv-shows/list/3-horror-tv-shows-far-more-disturbing-than-they-needed-to-be-including-a-beloved-cult-classic-series
@@ -565,7 +597,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the '80s’
+[24] Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the '80s’
 Source: Variety | Status: expanded | Words: 815
 Published: 2026-11-22T17:40:00+00:00
 URL: https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248
@@ -607,7 +639,7 @@ Still, Johnson argued that the platform itself matters less than the work filmma
 "Whether it gets into a festival or whether people start discovering you online or whatever, there's so many things that make it hard," Johnson continued. "But I truly believe that is the gold coin that everybody is searching for in the world. So the more opportunities you have in the world to do that and get your work out there, the better, I think."
 
 ============================================================
-[24] Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75
+[25] Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75
 Source: Variety | Status: expanded | Words: 650
 Published: 2026-11-22T17:23:24+00:00
 URL: https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322
@@ -635,7 +667,7 @@ He continued: "Away from the set, Tom was a trusted colleague, generous mentor a
 Jackson is survived by his wife, Jennifer, and his two daughters, Taylor and Morgan.
 
 ============================================================
-[25] Lost Kids WB Classic Is Finally Coming to Streaming After 23 Years
+[26] Lost Kids WB Classic Is Finally Coming to Streaming After 23 Years
 Source: ComicBook.com | Status: expanded | Words: 559
 Published: 2026-11-22T17:20:52+00:00
 URL: https://comicbook.com/tv-shows/news/lost-kids-wb-classic-is-finally-coming-to-streaming-after-23-years
@@ -663,7 +695,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] I’d Wondered How Lanterns’ Star Felt About The Show After James Gunn’s Exit. Someone Asked
+[27] I’d Wondered How Lanterns’ Star Felt About The Show After James Gunn’s Exit. Someone Asked
 Source: CinemaBlend | Status: expanded | Words: 260
 Published: 2026-11-22T17:18:42+00:00
 URL: https://www.cinemablend.com/television/how-lanterns-aaron-pierre-feels-after-james-gunn-dc-exit
@@ -679,7 +711,7 @@ Given the uncertainty surrounding the DCU, that’s a very admirable response fr
 Pierre’s portrayal of Stewart has received praise, and a number of fans have been looking forward to seeing him play the role for years to come. After James Gunn shared his farewell post, fans flooded the comments, and many lamented that Lanterns Season 2 likely wouldn’t happen . And Pierre isn’t the only member of the show’s team to have weighed in on the Gunn news. The co-showrunner, Chris Mundy, also reacted and expressed his surprise due to assuming that the dust had settled at DC after the Paramount/Warner Bros. merger.
 
 ============================================================
-[27] New Fantasy Isekai Confirms Winter 2027 Launch With First Look Trailer - Watch
+[28] New Fantasy Isekai Confirms Winter 2027 Launch With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 591
 Published: 2026-11-22T17:11:00+00:00
 URL: https://comicbook.com/anime/news/new-fantasy-isekai-confirms-winter-2027-launch-with-first-look-trailer-watch
@@ -705,7 +737,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Tom Jackson Dies: Broncos Alum &#038; ESPN Hall Of Fame Broadcaster Was 75
+[29] Tom Jackson Dies: Broncos Alum &#038; ESPN Hall Of Fame Broadcaster Was 75
 Source: Deadline | Status: expanded | Words: 142
 Published: 2026-11-22T17:07:19+00:00
 URL: https://deadline.com/2026/11/tom-jackson-dies-broncos-espn-1237231183
@@ -723,7 +755,7 @@ Jackson's family told ESPN that he passed on Friday, in what his longtime co-hos
 In honor of the Broncos "Orange Crush Defense" linebacker, the entire Countdown crew wore orange ties during Sunday's show. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
 
 ============================================================
-[29] Fans Wanted One Thing From The Hunger Games: Sunrise on the Reaping, But the Movie Fumbled It
+[30] Fans Wanted One Thing From The Hunger Games: Sunrise on the Reaping, But the Movie Fumbled It
 Source: ComicBook.com | Status: expanded | Words: 753
 Published: 2026-11-22T17:01:00+00:00
 URL: https://comicbook.com/movies/feature/fans-wanted-one-thing-from-the-hunger-games-sunrise-on-the-reaping-but-the-movie-fumbled-it
@@ -751,7 +783,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] How Oobah Butler Scammed His Way to HBO
+[31] How Oobah Butler Scammed His Way to HBO
 Source: Variety | Status: expanded | Words: 1707
 Published: 2026-11-22T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998
@@ -831,7 +863,7 @@ He flashes his card at the cashier. &#x201C;So what do I get with this?&#x201D;
 &#x201C;This is America,&#x201D; Butler says, smiling as he clutches his new black-and-red fire breather. &#x201C;There&#x2019;s always a Joker card.&#x201D;
 
 ============================================================
-[31] Joe Russo Talks 'Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans"
+[32] Joe Russo Talks 'Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans"
 Source: Deadline | Status: expanded | Words: 1248
 Published: 2026-11-22T16:54:33+00:00
 URL: https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111
@@ -893,7 +925,7 @@ Russo credited longtime collaborator, screenwriter Steve McFeely, with coming up
 &#x201C;The concept was like that's a very happy ending for one character. And what if happiness is finite, and what if you have to take happiness from someone else to create your own happiness… What happens in that story? That&#x2019;s where I went, &#x2018;Right, I know what to do with this.&#x201D; The idea that like there was a cost to a happy ending."
 
 ============================================================
-[32] The Hunger Games Prequel Just Put Up A Huge Number At The Box Office
+[33] The Hunger Games Prequel Just Put Up A Huge Number At The Box Office
 Source: CinemaBlend | Status: expanded | Words: 209
 Published: 2026-11-22T16:52:01+00:00
 URL: https://www.cinemablend.com/movies/the-hunger-games-prequel-sunrise-reaping-i-play-rocky
@@ -909,7 +941,7 @@ You can check out the full top ten from the weekend, as per The Numbers . Those 
 I’ll get to the other movies in a bit, but before that, we need to talk about Sunrise On The Reaping a little bit more. The four initial Hunger Games movies, which were released between 2012 and 2015 all grossed between $650M and $900M at the worldwide box office. They were also collectively a major pop culture force that came up regularly in casual conversation. Unfortunately, 2023’s Ballad Of Songbirds & Snakes , which follows the story of President Snow prior to gaining power, didn’t have the same appeal and grossed less than $350M worldwide.
 
 ============================================================
-[33] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
+[34] Is GTA 6 Being Purposely Review Bombed? New Player Poll Has a Very Clear Answer
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-22T16:48:56+00:00
 URL: https://comicbook.com/gaming/news/is-gta-6-being-purposely-review-bombed-new-player-poll-has-a-very-clear-answer
@@ -935,7 +967,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
+[35] Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75
 Source: The Hollywood Reporter | Status: expanded | Words: 574
 Published: 2026-11-22T16:45:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660
@@ -975,7 +1007,7 @@ He often said that he had been &#x201C;blessed to work for two companies in my l
 Survivors include his wife, Jennifer, and his daughters, Taylor and Morgan.
 
 ============================================================
-[35] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
+[36] After 15 Years, Surprise Action Series Confirms Return With New Anime Revival
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-22T16:43:18+00:00
 URL: https://comicbook.com/anime/news/after-15-years-surprise-action-series-confirms-return-with-new-anime-revival
@@ -1001,7 +1033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
+[37] Sheila Mangubat Dies: '90 Day Fiancé: Before the 90 Days' Star Was 35
 Source: Deadline | Status: expanded | Words: 236
 Published: 2026-11-22T16:41:07+00:00
 URL: https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163
@@ -1021,7 +1053,7 @@ In 2023, Sheila and David appeared on Season 6 of Before the 90 Days , having me
 David followed Sheila to the Philippines, where she lived with her mother, her father and her son Jhonreil. The season ended with Sheila accepting David's proposal.
 
 ============================================================
-[37] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
+[38] 90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died
 Source: CinemaBlend | Status: expanded | Words: 208
 Published: 2026-11-22T16:34:44+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-david-dangerfield-spoke-out-former-fiance-sheila-mangubat-died
@@ -1037,7 +1069,7 @@ Further details about Shelia's passing arrived via 90 Day insider Shabooty , who
 90 Day Fiancé fans may remember David (who is deaf) finding love with Sheila and traveling to see if a life together was possible. Almost immediately, they were hit with tragedy, as her mother died after falling down a stairwell just hours after his arrival. Because of the tragedy, David and Sheila arguably weren't in the right mindset to really explore a future relationship and talk about the possibility of her being an eventual father to her son, Jhonreil.
 
 ============================================================
-[38] 5 Marvel Teams That Deserve a Comeback More Than Ever
+[39] 5 Marvel Teams That Deserve a Comeback More Than Ever
 Source: ComicBook.com | Status: expanded | Words: 1332
 Published: 2026-11-22T16:19:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-teams-that-deserve-a-comeback-more-than-ever
@@ -1077,7 +1109,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
+[40] Box Office: 'Sunrise on the Reaping' Reignites 'Hunger Games' Franchise With $120 Million Debut
 Source: Variety | Status: expanded | Words: 1059
 Published: 2026-11-22T16:16:28+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061
@@ -1115,7 +1147,7 @@ In limited release, the Focus Features drama "Elsinore" earned $240,000 from six
 "This is a very good weekend," Gross says. "The weekend before Thanksgiving sets up 10 very strong days. Moviegoing is back on track."
 
 ============================================================
-[40] Netflix's One Piece Season 3 Readies for Launch With Behind-the-Scenes Teases
+[41] Netflix's One Piece Season 3 Readies for Launch With Behind-the-Scenes Teases
 Source: ComicBook.com | Status: expanded | Words: 606
 Published: 2026-11-22T16:06:12+00:00
 URL: https://comicbook.com/anime/news/netflixs-one-piece-season-3-readies-for-launch-with-new-behind-the-scenes-teases
@@ -1141,7 +1173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Remaster of Entire PS1 Trilogy Now Available for $2.54
+[42] Remaster of Entire PS1 Trilogy Now Available for $2.54
 Source: ComicBook.com | Status: expanded | Words: 517
 Published: 2026-11-22T16:05:42+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-steam-games-trilogy-sale-tomb-raider
@@ -1169,7 +1201,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
+[43] Netflix's The Body Isn't Like My Catholic School Experience, But It Gives Me Flashbacks
 Source: CinemaBlend | Status: expanded | Words: 238
 Published: 2026-11-22T16:05:00+00:00
 URL: https://www.cinemablend.com/streaming-news/netflix-the-body-isnt-like-catholic-school-experience-gives-flashbacks
@@ -1187,7 +1219,7 @@ I also think The Body does a great job of handling what goes down when something
 Like the kids in The Body , a number of kids attending were from families of some renown. Families were willing to keep quiet about events occurring to protect their children, and the school was eager to let any controversy fade as quickly as possible.
 
 ============================================================
-[43] Wait, How Many People Left Can Actually Win Survivor 51?
+[44] Wait, How Many People Left Can Actually Win Survivor 51?
 Source: CinemaBlend | Status: expanded | Words: 294
 Published: 2026-11-22T16:03:28+00:00
 URL: https://www.cinemablend.com/television/survivor-51-possible-winners-jelly-sharonda-devin-carter
@@ -1203,7 +1235,7 @@ I’m not saying the person who wins every season is the person with the most co
 Mike and Eric have been much more present parts of the edit, but their storylines have both been about how much everyone else is annoyed with them. Eric has been getting a wacky theater kid edit that has included multiple montages of him talking and everyone else being annoyed by it . There have maybe been ten shots of characters literally rolling their eyes after he talks. Mike is a different version of the same situation. He’s been the subject of numerous confessionals from other players about how he’s a “bottom feeder” and impossible to work with. I don’t see why Survivor would portray its winner that way.
 
 ============================================================
-[44] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
+[45] Two Different Xbox Consoles Released On The Same Day, But Their Impacts Couldn't Be More Different
 Source: ComicBook.com | Status: expanded | Words: 1224
 Published: 2026-11-22T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/two-different-xbox-consoles-released-on-the-same-day-but-their-impacts-couldnt-be-more-different
@@ -1241,7 +1273,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
+[46] Major Shonen Jump Series Officially Ends After 6 Years With Final Release
 Source: ComicBook.com | Status: expanded | Words: 583
 Published: 2026-11-22T15:38:38+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-series-officially-ends-after-6-years-with-final-release
@@ -1267,7 +1299,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
+[47] 5 Animated Movies That Struggled Because Everyone Thought They Were Just For Kids
 Source: ComicBook.com | Status: expanded | Words: 1164
 Published: 2026-11-22T15:37:00+00:00
 URL: https://comicbook.com/movies/list/5-animated-movies-that-struggled-because-everyone-thought-they-were-just-for-kids
@@ -1305,7 +1337,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
+[48] GTA 6 Features an Unexpected Connection to Red Dead Redemption 2
 Source: ComicBook.com | Status: expanded | Words: 521
 Published: 2026-11-22T15:28:37+00:00
 URL: https://comicbook.com/gaming/news/gta-6-red-dead-redemption-2-abigail-roberts
@@ -1331,7 +1363,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
+[49] Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen
 Source: CinemaBlend | Status: expanded | Words: 441
 Published: 2026-11-22T15:27:15+00:00
 URL: https://www.cinemablend.com/movies/minutes-before-macaulay-culkin-home-alone-sequel-news-og-director-shared-doubts
@@ -1355,7 +1387,7 @@ After Columbus directed 1990's Home Alone and 1992's Home Alone 2: Lost in New Y
 As for the new project, there's an interesting idea on the table. During a fan event in 2025, Culkin floated a potential sequel in which an adult Kevin is raising a son who locks him out of the house and turns his father's old tricks against him. Reports suggest the film could follow Kevin's perspective as a dad, although no final story or additional casting has been confirmed.
 
 ============================================================
-[49] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
+[50] 'The Unknown' Director Arthur Harari Says AI Is a 'Slippery Slope,' Though He 'Had to Use Deepfake Tool' for Léa Seydoux Double Scene: 'There Was a Human Behind It'
 Source: Variety | Status: expanded | Words: 595
 Published: 2026-11-22T15:02:50+00:00
 URL: https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267
@@ -1385,40 +1417,4 @@ Speaking to Variety earlier this year, the French actress described the role as 
 Harari is on hand at the Marrakech Film Festival as part of its popular Conversation series. He's appearing alongside &#x201C;Knives Out&#x201D; director Rian Johnson, &#x201C;Call Me by Your Name&#x201D; Oscar nominee Luca Guadagnino, &#x201C;Fjord&#x201D; Palme d&#x2019;Or winner Cristian Mungiu, Italian screen icon Monica Bellucci and more.
 
 The Marrakech Film Festival runs Nov. 20&#x2013;28.
-
-============================================================
-[50] GTA 6 - How To Improve Your Health &#038; Stats Fast, Explained
-Source: ComicBook.com | Status: expanded | Words: 1041
-Published: 2026-11-22T15:00:00+00:00
-URL: https://comicbook.com/gaming/feature/gta-6-how-to-improve-your-health-stats-fast-explained
-------------------------------------------------------------
-SUMMARY:
-Courtesy of Rockstar Games Physical health in Grand Theft Auto 6 is an underrated feature in the game, determining both Jason and Lucia's stats at times in both positive in negative ways. Should you eat junk food and live a sedentary life, your stats could fall off, causing either character to be weaker in gameplay as a result. Different […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Physical health in Grand Theft Auto 6 is an underrated feature in the game, determining both Jason and Lucia's stats at times in both positive in negative ways. Should you eat junk food and live a sedentary life, your stats could fall off, causing either character to be weaker in gameplay as a result. Different activities can do the opposite, making your character strong by improving their health, causing other stats to grow and act as the main strategies for "leveling up" Lucia or Jason throughout GTA 6 's story Chapters.
-
-Stamina is one of the most important stats in GTA 6 , and it is directly impacted by the attention you put on Jason or Lucia's health as the days go by in-game. There are some obvious answers to increasing Stamina, like working out using your phone's fitness app, but there are more subtle options scattered within the game that can actually bring you to a healthy status much faster than you'd think. The overwhelming details in GTA 6 give players nearly endless ways to interact with the world, including how they choose to pursue physical actions that provide clear gameplay bonuses.
-
-Your health and Stamina in GTA 6 are easily improved by a solid workout, or any sort of physical action that is listed as such within the game through a heart or lightning symbol. Should these icons appear, you know that whatever you're about to do has a direct health benefit, leading to better stats despite being completely optional. The fitness app on your phone will list your character's physical stat values, represented by the three stats listed below:
-
-Other stats are tied to physical health too, such as a character's generally Strength. Jason and Lucia have separate stats, so working out with one character won't raise scores for another. This limitation means you have to find some strategies to increase stats fast, to raise each of the three listed beyond the upgrade points built within them. Stamina, Focus, and Health all have a maximum Level of 4, with players gathering "experience" through activities to reach each Level eventually. That being said, you can't just work out continuously until you max out everything, as you have to pace out your physical improvement.
-
-Players are unable to gain more than 33% progress in any of the three physical stat categories in a single day, marking a big obstacle to overcome. Basically, you can do three cardio or strength workouts in a row to reach this level before the game prevents you from doing any more. It takes around one in-game day for the workout window to reopen, unless you are using some sort of cheats in GTA 6 to get around this. To make matters more difficult, you only have a four day window to work out, meaning you have to schedule times to improve fitness rather than just doing it whenever you want.
-
-There are ways to skip past the workout timer in GTA 6 , letting you increase stats again without having to wait as long. Consuming in-game items like protein shakes, coffee, or a protein bar knock the one-day workout timer down to a half-day, and even more depending on how much you eat or drink. Obviously, there's a limit here too, but if you are trying to fit as much exercise into a four-day workout window as possible, this is a good way of ensuring Jason and Lucia have the chance to do that. Getting a healthy routine can help you farm stat increases fast, as long as you know what activities to do.
-
-Drinking, sleeping, showering, and maintaining other physical health traits will also reduce the workout timer, opening up other opportunities to increase Stamina, Focus, or Health stats. Look for a green lightning bolt on certain activities to do this, in the same way you would see that symbol on food or drink items. Some items in GTA 6 even give Lucia or Jason temporary buffs to physical stats for a short time, which can be good before big missions or story events. Normal gameplay can also do this, but paying attention to the activities that do this best will make sure your stats grow constantly.
-
-Cardio and strength training increase Stamina and Health respectively, either through specific workouts or various activities out in the world. For example, running or swimming around will eventually improve your Stamina score, helping it reach different Levels the more you do. That being said, you have to gradually increase the challenge of your stat-growing activities for them to keep being effective, otherwise you'll see less results. This means that if you want to improve Health by lifting weights, you have to lift heavier and heavier weights to get the same boosts to the stat as you were seeing in the beginning.
-
-However, Focus works in a totally different way than Stamina or Health, as the same activities that improve those scores do nothing for this mental stat. You have to do actions that require concentration to improve Focus, such as going to shooting ranges or meditating at home. For those still struggling to find the best activities to improve physical health stats fast, here are some great examples to pursue daily for each score:
-
-Remembering to eat and shower after every workout is crucial to maintaining your health and preventing debuffs from applying to Jason or Lucia. If a player forgets to eat, their hunger will prevent their Health from regenerating during combat, which could be a death sentence during certain missions. Regardless of your choices in GTA 6 , gaining the highest levels of physical health fast simply takes attention to what your body needs, even though it'll take time to reach your most fit self regardless.
-
-What strategies will you be following to improve stats quickly in GTA 6 ? Let us know in the comments below!
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
