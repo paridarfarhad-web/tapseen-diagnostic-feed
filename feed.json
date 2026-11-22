@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-22T13:44:09.931Z"
+    "updated_at": "2026-11-22T14:00:11.343Z"
   },
   "articles": [
+    {
+      "id": "1703bee3-4eaf-4b89-8369-81fde55d4af0",
+      "title": "I Just Found Out The Real Reason Young Sheldon Wasn’t Filmed Before A Live Audience Like The Big Bang Theory",
+      "summary": "It's a shrewd choice, but I get it.",
+      "content": "The Big Bang Theory may be a popular and highly regarded sitcom on its own but, at this point, it’s also spawned multiple spinoffs that have cumulatively led to the formation of a franchise. Of course, the first offshoot from the Chuck Lorre and Bill Prady-created sitcom was Young Sheldon , which debuted in 2017. Aside from having tonal differences from Big Bang , the series also had a single-camera set-up as opposed to a multi-cam one with a live audience. I always wondered why that was the case and, now, I finally have my answer.\n\nSo, apparently, Lorre, along with co-showrunners Steven Molaro and Steve Holland, sought a somewhat more personal vibe for this show that didn’t quite mesh with the breakneck pace of a multi-camera comedy. While I’m someone who has long enjoyed situation comedies that have live audiences, even I can understand the rationale here. There are just some stories that lend themselves better to the single camera format. And that’s not the only reason for Young Sheldon ’s changing things up from its famous predecessor:\n\nI’d imagine that for an actor of any age it can be a little daunting to act in front of a live audience, and doing so is also tedious. Based on Lorre’s sentiments, I imagine that was his thinking in regard to choosing the format for YS. Plenty of current and former child actors (including many still working today) have, of course, given excellent performances on multi-camera sitcoms. Still, I can definitely understand how working with young performers in a more controlled environment would be easier for them and the crew.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/reason-young-sheldon-wasnt-filmed-before-live-audience-like-the-big-bang-theory",
+      "published_at": "2026-11-22T13:55:31+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/QM453GUKjDg5JjXDyBHkqS-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 270,
+      "extracted_at": "2026-11-22T13:59:59.178969+00:00",
+      "updated_at": "2026-11-22T13:59:59.178969+00:00"
+    },
     {
       "id": "5a711475-ca7d-41db-b377-e974875558ea",
       "title": "Why Gen Z Is Claiming Robert Pattinson As Their James Bond",
@@ -742,21 +757,6 @@
       "word_count": 570,
       "extracted_at": "2026-11-21T23:25:17.468306+00:00",
       "updated_at": "2026-11-21T23:25:17.468306+00:00"
-    },
-    {
-      "id": "0bb368b2-0b31-4870-b9c2-30ae8c0321fa",
-      "title": "Blake Shelton Loves Being A Stepdad To Gwen Stefani’s Kids, But What’s His ‘Most Cliche’ Dad Role?",
-      "summary": "Well, this is very sweet!",
-      "content": "Blake Shelton has never shied away from sharing lessons he’s learned from being the stepdad of Gwen Stefani’s kids. In fact, he’s been candid about realizing that he can be someone they can lean on . Now, he’s revealed the “most cliché” about him, and it’s both very sweet and shows how he and his wife's kids lean on and support each other.\n\nWhen he was asked if he also gets on the trampoline, Shelton joked that “just throwing the ball wears [him] out.” There’s that signature humor we saw on The Voice coming out. However, overall, the singer was very clear that he loves doing this with his kid. And I really can’t think of anything more father-son coded than playing catch in the yard together. So, yes, while cliché, it’s incredibly sweet.\n\nShelton has always been very supportive of his stepson’s music career , and I love that they bond over it on a daily basis. I can’t help but wonder if they have a shared playlist and if the “God Gave Me You” singer’s love for country music has rubbed off on him.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/blake-shelton-loves-stepdad-gwen-stefanis-kids-most-cliche-dad-role",
-      "published_at": "2026-11-21T23:21:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xSdvfA87YnwajHPUzwnRPP-1920-80.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 186,
-      "extracted_at": "2026-11-21T23:23:16.785554+00:00",
-      "updated_at": "2026-11-21T23:23:16.785554+00:00"
     }
   ]
 }
