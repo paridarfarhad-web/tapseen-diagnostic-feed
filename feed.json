@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T15:19:31.293Z"
+    "updated_at": "2026-11-23T15:27:29.909Z"
   },
   "articles": [
+    {
+      "id": "c291da9a-87e7-4687-bd8c-6c7234bceb44",
+      "title": "Taylor Swift Was NOT Giving The ‘Peace Sign’ At Travis Kelce’s Game. See Her Celebrating Her DH’s Touchdowns",
+      "summary": "I was at Arrowhead Stadium, and those two fingers make perfect sense.",
+      "content": "I spend a lot of time keeping up with the 2026 TV schedule , but Sunday afternoon I was at Arrowhead Stadium, sitting in Section 107, Row 27, watching Travis Kelce catch two touchdowns against the Arizona Cardinals in person. It was a pretty good day to be a Kansas City Chiefs fan. While I watched Patrick Mahomes and Kelce go to work on the field, a different conversation was brewing online about a familiar hand gesture from the tight end's wife, Taylor Swift . Sorry, Swifties, she wasn’t giving her \"peace sign\" while celebrating her Dear Husband’s touchdowns.\n\nNow, I didn't have a view into the family suite from my seat. Still, I did watch a woman in front of me continuously use her phone to zoom in and scan the box for, I assume, Taylor. Unfortunately it was to no avail, if her body language was any indication. Thankfully, the broadcast cameras and fans with a clearer vantage point of Taylor dutifully had it covered.\n\nPatrick Mahomes found Kelce for an 8-yard score on the Chiefs' opening possession. Then, late in the second quarter, the quarterback connected with him again on a 22-yard touchdown pass. Kelce finished with six catches for 74 yards as Kansas City beat Arizona 34-7.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/taylor-swift-not-giving-peace-sign-travis-kelce-game-see-her-celebrating-dhs-touchdowns",
+      "published_at": "2026-11-23T15:20:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DiAAUQyLqVZz8NuXL9VJ64-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 211,
+      "extracted_at": "2026-11-23T15:27:14.679081+00:00",
+      "updated_at": "2026-11-23T15:27:14.679081+00:00"
+    },
     {
       "id": "f2ef80f3-ffe1-4111-b10b-8e8cd6f5fc7b",
       "title": "Avengers: Doomsday Just Teased a Massive Upgrade for Thor, And a Subplot We Can't Predict",
@@ -596,7 +611,7 @@
     {
       "id": "99bf5621-9702-4cc5-8831-3b3c99db4139",
       "title": "Jensen Huang Reinstated as Nvidia CEO After Series of Affairs",
-      "summary": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees, prompted Huang's resignation and upheaved the AI boom. Huang will also rejoin the company’s board, the company said in a statement Monday. “The Board of […]",
+      "summary": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed the executive's affairs with an alleged spy and multiple company employees, prompting Huang's resignation and shook financial markets. Huang also will rejoin the AI giant's board, the company said in a statement Monday. “The […]",
       "content": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation.\n\nHuang will also return to the company&#x2019;s board, the company said in a statement Monday. H\n\n&#x201C;The Board of Directors voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang&#x2019;s candor and ability to lead Nvidia,&#x201D;&#xA0;it said. &#x201C;In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang&#x2019;s reinstatement poses no national security risk.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
       "source": "Variety",
       "source_url": "https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837",
@@ -605,8 +620,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 146,
-      "extracted_at": "2026-11-23T14:49:15.998957+00:00",
-      "updated_at": "2026-11-23T14:49:15.998957+00:00"
+      "extracted_at": "2026-11-23T15:27:16.029888+00:00",
+      "updated_at": "2026-11-23T15:27:16.029888+00:00"
     },
     {
       "id": "d0efba06-4bdb-4325-8eb8-e7716e80f9b6",
@@ -742,21 +757,6 @@
       "word_count": 8477,
       "extracted_at": "2026-11-23T14:01:19.131761+00:00",
       "updated_at": "2026-11-23T14:01:19.131761+00:00"
-    },
-    {
-      "id": "ef706af3-12e0-4f4d-8bd1-45f825a810df",
-      "title": "'Way of the Warrior Kid' Review: Chris Pratt and Jude Hill Team Up to Take On Bullies in Apple TV's Winning Family Film",
-      "summary": "An injured Navy SEAL trains his young nephew to stand up for himself in McG's new movie, co-starring Linda Cardellini and Jude Hill.",
-      "content": "Movies geared to younger audiences can often be described as formulaic. But formulas become formulas for a reason, as demonstrated by the new family movie premiering on Apple TV. Based on the first book in a best-selling series written by Jocko Willink, Way of the Warrior Kid brings absolutely nothing new to its tale of a young boy who discovers his inner strength thanks to his Navy SEAL uncle&#x2019;s tutelage. But it works nicely nonetheless because of its terrific performances, skillful filmmaking, and the sort of underdog story that has perennial appeal. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nSet in and around San Diego, the movie revolves around 11-year-old Marc (Jude Hill), who is constantly being bullied by his classmates, one cadre of which has dubbed him the G.L.O.A.T. &#x2014; &#x201C;Greatest Loser of All Time&#x201D; &#x2014; on social media. His widowed mother, Sarah ( Linda Cardellini ), proves unable to prevent her son from being beaten up and having his bicycle thrown into the river since Marc has begged her not to get involved. Related Stories Movies Chris Pratt to Star in Sci-Fi Movie 'The Traveler' as He Inks Paramount First-Look TV Gabriel Luna on How Arnold Schwarzenegger's Christmas Party Led Him to 'The Terminal List' and 'Dexter: Resurrection' Way of the Warrior Kid The Bottom Line Formulaic but effective. Release date : Wednesday, November 25 Cast : Chris Pratt, Jude Hill, Linda Cardellini, Ava Torres, Levi McConaughey, Darien Sills-Evans, Carl McDowell, Parker Young Director : McG Screenwriter : Will Staples Rated PG-13, 1 hour 46 minutes\n\nMarc&#x2019;s life changes dramatically with the unexpected arrival of his Uncle Jake ( Chris Pratt , in a role that seems tailor-made for him), a NAVY Seal who&#x2019;s recently suffered a hand injury during a failed mission to rescue child hostages. Jake, emotionally as well as physically damaged as a result of the experience, has come to recuperate at his sister&#x2019;s home.\n\nObserving his nephew&#x2019;s distress, Jake decides to take charge by developing an ambitious program, dubbed &#x201C;Operation Warrior Kid,&#x201D; to train Marc to defend himself.\n\n&#x201C;Warriors aren&#x2019;t born, they&#x2019;re made,&#x201D; he tells his nephew, giving him wake-up calls at 6 a.m., instructing him how to do pull-ups, having him memorize the names of U.S. presidents in order, and bringing him to a martial arts studio for lessons geared to youngsters, including Nora (Ava Torres), the classmate with whom Marc has been flirting at his mother&#x2019;s ice cream shop. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nCue the inevitable training montages as Marc, initially rebelling against the strict regimen, begins to embrace the discipline. He&#x2019;s even willing to fight his chief tormentor Kenny (Levi McConaughey, son of Matthew) and his two minions until Jake stops him, advising him that he&#x2019;s not ready.\n\nLess effective is another, far too cutesy montage in which Marc, preparing for his first date with Nora at a carnival, tries on a variety of wildly inappropriate outfits at a clothing store for his bemused uncle and mother.\n\nInterspersed with the tutorial interactions are scenes in which we see Jake struggling with his emotional distress and desperately trying to convince his commander (Darien Sills-Evans) that he&#x2019;s ready to get back into action. Harrowing flashback sequences depict the aborted mission that led to Jake&#x2019;s injury and the death of one of his fellow warriors.\n\nThe growing closeness between Marc and his uncle, who treats him with gruff tenderness and deadpan humor, forms the heart of the film. The screenplay by Will Staples ( The Right Stuff television series) is pleasingly subtle, largely refraining from melodramatics. Well, that is until the final act, depicting a school bus crash that results in Marc heroically rescuing his fellow students and the school principal in the midst of a fiery inferno. But the sequence is staged so excitingly by director McG ( Charlie&#x2019;s Angels , Terminator Salvation ) that it&#x2019;s easy to forgive the narrative manipulation. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', [\"btf\",\"mid-articleX\",\"mid\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-articleX\") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization(\"minsize\") ; });\n\nWhat really makes the film so effective, however, are the lead performances. Hill, so terrific in Kenneth Branagh&#x2019;s Belfast , is endearing and fully relatable as the beleaguered Marc; Cardellini, who improves everything she&#x2019;s in , is warmly appealing as the loving mother; and Pratt, given many opportunities to show off his impressive physique in shirtless scenes, perfectly embodies his mentor role.",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/movies/movie-reviews/way-of-the-warrior-kid-review-chris-pratt-mcg-1236760128",
-      "published_at": "2026-11-23T14:00:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 764,
-      "extracted_at": "2026-11-23T14:01:19.529642+00:00",
-      "updated_at": "2026-11-23T14:01:19.529642+00:00"
     }
   ]
 }
