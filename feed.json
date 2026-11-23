@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T21:49:54.761Z"
+    "updated_at": "2026-11-23T21:51:55.014Z"
   },
   "articles": [
+    {
+      "id": "fd49eb75-e06e-4b5a-ae96-f3ce5843e8f6",
+      "title": "New Xbox Report Claims the Brand Has Considered Ditching One of Its Most Divisive Features With Project Helix",
+      "summary": "A new report tied to Xbox has claimed that the brand nearly chose to abandon one of its most divisive features with its upcoming Project Helix hardware. While the Xbox 360 is by far the most popular Xbox console in history, it also introduced something that many users are still frustrated by: paid multiplayer. Rather […]",
+      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A new report tied to Xbox has claimed that the brand nearly chose to abandon one of its most divisive features with its upcoming Project Helix hardware . While the Xbox 360 is by far the most popular Xbox console in history, it also introduced something that many users are still frustrated by: paid multiplayer. Rather than being able to play any online multiplayer title for free on Xbox consoles, users have to pay to subscribe to Xbox Game Pass, or what was previously Xbox Live Gold . And while paid subscriptions for multiplayer are still required on Xbox and PlayStation platforms alike, Xbox leadership is said to have considered finally doing away with it, but may have now reversed course.\n\nAccording to Windows Central , previous Xbox leadership intended to finally get away from the need to subscribe to a membership in order to play multiplayer titles on Xbox hardware with Project Helix. This plan was said to be rooted in the fact that Project Helix is meant to blur the lines between Xbox consoles and PCs, as it will instead be a hybrid of the two. With PCs not requiring a need to subscribe to any sort of service to play multiplayer games, Xbox seemed to think that continuing to do so on Project Helix wouldn't make much sense. However, the report claims that this plan might no longer be the case.\n\nFollowing the retirement of Phil Spencer earlier this year , newly appointed Xbox boss Asha Sharma is said to have overhauled some long-term strategies for the company. One such change is related to Project Helix, which is said to now be more of a console-first platform that can also play PC games rather than the inverse, which is reportedly how it was conceived at first. Because Project Helix is now going to be more in line with how past Xbox consoles were, it's reportedly much less likely that Microsoft would drop the need for paid subscriptions when it comes to multiplayer games.\n\nOn one hand, it's easy to see why Xbox wouldn't want to do away with this need for paywalled multiplayer, as it's a simple way for the company to continue generating revenue. On the other hand, if Xbox were to scrap such a requirement, it would give it a distinct leg up against PlayStation, which is its most direct competition. No matter what Xbox leadership ultimately decides, it will surely still have an uphill battle when it comes to selling Project Helix, as the next-gen platform is reportedly on track to cost as much as $2,000 whenever it does arrive .\n\nWhat do you think about this potential for Xbox to finally make multiplayer games free for everyone? And if it doesn't do away with paywalled multiplayer, will you be upset? Be sure to let me know down in the comments section.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
+      "source": "ComicBook.com",
+      "source_url": "https://comicbook.com/gaming/news/xbox-project-helix-console-paid-multiplayer-report",
+      "published_at": "2026-11-23T21:50:55+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 536,
+      "extracted_at": "2026-11-23T21:51:34.714921+00:00",
+      "updated_at": "2026-11-23T21:51:34.714921+00:00"
+    },
     {
       "id": "37f0c45b-4893-410b-bafb-e47e11333c23",
       "title": "Everyone Knows Ted Kord and Jaime Reyes, but the Original Blue Beetle Was a Whole Different Kind of Hero",
@@ -742,21 +757,6 @@
       "word_count": 593,
       "extracted_at": "2026-11-23T19:37:27.308566+00:00",
       "updated_at": "2026-11-23T19:37:27.308566+00:00"
-    },
-    {
-      "id": "41e11586-c5ab-4c67-b5f2-f21566f1c4d0",
-      "title": "Two Of My Favorite Hallmark Actors Are Finally In A Movie Together And I’m Obsessed",
-      "summary": "Get these two in more movies ASAP!",
-      "content": "Hallmark churns out nearly a hundred new romance movies every year. The 2026 Countdown to Christmas lineup alone is slated for 34 original holiday-themed flicks. Part of the reason it’s easy for the cable channel-turned-streamer to make so many movies a year is that it has a list of dedicated actors who are eager to star in these films -- like Queen of Hallmark Lacey Chabert . And yet, somehow, they manage to keep the pairings fresh. So fresh that two of my favorite longtime Hallmark actors, Erin Cahill and Andrew Walker, just starred in their first movie together. I’m happy to report it was worth the wait!\n\nThe residents of Blue Dog Valley aren’t too thrilled about an outsider taking over their beloved veterinary practice, and Goldie has to work overtime to win over the hearts of the town’s loyal pet owners. Desperate for an ally, Goldie turns to Cohen (Walker), the son of the former owner of the vet practice, for help. While they get off to a rough start, sparks start to fly as the two spend more time together, especially with Goldie taking over planning duties for the annual Christmas parade that will feature the four-legged and furry residents of the town this year.\n\nIt can be easy for the human actors to get upstaged by their animal co-stars , especially when there are so many different types of animals in a movie (cows, alpacas, and of course dogs in this case), but Cahill and Walker managed to hold things down even in the face of an adorable, overweight corgi. It’s a testament to the chemistry these two have on screen.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/hallmark-actors-erin-cahill-andrew-walker-finally-in-movie-together",
-      "published_at": "2026-11-23T19:31:11+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Xq5LKgLY3ZUNu2jSB3WbMn-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 275,
-      "extracted_at": "2026-11-23T19:33:26.83608+00:00",
-      "updated_at": "2026-11-23T19:33:26.83608+00:00"
     }
   ]
 }
