@@ -1,9 +1,35 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T17:15:46.229Z
+Last Updated: 2026-11-23T17:21:39.717Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ‘3:30’ Filmmaker Shlok Choudhari &#038; Producer Sunil Sadarangani On Making A Women's Mental Health Awareness Noir In South Mumbai
+[1] Supriya Ganesh, Benito Skinner, Amy Landecker &#038; Bradley Whitford Round Out Cast Of Mary Beth Barone Rom-Com 'Still We Met'
+Source: Deadline | Status: expanded | Words: 503
+Published: 2026-11-23T17:19:26+00:00
+URL: https://deadline.com/2026/11/still-we-met-cast-adds-supriya-ganesh-benito-skinner-more-1237231669
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Still We Met, the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt's Supriya Ganesh, plus Overcompensating's Benito Skinner, and the husband &#38; wife duo of Amy Landecker (Misty Green) and Bradley Whitford (The Diplomat). Character details are […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Still We Met , the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt 's Supriya Ganesh , plus Overcompensating 's Benito Skinner , and the husband & wife duo of Amy Landecker ( Misty Green ) and Bradley Whitford ( The Diplomat ).
+
+Character details are under wraps. The film follows a young woman at a crossroads who meets a charming British stranger and spends one unforgettable night wandering New York, revealing more than either intended.
+
+Still We Met marks Barone's feature screenwriting and acting debut. The film is directed by Zackary Drucke, in his narrative feature debut. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Casting Emily Ratajkowski Joins Mary Beth Barone & Joe Alwyn In Rom-Com 'Still We Met' News Benito Skinner Teases "2016 Millennial Hopecore" For 'Overcompensating' Season 2: "Sorry For The Wait"
+
+Other new additions to the cast include Daniel Liu ( The Devil Wears Prada 2 ), Adam Faison ( Fallout ), Corteon Moore ( Overcompensating ), and Johnny Sibilly ( Hacks ). Jack Heller and Caitlin de Lisser-Ellen produced for Assemble Media ( The Man I Love , Skeletons ), alongside Alex Bach and Daniel Powell of Irony Point ( I Think You Should Leave with Tim Robinson ). Lena Dunham and Michael Cohen exec produced under their Good Thing Going banner, with Madison Wolk co-producing for Assemble Media alongside Blake Mars for Good Thing Going. We scooped the project in September.
+
+Best known for her role of Dr. Samira Mohan on HBO's hit medical drama The Pitt , heading into its third season, Ganesh will be seen coming up in Netflix's reboot of 13 Going on 30 . She is repped by Untitled and Granderson Des Rochers.
+
+Skinner is the creator and star of Overcompensating , the Prime Video comedy returning for its second season on February 17, 2027. He works with Barone on that show and will next reteam with her on her Hulu rom-com series Hard Feelings . He is repped by WME and Entertainment 360.
+
+Best known for starring in Prime Video's Transparent , Landecker has most recently been seen in Chris Rock's A24 film Misty Green . She is repped by Gersh, Ayala Cohen Management, Marsha McManus of Principal Entertainment LA and Toczek Suddleson. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Emmy nominated this year for his work on Netflix's The Diplomat , Whitford is repped by Gersh, Greenlight Management and Peikoff Mahan.
+
+============================================================
+[2] ‘3:30’ Filmmaker Shlok Choudhari &#038; Producer Sunil Sadarangani On Making A Women's Mental Health Awareness Noir In South Mumbai
 Source: Deadline | Status: expanded | Words: 2223
 Published: 2026-11-23T17:15:00+00:00
 URL: https://deadline.com/2026/11/330-short-film-inteview-shlok-choudhari-sunil-sadarangani-1237231423
@@ -93,7 +119,7 @@ DEADLINE: Shlok, what would you like to do next?
 CHOUDHARI: I want to make one more short, and I&#x2019;m also developing my feature. They&#x2019;re personal stories. They have to be personal. I write every day. So far, the universe, the force, has been with me. It&#x2019;s a privilege. I&#x2019;m taking one step at a time, but I know what I want to do next.
 
 ============================================================
-[2] Lost Cartoon Network Classic Finally Getting Streaming Release After 23 Years
+[3] Lost Cartoon Network Classic Finally Getting Streaming Release After 23 Years
 Source: ComicBook.com | Status: expanded | Words: 601
 Published: 2026-11-23T17:14:27+00:00
 URL: https://comicbook.com/tv-shows/news/lost-cartoon-network-classic-finally-getting-streaming-release-after-23-years
@@ -119,7 +145,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] BAFTA Film Awards Losing Headline Sponsor EE After 30 Years
+[4] BAFTA Film Awards Losing Headline Sponsor EE After 30 Years
 Source: Variety | Status: expanded | Words: 288
 Published: 2026-11-23T17:12:11+00:00
 URL: https://variety.com/2026/film/awards/bafta-film-awards-losing-headline-sponsor-ee-1236956014
@@ -141,7 +167,7 @@ EE first became title sponsor of the BAFTA awards in 2013, taking over from its 
 BAFTA is already in discussions with potential sponsors to take over for the 2028 film awards ceremony.
 
 ============================================================
-[4] Nominees for AARP Movies &#038; TV for Grownups Awards Include Newly AARP-Eligible Andrew Scott and Keri Russell
+[5] Nominees for AARP Movies &#038; TV for Grownups Awards Include Newly AARP-Eligible Andrew Scott and Keri Russell
 Source: The Hollywood Reporter | Status: expanded | Words: 745
 Published: 2026-11-23T17:05:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/nominees-for-2027-aarp-movies-tv-for-grownups-awards-1236760553
@@ -165,7 +191,7 @@ Best Movie for Grownups: Being Heumann , The Invite , The Odyssey , Tender Lovin
 Best TV Series or Limited Series: The Diplomat , DTF St. Louis , Hacks , The Pitt , and Widow&#x2019;s Bay Best Actor, Television: Sterling K. Brown ( Paradise ), Kyle Chandler ( Lanterns ), David Harbour ( DTF St. Louis ), Nick Offerman ( Margo&#x2019;s Got Money Troubles ), and Matthew Rhys ( Widow&#x2019;s Bay ) Best Actress, Television: Quincy Tyler Bernstine ( Furious ), Linda Cardellini ( DTF St. Louis ), Lisa Kudrow ( The Comeback ), Keri Russell ( The Diplomat ), and Jean Smart ( Hacks )
 
 ============================================================
-[5] 'God Of War': Deborah Ann Woll to Reprise Faye Role From Game In Amazon Series
+[6] 'God Of War': Deborah Ann Woll to Reprise Faye Role From Game In Amazon Series
 Source: Deadline | Status: expanded | Words: 625
 Published: 2026-11-23T17:00:00+00:00
 URL: https://deadline.com/2026/11/god-of-war-deborah-ann-woll-faye-amazon-series-1237230639
@@ -193,7 +219,7 @@ God of War is co-produced by Sony Pictures Television and Amazon MGM Studios in 
 Woll is known for her roles on HBO's True Blood and Marvel's Daredevil for Netflix and Daredevil: Born Again for Disney+. She is repped by Luber Roklin Entertainment and Goodman, Genow, Schenkman, Smelkinson & Christopher.
 
 ============================================================
-[6] Deborah Ann Woll to Reprise 'God of War' Role in Prime Video Series
+[7] Deborah Ann Woll to Reprise 'God of War' Role in Prime Video Series
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/deborah-ann-woll-to-reprise-god-of-war-role-in-prime-video-series-1236761123
@@ -215,7 +241,7 @@ Sony Pictures Television and Amazon MGM Studios are producing God of War in asso
 Woll stars in Marvel's Daredevil: Born Again as Karen Page; the show's third and final season is set to premiere on Disney+ in 2027. She'll reprise her role as Faye in God of War: Laufey , also due for release next year, and will appear on season two of The Testaments on Hulu. Her credits also include True Blood and horror film The Cycle . She is repped by Luber Roklin Entertainment and Goodman Genow.
 
 ============================================================
-[7] 'Focker In-Law' Review: Ariana Grande Outshines Robert De Niro and Ben Stiller in an Otherwise Dire Fourth Installment
+[8] 'Focker In-Law' Review: Ariana Grande Outshines Robert De Niro and Ben Stiller in an Otherwise Dire Fourth Installment
 Source: The Hollywood Reporter | Status: expanded | Words: 805
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021
@@ -245,7 +271,7 @@ Much of the supporting cast is wasted, including Blythe Danner, hardly given any
 Grande, whose character is supposed to be a former FBI hostage negotiator, is the best thing in the film, going toe-to-toe with her more cinematically experienced co-stars and displaying both formidable steeliness and deadpan comic skills. If, as seems sadly inevitable, there&#x2019;s yet another installment in the series, her presence should be required.
 
 ============================================================
-[8] Randy Newman to Receive Society of Composers and Lyricists Lifetime Achievement Award
+[9] Randy Newman to Receive Society of Composers and Lyricists Lifetime Achievement Award
 Source: The Hollywood Reporter | Status: expanded | Words: 375
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/randy-newman-scl-lifetime-achievement-award-1236760905
@@ -269,7 +295,7 @@ Other than the artist awards, the SCL will also honor senator Dick Durbin at its
 SCL's New York party will take place Dec. 1 at the Cutting Room, while the Chicago party is set for Dec. 3 at iO Theater. The Nashville party is at Ocean Way Studios on Dec. 5, and the final party will take place in L.A. on Dec. 9 at the Skirball Cultural Center.
 
 ============================================================
-[9] 'God of War' Live-Action Series: Deborah Ann Woll to Reprise Faye Role From Video Games
+[10] 'God of War' Live-Action Series: Deborah Ann Woll to Reprise Faye Role From Video Games
 Source: Variety | Status: expanded | Words: 602
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900
@@ -301,7 +327,7 @@ Ronald D. Moore is the writer, executive producer, and showrunner on &#x201C;God
 Frederick E.O. Toye will direct the first two episodes of &#x201C;God of War.&#x201D; Maril Davis of Tall Ship also executive produces alongside Cory Barlog, Naren Shankar, Matthew Graham, Asad Qizilbash, Jeff Ketcham, Hermen Hulst, Roy Lee, Brad Van Arragon, and Lawrence Trilling. Joe Menosky, Marc Bernardin, Tania Lotia, and Ben McGinnis serve as co-executive producers on the series. The series is co-produced by Sony Pictures Television and Amazon MGM Studios in association with PlayStation Productions and Tall Ship Productions.
 
 ============================================================
-[10] 'Focker-in-Law' Review: Ariana Grande Sporadically Livens Up a Tired Comedy Retread
+[11] 'Focker-in-Law' Review: Ariana Grande Sporadically Livens Up a Tired Comedy Retread
 Source: Variety | Status: expanded | Words: 970
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/film/reviews/focker-in-law-review-1236955690
@@ -325,7 +351,7 @@ As Henry, the reliably sympathetic Gisondo gets little to do; Beanie Feldstein, 
 Elsewhere, Hamburg merely settles for coasting on past jokes &#x2014; not even replaying them much of the time, but merely pointing at their props and punchlines. There&#x2019;s an urn, and a polygraph machine, and a taxidermied cat, all hoping to remind us of how we laughed then. Consider us reminded. But is it churlish to ask for more? Or, perhaps, less? Like a favorite dad joke told too many times, the &#x201C;Fockers&#x201D; franchise gets staler with each spin, while Olivia&#x2019;s sequel-teasing mention of her own parents at the close prompts a kind of existential dread. Never mind how old Greg is, or how old Jack is, or indeed how old we are: The Fockers, it seems, will outlive us all.
 
 ============================================================
-[11] 'The Odyssey' Leads Critics Choice Awards Below-the-Line Shortlists With 11 Mentions as 'Dune: Part Three' and 'La Bola Negra' Follow With Eight
+[12] 'The Odyssey' Leads Critics Choice Awards Below-the-Line Shortlists With 11 Mentions as 'Dune: Part Three' and 'La Bola Negra' Follow With Eight
 Source: Variety | Status: expanded | Words: 884
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/film/awards/critics-choice-awards-2027-below-the-line-shortlists-1236955558
@@ -373,7 +399,7 @@ Last season, the CCA&#x2019;s first with official artisan shortlists, Ryan Coogl
 The full CCA shortlist is below.
 
 ============================================================
-[12] 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas
+[13] 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas
 Source: The Playlist | Status: summary_only | Words: 90
 Published: 2026-11-23T17:00:00+00:00
 URL: https://theplaylist.net/focker-in-law-review-ariana-grande-20261123
@@ -385,7 +411,7 @@ CONTENT / EXTRACTED DETAILS:
 Here's what you need to remind yourself before clocking in to watch "Focker-in-Law ": This is the fourth installment in the "Meet the Parents" franchise. 26 years after the first movie, you know what you're signing up for. It's a formula that's gone through the same beats for four separate films. Director and screenwriter John Hamburg and stars Ben Stiller and Robert De Niro can pull this off in their sleep. Continue reading 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas at The Playlist.
 
 ============================================================
-[13] 'Focker In-Law' Review: Robert De Niro And Ben Stiller Are Back For Laughs But Ariana Grande Steals The Show This Time
+[14] 'Focker In-Law' Review: Robert De Niro And Ben Stiller Are Back For Laughs But Ariana Grande Steals The Show This Time
 Source: Deadline | Status: expanded | Words: 962
 Published: 2026-11-23T16:59:41+00:00
 URL: https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271
@@ -419,7 +445,7 @@ Cast: Robert De Niro, Ben Stiller, Ariana Grande, Owen Wilson, Teri Polo, Blythe
 Running Time: 1 hour and 45 minutes
 
 ============================================================
-[14] Moon Knight Reunites the West Coast Avengers to Face a Threat With Deep Roots in Marvel History
+[15] Moon Knight Reunites the West Coast Avengers to Face a Threat With Deep Roots in Marvel History
 Source: ComicBook.com | Status: expanded | Words: 835
 Published: 2026-11-23T16:58:00+00:00
 URL: https://comicbook.com/marvel/feature/moon-knight-reunites-the-west-coast-avengers-to-face-a-threat-with-deep-roots-in-marvel-history
@@ -451,7 +477,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off President's 2024 Assassination Attempt, After Nvidia Board Reinstates CEO
+[16] Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off 2024 Assassination Attempt on President, After Nvidia Board Reinstates CEO
 Source: Variety | Status: expanded | Words: 246
 Published: 2026-11-23T16:55:57+00:00
 URL: https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004
@@ -471,7 +497,7 @@ In the meme, Huang is triumphantly holding a red bra with an Nvidia flag positio
 Trump had called for Huang&#x2019;s reinstatement at Nvidia, including in a Truth Social post on Sunday night. Earlier Monday, Trump wrote on his social media platform that Huang would &#x201C;ensure the Success and Prosperity of not only the Company, but the American Economy&#x201D; as Nvidia&#x2019;s CEO and that U.S. Attorney General Todd Blanche has confirmed the government did not possess evidence that Huang committed any crimes.
 
 ============================================================
-[16] Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26'
+[17] Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26'
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-23T16:55:39+00:00
 URL: https://theplaylist.net/charlie-cox-james-bond-audition-bond-26-20261123
@@ -483,7 +509,7 @@ CONTENT / EXTRACTED DETAILS:
 This month we finally had confirmation that Robert Pattinson ("Primetime") is going to be the next James Bond, with French-Canadian filmmaker Denis Villeneuve ("Dune: Part Three") being enlisted to direct " Bond 26 " and help producers/ Amazon MGM Studios with the casting process (plenty more roles to be filled). However, we're now learning that " Daredevil: Born Again " actor Charlie Cox had been sniffing around an audition to play 007, but got a rather harsh response. Continue reading Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26' at The Playlist.
 
 ============================================================
-[17] Dancing With The Stars Sharna Burgess Slams Fans And Voting Ahead Of Season 35 Finale
+[18] Dancing With The Stars Sharna Burgess Slams Fans And Voting Ahead Of Season 35 Finale
 Source: CinemaBlend | Status: expanded | Words: 160
 Published: 2026-11-23T16:54:57+00:00
 URL: https://www.cinemablend.com/television/dancing-with-the-stars-sharna-burgess-slams-fans-voting-ahead-season-35-finale
@@ -499,7 +525,7 @@ The online fandom was going on in recent weeks about how unfair it was for Danci
 Sharna Burgess wants Dancing With The Stars to start limiting the voting and only giving fans ten votes, period, rather than ten per couple. Under this thinking, I'm assuming the idea is that viewers couldn't vote for everyone but the person they want eliminated. Would that be enough to turn things around?
 
 ============================================================
-[18] 'I'm a Celebrity' Tensions Between AJ Odudu and Mariella Frostrup Prompt ITV to Issue Statement: 'We Take the Welfare of the Celebrities Very Seriously'
+[19] 'I'm a Celebrity' Tensions Between AJ Odudu and Mariella Frostrup Prompt ITV to Issue Statement: 'We Take the Welfare of the Celebrities Very Seriously'
 Source: Variety | Status: expanded | Words: 288
 Published: 2026-11-23T16:52:05+00:00
 URL: https://variety.com/2026/tv/global/im-a-celebrity-tensions-aj-odudu-mariella-frostrup-1236955977
@@ -523,7 +549,7 @@ Although Frostrup later apologized, the feud sparked criticism on social media, 
 The show faced similar controversy in 2023 when Black British presenter Nella Rose clashed with fellow contestant Fred Sirieix after he joked that he was old enough to be her father. Rose, whose father had died, took offense at the remark. The clash prompted 861 complaints to U.K. broadcasting regulator Ofcom.
 
 ============================================================
-[19] January Jones, Stephen Dorff &#038; Lionel Boyce Among New Additions To Comedy 'The Family Disappears'
+[20] January Jones, Stephen Dorff &#038; Lionel Boyce Among New Additions To Comedy 'The Family Disappears'
 Source: Deadline | Status: expanded | Words: 324
 Published: 2026-11-23T16:48:43+00:00
 URL: https://deadline.com/2026/11/the-family-disappears-january-jones-stephen-dorff-1237231650
@@ -543,7 +569,7 @@ Jonatan Etzler, the Swedish filmmaker behind the Saoirse Ronan-led dark comedy B
 Jones is repped by Verve, Mosaic and Jackoway Austen Tyerman; Dorff by Mosaic and Hansen, Jacobson, Teller; Ferran by UTA, Independent Talent Group and Goodman, Genow, Schenkman; Boyce by WME and Entertainment 360; Rahill by WME, Rise Management and Schreck Rose Dapello; and Schaech by Link Entertainment.
 
 ============================================================
-[20] The Intellectual Property Corporation Unveils Executive Team Following Sony Split
+[21] The Intellectual Property Corporation Unveils Executive Team Following Sony Split
 Source: Deadline | Status: expanded | Words: 488
 Published: 2026-11-23T16:46:00+00:00
 URL: https://deadline.com/2026/11/the-intellectual-property-corporation-executive-team-1237230529
@@ -573,7 +599,7 @@ Over the summer, the company landed its first greenlight since becoming independ
 &#x201C;For proven, creatively ambitious producers, there are significant opportunities in the unscripted space. And our independent structure affords us the agility to seize that moment. After an exhilarating first decade in business, IPC is redoubling our focus and intensity as we continue to strive to launch hits in partnership with nonfiction&#x2019;s most discerning buyers,&#x201D; said IPC Co-Founders and Co-CEOs Saidman and Holzman. &#x201C;IPC has assembled a team of exceptional executives, who bring with them decades of experience creating hundreds of hours of premium programming. Their taste, ideas and tenacity are exactly what this moment demands. And we are truly excited about what we are going to accomplish together in this next chapter for IPC.&#x201D;
 
 ============================================================
-[21] ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies &#038; Personal Life In Apple TV’s Four-Part Documentary
+[22] ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies &#038; Personal Life In Apple TV’s Four-Part Documentary
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-23T16:45:56+00:00
 URL: https://theplaylist.net/timberlake-trailer-justin-timberlake-fisher-stevens-apple-tv-documentary-20261123
@@ -585,7 +611,7 @@ CONTENT / EXTRACTED DETAILS:
 If you’ve ever thought, “Why does Justin Timberlake need a documentary?” or, worse, “Why does Justin Timberlake need a four-part event documentary?” well, the upcoming Apple TV docuseries “ Timberlake ” may not be for you. But for anyone curious about the former *NSYNC star’s three decades in the spotlight, including the controversies that have increasingly complicated his public image, Apple has unveiled the first trailer for what it promises will be a revealing examination of his life and career. Continue reading ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies & Personal Life In Apple TV’s Four-Part Documentary at The Playlist.
 
 ============================================================
-[22] Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” &#038; Why Every Film Should Feel Like A Risk
+[23] Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” &#038; Why Every Film Should Feel Like A Risk
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-23T16:39:34+00:00
 URL: https://theplaylist.net/rian-johnson-knives-out-wake-up-dead-man-brick-marrakech-interview-20261123
@@ -597,7 +623,7 @@ CONTENT / EXTRACTED DETAILS:
 MARRAKECH FILM FESTIVAL – Rian Johnson has made three “ Knives Out ” mysteries, and he says he still starts every film as if it might not work. Speaking at an In Conversation session at the 23rd Marrakech International Film Festival, the writer-director described a career built on genre, old friends, and a refusal to repeat himself. Johnson grew up a devoted Agatha Christie fan, and he said he never approaches a genre as something to reinvent. Continue reading Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” & Why Every Film Should Feel Like A Risk at The Playlist.
 
 ============================================================
-[23] Shonen Jump’s Best New Anime Confirms Release Date for Season 2 Return
+[24] Shonen Jump’s Best New Anime Confirms Release Date for Season 2 Return
 Source: ComicBook.com | Status: expanded | Words: 618
 Published: 2026-11-23T16:38:56+00:00
 URL: https://comicbook.com/anime/news/shonen-jumps-best-new-anime-confirms-release-date-for-season-2-return
@@ -625,7 +651,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] New LEGO Spider-Man Set Leaks and It's Based on One of the Hero's Most Iconic Moments
+[25] New LEGO Spider-Man Set Leaks and It's Based on One of the Hero's Most Iconic Moments
 Source: ComicBook.com | Status: expanded | Words: 519
 Published: 2026-11-23T16:34:54+00:00
 URL: https://comicbook.com/collectibles/news/lego-spider-man-movie-green-goblin-set-2027-leak
@@ -649,7 +675,7 @@ As mentioned, at the time of this writing, LEGO has yet to officially reveal thi
 How do you feel about this new Spider-Man set LEGO is releasing to kick off 2027? And will you be picking this set up for yourself since it happens to be relatively cheap? Let me know all of your own thoughts down in the comments section.
 
 ============================================================
-[25] Spike Lee and Willem Dafoe Board Short Film 'Pankaja' as Exec Producers (EXCLUSIVE)
+[26] Spike Lee and Willem Dafoe Board Short Film 'Pankaja' as Exec Producers (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 349
 Published: 2026-11-23T16:34:48+00:00
 URL: https://variety.com/2026/film/global/spike-lee-willem-dafoe-short-film-pankaja-exec-producers-1236955965
@@ -671,7 +697,7 @@ The film had its world premiere at the 2026 Sundance Film Festival and went on t
 "Pankaja" is also supported by The Culture Fund, an impact fund investing in filmmakers and stories with the power to shape culture.
 
 ============================================================
-[26] Comedian Peyton Ruddy Signs With Brillstein Entertainment Partners
+[27] Comedian Peyton Ruddy Signs With Brillstein Entertainment Partners
 Source: Deadline | Status: expanded | Words: 415
 Published: 2026-11-23T16:30:00+00:00
 URL: https://deadline.com/2026/11/peyton-ruddy-signs-brillstein-entertainment-partners-1237229652
@@ -697,7 +723,7 @@ Ruddy continues to be repped by WME and Yorn Levine Barnes.
 Get Deadline's Comedy Means Business newsletter &#x2014; covering all things comedy &#x2014; in your inbox by signing up here .
 
 ============================================================
-[27] ‘Once Upon A Time In The Middle East’ Takes Snow Leopard For Best Film At Asian World Film Festival
+[28] ‘Once Upon A Time In The Middle East’ Takes Snow Leopard For Best Film At Asian World Film Festival
 Source: Deadline | Status: expanded | Words: 1009
 Published: 2026-11-23T16:30:00+00:00
 URL: https://deadline.com/2026/11/asian-world-film-festival-once-upon-a-time-in-the-middle-east-1237231396
@@ -773,7 +799,7 @@ Rising Star: Mason Reeves, actress; presented by Diana Lee Inosanto, Filipino-Am
 Bruce Lee Award: Diana Lee Inosanto, Filipino-American actress, director, writer, stunt coordinator and stunt performer; presented by Shannon Lee, chairperson, Bruce Lee Foundation
 
 ============================================================
-[28] Hollywood’s Top 10 Animation Schools
+[29] Hollywood’s Top 10 Animation Schools
 Source: The Hollywood Reporter | Status: expanded | Words: 2389
 Published: 2026-11-23T16:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/hollywood-top-animation-schools-2026-1236757452
@@ -869,7 +895,7 @@ Universe Building: The B.F.A.&#x2019;s story emphasis offers specialization spec
 A version of story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[29] Call Me Crazy, But I Don’t Buy Marion’s Gilded Age Twist
+[30] Call Me Crazy, But I Don’t Buy Marion’s Gilded Age Twist
 Source: CinemaBlend | Status: expanded | Words: 213
 Published: 2026-11-23T16:23:23+00:00
 URL: https://www.cinemablend.com/television/call-me-crazy-but-i-dont-buy-marion-gilded-age-twist-pregnancy
@@ -887,7 +913,7 @@ While Marian and her doctor seem to think that she's pregnant due to the chronic
 Marian has been actively avoiding Larry since their tryst, with the Van Rhijn niece harboring a ton of shame and worry about what it could mean for her reputation in New York society. The only thing that could further ruin her chance at marrying well is having a child out of wedlock, which I'm sure would mortify her Aunts, as well as any future suitors.
 
 ============================================================
-[30] X-Men Fans Will Finally Get THAT Iconic Line in Avengers: Doomsday After Waiting 64 Years
+[31] X-Men Fans Will Finally Get THAT Iconic Line in Avengers: Doomsday After Waiting 64 Years
 Source: ComicBook.com | Status: expanded | Words: 598
 Published: 2026-11-23T16:20:11+00:00
 URL: https://comicbook.com/movies/news/x-men-fans-will-finally-get-that-iconic-line-in-avengers-doomsday-after-waiting-64-years
@@ -913,7 +939,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027
+[32] Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027
 Source: The Playlist | Status: summary_only | Words: 132
 Published: 2026-11-23T16:17:56+00:00
 URL: https://theplaylist.net/rian-johnson-poker-face-peter-dinklage-dead-teases-sci-fi-thriller-20261123
@@ -925,7 +951,7 @@ CONTENT / EXTRACTED DETAILS:
 It doesn't look like fans of " Poker Face " are going to be getting any more episodes, as Rian Johnson ("Wake Up Dead Man") has shared a very blunt and disappointing update concerning his attempt to keep the human lie-detector show alive. Johnson was speaking at the 2026 Marrakech International Film Festival (via Variety) and gave some brief updates on some of his projects, including that attempt to revive "Poker Face" without Peacock and lead actress Natasha Lyonne , who was being replaced by veteran actor Peter Dinklage ("Game of Thrones," "Dexter: Resurrection") as the next version of Charlie Cale in a reimagining. Continue reading Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027 at The Playlist.
 
 ============================================================
-[32] Byron Allen's BuzzFeed Hires Chris Poydenis, Co-Founder of Creator Marketing Agency Influential, as Chief Revenue Officer
+[33] Byron Allen's BuzzFeed Hires Chris Poydenis, Co-Founder of Creator Marketing Agency Influential, as Chief Revenue Officer
 Source: Variety | Status: expanded | Words: 548
 Published: 2026-11-23T16:14:26+00:00
 URL: https://variety.com/2026/digital/news/buzzfeed-chris-poydenis-chief-revenue-officer-cofounder-influential-1236955952
@@ -951,7 +977,7 @@ For the third quarter of 2026, BuzzFeed reported total revenue of $26.0 million 
 &#x201C;The restructuring we announced in July reduced our workforce and dedicated contractors by approximately 35% and we expect this to yield approximately $30 million in annualized savings," Allen said. In the fourth quarter, "our strategy is to bring compelling content to audiences wherever they are &#x2014; across digital platforms and connected TV &#x2014; as we work to position BuzzFeed to be a premier global free streaming platform.&#x201D;
 
 ============================================================
-[33] Recasting the Original Breakfast Club for 2026
+[34] Recasting the Original Breakfast Club for 2026
 Source: ComicBook.com | Status: expanded | Words: 1299
 Published: 2026-11-23T16:13:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-breakfast-club-for-2026
@@ -993,7 +1019,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] ‘Secret Service’ Review: Gemma Arterton &#038; Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller
+[35] ‘Secret Service’ Review: Gemma Arterton &#038; Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-23T16:05:43+00:00
 URL: https://theplaylist.net/secret-service-review-gemma-arterton-rafe-spall-mgm-plus-20261123
@@ -1005,7 +1031,7 @@ CONTENT / EXTRACTED DETAILS:
 Espionage! Political intrigue! Family dynamics! Oh my! We aren’t in Kansas anymore, but rather half a world away, where the latest dip into the spy-thriller waters has emerged with MGM+ ’s “ Secret Service, ” a show that promises to deliver on everything listed above in a way far more complicated than necessary. This isn’t your grandparents’ James Bond : it’s Gen Z’s Gemma Arterton . Sadly, that comparison makes far more sense than much of what unfolds here. Continue reading ‘Secret Service’ Review: Gemma Arterton & Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller at The Playlist.
 
 ============================================================
-[35] One Piece Finally Reveals Imu's Official Design With Full Look at Its Biggest Villain
+[36] One Piece Finally Reveals Imu's Official Design With Full Look at Its Biggest Villain
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-23T16:05:07+00:00
 URL: https://comicbook.com/anime/news/one-piece-finally-reveals-imus-official-design-with-full-look-at-its-biggest-villain
@@ -1031,7 +1057,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies
+[37] Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies
 Source: Variety | Status: expanded | Words: 386
 Published: 2026-11-23T16:03:04+00:00
 URL: https://variety.com/2026/music/news/justin-timberlake-documentary-trailer-britney-spears-janet-jackson-1236955955
@@ -1051,7 +1077,7 @@ Judging by the trailer and our source, the doc will get into deeper detail about
 &#x201C;Timberlake&#x201D; is produced for Apple TV by Blackbird Presents Films, Misher Films and Highly Flammable, with Maura Anderson and Stevens producing. Kevin Misher, Keith Wortman, Lee Eisenberg, Michael Rapino, Ryan Kroft, Rick Yorn, Josh Dembling, Johnny Wright and Andre Person serve as executive producers. The series is a Live Nation Studios presentation.
 
 ============================================================
-[37] 'Lil Kev' Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series
+[38] 'Lil Kev' Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-23T16:00:00+00:00
 URL: https://deadline.com/2026/11/kevin-hart-animated-series-lil-kev-trailer-1237231157
@@ -1073,7 +1099,7 @@ Hart, Bryan Smiley, Jeff Clanagan, Mike Stein, Tiffany Brown and Candice Wilson 
 Lil Kev Season 2 premieres December 9 on Paramount+. Check out the trailer above.
 
 ============================================================
-[38] Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series
+[39] Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series
 Source: Deadline | Status: expanded | Words: 583
 Published: 2026-11-23T16:00:00+00:00
 URL: https://deadline.com/2026/11/frontline-one-in-a-million-youtube-release-1237231431
@@ -1099,7 +1125,7 @@ Frontline&#x2019;s Aronson-Rath will be a guest on Deadline&#x2019;s Doc Talk po
 You can watch the trailer for One In a Million here.
 
 ============================================================
-[39] Colin Farrell: For Emma Fogarty, Who Means the World to Me
+[40] Colin Farrell: For Emma Fogarty, Who Means the World to Me
 Source: Variety | Status: expanded | Words: 828
 Published: 2026-11-23T16:00:00+00:00
 URL: https://variety.com/2026/tv/columns/colin-farrell-emma-fogarty-the-slightest-touch-hbo-epidermolysis-bullosa-1236955666
@@ -1127,7 +1153,7 @@ She hadn&#x2019;t told me she&#x2019;d be coming, and it absolutely broke me &#x
 I only hope that I can offer her some measure of the same kind of love.
 
 ============================================================
-[40] People Are Crediting Britney Spears For Black Lace Comeback (But I Think It Goes To Catherine Zeta-Jones)
+[41] People Are Crediting Britney Spears For Black Lace Comeback (But I Think It Goes To Catherine Zeta-Jones)
 Source: CinemaBlend | Status: expanded | Words: 351
 Published: 2026-11-23T15:56:55+00:00
 URL: https://www.cinemablend.com/movies/people-crediting-britney-spears-black-lace-comeback-mkenna-grace-catherine-zeta-jones
@@ -1147,7 +1173,7 @@ I really do think the Entrapment actress’ look not only came before Spears’ 
 We’re heading into winter, and we typically see a lot of black after the browns of fall fade out, but I just wanted to give an icon her due where I feel it is due. Though Ms. Spears’ dress is one I will always be thinking about.
 
 ============================================================
-[41] Land Before Time Remake Trailer Littlefoot Brings the 80s Kid Classic into 3D
+[42] Land Before Time Remake Trailer Littlefoot Brings the 80s Kid Classic into 3D
 Source: ComicBook.com | Status: expanded | Words: 628
 Published: 2026-11-23T15:55:26+00:00
 URL: https://comicbook.com/movies/news/land-before-time-remake-trailer-little-foot-brings-the-80s-kid-classic-into-3d
@@ -1175,7 +1201,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Amazon’s Jeff Bezos Just Said The Quiet Part Out Loud About Robert Pattinson Playing 007
+[43] Amazon’s Jeff Bezos Just Said The Quiet Part Out Loud About Robert Pattinson Playing 007
 Source: CinemaBlend | Status: expanded | Words: 307
 Published: 2026-11-23T15:51:23+00:00
 URL: https://www.cinemablend.com/movies/amazon-jeff-bezos-said-quiet-part-out-loud-robert-pattinson-playing-007
@@ -1195,7 +1221,7 @@ In the end, much to my relief, it sounds like everyone involved was on the same 
 Opinions on Pattinson becoming the ninth man to play James Bond have varied greatly, as to be expected. Many online were cheering the decision, while many others were unhappy with the choice. As a huge Bond fan (and someone who often uses his Prime subscription to rewatch the movies), I’m good with it. I want to see him play 007 before I form an opinion, as I think everyone should. Clearly, he was the first choice among the producers and, at least for now, we should trust them. Now...about that new Bond girl .
 
 ============================================================
-[43] 'Daredevil' Star Charlie Cox Asked to Audition for James Bond but Was Told He's Too Old: 'Robert Pattinson Is the Same Age as Me!'
+[44] 'Daredevil' Star Charlie Cox Asked to Audition for James Bond but Was Told He's Too Old: 'Robert Pattinson Is the Same Age as Me!'
 Source: Variety | Status: expanded | Words: 395
 Published: 2026-11-23T15:37:06+00:00
 URL: https://variety.com/2026/film/news/charlie-cox-james-bond-audition-too-old-1236955818
@@ -1217,7 +1243,7 @@ Pattinson issued a statement upon being announced as the new James Bond actor th
 The new James Bond movie is expected to go into production next year.
 
 ============================================================
-[44] Black Clover Season 2 Preview Teases Yuno's Next Big Power Up
+[45] Black Clover Season 2 Preview Teases Yuno's Next Big Power Up
 Source: ComicBook.com | Status: expanded | Words: 623
 Published: 2026-11-23T15:37:01+00:00
 URL: https://comicbook.com/anime/news/black-clover-season-2-preview-teases-yunos-next-big-power-up
@@ -1243,7 +1269,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3
+[46] David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-23T15:36:06+00:00
 URL: https://theplaylist.net/mindhunter-david-fincher-season-3-netflix-production-nightmare-20261123
@@ -1255,7 +1281,7 @@ CONTENT / EXTRACTED DETAILS:
 If you’ve followed all the reporting on David Fincher ’s “ Mindhunter ”—much of which we covered intensively— and the difficulties of making it, the reasons there’s no Season 3 make perfect sense. For one, Fincher never intended to be the showrunner, but ultimately found himself saddled with that responsibility. The 90—hour work weeks required to pull it off were all-consuming, the production challenges were enormous, and worse, the series cost an exorbitant amount of money to make—so much so that the viewership simply couldn’t justify the price tag. Continue reading David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3 at The Playlist.
 
 ============================================================
-[46] Spider-Man Routinely Holds Back, but These 5 Marvel Powerhouses Still Couldn't Beat Him
+[47] Spider-Man Routinely Holds Back, but These 5 Marvel Powerhouses Still Couldn't Beat Him
 Source: ComicBook.com | Status: expanded | Words: 1245
 Published: 2026-11-23T15:31:00+00:00
 URL: https://comicbook.com/comics/list/spider-man-routinely-holds-back-but-these-5-marvel-powerhouses-still-couldnt-beat-him
@@ -1295,7 +1321,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Sixty Years In The Making, Queer Thriller 'The Wrong People' Is Now In Post With 'The Affair' &#038; 'Emily In Paris' DoP Directing
+[48] Sixty Years In The Making, Queer Thriller 'The Wrong People' Is Now In Post With 'The Affair' &#038; 'Emily In Paris' DoP Directing
 Source: Deadline | Status: expanded | Words: 801
 Published: 2026-11-23T15:27:55+00:00
 URL: https://deadline.com/2026/11/queer-thriller-wrong-people-emily-in-paris-dop-cast-1237231529
@@ -1331,7 +1357,7 @@ Abell added: &#x201C;Robin Maugham used his place in the House of Lords to expos
 Luke Newberry is represented by Accelerate. Calum Ross is repped by The Artists Partnership. Caroline Goodall is represented by United Agents. Branka Katic is with Conway van Gelder Grant Joe Anderson is represented by United Agents. The Maugham estate is represented by Alan Brodie Representation Ltd.
 
 ============================================================
-[48] Taylor Swift Was NOT Giving The ‘Peace Sign’ At Travis Kelce’s Game. See Her Celebrating Her DH’s Touchdowns
+[49] Taylor Swift Was NOT Giving The ‘Peace Sign’ At Travis Kelce’s Game. See Her Celebrating Her DH’s Touchdowns
 Source: CinemaBlend | Status: expanded | Words: 211
 Published: 2026-11-23T15:20:00+00:00
 URL: https://www.cinemablend.com/television/taylor-swift-not-giving-peace-sign-travis-kelce-game-see-her-celebrating-dhs-touchdowns
@@ -1347,7 +1373,7 @@ Now, I didn't have a view into the family suite from my seat. Still, I did watch
 Patrick Mahomes found Kelce for an 8-yard score on the Chiefs' opening possession. Then, late in the second quarter, the quarterback connected with him again on a 22-yard touchdown pass. Kelce finished with six catches for 74 yards as Kansas City beat Arizona 34-7.
 
 ============================================================
-[49] Avengers: Doomsday Just Teased a Massive Upgrade for Thor, And a Subplot We Can't Predict
+[50] Avengers: Doomsday Just Teased a Massive Upgrade for Thor, And a Subplot We Can't Predict
 Source: ComicBook.com | Status: expanded | Words: 674
 Published: 2026-11-23T15:19:07+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-just-teased-a-massive-upgrade-for-thor-and-a-subplot-we-cant-predict
@@ -1371,16 +1397,4 @@ What do you think about the final Avengers: Doomsday trailer? Let us know in the
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&#038;W Version Starring Tom Cruise Before Producer Torpedoed It
-Source: The Playlist | Status: summary_only | Words: 106
-Published: 2026-11-23T15:12:38+00:00
-URL: https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123
-------------------------------------------------------------
-SUMMARY:
-Hollywood is littered with stories about cool-sounding feature film projects that never happened or directors having creative issues, leading to being replaced. Well, D avid Fincher , who is behind " The Further Mis-Adventures of Cliff Booth ," has revealed his reasoning for exiting his original take on the infamous Los Angeles true-crime picture " The Black Dahlia " about an aspiring starlet named Elizabeth Short , who was BRUTALLY murdered and shocked the city for years to come. Continue reading 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&W Version Starring Tom Cruise Before Producer Torpedoed It at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-Hollywood is littered with stories about cool-sounding feature film projects that never happened or directors having creative issues, leading to being replaced. Well, D avid Fincher , who is behind " The Further Mis-Adventures of Cliff Booth ," has revealed his reasoning for exiting his original take on the infamous Los Angeles true-crime picture " The Black Dahlia " about an aspiring starlet named Elizabeth Short , who was BRUTALLY murdered and shocked the city for years to come. Continue reading 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&W Version Starring Tom Cruise Before Producer Torpedoed It at The Playlist.
 

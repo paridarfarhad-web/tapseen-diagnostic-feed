@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T17:15:46.228Z"
+    "updated_at": "2026-11-23T17:21:39.716Z"
   },
   "articles": [
+    {
+      "id": "1c2d67af-2771-40f6-b05a-c4bc5a3871f2",
+      "title": "Supriya Ganesh, Benito Skinner, Amy Landecker &#038; Bradley Whitford Round Out Cast Of Mary Beth Barone Rom-Com 'Still We Met'",
+      "summary": "EXCLUSIVE: Still We Met, the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt's Supriya Ganesh, plus Overcompensating's Benito Skinner, and the husband &#38; wife duo of Amy Landecker (Misty Green) and Bradley Whitford (The Diplomat). Character details are […]",
+      "content": "EXCLUSIVE: Still We Met , the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt 's Supriya Ganesh , plus Overcompensating 's Benito Skinner , and the husband & wife duo of Amy Landecker ( Misty Green ) and Bradley Whitford ( The Diplomat ).\n\nCharacter details are under wraps. The film follows a young woman at a crossroads who meets a charming British stranger and spends one unforgettable night wandering New York, revealing more than either intended.\n\nStill We Met marks Barone's feature screenwriting and acting debut. The film is directed by Zackary Drucke, in his narrative feature debut. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Casting Emily Ratajkowski Joins Mary Beth Barone & Joe Alwyn In Rom-Com 'Still We Met' News Benito Skinner Teases \"2016 Millennial Hopecore\" For 'Overcompensating' Season 2: \"Sorry For The Wait\"\n\nOther new additions to the cast include Daniel Liu ( The Devil Wears Prada 2 ), Adam Faison ( Fallout ), Corteon Moore ( Overcompensating ), and Johnny Sibilly ( Hacks ). Jack Heller and Caitlin de Lisser-Ellen produced for Assemble Media ( The Man I Love , Skeletons ), alongside Alex Bach and Daniel Powell of Irony Point ( I Think You Should Leave with Tim Robinson ). Lena Dunham and Michael Cohen exec produced under their Good Thing Going banner, with Madison Wolk co-producing for Assemble Media alongside Blake Mars for Good Thing Going. We scooped the project in September.\n\nBest known for her role of Dr. Samira Mohan on HBO's hit medical drama The Pitt , heading into its third season, Ganesh will be seen coming up in Netflix's reboot of 13 Going on 30 . She is repped by Untitled and Granderson Des Rochers.\n\nSkinner is the creator and star of Overcompensating , the Prime Video comedy returning for its second season on February 17, 2027. He works with Barone on that show and will next reteam with her on her Hulu rom-com series Hard Feelings . He is repped by WME and Entertainment 360.\n\nBest known for starring in Prime Video's Transparent , Landecker has most recently been seen in Chris Rock's A24 film Misty Green . She is repped by Gersh, Ayala Cohen Management, Marsha McManus of Principal Entertainment LA and Toczek Suddleson. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nEmmy nominated this year for his work on Netflix's The Diplomat , Whitford is repped by Gersh, Greenlight Management and Peikoff Mahan.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/still-we-met-cast-adds-supriya-ganesh-benito-skinner-more-1237231669",
+      "published_at": "2026-11-23T17:19:26+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/2026-ELLE-Women-In-Hollywood-A-Few-Good-Men-Opening-Night-32nd-Annual-Actor-Awards-Arrivals-1000.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 503,
+      "extracted_at": "2026-11-23T17:21:20.792355+00:00",
+      "updated_at": "2026-11-23T17:21:20.792355+00:00"
+    },
     {
       "id": "c4a708e3-5c4e-412f-9502-d48b0363bc97",
       "title": "‘3:30’ Filmmaker Shlok Choudhari &#038; Producer Sunil Sadarangani On Making A Women's Mental Health Awareness Noir In South Mumbai",
@@ -220,7 +235,7 @@
     },
     {
       "id": "8737aa35-2b5c-4f54-825c-d1ad5aacb485",
-      "title": "Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off President's 2024 Assassination Attempt, After Nvidia Board Reinstates CEO",
+      "title": "Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off 2024 Assassination Attempt on President, After Nvidia Board Reinstates CEO",
       "summary": "After a head-spinning reversal by Nvidia's board to reinstate Jensen Huang as CEO, following revelations of the executive's multiple affairs including one with a reported Chinese spy, President Donald Trump is exulting in the decision — and Trump posted a truly weird image to celebrate the turn of events. On Monday, Trump shared an AI-generated […]",
       "content": "After a head-spinning reversal by Nvidia's board to reinstate Jensen Huang as CEO , following revelations of the executive's multiple affairs including one with a reported Chinese spy, President Donald Trump is exulting in the decision — and Trump posted a truly weird image to celebrate the turn of events.\n\nOn Monday, Trump shared an AI-generated image of Huang that echoed photos of Trump following an assassination attempt at his campaign rally in Butler, Pennsylvania, in July 2024 . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Pink Announces 2027 Sphere Residency in Las Vegas\n\nIn the meme, Huang is triumphantly holding a red bra with an Nvidia flag positioned in the background, as the executive is surrounded by Secret Service agents. In the image Trump shared, Huang has blood spattered on his face (as Trump appeared to also have after the shooting in Butler).\n\n\"Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision!\" Trump wrote earlier on Monday.\n\nTrump had called for Huang&#x2019;s reinstatement at Nvidia, including in a Truth Social post on Sunday night. Earlier Monday, Trump wrote on his social media platform that Huang would &#x201C;ensure the Success and Prosperity of not only the Company, but the American Economy&#x201D; as Nvidia&#x2019;s CEO and that U.S. Attorney General Todd Blanche has confirmed the government did not possess evidence that Huang committed any crimes.",
       "source": "Variety",
@@ -230,8 +245,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 246,
-      "extracted_at": "2026-11-23T17:01:24.409884+00:00",
-      "updated_at": "2026-11-23T17:01:24.409884+00:00"
+      "extracted_at": "2026-11-23T17:21:25.69372+00:00",
+      "updated_at": "2026-11-23T17:21:25.69372+00:00"
     },
     {
       "id": "7fdbceff-f460-417d-8e8c-2299bac20ff9",
@@ -742,21 +757,6 @@
       "word_count": 674,
       "extracted_at": "2026-11-23T15:19:16.878125+00:00",
       "updated_at": "2026-11-23T15:19:16.878125+00:00"
-    },
-    {
-      "id": "f1af218b-04ae-4fa1-b038-5ea302bdc770",
-      "title": "'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&#038;W Version Starring Tom Cruise Before Producer Torpedoed It",
-      "summary": "Hollywood is littered with stories about cool-sounding feature film projects that never happened or directors having creative issues, leading to being replaced. Well, D avid Fincher , who is behind \" The Further Mis-Adventures of Cliff Booth ,\" has revealed his reasoning for exiting his original take on the infamous Los Angeles true-crime picture \" The Black Dahlia \" about an aspiring starlet named Elizabeth Short , who was BRUTALLY murdered and shocked the city for years to come. Continue reading 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&W Version Starring Tom Cruise Before Producer Torpedoed It at The Playlist.",
-      "content": "Hollywood is littered with stories about cool-sounding feature film projects that never happened or directors having creative issues, leading to being replaced. Well, D avid Fincher , who is behind \" The Further Mis-Adventures of Cliff Booth ,\" has revealed his reasoning for exiting his original take on the infamous Los Angeles true-crime picture \" The Black Dahlia \" about an aspiring starlet named Elizabeth Short , who was BRUTALLY murdered and shocked the city for years to come. Continue reading 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&W Version Starring Tom Cruise Before Producer Torpedoed It at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123",
-      "published_at": "2026-11-23T15:12:38+00:00",
-      "image_url": "https://www.youtube.com/embed/3G2b3BiTDZg",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 106,
-      "extracted_at": "2026-11-23T15:13:15.968759+00:00",
-      "updated_at": "2026-11-23T15:13:15.968759+00:00"
     }
   ]
 }
