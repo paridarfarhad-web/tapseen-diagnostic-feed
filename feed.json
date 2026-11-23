@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T19:45:41.437Z"
+    "updated_at": "2026-11-23T19:47:46.844Z"
   },
   "articles": [
+    {
+      "id": "5d09a92a-2e65-4386-8b41-69b5396dcd37",
+      "title": "‘Blade Runner 2099’ Review: Michelle Yeoh &#038; Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul",
+      "summary": "As a culture, as a whole, we could really stand to make clearer distinctions between what’s a perfect replication or approximation of a piece of art and what is, in fact, good art. Take “ Blade Runner 2099 ,” the new Prime Video series from Silka Luisa , the creator and showrunner behind the absorbing Elisabeth Moss -led sci-fi, time-travel miniseries “ Shining Girls ,” for example. Continue reading ‘Blade Runner 2099’ Review: Michelle Yeoh & Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul at The Playlist.",
+      "content": "As a culture, as a whole, we could really stand to make clearer distinctions between what’s a perfect replication or approximation of a piece of art and what is, in fact, good art. Take “ Blade Runner 2099 ,” the new Prime Video series from Silka Luisa , the creator and showrunner behind the absorbing Elisabeth Moss -led sci-fi, time-travel miniseries “ Shining Girls ,” for example. Continue reading ‘Blade Runner 2099’ Review: Michelle Yeoh & Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/blade-runner-2099-review-michelle-yeoh-hunter-schafer-20261123",
+      "published_at": "2026-11-23T19:45:52+00:00",
+      "image_url": "https://www.youtube.com/embed/1d4x_eSdqNc",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 91,
+      "extracted_at": "2026-11-23T19:47:29.631902+00:00",
+      "updated_at": "2026-11-23T19:47:29.631902+00:00"
+    },
     {
       "id": "2648c2d0-26d2-4d35-bf55-35881d0cd5b9",
       "title": "'Percy Jackson and the Olympians': How Season 3 Brings Epic Moments to Life and Deals With Annabeth's Absence in the Books",
@@ -742,21 +757,6 @@
       "word_count": 379,
       "extracted_at": "2026-11-23T18:01:24.521234+00:00",
       "updated_at": "2026-11-23T18:01:24.521234+00:00"
-    },
-    {
-      "id": "125583a4-06a7-45c0-a7b4-8e3b7db66a30",
-      "title": "'The Secret Lives of Mormon Wives: Orange County' Renewed at Hulu",
-      "summary": "The streamer has order 20 more episodes of the new series that will likely be split into two separate seasons.",
-      "content": "Hulu has renewed The Secret Lives of Mormon Wives : Orange County , ordering 20 more episodes of the new unscripted series.\n\nThe 20-episode order will likely be split into two separate seasons if it follows the same rollout as the original Secret Lives of Mormon Wives series (upon the original show's renewal in 2024, Hulu ordered 20 episodes that were later split into its second and third seasons).\n\nSeason one of Mormon Wives: Orange County , which debuted on the streamer on Nov. 12, accumulated 35 million hours of viewing worldwide in its first 11 days, per Hulu. That's a 12 percent increase over season five of the original series. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories TV Lindsay Hubbard Teases 'Summer House' Spinoff 'In the City' Season 2: \"Better Than Season One\" TV 'Secret Lives of Mormon Wives' EPs on How 'Orange County' Became the First Franchise Extension, Season 2 Hopes and \"Exploring\" More Spinoffs\n\nThe cast features a group of women connected to the Mormon religion living in Southern California. A spinoff of Hulu's Emmy-nominated The Secret Lives of Mormon Wives , the show is the first extension of the franchise. Ashleigh Pease, Aspyn Ovard, Avery Woods, Bobbi Althoff, Jen Affleck, Jordan McClanahan, Madison Bontempo, McCall DaPron and Salom&#xE9; Andrea made up the season one cast.\n\nWhen asked by The Hollywood Reporter about plans for a potential second season, executive producers Jeff Jenkins and Lisa Filipelli said they were waiting for the greenlight from Hulu. They also said the success of the spinoff boils down to its dynamic cast.\n\n&#x201C;A docuseries, in my opinion, is only as good as the folks who are the subject, who are on camera, right? So we just try really hard to collaborate with our castmembers and bring their stories forward,&#x201D; Jenkins said. &#x201C;It just goes back to story and sharing. We look for subjects, castmembers, who are really ready to share. It&#x2019;s not an easy thing to do.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nThe Secret Lives of Mormon Wives: Orange County is produced by Jeff Jenkins Productions, in association with 3BMG and Walt Disney Television Alternative. Executive producers include Jeff Jenkins, Russell Jay-Staglik, Amanda Weinstein, Melissa Bidwell and Brandon Beck at Jeff Jenkins Productions; Ross Weintraub and Reinout Oerlemans at 3BMG; and Georgia Berger, Filipelli and Danielle Pistotnik at Select Entertainment.",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/secret-lives-mormon-wives-orange-county-renewed-hulu-20-episodes-1236760335",
-      "published_at": "2026-11-23T18:00:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 422,
-      "extracted_at": "2026-11-23T18:01:25.307828+00:00",
-      "updated_at": "2026-11-23T18:01:25.307828+00:00"
     }
   ]
 }
