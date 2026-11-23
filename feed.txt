@@ -1,9 +1,43 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T02:52:52.113Z
+Last Updated: 2026-11-23T03:00:50.411Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
+[1] ‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] &#038; “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4
+Source: Deadline | Status: expanded | Words: 938
+Published: 2026-11-23T03:00:00+00:00
+URL: https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274
+------------------------------------------------------------
+SUMMARY:
+SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4's fourth episode. George Russell’s gunshot wound is coming back to haunt him in a way as Season 4 of The Gilded Age reaches its midpoint. As has been building since last season when George survived an assassination attempt in his home, a troubling […]
+
+CONTENT / EXTRACTED DETAILS:
+SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4's fourth episode .
+
+George Russell&#x2019;s gunshot wound is coming back to haunt him in a way as Season 4 of The Gilded Age reaches its midpoint.
+
+As has been building since last season when George survived an assassination attempt in his home, a troubling laudanum addiction has come to light for the railroad tycoon, whose behavior early on in the season has grown more and more unpredictable.
+
+&#x201C;I think it is fairly easy, when you have a long-term injury, and you do have lingering pain, to fall into opiate addiction. I think that is a real thing, but I also think George is someone with a really indomitable will. And I think for someone like him, in our story, to slip into the situation, I think there's something else going on in his life,&#x201D; Spector told Deadline. &#x201C;I think that something else is the destabilization of his relationship with Bertha. I don't think that's entirely it. I think, after the shooting last season, he's really having a gigantic midlife crisis. He's built this enormous empire, and he&#x2019;s suddenly realized he doesn't really know who he is anymore, what his values are, and if and if he wants to keep living his life the way he has been, so I think the laudanum comes along at just exactly the wrong time for him.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+George is under extra pressure this season with President Grover Cleveland (Jim Gaffigan) in town and working on antitrust legislature, which would threaten the railroad monopoly he has worked so hard to construct and protect. Add J.D. Rockefeller (Neal Huff) into the equation wanting to cut back prices he pays Russell Industries to transport his oil, and George feels very cornered in business. Spector had hinted that his character was already having a "crisis of conflict" in Season 3. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+&#x201C;Rockefeller was this really interesting character, and so we learned more about him from the research. I'm from Cleveland, and he's originally from Cleveland. And he basically bankrupted Toledo or some city. He ripped them off, but he was also really pious, and he did do the price fixing,&#x201D; co-showrunner Sonja Warfield told Deadline. &#x201C;That's something he did do. He was ruthless in business, but in church all the time. I love to put characters under pressure. I think it's where the magic happens, and George and the laudanum &#x2014;Doctor [Erica] Dunbar had actually suggested that last season.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The tincture of opium was prescribed by the white doctor who attended to George&#x2019;s gunshot wound after Dr. William Kirkland (Jordan Donica) saved Mr. Russell&#x2019;s life in Season 3.
+
+&#x201C;She did say, &#x2018;You know that you can get addicted to it,&#x2019; and so we planted that last season, and what I love is that, Morgan plays it just so deftly and just beautifully &#x2014; this vulnerable side of George. And in the first season we see George, there&#x2019;s a character who gets down on his knees and begs him, &#x2018;Spare us,&#x2019; and now George is is really at his knees [on this],&#x201D; Warfield said.
+
+Will Morris (Will Pullen) turned out to be the man responsible for the attempt on George's life, and there is history between the two, because Will is the son of Patrick Morris, the business partner of George's who took his own life in Season 1 after a deal he made with railroad magnate went bad.
+
+A meeting with Daniel Manning, Secretary of the Treasury during the first two years of Grover Cleveland's presidency is one of the last instinces of Season 4 in which George exhibits normal behavior despite his substance abuse. It's explicitly established during that chat that President Cleveland thinks "monopolies threaten our way of government." George wants to meet with the president, and also Rockefeller, to convince the United States leader that he could gain him political backing in New York for re-election, which George things is iffy for Cleveland. Vieweres can't help but notice similarities with the merger taking place between Paramount and Warner Bros.
+
+&#x201C;About the merger thing, Julian and Sonia have a really fantastic record of being a little clairvoyant in terms of the things that they choose to take on in these seasons, and I think partly that's because there are just so many structural parallels between the era at the end of the 19th century and the era we're living in now in terms of wealth inequality and concentration of monopoly power,&#x201D; Spector said. &#x201C;And what's fascinating is that those structural similarities create really similar consequences, and that's because of the way capitalism works. These are systemic dynamics, and they play out in similar ways, no matter what time you're living in. So yeah, I think either Julian is Nostradamus or maybe there are some structural issues with our political economic system.&#x201D;
+
+George also confronts Rockefeller at the gentleman's club they both frequent for business and social life, displaying increasingly erratic behavior and raised voice, as he communicates to the oil baron his plan to get President Cleveland on their side.
+
+============================================================
+[2] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
 Source: The Hollywood Reporter | Status: expanded | Words: 836
 Published: 2026-11-23T02:50:53+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/delta-one-new-business-class-suite-amenities-seat-food-2026-1236760736
@@ -39,7 +73,7 @@ The new overhaul has launched on transoceanic Delta One routes departing from Lo
 &#x201C;Luxury is about having the experience designed around you &#x2014; today&#x2019;s premium traveler values choice as much as quality,&#x201D; says Kristen Manion Taylor, SVP &#x2013; Brand Experience, in a release. &#x201C;These enhancements offer greater flexibility, ensuring every Delta One customer can enjoy the journey in the way that suits them best.&#x201D;
 
 ============================================================
-[2] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
+[3] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 744
 Published: 2026-11-23T02:43:23+00:00
 URL: https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634
@@ -81,7 +115,7 @@ Rodr&#xED;guez noted that the two countries had largely stuck to familiar market
 "Imagine the global Indian industry working with the Spanish-speaking world," he said. "Because Spain is not just Spain. It's access to the entire Spanish-speaking world &#x2013; over 500 million people. So if you can bring those two cultural superpowers together, imagine the potential."
 
 ============================================================
-[3] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
+[4] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
 Source: ComicBook.com | Status: expanded | Words: 548
 Published: 2026-11-23T02:34:44+00:00
 URL: https://comicbook.com/movies/news/clayface-streaming-release-date-revealed-as-the-30-million-film-passes-the-dcus-biggest-bomb-at-the-box-office
@@ -109,7 +143,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
+[5] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
 Source: Variety | Status: expanded | Words: 444
 Published: 2026-11-23T02:33:16+00:00
 URL: https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624
@@ -131,7 +165,7 @@ Beijing Joy Fun Pictures' domestic body-swap comedy "Mr. & Mrs. Pardon" rounded 
 Mainland China's overall weekend box office reached $16 million, remaining locked in a sluggish late-fall stretch. Year-to-date box office revenue stands at $4.8 billion, trailing the same period in 2025 by 29.9%.
 
 ============================================================
-[5] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
+[6] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
 Source: ComicBook.com | Status: expanded | Words: 729
 Published: 2026-11-23T02:30:00+00:00
 URL: https://comicbook.com/movies/news/a-1-8-billion-action-fantasy-epic-has-sailed-to-streaming-success-and-it-would-be-a-tragedy-not-to-watch-it
@@ -155,7 +189,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
+[7] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
 Source: ComicBook.com | Status: expanded | Words: 580
 Published: 2026-11-23T02:08:07+00:00
 URL: https://comicbook.com/movies/news/is-the-new-doomsday-trailer-coming-monday-mcu-stars-post-makes-it-even-more-likely
@@ -183,7 +217,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
+[8] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
 Source: ComicBook.com | Status: expanded | Words: 1095
 Published: 2026-11-23T02:05:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-heroes-are-having-an-identity-crisis-and-its-about-more-than-secret-identities
@@ -217,7 +251,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
+[9] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
 Source: ComicBook.com | Status: expanded | Words: 1040
 Published: 2026-11-23T02:00:48+00:00
 URL: https://comicbook.com/tv-shows/list/5-invincible-universe-characters-im-still-waiting-to-see-in-the-prime-video-series
@@ -257,7 +291,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
+[10] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
 Source: Variety | Status: expanded | Words: 301
 Published: 2026-11-23T02:00:46+00:00
 URL: https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605
@@ -281,7 +315,7 @@ In a video shared to X , an official at the concert announced that the show woul
 On Tuesday, days before the concert, Toliver announced &#x201C;Nitrous,&#x201D; his sixth album, would be released Dec. 4. The day prior, Toliver received five nominations for the 2027 Grammy Awards, including best new artist, best rap album, best rap performance, best rap song and best melodic rap performance.
 
 ============================================================
-[10] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
+[11] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
 Source: Deadline | Status: expanded | Words: 307
 Published: 2026-11-23T01:53:45+00:00
 URL: https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317
@@ -307,7 +341,7 @@ Despite her resistance to doing the cha-cha on TV, Garten said that generally sh
 The Dancing with the Stars finale will air live coast-to-coast for the first time on Tuesday.
 
 ============================================================
-[11] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
+[12] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
 Source: Variety | Status: expanded | Words: 370
 Published: 2026-11-23T01:32:26+00:00
 URL: https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585
@@ -331,7 +365,7 @@ Prior to Steinfeld's announcement, Elizabeth Olsen's Scarlet Witch was most rece
 &#x201C; Avengers: Doomsday ,&#x201D; which hits theaters on Dec. 18.
 
 ============================================================
-[12] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
+[13] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
 Source: ComicBook.com | Status: expanded | Words: 1222
 Published: 2026-11-23T01:24:06+00:00
 URL: https://comicbook.com/movies/list/6-great-crime-films-to-watch-when-you-eventually-need-a-break-from-gta-vi
@@ -375,7 +409,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Doctor Who's First Major Action Figure Line Was Infamously Bad, But Fans Couldn't Get Enough of It
+[14] Doctor Who's First Major Action Figure Line Was Infamously Bad, But Fans Couldn't Get Enough of It
 Source: ComicBook.com | Status: expanded | Words: 1562
 Published: 2026-11-23T01:23:00+00:00
 URL: https://comicbook.com/collectibles/news/doctor-whos-first-major-action-figure-line-was-infamously-bad-but-fans-couldnt-get-enough-of-it
@@ -413,7 +447,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[14] This Intense 10/10 Stephen King Thriller Has Become a Free Streaming Obsession
+[15] This Intense 10/10 Stephen King Thriller Has Become a Free Streaming Obsession
 Source: ComicBook.com | Status: expanded | Words: 695
 Published: 2026-11-23T01:00:00+00:00
 URL: https://comicbook.com/movies/news/this-intense-10-10-stephen-king-thriller-has-become-a-free-streaming-obsession
@@ -437,7 +471,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Marvel Is Bringing Back One of the X-Men's Most Dangerous Villains to Face Its Most Dysfunctional Team
+[16] Marvel Is Bringing Back One of the X-Men's Most Dangerous Villains to Face Its Most Dysfunctional Team
 Source: ComicBook.com | Status: expanded | Words: 884
 Published: 2026-11-23T00:55:36+00:00
 URL: https://comicbook.com/comics/feature/marvel-is-bringing-back-one-of-the-x-mens-most-dangerous-villains-to-face-its-most-dysfunctional-team
@@ -469,7 +503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] 5 Femme Fatales That Made Superheroes' Lives a Living Hell (Including One of DC's Most Famous Characters)
+[17] 5 Femme Fatales That Made Superheroes' Lives a Living Hell (Including One of DC's Most Famous Characters)
 Source: ComicBook.com | Status: expanded | Words: 1082
 Published: 2026-11-23T00:42:00+00:00
 URL: https://comicbook.com/comics/list/5-femme-fatales-that-made-superheroes-lives-a-living-hell-including-one-of-dcs-most-famous-characters
@@ -509,7 +543,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] The Most Underrated Star Trek: Deep Space Nine Episode Is Also One of Its Best
+[18] The Most Underrated Star Trek: Deep Space Nine Episode Is Also One of Its Best
 Source: ComicBook.com | Status: expanded | Words: 1540
 Published: 2026-11-23T00:26:41+00:00
 URL: https://comicbook.com/tv-shows/feature/the-most-underrated-star-trek-deep-space-nine-episode-is-also-one-of-its-best
@@ -551,7 +585,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Brighter Than The Sun: How Lionsgate Marketing &#038; PR Turned B.O. Around For 'Sunrise On The Reaping'
+[19] Brighter Than The Sun: How Lionsgate Marketing &#038; PR Turned B.O. Around For 'Sunrise On The Reaping'
 Source: Deadline | Status: expanded | Words: 1953
 Published: 2026-11-23T00:24:35+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246
@@ -611,7 +645,7 @@ In the end, Sunrise on the Reaping pulled in 7.1 million admission this weekend 
 You could say that the odds were greatly in the favor of Sunrise of the Reaping 's marketing campaign.
 
 ============================================================
-[19] Dragon Ball Needs to Retcon One of Its Weirdest Android 18 Choices
+[20] Dragon Ball Needs to Retcon One of Its Weirdest Android 18 Choices
 Source: ComicBook.com | Status: expanded | Words: 614
 Published: 2026-11-23T00:18:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-needs-to-retcon-one-of-its-weirdest-android-18-choices
@@ -641,7 +675,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] 5 Forgotten 1990s Cartoons That Every ’80s Kid Saw on Saturday Mornings, But No One Talks About Now
+[21] 5 Forgotten 1990s Cartoons That Every ’80s Kid Saw on Saturday Mornings, But No One Talks About Now
 Source: ComicBook.com | Status: expanded | Words: 1445
 Published: 2026-11-22T23:58:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-forgotten-1990s-cartoons-that-every-80s-kid-saw-on-saturday-mornings-but-no-one-talks-about-now
@@ -681,7 +715,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4
+[22] Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4
 Source: Variety | Status: expanded | Words: 463
 Published: 2026-11-22T23:27:32+00:00
 URL: https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537
@@ -705,7 +739,7 @@ Among the eight holdovers in the top 10, Olivia Rodrigo's "You Seem Pretty Sad f
 Rounding out the top 10 were Morgan Wallen's "I'm the Problem" at No. 3; Noah Kahan's "The Great Divide" and "Stick Season" at Nos. 5 and 7, respectively; Ella Langley's CMA-winning "Dandelion" at No. 6; SZA's "SOS" at No. 8; Olivia Dean's "The Art of Loving" at No. 9; and Lil Baby's "Fresh," dropping eight spots to No. 10 in its second week.
 
 ============================================================
-[22] I’ve Been Worried About 9-1-1’s Buck And Eddie, And The EP Explained Where They Stand After The Latest Midseason Finale
+[23] I’ve Been Worried About 9-1-1’s Buck And Eddie, And The EP Explained Where They Stand After The Latest Midseason Finale
 Source: CinemaBlend | Status: expanded | Words: 389
 Published: 2026-11-22T23:21:00+00:00
 URL: https://www.cinemablend.com/television/ive-worried-911s-buck-eddie-ep-where-stand-after-midseason-10-finale
@@ -725,7 +759,7 @@ Despite the growing tension in the midseason finale, Buck and Eddie had somewhat
 I have been worried about Buck and Eddie’s relationship since the beginning of the season, when it was clear that Buck fostering Theo would bring some problems. And it didn’t get any easier when Eddie became the foster parent. I’m definitely glad that they’ve crossed a barrier, and they both realize how they acted in this situation might not have been the best. However, I am looking forward to seeing what happens now that they have an understanding with each other and Theo.
 
 ============================================================
-[23] This Golden Age Flash First Appearance Could Be Worth $234,000, But There's a Catch
+[24] This Golden Age Flash First Appearance Could Be Worth $234,000, But There's a Catch
 Source: ComicBook.com | Status: expanded | Words: 1501
 Published: 2026-11-22T23:15:00+00:00
 URL: https://comicbook.com/collectibles/news/this-golden-age-flash-first-appearance-could-be-worth-234000-but-theres-a-catch
@@ -757,7 +791,7 @@ Oh there are so many great pieces from Frank Frazetta! I've always loved Death D
 Also the Buck Rodger’s covers he did for Famous Funnies.
 
 ============================================================
-[24] I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced
+[25] I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced
 Source: CinemaBlend | Status: expanded | Words: 341
 Published: 2026-11-22T23:06:00+00:00
 URL: https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced
@@ -775,7 +809,7 @@ The mere thought of getting heat from fans is daunting enough, but receiving hea
 While all this drama was due to a simple misunderstanding, it definitely created quite a mess for the filmmaking team. No lasting damage was seemingly done, though, and I’d say that things have been working out for Farrelly and his collaborators. The movie has been well received and gaining considerable buzz in the lead-up to the Oscars. It even received a stamp of approval from Ryan Gosling . As for Stallone, he admitted he was prepared to be “hypercritical” of the film, but he ended up really enjoying the movie as a whole and lead actor Anthony Ippolito’s portrayal of him.
 
 ============================================================
-[25] 5 Most Powerful One Piece Characters Luffy’s Gear 5 Can’t Defeat
+[26] 5 Most Powerful One Piece Characters Luffy’s Gear 5 Can’t Defeat
 Source: ComicBook.com | Status: expanded | Words: 1175
 Published: 2026-11-22T23:04:00+00:00
 URL: https://comicbook.com/anime/list/5-most-powerful-one-piece-characters-luffys-gear-5-cant-defeat
@@ -815,7 +849,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Mahershala Ali Says Having 2 Oscars "Doesn't Matter" When Getting Cast: "It Doesn't Translate To Anything Real"
+[27] Mahershala Ali Says Having 2 Oscars "Doesn't Matter" When Getting Cast: "It Doesn't Translate To Anything Real"
 Source: Deadline | Status: expanded | Words: 562
 Published: 2026-11-22T23:01:58+00:00
 URL: https://deadline.com/2026/11/mahershala-ali-2-oscars-doesnt-matter-getting-cast-1237231259
@@ -839,7 +873,7 @@ At the same time, Ali doesn't want to be typecast in another "diversity project,
 With Ali earning Oscar buzz for his latest starring role in Bassam Tariq's Y our Mother Your Mother Your Mother , the actor previously won Best Supporting Actor for Moonlight in 2017 and Green Book in 2019.
 
 ============================================================
-[27] Why Did the Hunger Games Cut Major McKenna Grace Scenes? Sunrise on the Reaping Director Addresses the Backlash
+[28] Why Did the Hunger Games Cut Major McKenna Grace Scenes? Sunrise on the Reaping Director Addresses the Backlash
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-22T22:58:40+00:00
 URL: https://comicbook.com/movies/news/why-did-the-hunger-games-cut-major-mckenna-grace-scenes-sunrise-on-the-reaping-director-addresses-the-backlash
@@ -861,7 +895,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon
+[29] Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon
 Source: Variety | Status: expanded | Words: 1138
 Published: 2026-11-22T22:46:48+00:00
 URL: https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499
@@ -907,7 +941,7 @@ Hollywood has also seen the pitfalls of stretching a franchise beyond its source
 &#x201C; The Hunger Games: Sunrise on the Reaping &#x201D; is playing in theaters now.
 
 ============================================================
-[29] Robert Eggers Says He's "Eager" to Take a Break From Horror Genre After 'Werwulf'
+[30] Robert Eggers Says He's "Eager" to Take a Break From Horror Genre After 'Werwulf'
 Source: The Hollywood Reporter | Status: expanded | Words: 488
 Published: 2026-11-22T22:44:25+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762
@@ -935,7 +969,7 @@ While enjoying his "break" from horror, Eggers is next taking on an adaptation o
 He previously shared during a post-screening Q&A at Beyond Fest in September, "I was doing something else. But what happened was, after Werwulf , I was writing another horror movie, and it got so dark again, and I was like, 'I need a break. So, I&#x2019;ll do something about two teenagers killing themselves.'"
 
 ============================================================
-[30] I Never Knew Patrick Stewart Called Up Kyle MacLachlan For Advice Before Joining Star Trek
+[31] I Never Knew Patrick Stewart Called Up Kyle MacLachlan For Advice Before Joining Star Trek
 Source: CinemaBlend | Status: expanded | Words: 206
 Published: 2026-11-22T22:31:13+00:00
 URL: https://www.cinemablend.com/television/patrick-stewart-called-up-kyle-maclachlan-advice-before-joining-star-trek
@@ -951,7 +985,7 @@ Based on those comments, it seemed Patrick Stewart had some concerns about commi
 That tapestry of work will extend to the end of the 2026 movie schedule , as the late Stewart will appear as Professor Charles Xavier in Avengers: Doomsday later this year. Stewart reportedly told co-stars backstage that it would be his final acting performance , marking his retirement. Stewart would refute those claims months later, saying that he considered acting to be something he would do his entire life .
 
 ============================================================
-[31] 5 DC Nations That Even the World's Greatest Heroes Would Think Twice About Challenging
+[32] 5 DC Nations That Even the World's Greatest Heroes Would Think Twice About Challenging
 Source: ComicBook.com | Status: expanded | Words: 997
 Published: 2026-11-22T22:31:00+00:00
 URL: https://comicbook.com/comics/list/5-dc-nations-that-even-the-worlds-greatest-heroes-would-think-twice-about-challenging
@@ -981,7 +1015,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Broadway's 'Two Strangers (Carry A Cake Across New York)' Announces Off Broadway Move
+[33] Broadway's 'Two Strangers (Carry A Cake Across New York)' Announces Off Broadway Move
 Source: Deadline | Status: expanded | Words: 329
 Published: 2026-11-22T22:30:00+00:00
 URL: https://deadline.com/2026/11/two-strangers-carry-a-cake-across-new-york-off-broadway-1237230995
@@ -1007,7 +1041,7 @@ The Off Broadway production of Two Strangers (Carry a Cake Across New York) will
 The musical is produced Off Broadway by Kevin McCollum, Tim Johanson, Glass Half Full Productions, and Jamie Wilson Productions.
 
 ============================================================
-[33] Wondered What's Going On With Disney World's Indiana Jones Ride? We Have Our First Look
+[34] Wondered What's Going On With Disney World's Indiana Jones Ride? We Have Our First Look
 Source: CinemaBlend | Status: expanded | Words: 308
 Published: 2026-11-22T22:16:47+00:00
 URL: https://www.cinemablend.com/theme-parks/new-look-disney-world-indiana-jones-ride-imageneers
@@ -1025,7 +1059,7 @@ I was definitely not thrilled about the Animal Kingdom changes at first, but I t
 When the ride eventually opens sometime next year, guests will embark on an adventure alongside Indy that will take them to a temple that legend says has a water passageway that leads to an underworld protected by a mythic serpent. Imagineers are still keeping much of the actual ride experience under wraps for now. However, with two other cart-style Indiana Jones attractions at other Disney parks and reports that the Dinosaur ride is being rethemed instead of totally demolished, it’s safe to say that this version of Indiana Jones will take guests on a bumpy ride full of twists, turns, snakes (or serpents in this case), and adventure.
 
 ============================================================
-[34] One Hunger Games Book Change Bothered Me Back In The Day, But Now I Understand Why It Was Made
+[35] One Hunger Games Book Change Bothered Me Back In The Day, But Now I Understand Why It Was Made
 Source: CinemaBlend | Status: expanded | Words: 301
 Published: 2026-11-22T22:05:00+00:00
 URL: https://www.cinemablend.com/movies/hunger-games-rewatch-book-change-bothered-me-understand-why
@@ -1043,7 +1077,7 @@ In the movie, Peeta gets injured like in the book, but Katniss nurses him back t
 However, it just dawned on me during my recent rewatch (with my Hulu subscription ) that I haven’t thought about this change to The Hunger Games in a really long time. I guess, ultimately, it didn’t really matter that Peeta only has one leg in the scope of the whole series, and it probably would have caused some extra special effects headaches for the filmmaking team.
 
 ============================================================
-[35] Would Star Wars’ Most Divisive Director Want to Return? Rian Johnson Addresses Future Interest in the Series
+[36] Would Star Wars’ Most Divisive Director Want to Return? Rian Johnson Addresses Future Interest in the Series
 Source: ComicBook.com | Status: expanded | Words: 508
 Published: 2026-11-22T22:01:54+00:00
 URL: https://comicbook.com/movies/news/would-star-wars-most-divisive-director-want-to-return-rian-johnson-addresses-future-interest-in-the-series
@@ -1065,7 +1099,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Mahershala Ali Says "There Are Not Roles for Me" in "Vast Majority of Projects," Despite Winning Two Oscars
+[37] Mahershala Ali Says "There Are Not Roles for Me" in "Vast Majority of Projects," Despite Winning Two Oscars
 Source: The Hollywood Reporter | Status: expanded | Words: 545
 Published: 2026-11-22T21:41:46+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722
@@ -1093,7 +1127,7 @@ Famuyide later asked Ali about the fan notion that Black actors are "validated" 
 "You don&#x2019;t want to find yourself in a situation where, oh, that&#x2019;s &#x2018;the diversity project.&#x2019; You just want to do great material as a Black person. You&#x2019;re not thinking of yourself as this exotic other, per se. You just are living your life," Ali added. "You wake up. You put your pants on like everybody else. You just want to be like, 'Yo, this is my offering. This is my story. This is my work.' Opposed to, 'Man, who are the best Black actors?'"
 
 ============================================================
-[37] A Classic Romance Anime Returns With Special Makeover After 15 Years
+[38] A Classic Romance Anime Returns With Special Makeover After 15 Years
 Source: ComicBook.com | Status: expanded | Words: 682
 Published: 2026-11-22T21:33:00+00:00
 URL: https://comicbook.com/anime/news/a-classic-romance-anime-returns-with-special-makeover-after-15-years
@@ -1121,7 +1155,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] ‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show
+[39] ‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show
 Source: Variety | Status: expanded | Words: 486
 Published: 2026-11-22T21:31:30+00:00
 URL: https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465
@@ -1143,7 +1177,7 @@ Colfer has long been outspoken about the bullying he endured while on the show, 
 Just days after Colfer and Criss&#x2019; performance, news broke that Disney+ and Hulu had greenlit a reboot of Ryan Murphy&#x2019;s musical dramedy series. While Variety reported that original cast member Lea Michele is set to return as Rachel Berry, Colfer has been more ambiguous about his involvement, though he did recently confirm on The Daily Beast&#x2019;s &#x201C;Obsessed: The Podcast&#x201D; that he is having conversations about reprising his role. &#x201C;From what I heard, it sounded very funny, and it sounded like a good idea. So we&#x2019;ll see,&#x201D; he said.
 
 ============================================================
-[39] ‘Cameron Winter’ Shines In Vibrant Indie Weekend, ‘Elsinore’ Opens Strong — Specialty Box Office
+[40] ‘Cameron Winter’ Shines In Vibrant Indie Weekend, ‘Elsinore’ Opens Strong — Specialty Box Office
 Source: Deadline | Status: expanded | Words: 1176
 Published: 2026-11-22T21:30:29+00:00
 URL: https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210
@@ -1191,7 +1225,7 @@ Indian films are out in force. As Ramayana: Rise Of A Legend from Sony Pictures 
 Ramayana hit $28.4 million through Sunday with a weekend gross of just over $2 million at 681 theaters.
 
 ============================================================
-[40] Rachael Leigh Cook Plays Twins In Her New Hallmark Movie. I’m Surprised At What Weirded Her Out
+[41] Rachael Leigh Cook Plays Twins In Her New Hallmark Movie. I’m Surprised At What Weirded Her Out
 Source: CinemaBlend | Status: expanded | Words: 284
 Published: 2026-11-22T21:26:05+00:00
 URL: https://www.cinemablend.com/television/rachael-leigh-cook-reveals-concern-playing-twins-hallmark-double-booked-for-the-holidays
@@ -1209,7 +1243,7 @@ Differentiating between Abigail and Charlie brought up its own set of complicati
 Hallmark movies aren’t known for their confusing nature, so I’m feeling confident about the direction of the film. If anything, it might feel like an immersive experience if viewers can’t tell her characters apart and could allow them to empathize with the men who are falling for Cook's respective characters.
 
 ============================================================
-[41] Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big
+[42] Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big
 Source: Variety | Status: expanded | Words: 899
 Published: 2026-11-22T21:09:57+00:00
 URL: https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462
@@ -1269,7 +1303,7 @@ City of Huelva Honorary Award : Paulina Garc&#xED;a
 Silver Columbus, Best Andalusian Direction : El&#xED;as P&#xE9;rez for &#x201C;Plus Ultra&#x201D;
 
 ============================================================
-[42] Even Bruce Wayne Would Think Twice About Spending $400,000 on This Batman: The Dark Knight Returns Artwork
+[43] Even Bruce Wayne Would Think Twice About Spending $400,000 on This Batman: The Dark Knight Returns Artwork
 Source: ComicBook.com | Status: expanded | Words: 552
 Published: 2026-11-22T21:08:00+00:00
 URL: https://comicbook.com/collectibles/news/even-bruce-wayne-would-think-twice-about-spending-400000-on-this-batman-the-dark-knight-returns-artwork
@@ -1289,7 +1323,7 @@ I won't be alone in saying that The Dark Knight Returns is up there with The Kil
 Which is your favorite ever Batman arc? Let us know in the comments.
 
 ============================================================
-[43] The Hunger Games' Haymitch Actor Had A Hot Take About Sunrise On The Reaping Making Him Say 'Lenore Dove' Over And Over
+[44] The Hunger Games' Haymitch Actor Had A Hot Take About Sunrise On The Reaping Making Him Say 'Lenore Dove' Over And Over
 Source: CinemaBlend | Status: expanded | Words: 244
 Published: 2026-11-22T21:05:49+00:00
 URL: https://www.cinemablend.com/movies/the-hunger-games-haymitch-actor-joseph-zada-hot-take-about-sunrise-on-the-reaping-repeating-lenore-dove
@@ -1305,7 +1339,7 @@ While Zada explained, Whitney Peak, who plays Lenore Dove, first chose to stay o
 Nothing was as enjoyable as watching her and Peak attempt to explain the name to him. Peak suggested it was like saying the name ‘Mary-Anne’ and that Lenore Dove had an invisible hyphen. Fans will also appreciate her giving Lucy Gray a shout-out. However, the actor shared that part of the problem had to do with the accent. He has previously discussed working to nail the dialect , so, understandably, it would trip him up.
 
 ============================================================
-[44] The Godzilla Minus Zero Alternate Version Fans Wanted from the Start Getting Theatrical Release
+[45] The Godzilla Minus Zero Alternate Version Fans Wanted from the Start Getting Theatrical Release
 Source: ComicBook.com | Status: expanded | Words: 573
 Published: 2026-11-22T20:41:27+00:00
 URL: https://comicbook.com/movies/news/the-godzilla-minus-zero-alternate-version-fans-wanted-from-the-start-getting-theatrical-release
@@ -1329,7 +1363,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] SHEGLAM Opens the Wizards’ Vault With Its Third Harry Potter Makeup Collection
+[46] SHEGLAM Opens the Wizards’ Vault With Its Third Harry Potter Makeup Collection
 Source: The Hollywood Reporter | Status: expanded | Words: 307
 Published: 2026-11-22T20:40:18+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/sheglam-harry-potter-makeup-collection-2026-products-review-1236759625
@@ -1351,7 +1385,7 @@ To finish, the Butter Cheers Dual Phase Setting Mist ($9.69) locks everything in
 From the first sweep of shadow to the final spritz, every piece brings a bit of wizarding wonder to everyday glam. Shop the Harry Potter | SHEGLAM Wizards&#x2019; Vault collection now at SHEGLAM , and use our promo code HPWV10 for an exclusive 10% off orders over $15 through Nov. 29 (PST).
 
 ============================================================
-[46] John Turturro Says 'I Still Consider Myself a Beginner' as He Gets Marrakech Film Festival Tribute Award: 'Every Job Is Like a First Love'
+[47] John Turturro Says 'I Still Consider Myself a Beginner' as He Gets Marrakech Film Festival Tribute Award: 'Every Job Is Like a First Love'
 Source: Variety | Status: expanded | Words: 554
 Published: 2026-11-22T20:39:11+00:00
 URL: https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255
@@ -1379,7 +1413,7 @@ Turturro's Marrakech Tribute Award follows that of Jeff Goldblum, who received t
 Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[47] 'Hunger Games' Lead Joseph Zada on Filming His Breakout Movie Role and 'Sunrise on the Reaping's' Intense Stunts: 'I Look Like a F—ing Action Star!'
+[48] 'Hunger Games' Lead Joseph Zada on Filming His Breakout Movie Role and 'Sunrise on the Reaping's' Intense Stunts: 'I Look Like a F—ing Action Star!'
 Source: Variety | Status: expanded | Words: 1454
 Published: 2026-11-22T20:30:00+00:00
 URL: https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627
@@ -1435,7 +1469,7 @@ Not many people can understand what it's like starring in an immensely popular b
 &#x201C;I&#x2019;m excited to see what Walker&#x2019;s done with the new season,&#x201D; Zada says about his Hollywood compatriot. &#x201C;He&#x2019;s a fantastic young actor, and I&#x2019;m happy that we&#x2019;re grouped together.&#x201D;
 
 ============================================================
-[48] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
+[49] Sheila Mangubat, '90 Day Fiancé: Before the 90 Days' Star, Dies at 35
 Source: The Hollywood Reporter | Status: expanded | Words: 300
 Published: 2026-11-22T20:28:29+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/sheila-mangubat-dead-90-day-fiance-before-the-90-days-1236760704
@@ -1457,7 +1491,7 @@ Mangubat and Dangerfield's relationship was documented on Before the 90 Days sea
 Mangubat is survived by her son, Jhonreil, from a previous relationship.
 
 ============================================================
-[49] The X-Men Became Marvel Legends by Borrowing a Winning Formula From DC, Just Not the One You Think
+[50] The X-Men Became Marvel Legends by Borrowing a Winning Formula From DC, Just Not the One You Think
 Source: ComicBook.com | Status: expanded | Words: 1213
 Published: 2026-11-22T20:26:00+00:00
 URL: https://comicbook.com/comics/feature/the-x-men-became-marvel-legends-by-borrowing-a-winning-formula-from-dc-just-not-the-one-you-think
@@ -1493,26 +1527,4 @@ Do you think that X-Men are Marvel's Legion of Superheroes? Do you think they co
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Noah Schnapp Reveals Image From His 'Sunrise on the Reaping' Audition For Haymitch: "They Picked Right"
-Source: Deadline | Status: expanded | Words: 263
-Published: 2026-11-22T20:24:35+00:00
-URL: https://deadline.com/2026/11/noah-schnapp-sunrise-on-the-reaping-audition-haymitch-1237231225
-------------------------------------------------------------
-SUMMARY:
-After surviving the Upside Down, Noah Schnapp apparently volunteered as tribute for the latest Hunger Games film. Marking the opening weekend of The Hunger Games: Sunrise on the Reaping, the Stranger Things alum revealed that he auditioned to play Haymitch with a selfie in a blonde wig, admitting that Joseph Zada was the right choice. […]
-
-CONTENT / EXTRACTED DETAILS:
-After surviving the Upside Down, Noah Schnapp apparently volunteered as tribute for the latest Hunger Games film.
-
-Marking the opening weekend of The Hunger Games : Sunrise on the Reaping , the Stranger Things alum revealed that he auditioned to play Haymitch with a selfie in a blonde wig, admitting that Joseph Zada was the right choice.
-
-"POV: my audition for Haymitch," wrote Schnapp on his Instagram Story with some laughing emojis. "@josephzada think they picked right for this one."
-
-Now playing in theaters, the Hunger Games prequel from director Francis Lawrence and writers Billy Ray and Michael Lesslie is based on Suzanne Collins' 2025 novel Sunrise on the Reaping , set during Haymitch's game in the Second Quarter Quell. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Starring Zada as Haymitch, Sunrise on the Reaping is set 24 years before 2012's The Hunger Games , in which Woody Harrelson originated the role. It follows 2023's The Hunger Games: The Ballad of Songbirds & Snakes in continuity, set 40 years later. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-The movie also stars Elle Fanning, McKenna Grace, Ben Wang, Jesse Plemons, Glenn Close, Billy Porter, Maya Hawke, Kieran Culkin, Kelvin Harrison Jr., Lili Taylor and Ralph Fiennes.
 
