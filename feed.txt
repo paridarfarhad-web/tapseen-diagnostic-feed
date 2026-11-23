@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T13:01:23.195Z
+Last Updated: 2026-11-23T13:05:21.479Z
 Website: https://tapseen.com
 
 ============================================================
-[1] International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart
+[1] Rotterdam Hires Pepijn Kuyper As Managing Director
+Source: Deadline | Status: expanded | Words: 361
+Published: 2026-11-23T13:04:05+00:00
+URL: https://deadline.com/2026/11/pepijn-kuyper-rotterdam-managing-director-1237231512
+------------------------------------------------------------
+SUMMARY:
+The Rotterdam Film Festival (IFFR) has hired Pepijn Kuyper as its new Managing Director. Kuyper succeeds Clare Stewart, who stepped down in September. Kuyper will join IFFR in mid-January 2027 and work alongside Stewart during a handover period through to the conclusion of the 2027 edition of the festival, which runs from 28 January to […]
+
+CONTENT / EXTRACTED DETAILS:
+The Rotterdam Film Festival ( IFFR ) has hired Pepijn Kuyper as its new Managing Director.
+
+Kuyper succeeds Clare Stewart, who stepped down in September.
+
+Kuyper will join IFFR in mid-January 2027 and work alongside Stewart during a handover period through to the conclusion of the 2027 edition of the festival, which runs from 28 January to 7 February.
+
+Kuyper is currently Managing Director of Amerpodia, which operates three cultural institutions in Amsterdam: Rode Hoed, Felix Meritis and De Nieuwe Liefde. He also previously served as Business Director at the Netherlands Film Festival, and before that as Managing Director of LUX in Nijmegen and LantarenVenster in Rotterdam. At LantarenVenster, a longstanding IFFR venue, he helped establish year-round collaborations with the festival. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Rotterdam Unveils First Titles Locked To World Premiere At 2027 Edition News Cate Blanchett's Displacement Film Fund To Support Short Films By Mo Amer, Annemarie Jacir, Rithy Panh, Akuol de Mabior & Bao Nguyen
+
+In a statement, IFFR Festival Director Vanja Kaludjercic said Kuyper has a &#x201C;strong understanding of cultural institutions and an ability to bring people and partners together.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+&#x201C;I&#x2019;ve particularly appreciated his clear judgment and the openness and enthusiasm he brings to our conversations about the festival&#x2019;s future,&#x201D; Kaludjercic added. &#x201C;I&#x2019;m looking forward to working alongside him and the team, building on what we have developed together and continuing to create opportunities for filmmakers and audiences.&#x201D;
+
+Kuyper added: &#x201C;I am very much looking forward to working with Vanja and the team to build on the achievements of this internationally leading festival, firmly rooted in Rotterdam and closely connected to the film sector. With my entrepreneurial spirit, I want to help secure a strong future for IFFR in which its artistic ambitions can flourish.&#x201D;
+
+============================================================
+[2] International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart
 Source: The Hollywood Reporter | Status: expanded | Words: 513
 Published: 2026-11-23T13:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/iffr-pepijn-kuyper-managing-director-succeeds-clare-stewart-1236761038
@@ -29,7 +53,7 @@ And Kuyper himself shared: &#x201C;As a Rotterdammer, I have followed IFFR from 
 He added: "IFFR provides a platform for innovative, independent cinema and challenges filmmakers and audiences to look at the world with an open mind. That artistic independence and the opportunity to encounter new perspectives are more essential than ever.
 
 ============================================================
-[2] Geico Hopes Two-Minute Animated Holiday Special Can Vie With 'Rudolph' or 'Frosty'
+[3] Geico Hopes Two-Minute Animated Holiday Special Can Vie With 'Rudolph' or 'Frosty'
 Source: Variety | Status: expanded | Words: 1385
 Published: 2026-11-23T13:00:00+00:00
 URL: https://variety.com/2026/tv/news/geico-two-minute-animated-holiday-special-macys-parade-1236955547
@@ -75,7 +99,7 @@ Indeed, Geico shot additional footage that might allow for new editions of the s
 Does Geico have the makings of &#x201C;A Charlie Brown Christmas&#x201D; on its hands? &#x201C;That&#x2019;s the dream,&#x201D; says Orpello.
 
 ============================================================
-[3] CAA Signs 'Sister Wives' and 'The Intimacy Coordinator' Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)
+[4] CAA Signs 'Sister Wives' and 'The Intimacy Coordinator' Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 317
 Published: 2026-11-23T12:27:01+00:00
 URL: https://variety.com/2026/film/global/caa-signs-louisa-connolly-burnham-sister-wives-1236955764
@@ -95,7 +119,7 @@ A feature adaptation of "Sister Wives" is now in development with American Zoetr
 Connolly-Burnham founded the independent production company Thimble Films in 2019. She continues to be represented in the U.K. by Eleanor Johnson at Chalcot Square. Her team at CAA includes Connie Yan, Paige Holtzman, Erica Drache, Hannah Kaiser and Wilhelmina Ross.
 
 ============================================================
-[4] Avengers: Doomsday Should Set Up This X-Men Character to Lead Into the 2028 Reboot
+[5] Avengers: Doomsday Should Set Up This X-Men Character to Lead Into the 2028 Reboot
 Source: ComicBook.com | Status: expanded | Words: 845
 Published: 2026-11-23T12:05:00+00:00
 URL: https://comicbook.com/movies/feature/avengers-doomsday-should-set-up-this-x-men-character-to-lead-into-the-2028-reboot
@@ -125,7 +149,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Controversial "Netflix Tax" Could Raise Extra $2.1B For BBC By 2032, Research Finds
+[6] Controversial "Netflix Tax" Could Raise Extra $2.1B For BBC By 2032, Research Finds
 Source: Deadline | Status: expanded | Words: 582
 Published: 2026-11-23T11:46:46+00:00
 URL: https://deadline.com/2026/11/bbc-licence-fee-netflix-tax-raise-extra-by-2032-1237231477
@@ -153,7 +177,7 @@ The BBC is now eagerly awaiting the government's White Paper on the future fundi
 The BBC is currently going through a painful savings period as it seeks to save an additional &#xA3;500M and lay off 2,000 staff. News about the next phase of savings is set to emerge from early next year.
 
 ============================================================
-[6] Tyson Fury Reveals Schizophrenia Diagnosis In Netflix Doc
+[7] Tyson Fury Reveals Schizophrenia Diagnosis In Netflix Doc
 Source: Deadline | Status: expanded | Words: 589
 Published: 2026-11-23T11:44:20+00:00
 URL: https://deadline.com/2026/11/tyson-fury-reveals-schizophrenia-diagnosis-netflix-doc-1237231479
@@ -185,7 +209,7 @@ The 90-minute doc, from Banijay's Optomen, will explore the life of Fury, who is
 The doc is launching two weeks before Netflix live-streams Fury's fight with fellow British heavyweight legend, Anthony Joshua.
 
 ============================================================
-[7] Billy Porter, Hannah John-Kamen Board 'The Colour of My Skin,' From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)
+[8] Billy Porter, Hannah John-Kamen Board 'The Colour of My Skin,' From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 530
 Published: 2026-11-23T11:34:11+00:00
 URL: https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750
@@ -221,7 +245,7 @@ Sunil Borkar shot the film, and Maximillian Raynor designed the costumes.
 "The Colour of My Skin" is now heading into post-production. The news was unveiled on the sidelines of the WAVES Film Bazaar , the market arm of the International Film Festival of India in Goa.
 
 ============================================================
-[8] 3 Cult Classic ’80s Movies You Couldn’t Make in 2026 (But Pop Culture Needed Them)
+[9] 3 Cult Classic ’80s Movies You Couldn’t Make in 2026 (But Pop Culture Needed Them)
 Source: ComicBook.com | Status: expanded | Words: 1059
 Published: 2026-11-23T11:23:00+00:00
 URL: https://comicbook.com/movies/list/3-cult-classic-80s-movies-you-couldnt-make-in-2026-but-pop-culture-needed-them
@@ -255,7 +279,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Ex-CAA Agent Svenja Liebrecht Joins 'The Swarm' Producer NDF
+[10] Ex-CAA Agent Svenja Liebrecht Joins 'The Swarm' Producer NDF
 Source: Deadline | Status: expanded | Words: 662
 Published: 2026-11-23T11:20:02+00:00
 URL: https://deadline.com/2026/11/ex-caa-agent-svenja-liebrecht-joins-ndf-1237231474
@@ -289,7 +313,7 @@ Rosen, who has worked with Liebrecht in the past, joined NDF at the start of the
 NDF's German series include long-running series Mountain Medic and true-crime format Crime Watch XY . In the U.S., the company is known for European eco-thriller series The Swarm , which had Game of Thrones producer Frank Doelger attached and sold to The CW .
 
 ============================================================
-[10] Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar
+[11] Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 347
 Published: 2026-11-23T11:19:23+00:00
 URL: https://variety.com/2026/film/markets-festivals/sony-nfdc-five-language-creator-pitch-waves-film-bazaar-1236955743
@@ -313,7 +337,7 @@ NFDC chair G. Krishnakumar said the initiative reflected the spirit of IFFI's th
 SPNI managing director and CEO Gaurav Banerjee said the partnership would help bring forward talent that might otherwise remain outside established platforms. "We look forward to discovering fresh perspectives and compelling ideas for audiences," he added.
 
 ============================================================
-[11] Noa Kirel, Agustín Bernasconi Release 'Mírame Así, El Camino de Noa' Album (EXCLUSIVE)
+[12] Noa Kirel, Agustín Bernasconi Release 'Mírame Así, El Camino de Noa' Album (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 310
 Published: 2026-11-23T11:05:25+00:00
 URL: https://variety.com/2026/music/global/noa-kirel-agustin-bernasconi-mirame-asi-el-camino-album-1236955731
@@ -337,7 +361,7 @@ Tracks include &#x201C;So&#xF1;ar Despiertos,&#x201D; &#x201C;Bye Bye Love&#x201
 It is produced by Shari Redstone&#x2019;s Sipur Studios alongside Yair Dori, Fam Contenidos and Swap. Sipur is repping global sales. The series will launch in Israel on Nov. 29 on Channel 16.
 
 ============================================================
-[12] 'Sex Noises' Disrupt Live Broadcast of 'Strictly Come Dancing,' Prompting BBC Apology
+[13] 'Sex Noises' Disrupt Live Broadcast of 'Strictly Come Dancing,' Prompting BBC Apology
 Source: Variety | Status: expanded | Words: 394
 Published: 2026-11-23T11:03:47+00:00
 URL: https://variety.com/2026/tv/global/sex-noises-strictly-come-dancing-bbc-1236955730
@@ -371,7 +395,7 @@ He streamed the moment on social media and appeared to make a phone call before 
 Jarvis previously claimed he was responsible for sex noises played during BBC soccer show &#x201C;Match of the Day&#x201D; in 2023. When it was investigated, the noises were found to come from a cell phone taped to the back of the set.
 
 ============================================================
-[13] Did Anyone Have a Better 2012 Than Chris Hemsworth? After 14 Years, the Answer May Be No
+[14] Did Anyone Have a Better 2012 Than Chris Hemsworth? After 14 Years, the Answer May Be No
 Source: ComicBook.com | Status: expanded | Words: 631
 Published: 2026-11-23T10:40:00+00:00
 URL: https://comicbook.com/movies/feature/did-anyone-have-a-better-2012-than-chris-hemsworth-after-14-years-the-answer-may-be-no
@@ -397,7 +421,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Passion CEO Nick Southgate Steps Aside for David Moulton, Moves to Exec Co-Chair Role (EXCLUSIVE)
+[15] Passion CEO Nick Southgate Steps Aside for David Moulton, Moves to Exec Co-Chair Role (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 474
 Published: 2026-11-23T10:23:24+00:00
 URL: https://variety.com/2026/film/global/passion-ceo-nick-southgate-david-moulton-1236955721
@@ -425,7 +449,7 @@ Fergusson has spent three years as Passion&#x2019;s creative director, leading t
 Passion is known for projects such as &#x201C;McCartney: The Hunt for the Lost Bass&#x201D; and last week announced a new landmark Bruce Springstee doc, &#x201C;When The Walls Came Down&#x201D; in partnership with Legendary Entertainment and Sony Music. Other recently-unveiled projects include &#x201C;Hantavirus: The Inside Story&#x201D; for NatGeo alongside Muck Media.
 
 ============================================================
-[15] Ties That Bind Program Returns To Busan Through Partnerships With ACFM, KOFIC &#038; Japan’s VIPO
+[16] Ties That Bind Program Returns To Busan Through Partnerships With ACFM, KOFIC &#038; Japan’s VIPO
 Source: Deadline | Status: expanded | Words: 773
 Published: 2026-11-23T10:02:56+00:00
 URL: https://deadline.com/2026/11/ties-that-bind-busan-acfm-kofic-vipo-producer-program-1237231392
@@ -467,7 +491,7 @@ Ties That Bind programs also include an Asian Upskilling Lab, a dedicated progra
 Through the partnership with KOFIC and VIPO, Ties That Bind will also launch two exclusive on-demand programs in Busan &#x2013; K-Lab and JP-LAB &#x2013; which will provide specialized training for five South Korean and five Japanese producers.
 
 ============================================================
-[16] Russell Brand's Wife Vows to "Honor" Prison Rules After Relaying Message From Rapist Through YouTube
+[17] Russell Brand's Wife Vows to "Honor" Prison Rules After Relaying Message From Rapist Through YouTube
 Source: The Hollywood Reporter | Status: expanded | Words: 753
 Published: 2026-11-23T10:02:06+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/russell-brand-wife-prison-message-youtube-video-rules-rape-1236760952
@@ -501,7 +525,7 @@ Since the allegations first came to light three years ago, the former comedian a
 More than 400 U.K. entertainment industry professionals have signed an open letter calling on leaders at studios, broadcasters and unions to end the culture of silence and secrecy that the signatories say allowed Brand&#x2019;s abuse to go unchecked.
 
 ============================================================
-[17] ‘The Uprising’ VFX Company Outpost Hires Andy McNamara As Director of Creative Innovation
+[18] ‘The Uprising’ VFX Company Outpost Hires Andy McNamara As Director of Creative Innovation
 Source: Deadline | Status: expanded | Words: 346
 Published: 2026-11-23T09:59:18+00:00
 URL: https://deadline.com/2026/11/outpost-vfx-andy-mcnamara-director-of-creative-innovation-1237231456
@@ -523,7 +547,7 @@ Duncan McWilliam, Founder and CEO at Outpost VFX, added: &#x201C;Andy&#x2019;s a
 Outpost VFX is headquartered in the UK, with studios in Stuttgart, Montreal, and Mumbai.
 
 ============================================================
-[18] Russell Brand’s Wife Says She Will No Longer Pass on Prison Messages From Him ‘Now That I Understand the Parameters’
+[19] Russell Brand’s Wife Says She Will No Longer Pass on Prison Messages From Him ‘Now That I Understand the Parameters’
 Source: Variety | Status: expanded | Words: 327
 Published: 2026-11-23T09:59:04+00:00
 URL: https://variety.com/2026/digital/global/russell-brand-wife-prison-rules-1236955715
@@ -543,7 +567,7 @@ On Sunday, during this week's episode of "Sunday Service," Laura Brand said, "La
 She added, however, that she would continue to use "Sunday Service" to show that she was "proud to be a wife, a mother and a woman defending her family at a time when the media's image of what kind of a woman I am is under so much scrutiny."
 
 ============================================================
-[19] Dogwoof Moves Into Microdrama Game With Tattle TV Deal
+[20] Dogwoof Moves Into Microdrama Game With Tattle TV Deal
 Source: Deadline | Status: expanded | Words: 444
 Published: 2026-11-23T09:58:31+00:00
 URL: https://deadline.com/2026/11/dogwoof-tattle-tv-microdrama-family-i-had-fear-of-13-1237231454
@@ -569,7 +593,7 @@ Tattle co-founder Marina Elderton added: Partnering with Dogwoof is an exciting 
 Last week, we told you that vertical video streamer Epis was readying what it said was the first two microdrama true crime originals.
 
 ============================================================
-[20] 'You Can See Everything' Has Biggest Opening Weekend for Doc in U.K. Box Office History
+[21] 'You Can See Everything' Has Biggest Opening Weekend for Doc in U.K. Box Office History
 Source: Variety | Status: expanded | Words: 458
 Published: 2026-11-23T09:09:00+00:00
 URL: https://variety.com/2026/film/global/you-can-see-everything-biggest-opening-weekend-for-doc-uk-1236955490
@@ -595,7 +619,7 @@ With many cinemas still sold out (A24 reports that the current sellout count sta
 U.K. audiences may have voiced their annoyance at having to wait more than a month to join the debate it felt like everyone else was taking part in. Whether intentional or not, the tactic&#xA0;has clearly worked wonders.
 
 ============================================================
-[21] King Charles III &#038; Idris Elba Join Forces For Netflix Documentary About The King's Trust
+[22] King Charles III &#038; Idris Elba Join Forces For Netflix Documentary About The King's Trust
 Source: Deadline | Status: expanded | Words: 366
 Published: 2026-11-23T09:06:43+00:00
 URL: https://deadline.com/2026/11/king-charles-idris-elba-netflix-documentary-the-kings-trust-1237231445
@@ -621,7 +645,7 @@ Elba said: "Around the world, millions are still waiting for that one door to op
 The movie is produced by Elba's indie 22 Summers , which he runs with Diene Petterle and Gina Carter. Clare Bradbury is showrunning while Petterle, Eva Omaghomi & Jonathan Smith are EPing. Ashley Francis-Roy is director.
 
 ============================================================
-[22] Russell Brand's Wife Promises Not To Pass On Further Prison Messages
+[23] Russell Brand's Wife Promises Not To Pass On Further Prison Messages
 Source: Deadline | Status: expanded | Words: 405
 Published: 2026-11-23T08:53:11+00:00
 URL: https://deadline.com/2026/11/russell-brand-wife-no-more-prison-messages-1237231440
@@ -643,7 +667,7 @@ The UK&#x2019;s Ministry of Justice (MoJ) called on YouTube to remove the video,
 A Google spokesperson said: &#x201C;We&#x2019;re aware of the new content and our teams are investigating. We suspended Russell Brand&#x2019;s channel from the YouTube Partner Program in September 2023. The channel has not been able to monetize on YouTube since then.&#x201D;
 
 ============================================================
-[23] Star Wars Finally Answered Empire Strikes Back's Weirdest Scene Six Years Ago, And It's Canon
+[24] Star Wars Finally Answered Empire Strikes Back's Weirdest Scene Six Years Ago, And It's Canon
 Source: ComicBook.com | Status: expanded | Words: 779
 Published: 2026-11-23T08:34:00+00:00
 URL: https://comicbook.com/movies/feature/star-wars-finally-answered-empire-strikes-backs-weirdest-scene-six-years-ago-and-its-canon
@@ -671,7 +695,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)
+[25] AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 665
 Published: 2026-11-23T08:14:12+00:00
 URL: https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693
@@ -705,7 +729,7 @@ The Entertainment Society of Goa and the Government of Goa are backing the IFFI 
 WIF India has positioned the results as part of a larger goal: making sure women help decide what cinema looks like as new technology changes how films get made.
 
 ============================================================
-[25] ‘We Are Born Good’ Wins Best Film &#038; Original Screenplay At Taiwan's Golden Horse Awards
+[26] ‘We Are Born Good’ Wins Best Film &#038; Original Screenplay At Taiwan's Golden Horse Awards
 Source: Deadline | Status: expanded | Words: 768
 Published: 2026-11-23T07:02:10+00:00
 URL: https://deadline.com/2026/11/golden-horse-awards-we-are-born-good-anson-kong-taiwan-1237231390
@@ -787,7 +811,7 @@ FIPRESCI Prize: Girl , MandarinVision, J.Q. Pictures, Ocean Plus Co, CMC Enterta
 Audience Choice Award: Double Happiness , Track Eight Pictures, Yonder Pictures, Dawning Jade Entertainment Co, Splash Pictures
 
 ============================================================
-[26] Trump Headed To L.A. For Reagan Library Speech
+[27] Trump Headed To L.A. For Reagan Library Speech
 Source: Deadline | Status: expanded | Words: 325
 Published: 2026-11-23T05:29:13+00:00
 URL: https://deadline.com/2026/11/trump-l-a-reagan-library-speech-1237231401
@@ -811,7 +835,7 @@ The moderators are Fox News' Brett Baier, Politico's Jonathan Martin, CNBC's Mor
 You can find the full schedule here .
 
 ============================================================
-[27] An Unannounced Avenger Just Got Their Doomsday Chair Ahead of New Trailer Release
+[28] An Unannounced Avenger Just Got Their Doomsday Chair Ahead of New Trailer Release
 Source: ComicBook.com | Status: expanded | Words: 742
 Published: 2026-11-23T05:18:07+00:00
 URL: https://comicbook.com/movies/news/an-unannounced-avenger-just-got-their-doomsday-chair-ahead-of-new-trailer-release
@@ -841,7 +865,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Korea Box Office: Mystery Thriller 'White Blast' Opens at No. 1, Ending Five-Week 'Chiikawa' Reign
+[29] Korea Box Office: Mystery Thriller 'White Blast' Opens at No. 1, Ending Five-Week 'Chiikawa' Reign
 Source: Variety | Status: expanded | Words: 697
 Published: 2026-11-23T04:49:39+00:00
 URL: https://variety.com/2026/film/box-office/korea-box-office-mystery-thriller-white-blast-1236955658
@@ -877,7 +901,7 @@ Rounding out the top 10, Warner Bros. Pictures Animation's family comedy "The Ca
 The overall market collective gross for the weekend was $6 million, up from last week's $4.8 million.
 
 ============================================================
-[29] 4 '90s Classics That Need a Legacy Sequel After Home Alone, And One Also Stars Macaulay Culkin
+[30] 4 '90s Classics That Need a Legacy Sequel After Home Alone, And One Also Stars Macaulay Culkin
 Source: ComicBook.com | Status: expanded | Words: 896
 Published: 2026-11-23T03:55:25+00:00
 URL: https://comicbook.com/movies/list/4-90s-classics-that-need-a-legacy-sequel-after-home-alone-and-one-also-stars-macaulay-culkin
@@ -913,7 +937,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] 40 Years Ago, a Cult Director Made One of the Best Lovecraftian Horror Movies of All Time
+[31] 40 Years Ago, a Cult Director Made One of the Best Lovecraftian Horror Movies of All Time
 Source: ComicBook.com | Status: expanded | Words: 853
 Published: 2026-11-23T03:40:36+00:00
 URL: https://comicbook.com/movies/feature/40-years-ago-a-cult-director-made-one-of-the-best-lovecraftian-horror-movies-of-all-time
@@ -945,7 +969,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return
+[32] ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-23T03:36:40+00:00
 URL: https://theplaylist.net/avengers-doomsday-hailee-steinfeld-kate-bishop-return-20261122
@@ -957,7 +981,7 @@ CONTENT / EXTRACTED DETAILS:
 Marvel Studios has quietly confirmed another familiar face for “ Avengers: Doomsday ,” with Hailee Steinfeld set to reprise her role as Kate Bishop. Curiously, the announcement didn’t arrive through a major Marvel presentation or a dedicated casting reveal, but through an Instagram post promoting an entirely different Disney movie. In a joint Instagram post, Marvel Studios and Disney Animation promoted Steinfeld’s upcoming animated feature “ Hexed ” while casually revealing her involvement in the next Avengers film. Continue reading ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return at The Playlist.
 
 ============================================================
-[32] 'You Can See Everything' Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches
+[33] 'You Can See Everything' Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches
 Source: The Hollywood Reporter | Status: expanded | Words: 503
 Published: 2026-11-23T03:29:15+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421
@@ -981,7 +1005,7 @@ You Can See Everything stands as a major Oscar contender as awards season heats 
 "It was sometimes a tense environment," cinematographer David Bolen recalled about the shoot during a recent screening at Camerimage. Bolen noted that he would exchange pleasantries with Holmes and partner Billy Evans , but that was generally the extent of their conversations: "I really tried to stay out of the situation as much as possible. Sometimes it would get tense, and you see in the office scene, it gets a little bit tense, and [I would] just try to be quiet and polite and get the cameras out."
 
 ============================================================
-[33] I Love Star Trek: The Next Generation but Deep Space Nine Blew It Out of the Water
+[34] I Love Star Trek: The Next Generation but Deep Space Nine Blew It Out of the Water
 Source: ComicBook.com | Status: expanded | Words: 1322
 Published: 2026-11-23T03:28:20+00:00
 URL: https://comicbook.com/startrek/feature/i-love-star-trek-the-next-generation-but-deep-space-nine-blew-it-out-of-the-water
@@ -1019,7 +1043,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Hailee Steinfeld Confirms She's In 'Avengers: Doomsday'
+[35] Hailee Steinfeld Confirms She's In 'Avengers: Doomsday'
 Source: Deadline | Status: expanded | Words: 286
 Published: 2026-11-23T03:27:25+00:00
 URL: https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382
@@ -1045,7 +1069,7 @@ Now, it seems, she is a part of the Doomsday ensemble.
 Disney and Marvel are releasing Avengers: Doomsday on December 18.
 
 ============================================================
-[35] ‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” &#038; “Ambitious Tension” In Her Marriage To Dr. Kirkland
+[36] ‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” &#038; “Ambitious Tension” In Her Marriage To Dr. Kirkland
 Source: Deadline | Status: expanded | Words: 1125
 Published: 2026-11-23T03:10:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-denee-benton-peggy-ambition-dr-kirkland-job-1237230732
@@ -1083,7 +1107,7 @@ Warfield agreed with Benton&#x2019;s assessment of the character.
 &#x201C;I think Peggy's character does surprise us, as Denee said in her reaction to things. I think people think will think a lot of things,&#x201D; the co-showrunner said. &#x201C;People might get a little bit upset because Dr. Kirkland is a catch, and I'm sure there are going to be women out there who are saying, 'Girl, if you don't want him, then&#x2026; [I'll take him!]'&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
 
 ============================================================
-[36] 90 Day Fiancé’s Armando Rubio Posts Update On His Daughter Hannah After Health Scare
+[37] 90 Day Fiancé’s Armando Rubio Posts Update On His Daughter Hannah After Health Scare
 Source: CinemaBlend | Status: expanded | Words: 225
 Published: 2026-11-23T03:01:00+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-armando-rubio-posts-update-daughter-hannah-after-health-scare
@@ -1101,7 +1125,7 @@ If you're someone who follows Kenny or Armando on social media, so much of this 
 As for Armando, he was able to obtain an emergency visa to get to the United States to be with Hannah, thanks to some work by Congresswoman Adelita Grijalva. So, for anyone watching the latest episode and holding their breath waiting for some bad news, you can breathe easy now.
 
 ============================================================
-[37] ‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] &#038; “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4
+[38] ‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] &#038; “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4
 Source: Deadline | Status: expanded | Words: 938
 Published: 2026-11-23T03:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274
@@ -1135,7 +1159,7 @@ A meeting with Daniel Manning, Secretary of the Treasury during the first two ye
 George also confronts Rockefeller at the gentleman's club they both frequent for business and social life, displaying increasingly erratic behavior and raised voice, as he communicates to the oil baron his plan to get President Cleveland on their side.
 
 ============================================================
-[38] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
+[39] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
 Source: The Hollywood Reporter | Status: expanded | Words: 836
 Published: 2026-11-23T02:50:53+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/delta-one-new-business-class-suite-amenities-seat-food-2026-1236760736
@@ -1171,7 +1195,7 @@ The new overhaul has launched on transoceanic Delta One routes departing from Lo
 &#x201C;Luxury is about having the experience designed around you &#x2014; today&#x2019;s premium traveler values choice as much as quality,&#x201D; says Kristen Manion Taylor, SVP &#x2013; Brand Experience, in a release. &#x201C;These enhancements offer greater flexibility, ensuring every Delta One customer can enjoy the journey in the way that suits them best.&#x201D;
 
 ============================================================
-[39] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
+[40] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 744
 Published: 2026-11-23T02:43:23+00:00
 URL: https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634
@@ -1213,7 +1237,7 @@ Rodr&#xED;guez noted that the two countries had largely stuck to familiar market
 "Imagine the global Indian industry working with the Spanish-speaking world," he said. "Because Spain is not just Spain. It's access to the entire Spanish-speaking world &#x2013; over 500 million people. So if you can bring those two cultural superpowers together, imagine the potential."
 
 ============================================================
-[40] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
+[41] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
 Source: ComicBook.com | Status: expanded | Words: 548
 Published: 2026-11-23T02:34:44+00:00
 URL: https://comicbook.com/movies/news/clayface-streaming-release-date-revealed-as-the-30-million-film-passes-the-dcus-biggest-bomb-at-the-box-office
@@ -1241,7 +1265,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
+[42] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
 Source: Variety | Status: expanded | Words: 444
 Published: 2026-11-23T02:33:16+00:00
 URL: https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624
@@ -1263,7 +1287,7 @@ Beijing Joy Fun Pictures' domestic body-swap comedy "Mr. & Mrs. Pardon" rounded 
 Mainland China's overall weekend box office reached $16 million, remaining locked in a sluggish late-fall stretch. Year-to-date box office revenue stands at $4.8 billion, trailing the same period in 2025 by 29.9%.
 
 ============================================================
-[42] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
+[43] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
 Source: ComicBook.com | Status: expanded | Words: 729
 Published: 2026-11-23T02:30:00+00:00
 URL: https://comicbook.com/movies/news/a-1-8-billion-action-fantasy-epic-has-sailed-to-streaming-success-and-it-would-be-a-tragedy-not-to-watch-it
@@ -1287,7 +1311,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
+[44] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
 Source: ComicBook.com | Status: expanded | Words: 580
 Published: 2026-11-23T02:08:07+00:00
 URL: https://comicbook.com/movies/news/is-the-new-doomsday-trailer-coming-monday-mcu-stars-post-makes-it-even-more-likely
@@ -1315,7 +1339,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
+[45] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
 Source: ComicBook.com | Status: expanded | Words: 1095
 Published: 2026-11-23T02:05:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-heroes-are-having-an-identity-crisis-and-its-about-more-than-secret-identities
@@ -1349,7 +1373,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
+[46] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
 Source: ComicBook.com | Status: expanded | Words: 1040
 Published: 2026-11-23T02:00:48+00:00
 URL: https://comicbook.com/tv-shows/list/5-invincible-universe-characters-im-still-waiting-to-see-in-the-prime-video-series
@@ -1389,7 +1413,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
+[47] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
 Source: Variety | Status: expanded | Words: 301
 Published: 2026-11-23T02:00:46+00:00
 URL: https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605
@@ -1413,7 +1437,7 @@ In a video shared to X , an official at the concert announced that the show woul
 On Tuesday, days before the concert, Toliver announced &#x201C;Nitrous,&#x201D; his sixth album, would be released Dec. 4. The day prior, Toliver received five nominations for the 2027 Grammy Awards, including best new artist, best rap album, best rap performance, best rap song and best melodic rap performance.
 
 ============================================================
-[47] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
+[48] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
 Source: Deadline | Status: expanded | Words: 307
 Published: 2026-11-23T01:53:45+00:00
 URL: https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317
@@ -1439,7 +1463,7 @@ Despite her resistance to doing the cha-cha on TV, Garten said that generally sh
 The Dancing with the Stars finale will air live coast-to-coast for the first time on Tuesday.
 
 ============================================================
-[48] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
+[49] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
 Source: Variety | Status: expanded | Words: 370
 Published: 2026-11-23T01:32:26+00:00
 URL: https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585
@@ -1463,7 +1487,7 @@ Prior to Steinfeld's announcement, Elizabeth Olsen's Scarlet Witch was most rece
 &#x201C; Avengers: Doomsday ,&#x201D; which hits theaters on Dec. 18.
 
 ============================================================
-[49] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
+[50] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
 Source: ComicBook.com | Status: expanded | Words: 1222
 Published: 2026-11-23T01:24:06+00:00
 URL: https://comicbook.com/movies/list/6-great-crime-films-to-watch-when-you-eventually-need-a-break-from-gta-vi
@@ -1505,42 +1529,4 @@ What crime movies remind you of GTA ? Let us know on the ComicBook Forum !
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Doctor Who's First Major Action Figure Line Was Infamously Bad, But Fans Couldn't Get Enough of It
-Source: ComicBook.com | Status: expanded | Words: 1562
-Published: 2026-11-23T01:23:00+00:00
-URL: https://comicbook.com/collectibles/news/doctor-whos-first-major-action-figure-line-was-infamously-bad-but-fans-couldnt-get-enough-of-it
-------------------------------------------------------------
-SUMMARY:
-Action figure collectors today sometimes forget how good we have it. Today’s world of collector-focused toylines means any property, no matter how obscure, is fair game for an action figure line. But going back a few decades, this was hardly the case: conventional wisdom held that the primary target for any toys were children, and […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Action figure collectors today sometimes forget how good we have it. Today’s world of collector-focused toylines means any property, no matter how obscure, is fair game for an action figure line. But going back a few decades, this was hardly the case: conventional wisdom held that the primary target for any toys were children, and as such, any toyline had to be something manufacturers could see kids wanting. Doctor Who , despite being a decades-running staple of British television, somehow avoided almost any toy merchandising during its original, twenty-six year lifetime. Denys-Fisher (Mego’s U.K. affiliate) released a small range of Doctor Who figures in 1977 and 1978; several companies offered Daleks; but for many collectors, the dream was an extensive, Star Wars -style line of characters from across eras and Doctors.&nbsp;
-
-Model train manufacturer Dapol finally delivered in 1987, although with perhaps underwhelming results. That didn’t stop Doctor Who fans from turning out in force to collect the line – at least at first. The Dapol Doctor Who line was plagued with problems, both with the figures themselves and with their production. The line weathered the cancellation of the series, constant manufacturing delays, and a factory-destroying fire before Dapol lost the Doctor Who license in 2002. Their figures are badly painted, oddly articulated, and sometimes questionably accurate to the series. But like Kenner’s Star Wars line or Mego’s Star Trek , collectors look back fondly on the Dapol era, a time when there was thrill to just having a figure of a character like the Third Doctor or the Master. Today, the Dapol line may have been surpassed by Character Options’ still-running 5” Doctor Who line, but Dapol’s figures are still collected passionately by long-time Doctor Who fans, evidenced best by the nearly four-digit asking price for this 1987 TARDIS set .
-
-Film and television tie-in toylines were largely avoided by manufacturers up until the 1970s . While this isn’t to say they didn’t happen, they usually consisted of low-cost, low-risk items, and not the kinds of elaborate action figure ranges we’ve come to expect. Doctor Who was no exception: while the series was immediately popular with children, British toy companies capitalized modestly. In the 1960s, Louis Marx manufactured several Dalek toys , but no accompanying Doctor or companions. The Marx Dalek was ubiquitous on U.K. shelves for years, and actually ended up in the series on two occasions. For the serials Evil of the Daleks and Planet of the Daleks , scores of the Louis Marx figures were put in the background of shots to make Dalek armies look larger. The Marx Dalek was the only figural Doctor Who toy produced for nearly fifteen years, with Denys Fisher providing the first-ever articulated action figure of the Doctor himself in 1978 .&nbsp;
-
-The Doctor was based on Tom Baker’s iconic incarnation of the Time Lord, complete with his signature scarf. He was accompanied by then-current companions Leela and robot dog K-9 , still fan-favorites fifty years on. The assortment of “villain” characters included the perennial Dalek, a Cyberman, and the K-1 Robot from Baker’s inaugural episode, the creatively titled “Robot.” Boxed or loose, the Denys Fisher figures and TARDIS are incredibly rare and collectible, with the Dalek and companion Leela valued at up to $1k mint in box. The Denys-Fisher TARDIS operated under the same principle as Mego’s Star Trek transporter playset, making figures “disappear” inside with the push of a button. Around the same time, Palitoy manufactured a talking Dalek and talking K-9. K-9 is the rarer of the two, and is a surprisingly detailed and screen-accurate item for its era. Despite arriving at the show’s arguable ratings peak (as well as its high-water mark creatively, if you ask many fans), neither the Palitoy nor the Denys-Fisher range were especially popular.
-
-Dapol inherited the license at a ratings and creative nadir. Their line came to market in 1988, just in time for the series 25th Anniversary. In celebration, Dapol incorporated not only the series’ current Doctor (Sylvester McCoy), companion (Bonnie Langford’s Mel), and adversaries, but an assortment from across its history. By 1988, the series was running on fumes, having narrowly evaded cancellation in 1985. The first wave consisted of the 7th Doctor, Mel, K-9, the bat-like alien Tetrap, and four different Daleks. Dapol’s Daleks would be the longest-running and most expansive aspect of the line, with some two dozen Dalek variations produced in the fourteen years they held the Doctor Who license. The second wave arrived in 1989, just before the cancellation of the original series. It included the 4th Doctor (sans-scarf, a complaint of collectors for thirty-seven years and counting), companion Ace, a new Cyberman, and first-ever figures of Dalek creator Davros and the 2nd and 3rd Doctor foes the Ice Warriors. Bizarrely, the Ice Warrior came with an accessory reused from Hasbro’s G.I. Joe line.&nbsp;
-
-Two subsequent waves of new figures followed, bringing fans the 3rd Doctor (Jon Pertwee) and Roger Delgado’s incarnation of the Master, the “Melkur” statue from The Keeper of Traken , and four more aliens: a Time Lord, a Silurian, a Sea Devil, and a Sontaran. The alien sculpts are regarded as Dapol’s best work, detailed and fairly screen-accurate. Their human (and Time Lord) characters were criticized for soft likenesses and poor paint applications. Plastic quality and articulation were concerns across the line, the figures were brittle and prone to breakage. The line was rounded out by a TARDIS playset, at first just capturing the “police box” exterior of the vehicle, later resculpted to fold-out into the TARDIS’s interior, complete with plastic console.
-
-While the fourth wave marked the end of the articulated line, a few unarticulated figures were produced in roughly the same scale as the articulated figures. These consisted of the 2nd Doctor (Patrick Troughton) and a Troughton-era Cyberman as seen in episodes The Moonbase and Tomb of the Cybermen . A planned “Whomobile” vehicle for the 3rd Doctor was cancelled following a devastating 1994 fire at their primary factory, this also ended production for most of the figures. Prototypes for a 1st Doctor figure and a Yeti (from the 2nd Doctor serial The Web of Fear ) were also cancelled; numerous rumored additional companions and aliens also failed to materialize.&nbsp; Dapol continued to sell a limited number of characters (mostly surviving product from before the fire) and new Daleks up until 2002, when they lost the license. Character Options partnered with the BBC to take over the dormant license ahead of Doctor Who ’s 2005 return to screens, and still produce Doctor Who figures to this day.&nbsp;
-
-Character Options lived up to their name, releasing extensive product support for the 2005 season and the years after. For the first five seasons of the modern series, fans could expect that virtually every monster, alien, or adversary they saw on-screen would have an accompanying action figure; as well as a generous helping of companions, guest stars, and variants of the Doctor. In 2008, they expanded the range to include characters from the original series, and became the first-ever line to issue figures of every canon Doctor up to that point (the exception, of course, being Peter Cushing's Doctor from the 1960s theatrical films Dr. Who & The Daleks and Daleks Invasion Earth: 2150 A.D) . As Doctor Who ’s popularity has ebbed and flowed, the quantity of releases coming from Character Options has changed accordingly, but that same dedicated collector base that supported the Dapol line have kept the Character Options range running. This year, Character Options has finally issued the Yeti as a build-a-figure, making good on the promise of both Dapol’s prototype and their own long-delayed figure of the villain.
-
-Who's your favorite Doctor? Leave a comment below and join the conversation now in the ComicBook Forum !
-
-I have to give it to the one character that carried marvel on his back for many years and many movies way before any of the spider man or x-men movies ever came out. If you dive into some history it's safe to say that although not the most popular nor the biggest money maker for marvel, hands down the Punisher has to be marvels mvp. Don't forget it was the Punisher played by Dolph lundgren back in the 80's that brought marvel back into mainstream pop culture. Not spider man or avengers or x-men. Frank Castle has stood the test of time battling just about everyone in the marvel universe at some point. His supporting cast can potentially be any characters you want to incorporate and it still flows seamlessly because of his interactions with just about everyone over the years.
-
-I'll go the other way and say Daredevil.
-
-Foggy, Karen, Ben Urich, Jessica Jones, Iron Fist, Luke Cage, Black Widow, Elektra, Captain America, Punisher, Maya Lopez, and that's not even counting the villains.
-
-Spider-Man's supporting cast is hard to beat, but my favorite is hands down Captain Marvel. Her inner circle of Spider-Woman, Tony Stark, Lauri-Ell, Hazmat, and Rhodes is fantastic, as is her extended circle of friends in the X-Men. Some of my favorite Marvel scenes happen when they all get together.
-
-I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
