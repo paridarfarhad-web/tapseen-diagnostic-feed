@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T17:51:35.881Z"
+    "updated_at": "2026-11-23T17:53:39.053Z"
   },
   "articles": [
+    {
+      "id": "34140e6d-630d-4668-b6cd-46b44c259c7e",
+      "title": "Ariana Grande Teases 'Eternal Sunshine Tour' Movie at Peacock",
+      "summary": "Ariana Grande is teasing a documentary or concert film of her \"Eternal Sunshine\" tour, posting a clip on social media that reveals the movie will air on Peacock. The singer posted a clip on Monday morning from the moment in her \"Eternal Sunshine\" tour where she stands in the middle of the stage and loops […]",
+      "content": "Ariana Grande is teasing a documentary or concert film of her \"Eternal Sunshine\" tour, posting a clip on social media that reveals the movie will air on Peacock.\n\nThe singer posted a clip on Monday morning from the moment in her \"Eternal Sunshine\" tour where she stands in the middle of the stage and loops her vocals from the song \"Eternal Sunshine.\" As the clip fades, text appears on the screen stating, \"Coming soon to&#x2026; Peacock.\" Related Stories 'Chasing Summer' Director Josephine Decker Says That ‘Filmmaking Is Lonelier Than Ever,’ So It’s Time to Build a Community\n\nFans suspected that Grande may be working on a concert film after she posted a photo to social media last week of her in the editing bay alongside director Christian Breslauer and editor Andrew Morrow. Breslauer has worked several times with Grande in the past, lensing the videos for \"Yes, And?\" and \"We Can't Be Friends (Wait for Your Love)\" and serving as co-director and co-writer of \"Brighter Days Ahead\" alongside Grande. Morrow, meanwhile, edited Beyonc&#xE9;'s \"Renaissance: A Film by Beyonc&#xE9;\" and Lil Nas X's \"Lil Nas X: Long Live Montero.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nA representative did not immediately return Variety 's request for further comment.\n\nGrande embarked on the \"Eternal Sunshine\" tour earlier this year, kicking off the trek at Oakland Arena on June 6. Throughout the tour, she performed more shows in fewer cities than normal, including five concerts at New York City's Barclays Center and five in Los Angeles split across the Kia Forum and Crypto.com Arena. The tour came to an end with 10 performances at London's O2 Arena.\n\nGrande is currently gearing up for the release of the film \"Focker-in-Law,\" the fourth entry in the series. The film is set for release on November 25.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/music/news/ariana-grande-teases-eternal-sunshine-tour-movie-peacock-1236956068",
+      "published_at": "2026-11-23T17:52:07+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/06/L1220165_oakland_opening_@katiatemkin.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 315,
+      "extracted_at": "2026-11-23T17:53:28.292151+00:00",
+      "updated_at": "2026-11-23T17:53:28.292151+00:00"
+    },
     {
       "id": "48dcd232-1f1f-48d9-aa4d-5ca54bacb22c",
       "title": "Dragon Ball Super Remake Is Already Setting Up Ultra Instinct's Debut",
@@ -22,6 +37,21 @@
       "word_count": 614,
       "extracted_at": "2026-11-23T17:51:22.203748+00:00",
       "updated_at": "2026-11-23T17:51:22.203748+00:00"
+    },
+    {
+      "id": "71cd3cff-faa2-4072-8dbe-b14cf27d2815",
+      "title": "There’s An Insane Yellowjackets Theory About Akilah I Need To Talk Out After The Premiere",
+      "summary": "This fan theory is one for the record books.",
+      "content": "Spoilers ahead for the Season 4 premiere of Yellowjackets .\n\nWhile some folks are figuring out how to watch Yellowjackets Season 4 , I'm more concerned about the various mysteries surrounding the beloved drama series. I'm hoping for closure about the No-Eyed Man as as well as Crystal's dead body, but some fans are convinced that Akilah actually died in the woods, and that the rest of the team is seeing her rescued form via a shared hallucination. Stay with me here.\n\nOnce Pit Girl was revealed as Mari, the question about which of the Yellowjackets actually get out of the woods took center stage. Since we haven't met adult Akilah in the present folks assumed that she'd never find her way home. Now we've seen her post-rescue, reveling that she seemingly does make it home to New Jersey. Still, some fans think that might be another surprise twist from the bloody series.\n\nA sneak peek scene from later in Season 4 showed Akilah talking to Misty in the High School cafeteria, but that hasn't stopped fans from thinking she wasn't actually there. After all, Amazon's Carrie pulled a similar move with the character Emaline, who was revealed midway through the season to be an astral projection that only the titular character could see. As such, we'll have to continue watching Akilah throughout future episodes to see who she interacts with.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/insane-yellowjackets-theory-about-akilah-after-season-4-premiere",
+      "published_at": "2026-11-23T17:48:55+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/n5g5MeAyacNscXw4okRv57-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 231,
+      "extracted_at": "2026-11-23T17:53:22.010264+00:00",
+      "updated_at": "2026-11-23T17:53:22.010264+00:00"
     },
     {
       "id": "307ba505-f9b7-4415-abc5-501828126787",
@@ -727,36 +757,6 @@
       "word_count": 99,
       "extracted_at": "2026-11-23T16:07:16.995567+00:00",
       "updated_at": "2026-11-23T16:07:16.995567+00:00"
-    },
-    {
-      "id": "30f85bfd-6488-4a25-ac17-9110de492fcb",
-      "title": "One Piece Finally Reveals Imu's Official Design With Full Look at Its Biggest Villain",
-      "summary": "Image Courtesy of Shueisha / Toei Animation One Piece is now in the midst of the series' biggest fight yet as Luffy and Imu are squaring off in the latest chapters of the series, and now series creator Eiichiro Oda has fully revealed what King Imu actually looks like after all this time. Imu was first introduced to the series nearly a […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google One Piece is now in the midst of the series' biggest fight yet as Luffy and Imu are squaring off in the latest chapters of the series , and now series creator Eiichiro Oda has fully revealed what King Imu actually looks like after all this time. Imu was first introduced to the series nearly a decade ago when it was revealed that there was a mysterious king sitting on a throne at the middle of the world. But this king has made his move much sooner than expected with the climax of the Elbaph Arc.\n\nOne Piece: Elbaph Arc has been getting much more intense with each passing chapter , and Imu has revealed his full self now that he's come to Elbaph to make his move against Luffy and the Giants. With the release of One Piece Volume 116 coming to shelves in Japan later this December, the official social media for the series has now revealed its official cover in full and now given fans a full look at what Imu actually looks like. You can check it out below.\n\nOne Piece Volume 116 will be hitting shelves in Japan on December 4th, but no international release date has been announced as of this time. It will be collecting Chapters 1180 to 1190 of Eiichiro Oda's original manga series, and that's why it makes a lot of sense that Imu is taking place front and center. His emergence on Elbaph has been the biggest thing to happen in the series over the last few months, and we've only started to see Imu getting even stronger from there.\n\nWith Luffy and the others complicating things on Elbaph , Imu arrived on the island as taking it over is going to be very important for whatever plans he might have for the world. While there are still many questions about his origins and the nature of his power, this full devil look for the villain is something that had only emerged once he stepped out of the Holy Land. Which means the black silhouetted figure we had seen before was not just an editorial decision, it was how every other character actually saw the king before.\n\nThe latest One Piece chapters have seen Luffy and the others struggling against Imu, but there are some surprising new reveals that have come as a result. It's been confirmed that Imu is on some sort of deadline with how long he can be outside of the holy land as he notes he was reaching his limits, and it seems his presence has had some sort of adverse impact on Luffy's Gear 5 form ( and pushing it to a berserk new kind of level never seen before ). But it's only started to raise more questions.\n\nIt's clear that as One Piece 's Final Saga reaches the climax of the Elbaph Arc that the series really is in the midst of its endgame. It's yet to be revealed how many weeks, months or years it make take before Oda actually does end the series, but that grand finale is more real than it ever has been. How are you liking seeing Imu in action with One Piece's latest chapters? Let us know all of your thoughts about it in the comments.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/anime/news/one-piece-finally-reveals-imus-official-design-with-full-look-at-its-biggest-villain",
-      "published_at": "2026-11-23T16:05:07+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 607,
-      "extracted_at": "2026-11-23T16:05:18.718653+00:00",
-      "updated_at": "2026-11-23T16:05:18.718653+00:00"
-    },
-    {
-      "id": "42a68afa-8de3-4e94-a68d-79d0c6ea9115",
-      "title": "Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies",
-      "summary": "Apple TV has confirmed that it will launch “Timberlake,” a new four-part documentary on Justin Timberlake’s life and career helmed by Academy Award winner Fisher Stevens; Variety first reported the news earlier this month. The series premieres globally on Apple TV on Friday, December 11 with the first two episodes, followed by the third episode […]",
-      "content": "Apple TV has confirmed that it will launch &#x201C;Timberlake,&#x201D; a new four-part documentary on Justin Timberlake &#x2019;s life and career helmed by Academy Award winner Fisher Stevens; Variety first reported the news earlier this month. The series premieres globally on Apple TV on Friday, December 11 with the first two episodes, followed by the third episode on Friday, December 18 and the finale on Wednesday, December 23, 2026.\n\nJudging by the trailer and our source, the doc will get into deeper detail about Timberlake&#x2019;s upbringing, career, years with &#x2018;NSYNC and, not least, his relationship with Britney Spears and the controversy around the &#x201C;wardrobe malfunction&#x201D; that took place when he performed with Janet Jackson at the Super Bowl Halftime Show in 2004. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)\n\n&#x201C;I&#x2019;m sure you&#x2019;re going to go back and see these incredible sweet and goofy things from my childhood,&#x201D; Timberlake says in a voiceover, as the trailer cuts to a clip of him showing off a Janet Jackson poster on his bedroom wall as a teenager, &#x201C;and some things that are really hard to talk about,&#x201D; which then cuts to footage of him and Spears. The trailer shows several shots of Spears and Jackson, as well as Timberlake with his wife, Jessica Biel, and others.\n\n&#x201C;Raw, reflective and revealing, Timberlake sits down to discuss the triumphs that made him a global success, his personal perspective beyond the headlines and the challenges he's faced behind the scenes,&#x201D; the announcement reads. &#x201C;Directed by Academy Award winner Fisher Stevens (\"The Cove,\" \"Beckham\"), the series spans three decades of music and popular culture and features never-before-seen archival footage and exclusive interviews with family, friends and collaborators.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\n&#x201C;Timberlake&#x201D; is produced for Apple TV by Blackbird Presents Films, Misher Films and Highly Flammable, with Maura Anderson and Stevens producing. Kevin Misher, Keith Wortman, Lee Eisenberg, Michael Rapino, Ryan Kroft, Rick Yorn, Josh Dembling, Johnny Wright and Andre Person serve as executive producers. The series is a Live Nation Studios presentation.",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/music/news/justin-timberlake-documentary-trailer-britney-spears-janet-jackson-1236955955",
-      "published_at": "2026-11-23T16:03:04+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-10.49.21-AM-e1795449557290.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 386,
-      "extracted_at": "2026-11-23T16:03:17.368672+00:00",
-      "updated_at": "2026-11-23T16:03:17.368672+00:00"
     }
   ]
 }
