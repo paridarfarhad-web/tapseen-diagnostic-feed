@@ -1,9 +1,65 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T21:11:44.737Z
+Last Updated: 2026-11-23T21:17:48.634Z
 Website: https://tapseen.com
 
 ============================================================
-[1] ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected
+[1] 'The Odyssey', 'Widow's Bay' Among Top Nominees For AARP's Movies &#038; TV For Grownups Awards
+Source: Deadline | Status: expanded | Words: 370
+Published: 2026-11-23T21:17:21+00:00
+URL: https://deadline.com/2026/11/the-odyssey-widows-bay-aarp-movies-tv-for-grownups-awards-1237231926
+------------------------------------------------------------
+SUMMARY:
+The Odyssey, Wild Horse Nine, The Invite, Being Heumann, and Tender Loving Care are the top nominees for Best Movie For Grownups in today's announcement of this year's contenders for the upcoming Movies &#38; TV for Grownups Awards. Tom Cruise, John Malkovich, Matt Damon, Andrew Scott, and John Turturro make up the list for Best […]
+
+CONTENT / EXTRACTED DETAILS:
+The Odyssey , Wild Horse Nine , The Invite, Being Heumann, and Tender Loving Care are the top nominees for Best Movie For Grownups in today's announcement of this year's contenders for the upcoming Movies & TV for Grownups Awards.
+
+Tom Cruise, John Malkovich, Matt Damon, Andrew Scott, and John Turturro make up the list for Best Actor and all are considered strong bets when Oscar nominations are announced in January. The big difference with the list compiled by AARP for their awards is eligible candidates must be 50 or over. Scott literally just squeaked into eligibility this year. Nominees for Best Actress are Julianne Moore, Sophie Okonedo, Marion Bailey, Meryl Streep, and Helen Mirren. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'The Odyssey' Leads Critics Choice Awards Below-The-Line Shortlists With 11; 'Dune: Part Three' And 'La Bola Negra' Get 8 Each News 'Cameron Winter' Shines In Vibrant Indie Weekend, 'Elsinore' Opens Strong -- Specialty Box Office
+
+The organization also hands out a few awards in TV as well with The Diplomat, DTF St. Louis, Hacks, The Pitt , and Widow 's Bay on the list for Best Series or Limited Series. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+&#x201C;This year&#x2019;s nominees are proof that experience is one of the most powerful creative forces in film and television,&#x201D; said Dr. Myechia Minter-Jordan, CEO of AARP. &#x201C;From legends like Meryl Streep and Helen Mirren to acclaimed creators like Christopher Nolan and Chris Rock, these artists are doing some of the best work of their careers and reminding audiences and the industry alike that great stories have no age limit.&#x201D;
+
+Hosted by five-time Emmy winner Jane Lynch, The AARP Movies & TV for Grownups Awards will take place on Saturday, January 9, 2027, at the Beverly Wilshire, Beverly Hills. It will be broadcast on PBS, Great Performances Friday February 26, 2027.
+
+============================================================
+[2] All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics
+Source: Variety | Status: expanded | Words: 607
+Published: 2026-11-23T21:11:32+00:00
+URL: https://variety.com/2026/gaming/news/gta-6-movie-tv-show-references-jaws-saw-die-hard-1236955906
+------------------------------------------------------------
+SUMMARY:
+SPOILER ALERT: This article contains spoilers for Rockstar Games’ “Grand Theft Auto 6." "Grand Theft Auto" has been referenced and parodied in movies and TV shows since the popular Rockstar Games video game franchise first debuted in 1997. While "GTA" has always been good at turning the tables and using its satirical nature to poke […]
+
+CONTENT / EXTRACTED DETAILS:
+SPOILER ALERT: This article contains spoilers for Rockstar Games&#x2019; &#x201C; Grand Theft Auto 6 . "
+
+"Grand Theft Auto" has been referenced and parodied in movies and TV shows since the popular Rockstar Games video game franchise first debuted in 1997.
+
+While "GTA" has always been good at turning the tables and using its satirical nature to poke fun at pop culture and Americana classics, the game's developers packed even more Hollywood references into " GTA 6 " than any previous game in the franchise. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories India's T-Series and Hungama Launch Microdrama Platform FastTV With $32 Million Commitment (EXCLUSIVE) Microdrama Makers From Turkey and Japan Bet on Emotional Hooks and Infuriating Villains at Taiwan Creative Content Fest
+
+See below for all the movie and TV show references we've discovered in "GTA 6" so far. Variety will add more to this list as we play through the rest of the game, which was released Nov. 19 — with a Day One haul of $3.8 bil l ion in sales — and has a reported play-through time of approximately 80 hours to complete its main storyline.
+
+A low-angle view of Jason and Lucia grabbing weapons out of their car pays homage to a classic scene of Vincent Vega (John Travolta) and Jules Winnfield (Samuel L. Jackson) from "Pulp Fiction." In another scene, Jason and Lucia go about robbing a diner in a similar manner to the film's iconic couple "Honey Bunny" and "Pumpkin."
+
+A car inspired by Brian O'Conner's (Paul Walker) Mitsubishi Eclipse can be found in a garage in the game.
+
+When Jason completes a mission to save his friend Kenton, a boat charter and dive shop owner, the two are left doggy-paddling back to shore on the back of some debris. Combined with some exchanged dialogue, the scene is pretty much a shot-for-shot homage to the end of "Jaws," when Brody and Hooper are swimming back to shore after killing the great white shark and destroying their boat in the process. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Lucia is seen crawling through an air vent in an office building complaining about the situation when her and Jason are stuck saving everyone from terrorists in a direct reference to the same situation Bruce Willis' John McClane found himself in.
+
+If you choose to help out a farmer with cropdusting his strawberry plants, beware that the pesticide used will turn him into a raging Hulk-esque creature. You can then try to soothe the "big guy," just like Scarlett Johansson's Black Widow does for Mark Ruffalo's Hulk in the Marvel Cinematic Universe.
+
+One mission requires Lucia to become a body builder and a training montage ensues that is reminiscent of classics like "Rocky" and "Million Dollar Baby."
+
+A few unfortunate choices can lead you to be randomly kidnapped and wake up with a collar around your neck in a nondescript room. Your kidnapper will then come on a TV screen — like Jigsaw from the "Saw" horror movie series — and task you with surviving a "hunt" on his private, deserted island.
+
+Players have discovered that a replica of Dexter Morgan's (Michael C. Hall) apartment from the Showtime series "Dexter" can be found in the game, along with a few other locations from the series about the fictional Miami serial killer.
+
+Entering one specific crime scene location will give you a practically perfect recreation of the infamous chainsaw moment from the 1983 classic.
+
+============================================================
+[3] ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected
 Source: The Playlist | Status: summary_only | Words: 114
 Published: 2026-11-23T21:09:35+00:00
 URL: https://theplaylist.net/adam-driver-kathleen-kennedy-lucasfilm-disney-approval-ben-solo-20261123
@@ -15,7 +71,7 @@ CONTENT / EXTRACTED DETAILS:
 Given the number of abandoned “ Star Wars ” projects over the years, you might be surprised to learn that Kathleen Kennedy apparently believed Lucasfilm had a perfect track record of getting movies approved by Disney . At least, that’s what Adam Driver says the former Lucasfilm president told him and Steven Soderbergh while they developed their ultimately rejected “ The Hunt For Ben Solo .” The claim raises an obvious question: how many of Lucasfilm’s unrealized projects ever made it to Disney for final approval? Continue reading ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected at The Playlist.
 
 ============================================================
-[2] Disney's Doomsday Essential MCU Watch List Proves Marvel Hasn't Learned Its Lesson
+[4] Disney's Doomsday Essential MCU Watch List Proves Marvel Hasn't Learned Its Lesson
 Source: ComicBook.com | Status: expanded | Words: 843
 Published: 2026-11-23T21:07:00+00:00
 URL: https://comicbook.com/movies/feature/disneys-doomsday-essential-mcu-watch-list-proves-marvel-hasnt-learned-its-lesson
@@ -45,7 +101,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Amanda Seyfried, Robert De Niro and Timothee Chalamet to Host 'SNL' in December
+[5] Amanda Seyfried, Robert De Niro and Timothee Chalamet to Host 'SNL' in December
 Source: The Hollywood Reporter | Status: expanded | Words: 553
 Published: 2026-11-23T21:06:31+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508
@@ -75,7 +131,7 @@ Sept. 26: Jalen Brunson , KATSEYE Oct. 3: Dakota Johnson , Turnstile Oct. 10: Sh
 This story was first published on Sept. 9, 2026.
 
 ============================================================
-[4] Marvel Fan Edits Avengers: Doomsday Trailer Footage Into Full Scene That May Confirm A Major Story Twist
+[6] Marvel Fan Edits Avengers: Doomsday Trailer Footage Into Full Scene That May Confirm A Major Story Twist
 Source: ComicBook.com | Status: expanded | Words: 529
 Published: 2026-11-23T21:04:25+00:00
 URL: https://comicbook.com/movies/news/marvel-fan-edits-avengers-doomsday-trailer-footage-into-full-scene-that-may-confirm-a-major-story-twist
@@ -103,7 +159,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Cyberpunk 2 Director Jokes That the Sequel is Now Canceled, And GTA 6 Is to Blame
+[7] Cyberpunk 2 Director Jokes That the Sequel is Now Canceled, And GTA 6 Is to Blame
 Source: ComicBook.com | Status: expanded | Words: 920
 Published: 2026-11-23T21:02:12+00:00
 URL: https://comicbook.com/gaming/news/cyberpunk-2-director-jokes-that-the-sequel-is-now-canceled-and-gta-6-is-to-blame
@@ -135,7 +191,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Cairo Film Festival Pitching Platform Awards $410,000 to Arab Film Projects
+[8] Cairo Film Festival Pitching Platform Awards $410,000 to Arab Film Projects
 Source: Variety | Status: expanded | Words: 1851
 Published: 2026-11-23T21:01:47+00:00
 URL: https://variety.com/2026/film/global/cairo-film-connection-2026-arab-film-projects-awards-1236955700
@@ -245,7 +301,7 @@ Set between Jordan&#x2019;s Za&#x2019;atari refugee camp and Amman, &#x201C;Grow
 The documentary received $6,000 in post-production services from Cult. With approximately 40% of its budget secured, the filmmakers are seeking additional financing and international co-producers ahead of a planned 2028 release.
 
 ============================================================
-[7] How Iran's Pegah Ahangarani Turned Her Family Archives Into a Regime-Challenging Oscar Hopeful
+[9] How Iran's Pegah Ahangarani Turned Her Family Archives Into a Regime-Challenging Oscar Hopeful
 Source: The Hollywood Reporter | Status: expanded | Words: 2480
 Published: 2026-11-23T21:01:32+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/iran-pegah-ahangarani-uk-rehearsals-for-a-revolution-oscars-1236760972
@@ -303,7 +359,7 @@ I'm sure you miss your family so much, but you don't envision a future where you
 When I left Iran in 2021, I didn't have any plan to stay outside of Iran. I left my country with just one carry-on to participate in the IDFA Film Festival for my short documentary. And after the second screening, my mother, she was in Iran [and] called me and told me the regime had called her and asked her to interrogate me about the film. She told me, "Stay outside for a while, for one or two months." And then the "Woman, Life, Freedom" movement happened and I published a video to show my solidarity with that movement, and then my mother told me they sent a letter [saying] there is a court order against me. They seized my apartment and my bank accounts in Iran and I realized that I can't go back. If I go back, I have to go to jail. I was in jail for one month in solitary [confinement], but if I go back, maybe I could be in jail for six or seven years or something like that. I decided to stay outside because I wanted to make my film.
 
 ============================================================
-[8] Robert De Niro &#038; Timothée Chalamet Will Close Out The Year As Hosts On 'Saturday Night Live'
+[10] Robert De Niro &#038; Timothée Chalamet Will Close Out The Year As Hosts On 'Saturday Night Live'
 Source: Deadline | Status: expanded | Words: 377
 Published: 2026-11-23T21:00:22+00:00
 URL: https://deadline.com/2026/11/saturday-night-live-robert-de-niro-timothee-chalamet-hosts-1237231917
@@ -327,7 +383,7 @@ In addition to the broadcast on NBC (11:30 p.m. ET / 8:30 p.m. PT), SNL streams 
 Saturday Night Live is produced in association with Broadway Video. The creator and executive producer is Lorne Michaels.
 
 ============================================================
-[9] ‘Clashing Through The Snow’ Stars Christopher Briney &#038; Michelle Randolph Talk Comedy’s “Important” Presence In Script And How They Built Their Characters
+[11] ‘Clashing Through The Snow’ Stars Christopher Briney &#038; Michelle Randolph Talk Comedy’s “Important” Presence In Script And How They Built Their Characters
 Source: Deadline | Status: expanded | Words: 1347
 Published: 2026-11-23T21:00:00+00:00
 URL: https://deadline.com/2026/11/clashing-through-the-snow-christopher-briney-interview-1237231859
@@ -391,7 +447,7 @@ RANDOLPH: It's in the movie, which it's like Hannah and Ryan are laughing at the
 BRINEY: He's so funny, man. He is so good in this movie.
 
 ============================================================
-[10] Lionsgate Lands Spec 'Tell Me Everything' With Dakota Johnson On Board To Star And Produce
+[12] Lionsgate Lands Spec 'Tell Me Everything' With Dakota Johnson On Board To Star And Produce
 Source: Deadline | Status: expanded | Words: 485
 Published: 2026-11-23T21:00:00+00:00
 URL: https://deadline.com/2026/11/dakota-johnson-tell-me-everything-lionsgate-1237231777
@@ -415,7 +471,7 @@ TeaTime first gained recognition with two feature films at the 2022 Sundance Fil
 Johnson is repped by CAA, Untitled, and Johnson Shapiro Slewett Kole. TeaTime Pictures is repped by CAA and Johnson Shapiro Slewett Kole. Golde is repped by CAA and Ginsburg Daniels Kallis.
 
 ============================================================
-[11] ‘SNL’ Sets Timothée Chalamet and Robert De Niro as Final Hosts of 2026
+[13] ‘SNL’ Sets Timothée Chalamet and Robert De Niro as Final Hosts of 2026
 Source: Variety | Status: expanded | Words: 171
 Published: 2026-11-23T21:00:00+00:00
 URL: https://variety.com/2026/tv/news/snl-next-hosts-timothee-chalamet-robert-de-niro-1236956234
@@ -439,7 +495,7 @@ Chalamet stars opposite Zendaya in "Dune: Part Three," the final installment of 
 These are the final "SNL" shows of 2026. The NBC sketch comedy series typically returns from a holiday break on the third Saturday of January.
 
 ============================================================
-[12] Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)
+[14] Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 410
 Published: 2026-11-23T21:00:00+00:00
 URL: https://variety.com/2026/tv/news/macy-gray-microdrama-album-reelshort-1236956213
@@ -463,7 +519,7 @@ Gray first hit the scene in 1999 with her first album, &#x201C;On How Life Is,&#
 Gray is repped by Debra Baum of Eliseo Entertainment LLC, while her music label is DNA Music/Hitmaker Distro.
 
 ============================================================
-[13] New GTA 6 Sales Report Claims the Game Is Rapidly Nearing 50 Million Copies Sold
+[15] New GTA 6 Sales Report Claims the Game Is Rapidly Nearing 50 Million Copies Sold
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-23T20:56:59+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-sales-45-million
@@ -487,7 +543,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Inside the 'Pillsbury Bake-Off Classic': A Recipe for Blending Brands With TV (and a Full-Circle Career Moment for Host Drew Barrymore)
+[16] Inside the 'Pillsbury Bake-Off Classic': A Recipe for Blending Brands With TV (and a Full-Circle Career Moment for Host Drew Barrymore)
 Source: The Hollywood Reporter | Status: expanded | Words: 1851
 Published: 2026-11-23T20:52:32+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/pillsbury-bake-off-classic-drew-barrymore-show-cbs-1236760818
@@ -541,7 +597,7 @@ Both Weintrob and Balzo hope this special becomes an annual tradition that famil
 Pillsbury Bake-Off Classic airs Nov. 23 from 8-10 p.m. ET/PT on CBS and streams on Paramount+ (Premium).
 
 ============================================================
-[15] Yahya Abdul-Mateen II Addresses Marvel Future After Wonder Man Cancellation, And It Sounds Promising
+[17] Yahya Abdul-Mateen II Addresses Marvel Future After Wonder Man Cancellation, And It Sounds Promising
 Source: ComicBook.com | Status: expanded | Words: 656
 Published: 2026-11-23T20:49:37+00:00
 URL: https://comicbook.com/tv-shows/news/yahya-abdul-mateen-ii-addresses-marvel-future-after-wonder-man-cancellation-and-it-sounds-promising
@@ -567,7 +623,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Crunchyroll’s Hottest Fall Anime Just Dropped the Coolest Fight of 2026
+[18] Crunchyroll’s Hottest Fall Anime Just Dropped the Coolest Fight of 2026
 Source: ComicBook.com | Status: expanded | Words: 610
 Published: 2026-11-23T20:42:00+00:00
 URL: https://comicbook.com/anime/feature/crunchyrolls-hottest-fall-anime-just-dropped-the-coolest-fight-of-2026
@@ -591,7 +647,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] 'Ted Lasso' Lands Season 5 Renewal at Apple TV
+[19] 'Ted Lasso' Lands Season 5 Renewal at Apple TV
 Source: The Hollywood Reporter | Status: expanded | Words: 228
 Published: 2026-11-23T20:31:19+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-renewed-season-5-apple-tv-1236761387
@@ -609,7 +665,7 @@ Not yet nailed down is who among the show's large ensemble will be returning for
 The season four finale of Ted Lasso set up a number of avenues for the show to explore. After being lured back to London to coach AFC Richmond's women's team, Ted ( Jason Sudeikis ) stepped back from the job in the final episode, demoting himself to assistant manager so that Alice (Tanya Reynolds) could take the head job. Rebecca (Hannah Waddingham) also successfully fended off a challenge to her ownership of the club, and Roy (Brett Goldstein) takes the reins at Chelsea while waiting to become a parent with Keeley (Juno Temple).
 
 ============================================================
-[18] 'Ted Lasso' Renewed For Season 5 By Apple TV
+[20] 'Ted Lasso' Renewed For Season 5 By Apple TV
 Source: Deadline | Status: expanded | Words: 1002
 Published: 2026-11-23T20:30:15+00:00
 URL: https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022
@@ -655,7 +711,7 @@ Season 4 of Ted Lasso is executive produced by Sudeikis alongside Hunt, Joe Kell
 The first season became the most Emmy Award-nominated comedy series, and the series went on to land rare back-to-back Emmys for Outstanding Comedy Series for its first two seasons on air.
 
 ============================================================
-[19] ‘Ted Lasso’ Renewed for Season 5 at Apple TV, With Jason Sudeikis Returning
+[21] ‘Ted Lasso’ Renewed for Season 5 at Apple TV, With Jason Sudeikis Returning
 Source: Variety | Status: expanded | Words: 616
 Published: 2026-11-23T20:30:00+00:00
 URL: https://variety.com/2026/tv/news/ted-lasso-season-5-renewed-apple-tv-jason-sudeikis-1236956126
@@ -683,7 +739,7 @@ The fourth season of &#x201C;Ted Lasso&#x201D; was executive produced by Sudeiki
 Sudeikis, Hunt, Goldstein, new exec producer Burditt and the rest of the writers had to figure out how to reintroduce Ted Lasso to the world of &#x201C;Ted Lasso.&#x201D; The writers rented a house in Ojai, California, to go on retreat hash it out, and came up with the ideas that would ultimately become Season 4 &#x2014; and now, Season 5.
 
 ============================================================
-[20] John Turturro Says 'Transformers’ Paychecks Helped Fund His Passion Projects, But Too Many Blockbusters Can Make You ‘Lose Your Inner Life’
+[22] John Turturro Says 'Transformers’ Paychecks Helped Fund His Passion Projects, But Too Many Blockbusters Can Make You ‘Lose Your Inner Life’
 Source: Variety | Status: expanded | Words: 602
 Published: 2026-11-23T20:28:10+00:00
 URL: https://variety.com/2026/film/news/john-turturro-transformers-blockbusters-lose-inner-life-1236956147
@@ -719,7 +775,7 @@ Turturro's latest project, "The Only Living Pickpocket in New York," also screen
 Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[21] Half-Life Remake Just Got a Major Update
+[23] Half-Life Remake Just Got a Major Update
 Source: ComicBook.com | Status: expanded | Words: 1718
 Published: 2026-11-23T20:28:07+00:00
 URL: https://comicbook.com/gaming/news/half-life-remake-black-mesa-update
@@ -741,7 +797,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] BAFTA Loses Longtime Film Awards Sponsor EE
+[24] BAFTA Loses Longtime Film Awards Sponsor EE
 Source: Deadline | Status: expanded | Words: 419
 Published: 2026-11-23T20:24:47+00:00
 URL: https://deadline.com/2026/11/bafta-loses-longtime-film-awards-sponsor-ee-1237231871
@@ -765,7 +821,7 @@ EE first became title sponsor of the BAFTA film awards in 2013, taking over from
 A BAFTA spokesperson told Deadline: "2027 will mark the 30th year of the EE BAFTA Film Awards. After a long-standing, successful and trusted partnership, EE advised us more than a year ago that it would not be renewing its support of the Film Awards beyond the end of the current contract which runs to the end of 2027, confirming that this decision is entirely driven by EE&#x2019;s business strategy. We are incredibly proud of what we have achieved together over three decades and are fully focused on delivering an exceptional EE BAFTA Film Awards in February, where we look forward to celebrating the very best in film with EE and audiences throughout the UK and world-wide.&#x201D;
 
 ============================================================
-[23] 'East of Eden' Star Hoon Lee on the "Honor" of Playing Lee and Why It Made Sense to Expand on the Character
+[25] 'East of Eden' Star Hoon Lee on the "Honor" of Playing Lee and Why It Made Sense to Expand on the Character
 Source: The Hollywood Reporter | Status: expanded | Words: 1759
 Published: 2026-11-23T20:23:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/east-of-eden-star-hoon-lee-interivew-1236761174
@@ -809,7 +865,7 @@ Well, it's nice to have peaked now. There's a lot of clarity. Better now than wh
 I was just talking about this, but when Lee says there's a beauty in the truth, even if it's a dreadful beauty &#x2014; we are in a time and a place where we have a very difficult relationship with the idea of truth, partially because some people have been betrayed by that and partially because some people think truth is weaponized against them in some way and partially because the truth in and of itself is often difficult to confront. Without creating a foundation based upon the truth, how do we build anything with any integrity? How do we move forward? To bring it down to the most trivial levels, if I look at my own work somewhere and I just pat myself on the back for it, it'll be very difficult for me to get better. There's something very, very beautiful about this idea that in looking at this story and in looking at how Steinbeck was able to humanize his character, it prevents me from having the easy out of saying, "Well, everyone at a certain time period felt a certain way and everyone was… There were just amazing people with incredibly broad understandings of humanity at every point." That's something to remind ourselves that. If you're someone that feels like you're marginalized and struggling, you had allies at every point and maybe they weren't given voice and maybe there weren't many of them, but it doesn't help us to feel like the monolith is out there and could come back at any time. I just don't think that that's fair, and I don't think it's accurate.
 
 ============================================================
-[24] 5 DC Villain Kids Who Somehow Turned Out Even Worse Than Their Parents
+[26] 5 DC Villain Kids Who Somehow Turned Out Even Worse Than Their Parents
 Source: ComicBook.com | Status: expanded | Words: 1222
 Published: 2026-11-23T20:23:00+00:00
 URL: https://comicbook.com/comics/list/5-dc-villain-kids-who-somehow-turned-out-even-worse-than-their-parents
@@ -849,7 +905,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Ray McKinnon Joins AMC NASCAR Drama Series 'Thunder Road'
+[27] Ray McKinnon Joins AMC NASCAR Drama Series 'Thunder Road'
 Source: Deadline | Status: expanded | Words: 459
 Published: 2026-11-23T20:21:03+00:00
 URL: https://deadline.com/2026/11/ray-mckinnon-amc-nascar-series-thunder-road-1237231832
@@ -873,7 +929,7 @@ Fusco is set to executive produce alongside showrunner Taylor Elmore, Cliff Robe
 McKinnon has a long-standing relationship with AMC Global Media, having served as creator, showrunner, writer, and director of the Peabody Award-winning SundanceTV series Rectify , which ran for four seasons. McKinnon is currently working on Michael Keaton's western Rode to Ruin . Upcoming, McKinnon will be seen in Elgin James' upcoming Prison Break for Hulu. His many memorable TV roles include FX's Sons of Anarchy , as Lincoln Potter, reprising the role in the spinoff series Mayans M.C . and HBO's Deadwood . He is represented by Paradigm Talent Agency and Anonymous Content.
 
 ============================================================
-[26] Sadie Sandler to Star in Netflix Horror Movie 'Malibu' From Vertigo, Happy Madison (Exclusive)
+[28] Sadie Sandler to Star in Netflix Horror Movie 'Malibu' From Vertigo, Happy Madison (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 355
 Published: 2026-11-23T20:15:51+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327
@@ -899,7 +955,7 @@ In addition to helming Paranormal Activity 2 , Williams directed John Cusack and
 Lee, who was named THR' s producer of the year in 2025, has served as executive producer on such horror series as Peacock's Crystal Lake and HBO's It: Welcome to Derry . His recent feature credits include Resident Evil , Weapons , A Minecraft Movie and Obsession director Curry Barker's forthcoming movie Anything but Ghosts .
 
 ============================================================
-[27] One FBI Star Knows Exactly Why I Have Questions About Their Possible Exit
+[29] One FBI Star Knows Exactly Why I Have Questions About Their Possible Exit
 Source: CinemaBlend | Status: expanded | Words: 222
 Published: 2026-11-23T20:14:46+00:00
 URL: https://www.cinemablend.com/television/fbi-star-john-boyd-knows-why-i-have-questions-about-scola-possible-exit
@@ -917,7 +973,7 @@ Boyd's comments seem to point to the writers simply wanting to shake things up f
 I’m relieved to know that Boyd’s not going anywhere, at least not any time soon and that this is merely a chance to explore Scola and Nina’s relationship in a different way. When Nina was revealed to be moving to San Diego, there was no telling where things could be going for her and Scola, as well as their son, Dougie. And after the several cast exits the show has had in recent years, I appreciate the Boyd seems to understand why viewers would have questions.
 
 ============================================================
-[28] Reliant Talent Adds Jason Zenowich, Kyle Levinson, Rick Ferrell &#038; Michelle Romeo As Agents
+[30] Reliant Talent Adds Jason Zenowich, Kyle Levinson, Rick Ferrell &#038; Michelle Romeo As Agents
 Source: Deadline | Status: expanded | Words: 362
 Published: 2026-11-23T20:02:26+00:00
 URL: https://deadline.com/2026/11/reliant-talent-agency-jason-zenowich-kyle-levinson-rick-ferrell-michelle-romeo-1237231857
@@ -939,7 +995,7 @@ With its headquarters in Nashville, TN, Reliant was formed six years ago when th
 "We&#x2019;re pleased to announce these additions to our company as we continue our upward scale," said agency President, Steve Lassiter. "These agents bring decades of experience, integrity and passion that align with our client facing, 360 approach to our business."
 
 ============================================================
-[29] Why Did Netflix Cancel Mindhunter? David Fincher Breaks Silence on Ending (And What Can Bring It Back)
+[31] Why Did Netflix Cancel Mindhunter? David Fincher Breaks Silence on Ending (And What Can Bring It Back)
 Source: ComicBook.com | Status: expanded | Words: 957
 Published: 2026-11-23T20:01:42+00:00
 URL: https://comicbook.com/tv-shows/news/why-did-netflix-cancel-mindhunter-david-fincher-breaks-silence-on-ending-and-what-can-bring-it-back
@@ -973,7 +1029,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] FCC To Vote On Plan To Relax Local TV And Radio Ownership Limits
+[32] FCC To Vote On Plan To Relax Local TV And Radio Ownership Limits
 Source: Deadline | Status: expanded | Words: 481
 Published: 2026-11-23T20:00:00+00:00
 URL: https://deadline.com/2026/11/fcc-media-ownership-brendan-carr-1237231829
@@ -1001,7 +1057,7 @@ An FCC official denied that the vote on the proposal had to do with the change i
 When the FCC approved Nexstar's merger with Tegna last March, it granted a waiver to allow the combined company to control more than two stations in a number of markets. That merger, though, is being challenged in court on antitrust grounds, and a judge had granted an injunction that requires that the companies be kept separate. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[31] 4 Incredible Non-Rockstar Games That Influenced GTA 6 and Are Still Worth Playing
+[33] 4 Incredible Non-Rockstar Games That Influenced GTA 6 and Are Still Worth Playing
 Source: ComicBook.com | Status: expanded | Words: 1634
 Published: 2026-11-23T20:00:00+00:00
 URL: https://comicbook.com/gaming/list/4-incredible-non-rockstar-games-that-influenced-gta-6-and-are-still-worth-playing
@@ -1047,7 +1103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] FX's 'Seven Sisters' Drama Series Casts Rodrigo Santoro As Recurring
+[34] FX's 'Seven Sisters' Drama Series Casts Rodrigo Santoro As Recurring
 Source: Deadline | Status: expanded | Words: 281
 Published: 2026-11-23T20:00:00+00:00
 URL: https://deadline.com/2026/11/rodrigo-santoro-seven-sisters-fx-cast-elizabeth-olsen-1237231782
@@ -1069,7 +1125,7 @@ Seven Sisters is executive produced by Arbery, who wrote the pilot, Alex Metcalf
 Santoro is known to U.S. audiences as Hector in HBO&#x2019;s Westworld, for which he shared in an Actors Award (fka SAG Award) ensemble nomination, and Xerxes in 300 . He recently appeared in Gabriel Mascaro&#x2019;s The Blue Trail, which won the Silver Bear Grand Jury Prize at Berlin, and stars in Netflix&#x2019;s upcoming The Pilgrimage, based on the novel by Paulo Coelho. Rodrigo is repped by Verve and Entertainment 360.
 
 ============================================================
-[33] 'Naruto': Hiroyuki Sanada In Final Talks To Join Destin Daniel Cretton's Live-Action Film At Lionsgate/Sony
+[35] 'Naruto': Hiroyuki Sanada In Final Talks To Join Destin Daniel Cretton's Live-Action Film At Lionsgate/Sony
 Source: The Playlist | Status: summary_only | Words: 111
 Published: 2026-11-23T19:51:19+00:00
 URL: https://theplaylist.net/naruto-hiroyuki-sanada-destin-daniel-cretton-lionsgate-sony-20261123
@@ -1081,7 +1137,7 @@ CONTENT / EXTRACTED DETAILS:
 Writer/director Destin Daniel Cretton is slowly putting together the cast of his next feature film effort, a live-action " Naruto " movie at Lionsgate , and they've landed on a veteran Japanese actor who may be one of the more popular action film stars from the region, as they are in final talks to add Hiroyuki Sanada to the lineup. That casting update is stemming from a Deadline report, as it looks like things are heating up with "Naruto," as Sanada is going to be playing the role of Hiruzen Sarutobi. Continue reading 'Naruto': Hiroyuki Sanada In Final Talks To Join Destin Daniel Cretton's Live-Action Film At Lionsgate/Sony at The Playlist.
 
 ============================================================
-[34] ‘Blade Runner 2099’ Review: Michelle Yeoh &#038; Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul
+[36] ‘Blade Runner 2099’ Review: Michelle Yeoh &#038; Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul
 Source: The Playlist | Status: summary_only | Words: 91
 Published: 2026-11-23T19:45:52+00:00
 URL: https://theplaylist.net/blade-runner-2099-review-michelle-yeoh-hunter-schafer-20261123
@@ -1093,7 +1149,7 @@ CONTENT / EXTRACTED DETAILS:
 As a culture, as a whole, we could really stand to make clearer distinctions between what’s a perfect replication or approximation of a piece of art and what is, in fact, good art. Take “ Blade Runner 2099 ,” the new Prime Video series from Silka Luisa , the creator and showrunner behind the absorbing Elisabeth Moss -led sci-fi, time-travel miniseries “ Shining Girls ,” for example. Continue reading ‘Blade Runner 2099’ Review: Michelle Yeoh & Hunter Schafer’s Sci-Fi Series Replicates The Style, But Can’t Capture The Soul at The Playlist.
 
 ============================================================
-[35] 'Percy Jackson and the Olympians': How Season 3 Brings Epic Moments to Life and Deals With Annabeth's Absence in the Books
+[37] 'Percy Jackson and the Olympians': How Season 3 Brings Epic Moments to Life and Deals With Annabeth's Absence in the Books
 Source: The Hollywood Reporter | Status: expanded | Words: 2887
 Published: 2026-11-23T19:43:28+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/percy-jackson-and-the-olympians-season-3-annabeth-thalia-1236746256
@@ -1187,7 +1243,7 @@ This year has seen not only more Percy Jackson but also the box office blockbust
 Percy Jackson and the Olympians is streaming on Disney+ and Hulu.
 
 ============================================================
-[36] DC's Weirdest Hero Was Created by Spider-Man's Co-Creator, and His Forgotten Legacy Is Stranger Than You Think
+[38] DC's Weirdest Hero Was Created by Spider-Man's Co-Creator, and His Forgotten Legacy Is Stranger Than You Think
 Source: ComicBook.com | Status: expanded | Words: 1337
 Published: 2026-11-23T19:41:00+00:00
 URL: https://comicbook.com/comics/feature/dcs-weirdest-hero-was-created-by-spider-mans-co-creator-and-his-forgotten-legacy-is-stranger-than-you-think
@@ -1227,7 +1283,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Jennifer Lopez Just Wore A Necklace So Rare It Needed Its Own Security Detail
+[39] Jennifer Lopez Just Wore A Necklace So Rare It Needed Its Own Security Detail
 Source: CinemaBlend | Status: expanded | Words: 236
 Published: 2026-11-23T19:40:03+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lopez-wore-necklace-so-rare-it-needed-security-detail
@@ -1243,7 +1299,7 @@ Very few people in the world could see an ensemble and jewelry of that caliber a
 The superstar has had quite the 2026. JLo’s rom-com Office Romance was a No. 1 hit on Netflix , her twins graduated high school and headed off to college, and she’s been enjoying the single life . Now, she’s peeling the curtain back to give audiences a glimpse into her Caesars Palace residency in Las Vegas with The JLo Show . The special not only captures her performing some of her iconic hits, but it also chronicles her life, from growing up in the Bronx to becoming who she is today.
 
 ============================================================
-[38] Demon Slayer Studio's Next Big Movie Celebrates Release With New Look Trailer
+[40] Demon Slayer Studio's Next Big Movie Celebrates Release With New Look Trailer
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-23T19:35:00+00:00
 URL: https://comicbook.com/anime/news/demon-slayer-studios-next-big-movie-celebrates-release-with-new-look-trailer
@@ -1269,7 +1325,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Two Of My Favorite Hallmark Actors Are Finally In A Movie Together And I’m Obsessed
+[41] Two Of My Favorite Hallmark Actors Are Finally In A Movie Together And I’m Obsessed
 Source: CinemaBlend | Status: expanded | Words: 275
 Published: 2026-11-23T19:31:11+00:00
 URL: https://www.cinemablend.com/television/hallmark-actors-erin-cahill-andrew-walker-finally-in-movie-together
@@ -1285,7 +1341,7 @@ The residents of Blue Dog Valley aren’t too thrilled about an outsider taking 
 It can be easy for the human actors to get upstaged by their animal co-stars , especially when there are so many different types of animals in a movie (cows, alpacas, and of course dogs in this case), but Cahill and Walker managed to hold things down even in the face of an adorable, overweight corgi. It’s a testament to the chemistry these two have on screen.
 
 ============================================================
-[40] The Dragonborn Could Return in The Elder Scrolls 6, But Not in the Way Players Expect
+[42] The Dragonborn Could Return in The Elder Scrolls 6, But Not in the Way Players Expect
 Source: ComicBook.com | Status: expanded | Words: 844
 Published: 2026-11-23T19:30:00+00:00
 URL: https://comicbook.com/gaming/feature/elder-scrolls-6-dragonborn-return-unexpected-way
@@ -1321,7 +1377,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Vanessa Ferlito, John Carroll Lynch And Ted Levine Join Denzel Washington In New Thriller From Christopher McQuarrie And United Artists
+[43] Vanessa Ferlito, John Carroll Lynch And Ted Levine Join Denzel Washington In New Thriller From Christopher McQuarrie And United Artists
 Source: Deadline | Status: expanded | Words: 462
 Published: 2026-11-23T19:30:00+00:00
 URL: https://deadline.com/2026/11/vanessa-ferlito-john-carroll-lynch-denzel-washington-1237231409
@@ -1345,7 +1401,7 @@ Lynch can currently be seen in the most recent season of Ryan Murphy&#x2019;s Am
 Levine can currently be seen in Netflix's Something Very Bad Is Going to Happen , created by Haley Z. Boston and executive produced by Matt and Ross Duffer. On television, he recently appeared in Apple TV+'s Cape Fear , executive produced by Martin Scorsese and Steven Spielberg. He is best known for his eight critically acclaimed seasons on USA Network's Monk and returned for Peacock's Mr. Monk's Last Case: A Monk Movie . Levine is represented by Kass Management.
 
 ============================================================
-[42] 'The Odyssey' Leads Critics Choice Awards Below-The-Line Shortlists
+[44] 'The Odyssey' Leads Critics Choice Awards Below-The-Line Shortlists
 Source: The Hollywood Reporter | Status: expanded | Words: 1413
 Published: 2026-11-23T19:23:41+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-critics-choice-awards-below-the-line-shortlists-1236761285
@@ -1609,7 +1665,7 @@ Project Hail Mary (Amazon MGM Studios)
 Wildwood (Fathom Entertainment)
 
 ============================================================
-[43] Star Wars: David Fincher Reveals Movie He Pitched to Lucasfilm, And the Two Characters It Followed
+[45] Star Wars: David Fincher Reveals Movie He Pitched to Lucasfilm, And the Two Characters It Followed
 Source: ComicBook.com | Status: expanded | Words: 871
 Published: 2026-11-23T19:20:43+00:00
 URL: https://comicbook.com/movies/news/star-wars-david-fincher-reveals-movie-he-pitched-to-lucasfilm-and-the-two-characters-it-followed
@@ -1641,7 +1697,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Designing a ‘Hunger Games’ Prequel: From Using 600,000 Flowers in the ‘Sunrise on the Reaping’ Arena to Recreating the Capitol in the 1970s
+[46] Designing a ‘Hunger Games’ Prequel: From Using 600,000 Flowers in the ‘Sunrise on the Reaping’ Arena to Recreating the Capitol in the 1970s
 Source: Variety | Status: expanded | Words: 1284
 Published: 2026-11-23T19:15:00+00:00
 URL: https://variety.com/2026/artisans/features/hunger-games-sunrise-reaping-production-designer-arena-flowers-district-12-captiol-1236954255
@@ -1691,7 +1747,7 @@ This motto keeps Hanisch grounded when dealing with such a massive, devoted fan 
 &#x201C;We always think a lot about the fans,&#x201D; Hanisch says. &#x201C;I find it so fascinating how important this is for so many people and how seriously they talk and think about it. It&#x2019;s not really for us. Of course, it&#x2019;s my job, and I love to do that, and it&#x2019;s a fantastic thing to be done, but it is mainly to make the fans happy. And they should be happy.&#x201D;
 
 ============================================================
-[45] Wedding Surprise: Casey Wasserman and Jenny Chandler Reveal Marriage at Friendsgiving-Turned-Reception: "Best. Night. Ever"
+[47] Wedding Surprise: Casey Wasserman and Jenny Chandler Reveal Marriage at Friendsgiving-Turned-Reception: "Best. Night. Ever"
 Source: The Hollywood Reporter | Status: expanded | Words: 473
 Published: 2026-11-23T19:13:55+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/casey-wasserman-jenny-chandler-marriage-wedding-reception-1236761271
@@ -1711,7 +1767,7 @@ The veteran Hollywood mogul, who is steering the ship for the Los Angeles Olympi
 According to the Page Six report, Wasserman announced at the event that they actually wed six months ago but "didn't want a big wedding," adding "this was a great way to share it with our friends," per a spy on the scene. The guest list was reportedly a who's who of Hollywood insiders including former Disney CEO Bob Iger , Jeffrey Katzenberg, Haim Saban, Skydance co-CEO Ynon Kreiz , Netflix global chief content officer Peter Rice , former Warner Bros. film chief Toby Emmerich, producer Jason Blum and Fulwell 73's Ben Winston, among others.
 
 ============================================================
-[46] Disgraced Nepo Baby Max Landis To Be Covered In Episode Of Doc Series 'Hollywood Demons'
+[48] Disgraced Nepo Baby Max Landis To Be Covered In Episode Of Doc Series 'Hollywood Demons'
 Source: The Playlist | Status: summary_only | Words: 157
 Published: 2026-11-23T19:11:13+00:00
 URL: https://theplaylist.net/max-landis-episode-of-hollywood-demons-20261123
@@ -1723,7 +1779,7 @@ CONTENT / EXTRACTED DETAILS:
 There is word that disgraced nepo baby screenwriter and director Max Landis will be featured in the series " Hollywood Demons ." This comes after a slew of allegations of sexual assault and abuse and his eventual fallout/ostracism from the industry, placing his professional career in sort of limbo status as studios that had been in development with him for various projects dropped them like a sack of potatoes. READ MORE: Josh Trank Says He “Banned” Max Landis From ‘Chronicle’ Set As Fallout From Recent Sexual Assault Allegations Ramp Up That tidbit hails from Page Six Hollywood, which says Landis is going to be the subject of a new episode of the true-crime documentary show, which is widely streaming (can be viewed on Apple TV , HBO Max , Hulu , YouTube , and Prime Video ). Continue reading Disgraced Nepo Baby Max Landis To Be Covered In Episode Of Doc Series 'Hollywood Demons' at The Playlist.
 
 ============================================================
-[47] 90 Day Fiancé: The Other Way Claimed Ally’s Parents Refused To Film After Pregnancy Reveal, But Not So Fast
+[49] 90 Day Fiancé: The Other Way Claimed Ally’s Parents Refused To Film After Pregnancy Reveal, But Not So Fast
 Source: CinemaBlend | Status: expanded | Words: 231
 Published: 2026-11-23T19:05:23+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-the-other-way-claimed-allys-parents-refused-to-film-pregnancy-reveal-not-so-fast
@@ -1743,7 +1799,7 @@ The new information presents conflicting accounts of what happened with Jonathan
 This is what always happens when these conflicting stories crop up. Now I'm questioning everything that we've seen in Jonathan and Ally's storyline, and wondering what's real and what wasn't. Are the parents even telling the truth? Is anyone telling the truth?
 
 ============================================================
-[48] Netflix's One Piece Anime Remake Shares New Look Ahead of 2027 Debut
+[50] Netflix's One Piece Anime Remake Shares New Look Ahead of 2027 Debut
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-23T19:05:00+00:00
 URL: https://comicbook.com/anime/news/netflixs-one-piece-anime-remake-shares-new-look-ahead-of-2027-debut
@@ -1771,64 +1827,4 @@ Are you excited for the highly anticipated One Piece remake? Which favorite mome
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] Imax To Screen Super Bowl In Deal With Disney, NFL
-Source: Deadline | Status: expanded | Words: 534
-Published: 2026-11-23T19:00:00+00:00
-URL: https://deadline.com/2026/11/imax-screening-super-bowl-lxi-disney-espn-nfl-1237231653
-------------------------------------------------------------
-SUMMARY:
-Imax, ESPN, Disney and the National Football League have reached a partnership to bring the Super Bowl to the giant screen for the first time, giving fans “a new, larger-than-life way to experience America’s biggest sporting event.” The game, set for Feb. 14, is the first Super Bowl in ESPN’s 47-year history. The partners plan […]
-
-CONTENT / EXTRACTED DETAILS:
-Imax , ESPN, Disney and the National Football League have reached a partnership to bring the Super Bowl to the giant screen for the first time, giving fans &#x201C;a new, larger-than-life way to experience America&#x2019;s biggest sporting event.&#x201D;
-
-The game, set for Feb. 14, is the first Super Bowl in ESPN&#x2019;s 47-year history. The partners plan to present it across hundreds of Imax locations in the U.S. and select international markets including Australia, New Zealand and Brazil. It will mark Imax&#x2019;s largest live event.
-
-The specific theater count hasn't yet been finalized. Related Stories Obituaries Tom Jackson Dies: Broncos Alum & ESPN Hall Of Fame Broadcaster Was 75 News Imax Inks Largest UK Deal With Cinema Chain Acquired By Former Cineworld CEO Mooky Greidinger
-
-&#x201C;Watching the Super Bowl with your fellow fans is one of the great shared experiences in sports, and this first-of-its-kind collaboration with the NFL and IMAX takes it to a historic new scale,&#x201D; said Ken Potrock, Disney&#x2019;s President, Major Event Integration. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-&#x201C;The Super Bowl is a one-of-a-kind global cultural event imbued with spectacle, sound, drama, and heroes &#x2014; all the makings of a great IMAX experience,&#x201D; said Rich Gelfond, CEO of the big screen exhibitor, calling it a milestone for the company.
-
-Potrock noted that Super Bowl LXI is "reaching fans across an unprecedented range of platforms and meeting them wherever they want to be," with Imax adding the communal experience of movie theaters to ESPN, ABC, Disney+ and Univision.
-
-In fact, the wide availability of the top-rated telecast has irked local ABC affiliates even before this latest partnership. With Disney+ and ESPN's streaming service carrying the game, along with numerous alternative telecasts on ESPN, the core ABC broadcast risks getting overshadowed, as the stations see it.
-
-The one-day only event will begin at 6 pm ET and feature ESPN&#x2019;s main Super Bowl LXI game, the Apple Music Halftime Show headlined by Jay-Z, and pregame and postgame coverage in a presentation of more than four hours.
-
-ESPN&#x2019;s Monday Night Football broadcast team of Joe Buck, Troy Aikman, Lisa Salters and Laura Rutledge will call the game. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-ESPN&#x2019;s presentation plans for the game include previously announced viewing options including Super Bowl LXI with Peyton and Eli (ESPN2), Super Bowl LXI Field Pass with The Pat McAfee Show (ESPNU), Super Bowl LXI Playbook with Next Gen Stats (NFL Network), and the first-ever Star Wars Funday Football animated telecast (Disney+, ESPN App, Disney Channel and Disney XD).
-
-A promotional spot and materials supporting the theatrical event will start to roll out this week. Tickets are expected to go on sale in January 2027.
-
-Dade Hayes contributed to this report
-
-============================================================
-[50] 'Sheriff Country' Wrangles Best 7-Day Audience Yet, Leading CBS To Big Ratings Week
-Source: Deadline | Status: expanded | Words: 552
-Published: 2026-11-23T19:00:00+00:00
-URL: https://deadline.com/2026/11/sheriff-country-ratings-high-november-cbs-1237231649
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: Nothing can stop CBS audiences from finding their favorite shows, not even a little programming switch-up during the midterm elections. The network saw series highs for both Sheriff Country and Cupertino in early November, up around 4% year-over-year for the fifth week of the broadcast season (November 2 to 8) with an average of […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE: Nothing can stop CBS audiences from finding their favorite shows, not even a little programming switch-up during the midterm elections.
-
-The network saw series highs for both Sheriff Country and Cupertino in early November, up around 4% year-over-year for the fifth week of the broadcast season (November 2 to 8) with an average of 7.66 million viewers after seven days of multiplatform viewing, per Nielsen Big Data + Panel.
-
-CBS had eleven of the top 20 network series with Sheriff Country leading the pack at 11 million viewers. Not only was that the No. 1 series of the week, it was a 27% increase from a year ago. Sheriff Country has managed to sustain plenty of momentum since it premiered last year. Season 1 grew for six straight weeks and ended with a series high, and then the Season 2 premiere set another audience record that has since been broken three more times. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Christina Aguilera: Christmas In Paris' Producer Vertigo Live Faces Closure Over Unpaid Tax Bill News 'From' Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix
-
-The second most popular linear series of the week was in the same family: Fire Country was up 46% year-over-year with 10.3 million viewers. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Cupertino got two original episodes during this interval, the second of which aired on Sunday, November 8, in order to bring exposure to the new series and prepare audience for when it takes over Sunday nights full time in the spring to make room on Thursdays for Matlock . Sunday's episode, which followed 60 Minutes , managed 8.3 million viewers in seven days, up 67% from its live + same-day audience of 4.9 million. That's after Thursday night's episode averaged 7.4 million viewers.
-
-Speaking of Thursdays, that lineup is going strong as well. Georgie & Mandy's First Marriage averaged 9 million viewers in seven days, up 6% from the equivalent episode last season. Eternally Yours took 6.2 million viewers (a 74% lift from its L+SD audience) and Elsbeth grew 111% from its L+SD viewership to 7.4 million.
-
-This was a unique week for CBS. The network's top two shows, Marshals and Tracker , took a week off and the entire Tuesday NCIS lineup was pre-empted with election coverage. That makes it all the more impressive that CBS is still able to pull off so many Top 20 shows and suggests that audiences are willing to hunt them down to find them. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Other highlights include Survivor and Amazing Race , up 16% and 17%, respectively, over the equivalent episode last season. Also, the week seems to have started out on the right foot with FBI raking in 8.8 million viewers, a 19% increase from a year ago.
 
