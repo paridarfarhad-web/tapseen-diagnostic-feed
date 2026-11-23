@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T14:37:27.750Z"
+    "updated_at": "2026-11-23T14:41:33.851Z"
   },
   "articles": [
+    {
+      "id": "141d1672-a758-4db0-ab23-43152aa3df7e",
+      "title": "‘Heat 2’: Adam Driver Praises Michael Mann’s “Relentless” Tenacity, Says The Director “Didn’t Make Money” On ‘Ferrari’",
+      "summary": "Michael Mann is not a filmmaker who lets obstacles, financial considerations, or even an unexpected injury get in the way of making a movie. Just ask Adam Driver , who worked with the director on 2023’s “ Ferrari ” and is preparing to reunite with him for the long-awaited “ Heat 2 .” According to Driver, Mann’s determination borders on the extraordinary, even at considerable personal expense. Continue reading ‘Heat 2’: Adam Driver Praises Michael Mann’s “Relentless” Tenacity, Says The Director “Didn’t Make Money” On ‘Ferrari’ at The Playlist.",
+      "content": "Michael Mann is not a filmmaker who lets obstacles, financial considerations, or even an unexpected injury get in the way of making a movie. Just ask Adam Driver , who worked with the director on 2023’s “ Ferrari ” and is preparing to reunite with him for the long-awaited “ Heat 2 .” According to Driver, Mann’s determination borders on the extraordinary, even at considerable personal expense. Continue reading ‘Heat 2’: Adam Driver Praises Michael Mann’s “Relentless” Tenacity, Says The Director “Didn’t Make Money” On ‘Ferrari’ at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/adam-driver-michael-mann-heat-2-ferrari-tenacity-20261123",
+      "published_at": "2026-11-23T14:39:33+00:00",
+      "image_url": "https://www.youtube.com/embed/krdNVbpjDhM",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 89,
+      "extracted_at": "2026-11-23T14:41:17.24071+00:00",
+      "updated_at": "2026-11-23T14:41:17.24071+00:00"
+    },
     {
       "id": "cfe940f6-cdfb-470d-8832-0b17335e099b",
       "title": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
@@ -742,21 +757,6 @@
       "word_count": 662,
       "extracted_at": "2026-11-23T11:21:02.923017+00:00",
       "updated_at": "2026-11-23T11:21:02.923017+00:00"
-    },
-    {
-      "id": "ea3c4e8c-eb21-456c-8a51-4899128e87c4",
-      "title": "Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar",
-      "summary": "Sony Pictures Networks India (SPNI) and the India's National Film Development Corporation (NFDC) have signed a memorandum of understanding at WAVES Film Bazaar in Goa to launch the WAVES Bazaar × SPNI Content Creator Submission Initiative, a pitch program for original fiction and non-fiction concepts in five languages. SPNI is the Indian arm of Sony […]",
-      "content": "Sony Pictures Networks India (SPNI) and the India's National Film Development Corporation ( NFDC ) have signed a memorandum of understanding at WAVES Film Bazaar in Goa to launch the WAVES Bazaar &#xD7; SPNI Content Creator Submission Initiative, a pitch program for original fiction and non-fiction concepts in five languages.\n\nSPNI is the Indian arm of Sony Pictures Entertainment and runs the Sony Entertainment Television channel network and streaming service SonyLIV. NFDC is the Indian government's film body and organizes WAVES Film Bazaar, the market that runs alongside the ongoing 57th International Film Festival of India (IFFI). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Jennifer Lopez Wears 186-Carat Diamond Necklace to 'JLo Show' Premiere: 'There's Security All Around' Prime Video, RTP Take Portuguese Rights to ‘Gisberta,’ Leonel Vieira’s True-Crime Docuseries\n\nThe initiative will invite India-based writers, creators and production houses to pitch concepts in Hindi, English, Tamil, Telugu and Bangla. Submissions can span fiction series, premium TV+ content, reality shows, game and competition formats, talent-based programs and other unscripted concepts.\n\nNFDC will manage applications through the WAVES Bazaar portal and shortlist entries. Selected applicants will be invited to pitch their concepts to SPNI for consideration and potential development. The partners hope to widen access to the industry, particularly for creators from regional markets.\n\nNFDC chair G. Krishnakumar said the initiative reflected the spirit of IFFI's theme, \"Stories Without Borders,\" celebrating \"the diversity of films and voices\" that brings cultures and creative communities together.\n\n\"This collaboration with Sony Pictures Networks India opens up new avenues for writers, creators and production houses to present original concepts across languages and formats,\" said NFDC managing director Dhiraj Singh. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nSPNI managing director and CEO Gaurav Banerjee said the partnership would help bring forward talent that might otherwise remain outside established platforms. \"We look forward to discovering fresh perspectives and compelling ideas for audiences,\" he added.",
-      "source": "Variety",
-      "source_url": "https://variety.com/2026/film/markets-festivals/sony-nfdc-five-language-creator-pitch-waves-film-bazaar-1236955743",
-      "published_at": "2026-11-23T11:19:23+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2026/11/Sony-MoU.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 347,
-      "extracted_at": "2026-11-23T11:21:06.625199+00:00",
-      "updated_at": "2026-11-23T11:21:06.625199+00:00"
     }
   ]
 }
