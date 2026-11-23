@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T23:13:58.160Z
+Last Updated: 2026-11-23T23:28:00.275Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Ray Gunn's Brad Bird Reveals the Biggest Film Noir Influence on New Netflix Movie [EXCLUSIVE]
+[1] 'Daredevil's Charlie Cox Wanted To Audition For James Bond But Was Told He Was "Too Old": "But Robert Pattinson Is The Same Age As Me!"
+Source: Deadline | Status: expanded | Words: 396
+Published: 2026-11-23T23:26:34+00:00
+URL: https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024
+------------------------------------------------------------
+SUMMARY:
+Charlie Cox wanted the opportunity to audition for the role of James Bond in the upcoming Denis Villeneuve-directed film. However, the Daredevil actor was told he was "too old" to play the 007 agent. Amazon MGM Studios ultimately cast Robert Pattinson in the iconic role. "Can I say something? I asked to audition for that," […]
+
+CONTENT / EXTRACTED DETAILS:
+Charlie Cox wanted the opportunity to audition for the role of James Bond in the upcoming Denis Villeneuve-directed film.
+
+However, the Daredevil actor was told he was "too old" to play the 007 agent. Amazon MGM Studios ultimately cast Robert Pattinson in the iconic role.
+
+"Can I say something? I asked to audition for that," said in an interview with Virgin Radio UK. "Do you know what they told me? 'Too old.' But Rob is the same age as me! He does look good for it, I have to be fair. Next [month] I am going to be 44&#x2026; how is 44 too old?" Related Stories News 'Real Time': Bill Maher Jokes 'GTA VI' Has Caused "More Workplace Absences Than ICE," Notes He's Glad James Bond Cast "Very Heterosexual Male" News International Insider: Pattinson Becomes Bond; SkyShowtime Shutting Down; The Brit List
+
+Pattinson turned 40 this year, while Cox is turning 44 in December. Other names who reportedly tested for the role included Jack Lowden, Josh O'Connor, Callum Turner and Nicholas Hoult. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+"I thought it was going to be Jack Lowden or maybe Callum Turner," Cox said. "What an amazing career [Pattinson] has carved out. Some of the stuff that guy has done&#x2026; worked with directors who have gone on to be huge, huge auteurs, but when he worked with them, it was their first film or stuff."
+
+After Amazon MGM Studios announced Pattinson would take on the James Bond role, the Dune: Part Three actor said, "James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime. I'm deeply grateful to Denis, Amy, David, Tanya, and everyone at Amazon MGM Studios for their belief in me. To say this role is a dream come true is an understatement. I couldn&#x2019;t be more excited about this partnership and the work ahead with this fantastic team."
+
+Watch Cox's interview in the video below.
+
+============================================================
+[2] Ray Gunn's Brad Bird Reveals the Biggest Film Noir Influence on New Netflix Movie [EXCLUSIVE]
 Source: ComicBook.com | Status: expanded | Words: 559
 Published: 2026-11-23T23:12:59+00:00
 URL: https://comicbook.com/movies/news/ray-gunns-brad-bird-reveals-the-biggest-film-noir-influence-on-new-netflix-movie-exclusive
@@ -29,7 +53,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Buffy Once Made a Thanksgiving Episode That Was Much More Controversial Than Fans Remember
+[3] Buffy Once Made a Thanksgiving Episode That Was Much More Controversial Than Fans Remember
 Source: ComicBook.com | Status: expanded | Words: 763
 Published: 2026-11-23T23:12:00+00:00
 URL: https://comicbook.com/tv-shows/feature/buffy-once-made-a-thanksgiving-episode-that-was-much-more-controversial-than-fans-remember
@@ -57,7 +81,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] The Center of the News Universe Has Shifted to CNBC
+[4] The Center of the News Universe Has Shifted to CNBC
 Source: The Hollywood Reporter | Status: expanded | Words: 925
 Published: 2026-11-23T23:06:58+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/cnbc-gains-nvidia-jensen-huang-news-trump-call-1236761408
@@ -99,7 +123,7 @@ The CNBC boom also comes at a good time for the news brand, which is set to laun
 "I think that what you'll see when we roll out our direct-to-consumer product early next year is that we're doubling down on that to deliver for the audience where and how they want it, making CNBC more useful and making CNBC easier to interact with and more rich for the consumer where and how they want it, but all built off of the same tenets that you saw today or over the last few weeks."
 
 ============================================================
-[4] Greg Hovanessian &#038; Lindsey Normington To Lead Psychological Thriller 'Nightwaves'
+[5] Greg Hovanessian &#038; Lindsey Normington To Lead Psychological Thriller 'Nightwaves'
 Source: Deadline | Status: expanded | Words: 550
 Published: 2026-11-23T23:06:23+00:00
 URL: https://deadline.com/2026/11/greg-hovanessian-lindsey-normington-cast-nightwaves-1237231971
@@ -127,7 +151,7 @@ Nightwaves expands Obscura Film&#x2019;s growing slate of independently produced
 Hovanessian is repped by Robert Stein Management and Clear Talent Group. Normington is repped by Innovative Artists and Authentic Talent & Literary Management. Coffey is repped by Industry Entertainment and Pakula/ King.
 
 ============================================================
-[5] 3 Anime to Watch If You Love Sword Art Online
+[6] 3 Anime to Watch If You Love Sword Art Online
 Source: ComicBook.com | Status: expanded | Words: 831
 Published: 2026-11-23T23:05:00+00:00
 URL: https://comicbook.com/anime/list/3-anime-to-watch-if-you-love-sword-art-online
@@ -159,7 +183,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Marvel’s ‘Avengers: Doomsday’ Won’t Screen for BAFTA, Golden Globes and Other Early Awards Groups to Guard Its Spoilers (EXCLUSIVE)
+[7] Marvel’s ‘Avengers: Doomsday’ Won’t Screen for BAFTA, Golden Globes and Other Early Awards Groups to Guard Its Spoilers (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 1417
 Published: 2026-11-23T23:03:55+00:00
 URL: https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302
@@ -215,7 +239,7 @@ Alongside Downey, Chris Evans returns as Steve Rogers/Captain America, joining C
 The film also marks a major crossover with Fox&#x2019;s &#x201C;X-Men&#x201D; universe, bringing back Patrick Stewart as Professor Charles Xavier, Ian McKellen as Magneto, James Marsden as Cyclops, Kelsey Grammer as Beast, Rebecca Romijn as Mystique, Alan Cumming as Nightcrawler and Channing Tatum as Gambit.
 
 ============================================================
-[7] Where to Find GTA 6’s Portal to PS2-Era Vice City &#038; What You Can Do There
+[8] Where to Find GTA 6’s Portal to PS2-Era Vice City &#038; What You Can Do There
 Source: ComicBook.com | Status: expanded | Words: 1052
 Published: 2026-11-23T22:50:21+00:00
 URL: https://comicbook.com/gaming/news/where-to-find-gta-6s-portal-to-ps2-era-vice-city-what-you-can-do-there
@@ -251,7 +275,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Marvel's Doomsday Countdown Just Got Bigger With Real-World MCU Locations Getting Upgraded
+[9] Marvel's Doomsday Countdown Just Got Bigger With Real-World MCU Locations Getting Upgraded
 Source: ComicBook.com | Status: expanded | Words: 592
 Published: 2026-11-23T22:41:11+00:00
 URL: https://comicbook.com/movies/news/marvels-doomsday-countdown-just-got-bigger-with-real-world-mcu-locations-getting-upgraded
@@ -281,7 +305,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Audible Subscriptions Drop to $1 Per Month for Black Friday
+[10] Audible Subscriptions Drop to $1 Per Month for Black Friday
 Source: The Hollywood Reporter | Status: expanded | Words: 313
 Published: 2026-11-23T22:37:27+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/audible-black-friday-deal-2026-promotion-subscription-sale-1236761472
@@ -303,7 +327,7 @@ Claim Audible&#x2019;s special offer now via Amazon . Following sign up, your $2
 Related: The Paramount+ Black Friday Deal Gets You Two Months for Less Than a Latte
 
 ============================================================
-[10] Adam Driver: 'No One Was Paying Us' to Develop 'The Hunt for Ben Solo' and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It
+[11] Adam Driver: 'No One Was Paying Us' to Develop 'The Hunt for Ben Solo' and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It
 Source: Variety | Status: expanded | Words: 864
 Published: 2026-11-23T22:35:53+00:00
 URL: https://variety.com/2026/film/news/adam-driver-never-paid-hunt-for-ben-solo-development-star-wars-1236955936
@@ -337,7 +361,7 @@ Kathleen Kennedy expressed her own frustration with Disney pulling the plug on t
 Watch Driver's full interview on the "Talk Easy" podcast in the video below.
 
 ============================================================
-[11] David Greaves Says 'Once Upon a Time in Harlem' Is "An Act of Resistance" Against Efforts to Erase Black History
+[12] David Greaves Says 'Once Upon a Time in Harlem' Is "An Act of Resistance" Against Efforts to Erase Black History
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-23T22:33:06+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/david-greaves-once-upon-a-time-in-harlem-scad-savannah-film-festival-1236760375
@@ -353,7 +377,7 @@ David Greaves has been proven correct by the tremendous reception of that docume
 The fact that it took more than a half-century for the film to come to fruition was largely the result of the perfectionist tendencies of William and his second wife, Louise, David's stepmother, who died in 2023. "They had continued shooting on through the decades," further tracing the history of the Harlem Renaissance, David reports. While he's sorry that his father and stepmother weren't able to see the enthusiastic response to the film from audiences of all ages and races, he also feels that it all happened for a reason: "I think that this film was made to come out now , at a very important time in American history, when [some in positions of power] want to erase Black history," he asserted. "This film is sort of an act of resistance against that."
 
 ============================================================
-[12] Brandi Passante Reflects On Losing Storage Wars’ Darrell Sheets: ‘It Definitely Changed The Dynamic’
+[13] Brandi Passante Reflects On Losing Storage Wars’ Darrell Sheets: ‘It Definitely Changed The Dynamic’
 Source: CinemaBlend | Status: expanded | Words: 206
 Published: 2026-11-23T22:31:00+00:00
 URL: https://www.cinemablend.com/television/brandi-passante-reflects-losing-storage-wars-darrell-sheets-it-definitely-changed-the-dynamic
@@ -373,7 +397,7 @@ Anyone who has lost a loved one to suicide knows how Passante feels. It can feel
 Ultimately, Passante summed it up quite succinctly by saying simply, “It sucks.”
 
 ============================================================
-[13] 'Hunger Games: Sunrise On The Reaping' Heading To Potential Franchise-Record Monday With $12M
+[14] 'Hunger Games: Sunrise On The Reaping' Heading To Potential Franchise-Record Monday With $12M
 Source: Deadline | Status: expanded | Words: 410
 Published: 2026-11-23T22:29:58+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975
@@ -395,7 +419,7 @@ Sunrise on the Reaping came in a little lighter than the $120M forecasted with $
 Sunrise on the Reaping posted a $55.6M Friday (versus $56M reported yesterday, which included $21M previews), Saturday of $36.1M (versus $36.3M) and Sunday of $27.5M (versus $27.3M). The running cume through four days on the Joseph Zada, Mckenna Grace, Elle Fanning, Jesse Plemons, Ralph Fiennes and Kieran Culkin ensemble.
 
 ============================================================
-[14] Music Industry Moves: Gram Parsons Estate Signs With Peermusic; Roger Miller Posthumously Inducted Into Songwriters Hall of Fame
+[15] Music Industry Moves: Gram Parsons Estate Signs With Peermusic; Roger Miller Posthumously Inducted Into Songwriters Hall of Fame
 Source: Variety | Status: expanded | Words: 1320
 Published: 2026-11-23T22:20:13+00:00
 URL: https://variety.com/2026/music/news/gram-parsons-estate-signs-with-peermusic-1236956337
@@ -435,7 +459,7 @@ Holguin said: &#x201C;Artists are at the heart of how we&#x2019;re building this
 The announcement states, &#x201C;Through an approach the founders call culture architecture, the firm identifies what makes a client culturally meaningful, builds the narrative around it, and develops the content systems and audience-growth strategies that create the conditions for scale. As fractional executives, Wilson and Lynch work with clients on a project, fractional, or advisory basis, providing senior-level leadership without requiring them to build an entire department.&#x201D; Wilson was previously with Nettwerk Music Group, while Lynch held roles at RCA Records, and Tommy Hilfiger.
 
 ============================================================
-[15] 'Love Island' Winner Bryce Alakai Is Going All-In on His Music Career
+[16] 'Love Island' Winner Bryce Alakai Is Going All-In on His Music Career
 Source: The Hollywood Reporter | Status: expanded | Words: 1238
 Published: 2026-11-23T22:19:35+00:00
 URL: https://www.hollywoodreporter.com/music/music-features/love-island-winner-bryce-alakai-conscious-single-1236761462
@@ -481,7 +505,7 @@ I imagine she's also quite busy.
 Today, I have two sessions after this call and then she has an interview and then another thing and then shooting a video. We come back at night. All this shit just happened. It's just a balancing thing on both of us, and we're figuring it out. But with how busy we both are, it definitely doesn't make it easier. I think our communication is so good that we figure it out.
 
 ============================================================
-[16] Chuck Lorre, 'Grey’s Anatomy' EP Zoanne Clack, 'A Different World' Boss Felicia Pride Join Lineup for SIE Society's Impact+Profit26 (Exclusive)
+[17] Chuck Lorre, 'Grey’s Anatomy' EP Zoanne Clack, 'A Different World' Boss Felicia Pride Join Lineup for SIE Society's Impact+Profit26 (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 736
 Published: 2026-11-23T22:14:44+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/sie-society-impact-profit-2026-lineup-chuck-lorre-1236761530
@@ -519,7 +543,7 @@ Regular tickets are $375 and student tickets are $150 (valid enrollment required
 The SIE Society is a global community of nearly 1,800 entertainment, corporateand nonprofit professionals, from all storytelling media platforms, who are working at the intersection of storytelling and social change. The SIE Society works to support collaboration and measurable impact across industries through curated programming, thought leadership and year-round engagement.
 
 ============================================================
-[17] Tom Cullen and Joe Locke's Mystery Thriller ‘Black Church Bay’ Sells to Strand Releasing for North America (EXCLUSIVE)
+[18] Tom Cullen and Joe Locke's Mystery Thriller ‘Black Church Bay’ Sells to Strand Releasing for North America (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 587
 Published: 2026-11-23T22:12:17+00:00
 URL: https://variety.com/2026/film/global/tom-cullen-joe-lockes-thriller-black-church-bay-north-america-1236956290
@@ -557,7 +581,7 @@ The film was developed with BBC Film, iFeatures and the Cannes Film Festival&#x2
 Strand Releasing's current slate includes Gregg Araki&#x2019;s 4K restoration of &#x201C;Mysterious Skin&#x201D; and David Pablos&#x2019; &#x201C;On the Road,&#x201D; which represents Mexico in the Oscar race.
 
 ============================================================
-[18] As Abbott Elementary Fans Hope For Janine And Gregory’s Engagement At Disneyland, I Have A Question
+[19] As Abbott Elementary Fans Hope For Janine And Gregory’s Engagement At Disneyland, I Have A Question
 Source: CinemaBlend | Status: expanded | Words: 406
 Published: 2026-11-23T22:06:00+00:00
 URL: https://www.cinemablend.com/television/abbott-elementary-fans-hope-janine-and-gregorys-engagement-disneyland-ava-oshon-question
@@ -577,7 +601,7 @@ Of course, I’m not saying anyone needs to be jumping the broom by the end of t
 Gregory has been trying to orchestrate the right moment to present Janine with a ring. During the show’s latest episode, “Competition,” he attempted to land a reservation at a popular Italian restaurant, where he could propose. Ironically, that plan became moot once Abbott’s Step Team punched their ticket to Disneyland, and Janine informed her man that they’d serve as chaperones on the trip. So it now seems like a given that Gregory will attempt to propose while he and his lady are in “The Happiest Place On Earth.”
 
 ============================================================
-[19] Skydance Buyouts Impact CBS Stations; Local Chicago Anchor Among Those Departing
+[20] Skydance Buyouts Impact CBS Stations; Local Chicago Anchor Among Those Departing
 Source: Deadline | Status: expanded | Words: 517
 Published: 2026-11-23T22:04:44+00:00
 URL: https://deadline.com/2026/11/cbs-buyouts-local-stations-skydance-1237231967
@@ -609,7 +633,7 @@ At CBS News, those taking the buyouts included staffers in the London bureau, as
 Skydance is looking to trim $6 billion in costs across the company in the aftermath of its acquisition of Warner Bros. Discovery. The merger has put CBS News and CNN under the same corporate owner.
 
 ============================================================
-[20] Steven Spielberg's Western Officially Revealed, And 4 Other Oscar Winners Are Confirmed Too
+[21] Steven Spielberg's Western Officially Revealed, And 4 Other Oscar Winners Are Confirmed Too
 Source: ComicBook.com | Status: expanded | Words: 489
 Published: 2026-11-23T22:03:40+00:00
 URL: https://comicbook.com/movies/news/steven-spielbergs-western-officially-revealed-and-4-other-oscar-winners-are-confirmed-too
@@ -633,7 +657,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] 4 DC Cartoons That Deserve a A Reboot, Including a Forgotten Batman Series
+[22] 4 DC Cartoons That Deserve a A Reboot, Including a Forgotten Batman Series
 Source: ComicBook.com | Status: expanded | Words: 1328
 Published: 2026-11-23T21:56:00+00:00
 URL: https://comicbook.com/tv-shows/list/4-dc-cartoons-that-deserve-a-a-reboot-including-a-forgotten-batman-series
@@ -669,7 +693,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] PS1 Exclusive Game Stealth Released on PS5 and Switch 2 After 31 Years
+[23] PS1 Exclusive Game Stealth Released on PS5 and Switch 2 After 31 Years
 Source: ComicBook.com | Status: expanded | Words: 510
 Published: 2026-11-23T21:54:08+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-1-exclusive-game-released-ps5-nintendo-switch-2
@@ -695,7 +719,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] ‘Tender Loving Care’ Trailer: Mike Leigh’s Likely Final Film Explores The Challenges Of Aging, Family &#038; Compassion
+[24] ‘Tender Loving Care’ Trailer: Mike Leigh’s Likely Final Film Explores The Challenges Of Aging, Family &#038; Compassion
 Source: The Playlist | Status: summary_only | Words: 135
 Published: 2026-11-23T21:52:06+00:00
 URL: https://theplaylist.net/tender-loving-care-trailer-mike-leigh-final-film-20261123
@@ -707,7 +731,7 @@ CONTENT / EXTRACTED DETAILS:
 At 83, legendary British filmmaker Mike Leigh may be preparing to say goodbye to cinema. Following 2024’s acclaimed “ Hard Truths ,” the director returns with “ Tender Loving Care ,” a characteristically humane drama about family, friendship, aging, and Britain’s strained social care system. Bleecker Street has unveiled the newest trailer for the film, which Leigh has suggested will very likely be his last. READ MORE: ‘Tender Loving Care’ Review: Kate O’Flynn Sparks In Mike Leigh’s Sublime Family Drama [Telluride] Set in post-Brexit England, the film stars Kate O’Flynn as Amy, a child protection worker who moves in with her longtime friend Rosie ( Alice Bailey Johnson ) following a difficult breakup. Continue reading ‘Tender Loving Care’ Trailer: Mike Leigh’s Likely Final Film Explores The Challenges Of Aging, Family & Compassion at The Playlist.
 
 ============================================================
-[24] New Xbox Report Claims the Brand Has Considered Ditching One of Its Most Divisive Features With Project Helix
+[25] New Xbox Report Claims the Brand Has Considered Ditching One of Its Most Divisive Features With Project Helix
 Source: ComicBook.com | Status: expanded | Words: 536
 Published: 2026-11-23T21:50:55+00:00
 URL: https://comicbook.com/gaming/news/xbox-project-helix-console-paid-multiplayer-report
@@ -731,7 +755,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Everyone Knows Ted Kord and Jaime Reyes, but the Original Blue Beetle Was a Whole Different Kind of Hero
+[26] Everyone Knows Ted Kord and Jaime Reyes, but the Original Blue Beetle Was a Whole Different Kind of Hero
 Source: ComicBook.com | Status: expanded | Words: 988
 Published: 2026-11-23T21:49:00+00:00
 URL: https://comicbook.com/comics/feature/everyone-knows-ted-kord-and-jaime-reyes-but-the-original-blue-beetle-was-a-whole-different-kind-of-hero
@@ -763,7 +787,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Avatar: Seven Havens Producer Addresses Divisive Changes to Art Style &#038; Animation
+[27] Avatar: Seven Havens Producer Addresses Divisive Changes to Art Style &#038; Animation
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-23T21:35:00+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-producer-addresses-divisive-changes-to-art-style-animation
@@ -789,7 +813,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Disneyland’s Fantasmic Once Again Went Up In Flames, And I’m Starting To Worry About The Show’s Future
+[28] Disneyland’s Fantasmic Once Again Went Up In Flames, And I’m Starting To Worry About The Show’s Future
 Source: CinemaBlend | Status: expanded | Words: 331
 Published: 2026-11-23T21:31:00+00:00
 URL: https://www.cinemablend.com/theme-parks/disneyland-fantasmic-went-up-in-flames-again-worry-shows-future
@@ -807,7 +831,7 @@ The last two minutes of the show were canceled, and guests were asked to vacate 
 Two fiery incidents are definitely a cause for concern, and with Disneyland executives’ history of scaling back entertainment to cut costs, I can’t help but worry about the show’s fate. After all, Fantasmic boasts a large cast of incredible performers and several floating units. Plus water screens, projectors, and fireworks. I’m no expert, but I’m willing to bet it’s one of the most costly attractions at Disneyland. Not to mention, the show is still feeling the loss of the Maleficent Dragon, which makes the battle between Mickey and Maleficent lackluster.
 
 ============================================================
-[28] GTA 6 Is a Reminder That Open-World Games Should Give Players More Freedom to Complete Missions
+[29] GTA 6 Is a Reminder That Open-World Games Should Give Players More Freedom to Complete Missions
 Source: ComicBook.com | Status: expanded | Words: 933
 Published: 2026-11-23T21:30:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-is-a-reminder-that-open-world-games-should-give-players-more-freedom-to-complete-missions
@@ -839,7 +863,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] How Becoming A Mom Is Already Affecting Hailee Steinfeld Picking New Movie Roles
+[30] How Becoming A Mom Is Already Affecting Hailee Steinfeld Picking New Movie Roles
 Source: CinemaBlend | Status: expanded | Words: 305
 Published: 2026-11-23T21:26:41+00:00
 URL: https://www.cinemablend.com/movies/hailee-steinfeld-becoming-mom-affecting-picking-movie-roles-hexed-avengers-doomsday
@@ -857,7 +881,7 @@ Steinfeld’s latest movie is Walt Disney Animation’s latest, Hexed , which is
 Outside of her latest role, Steinfeld is confirmed to reprise her role as Kate Bishop in Avengers: Doomsday , hitting theaters on December 18. Then we’ll hear her voice again as Gwen Stacy/Spider-Gwen in Spider-Man: Beyond the Spider-Verse coming out on June 18. We’re so curious what’s next for Steinfeld in her new mom era! For now, she’s staying booked and busy even as she enjoys some much-deserved time off with her baby daughter, Harper Haize Allen.
 
 ============================================================
-[30] Even Sienna Miller Was Surprised by That 'War' Ending
+[31] Even Sienna Miller Was Surprised by That 'War' Ending
 Source: The Hollywood Reporter | Status: expanded | Words: 3480
 Published: 2026-11-23T21:25:44+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/war-finale-sienna-miller-tabloid-culture-interview-1236761361
@@ -949,7 +973,7 @@ Unless she was even more awful than Carla?
 All episodes of War are now streaming on HBO Max in the U.S. and Sky NOW in the U.K.
 
 ============================================================
-[31] Dakota Johnson to Star and Produce Relationship Dramedy 'Tell Me Everything' for Lionsgate
+[32] Dakota Johnson to Star and Produce Relationship Dramedy 'Tell Me Everything' for Lionsgate
 Source: Variety | Status: expanded | Words: 238
 Published: 2026-11-23T21:20:35+00:00
 URL: https://variety.com/2026/film/news/dakota-johnson-tell-me-everything-lionsgate-spec-sale-1236956258
@@ -973,7 +997,7 @@ The deals were negotiated by Dan Freedman on behalf of the studio. Chelsea Kujaw
 Deadline first reported news of the upcoming project.
 
 ============================================================
-[32] Danny Boyle on 'Ink' and Murdoch, the 'Trainspotting' Toilet Scene and How 'Slumdog Millionaire' Almost Went Straight to Video
+[33] Danny Boyle on 'Ink' and Murdoch, the 'Trainspotting' Toilet Scene and How 'Slumdog Millionaire' Almost Went Straight to Video
 Source: The Hollywood Reporter | Status: expanded | Words: 839
 Published: 2026-11-23T21:17:49+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-awards-chatter-podcast-ink-savannah-film-festival-1236760205
@@ -1001,7 +1025,7 @@ On how Slumdog Millionaire almost went straight-to-video instead of to the Oscar
 "He is the kind of actor like [Al] Pacino is, who can take you to an impossibly dark place &#x2014; in Pacino's case, the ordering of the execution of his brother [in The Godfather, Part II ] &#x2014; and yet you still lean into the character. Jack has that. If you think about he stuff he does in Sinners and in 28 Years Later: The Bone Temple , he's a monster, and yet you're drawn into him. That's a weird duality he has, which not many actors do. He's a wonderful, wonderful actor."
 
 ============================================================
-[33] 'The Odyssey', 'Widow's Bay' Among Top Nominees For AARP's Movies &#038; TV For Grownups Awards
+[34] 'The Odyssey', 'Widow's Bay' Among Top Nominees For AARP's Movies &#038; TV For Grownups Awards
 Source: Deadline | Status: expanded | Words: 370
 Published: 2026-11-23T21:17:21+00:00
 URL: https://deadline.com/2026/11/the-odyssey-widows-bay-aarp-movies-tv-for-grownups-awards-1237231926
@@ -1021,7 +1045,7 @@ The organization also hands out a few awards in TV as well with The Diplomat, DT
 Hosted by five-time Emmy winner Jane Lynch, The AARP Movies & TV for Grownups Awards will take place on Saturday, January 9, 2027, at the Beverly Wilshire, Beverly Hills. It will be broadcast on PBS, Great Performances Friday February 26, 2027.
 
 ============================================================
-[34] On This Day in 1963, Doctor Who Made Its TV Debut But a Chaotic Week in Britain Almost Ruined the Premiere
+[35] On This Day in 1963, Doctor Who Made Its TV Debut But a Chaotic Week in Britain Almost Ruined the Premiere
 Source: ComicBook.com | Status: expanded | Words: 718
 Published: 2026-11-23T21:16:00+00:00
 URL: https://comicbook.com/tv-shows/feature/on-this-day-in-1963-doctor-who-made-its-tv-debut-but-a-chaotic-week-in-britain-almost-ruined-the-premiere
@@ -1047,7 +1071,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics
+[36] All the ‘GTA 6’ Movie and TV References: From ‘Jaws’ to ‘Die Hard,’ Rockstar Pays Tribute to Hollywood Classics
 Source: Variety | Status: expanded | Words: 607
 Published: 2026-11-23T21:11:32+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-movie-tv-show-references-jaws-saw-die-hard-1236955906
@@ -1083,7 +1107,7 @@ Players have discovered that a replica of Dexter Morgan's (Michael C. Hall) apar
 Entering one specific crime scene location will give you a practically perfect recreation of the infamous chainsaw moment from the 1983 classic.
 
 ============================================================
-[36] ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected
+[37] ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected
 Source: The Playlist | Status: summary_only | Words: 114
 Published: 2026-11-23T21:09:35+00:00
 URL: https://theplaylist.net/adam-driver-kathleen-kennedy-lucasfilm-disney-approval-ben-solo-20261123
@@ -1095,7 +1119,7 @@ CONTENT / EXTRACTED DETAILS:
 Given the number of abandoned “ Star Wars ” projects over the years, you might be surprised to learn that Kathleen Kennedy apparently believed Lucasfilm had a perfect track record of getting movies approved by Disney . At least, that’s what Adam Driver says the former Lucasfilm president told him and Steven Soderbergh while they developed their ultimately rejected “ The Hunt For Ben Solo .” The claim raises an obvious question: how many of Lucasfilm’s unrealized projects ever made it to Disney for final approval? Continue reading ‘Star Wars’: Adam Driver Says Kathleen Kennedy Assured Him Lucasfilm Had A “100% Approval Rate” With Disney Before Ben Solo Film Was Rejected at The Playlist.
 
 ============================================================
-[37] Disney's Doomsday Essential MCU Watch List Proves Marvel Hasn't Learned Its Lesson
+[38] Disney's Doomsday Essential MCU Watch List Proves Marvel Hasn't Learned Its Lesson
 Source: ComicBook.com | Status: expanded | Words: 843
 Published: 2026-11-23T21:07:00+00:00
 URL: https://comicbook.com/movies/feature/disneys-doomsday-essential-mcu-watch-list-proves-marvel-hasnt-learned-its-lesson
@@ -1125,7 +1149,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Amanda Seyfried, Robert De Niro and Timothee Chalamet to Host 'SNL' in December
+[39] Amanda Seyfried, Robert De Niro and Timothee Chalamet to Host 'SNL' in December
 Source: The Hollywood Reporter | Status: expanded | Words: 553
 Published: 2026-11-23T21:06:31+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508
@@ -1155,7 +1179,7 @@ Sept. 26: Jalen Brunson , KATSEYE Oct. 3: Dakota Johnson , Turnstile Oct. 10: Sh
 This story was first published on Sept. 9, 2026.
 
 ============================================================
-[39] Marvel Fan Edits Avengers: Doomsday Trailer Footage Into Full Scene That May Confirm A Major Story Twist
+[40] Marvel Fan Edits Avengers: Doomsday Trailer Footage Into Full Scene That May Confirm A Major Story Twist
 Source: ComicBook.com | Status: expanded | Words: 529
 Published: 2026-11-23T21:04:25+00:00
 URL: https://comicbook.com/movies/news/marvel-fan-edits-avengers-doomsday-trailer-footage-into-full-scene-that-may-confirm-a-major-story-twist
@@ -1183,7 +1207,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Cyberpunk 2 Director Jokes That the Sequel is Now Canceled, And GTA 6 Is to Blame
+[41] Cyberpunk 2 Director Jokes That the Sequel is Now Canceled, And GTA 6 Is to Blame
 Source: ComicBook.com | Status: expanded | Words: 920
 Published: 2026-11-23T21:02:12+00:00
 URL: https://comicbook.com/gaming/news/cyberpunk-2-director-jokes-that-the-sequel-is-now-canceled-and-gta-6-is-to-blame
@@ -1215,7 +1239,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Cairo Film Festival Pitching Platform Awards $410,000 to Arab Film Projects
+[42] Cairo Film Festival Pitching Platform Awards $410,000 to Arab Film Projects
 Source: Variety | Status: expanded | Words: 1851
 Published: 2026-11-23T21:01:47+00:00
 URL: https://variety.com/2026/film/global/cairo-film-connection-2026-arab-film-projects-awards-1236955700
@@ -1325,7 +1349,7 @@ Set between Jordan&#x2019;s Za&#x2019;atari refugee camp and Amman, &#x201C;Grow
 The documentary received $6,000 in post-production services from Cult. With approximately 40% of its budget secured, the filmmakers are seeking additional financing and international co-producers ahead of a planned 2028 release.
 
 ============================================================
-[42] How Iran's Pegah Ahangarani Turned Her Family Archives Into a Regime-Challenging Oscar Hopeful
+[43] How Iran's Pegah Ahangarani Turned Her Family Archives Into a Regime-Challenging Oscar Hopeful
 Source: The Hollywood Reporter | Status: expanded | Words: 2480
 Published: 2026-11-23T21:01:32+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/iran-pegah-ahangarani-uk-rehearsals-for-a-revolution-oscars-1236760972
@@ -1383,7 +1407,7 @@ I'm sure you miss your family so much, but you don't envision a future where you
 When I left Iran in 2021, I didn't have any plan to stay outside of Iran. I left my country with just one carry-on to participate in the IDFA Film Festival for my short documentary. And after the second screening, my mother, she was in Iran [and] called me and told me the regime had called her and asked her to interrogate me about the film. She told me, "Stay outside for a while, for one or two months." And then the "Woman, Life, Freedom" movement happened and I published a video to show my solidarity with that movement, and then my mother told me they sent a letter [saying] there is a court order against me. They seized my apartment and my bank accounts in Iran and I realized that I can't go back. If I go back, I have to go to jail. I was in jail for one month in solitary [confinement], but if I go back, maybe I could be in jail for six or seven years or something like that. I decided to stay outside because I wanted to make my film.
 
 ============================================================
-[43] 'Saturday Night Live': Robert De Niro &#038; Timothée Chalamet Will Close Out The Year As Hosts
+[44] 'Saturday Night Live': Robert De Niro &#038; Timothée Chalamet Will Close Out The Year As Hosts
 Source: Deadline | Status: expanded | Words: 377
 Published: 2026-11-23T21:00:22+00:00
 URL: https://deadline.com/2026/11/saturday-night-live-robert-de-niro-timothee-chalamet-hosts-1237231917
@@ -1407,7 +1431,7 @@ In addition to the broadcast on NBC (11:30 p.m. ET / 8:30 p.m. PT), SNL streams 
 Saturday Night Live is produced in association with Broadway Video. The creator and executive producer is Lorne Michaels.
 
 ============================================================
-[44] ‘Clashing Through The Snow’ Stars Christopher Briney &#038; Michelle Randolph Talk Comedy’s “Important” Presence In Script And How They Built Their Characters
+[45] ‘Clashing Through The Snow’ Stars Christopher Briney &#038; Michelle Randolph Talk Comedy’s “Important” Presence In Script And How They Built Their Characters
 Source: Deadline | Status: expanded | Words: 1347
 Published: 2026-11-23T21:00:00+00:00
 URL: https://deadline.com/2026/11/clashing-through-the-snow-christopher-briney-interview-1237231859
@@ -1471,7 +1495,7 @@ RANDOLPH: It's in the movie, which it's like Hannah and Ryan are laughing at the
 BRINEY: He's so funny, man. He is so good in this movie.
 
 ============================================================
-[45] ‘SNL’ Sets Timothée Chalamet and Robert De Niro as Final Hosts of 2026
+[46] ‘SNL’ Sets Timothée Chalamet and Robert De Niro as Final Hosts of 2026
 Source: Variety | Status: expanded | Words: 171
 Published: 2026-11-23T21:00:00+00:00
 URL: https://variety.com/2026/tv/news/snl-next-hosts-timothee-chalamet-robert-de-niro-1236956234
@@ -1495,7 +1519,7 @@ Chalamet stars opposite Zendaya in "Dune: Part Three," the final installment of 
 These are the final "SNL" shows of 2026. The NBC sketch comedy series typically returns from a holiday break on the third Saturday of January.
 
 ============================================================
-[46] Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)
+[47] Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 410
 Published: 2026-11-23T21:00:00+00:00
 URL: https://variety.com/2026/tv/news/macy-gray-microdrama-album-reelshort-1236956213
@@ -1519,7 +1543,7 @@ Gray first hit the scene in 1999 with her first album, &#x201C;On How Life Is,&#
 Gray is repped by Debra Baum of Eliseo Entertainment LLC, while her music label is DNA Music/Hitmaker Distro.
 
 ============================================================
-[47] Lionsgate Lands Spec 'Tell Me Everything' With Dakota Johnson On Board To Star And Produce
+[48] Lionsgate Lands Spec 'Tell Me Everything' With Dakota Johnson On Board To Star And Produce
 Source: Deadline | Status: expanded | Words: 485
 Published: 2026-11-23T21:00:00+00:00
 URL: https://deadline.com/2026/11/dakota-johnson-tell-me-everything-lionsgate-1237231777
@@ -1543,7 +1567,7 @@ TeaTime first gained recognition with two feature films at the 2022 Sundance Fil
 Johnson is repped by CAA, Untitled, and Johnson Shapiro Slewett Kole. TeaTime Pictures is repped by CAA and Johnson Shapiro Slewett Kole. Golde is repped by CAA and Ginsburg Daniels Kallis.
 
 ============================================================
-[48] New GTA 6 Sales Report Claims the Game Is Rapidly Nearing 50 Million Copies Sold
+[49] New GTA 6 Sales Report Claims the Game Is Rapidly Nearing 50 Million Copies Sold
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-23T20:56:59+00:00
 URL: https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-sales-45-million
@@ -1567,7 +1591,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Inside the 'Pillsbury Bake-Off Classic': A Recipe for Blending Brands With TV (and a Full-Circle Career Moment for Host Drew Barrymore)
+[50] Inside the 'Pillsbury Bake-Off Classic': A Recipe for Blending Brands With TV (and a Full-Circle Career Moment for Host Drew Barrymore)
 Source: The Hollywood Reporter | Status: expanded | Words: 1851
 Published: 2026-11-23T20:52:32+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/pillsbury-bake-off-classic-drew-barrymore-show-cbs-1236760818
@@ -1619,30 +1643,4 @@ Both Weintrob and Balzo hope this special becomes an annual tradition that famil
 "As a brand and especially the Pillsbury brand, the whole family is so important," Balzo adds. "So we wanted to make sure that we created something that could be one of those moments to bring families together around and create memories around."
 
 Pillsbury Bake-Off Classic airs Nov. 23 from 8-10 p.m. ET/PT on CBS and streams on Paramount+ (Premium).
-
-============================================================
-[50] Yahya Abdul-Mateen II Addresses Marvel Future After Wonder Man Cancellation, And It Sounds Promising
-Source: ComicBook.com | Status: expanded | Words: 656
-Published: 2026-11-23T20:49:37+00:00
-URL: https://comicbook.com/tv-shows/news/yahya-abdul-mateen-ii-addresses-marvel-future-after-wonder-man-cancellation-and-it-sounds-promising
-------------------------------------------------------------
-SUMMARY:
-IMAGE COURTESY OF MARVEL TV Yes, of course Yahya Abdul-Mateen II would play Wonder Man again. The actor is game if the studio is, as he made clear in a recent interview with The Hollywood Reporter. Abdul-Mateen II's take on the character was one of the more unusual updates from the comics to the MCU, as it posited the cosmic […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Yes, of course Yahya Abdul-Mateen II would play Wonder Man again. The actor is game if the studio is, as he made clear in a recent interview with The Hollywood Reporter . Abdul-Mateen II's take on the character was one of the more unusual updates from the comics to the MCU, as it posited the cosmic superhero was, in fact, still a fictional superhero within the MCU. Simon Williams was merely an actor, but when he got the role of Wonder Man, his secret super powers came to the fore. By the end of the show's first and only season, Simon Williams was now a powered-up Wonder Man, on the run after freeing his friend Trevor Slattery (Ben Kingsley), who had once again impersonated the arch-criminal Mandarin, this time to cover for Simon.
-
-A second season was announced , and then canceled . But like so many Marvel heroes on Disney+ TV shows, Simon Williams is still out there somewhere, and you'd think he'd want to lend a hand when global threats emerge. "If the phone rings, then I’m looking forward to it," he says. "I’m absolutely looking forward to it. We’ll see what happens."
-
-If Wonder Man remains a one-and-done, Abdul-Mateen II, like Nicolas Cage with Spider-Noir , is nonetheless completely satisfied with what he got to do. "No bitterness attached to it at all," he says, when asked if there is any. "I’ve already won. I got to play Simon Williams. I had my turn to do that. People love the show, and because of the [Emmy] nomination, we were still talking about Simon." As far as the potential for more, he's clear what he thinks: "The story is alive, and Simon Williams is. I think we did something really special with that iteration of Wonder Man ." (Not that Simon dying would necessarily be any obstacle to returning in a comic-book universe.)
-
-Yahya Abdul-Mateen II is a man seemingly born to play superheroic and iconic roles. He has the physique, and the range, and has already played two major DC characters with opposite temperaments: Dr. Manhattan in HBO's Watchmen , and Black Manta in two Aquaman movies. The former is all-knowing and aloof; the latter a volatile nutjob. There's nothing to say he couldn't play a different Marvel character, as Gemma Chan has. Indeed, Abdul-Mateen's own filmography suggests a way — he has twice previously played reboots of classic characters made famous by other indelible actors, as Morpheus in The Matrix Resurrections , and Candyman in Nia DaCosta's re-quel. When the Marvel Cinematic Universe inevitably reboots at the end of Secret Wars , he could make it a third-time charm as a new incarnation of another hero.
-
-Simon Williams' story could also continue in a Shang-Chi sequel, given that the master of kung fu is also an ally of Trevor Slattery, and knows he's not the real Mandarin. The actual Ten Rings organization could shelter both of them as needed. Still, there's something quite dramatically ironic about the Wonder Man actor waiting by the phone for his callback, as that's absolutely something Simon Williams would do. Maybe a sequel could go meta, and be about Yahya Abdul-Mateen II the actor becoming Simon Williams the actor becoming Wonder Man the character. Whatever the case, Abdul-Mateen II is fun to watch in anything, so whether Marvel or otherwise, he'll continue to work in great projects for sure. Lucasfilm probably already has ideas, too.
-
-Do you want more from Simon Williams' story? Or could Abdul-Mateen II play another character? Give us your best casting agent impersonation in comments.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
