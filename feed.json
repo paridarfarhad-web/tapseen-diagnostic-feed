@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T17:33:37.171Z"
+    "updated_at": "2026-11-23T17:37:43.291Z"
   },
   "articles": [
+    {
+      "id": "7d1a29ad-391e-4aa4-af69-b30a83cc044e",
+      "title": "‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place",
+      "summary": "If you haven’t read a book, are you in a suitable position to properly judge its film adaptation? The answer, of course, is to treat said adaptation on its own merits, but in the case of McG ’s shiny new Apple TV effort based on Jocko Willink ’s “ Way Of The Warrior Kid ,” it’s far too easy to see just another story riddled with unoriginality, with an overall tone that can’t seem to resist veering wildly off course more often than one might expect. Continue reading ‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place at The Playlist.",
+      "content": "If you haven’t read a book, are you in a suitable position to properly judge its film adaptation? The answer, of course, is to treat said adaptation on its own merits, but in the case of McG ’s shiny new Apple TV effort based on Jocko Willink ’s “ Way Of The Warrior Kid ,” it’s far too easy to see just another story riddled with unoriginality, with an overall tone that can’t seem to resist veering wildly off course more often than one might expect. Continue reading ‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/way-of-the-warrior-kid-review-chris-pratt-mcg-20261123",
+      "published_at": "2026-11-23T17:35:41+00:00",
+      "image_url": "https://www.youtube.com/embed/R1ECMLrwDYQ",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 107,
+      "extracted_at": "2026-11-23T17:37:25.926371+00:00",
+      "updated_at": "2026-11-23T17:37:25.926371+00:00"
+    },
     {
       "id": "b1f36179-3c4e-4614-86cc-460ff22769a9",
       "title": "Avengers: Doomsday Just Teased the End of the Multiverse, And You Probably Missed It",
@@ -742,21 +757,6 @@
       "word_count": 828,
       "extracted_at": "2026-11-23T16:01:17.79462+00:00",
       "updated_at": "2026-11-23T16:01:17.79462+00:00"
-    },
-    {
-      "id": "413ef178-b461-480e-8352-fd09dd71cc5c",
-      "title": "People Are Crediting Britney Spears For Black Lace Comeback (But I Think It Goes To Catherine Zeta-Jones)",
-      "summary": "I must confess, I do believe this.",
-      "content": "Britney Spears has made a celebrity fashion statement once or twice in her lifetime, and a recent run of lacy, sheer dresses has been credited to a look she wore back in 2001. While her VMAs dress that year still lands on lists of fans’ favorite fashion looks, I think the look predates this, and credit might actually go to Catherine Zeta Jones, here.\n\nI would never take away any of the wonder around this Spears look. She’s always known how to rock a little black dress , but this is like the holy grail of dresses and it's almost impossible to emulate. I actually think the recent trend of black lace on celebs looks more like a fit Catherine Zeta-Jones once wore, and we can thank her daughter Carys Douglas for reminding us.\n\nCarys Douglas dons her famous mom’s clothing periodically, so when she wore a Gucci top her own mother had worn as part of an ensemble back in 1996 for The Long Kiss Goodnight premiere, it wasn’t a big surprise. Though Zeta-Jones’ original fit included sheer pants, Douglas repurposed the gorgeous top with a skirt for a Gucci event that feels like the silhouette designers have been going for with black lace of late. Take a look.\n\nI really do think the Entrapment actress’ look not only came before Spears’ iconic fashion moment, but it’s also similar to what we’ve seen on younger actresses recently. Gucci also deserves a little bit of credit for being ahead of the curve, and also for putting together some stunning looks, including this one from Dakota Johnson , when the sheer trend came back. Recently, Mckenna Grace wore a similar fit for The Hunger Games . Then Hailee Steinfeld stepped out in a sheer black dress that definitely reminded me of Douglas and her mom.\n\nWe’re heading into winter, and we typically see a lot of black after the browns of fall fade out, but I just wanted to give an icon her due where I feel it is due. Though Ms. Spears’ dress is one I will always be thinking about.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/people-crediting-britney-spears-black-lace-comeback-mkenna-grace-catherine-zeta-jones",
-      "published_at": "2026-11-23T15:56:55+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9HmY9iaDt9L7J44ZiRkaS8-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 351,
-      "extracted_at": "2026-11-23T16:03:16.297536+00:00",
-      "updated_at": "2026-11-23T16:03:16.297536+00:00"
     }
   ]
 }
