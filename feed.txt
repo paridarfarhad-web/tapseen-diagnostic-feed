@@ -1,9 +1,125 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T17:13:35.911Z
+Last Updated: 2026-11-23T17:15:46.229Z
 Website: https://tapseen.com
 
 ============================================================
-[1] BAFTA Film Awards Losing Headline Sponsor EE After 30 Years
+[1] ‘3:30’ Filmmaker Shlok Choudhari &#038; Producer Sunil Sadarangani On Making A Women's Mental Health Awareness Noir In South Mumbai
+Source: Deadline | Status: expanded | Words: 2223
+Published: 2026-11-23T17:15:00+00:00
+URL: https://deadline.com/2026/11/330-short-film-inteview-shlok-choudhari-sunil-sadarangani-1237231423
+------------------------------------------------------------
+SUMMARY:
+Sometimes all it takes is a little gusto and a cold pitch on LinkedIn to get a film rolling. At 23, Shlok Choudhari left college and followed his dream of filmmaking with his first short, 3:30. Starring Priyanka Zemse, the black-and-white psychological noir follows a woman navigating Mumbai during the titular dark hour as medication, […]
+
+CONTENT / EXTRACTED DETAILS:
+Sometimes all it takes is a little gusto and a cold pitch on LinkedIn to get a film rolling. At 23, Shlok Choudhari left college and followed his dream of filmmaking with his first short, 3:30 . Starring Priyanka Zemse, the black-and-white psychological noir follows a woman navigating Mumbai during the titular dark hour as medication, memory, and a growing sense of danger blur together. Choudhari drew on two real events he witnessed to explore trauma and misdiagnosis.
+
+After screening at the Oscar-qualifying Tasveer Film Festival , the film is headed to the Yellowstone International Film Festival in Mumbai. Below, Choudhari and producer Sunil Sadarangani talk to Deadline about taking courage in filmmaking, developing themes around mental health awareness, and having an eye towards the future. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Aurora' Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self & Outer Space Documentary India's Yellowstone International Film Festival Announces Documentary And LGBTQIA+ Slates
+
+DEADLINE: This is your first short film, and you&#x2019;re 23. You should be in school, don&#x2019;t you think? What compelled you to make this short? Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+SHLOK CHOUDHARI: Well, I made this film when I was 22. I was in my second year of college studying advertising and journalism. With all due respect to journalism, and I appreciate the work you all do, I didn&#x2019;t want to study it anymore. I love movies.
+
+CHOUDHARI: I grew up watching movies, and I still watch at least one a day. So, I&#x2019;ve always wanted to make movies, but I would usually drop the idea until I eventually felt I had to do something. So, I wrote 3:30 and went on LinkedIn to cold-pitch people. Sunil [Sadarangani] was one of them, along with my executive producer, Jimmy Velarde, and other producers. We raised money, and I hired a crew also on LinkedIn, and we made the film.
+
+DEADLINE: Sunil, what went through your mind when this young filmmaker cold-pitched you on LinkedIn?
+
+SUNIL SADARANGANI: I wear a lot of hats, and there&#x2019;s so much catfishing on LinkedIn. When I got Shlok&#x2019;s first message, I thought, &#x201C;Who is this guy catfishing me?&#x201D; His profile picture was a little dodgy, kind of a far-off black-and-white shot. He was wearing some suit, and I thought, &#x201C;What&#x2019;s going on here?&#x201D; But he kept messaging me. [Laughs]. He was persistent and talked about film history and the palette and noir style that he wanted for the film. You can pull things from the internet, but I instinctively felt there was something there. Then he sent me his presentation deck, and I was impressed by how he put it together. But he hadn&#x2019;t made a film before. So, when he told me that, I wanted to give him advice on the way he was going about reaching out to other crew members to make this whole thing happen for himself. I told him to gather an experienced crew and go to the location where he wanted to film so we could see something on film. He wouldn&#x2019;t have time on set, and he had a limited budget. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+He wanted to shoot in South Mumbai, where I&#x2019;m from. Not many films are shot in that area because it&#x2019;s highly sensitive after the terrorist attacks in 2008 . There are still a lot of police patrols and surveillance there today. However, I thought it was an ambitious idea and that, along with his vision, attracted me to the project. When he came back with footage, I could see on film what I&#x2019;d seen on paper in his presentation. So, I said that I was in and that I would love to collaborate and help in any way I could.
+
+DEADLINE: Shlok, talk more about the difficulties of filming in South Mumbai.
+
+SHLOK CHOUDHARI: There were numerous obstacles. I wanted wet streets, with the white light glimmering&#x2014;I love that look in black and white. That&#x2019;s why I wanted to shoot during the monsoon season, but I didn&#x2019;t know how difficult it would be. It was the first time I&#x2019;d seen such a big boom mic and everyone with their setups and lights. I had no idea it would be like that.
+
+I thought I was going to go with my iPhone, and then suddenly there was a whole crew. The crew attracted a lot of attention, and there were cops at every location. Even though I had permission, they kept coming by. I had a good assistant director who handled the cops and got them to look the other way while we were filming. Running on schedule during monsoon was another obstacle, but it was a ride. It was my film school in a way.
+
+DEADLINE: Right, so when you lost the desire for journalism in college, did you switch to filmmaking?
+
+CHOUDHARI: I was at Kelkar College in Mumbai. I was studying journalism and advertising, but I didn&#x2019;t complete it.
+
+DEADLINE: Wait. You dropped out of school?
+
+CHOUDHARI: Yeah, I dropped out to make this.
+
+DEADLINE: Are your parents upset?
+
+CHOUDHARI: They&#x2019;re happy now. They&#x2019;re fine. [Laughs].
+
+SADARANGANI: Now he&#x2019;s getting international recognition. They&#x2019;re happy. [Laughs].
+
+CHOUDHARI: This is my first international trip ever [and I&#x2019;m here in Los Angeles], and it&#x2019;s so huge.
+
+SADARANGANI: He&#x2019;s never traveled abroad, so he&#x2019;s loving it here in LA.
+
+DEADLINE: And you're bringing this story internationally across several film festivals, which is great for sexual harassment and mental health awareness, I think. Talk a bit more about the inspiration behind 3:30.
+
+CHOUDHARI: 3:30 stems from two real events I witnessed. My ex-girlfriend had witnessed a traumatizing experience: She saw her brother kill her father and grandfather, then kill himself. He had schizophrenia. She was seeking psychiatric care and going to a psychiatrist every week, but from my perspective, the medication wasn&#x2019;t doing her any good. I felt it was triggering trauma, giving her more hallucinations and bringing her down. I would tell her, &#x201C;Maybe it&#x2019;s the medication,&#x201D; and she would say, &#x201C;No, it&#x2019;s prescribed. It&#x2019;s written, so it&#x2019;s right. It has to be right.&#x201D; She had this belief in authority. I had a lot of fallacies too, things you think are right one day and later wonder how you could have believed them. The next month, we changed psychiatrists and found out she had been misdiagnosed. I thought, &#x201C;Wow, this is interesting.&#x201D;
+
+Meanwhile, I knew a girl, a nine-year-old who was very close to me. She was sexually assaulted by a family friend who lived next door. He had a son about my age and a family. The girl was too young to understand what had happened to her. She was brutally assaulted. The police and nurses asked her what happened, and then we found out. I thought, &#x201C;This is just crazy. I had to honor these stories.&#x201D; I could go online and tell people about them, but I wanted to express them. I thought if I put these two things together, I might have a story worth telling. That&#x2019;s how I came up with 3:30 . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+DEADLINE: And for the folks at home, I want to make sure you get your point across here about the message of the film too. You wouldn&#x2019;t describe it as anti-medication, right?
+
+CHOUDHARI: No, no. This is beyond a cautionary tale, and it&#x2019;s not just about awareness. There is treatment, but psychiatric treatment is often trial and error. A psychiatrist may try something that works, or it may not. Be aware that you don&#x2019;t have to commit to it. You can seek another opinion. I want it to raise awareness, but also to make people aware that they may be in a situation without realizing it. Be aware that it can be trial and error. Definitely seek psychiatric help and support for mental health.
+
+SADARANGANI: Medication can help bring some balance to what&#x2019;s going on internally, especially after experiences like these. But human connection and psychiatric help can also help balance things out. Having another person as an anchor can help, especially for women dealing with sexual trauma. That can affect people around them, too.
+
+CHOUDHARI: There was a lot of opposition when I was starting out. I cold-pitched people in Mumbai, and they said the story was too bold. They said, &#x201C;How can you make something like this?&#x201D; They said it was unethical and that they wouldn&#x2019;t support it. Mumbai, and India in that sense, can be conservative. But this is true. I witnessed it. I&#x2019;m not making it up. I held onto my guns and kept reaching out to more people. Then I connected with Sunil, Betty, Jimmy, Paul and my other producers.
+
+DEADLINE: How did you find your lead actress, Priyanka Zemse?
+
+CHOUDHARI: It was at a fashion event. She was there as a guest, and I went up to her and asked, &#x201C;Would you like to be in a movie? This is the subject matter. Would you like to be part of it?&#x201D; That piqued her interest, and she said yes, though not immediately.
+
+SADARANGANI: The interesting thing about Priyanka is that Shlok connected with me on LinkedIn, and I was asking him questions, putting on my journalist hat. I asked if he had anyone in mind to play the lead, and he mentioned Priyanka. I had met her two years earlier at the Tasveer Film Festival in Seattle, where one of her other films was screening. We had connected there, so I already knew who she was. It made the connection feel meant to be.
+
+I also want to recognize the other women producers and crew members. Our executive producer Betty J. Butler has been a pillar of support, and this kind of abuse is also part of her personal experience. She connected with the story and supported Shlok throughout the process. You need a team to make a story happen, and Betty and the other women on the crew encouraged and pushed Shlok. Our editor, Navtika Sharma, did a great job, as did our hair and makeup artist, Ronicka Ralph. We had a good balance of people on the film.
+
+DEADLINE: I know you mentioned earlier that black and white was always part of your vision, but what was the inspiration behind it? Why was this the right way to tell the story to you?
+
+CHOUDHARI: I love film noir and always wanted to make one. So, I started studying where it originated and how it developed over time. I found it had a lot to do with German Expressionism after World War I, which was about externalizing internal conflicts. There was a lot of vibrancy and expressive imagery. You see it in films like The Cabinet of Dr. Caligari and Fritz Lang&#x2019;s Metropolis and M . I love mise-en-sc&#xE8;ne and the way those films expressed themselves. They weren&#x2019;t defying the laws of physics; they were creating an exaggerated reality. Their themes reflected the socioeconomic turmoil of postwar Germany. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+After the rise of Hitler, filmmakers like Billy Wilder and Fritz Lang came to Hollywood and brought their point of view. That helped lead to film noir. Noir had its own themes, including the Cold War, detective stories, and taboo subjects. It wasn&#x2019;t just dramatic lighting. I asked myself whether film noir was the right treatment for a story about misdiagnosis and sexual assault in 2025 or 2026. I thought it was. I&#x2019;m so thankful to our cinematographer; we were like brothers. He was wonderful and experienced; I&#x2019;m glad he chose to work with me.
+
+DEADLINE: What has the film festival experience been like?
+
+SADARANGANI: In addition to the Tasveer South Asian Film Festival in Seattle, we got into the City of Angels Film Festival in LA. There we won Best Feminist Film.
+
+DEADLINE: What was it like to receive that award as a male director?
+
+SADARANGANI: I think it was the subject matter. Lisa K. Crosato, the festival director and founder, was taken by the story Shlok told through 3:30 . The festival had previously been called the City of Angels Women&#x2019;s Film Festival, advocating for women&#x2019;s stories and female filmmakers. Lisa felt strongly about the subject matter, and that&#x2019;s how we received the award.
+
+DEADLINE: Shlok, what would you like to do next?
+
+CHOUDHARI: I want to make one more short, and I&#x2019;m also developing my feature. They&#x2019;re personal stories. They have to be personal. I write every day. So far, the universe, the force, has been with me. It&#x2019;s a privilege. I&#x2019;m taking one step at a time, but I know what I want to do next.
+
+============================================================
+[2] Lost Cartoon Network Classic Finally Getting Streaming Release After 23 Years
+Source: ComicBook.com | Status: expanded | Words: 601
+Published: 2026-11-23T17:14:27+00:00
+URL: https://comicbook.com/tv-shows/news/lost-cartoon-network-classic-finally-getting-streaming-release-after-23-years
+------------------------------------------------------------
+SUMMARY:
+Image Courtesy of Warner Bros. Animation / Cartoon Network A lost Cartoon Network classic animated series is finally getting its own proper streaming release 23 years after it first began, and it's going to be available completely for free. It's been a tumultuous few years for Warner Bros. Animation and their classic library as not only is the future of it even more uncertain […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A lost Cartoon Network classic animated series is finally getting its own proper streaming release 23 years after it first began, and it's going to be available completely for free. It's been a tumultuous few years for Warner Bros. Animation and their classic library as not only is the future of it even more uncertain following the Skydance merger, but their properties had since moved to other streaming services. Though Tubi has really been coming through in the last year specifically .
+
+Tubi has been launching Warner Bros. Animation's classic cartoon library on a rotational schedule through the past year or so , and a new wave of releases is gearing up for their launch on the free streaming service this December. It's been announced by the platform's social media account that beginning on December 1st, Duck Dodgers is going to be available for streaming. Marking the first time it's been available in this way in quite some time.
+
+Duck Dodgers will be coming to Tubi on December 1st alongside the streaming releases of MAD, Wacky Races , and Xiaolin Showdown . It's yet to be revealed how long it's going to be available to watch on the platform, but it's going to be totally free. Given how some of the other series have only been available for a few months at a time, it's best to jump back into the classic series now before it's too late. And you're definitely going to want to as it's a hidden gem of the 2000s era of Cartoon Network.
+
+Based on the original Looney Tunes short, "Duck Dodgers of the 24th 1/2 Century," Duck Dodgers made its full series debut with Cartoon Network in 2003 . Running for a couple of seasons before it eventually came to an end in 2005, and expanding on that original idea, Daffy Duck stars as the titular Duck Dodgers alongside his trusty Space Cadet Porky. The two go on all sorts of space adventures with many of them facing off against Martian threats. But it had a whole life of its own with all sorts of fun moments you're going to want to see again.
+
+Duck Dodgers had a ton of fun with its premise because while it might have been inspired by the Looney Tunes short, it wasn't just limited to interactions with other Looney Tunes franchise characters. The series expanded the world around Dodgers, and made references to other major shows at the time such as Samurai Jack , had cameos from famous bands such as Megadeth, and even had a full episode where he became a member of the Green Lantern Corps for a brief time .
+
+The Looney Tunes have been in the midst of a major pop culture resurgence in the past few years thanks to the success of new projects such as Coyote vs. Acme and The Day The Earth Blew Up . But with the loss of Eric Bauza the future of it all remains uncertain . The best way to enjoy it all for now is to seek out classics like this one, and watch it all from the very beginning. Are you going to check out Duck Dodgers on Tubi? Let us know your thoughts about it in the comments.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[3] BAFTA Film Awards Losing Headline Sponsor EE After 30 Years
 Source: Variety | Status: expanded | Words: 288
 Published: 2026-11-23T17:12:11+00:00
 URL: https://variety.com/2026/film/awards/bafta-film-awards-losing-headline-sponsor-ee-1236956014
@@ -25,7 +141,7 @@ EE first became title sponsor of the BAFTA awards in 2013, taking over from its 
 BAFTA is already in discussions with potential sponsors to take over for the 2028 film awards ceremony.
 
 ============================================================
-[2] Nominees for AARP Movies &#038; TV for Grownups Awards Include Newly AARP-Eligible Andrew Scott and Keri Russell
+[4] Nominees for AARP Movies &#038; TV for Grownups Awards Include Newly AARP-Eligible Andrew Scott and Keri Russell
 Source: The Hollywood Reporter | Status: expanded | Words: 745
 Published: 2026-11-23T17:05:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/nominees-for-2027-aarp-movies-tv-for-grownups-awards-1236760553
@@ -49,7 +165,7 @@ Best Movie for Grownups: Being Heumann , The Invite , The Odyssey , Tender Lovin
 Best TV Series or Limited Series: The Diplomat , DTF St. Louis , Hacks , The Pitt , and Widow&#x2019;s Bay Best Actor, Television: Sterling K. Brown ( Paradise ), Kyle Chandler ( Lanterns ), David Harbour ( DTF St. Louis ), Nick Offerman ( Margo&#x2019;s Got Money Troubles ), and Matthew Rhys ( Widow&#x2019;s Bay ) Best Actress, Television: Quincy Tyler Bernstine ( Furious ), Linda Cardellini ( DTF St. Louis ), Lisa Kudrow ( The Comeback ), Keri Russell ( The Diplomat ), and Jean Smart ( Hacks )
 
 ============================================================
-[3] 'God Of War': Deborah Ann Woll to Reprise Faye Role From Game In Amazon Series
+[5] 'God Of War': Deborah Ann Woll to Reprise Faye Role From Game In Amazon Series
 Source: Deadline | Status: expanded | Words: 625
 Published: 2026-11-23T17:00:00+00:00
 URL: https://deadline.com/2026/11/god-of-war-deborah-ann-woll-faye-amazon-series-1237230639
@@ -77,7 +193,7 @@ God of War is co-produced by Sony Pictures Television and Amazon MGM Studios in 
 Woll is known for her roles on HBO's True Blood and Marvel's Daredevil for Netflix and Daredevil: Born Again for Disney+. She is repped by Luber Roklin Entertainment and Goodman, Genow, Schenkman, Smelkinson & Christopher.
 
 ============================================================
-[4] Deborah Ann Woll to Reprise 'God of War' Role in Prime Video Series
+[6] Deborah Ann Woll to Reprise 'God of War' Role in Prime Video Series
 Source: The Hollywood Reporter | Status: expanded | Words: 440
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/deborah-ann-woll-to-reprise-god-of-war-role-in-prime-video-series-1236761123
@@ -99,7 +215,7 @@ Sony Pictures Television and Amazon MGM Studios are producing God of War in asso
 Woll stars in Marvel's Daredevil: Born Again as Karen Page; the show's third and final season is set to premiere on Disney+ in 2027. She'll reprise her role as Faye in God of War: Laufey , also due for release next year, and will appear on season two of The Testaments on Hulu. Her credits also include True Blood and horror film The Cycle . She is repped by Luber Roklin Entertainment and Goodman Genow.
 
 ============================================================
-[5] 'Focker In-Law' Review: Ariana Grande Outshines Robert De Niro and Ben Stiller in an Otherwise Dire Fourth Installment
+[7] 'Focker In-Law' Review: Ariana Grande Outshines Robert De Niro and Ben Stiller in an Otherwise Dire Fourth Installment
 Source: The Hollywood Reporter | Status: expanded | Words: 805
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021
@@ -129,7 +245,7 @@ Much of the supporting cast is wasted, including Blythe Danner, hardly given any
 Grande, whose character is supposed to be a former FBI hostage negotiator, is the best thing in the film, going toe-to-toe with her more cinematically experienced co-stars and displaying both formidable steeliness and deadpan comic skills. If, as seems sadly inevitable, there&#x2019;s yet another installment in the series, her presence should be required.
 
 ============================================================
-[6] Randy Newman to Receive Society of Composers and Lyricists Lifetime Achievement Award
+[8] Randy Newman to Receive Society of Composers and Lyricists Lifetime Achievement Award
 Source: The Hollywood Reporter | Status: expanded | Words: 375
 Published: 2026-11-23T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/randy-newman-scl-lifetime-achievement-award-1236760905
@@ -153,7 +269,7 @@ Other than the artist awards, the SCL will also honor senator Dick Durbin at its
 SCL's New York party will take place Dec. 1 at the Cutting Room, while the Chicago party is set for Dec. 3 at iO Theater. The Nashville party is at Ocean Way Studios on Dec. 5, and the final party will take place in L.A. on Dec. 9 at the Skirball Cultural Center.
 
 ============================================================
-[7] 'God of War' Live-Action Series: Deborah Ann Woll to Reprise Faye Role From Video Games
+[9] 'God of War' Live-Action Series: Deborah Ann Woll to Reprise Faye Role From Video Games
 Source: Variety | Status: expanded | Words: 602
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900
@@ -185,7 +301,7 @@ Ronald D. Moore is the writer, executive producer, and showrunner on &#x201C;God
 Frederick E.O. Toye will direct the first two episodes of &#x201C;God of War.&#x201D; Maril Davis of Tall Ship also executive produces alongside Cory Barlog, Naren Shankar, Matthew Graham, Asad Qizilbash, Jeff Ketcham, Hermen Hulst, Roy Lee, Brad Van Arragon, and Lawrence Trilling. Joe Menosky, Marc Bernardin, Tania Lotia, and Ben McGinnis serve as co-executive producers on the series. The series is co-produced by Sony Pictures Television and Amazon MGM Studios in association with PlayStation Productions and Tall Ship Productions.
 
 ============================================================
-[8] 'Focker-in-Law' Review: Ariana Grande Sporadically Livens Up a Tired Comedy Retread
+[10] 'Focker-in-Law' Review: Ariana Grande Sporadically Livens Up a Tired Comedy Retread
 Source: Variety | Status: expanded | Words: 970
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/film/reviews/focker-in-law-review-1236955690
@@ -209,7 +325,7 @@ As Henry, the reliably sympathetic Gisondo gets little to do; Beanie Feldstein, 
 Elsewhere, Hamburg merely settles for coasting on past jokes &#x2014; not even replaying them much of the time, but merely pointing at their props and punchlines. There&#x2019;s an urn, and a polygraph machine, and a taxidermied cat, all hoping to remind us of how we laughed then. Consider us reminded. But is it churlish to ask for more? Or, perhaps, less? Like a favorite dad joke told too many times, the &#x201C;Fockers&#x201D; franchise gets staler with each spin, while Olivia&#x2019;s sequel-teasing mention of her own parents at the close prompts a kind of existential dread. Never mind how old Greg is, or how old Jack is, or indeed how old we are: The Fockers, it seems, will outlive us all.
 
 ============================================================
-[9] 'The Odyssey' Leads Critics Choice Awards Below-the-Line Shortlists With 11 Mentions as 'Dune: Part Three' and 'La Bola Negra' Follow With Eight
+[11] 'The Odyssey' Leads Critics Choice Awards Below-the-Line Shortlists With 11 Mentions as 'Dune: Part Three' and 'La Bola Negra' Follow With Eight
 Source: Variety | Status: expanded | Words: 884
 Published: 2026-11-23T17:00:00+00:00
 URL: https://variety.com/2026/film/awards/critics-choice-awards-2027-below-the-line-shortlists-1236955558
@@ -257,7 +373,7 @@ Last season, the CCA&#x2019;s first with official artisan shortlists, Ryan Coogl
 The full CCA shortlist is below.
 
 ============================================================
-[10] 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas
+[12] 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas
 Source: The Playlist | Status: summary_only | Words: 90
 Published: 2026-11-23T17:00:00+00:00
 URL: https://theplaylist.net/focker-in-law-review-ariana-grande-20261123
@@ -269,7 +385,7 @@ CONTENT / EXTRACTED DETAILS:
 Here's what you need to remind yourself before clocking in to watch "Focker-in-Law ": This is the fourth installment in the "Meet the Parents" franchise. 26 years after the first movie, you know what you're signing up for. It's a formula that's gone through the same beats for four separate films. Director and screenwriter John Hamburg and stars Ben Stiller and Robert De Niro can pull this off in their sleep. Continue reading 'Focker-in-Law' Review: Ariana Grande Demonstrates Her Comedy Chops As Franchise Runs Out Of Ideas at The Playlist.
 
 ============================================================
-[11] 'Focker In-Law' Review: Robert De Niro And Ben Stiller Are Back For Laughs But Ariana Grande Steals The Show This Time
+[13] 'Focker In-Law' Review: Robert De Niro And Ben Stiller Are Back For Laughs But Ariana Grande Steals The Show This Time
 Source: Deadline | Status: expanded | Words: 962
 Published: 2026-11-23T16:59:41+00:00
 URL: https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271
@@ -303,7 +419,39 @@ Cast: Robert De Niro, Ben Stiller, Ariana Grande, Owen Wilson, Teri Polo, Blythe
 Running Time: 1 hour and 45 minutes
 
 ============================================================
-[12] Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off President's 2024 Assassination Attempt, After Nvidia Board Reinstates CEO
+[14] Moon Knight Reunites the West Coast Avengers to Face a Threat With Deep Roots in Marvel History
+Source: ComicBook.com | Status: expanded | Words: 835
+Published: 2026-11-23T16:58:00+00:00
+URL: https://comicbook.com/marvel/feature/moon-knight-reunites-the-west-coast-avengers-to-face-a-threat-with-deep-roots-in-marvel-history
+------------------------------------------------------------
+SUMMARY:
+Image Courtesy of Marvel Comics Moon Knight is almost always a loner, even when he started his Midnight Mission, but that hasn't been the case in the current Marc Spector: Moon Knight series. Following a multi-issue storyline where Moon Knight had to re-form the Midnight Sons to save his friends and allies from a living house known as the Mansion […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Moon Knight is almost always a loner, even when he started his Midnight Mission, but that hasn't been the case in the current Marc Spector: Moon Knight series. Following a multi-issue storyline where Moon Knight had to re-form the Midnight Sons to save his friends and allies from a living house known as the Mansion Ravenous, he is now suddenly involved in another re-formation of an old team. While this isn't a full-on reunion of the West Coast Avengers, it is still a reminder of how great that team was during its heyday in the 1980s.
+
+Right after his team-up with the Midnight Sons finished with Moon Knight betraying all of the members, he is now working with two of his former West Coast Avengers teammates to fight a new monstrous enemy. In Marc Spector: Moon Knight #10 (2026) by Jed MacKay and Von Randal, Moon Knight is teaming up with Hank Pym and Tigra against a legendary mythical threat.
+
+When Moon Knight's team-up with the Midnight Sons ended with him betraying them to save his friends, most of the team left him, knowing they would likely never trust him again. This makes a lot of sense for Moon Knight since he is someone who prefers to work alone. However, Marc Spector: Moon Knight #10 showed that wasn't always possible, especially when an ancient order has returned and left a trail of dead, bloody bodies in its wake. Moon Knight was still with Tigra, his current love interest, and they went to California to figure out why he was abducted earlier by Agence Byzantine.
+
+The issue brought up a huge part of Moon Knight's past, as he told Tigra that Agence Byzantine kidnapped him because they wanted to find his former companion, Frenchie. However, Moon Knight has no idea where Frenchie is, and he doesn't know why this group was trying to find him. What Tigra and Moon Knight walked into was a bloodbath, as people from Agence Byzantine showed up and were all butchered, and the only person left alive was another former ally that Moon Knight betrayed in the past, Buck Lime.
+
+Buck explained that Agence Byzantine was asking him questions, and he was willing to answer, but they were pushing too hard anyway. Then, some ninjas showed up and killed them all. Buck also told Moon Knight that the ninjas took Moon Squire, the teenager who had started dressing like Moon Knight and fighting with the New Champions. When Moon Knight and Tigra left Buck and set out to learn what was going on, Hank Pym appeared in the back seat after flying in on an ant. With that, Moon Knight, Tigra, and Ant-Man are teaming up to find out what happened to Moon Squire and save the teen hero.
+
+That was when the ninjas attacked, and Moon Knight realized these were not typical ninjas or even the Hand. This is the Cult of Kali. This might require some explanation. Kali is an Indian goddess, and the cult was founded in the eighth century. The Cult of Kali came into conflict with the Cult of Khonshu over relics and idols, and Khonshu's followers were disgusted by Kali's worshipers' ritual murders. This cult actually has a pre-Marvel history, debuting in Captain America Comics #34 (1943) when Timely Comics was publishing the titles. Now they are back, and a mini West Coast Avengers reunion is set to fight them.
+
+It seems almost surprising to see how many team-ups are happening in Marc Spector: Moon Knight , especially for a character who prefers to fight alone. He has turned most of his allies against him over the years, and while he and Tigra seem to have a good relationship right now, things do not always end well in these situations, which Buck even mentioned in this issue. It was also a case where Moon Knight didn't seem to want a team-up with Hank Pym, but it's too late to turn back now.
+
+This is very different from past Moon Knight comics, but it is also similar because Moon Knight has never gotten along well with others, and that is being shown despite all his recent team-ups. He betrayed the Midnight Sons , and only Blade understood why he did it. He has tried to push away Hank Pym, but the two will end up working together. It seems that the new stories are trying to show that Moon Knight can't do everything alone, and while that makes these very different stories, it still seems familiar for the violent antihero.
+
+What are your thoughts on the current ongoing Moon Knight series? Let us know in the comments below.
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[15] Trump Posts Bizarre AI Meme of Jensen Huang, Holding Up a Bra and Riffing Off President's 2024 Assassination Attempt, After Nvidia Board Reinstates CEO
 Source: Variety | Status: expanded | Words: 246
 Published: 2026-11-23T16:55:57+00:00
 URL: https://variety.com/2026/digital/news/trump-ai-meme-jensen-huang-bra-nvidia-reinstates-ceo-1236956004
@@ -323,7 +471,7 @@ In the meme, Huang is triumphantly holding a red bra with an Nvidia flag positio
 Trump had called for Huang&#x2019;s reinstatement at Nvidia, including in a Truth Social post on Sunday night. Earlier Monday, Trump wrote on his social media platform that Huang would &#x201C;ensure the Success and Prosperity of not only the Company, but the American Economy&#x201D; as Nvidia&#x2019;s CEO and that U.S. Attorney General Todd Blanche has confirmed the government did not possess evidence that Huang committed any crimes.
 
 ============================================================
-[13] Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26'
+[16] Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26'
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-23T16:55:39+00:00
 URL: https://theplaylist.net/charlie-cox-james-bond-audition-bond-26-20261123
@@ -335,7 +483,7 @@ CONTENT / EXTRACTED DETAILS:
 This month we finally had confirmation that Robert Pattinson ("Primetime") is going to be the next James Bond, with French-Canadian filmmaker Denis Villeneuve ("Dune: Part Three") being enlisted to direct " Bond 26 " and help producers/ Amazon MGM Studios with the casting process (plenty more roles to be filled). However, we're now learning that " Daredevil: Born Again " actor Charlie Cox had been sniffing around an audition to play 007, but got a rather harsh response. Continue reading Charlie Cox Told He Was "Too Old" To Play James Bond When Trying To Audition For 'Bond 26' at The Playlist.
 
 ============================================================
-[14] Dancing With The Stars Sharna Burgess Slams Fans And Voting Ahead Of Season 35 Finale
+[17] Dancing With The Stars Sharna Burgess Slams Fans And Voting Ahead Of Season 35 Finale
 Source: CinemaBlend | Status: expanded | Words: 160
 Published: 2026-11-23T16:54:57+00:00
 URL: https://www.cinemablend.com/television/dancing-with-the-stars-sharna-burgess-slams-fans-voting-ahead-season-35-finale
@@ -351,7 +499,7 @@ The online fandom was going on in recent weeks about how unfair it was for Danci
 Sharna Burgess wants Dancing With The Stars to start limiting the voting and only giving fans ten votes, period, rather than ten per couple. Under this thinking, I'm assuming the idea is that viewers couldn't vote for everyone but the person they want eliminated. Would that be enough to turn things around?
 
 ============================================================
-[15] 'I'm a Celebrity' Tensions Between AJ Odudu and Mariella Frostrup Prompt ITV to Issue Statement: 'We Take the Welfare of the Celebrities Very Seriously'
+[18] 'I'm a Celebrity' Tensions Between AJ Odudu and Mariella Frostrup Prompt ITV to Issue Statement: 'We Take the Welfare of the Celebrities Very Seriously'
 Source: Variety | Status: expanded | Words: 288
 Published: 2026-11-23T16:52:05+00:00
 URL: https://variety.com/2026/tv/global/im-a-celebrity-tensions-aj-odudu-mariella-frostrup-1236955977
@@ -375,7 +523,7 @@ Although Frostrup later apologized, the feud sparked criticism on social media, 
 The show faced similar controversy in 2023 when Black British presenter Nella Rose clashed with fellow contestant Fred Sirieix after he joked that he was old enough to be her father. Rose, whose father had died, took offense at the remark. The clash prompted 861 complaints to U.K. broadcasting regulator Ofcom.
 
 ============================================================
-[16] January Jones, Stephen Dorff &#038; Lionel Boyce Among New Additions To Comedy 'The Family Disappears'
+[19] January Jones, Stephen Dorff &#038; Lionel Boyce Among New Additions To Comedy 'The Family Disappears'
 Source: Deadline | Status: expanded | Words: 324
 Published: 2026-11-23T16:48:43+00:00
 URL: https://deadline.com/2026/11/the-family-disappears-january-jones-stephen-dorff-1237231650
@@ -395,7 +543,7 @@ Jonatan Etzler, the Swedish filmmaker behind the Saoirse Ronan-led dark comedy B
 Jones is repped by Verve, Mosaic and Jackoway Austen Tyerman; Dorff by Mosaic and Hansen, Jacobson, Teller; Ferran by UTA, Independent Talent Group and Goodman, Genow, Schenkman; Boyce by WME and Entertainment 360; Rahill by WME, Rise Management and Schreck Rose Dapello; and Schaech by Link Entertainment.
 
 ============================================================
-[17] The Intellectual Property Corporation Unveils Executive Team Following Sony Split
+[20] The Intellectual Property Corporation Unveils Executive Team Following Sony Split
 Source: Deadline | Status: expanded | Words: 488
 Published: 2026-11-23T16:46:00+00:00
 URL: https://deadline.com/2026/11/the-intellectual-property-corporation-executive-team-1237230529
@@ -425,7 +573,7 @@ Over the summer, the company landed its first greenlight since becoming independ
 &#x201C;For proven, creatively ambitious producers, there are significant opportunities in the unscripted space. And our independent structure affords us the agility to seize that moment. After an exhilarating first decade in business, IPC is redoubling our focus and intensity as we continue to strive to launch hits in partnership with nonfiction&#x2019;s most discerning buyers,&#x201D; said IPC Co-Founders and Co-CEOs Saidman and Holzman. &#x201C;IPC has assembled a team of exceptional executives, who bring with them decades of experience creating hundreds of hours of premium programming. Their taste, ideas and tenacity are exactly what this moment demands. And we are truly excited about what we are going to accomplish together in this next chapter for IPC.&#x201D;
 
 ============================================================
-[18] ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies &#038; Personal Life In Apple TV’s Four-Part Documentary
+[21] ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies &#038; Personal Life In Apple TV’s Four-Part Documentary
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-23T16:45:56+00:00
 URL: https://theplaylist.net/timberlake-trailer-justin-timberlake-fisher-stevens-apple-tv-documentary-20261123
@@ -437,7 +585,7 @@ CONTENT / EXTRACTED DETAILS:
 If you’ve ever thought, “Why does Justin Timberlake need a documentary?” or, worse, “Why does Justin Timberlake need a four-part event documentary?” well, the upcoming Apple TV docuseries “ Timberlake ” may not be for you. But for anyone curious about the former *NSYNC star’s three decades in the spotlight, including the controversies that have increasingly complicated his public image, Apple has unveiled the first trailer for what it promises will be a revealing examination of his life and career. Continue reading ‘Timberlake’ Trailer: Justin Timberlake Revisits His Career, Controversies & Personal Life In Apple TV’s Four-Part Documentary at The Playlist.
 
 ============================================================
-[19] Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” &#038; Why Every Film Should Feel Like A Risk
+[22] Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” &#038; Why Every Film Should Feel Like A Risk
 Source: The Playlist | Status: summary_only | Words: 103
 Published: 2026-11-23T16:39:34+00:00
 URL: https://theplaylist.net/rian-johnson-knives-out-wake-up-dead-man-brick-marrakech-interview-20261123
@@ -449,7 +597,7 @@ CONTENT / EXTRACTED DETAILS:
 MARRAKECH FILM FESTIVAL – Rian Johnson has made three “ Knives Out ” mysteries, and he says he still starts every film as if it might not work. Speaking at an In Conversation session at the 23rd Marrakech International Film Festival, the writer-director described a career built on genre, old friends, and a refusal to repeat himself. Johnson grew up a devoted Agatha Christie fan, and he said he never approaches a genre as something to reinvent. Continue reading Rian Johnson Talks ‘Knives Out,’ How He Avoided ‘Brothers Bloom’ “Movie Jail” & Why Every Film Should Feel Like A Risk at The Playlist.
 
 ============================================================
-[20] Shonen Jump’s Best New Anime Confirms Release Date for Season 2 Return
+[23] Shonen Jump’s Best New Anime Confirms Release Date for Season 2 Return
 Source: ComicBook.com | Status: expanded | Words: 618
 Published: 2026-11-23T16:38:56+00:00
 URL: https://comicbook.com/anime/news/shonen-jumps-best-new-anime-confirms-release-date-for-season-2-return
@@ -477,7 +625,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] New LEGO Spider-Man Set Leaks and It's Based on One of the Hero's Most Iconic Moments
+[24] New LEGO Spider-Man Set Leaks and It's Based on One of the Hero's Most Iconic Moments
 Source: ComicBook.com | Status: expanded | Words: 519
 Published: 2026-11-23T16:34:54+00:00
 URL: https://comicbook.com/collectibles/news/lego-spider-man-movie-green-goblin-set-2027-leak
@@ -501,7 +649,7 @@ As mentioned, at the time of this writing, LEGO has yet to officially reveal thi
 How do you feel about this new Spider-Man set LEGO is releasing to kick off 2027? And will you be picking this set up for yourself since it happens to be relatively cheap? Let me know all of your own thoughts down in the comments section.
 
 ============================================================
-[22] Spike Lee and Willem Dafoe Board Short Film 'Pankaja' as Exec Producers (EXCLUSIVE)
+[25] Spike Lee and Willem Dafoe Board Short Film 'Pankaja' as Exec Producers (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 349
 Published: 2026-11-23T16:34:48+00:00
 URL: https://variety.com/2026/film/global/spike-lee-willem-dafoe-short-film-pankaja-exec-producers-1236955965
@@ -523,7 +671,7 @@ The film had its world premiere at the 2026 Sundance Film Festival and went on t
 "Pankaja" is also supported by The Culture Fund, an impact fund investing in filmmakers and stories with the power to shape culture.
 
 ============================================================
-[23] Comedian Peyton Ruddy Signs With Brillstein Entertainment Partners
+[26] Comedian Peyton Ruddy Signs With Brillstein Entertainment Partners
 Source: Deadline | Status: expanded | Words: 415
 Published: 2026-11-23T16:30:00+00:00
 URL: https://deadline.com/2026/11/peyton-ruddy-signs-brillstein-entertainment-partners-1237229652
@@ -549,7 +697,7 @@ Ruddy continues to be repped by WME and Yorn Levine Barnes.
 Get Deadline's Comedy Means Business newsletter &#x2014; covering all things comedy &#x2014; in your inbox by signing up here .
 
 ============================================================
-[24] ‘Once Upon A Time In The Middle East’ Takes Snow Leopard For Best Film At Asian World Film Festival
+[27] ‘Once Upon A Time In The Middle East’ Takes Snow Leopard For Best Film At Asian World Film Festival
 Source: Deadline | Status: expanded | Words: 1009
 Published: 2026-11-23T16:30:00+00:00
 URL: https://deadline.com/2026/11/asian-world-film-festival-once-upon-a-time-in-the-middle-east-1237231396
@@ -625,7 +773,7 @@ Rising Star: Mason Reeves, actress; presented by Diana Lee Inosanto, Filipino-Am
 Bruce Lee Award: Diana Lee Inosanto, Filipino-American actress, director, writer, stunt coordinator and stunt performer; presented by Shannon Lee, chairperson, Bruce Lee Foundation
 
 ============================================================
-[25] Hollywood’s Top 10 Animation Schools
+[28] Hollywood’s Top 10 Animation Schools
 Source: The Hollywood Reporter | Status: expanded | Words: 2389
 Published: 2026-11-23T16:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/hollywood-top-animation-schools-2026-1236757452
@@ -721,7 +869,7 @@ Universe Building: The B.F.A.&#x2019;s story emphasis offers specialization spec
 A version of story appeared in the Nov. 18 issue of The Hollywood Reporter magazine. Click here to subscribe .
 
 ============================================================
-[26] Call Me Crazy, But I Don’t Buy Marion’s Gilded Age Twist
+[29] Call Me Crazy, But I Don’t Buy Marion’s Gilded Age Twist
 Source: CinemaBlend | Status: expanded | Words: 213
 Published: 2026-11-23T16:23:23+00:00
 URL: https://www.cinemablend.com/television/call-me-crazy-but-i-dont-buy-marion-gilded-age-twist-pregnancy
@@ -739,7 +887,7 @@ While Marian and her doctor seem to think that she's pregnant due to the chronic
 Marian has been actively avoiding Larry since their tryst, with the Van Rhijn niece harboring a ton of shame and worry about what it could mean for her reputation in New York society. The only thing that could further ruin her chance at marrying well is having a child out of wedlock, which I'm sure would mortify her Aunts, as well as any future suitors.
 
 ============================================================
-[27] X-Men Fans Will Finally Get THAT Iconic Line in Avengers: Doomsday After Waiting 64 Years
+[30] X-Men Fans Will Finally Get THAT Iconic Line in Avengers: Doomsday After Waiting 64 Years
 Source: ComicBook.com | Status: expanded | Words: 598
 Published: 2026-11-23T16:20:11+00:00
 URL: https://comicbook.com/movies/news/x-men-fans-will-finally-get-that-iconic-line-in-avengers-doomsday-after-waiting-64-years
@@ -765,7 +913,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027
+[31] Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027
 Source: The Playlist | Status: summary_only | Words: 132
 Published: 2026-11-23T16:17:56+00:00
 URL: https://theplaylist.net/rian-johnson-poker-face-peter-dinklage-dead-teases-sci-fi-thriller-20261123
@@ -777,7 +925,7 @@ CONTENT / EXTRACTED DETAILS:
 It doesn't look like fans of " Poker Face " are going to be getting any more episodes, as Rian Johnson ("Wake Up Dead Man") has shared a very blunt and disappointing update concerning his attempt to keep the human lie-detector show alive. Johnson was speaking at the 2026 Marrakech International Film Festival (via Variety) and gave some brief updates on some of his projects, including that attempt to revive "Poker Face" without Peacock and lead actress Natasha Lyonne , who was being replaced by veteran actor Peter Dinklage ("Game of Thrones," "Dexter: Resurrection") as the next version of Charlie Cale in a reimagining. Continue reading Rian Johnson Says 'Poker Face' Revival With Peter Dinklage Is Dead, Hopes To Get His "Big Swing" Sci-Fi Thriller Movie Filming In 2027 at The Playlist.
 
 ============================================================
-[29] Byron Allen's BuzzFeed Hires Chris Poydenis, Co-Founder of Creator Marketing Agency Influential, as Chief Revenue Officer
+[32] Byron Allen's BuzzFeed Hires Chris Poydenis, Co-Founder of Creator Marketing Agency Influential, as Chief Revenue Officer
 Source: Variety | Status: expanded | Words: 548
 Published: 2026-11-23T16:14:26+00:00
 URL: https://variety.com/2026/digital/news/buzzfeed-chris-poydenis-chief-revenue-officer-cofounder-influential-1236955952
@@ -803,7 +951,7 @@ For the third quarter of 2026, BuzzFeed reported total revenue of $26.0 million 
 &#x201C;The restructuring we announced in July reduced our workforce and dedicated contractors by approximately 35% and we expect this to yield approximately $30 million in annualized savings," Allen said. In the fourth quarter, "our strategy is to bring compelling content to audiences wherever they are &#x2014; across digital platforms and connected TV &#x2014; as we work to position BuzzFeed to be a premier global free streaming platform.&#x201D;
 
 ============================================================
-[30] Recasting the Original Breakfast Club for 2026
+[33] Recasting the Original Breakfast Club for 2026
 Source: ComicBook.com | Status: expanded | Words: 1299
 Published: 2026-11-23T16:13:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-breakfast-club-for-2026
@@ -845,7 +993,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] ‘Secret Service’ Review: Gemma Arterton &#038; Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller
+[34] ‘Secret Service’ Review: Gemma Arterton &#038; Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-23T16:05:43+00:00
 URL: https://theplaylist.net/secret-service-review-gemma-arterton-rafe-spall-mgm-plus-20261123
@@ -857,7 +1005,7 @@ CONTENT / EXTRACTED DETAILS:
 Espionage! Political intrigue! Family dynamics! Oh my! We aren’t in Kansas anymore, but rather half a world away, where the latest dip into the spy-thriller waters has emerged with MGM+ ’s “ Secret Service, ” a show that promises to deliver on everything listed above in a way far more complicated than necessary. This isn’t your grandparents’ James Bond : it’s Gen Z’s Gemma Arterton . Sadly, that comparison makes far more sense than much of what unfolds here. Continue reading ‘Secret Service’ Review: Gemma Arterton & Rafe Spall Can’t Save MGM+’s Dull, Convoluted Spy Thriller at The Playlist.
 
 ============================================================
-[32] One Piece Finally Reveals Imu's Official Design With Full Look at Its Biggest Villain
+[35] One Piece Finally Reveals Imu's Official Design With Full Look at Its Biggest Villain
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-23T16:05:07+00:00
 URL: https://comicbook.com/anime/news/one-piece-finally-reveals-imus-official-design-with-full-look-at-its-biggest-villain
@@ -883,7 +1031,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies
+[36] Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies
 Source: Variety | Status: expanded | Words: 386
 Published: 2026-11-23T16:03:04+00:00
 URL: https://variety.com/2026/music/news/justin-timberlake-documentary-trailer-britney-spears-janet-jackson-1236955955
@@ -903,7 +1051,7 @@ Judging by the trailer and our source, the doc will get into deeper detail about
 &#x201C;Timberlake&#x201D; is produced for Apple TV by Blackbird Presents Films, Misher Films and Highly Flammable, with Maura Anderson and Stevens producing. Kevin Misher, Keith Wortman, Lee Eisenberg, Michael Rapino, Ryan Kroft, Rick Yorn, Josh Dembling, Johnny Wright and Andre Person serve as executive producers. The series is a Live Nation Studios presentation.
 
 ============================================================
-[34] 'Lil Kev' Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series
+[37] 'Lil Kev' Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-23T16:00:00+00:00
 URL: https://deadline.com/2026/11/kevin-hart-animated-series-lil-kev-trailer-1237231157
@@ -925,7 +1073,7 @@ Hart, Bryan Smiley, Jeff Clanagan, Mike Stein, Tiffany Brown and Candice Wilson 
 Lil Kev Season 2 premieres December 9 on Paramount+. Check out the trailer above.
 
 ============================================================
-[35] Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series
+[38] Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series
 Source: Deadline | Status: expanded | Words: 583
 Published: 2026-11-23T16:00:00+00:00
 URL: https://deadline.com/2026/11/frontline-one-in-a-million-youtube-release-1237231431
@@ -951,7 +1099,7 @@ Frontline&#x2019;s Aronson-Rath will be a guest on Deadline&#x2019;s Doc Talk po
 You can watch the trailer for One In a Million here.
 
 ============================================================
-[36] Colin Farrell: For Emma Fogarty, Who Means the World to Me
+[39] Colin Farrell: For Emma Fogarty, Who Means the World to Me
 Source: Variety | Status: expanded | Words: 828
 Published: 2026-11-23T16:00:00+00:00
 URL: https://variety.com/2026/tv/columns/colin-farrell-emma-fogarty-the-slightest-touch-hbo-epidermolysis-bullosa-1236955666
@@ -979,7 +1127,7 @@ She hadn&#x2019;t told me she&#x2019;d be coming, and it absolutely broke me &#x
 I only hope that I can offer her some measure of the same kind of love.
 
 ============================================================
-[37] People Are Crediting Britney Spears For Black Lace Comeback (But I Think It Goes To Catherine Zeta-Jones)
+[40] People Are Crediting Britney Spears For Black Lace Comeback (But I Think It Goes To Catherine Zeta-Jones)
 Source: CinemaBlend | Status: expanded | Words: 351
 Published: 2026-11-23T15:56:55+00:00
 URL: https://www.cinemablend.com/movies/people-crediting-britney-spears-black-lace-comeback-mkenna-grace-catherine-zeta-jones
@@ -999,7 +1147,7 @@ I really do think the Entrapment actress’ look not only came before Spears’ 
 We’re heading into winter, and we typically see a lot of black after the browns of fall fade out, but I just wanted to give an icon her due where I feel it is due. Though Ms. Spears’ dress is one I will always be thinking about.
 
 ============================================================
-[38] Land Before Time Remake Trailer Littlefoot Brings the 80s Kid Classic into 3D
+[41] Land Before Time Remake Trailer Littlefoot Brings the 80s Kid Classic into 3D
 Source: ComicBook.com | Status: expanded | Words: 628
 Published: 2026-11-23T15:55:26+00:00
 URL: https://comicbook.com/movies/news/land-before-time-remake-trailer-little-foot-brings-the-80s-kid-classic-into-3d
@@ -1027,7 +1175,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Amazon’s Jeff Bezos Just Said The Quiet Part Out Loud About Robert Pattinson Playing 007
+[42] Amazon’s Jeff Bezos Just Said The Quiet Part Out Loud About Robert Pattinson Playing 007
 Source: CinemaBlend | Status: expanded | Words: 307
 Published: 2026-11-23T15:51:23+00:00
 URL: https://www.cinemablend.com/movies/amazon-jeff-bezos-said-quiet-part-out-loud-robert-pattinson-playing-007
@@ -1047,7 +1195,7 @@ In the end, much to my relief, it sounds like everyone involved was on the same 
 Opinions on Pattinson becoming the ninth man to play James Bond have varied greatly, as to be expected. Many online were cheering the decision, while many others were unhappy with the choice. As a huge Bond fan (and someone who often uses his Prime subscription to rewatch the movies), I’m good with it. I want to see him play 007 before I form an opinion, as I think everyone should. Clearly, he was the first choice among the producers and, at least for now, we should trust them. Now...about that new Bond girl .
 
 ============================================================
-[40] 'Daredevil' Star Charlie Cox Asked to Audition for James Bond but Was Told He's Too Old: 'Robert Pattinson Is the Same Age as Me!'
+[43] 'Daredevil' Star Charlie Cox Asked to Audition for James Bond but Was Told He's Too Old: 'Robert Pattinson Is the Same Age as Me!'
 Source: Variety | Status: expanded | Words: 395
 Published: 2026-11-23T15:37:06+00:00
 URL: https://variety.com/2026/film/news/charlie-cox-james-bond-audition-too-old-1236955818
@@ -1069,7 +1217,7 @@ Pattinson issued a statement upon being announced as the new James Bond actor th
 The new James Bond movie is expected to go into production next year.
 
 ============================================================
-[41] Black Clover Season 2 Preview Teases Yuno's Next Big Power Up
+[44] Black Clover Season 2 Preview Teases Yuno's Next Big Power Up
 Source: ComicBook.com | Status: expanded | Words: 623
 Published: 2026-11-23T15:37:01+00:00
 URL: https://comicbook.com/anime/news/black-clover-season-2-preview-teases-yunos-next-big-power-up
@@ -1095,7 +1243,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3
+[45] David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-23T15:36:06+00:00
 URL: https://theplaylist.net/mindhunter-david-fincher-season-3-netflix-production-nightmare-20261123
@@ -1107,7 +1255,7 @@ CONTENT / EXTRACTED DETAILS:
 If you’ve followed all the reporting on David Fincher ’s “ Mindhunter ”—much of which we covered intensively— and the difficulties of making it, the reasons there’s no Season 3 make perfect sense. For one, Fincher never intended to be the showrunner, but ultimately found himself saddled with that responsibility. The 90—hour work weeks required to pull it off were all-consuming, the production challenges were enormous, and worse, the series cost an exorbitant amount of money to make—so much so that the viewership simply couldn’t justify the price tag. Continue reading David Fincher Details The “Clusterf*ck” Of Making ‘Mindhunter,’ Says Grueling 90-Hour Workweeks Left Them Nearly “Quadriplegics” By Season 3 at The Playlist.
 
 ============================================================
-[43] Spider-Man Routinely Holds Back, but These 5 Marvel Powerhouses Still Couldn't Beat Him
+[46] Spider-Man Routinely Holds Back, but These 5 Marvel Powerhouses Still Couldn't Beat Him
 Source: ComicBook.com | Status: expanded | Words: 1245
 Published: 2026-11-23T15:31:00+00:00
 URL: https://comicbook.com/comics/list/spider-man-routinely-holds-back-but-these-5-marvel-powerhouses-still-couldnt-beat-him
@@ -1147,7 +1295,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Sixty Years In The Making, Queer Thriller 'The Wrong People' Is Now In Post With 'The Affair' &#038; 'Emily In Paris' DoP Directing
+[47] Sixty Years In The Making, Queer Thriller 'The Wrong People' Is Now In Post With 'The Affair' &#038; 'Emily In Paris' DoP Directing
 Source: Deadline | Status: expanded | Words: 801
 Published: 2026-11-23T15:27:55+00:00
 URL: https://deadline.com/2026/11/queer-thriller-wrong-people-emily-in-paris-dop-cast-1237231529
@@ -1183,7 +1331,7 @@ Abell added: &#x201C;Robin Maugham used his place in the House of Lords to expos
 Luke Newberry is represented by Accelerate. Calum Ross is repped by The Artists Partnership. Caroline Goodall is represented by United Agents. Branka Katic is with Conway van Gelder Grant Joe Anderson is represented by United Agents. The Maugham estate is represented by Alan Brodie Representation Ltd.
 
 ============================================================
-[45] Taylor Swift Was NOT Giving The ‘Peace Sign’ At Travis Kelce’s Game. See Her Celebrating Her DH’s Touchdowns
+[48] Taylor Swift Was NOT Giving The ‘Peace Sign’ At Travis Kelce’s Game. See Her Celebrating Her DH’s Touchdowns
 Source: CinemaBlend | Status: expanded | Words: 211
 Published: 2026-11-23T15:20:00+00:00
 URL: https://www.cinemablend.com/television/taylor-swift-not-giving-peace-sign-travis-kelce-game-see-her-celebrating-dhs-touchdowns
@@ -1199,7 +1347,7 @@ Now, I didn't have a view into the family suite from my seat. Still, I did watch
 Patrick Mahomes found Kelce for an 8-yard score on the Chiefs' opening possession. Then, late in the second quarter, the quarterback connected with him again on a 22-yard touchdown pass. Kelce finished with six catches for 74 yards as Kansas City beat Arizona 34-7.
 
 ============================================================
-[46] Avengers: Doomsday Just Teased a Massive Upgrade for Thor, And a Subplot We Can't Predict
+[49] Avengers: Doomsday Just Teased a Massive Upgrade for Thor, And a Subplot We Can't Predict
 Source: ComicBook.com | Status: expanded | Words: 674
 Published: 2026-11-23T15:19:07+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-just-teased-a-massive-upgrade-for-thor-and-a-subplot-we-cant-predict
@@ -1225,7 +1373,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&#038;W Version Starring Tom Cruise Before Producer Torpedoed It
+[50] 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&#038;W Version Starring Tom Cruise Before Producer Torpedoed It
 Source: The Playlist | Status: summary_only | Words: 106
 Published: 2026-11-23T15:12:38+00:00
 URL: https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123
@@ -1235,86 +1383,4 @@ Hollywood is littered with stories about cool-sounding feature film projects tha
 
 CONTENT / EXTRACTED DETAILS:
 Hollywood is littered with stories about cool-sounding feature film projects that never happened or directors having creative issues, leading to being replaced. Well, D avid Fincher , who is behind " The Further Mis-Adventures of Cliff Booth ," has revealed his reasoning for exiting his original take on the infamous Los Angeles true-crime picture " The Black Dahlia " about an aspiring starlet named Elizabeth Short , who was BRUTALLY murdered and shocked the city for years to come. Continue reading 'The Black Dahlia': David Fincher Recalls Spending 4 Years Trying To Make A B&W Version Starring Tom Cruise Before Producer Torpedoed It at The Playlist.
-
-============================================================
-[48] Doomsday Just Confirmed Another Marvel Superhero Team Is Waiting on the Sideline, And Thor's Line Is Unfortunate
-Source: ComicBook.com | Status: expanded | Words: 593
-Published: 2026-11-23T15:10:59+00:00
-URL: https://comicbook.com/movies/news/doomsday-just-confirmed-another-marvel-superhero-team-is-waiting-on-the-sideline-and-thors-line-is-unfortunate
-------------------------------------------------------------
-SUMMARY:
-It seems one long-awaited MCU superhero team may finally be waiting in the wings in Avengers: Doomsday, based on the brand-new final Doomsday trailer—but that also came with the unfortunate confirmation of a major fan fear about the movie. This new trailer includes a host of reveals, from a look at Steve Rogers and Peggy […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google It seems one long-awaited MCU superhero team may finally be waiting in the wings in Avengers: Doomsday , based on the brand-new final Doomsday trailer —but that also came with the unfortunate confirmation of a major fan fear about the movie. This new trailer includes a host of reveals, from a look at Steve Rogers and Peggy Carter's son and a peek at the movie's X-Men lineup to confirmation that Steve is not actually Loki and Bucky and Steve will finally be reuniting . Yet, these approximately three minutes making up the trailer had even more reveals in store, one of which is the suggestion that one highly anticipated team, that may very well be the future of the franchise, could be coming.
-
-Specifically, audiences already knew that Cassie Lang was going to be in the movie, and there were hints that Kate Bishop would be in Doomsday too. Finally, we have confirmation on the latter, as Kate appears in this final trailer. With both Kate and Cassie accounted for, there is one superhero team in particular that could finally be in the works (arguably, just in time). Unfortunately, though, this exciting reveal also came with a line from Thor that confirms fans were valid in their concerns about Doomsday . Check out the trailer and more about this potential new team and Thor's line below.
-
-The Young Avengers Could Be Coming, But Doomsday Has Another Problem With the appearance of Kate Bishop in the new Doomsday trailer, the possibility that the Young Avengers are on their way in the MCU just got even more likely. For years now, this has been a topic of conversation within the fanbase, and it has long seemed like Marvel is setting up exactly that. So far, it's seemed like slow going, though. Yes, we have Cassie, Kate, Ironheart, the Maximoff twins, Ms. Marvel, and more, but they've largely not come together, and some of these characters seem to have been altogether sidelined. However, the MCU is said to be getting a soft reboot after Avengers: Secret Wars , which may be the perfect time for the Young Avengers to step in. Perhaps this is what Kate and Cassie's appearance in Doomsday will kick off.
-
-While that is exciting, this trailer does introduce another problem—or, rather, it confirms what fans had long been worried about. Specifically, Thor at one point makes a comment about not knowing half of the heroes he is fighting alongside. This was an issue fans raised months ago, with memes about Doomsday mostly being character introductions making the rounds online for quite some time. It's unlikely that there will really be that many drawn out character introductions, but it does suggest that this Avengers team-up may not be as satisfying or meaningful as what happens in Avengers: Infinity War and Avengers: Endgame . Of course, it's possible that Doomsday will still make it work somehow, and the wait to find out is nearly over, as Doomsday hits theaters in less than one month, on Dec. 18.
-
-Are you ready to see the Young Avengers in the MCU? Do you have concerns about Thor's line in the trailer? Share your thoughts in the comments down below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] ITV Issues Statement Amid Outcry Over AJ Odudu Experiencing "Microaggressions" On 'I'm A Celebrity… Get Me Out Of Here!'
-Source: Deadline | Status: expanded | Words: 540
-Published: 2026-11-23T15:08:41+00:00
-URL: https://deadline.com/2026/11/itv-statement-aj-odudu-mariella-frostrup-im-a-celeb-1237231538
-------------------------------------------------------------
-SUMMARY:
-ITV has said its duty of care to I'm A Celebrity… Get Me Out Of Here! contestants is of the "utmost importance" amid concern over an incident between campmates AJ Odudu and Mariella Frostrup. On Sunday evening, ITV broadcast footage of tensions between Big Brother host Odudu and broadcaster Frostrup over camp cooking duties (see […]
-
-CONTENT / EXTRACTED DETAILS:
-ITV has said its duty of care to I'm A Celebrity&#x2026; Get Me Out Of Here! contestants is of the "utmost importance" amid concern over an incident between campmates AJ Odudu and Mariella Frostrup .
-
-On Sunday evening, ITV broadcast footage of tensions between Big Brother host Odudu and broadcaster Frostrup over camp cooking duties (see below).
-
-During one exchange, Frostrup accused Odudu of being "aggressive" and creating a "drama out of a crisis." Odudu implored Frostrup not to "use those words towards me," adding: "'Dramatic' and 'aggressive' are very harsh words." Related Stories News Gordon Ramsay Teams With 'The Traitors' Host Claudia Winkleman To Reboot 'Hell's Kitchen' On ITV News 'Bridgerton' Star Adjoa Andoh Co-Creating & Starring In ITV Detective Drama 'Protect And Serve'
-
-The duo attempted to hash it out in a later conversation, during which Frostrup apologized. "Please don't call me aggressive," Odudu asked. "Only if you're not being aggressive," Frostrup replied. "So you stand by that?" Odudu added. "We'll agree to disagree on that one." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-Frostrup said: "I just said &#x2014; if you stop [talking] for a second &#x2014; I just said: If it upset you, I apologize. So can you bank that, so you know that I said that." Frostrup later told viewers that she hoped the matter was resolved.
-
-Odudu's experience prompted an outcry on social media. On Instagram, Strictly Come Dancing judge Motsi Mabuse wrote: "I wish there were better ways to protect ourselves from microaggressions and the cumulative emotional toll they take.
-
-"It's a weight that many will never fully understand, and sadly, some won't even try. The exhaustion comes not only from experiencing it, but also from constantly having to explain why it hurts."
-
-Comedian Judi Love said: "This is so loaded. And yet @ajodudu is the person who first apologised. Very uncomfortable to watch." Alesha Dixon, a judge on Britain's Got Talent , added: "@ajodudu for the win … Mariella in the bin!"
-
-Presenter Clara Amfo said: &#x201C;Calling a Black woman &#x2018;aggressive&#x2019; when she is being anything but is a classic microaggression. Mariella&#x2019;s tears, doubling down and then doing &#x2019;sorry if,&#x2019; woefully predictable. This is deeply uncomfortable.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-In a statement, an ITV spokesperson said: &#x201C;The production monitors everyone in camp 24/7 and if at any time we feel someone has overstepped the line by using inappropriate language or displaying unacceptable behaviour, we would take steps to intervene and speak to everyone involved.
-
-&#x201C;The duty of care for our contestants is of the utmost importance to us. We take the welfare of the celebrities very seriously and have measures in place to ensure they are supported at every stage of the process: before, during and after filming.&#x201D;
-
-============================================================
-[50] N64 Series Dormant Since 2008 May Finally Be Returning
-Source: ComicBook.com | Status: expanded | Words: 535
-Published: 2026-11-23T15:01:25+00:00
-URL: https://comicbook.com/gaming/news/n64-nintendo-64-banjo-kazooie-new-game
-------------------------------------------------------------
-SUMMARY:
-A series that got its start exclusively on the N64, which has been dormant since 2008, may finally be returning after nearly two decades. The series in question specifically dates back to 1998, and it was once a Nintendo series made exclusively for its console. At the time, this console was the N64. That said, […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A series that got its start exclusively on the N64 , which has been dormant since 2008, may finally be returning after nearly two decades. The series in question specifically dates back to 1998, and it was once a Nintendo series made exclusively for its console. At the time, this console was the N64. That said, Nintendo no longer owns the series. Now, Xbox owns the series, and Xbox has given it to Activision to manage, with Activision being the publisher primarily known for the Call of Duty series.
-
-Over on LinkedIn , alongside Call of Duty , Crash Bandicoot , Spyro the Dragon , Halo , Sea of Thieves , and Age of Empires , Activision lists Banjo-Kazooie as one of its iconic gaming franchises. Banjo-Kazooie sticks out in this list, as every other game in this list is either active or semi-active. It's the only dormant one, unless it's not staying dormant.
-
-"Activision is home to iconic gaming franchises including Call of Duty , Crash Bandicoot , Spyro the Dragon, and now… Halo , Age of Empires , Sea of Thieves , and Banjo-Kazooie ."
-
-Now calling Sea of Thieves iconic or even Age of Empires iconic feels like a stretch. Mario is iconic. The former is a popular game, and the latter is an important legacy series, but they aren't iconic. The same applies to Banjo-Kazooie as well. This is only relevant because it may be wise not to make too much of this list, as it may just be simple PR jargon and nothing more. It would be odd to reference a very dormant series in this way if you didn't have plans for it, but certainly plausible, especially when the reference is in a very generic PR statement.
-
-Just this year, Xbox publicly responded to demand for the series to return . It didn't announce anything or make any commitments, but a response itself is noteworthy compared to no response. Meanwhile, just this month, a few games in the series were made free to all Xbox Game Pass subscribers .
-
-As for the series itself, for those unfamiliar with it, it debuted in 1998 via the N64 and developer Rare. This first game was obviously called Banjo-Kazooie . In 2000, a sequel followed called Banjo-Tooie . This was another N64 exclusive. Then in 2003, there was Banjo-Kazooie: Grunty's Revenge for the Game Boy Advance, but while this one was also made by Rare, it was published by THQ after Microsoft acquired Rare from Nintendo. In 2005, there was another Game Boy Advance installment, Banjo-Pilot , from the same pair. Then came the final game in the series, and the first published by Xbox since Xbox acquired Rare and the IP from Nintendo. This game was Banjo-Kazooie: Nuts & Bolts , an Xbox 360 exclusive. Since then, the series has been on ice.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
