@@ -1,9 +1,31 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T08:35:09.339Z
+Last Updated: 2026-11-23T08:55:10.163Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Star Wars Finally Answered Empire Strikes Back's Weirdest Scene Six Years Ago, And It's Canon
+[1] Russell Brand's Wife Promises Not To Pass On Further Prison Messages
+Source: Deadline | Status: expanded | Words: 405
+Published: 2026-11-23T08:53:11+00:00
+URL: https://deadline.com/2026/11/russell-brand-wife-no-more-prison-messages-1237231440
+------------------------------------------------------------
+SUMMARY:
+Laura Brand, Russell Brand's wife, has pledged to obey prison rules after a scandal over her decision to pass on a message from her husband, in which he professed his innocence from behind bars. In a new video on Russell Brand's YouTube channel, Laura Brand said: “Last week’s episode drew considerable amount of attention and […]
+
+CONTENT / EXTRACTED DETAILS:
+Laura Brand , Russell Brand 's wife, has pledged to obey prison rules after a scandal over her decision to pass on a message from her husband, in which he professed his innocence from behind bars.
+
+In a new video on Russell Brand's YouTube channel, Laura Brand said: &#x201C;Last week&#x2019;s episode drew considerable amount of attention and now that I understand the parameters set by the brilliant and professional staff at HMP Littlehey, I will absolutely honour that.&#x201D;
+
+Laura Brand added that she would continue hosting the couple's Sunday Service show. &#x201C;I am choosing to continue Sunday Service because I really enjoy it,&#x201D; she said. &#x201C;It is also a place where I will continue to be proud to be a wife, a mother and a woman defending her family at a time when the media&#x2019;s image of what kind of a woman I am is under so much scrutiny.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News BBC Deputy Boss Questions Impact Of "Creative Choices Taken On West Coast Of United States" On UK Audiences News UK Culture Minister Delivers Emotional Plea To YouTube To "Set An Example" & Remove Russell Brand's Channel
+
+In a video last week, Laura Brand read out a message from her husband in which he declared: "I am not guilty for the offences I have been jailed for." The message was decried in the UK, including by a spokesperson for Prime Minister Andy Burnham. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The UK&#x2019;s Ministry of Justice (MoJ) called on YouTube to remove the video, but the Google-owned video service declined. An MoJ spokesperson said: &#x201C;It is only right that the government asks for content that is distressing for victims to be taken down, and we strongly believe YouTube should remove this content. Removal ultimately depends on the platform&#x2019;s own terms.&#x201D;
+
+A Google spokesperson said: &#x201C;We&#x2019;re aware of the new content and our teams are investigating. We suspended Russell Brand&#x2019;s channel from the YouTube Partner Program in September 2023. The channel has not been able to monetize on YouTube since then.&#x201D;
+
+============================================================
+[2] Star Wars Finally Answered Empire Strikes Back's Weirdest Scene Six Years Ago, And It's Canon
 Source: ComicBook.com | Status: expanded | Words: 779
 Published: 2026-11-23T08:34:00+00:00
 URL: https://comicbook.com/movies/feature/star-wars-finally-answered-empire-strikes-backs-weirdest-scene-six-years-ago-and-its-canon
@@ -31,7 +53,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] AI Films From Kerala to the Andaman Islands Win WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)
+[3] AI Films From Kerala to the Andaman Islands Win WIF India x Google Flow Filmathon, Screen at IFFI Goa (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 665
 Published: 2026-11-23T08:14:12+00:00
 URL: https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693
@@ -65,7 +87,7 @@ The Entertainment Society of Goa and the Government of Goa are backing the IFFI 
 WIF India has positioned the results as part of a larger goal: making sure women help decide what cinema looks like as new technology changes how films get made.
 
 ============================================================
-[3] ‘We Are Born Good’ Wins Best Film &#038; Original Screenplay At Taiwan's Golden Horse Awards
+[4] ‘We Are Born Good’ Wins Best Film &#038; Original Screenplay At Taiwan's Golden Horse Awards
 Source: Deadline | Status: expanded | Words: 768
 Published: 2026-11-23T07:02:10+00:00
 URL: https://deadline.com/2026/11/golden-horse-awards-we-are-born-good-anson-kong-taiwan-1237231390
@@ -147,7 +169,7 @@ FIPRESCI Prize: Girl , MandarinVision, J.Q. Pictures, Ocean Plus Co, CMC Enterta
 Audience Choice Award: Double Happiness , Track Eight Pictures, Yonder Pictures, Dawning Jade Entertainment Co, Splash Pictures
 
 ============================================================
-[4] Trump Headed To L.A. For Reagan Library Speech
+[5] Trump Headed To L.A. For Reagan Library Speech
 Source: Deadline | Status: expanded | Words: 325
 Published: 2026-11-23T05:29:13+00:00
 URL: https://deadline.com/2026/11/trump-l-a-reagan-library-speech-1237231401
@@ -171,7 +193,7 @@ The moderators are Fox News' Brett Baier, Politico's Jonathan Martin, CNBC's Mor
 You can find the full schedule here .
 
 ============================================================
-[5] An Unannounced Avenger Just Got Their Doomsday Chair Ahead of New Trailer Release
+[6] An Unannounced Avenger Just Got Their Doomsday Chair Ahead of New Trailer Release
 Source: ComicBook.com | Status: expanded | Words: 742
 Published: 2026-11-23T05:18:07+00:00
 URL: https://comicbook.com/movies/news/an-unannounced-avenger-just-got-their-doomsday-chair-ahead-of-new-trailer-release
@@ -201,7 +223,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Korea Box Office: Mystery Thriller 'White Blast' Opens at No. 1, Ending Five-Week 'Chiikawa' Reign
+[7] Korea Box Office: Mystery Thriller 'White Blast' Opens at No. 1, Ending Five-Week 'Chiikawa' Reign
 Source: Variety | Status: expanded | Words: 697
 Published: 2026-11-23T04:49:39+00:00
 URL: https://variety.com/2026/film/box-office/korea-box-office-mystery-thriller-white-blast-1236955658
@@ -237,7 +259,7 @@ Rounding out the top 10, Warner Bros. Pictures Animation's family comedy "The Ca
 The overall market collective gross for the weekend was $6 million, up from last week's $4.8 million.
 
 ============================================================
-[7] 4 '90s Classics That Need a Legacy Sequel After Home Alone, And One Also Stars Macaulay Culkin
+[8] 4 '90s Classics That Need a Legacy Sequel After Home Alone, And One Also Stars Macaulay Culkin
 Source: ComicBook.com | Status: expanded | Words: 896
 Published: 2026-11-23T03:55:25+00:00
 URL: https://comicbook.com/movies/list/4-90s-classics-that-need-a-legacy-sequel-after-home-alone-and-one-also-stars-macaulay-culkin
@@ -273,7 +295,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] 40 Years Ago, a Cult Director Made One of the Best Lovecraftian Horror Movies of All Time
+[9] 40 Years Ago, a Cult Director Made One of the Best Lovecraftian Horror Movies of All Time
 Source: ComicBook.com | Status: expanded | Words: 853
 Published: 2026-11-23T03:40:36+00:00
 URL: https://comicbook.com/movies/feature/40-years-ago-a-cult-director-made-one-of-the-best-lovecraftian-horror-movies-of-all-time
@@ -305,7 +327,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return
+[10] ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-23T03:36:40+00:00
 URL: https://theplaylist.net/avengers-doomsday-hailee-steinfeld-kate-bishop-return-20261122
@@ -317,7 +339,7 @@ CONTENT / EXTRACTED DETAILS:
 Marvel Studios has quietly confirmed another familiar face for “ Avengers: Doomsday ,” with Hailee Steinfeld set to reprise her role as Kate Bishop. Curiously, the announcement didn’t arrive through a major Marvel presentation or a dedicated casting reveal, but through an Instagram post promoting an entirely different Disney movie. In a joint Instagram post, Marvel Studios and Disney Animation promoted Steinfeld’s upcoming animated feature “ Hexed ” while casually revealing her involvement in the next Avengers film. Continue reading ‘Avengers: Doomsday’: Hailee Steinfeld’s Kate Bishop Officially Confirmed To Return at The Playlist.
 
 ============================================================
-[10] 'You Can See Everything' Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches
+[11] 'You Can See Everything' Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches
 Source: The Hollywood Reporter | Status: expanded | Words: 503
 Published: 2026-11-23T03:29:15+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421
@@ -341,7 +363,7 @@ You Can See Everything stands as a major Oscar contender as awards season heats 
 "It was sometimes a tense environment," cinematographer David Bolen recalled about the shoot during a recent screening at Camerimage. Bolen noted that he would exchange pleasantries with Holmes and partner Billy Evans , but that was generally the extent of their conversations: "I really tried to stay out of the situation as much as possible. Sometimes it would get tense, and you see in the office scene, it gets a little bit tense, and [I would] just try to be quiet and polite and get the cameras out."
 
 ============================================================
-[11] I Love Star Trek: The Next Generation but Deep Space Nine Blew It Out of the Water
+[12] I Love Star Trek: The Next Generation but Deep Space Nine Blew It Out of the Water
 Source: ComicBook.com | Status: expanded | Words: 1322
 Published: 2026-11-23T03:28:20+00:00
 URL: https://comicbook.com/startrek/feature/i-love-star-trek-the-next-generation-but-deep-space-nine-blew-it-out-of-the-water
@@ -379,7 +401,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Hailee Steinfeld Confirms She's In 'Avengers: Doomsday'
+[13] Hailee Steinfeld Confirms She's In 'Avengers: Doomsday'
 Source: Deadline | Status: expanded | Words: 286
 Published: 2026-11-23T03:27:25+00:00
 URL: https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382
@@ -405,7 +427,7 @@ Now, it seems, she is a part of the Doomsday ensemble.
 Disney and Marvel are releasing Avengers: Doomsday on December 18.
 
 ============================================================
-[13] ‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” &#038; “Ambitious Tension” In Her Marriage To Dr. Kirkland
+[14] ‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” &#038; “Ambitious Tension” In Her Marriage To Dr. Kirkland
 Source: Deadline | Status: expanded | Words: 1125
 Published: 2026-11-23T03:10:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-denee-benton-peggy-ambition-dr-kirkland-job-1237230732
@@ -443,7 +465,7 @@ Warfield agreed with Benton&#x2019;s assessment of the character.
 &#x201C;I think Peggy's character does surprise us, as Denee said in her reaction to things. I think people think will think a lot of things,&#x201D; the co-showrunner said. &#x201C;People might get a little bit upset because Dr. Kirkland is a catch, and I'm sure there are going to be women out there who are saying, 'Girl, if you don't want him, then&#x2026; [I'll take him!]'&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
 
 ============================================================
-[14] 90 Day Fiancé’s Armando Rubio Posts Update On His Daughter Hannah After Health Scare
+[15] 90 Day Fiancé’s Armando Rubio Posts Update On His Daughter Hannah After Health Scare
 Source: CinemaBlend | Status: expanded | Words: 225
 Published: 2026-11-23T03:01:00+00:00
 URL: https://www.cinemablend.com/television/90-day-fiance-armando-rubio-posts-update-daughter-hannah-after-health-scare
@@ -461,7 +483,7 @@ If you're someone who follows Kenny or Armando on social media, so much of this 
 As for Armando, he was able to obtain an emergency visa to get to the United States to be with Hannah, thanks to some work by Congresswoman Adelita Grijalva. So, for anyone watching the latest episode and holding their breath waiting for some bad news, you can breathe easy now.
 
 ============================================================
-[15] ‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] &#038; “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4
+[16] ‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] &#038; “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4
 Source: Deadline | Status: expanded | Words: 938
 Published: 2026-11-23T03:00:00+00:00
 URL: https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274
@@ -495,7 +517,7 @@ A meeting with Daniel Manning, Secretary of the Treasury during the first two ye
 George also confronts Rockefeller at the gentleman's club they both frequent for business and social life, displaying increasingly erratic behavior and raised voice, as he communicates to the oil baron his plan to get President Cleveland on their side.
 
 ============================================================
-[16] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
+[17] Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton's Bourbon on Board
 Source: The Hollywood Reporter | Status: expanded | Words: 836
 Published: 2026-11-23T02:50:53+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/delta-one-new-business-class-suite-amenities-seat-food-2026-1236760736
@@ -531,7 +553,7 @@ The new overhaul has launched on transoceanic Delta One routes departing from Lo
 &#x201C;Luxury is about having the experience designed around you &#x2014; today&#x2019;s premium traveler values choice as much as quality,&#x201D; says Kristen Manion Taylor, SVP &#x2013; Brand Experience, in a release. &#x201C;These enhancements offer greater flexibility, ensuring every Delta One customer can enjoy the journey in the way that suits them best.&#x201D;
 
 ============================================================
-[17] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
+[18] Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 744
 Published: 2026-11-23T02:43:23+00:00
 URL: https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634
@@ -573,7 +595,7 @@ Rodr&#xED;guez noted that the two countries had largely stuck to familiar market
 "Imagine the global Indian industry working with the Spanish-speaking world," he said. "Because Spain is not just Spain. It's access to the entire Spanish-speaking world &#x2013; over 500 million people. So if you can bring those two cultural superpowers together, imagine the potential."
 
 ============================================================
-[18] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
+[19] Clayface Streaming Release Date Revealed as the $30 Million Film Passes the DCU’s Biggest Bomb at the Box Office
 Source: ComicBook.com | Status: expanded | Words: 548
 Published: 2026-11-23T02:34:44+00:00
 URL: https://comicbook.com/movies/news/clayface-streaming-release-date-revealed-as-the-30-million-film-passes-the-dcus-biggest-bomb-at-the-box-office
@@ -601,7 +623,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
+[20] China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame
 Source: Variety | Status: expanded | Words: 444
 Published: 2026-11-23T02:33:16+00:00
 URL: https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624
@@ -623,7 +645,7 @@ Beijing Joy Fun Pictures' domestic body-swap comedy "Mr. & Mrs. Pardon" rounded 
 Mainland China's overall weekend box office reached $16 million, remaining locked in a sluggish late-fall stretch. Year-to-date box office revenue stands at $4.8 billion, trailing the same period in 2025 by 29.9%.
 
 ============================================================
-[20] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
+[21] A $1.8 Billion Action Fantasy Epic Has Sailed to Streaming Success and It Would be a Tragedy Not to Watch It
 Source: ComicBook.com | Status: expanded | Words: 729
 Published: 2026-11-23T02:30:00+00:00
 URL: https://comicbook.com/movies/news/a-1-8-billion-action-fantasy-epic-has-sailed-to-streaming-success-and-it-would-be-a-tragedy-not-to-watch-it
@@ -647,7 +669,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
+[22] Is the New Doomsday Trailer Coming Monday? MCU Star’s Post Makes It Even More Likely
 Source: ComicBook.com | Status: expanded | Words: 580
 Published: 2026-11-23T02:08:07+00:00
 URL: https://comicbook.com/movies/news/is-the-new-doomsday-trailer-coming-monday-mcu-stars-post-makes-it-even-more-likely
@@ -675,7 +697,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
+[23] Marvel Heroes Are Having an Identity Crisis, and It's About More Than Secret Identities
 Source: ComicBook.com | Status: expanded | Words: 1095
 Published: 2026-11-23T02:05:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-heroes-are-having-an-identity-crisis-and-its-about-more-than-secret-identities
@@ -709,7 +731,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
+[24] 5 Invincible Universe Characters I'm Still Waiting to See in the Prime Video Series
 Source: ComicBook.com | Status: expanded | Words: 1040
 Published: 2026-11-23T02:00:48+00:00
 URL: https://comicbook.com/tv-shows/list/5-invincible-universe-characters-im-still-waiting-to-see-in-the-prime-video-series
@@ -749,7 +771,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
+[25] Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd
 Source: Variety | Status: expanded | Words: 301
 Published: 2026-11-23T02:00:46+00:00
 URL: https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605
@@ -773,7 +795,7 @@ In a video shared to X , an official at the concert announced that the show woul
 On Tuesday, days before the concert, Toliver announced &#x201C;Nitrous,&#x201D; his sixth album, would be released Dec. 4. The day prior, Toliver received five nominations for the 2027 Grammy Awards, including best new artist, best rap album, best rap performance, best rap song and best melodic rap performance.
 
 ============================================================
-[25] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
+[26] Ina Garten Reveals Why She Will Never Do 'Dancing With The Stars'
 Source: Deadline | Status: expanded | Words: 307
 Published: 2026-11-23T01:53:45+00:00
 URL: https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317
@@ -799,7 +821,7 @@ Despite her resistance to doing the cha-cha on TV, Garten said that generally sh
 The Dancing with the Stars finale will air live coast-to-coast for the first time on Tuesday.
 
 ============================================================
-[26] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
+[27] Hailee Steinfeld Confirms 'Avengers: Doomsday' Return as Kate Bishop
 Source: Variety | Status: expanded | Words: 370
 Published: 2026-11-23T01:32:26+00:00
 URL: https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585
@@ -823,7 +845,7 @@ Prior to Steinfeld's announcement, Elizabeth Olsen's Scarlet Witch was most rece
 &#x201C; Avengers: Doomsday ,&#x201D; which hits theaters on Dec. 18.
 
 ============================================================
-[27] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
+[28] 6 Great Crime Films to Watch When You Eventually Need A Break From GTA VI
 Source: ComicBook.com | Status: expanded | Words: 1222
 Published: 2026-11-23T01:24:06+00:00
 URL: https://comicbook.com/movies/list/6-great-crime-films-to-watch-when-you-eventually-need-a-break-from-gta-vi
@@ -867,7 +889,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Doctor Who's First Major Action Figure Line Was Infamously Bad, But Fans Couldn't Get Enough of It
+[29] Doctor Who's First Major Action Figure Line Was Infamously Bad, But Fans Couldn't Get Enough of It
 Source: ComicBook.com | Status: expanded | Words: 1562
 Published: 2026-11-23T01:23:00+00:00
 URL: https://comicbook.com/collectibles/news/doctor-whos-first-major-action-figure-line-was-infamously-bad-but-fans-couldnt-get-enough-of-it
@@ -905,7 +927,7 @@ Spider-Man's supporting cast is hard to beat, but my favorite is hands down Capt
 I hadn't thought of Captain Marvel. Honestly, I haven't read much Captain Marvel in a long time.
 
 ============================================================
-[29] This Intense 10/10 Stephen King Thriller Has Become a Free Streaming Obsession
+[30] This Intense 10/10 Stephen King Thriller Has Become a Free Streaming Obsession
 Source: ComicBook.com | Status: expanded | Words: 695
 Published: 2026-11-23T01:00:00+00:00
 URL: https://comicbook.com/movies/news/this-intense-10-10-stephen-king-thriller-has-become-a-free-streaming-obsession
@@ -929,7 +951,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Marvel Is Bringing Back One of the X-Men's Most Dangerous Villains to Face Its Most Dysfunctional Team
+[31] Marvel Is Bringing Back One of the X-Men's Most Dangerous Villains to Face Its Most Dysfunctional Team
 Source: ComicBook.com | Status: expanded | Words: 884
 Published: 2026-11-23T00:55:36+00:00
 URL: https://comicbook.com/comics/feature/marvel-is-bringing-back-one-of-the-x-mens-most-dangerous-villains-to-face-its-most-dysfunctional-team
@@ -961,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] 5 Femme Fatales That Made Superheroes' Lives a Living Hell (Including One of DC's Most Famous Characters)
+[32] 5 Femme Fatales That Made Superheroes' Lives a Living Hell (Including One of DC's Most Famous Characters)
 Source: ComicBook.com | Status: expanded | Words: 1082
 Published: 2026-11-23T00:42:00+00:00
 URL: https://comicbook.com/comics/list/5-femme-fatales-that-made-superheroes-lives-a-living-hell-including-one-of-dcs-most-famous-characters
@@ -1001,7 +1023,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] The Most Underrated Star Trek: Deep Space Nine Episode Is Also One of Its Best
+[33] The Most Underrated Star Trek: Deep Space Nine Episode Is Also One of Its Best
 Source: ComicBook.com | Status: expanded | Words: 1540
 Published: 2026-11-23T00:26:41+00:00
 URL: https://comicbook.com/tv-shows/feature/the-most-underrated-star-trek-deep-space-nine-episode-is-also-one-of-its-best
@@ -1043,7 +1065,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Brighter Than The Sun: How Lionsgate Marketing &#038; PR Turned B.O. Around For 'Sunrise On The Reaping'
+[34] Brighter Than The Sun: How Lionsgate Marketing &#038; PR Turned B.O. Around For 'Sunrise On The Reaping'
 Source: Deadline | Status: expanded | Words: 1953
 Published: 2026-11-23T00:24:35+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246
@@ -1103,7 +1125,7 @@ In the end, Sunrise on the Reaping pulled in 7.1 million admission this weekend 
 You could say that the odds were greatly in the favor of Sunrise of the Reaping 's marketing campaign.
 
 ============================================================
-[34] Dragon Ball Needs to Retcon One of Its Weirdest Android 18 Choices
+[35] Dragon Ball Needs to Retcon One of Its Weirdest Android 18 Choices
 Source: ComicBook.com | Status: expanded | Words: 614
 Published: 2026-11-23T00:18:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-needs-to-retcon-one-of-its-weirdest-android-18-choices
@@ -1133,7 +1155,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] 5 Forgotten 1990s Cartoons That Every ’80s Kid Saw on Saturday Mornings, But No One Talks About Now
+[36] 5 Forgotten 1990s Cartoons That Every ’80s Kid Saw on Saturday Mornings, But No One Talks About Now
 Source: ComicBook.com | Status: expanded | Words: 1445
 Published: 2026-11-22T23:58:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-forgotten-1990s-cartoons-that-every-80s-kid-saw-on-saturday-mornings-but-no-one-talks-about-now
@@ -1173,7 +1195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4
+[37] Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2's 'Carnaval de Luz' Bows at No. 4
 Source: Variety | Status: expanded | Words: 463
 Published: 2026-11-22T23:27:32+00:00
 URL: https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537
@@ -1197,7 +1219,7 @@ Among the eight holdovers in the top 10, Olivia Rodrigo's "You Seem Pretty Sad f
 Rounding out the top 10 were Morgan Wallen's "I'm the Problem" at No. 3; Noah Kahan's "The Great Divide" and "Stick Season" at Nos. 5 and 7, respectively; Ella Langley's CMA-winning "Dandelion" at No. 6; SZA's "SOS" at No. 8; Olivia Dean's "The Art of Loving" at No. 9; and Lil Baby's "Fresh," dropping eight spots to No. 10 in its second week.
 
 ============================================================
-[37] I’ve Been Worried About 9-1-1’s Buck And Eddie, And The EP Explained Where They Stand After The Latest Midseason Finale
+[38] I’ve Been Worried About 9-1-1’s Buck And Eddie, And The EP Explained Where They Stand After The Latest Midseason Finale
 Source: CinemaBlend | Status: expanded | Words: 389
 Published: 2026-11-22T23:21:00+00:00
 URL: https://www.cinemablend.com/television/ive-worried-911s-buck-eddie-ep-where-stand-after-midseason-10-finale
@@ -1217,7 +1239,7 @@ Despite the growing tension in the midseason finale, Buck and Eddie had somewhat
 I have been worried about Buck and Eddie’s relationship since the beginning of the season, when it was clear that Buck fostering Theo would bring some problems. And it didn’t get any easier when Eddie became the foster parent. I’m definitely glad that they’ve crossed a barrier, and they both realize how they acted in this situation might not have been the best. However, I am looking forward to seeing what happens now that they have an understanding with each other and Theo.
 
 ============================================================
-[38] This Golden Age Flash First Appearance Could Be Worth $234,000, But There's a Catch
+[39] This Golden Age Flash First Appearance Could Be Worth $234,000, But There's a Catch
 Source: ComicBook.com | Status: expanded | Words: 1501
 Published: 2026-11-22T23:15:00+00:00
 URL: https://comicbook.com/collectibles/news/this-golden-age-flash-first-appearance-could-be-worth-234000-but-theres-a-catch
@@ -1249,7 +1271,7 @@ Oh there are so many great pieces from Frank Frazetta! I've always loved Death D
 Also the Buck Rodger’s covers he did for Famous Funnies.
 
 ============================================================
-[39] I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced
+[40] I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced
 Source: CinemaBlend | Status: expanded | Words: 341
 Published: 2026-11-22T23:06:00+00:00
 URL: https://www.cinemablend.com/movies/sylvester-stallone-caused-drama-after-i-play-rocky-announced
@@ -1267,7 +1289,7 @@ The mere thought of getting heat from fans is daunting enough, but receiving hea
 While all this drama was due to a simple misunderstanding, it definitely created quite a mess for the filmmaking team. No lasting damage was seemingly done, though, and I’d say that things have been working out for Farrelly and his collaborators. The movie has been well received and gaining considerable buzz in the lead-up to the Oscars. It even received a stamp of approval from Ryan Gosling . As for Stallone, he admitted he was prepared to be “hypercritical” of the film, but he ended up really enjoying the movie as a whole and lead actor Anthony Ippolito’s portrayal of him.
 
 ============================================================
-[40] 5 Most Powerful One Piece Characters Luffy’s Gear 5 Can’t Defeat
+[41] 5 Most Powerful One Piece Characters Luffy’s Gear 5 Can’t Defeat
 Source: ComicBook.com | Status: expanded | Words: 1175
 Published: 2026-11-22T23:04:00+00:00
 URL: https://comicbook.com/anime/list/5-most-powerful-one-piece-characters-luffys-gear-5-cant-defeat
@@ -1307,7 +1329,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Mahershala Ali Says Having 2 Oscars "Doesn't Matter" When Getting Cast: "It Doesn't Translate To Anything Real"
+[42] Mahershala Ali Says Having 2 Oscars "Doesn't Matter" When Getting Cast: "It Doesn't Translate To Anything Real"
 Source: Deadline | Status: expanded | Words: 562
 Published: 2026-11-22T23:01:58+00:00
 URL: https://deadline.com/2026/11/mahershala-ali-2-oscars-doesnt-matter-getting-cast-1237231259
@@ -1331,7 +1353,7 @@ At the same time, Ali doesn't want to be typecast in another "diversity project,
 With Ali earning Oscar buzz for his latest starring role in Bassam Tariq's Y our Mother Your Mother Your Mother , the actor previously won Best Supporting Actor for Moonlight in 2017 and Green Book in 2019.
 
 ============================================================
-[42] Why Did the Hunger Games Cut Major McKenna Grace Scenes? Sunrise on the Reaping Director Addresses the Backlash
+[43] Why Did the Hunger Games Cut Major McKenna Grace Scenes? Sunrise on the Reaping Director Addresses the Backlash
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-22T22:58:40+00:00
 URL: https://comicbook.com/movies/news/why-did-the-hunger-games-cut-major-mckenna-grace-scenes-sunrise-on-the-reaping-director-addresses-the-backlash
@@ -1353,7 +1375,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon
+[44] Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon
 Source: Variety | Status: expanded | Words: 1138
 Published: 2026-11-22T22:46:48+00:00
 URL: https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499
@@ -1399,7 +1421,7 @@ Hollywood has also seen the pitfalls of stretching a franchise beyond its source
 &#x201C; The Hunger Games: Sunrise on the Reaping &#x201D; is playing in theaters now.
 
 ============================================================
-[44] Robert Eggers Says He's "Eager" to Take a Break From Horror Genre After 'Werwulf'
+[45] Robert Eggers Says He's "Eager" to Take a Break From Horror Genre After 'Werwulf'
 Source: The Hollywood Reporter | Status: expanded | Words: 488
 Published: 2026-11-22T22:44:25+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762
@@ -1427,7 +1449,7 @@ While enjoying his "break" from horror, Eggers is next taking on an adaptation o
 He previously shared during a post-screening Q&A at Beyond Fest in September, "I was doing something else. But what happened was, after Werwulf , I was writing another horror movie, and it got so dark again, and I was like, 'I need a break. So, I&#x2019;ll do something about two teenagers killing themselves.'"
 
 ============================================================
-[45] I Never Knew Patrick Stewart Called Up Kyle MacLachlan For Advice Before Joining Star Trek
+[46] I Never Knew Patrick Stewart Called Up Kyle MacLachlan For Advice Before Joining Star Trek
 Source: CinemaBlend | Status: expanded | Words: 206
 Published: 2026-11-22T22:31:13+00:00
 URL: https://www.cinemablend.com/television/patrick-stewart-called-up-kyle-maclachlan-advice-before-joining-star-trek
@@ -1443,7 +1465,7 @@ Based on those comments, it seemed Patrick Stewart had some concerns about commi
 That tapestry of work will extend to the end of the 2026 movie schedule , as the late Stewart will appear as Professor Charles Xavier in Avengers: Doomsday later this year. Stewart reportedly told co-stars backstage that it would be his final acting performance , marking his retirement. Stewart would refute those claims months later, saying that he considered acting to be something he would do his entire life .
 
 ============================================================
-[46] 5 DC Nations That Even the World's Greatest Heroes Would Think Twice About Challenging
+[47] 5 DC Nations That Even the World's Greatest Heroes Would Think Twice About Challenging
 Source: ComicBook.com | Status: expanded | Words: 997
 Published: 2026-11-22T22:31:00+00:00
 URL: https://comicbook.com/comics/list/5-dc-nations-that-even-the-worlds-greatest-heroes-would-think-twice-about-challenging
@@ -1473,7 +1495,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Broadway's 'Two Strangers (Carry A Cake Across New York)' Announces Off Broadway Move
+[48] Broadway's 'Two Strangers (Carry A Cake Across New York)' Announces Off Broadway Move
 Source: Deadline | Status: expanded | Words: 329
 Published: 2026-11-22T22:30:00+00:00
 URL: https://deadline.com/2026/11/two-strangers-carry-a-cake-across-new-york-off-broadway-1237230995
@@ -1499,7 +1521,7 @@ The Off Broadway production of Two Strangers (Carry a Cake Across New York) will
 The musical is produced Off Broadway by Kevin McCollum, Tim Johanson, Glass Half Full Productions, and Jamie Wilson Productions.
 
 ============================================================
-[48] Wondered What's Going On With Disney World's Indiana Jones Ride? We Have Our First Look
+[49] Wondered What's Going On With Disney World's Indiana Jones Ride? We Have Our First Look
 Source: CinemaBlend | Status: expanded | Words: 308
 Published: 2026-11-22T22:16:47+00:00
 URL: https://www.cinemablend.com/theme-parks/new-look-disney-world-indiana-jones-ride-imageneers
@@ -1517,7 +1539,7 @@ I was definitely not thrilled about the Animal Kingdom changes at first, but I t
 When the ride eventually opens sometime next year, guests will embark on an adventure alongside Indy that will take them to a temple that legend says has a water passageway that leads to an underworld protected by a mythic serpent. Imagineers are still keeping much of the actual ride experience under wraps for now. However, with two other cart-style Indiana Jones attractions at other Disney parks and reports that the Dinosaur ride is being rethemed instead of totally demolished, it’s safe to say that this version of Indiana Jones will take guests on a bumpy ride full of twists, turns, snakes (or serpents in this case), and adventure.
 
 ============================================================
-[49] One Hunger Games Book Change Bothered Me Back In The Day, But Now I Understand Why It Was Made
+[50] One Hunger Games Book Change Bothered Me Back In The Day, But Now I Understand Why It Was Made
 Source: CinemaBlend | Status: expanded | Words: 301
 Published: 2026-11-22T22:05:00+00:00
 URL: https://www.cinemablend.com/movies/hunger-games-rewatch-book-change-bothered-me-understand-why
@@ -1533,26 +1555,4 @@ These days I think the original The Hunger Games movie is pretty great, and I’
 In the movie, Peeta gets injured like in the book, but Katniss nurses him back to health, and he completely recovers by the end. Yet, in the source material, Peeta is practically bleeding out right before they become the final people in the arena. Katniss is desperate to help him, and she suggests they both have poisonous berries so she can save them both. When they reunite for the post-victory interview with Caesar Flickerman, she learns that his leg had to be amputated right after they left the arena.
 
 However, it just dawned on me during my recent rewatch (with my Hulu subscription ) that I haven’t thought about this change to The Hunger Games in a really long time. I guess, ultimately, it didn’t really matter that Peeta only has one leg in the scope of the whole series, and it probably would have caused some extra special effects headaches for the filmmaking team.
-
-============================================================
-[50] Would Star Wars’ Most Divisive Director Want to Return? Rian Johnson Addresses Future Interest in the Series
-Source: ComicBook.com | Status: expanded | Words: 508
-Published: 2026-11-22T22:01:54+00:00
-URL: https://comicbook.com/movies/news/would-star-wars-most-divisive-director-want-to-return-rian-johnson-addresses-future-interest-in-the-series
-------------------------------------------------------------
-SUMMARY:
-It's no secret that you either love Rian Johnson or you hate him. At least, that's the case if you're a Star Wars fan, and fans have always been vocal about their stance on the director, with The Last Jedi, the second film in the Star Wars sequel trilogy, becoming one of the franchise's most […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google It's no secret that you either love Rian Johnson or you hate him. At least, that's the case if you're a Star Wars fan , and fans have always been vocal about their stance on the director, with The Last Jedi , the second film in the Star Wars sequel trilogy, becoming one of the franchise's most divisive films. It's also a well-known fact that Johnson left the franchise on less-than-stellar terms—both in a fandom sense and in his working relationship with Kathleen Kennedy before she stepped down as head honcho . But would the director ever return? Seemingly, the answer is "yes."
-
-This weekend at the Marrakech Film Festival , Johnson touched on all sorts of things, including his feelings about Curry Barker representing hope in the effort to save indie filmmaking . And when he was inevitably asked if he'd return to a galaxy far, far away, Johnson said it was a world he "deeply loved." He had initially jumped at the opportunity to direct a Star Wars film, and elaborated on his experience, saying, “I love Star Wars more now than I ever have. And it’s exciting to me that there are a lot of different voices now, taking cracks at it. I’m already writing the next thing I’m gonna do, and it’s not a Star Wars thing or a Knives Out thing." He added, "Right now, I’m very much enjoying making my own stuff, but if the opportunity presented itself, it’s a world I deeply love.”
-
-"I felt just so connected to it, and just cared so deeply about every single element of it. I think, especially with something that has a big cultural impact and belongs to everybody, that makes it even more important for you and the entire team to make it personal for yourselves, to make sure it’s coming from a personal perspective and something that’s deeply on fire inside of you," he said about his desire to do something special with the second film in the sequel trilogy. And it's undeniable that he took risks, creating something that the franchise had never seen before.
-
-As expected, Star Wars fans are divided, though the most common opinion is to give Johnson his own standalone film and "let him cook," or to set him free in the Old Republic era. "After his film, the studio executives have gone overly cautious. Some potentially fascinating films by amazing filmmakers have been proposed and canned. It's a real shame," said one fan on X, highlighting how Disney has overcorrected in the wake of the disaster that was The Rise of Skywalker , shelving projects like The Hunt for Ben Solo and canceling shows like The Acolyte .
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
