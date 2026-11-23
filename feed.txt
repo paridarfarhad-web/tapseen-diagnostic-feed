@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T14:31:27.266Z
+Last Updated: 2026-11-23T14:35:31.862Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)
+[1] Democratic National Committee Plans 12 Presidential Primary Debates Starting In June
+Source: Deadline | Status: expanded | Words: 465
+Published: 2026-11-23T14:34:46+00:00
+URL: https://deadline.com/2026/11/democratic-primary-debates-2028-1237231530
+------------------------------------------------------------
+SUMMARY:
+The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June. No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between […]
+
+CONTENT / EXTRACTED DETAILS:
+The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June.
+
+No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between media brands. MS NOW posted the exclusive on the DNC announcement.
+
+Per the DNC, the first tywo debates will occur in June and July, and the final one will take place in March, 2028, with the schedule subject to adjustments. The DNC also says that it will be "incorporating creators and influencers" into the debate, reflecting their influence in the process. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News CBS News Staffers Take Buyout Offers As Skydance Looks For Cost Savings News Donald Trump Touts "Unbelievable" Bipartisan Support For Federal Film & TV Incentive, Says Theaters May Be Added: "It's Going To Happen"
+
+The DNC also is trying to restrict candidates from participating in other debates. "Candidates may participate in town halls, forums, or other events in which one candidate appears on stage at a time. However, they may not participate in events in which two or more candidates share the stage, whether virtually or in-person, and answer questions &#x2013; which would constitute an unsanctioned debate," per the DNC. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The field of candidates also is expected to be huge, with the DNC capping the number of contenders at 20 across two nights. Exact eligibility criteria will be announced, but it will include "polling and other objective measures," such as grassroots fundraising.
+
+Candidates also will have to sign the DNC's "Fair Campaign Practices Pledge," with a commitment "to denounce dark money spending in our primary in order to qualify for debate participation." That dark money is described as "any advertising spending "by a Section 501(c)(4) social welfare organization or a federal political committee that raises and spends outside of federal contribution limits and source restrictions."
+
+The DNC also is trying to restrict candidates from campaigning in unsanctioned contests in the early part of the race, with a schedule quite different from the Iowa-News Hampshire kickoff of cycles past. The primary season starts with South Carolina on Jan. 22, 2028, followed by Nevada on Feb. 1, New Hampshire on Feb. 8, New Mexico on Feb. 15, Michigan on Feb. 22 and Virginia on Feb. 29.
+
+============================================================
+[2] Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 379
 Published: 2026-11-23T14:30:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/man-vs-truck-dark-comedy-ben-petrie-chris-locke-1236760057
@@ -27,7 +51,7 @@ Stenson&#x2019;s earlier film credits include Events Transpiring Before, During 
 Kino Sum Productions, Peterson Polaris Corp, and Filmoption produce Man Vs Truc k, with Gillian McKercher, Guillaume Carlier, Isabelle Legault and Martin Cadieux Rouillard sharing the producer credits, and Paul Cadieux executive producing.
 
 ============================================================
-[2] Avengers: Doomsday’s Final Trailer Confirmed a Major Loki Theory Is Wrong
+[3] Avengers: Doomsday’s Final Trailer Confirmed a Major Loki Theory Is Wrong
 Source: ComicBook.com | Status: expanded | Words: 609
 Published: 2026-11-23T14:28:51+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsdays-final-trailer-confirmed-a-major-loki-theory-is-wrong
@@ -53,7 +77,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Final Avengers: Doomsday Trailer Features Bombshell Moments From Steve Rogers And Cyclops
+[4] Final Avengers: Doomsday Trailer Features Bombshell Moments From Steve Rogers And Cyclops
 Source: CinemaBlend | Status: expanded | Words: 200
 Published: 2026-11-23T14:24:11+00:00
 URL: https://www.cinemablend.com/movies/final-avengers-doomsday-trailer-bombshell-moments-steve-rogers-cyclops
@@ -69,7 +93,7 @@ Moviegoers are also psyched about seeing the OG stars of the X-Men movies in the
 The shot of the heroes assembling is the thing of nerdy dreams, with the X-Men being teleported into the battlefield courtesy of Alan Cumming 's Nightcrawler. Seeing the mutants alongside Steve Rogers, Sam Wilson, Thor, and Reed Richards is downright epic, especially since Cyclops said that beloved line that's been uttered in the comics, as well as X-Men '97 (which is streaming with a Disney+ subscription ).
 
 ============================================================
-[4] Jujutsu Kaisen's Gojo Actor Has a Role in GTA 6 &#038; You Probably Missed It
+[5] Jujutsu Kaisen's Gojo Actor Has a Role in GTA 6 &#038; You Probably Missed It
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-23T14:23:00+00:00
 URL: https://comicbook.com/gaming/news/jujutsu-kaisens-gojo-actor-has-a-role-in-gta-6-you-probably-missed-it
@@ -95,7 +119,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Final 'Avengers: Doomsday' Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life
+[6] Final 'Avengers: Doomsday' Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life
 Source: Deadline | Status: expanded | Words: 95
 Published: 2026-11-23T14:19:52+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535
@@ -113,7 +137,7 @@ Comments On Deadline Hollywood are monitored. So don't go off topic, don't imper
 &#916; document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
 ============================================================
-[6] Nvidia Reinstates Jensen Huang As CEO
+[7] Nvidia Reinstates Jensen Huang As CEO
 Source: Deadline | Status: expanded | Words: 637
 Published: 2026-11-23T14:17:50+00:00
 URL: https://deadline.com/2026/11/nvidia-reinstates-jensen-huang-ceo-1237231532
@@ -139,7 +163,7 @@ As previously announced, in light of recent reporting that Mr. Huang has been th
 The Board also recently formed a National Security and Export Control Committee comprised solely of independent directors to oversee trade compliance and national security risks. The committee is engaging counsel with experience in national security matters, and such counsel will be retaining advisors with expertise in national security matters. NVIDIA is commencing a search to fill a new position, Chief Compliance Officer, to oversee compliance across NVIDIA and report to the Nominating and Corporate Governance Committee. NVIDIA will continue to cooperate with ongoing government investigations and inquiries.
 
 ============================================================
-[7] Tom Misselbrook Exits 'Sunny Nights' Firm Cineflix After Six Years
+[8] Tom Misselbrook Exits 'Sunny Nights' Firm Cineflix After Six Years
 Source: Deadline | Status: expanded | Words: 516
 Published: 2026-11-23T14:14:39+00:00
 URL: https://deadline.com/2026/11/tom-misselbrook-exits-cineflix-after-six-years-1237231492
@@ -167,7 +191,7 @@ A familiar face at international confabs, Misselbrook spent six years at Miramax
 Earlier this year, Cineflix production wing Cineflix Productions said goodbye to its President, J.C. Mills, while former Cineflix scripted TV chief James Durie launched High Road Entertainment with Richard Tulk-Hart.
 
 ============================================================
-[8] ‘Avengers: Doomsday’ Trailer: Marvel’s Mightiest Heroes Unite To Save The Multiverse
+[9] ‘Avengers: Doomsday’ Trailer: Marvel’s Mightiest Heroes Unite To Save The Multiverse
 Source: The Playlist | Status: summary_only | Words: 90
 Published: 2026-11-23T14:13:10+00:00
 URL: https://theplaylist.net/avengers-doomsday-trailer-rival-avengers-teams-three-universes-20261123
@@ -179,7 +203,7 @@ CONTENT / EXTRACTED DETAILS:
 Marvel’s multiverse is coming apart, and Earth’s mightiest heroes can’t even agree on who gets to call themselves the Avengers. In “Avengers: Doomsday,” Sam Wilson’s team and the former Thunderbolts’ New Avengers are thrown together with the X-Men and Fantastic Four as three universes hurtle toward a collision—and Robert Downey Jr. ’s Doctor Doom emerges with his own ideas about saving them. Marvel ’s official synopsis places three universes on a deadly collision course. Continue reading ‘Avengers: Doomsday’ Trailer: Marvel’s Mightiest Heroes Unite To Save The Multiverse at The Playlist.
 
 ============================================================
-[9] Robert Eggers Says "I Need A Break" From Horror After Making 'Werwulf,' But Stops Short Of Swearing It Off Entirely
+[10] Robert Eggers Says "I Need A Break" From Horror After Making 'Werwulf,' But Stops Short Of Swearing It Off Entirely
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-23T14:11:51+00:00
 URL: https://theplaylist.net/robert-eggers-break-from-horror-after-werwulf-20261123
@@ -191,7 +215,7 @@ CONTENT / EXTRACTED DETAILS:
 Filmmaker Robert Eggers has become the kind of period genre-mixing director, blending thriller and horror elements, with " Werwulf " on deck this Christmas, allowing him to tackle werewolf mythology after dabbling with witches via " The Witch ," vampires in his remake of " Nosferatu ," the magic/undead of Norse mythology in " The Northman " (mostly a film about revenge), and the Lovecraftian-infused madness of " The Lighthouse ." He is now saying he wants a bit of a break from horror. Continue reading Robert Eggers Says "I Need A Break" From Horror After Making 'Werwulf,' But Stops Short Of Swearing It Off Entirely at The Playlist.
 
 ============================================================
-[10] Before Peacemaker, John Cena Started His Acting Career With a Movie That Became an Unlikely Franchise
+[11] Before Peacemaker, John Cena Started His Acting Career With a Movie That Became an Unlikely Franchise
 Source: ComicBook.com | Status: expanded | Words: 876
 Published: 2026-11-23T14:10:00+00:00
 URL: https://comicbook.com/movies/feature/before-peacemaker-john-cena-started-his-acting-career-with-a-movie-that-became-an-unlikely-franchise
@@ -223,7 +247,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] 'Avengers: Doomsday' Final Trailer: Captain America's Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men
+[12] 'Avengers: Doomsday' Final Trailer: Captain America's Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men
 Source: Variety | Status: expanded | Words: 380
 Published: 2026-11-23T14:09:57+00:00
 URL: https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948
@@ -245,7 +269,7 @@ The stars of "Fantastic Four: First Steps, including Pedro Pascal as Mister Fant
 From Fox's "X-Men" universe, Patrick Stewart is back as Prof. Charles Xavier, Ian McKellen is Magneto, James Marsden is Cyclops, Kelsey Grammer is Beast, Rebecca Romijn is Mystique, Alan Cumming is Nightcrawler and Channing Tatum is Gambit.
 
 ============================================================
-[12] 'Fjord' Director Cristian Mungiu Says It's Up to Audiences to Make Up Their Own Minds About Polarizing Palme d'Or Winner: 'The Film Is Not Divisive. Society Is Divided'
+[13] 'Fjord' Director Cristian Mungiu Says It's Up to Audiences to Make Up Their Own Minds About Polarizing Palme d'Or Winner: 'The Film Is Not Divisive. Society Is Divided'
 Source: Variety | Status: expanded | Words: 855
 Published: 2026-11-23T14:07:52+00:00
 URL: https://variety.com/2026/film/news/fjord-director-cristian-mungiu-polarizing-palme-dor-winner-1236955722
@@ -279,13 +303,13 @@ Mungiu is part of a loaded lineup of talents participating in the Conversations 
 The Marrakech Film Festival runs Nov. 20 &#x2013; 28.
 
 ============================================================
-[13] Jensen Huang Reinstated as Nvidia CEO After Series of Affairs
+[14] Jensen Huang Reinstated as Nvidia CEO After Series of Affairs
 Source: Variety | Status: expanded | Words: 146
 Published: 2026-11-23T14:06:20+00:00
 URL: https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837
 ------------------------------------------------------------
 SUMMARY:
-Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation. Huang will also rejoin the company’s board, the company said in a statement Monday. Huang's return to the company he co-founded […]
+Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation. Huang will also rejoin the company’s board, the company said in a statement Monday. “The Board of Directors voted unanimously to […]
 
 CONTENT / EXTRACTED DETAILS:
 Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation.
@@ -295,7 +319,7 @@ Huang will also return to the company&#x2019;s board, the company said in a stat
 &#x201C;The Board of Directors voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang&#x2019;s candor and ability to lead Nvidia,&#x201D;&#xA0;it said. &#x201C;In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang&#x2019;s reinstatement poses no national security risk.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[14] Survivor Doesn't Need 2 Hour Episodes. Why I Don't Trust Them To Use The Time Correctly
+[15] Survivor Doesn't Need 2 Hour Episodes. Why I Don't Trust Them To Use The Time Correctly
 Source: CinemaBlend | Status: expanded | Words: 292
 Published: 2026-11-23T14:03:28+00:00
 URL: https://www.cinemablend.com/television/survivor-doesnt-need-2-hour-episodes-dont-trust-them-use-time-correctly
@@ -313,7 +337,7 @@ When Paramount+ announced a plan to lean more into reality TV, I expected more r
 I will gladly watch a three-hour movie (not gladly, but I will do it), but a TV show is pushing it with 2-hour episodes. If Survivor starts doing that, what’s to stop Big Brother, The Amazing Race, and some other reality TV shows?
 
 ============================================================
-[15] Super Mario Nintendo Switch and Nintendo Switch 2 Games Now $40 Off
+[16] Super Mario Nintendo Switch and Nintendo Switch 2 Games Now $40 Off
 Source: ComicBook.com | Status: expanded | Words: 509
 Published: 2026-11-23T14:02:32+00:00
 URL: https://comicbook.com/gaming/news/super-mario-nintendo-switch-2-games-sale
@@ -339,7 +363,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Who Got The Better Slap In During Sunrise On The Reaping’s Bold Scene? Glenn Close And Mckenna Grace Have Thoughts
+[17] Who Got The Better Slap In During Sunrise On The Reaping’s Bold Scene? Glenn Close And Mckenna Grace Have Thoughts
 Source: CinemaBlend | Status: expanded | Words: 224
 Published: 2026-11-23T14:01:35+00:00
 URL: https://www.cinemablend.com/movies/who-got-better-slap-sunrise-on-the-reaping-glenn-close-mckenna-grace-have-thoughts
@@ -357,7 +381,7 @@ Mckenna Grace is a self-described Hunger Games superfan, who seemed thrilled to 
 Talk about pressure. Glenn Close is a celebrated icon of the stage and screen, so one can only imagine how daunting it was for Grace to do this scene. Add in that her iconic co-star is 79 years old, accidentally slapping her for real was the thing of nightmares. Luckily that didn't happen, and the scene went viral before the new Hunger Games prequel was even released.
 
 ============================================================
-[17] New Avengers: Doomsday Trailer Brings Multiverse Destruction to the MCU - WATCH
+[18] New Avengers: Doomsday Trailer Brings Multiverse Destruction to the MCU - WATCH
 Source: ComicBook.com | Status: expanded | Words: 297
 Published: 2026-11-23T14:00:52+00:00
 URL: https://comicbook.com/movies/news/new-avengers-doomsday-trailer-brings-multiverse-destruction-to-the-mcu-watch
@@ -377,7 +401,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Rian Johnson Warns Against ‘Demonizing’ AI and Says His ‘’Poker Face’ Revival With Peter Dinklage Is Dead
+[19] Rian Johnson Warns Against ‘Demonizing’ AI and Says His ‘’Poker Face’ Revival With Peter Dinklage Is Dead
 Source: Variety | Status: expanded | Words: 1540
 Published: 2026-11-23T14:00:31+00:00
 URL: https://variety.com/2026/film/news/rian-johnson-demonizing-ai-peter-dinklage-poker-face-dead-1236955765
@@ -435,7 +459,7 @@ We're just going to keep doing what we do, which I think is all that anyone in t
 No, at the moment it's in its resting place. I got very excited about the notion of going out there with Dinklage, but then the more we kind of explored it, the more it kind of didn't really make sense. But hopefully I can do something else with him someday. He's the best.
 
 ============================================================
-[19] Tallinn Takeaways: Buzz Titles, the Baltics’ Build and Freedom of Speach Under Pressure
+[20] Tallinn Takeaways: Buzz Titles, the Baltics’ Build and Freedom of Speach Under Pressure
 Source: Variety | Status: expanded | Words: 1928
 Published: 2026-11-23T14:00:16+00:00
 URL: https://variety.com/2026/film/global/tallinn-takeaways-buzz-titles-the-baltics-build-censorship-1236955760
@@ -495,7 +519,7 @@ Asked to discuss content and risk taking, RAI TV Drama&#x2019;s Michele Zatta bo
 A fervent believer of the need to surprise the audience, Czech producer Lenka Sz&#xE1;nt&#xF3; (TV Nova) said her company tends to mitigate risks, but she needs to be convinced by a creator&#x2019;s passion project. She and Zatta claimed that weekly comfort television on linear TV is being reinvented. &#x201C;We love building a community around a show,&#x201D; said Sz&#xE1;nt&#xF3;, while Zatta said he is in favor of theatrical launches for prestige shows. &#x201C;We do it more and more; people watch a show on the big screen rather than on TV and they love it!&#x201D;
 
 ============================================================
-[20] Canada's Crave Orders Season 2 of 'Yaga,' Starring Carrie-Anne Moss, Hudson Williams
+[21] Canada's Crave Orders Season 2 of 'Yaga,' Starring Carrie-Anne Moss, Hudson Williams
 Source: The Hollywood Reporter | Status: expanded | Words: 408
 Published: 2026-11-23T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/crave-second-season-yaga-1236761048
@@ -523,7 +547,7 @@ The first season Yaga is produced by Blink49 Studios and Front Street Pictures a
 Yaga is distributed internationally by Sphere Abacus.
 
 ============================================================
-[21] Monét X Change's 'Monét Talks' Podcast Added to Libsyn's Hosting, Ad Roster (Exclusive)
+[22] Monét X Change's 'Monét Talks' Podcast Added to Libsyn's Hosting, Ad Roster (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 690
 Published: 2026-11-23T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/digital/monet-x-change-libsyn-monet-talks-podcast-1236760443
@@ -555,7 +579,7 @@ Mon&#xE9;t Talks releases new episodes weekly on Thursday, streaming as video si
 Mon&#xE9;t Talks with Mon&#xE9;t X Change was represented in the agreement by UTA and the law offices of Brett Green.
 
 ============================================================
-[22] Oscar Predictions via Feinberg Forecast: Updated Standings Heading Into Thanksgiving Break
+[23] Oscar Predictions via Feinberg Forecast: Updated Standings Heading Into Thanksgiving Break
 Source: The Hollywood Reporter | Status: expanded | Words: 8477
 Published: 2026-11-23T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/lists/oscar-predictions-via-feinberg-forecast-heading-into-thanksgiving
@@ -765,7 +789,7 @@ Among the top contenders… Allies in Exile — Fadi Al Halabi & Hasan Kattan Th
 Among the top contenders… Agnès — Nora Arnezeder Basement People — Christine Swanson Blood Money — Ellen Gavin Callback — Matthew Puccini Candy Bar — Nash Egerton SUND The Catcher — Luka Galle Crisis Actor — Lily Platt SUND The Death Notice of Eamonn McCarty — Aaron Chalke Echoes — Alex Lanipekun Fat — Dolores Rice Fatal Negligence — Juliette Fairley Flesh Impact — Maggie Gyllenhaal VENI G.S.W. — Jonny Durgan Godpower — Geoff Browne I Am the Prize — Sai Karan Talwar I Will Be Alright — Cyrus Neshvad Inherited Silence — Mariam Khatchvani The Intimacy Coordinator — Louisa Connolly-Burnham Jazz Infernal — Will Niava SUND Kasandra — Giordona Aviv Kiloran Bay — Michael Bruce Life Goes On — Daniel Audritt & Kat Butterfield Lightning Bug — Zane Pais Liquor Bank — Marcellus Cox Magan’s Fare — Christopher Knoblock & Dana White Magid/Zafar — Luís Hindman LOND (’25) The Man That I Wave At — Ben S. Hyland Mary Is Missing — Aisling Byrne Mary the Widow — Ryan Noufer Mine For a Moment — Kristian Lever Never Give Up! — Tamás Yvan Topolánszky Nightfaces — Stefan Langthaler & Martin Winter Nostalgie — Kathryn Ferguson LOND (’25) Odessa — Harald Swinkels TRIB Paper Plane — Saoirse Ronan VENI , LOND Power Trip — Patrick Willems Rotation — Maryna Er Gorbach Rule Britannia — Max Fisher Sense of Water — Mohammad Rasoulof The Sentry — Jake Wachtel Sūnna — Radha Mehta Super Afghan Gym — Shahrbanoo Sadat Them That's Not — Mekhai Lee This Is Private — LeAndre Thomas Violet and Marlowe Rob a Bank — Wesley Wang Vultures — Dian Weys CANN (’25), TRIB Watching Walter — Mitch Yapko We Were Here — Pranav Bhasin Whispers of a Burning Scent — Mo Harawe
 
 ============================================================
-[23] 'Way of the Warrior Kid' Review: Chris Pratt and Jude Hill Team Up to Take On Bullies in Apple TV's Winning Family Film
+[24] 'Way of the Warrior Kid' Review: Chris Pratt and Jude Hill Team Up to Take On Bullies in Apple TV's Winning Family Film
 Source: The Hollywood Reporter | Status: expanded | Words: 764
 Published: 2026-11-23T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/way-of-the-warrior-kid-review-chris-pratt-mcg-1236760128
@@ -795,7 +819,7 @@ The growing closeness between Marc and his uncle, who treats him with gruff tend
 What really makes the film so effective, however, are the lead performances. Hill, so terrific in Kenneth Branagh&#x2019;s Belfast , is endearing and fully relatable as the beleaguered Marc; Cardellini, who improves everything she&#x2019;s in , is warmly appealing as the loving mother; and Pratt, given many opportunities to show off his impressive physique in shirtless scenes, perfectly embodies his mentor role.
 
 ============================================================
-[24] Make-Up Artists &#038; Hair Stylists Guild Sets Ronnie Specter &#038; Lola Kemp As 2027 Career Honorees
+[25] Make-Up Artists &#038; Hair Stylists Guild Sets Ronnie Specter &#038; Lola Kemp As 2027 Career Honorees
 Source: Deadline | Status: expanded | Words: 414
 Published: 2026-11-23T14:00:00+00:00
 URL: https://deadline.com/2026/11/make-up-artists-hair-stylists-guild-2027-honorees-1237230773
@@ -815,7 +839,7 @@ Kemp was the first woman of color to work as a hairstyling behind the camera, bl
 &#x201C;Ronnie Specter and Lola Kemp have inspired generations of makeup artists and hairstylists through their extraordinary work and artistry,&#x201D; MUAHS guild president Julie Socash said. "It is a privilege to celebrate their remarkable legacies and honor them both with the MUAHS Lifetime Achievement Award."
 
 ============================================================
-[25] Crave Renews 'Yaga' For Season 2 With Carrie-Anne Moss Returning
+[26] Crave Renews 'Yaga' For Season 2 With Carrie-Anne Moss Returning
 Source: Deadline | Status: expanded | Words: 392
 Published: 2026-11-23T14:00:00+00:00
 URL: https://deadline.com/2026/11/crave-renews-yaga-season-2-carrie-anne-moss-returning-1237231510
@@ -837,7 +861,7 @@ Yaga is based on Kat Sandler's play, and she serves as writer, showrunner and ex
 "The incredible response to Yaga has blown us away," said Justin Stockman, Vice President, Global Content, Bell Media. "Congratulations to Kat Sandler and our production partners at Blink49 Studios and Front Street Pictures. Together, we&#x2019;ve created a bold and daring Canadian series that we believe strongly in, and we can&#x2019;t wait to see where Season 2 takes us."
 
 ============================================================
-[26] 'Blade Runner 2099' Review: Michelle Yeoh and Hunter Schafer Lead Amazon's Visually Rich, Emotionally Deficient Sci-Fi Sequel
+[27] 'Blade Runner 2099' Review: Michelle Yeoh and Hunter Schafer Lead Amazon's Visually Rich, Emotionally Deficient Sci-Fi Sequel
 Source: The Hollywood Reporter | Status: expanded | Words: 1228
 Published: 2026-11-23T14:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-1236760567
@@ -875,7 +899,7 @@ Theoretically major characters like Elias (Lewis Gribben), Cora&#x2019;s brother
 Without that emotional specificity, without textured world-building or provocative ideas or complex characters, what remains feels like a simulation of the real thing. This Blade Runner might look the part, might act the part, might even be trying very hard to be the part as best as it can. But you don&#x2019;t need a Voight-Kampff test to see it hasn&#x2019;t quite managed to replicate the soul.
 
 ============================================================
-[27] NBCUniversal, Amazon in Holiday-Ad Showdown Over Thanksgiving Week
+[28] NBCUniversal, Amazon in Holiday-Ad Showdown Over Thanksgiving Week
 Source: Variety | Status: expanded | Words: 920
 Published: 2026-11-23T14:00:00+00:00
 URL: https://variety.com/2026/tv/news/nbcuniversal-amazon-holiday-ad-showdown-thanksgiving-week-1236955542
@@ -917,7 +941,7 @@ NBC&#x2019;s holiday efforts don&#x2019;t stop after Thanksgiving. Walmart has a
 &#x201C;We are thinking of the holidays much more expansively,&#x201D; says Scheiner.
 
 ============================================================
-[28] ‘Blade Runner 2099’ Review: Hunter Schafer Cements Her Status as a Genre Star, With Help from a Stunning Backdrop
+[29] ‘Blade Runner 2099’ Review: Hunter Schafer Cements Her Status as a Genre Star, With Help from a Stunning Backdrop
 Source: Variety | Status: expanded | Words: 1085
 Published: 2026-11-23T14:00:00+00:00
 URL: https://variety.com/2026/tv/reviews/blade-runner-2099-review-hunter-schafer-amazon-prime-video-1236955543
@@ -945,7 +969,7 @@ Schafer, Yeoh and their backing army of artisans put a fresh and compelling face
 All eight episodes of &#x201C;Blade Runner 2099&#x201D; are now streaming on Amazon Prime Video.
 
 ============================================================
-[29] ‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny
+[30] ‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny
 Source: Variety | Status: expanded | Words: 950
 Published: 2026-11-23T14:00:00+00:00
 URL: https://variety.com/2026/tv/reviews/dig-review-amy-poehler-peacock-1236952005
@@ -971,7 +995,7 @@ Comedy is a challenging space, and comedic shows often aren't as timeless as dra
 All eight episodes of &#x201C;Dig&#x201D; premiere on Nov. 23 on Peacock.
 
 ============================================================
-[30] 'Grand Theft Auto VI: The Album' Deluxe Adds 23 Original Songs From Travis Scott, Slayyyter, Offset, Sexyy Red and More
+[31] 'Grand Theft Auto VI: The Album' Deluxe Adds 23 Original Songs From Travis Scott, Slayyyter, Offset, Sexyy Red and More
 Source: Variety | Status: expanded | Words: 681
 Published: 2026-11-23T14:00:00+00:00
 URL: https://variety.com/2026/music/news/gta-6-the-album-deluxe-travis-scott-slayyyter-1236955629
@@ -999,7 +1023,7 @@ GRAND THEFT AUTO VI: THE ALBUM OFFICIAL TRACKLIST
 Starting From Zero (feat. Michael McDonald) - Justice That's It (feat. Future & Metro Boomin) - Yung Lean AHH YEA - Playboi Carti RHYNO - Travis Scott Sexy Magic - CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.., Etienne de Cr&#xE9;cy Flower In A Hurricane (feat. Tame Impala, SZA & King Gizzard & The Lizard Wizard) - Justice Go Easy - Dua Lipa Last Thing You Need - Morgan Wallen X - JHAYCO Suzuki - Fuerza Regida Macacoa 2000 - Rauw Alejandro Dance With Me (feat. elkan) - A Boogie Wit da Hoodie Bigger - Burna Boy COUNT UP - Gunna Let's Rock - Kodak Black & Don Toliver WAKIN UP FLEX - Young Thug IKYFL - Tee Grizzley TF? - Don Toliver Don&#x2019;t Chart - Cardi B GMA - JT Power Trip - JENNIE Blood In Your Eyes - Tove Lo Fast Emotion - Zara Larsson Sweet Like Candy - Camila Cabello Only One - Fcukers Sandunguea - Arca TRDWFE - Rina Sawayama All Again - Rose Gray Crazy For You - Lana Del Rey Largate - Kali Uchis & Helado Negro NO ME BUSQUES - Omar Apollo Bright Lights, Big City - Keith Richards Stone Kold Krazy Luuv - Jesse Johnson & D&#x101;M-FunK Overtown Lights - Stanley Clarke, Yussef Dayes & Robert Glasper
 
 ============================================================
-[31] Rotterdam Film Festival Appoints Pepijn Kuyper as Managing Director
+[32] Rotterdam Film Festival Appoints Pepijn Kuyper as Managing Director
 Source: Variety | Status: expanded | Words: 523
 Published: 2026-11-23T13:49:03+00:00
 URL: https://variety.com/2026/film/global/rotterdam-film-festival-pepijn-kuyper-1236955817
@@ -1027,7 +1051,7 @@ Kuyper said: &#x201C;As a Rotterdammer, I have followed IFFR from a young age, f
 "I am very much looking forward to working with Vanja and the team to build on the achievements of this internationally leading festival, firmly rooted in Rotterdam and closely connected to the film sector. With my entrepreneurial spirit, I want to help secure a strong future for IFFR in which its artistic ambitions can flourish.&#x201D;
 
 ============================================================
-[32] 'The Dark Side Of Surfing': BAFTA Winner Investigating Allegations Of Sexual Abuse In Global Surf Industry
+[33] 'The Dark Side Of Surfing': BAFTA Winner Investigating Allegations Of Sexual Abuse In Global Surf Industry
 Source: Deadline | Status: expanded | Words: 658
 Published: 2026-11-23T13:47:00+00:00
 URL: https://deadline.com/2026/11/sexual-abuse-allegations-surf-industry-investigated-film-1237231517
@@ -1057,7 +1081,7 @@ Pro surfer Lucy Small added:"Stories of sexual abuse in the surf industry have, 
 Make Waves has most recently worked on Blue Carbon , which premiered on CNN and Canal+ in 2024, and the upcoming three-part The Pembrokeshire Murderer , which premieres on Sky next month. The company is known for films including HBO doc Behind Closed Doors and Venice Film Festival entry The Great Green Wall .
 
 ============================================================
-[33] Could Kim Kardashian Really Become The Next Bond Girl? An Insider Drops Claims
+[34] Could Kim Kardashian Really Become The Next Bond Girl? An Insider Drops Claims
 Source: CinemaBlend | Status: expanded | Words: 268
 Published: 2026-11-23T13:33:59+00:00
 URL: https://www.cinemablend.com/movies/insider-claims-about-kim-kardashian-wanting-bond-girl-role
@@ -1073,7 +1097,7 @@ This source indicates that Kardashian allegedly wants to further expand her hori
 It’s not far-fetched to think that the billionaire shapewear mogul would want to expand her acting career with a massive role, and it’s also true that Jenner has some serious industry connections. However, considering that neither Kardashian nor Jenner have said anything publicly about Bond at this point, this is all purely speculation for now. And, even if the Temptation: Confessions of a Marriage Counselor alum really is vying for the chance to act alongside Pattinson, she could have some fierce competition.
 
 ============================================================
-[34] 3 ’80s Sci-Fi Movies I Want to Watch for the First Time Again Because They Still Blow My Mind
+[35] 3 ’80s Sci-Fi Movies I Want to Watch for the First Time Again Because They Still Blow My Mind
 Source: ComicBook.com | Status: expanded | Words: 878
 Published: 2026-11-23T13:30:00+00:00
 URL: https://comicbook.com/movies/list/3-80s-sci-fi-movies-i-want-to-watch-for-the-first-time-again-because-they-still-blow-my-mind
@@ -1105,7 +1129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Finally, the U.K. Can See Everything: Nathan Fielder's Elizabeth Holmes Doc Makes British Box Office History
+[36] Finally, the U.K. Can See Everything: Nathan Fielder's Elizabeth Holmes Doc Makes British Box Office History
 Source: The Hollywood Reporter | Status: expanded | Words: 483
 Published: 2026-11-23T13:05:10+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/uk-you-can-see-everything-holmes-nathan-fielder-film-a24-1236761013
@@ -1133,7 +1157,7 @@ You Can See Everything will likely nab the second spot on the U.K. and Ireland b
 The years-spanning production was kept completely secret until its surprise screening at Telluride in September. Naturally, the movie has thrust its creators &#x2014;&#xA0;and a certain Hollywood star &#x2014;&#xA0;into the thick of the awards conversation, with THR 's Scott Feinberg predicting a history-making best picture nomination at the very least.
 
 ============================================================
-[36] Rotterdam Hires Pepijn Kuyper As Managing Director
+[37] Rotterdam Hires Pepijn Kuyper As Managing Director
 Source: Deadline | Status: expanded | Words: 361
 Published: 2026-11-23T13:04:05+00:00
 URL: https://deadline.com/2026/11/pepijn-kuyper-rotterdam-managing-director-1237231512
@@ -1157,7 +1181,7 @@ In a statement, IFFR Festival Director Vanja Kaludjercic said Kuyper has a &#x20
 Kuyper added: &#x201C;I am very much looking forward to working with Vanja and the team to build on the achievements of this internationally leading festival, firmly rooted in Rotterdam and closely connected to the film sector. With my entrepreneurial spirit, I want to help secure a strong future for IFFR in which its artistic ambitions can flourish.&#x201D;
 
 ============================================================
-[37] Georgie & Mandy’s First Marriage Is Bringing In An Iconic Cheers Actor, And I Hope They Stick Around
+[38] Georgie & Mandy’s First Marriage Is Bringing In An Iconic Cheers Actor, And I Hope They Stick Around
 Source: CinemaBlend | Status: expanded | Words: 210
 Published: 2026-11-23T13:03:27+00:00
 URL: https://www.cinemablend.com/television/georgie-and-mandys-first-marriage-adding-cheers-actor-john-ratzenberger
@@ -1173,7 +1197,7 @@ It sounds like a great episode for Jim and Audrey, who have struggled to come to
 A friendship with Davey and other people at the bingo hall could help them increase their social circle and make some friends with some people older than them. Jim and Audrey aren't quite senior citizens just yet, but with all their free time, it wouldn't hurt to get some advice from their elders on how to best spend the spare time they have on their hands.
 
 ============================================================
-[38] International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart
+[39] International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart
 Source: The Hollywood Reporter | Status: expanded | Words: 513
 Published: 2026-11-23T13:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/iffr-pepijn-kuyper-managing-director-succeeds-clare-stewart-1236761038
@@ -1199,7 +1223,7 @@ And Kuyper himself shared: &#x201C;As a Rotterdammer, I have followed IFFR from 
 He added: "IFFR provides a platform for innovative, independent cinema and challenges filmmakers and audiences to look at the world with an open mind. That artistic independence and the opportunity to encounter new perspectives are more essential than ever.
 
 ============================================================
-[39] Geico Hopes Two-Minute Animated Holiday Special Can Vie With 'Rudolph' or 'Frosty'
+[40] Geico Hopes Two-Minute Animated Holiday Special Can Vie With 'Rudolph' or 'Frosty'
 Source: Variety | Status: expanded | Words: 1385
 Published: 2026-11-23T13:00:00+00:00
 URL: https://variety.com/2026/tv/news/geico-two-minute-animated-holiday-special-macys-parade-1236955547
@@ -1245,7 +1269,7 @@ Indeed, Geico shot additional footage that might allow for new editions of the s
 Does Geico have the makings of &#x201C;A Charlie Brown Christmas&#x201D; on its hands? &#x201C;That&#x2019;s the dream,&#x201D; says Orpello.
 
 ============================================================
-[40] 5 Brad Pitt Performances That Prove He's One of Hollywood's Most Versatile Actors
+[41] 5 Brad Pitt Performances That Prove He's One of Hollywood's Most Versatile Actors
 Source: ComicBook.com | Status: expanded | Words: 1435
 Published: 2026-11-23T12:45:00+00:00
 URL: https://comicbook.com/movies/list/5-brad-pitt-performances-that-prove-hes-one-of-hollywoods-most-versatile-actors
@@ -1283,7 +1307,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] CAA Signs 'Sister Wives' and 'The Intimacy Coordinator' Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)
+[42] CAA Signs 'Sister Wives' and 'The Intimacy Coordinator' Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 317
 Published: 2026-11-23T12:27:01+00:00
 URL: https://variety.com/2026/film/global/caa-signs-louisa-connolly-burnham-sister-wives-1236955764
@@ -1303,7 +1327,7 @@ A feature adaptation of "Sister Wives" is now in development with American Zoetr
 Connolly-Burnham founded the independent production company Thimble Films in 2019. She continues to be represented in the U.K. by Eleanor Johnson at Chalcot Square. Her team at CAA includes Connie Yan, Paige Holtzman, Erica Drache, Hannah Kaiser and Wilhelmina Ross.
 
 ============================================================
-[42] Avengers: Doomsday Should Set Up This X-Men Character to Lead Into the 2028 Reboot
+[43] Avengers: Doomsday Should Set Up This X-Men Character to Lead Into the 2028 Reboot
 Source: ComicBook.com | Status: expanded | Words: 845
 Published: 2026-11-23T12:05:00+00:00
 URL: https://comicbook.com/movies/feature/avengers-doomsday-should-set-up-this-x-men-character-to-lead-into-the-2028-reboot
@@ -1333,7 +1357,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Controversial "Netflix Tax" Could Raise Extra $2.1B For BBC By 2032, Research Finds
+[44] Controversial "Netflix Tax" Could Raise Extra $2.1B For BBC By 2032, Research Finds
 Source: Deadline | Status: expanded | Words: 582
 Published: 2026-11-23T11:46:46+00:00
 URL: https://deadline.com/2026/11/bbc-licence-fee-netflix-tax-raise-extra-by-2032-1237231477
@@ -1361,7 +1385,7 @@ The BBC is now eagerly awaiting the government's White Paper on the future fundi
 The BBC is currently going through a painful savings period as it seeks to save an additional &#xA3;500M and lay off 2,000 staff. News about the next phase of savings is set to emerge from early next year.
 
 ============================================================
-[44] Tyson Fury Reveals Schizophrenia Diagnosis In Netflix Doc
+[45] Tyson Fury Reveals Schizophrenia Diagnosis In Netflix Doc
 Source: Deadline | Status: expanded | Words: 589
 Published: 2026-11-23T11:44:20+00:00
 URL: https://deadline.com/2026/11/tyson-fury-reveals-schizophrenia-diagnosis-netflix-doc-1237231479
@@ -1393,7 +1417,7 @@ The 90-minute doc, from Banijay's Optomen, will explore the life of Fury, who is
 The doc is launching two weeks before Netflix live-streams Fury's fight with fellow British heavyweight legend, Anthony Joshua.
 
 ============================================================
-[45] Billy Porter, Hannah John-Kamen Board 'The Colour of My Skin,' From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)
+[46] Billy Porter, Hannah John-Kamen Board 'The Colour of My Skin,' From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 530
 Published: 2026-11-23T11:34:11+00:00
 URL: https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750
@@ -1429,7 +1453,7 @@ Sunil Borkar shot the film, and Maximillian Raynor designed the costumes.
 "The Colour of My Skin" is now heading into post-production. The news was unveiled on the sidelines of the WAVES Film Bazaar , the market arm of the International Film Festival of India in Goa.
 
 ============================================================
-[46] 3 Cult Classic ’80s Movies You Couldn’t Make in 2026 (But Pop Culture Needed Them)
+[47] 3 Cult Classic ’80s Movies You Couldn’t Make in 2026 (But Pop Culture Needed Them)
 Source: ComicBook.com | Status: expanded | Words: 1059
 Published: 2026-11-23T11:23:00+00:00
 URL: https://comicbook.com/movies/list/3-cult-classic-80s-movies-you-couldnt-make-in-2026-but-pop-culture-needed-them
@@ -1463,7 +1487,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Ex-CAA Agent Svenja Liebrecht Joins 'The Swarm' Producer NDF
+[48] Ex-CAA Agent Svenja Liebrecht Joins 'The Swarm' Producer NDF
 Source: Deadline | Status: expanded | Words: 662
 Published: 2026-11-23T11:20:02+00:00
 URL: https://deadline.com/2026/11/ex-caa-agent-svenja-liebrecht-joins-ndf-1237231474
@@ -1497,7 +1521,7 @@ Rosen, who has worked with Liebrecht in the past, joined NDF at the start of the
 NDF's German series include long-running series Mountain Medic and true-crime format Crime Watch XY . In the U.S., the company is known for European eco-thriller series The Swarm , which had Game of Thrones producer Frank Doelger attached and sold to The CW .
 
 ============================================================
-[48] Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar
+[49] Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 347
 Published: 2026-11-23T11:19:23+00:00
 URL: https://variety.com/2026/film/markets-festivals/sony-nfdc-five-language-creator-pitch-waves-film-bazaar-1236955743
@@ -1521,7 +1545,7 @@ NFDC chair G. Krishnakumar said the initiative reflected the spirit of IFFI's th
 SPNI managing director and CEO Gaurav Banerjee said the partnership would help bring forward talent that might otherwise remain outside established platforms. "We look forward to discovering fresh perspectives and compelling ideas for audiences," he added.
 
 ============================================================
-[49] Noa Kirel, Agustín Bernasconi Release 'Mírame Así, El Camino de Noa' Album (EXCLUSIVE)
+[50] Noa Kirel, Agustín Bernasconi Release 'Mírame Así, El Camino de Noa' Album (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 310
 Published: 2026-11-23T11:05:25+00:00
 URL: https://variety.com/2026/music/global/noa-kirel-agustin-bernasconi-mirame-asi-el-camino-album-1236955731
@@ -1543,38 +1567,4 @@ Tracks include &#x201C;So&#xF1;ar Despiertos,&#x201D; &#x201C;Bye Bye Love&#x201
 &#x201C;M&#xED;rame As&#xED;, El Camino de Noa&#x201D; was created by Argentine writer Patricia Maldonado (&#x201C;Chiquititas,&#x201D; &#x201C;Rebelde Way&#x201D;) and filmed in Argentina, where it will also be broadcast on Am&#xE9;rica TV.
 
 It is produced by Shari Redstone&#x2019;s Sipur Studios alongside Yair Dori, Fam Contenidos and Swap. Sipur is repping global sales. The series will launch in Israel on Nov. 29 on Channel 16.
-
-============================================================
-[50] 'Sex Noises' Disrupt Live Broadcast of 'Strictly Come Dancing,' Prompting BBC Apology
-Source: Variety | Status: expanded | Words: 394
-Published: 2026-11-23T11:03:47+00:00
-URL: https://variety.com/2026/tv/global/sex-noises-strictly-come-dancing-bbc-1236955730
-------------------------------------------------------------
-SUMMARY:
-The BBC has apologized for what sounded like a recording of sex noises broadcast during a live episode of "Strictly Come Dancing," the British version of "Dancing With the Stars." As judge Motsi Mabuse gave her feedback in Saturday's episode, sex noises appeared to be coming from behind the judges in Blackpool's Tower Ballroom. Mabuse […]
-
-CONTENT / EXTRACTED DETAILS:
-The BBC has apologized for what sounded like a recording of sex noises broadcast during a live episode of " Strictly Come Dancing ," the British version of "Dancing With the Stars."
-
-As judge Motsi Mabuse gave her feedback in Saturday's episode, sex noises appeared to be coming from behind the judges in Blackpool's Tower Ballroom. Mabuse paused before joking: "It's not me."
-
-At the end of the show, host Emma Willis - surrounded by the contestants - told viewers: "Before we see the judges' leaderboard, we'd like to apologize if you heard any audio disruptions earlier in tonight's show and for any offense caused." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'La Bola Negra' Becomes Spain’s Third Biggest Spanish Hit Ever as Its Box Office Surges 8% Above Pre-Pandemic Average ‘Blind Spot,’ With ‘Money Heist’ Star Najwa Nimri, Hits the AFM Courtesy of Film Factory
-
-A BBC spokesperson said in a statement: "We apologize to any viewers offended during the live broadcast of 'Strictly' this evening.
-
-"We are investigating how this happened."
-
-The sex noises have been edited out of the version of the show on BBC iPlayer, the broadcaster's streaming service.
-
-According to the BBC, a spokesperson for the local police said: "We are aware of an incident that took place during the filming of 'Strictly Come Dancing' in Blackpool.
-
-"We have been in contact with the event organizers, and a formal complaint has been made to us.
-
-"A mobile phone has been seized and we are now looking into the matter to see if any criminal offenses have taken place."
-
-Some media outlets suggest that content creator Daniel Jarvis, whose videos include pranks, could be behind the incident, allegedly.
-
-He streamed the moment on social media and appeared to make a phone call before the noises began playing in the ballroom, and suggested he was targeting judge Craig Revel Horwood for his "bullying." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Jarvis previously claimed he was responsible for sex noises played during BBC soccer show &#x201C;Match of the Day&#x201D; in 2023. When it was investigated, the noises were found to come from a cell phone taped to the back of the set.
 
