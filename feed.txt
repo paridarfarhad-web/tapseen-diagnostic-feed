@@ -1,9 +1,125 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-23T18:41:38.895Z
+Last Updated: 2026-11-23T18:57:38.871Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Does GTA 6’s Infinite Money Glitch Still Work After Today’s Patch? Here's What We Know
+[1] 'The Body's Sara Boustany &#038; Quinn Shephard Reteam On Indie Drama 'Between Us And The River' From Writer-Director Nika Fehmiu
+Source: Deadline | Status: expanded | Words: 540
+Published: 2026-11-23T18:53:02+00:00
+URL: https://deadline.com/2026/11/the-body-quinn-shephard-sara-boustany-between-us-and-the-river-1237231788
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: After giving Sara Boustany her first major starring role in The Body, her buzzy faith-themed genre-bending series for Netflix, Quinn Shephard has reteamed with the actress as producer of Between Us and the River, a character-driven coming-of-age drama from first-time feature filmmaker Nika Fehmiu, which has wrapped production. Set in 2005 against the backdrop […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: After giving Sara Boustany her first major starring role in The Body , her buzzy faith-themed genre-bending series for Netflix, Quinn Shephard has reteamed with the actress as producer of Between Us and the River , a character-driven coming-of-age drama from first-time feature filmmaker Nika Fehmiu , which has wrapped production.
+
+Set in 2005 against the backdrop of the Iraq War, the film follows a first-generation Iraqi American college student and aspiring dancer who forms a relationship with a young Mexican American classmate, only to make a shattering discovery that forces them to confront grief, identity and the devastating ways war has shaped their lives. Fehmiu penned the script with Nadia Al Sultani, the Iraqi-American author of Baghdad Stories . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Netflix's 'The Body' Sparks 126K-Strong Petition To Remove "Blasphemous Anti-Christian" Show News 'The Body' Creators Address Show's "Unexplained Mysteries," Tease Season 2 Hopes
+
+Boustany stars opposite Landman &#x2019;s Alejandro Akara . Others in the cast include Am&#xE9;lie Hoeferle ( Sterling Point ), Sarah Himadeh ( The Last of Us ), Laughton Royce ( Clean Hands ) and Sean Luc Rogers ( Clarkston at Echo Theatre Company). Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Shephard produced through her company, Ing&#xE9;nue, alongside Nuer Taqa and Zoey Pressey of Radiance Pictures, Matt Cappetta of Planet 9 Films and Fehmiu via North Wind Films. Emmy winner Julie Schubert ( House of Cards ) handled casting.
+
+Released earlier this month, Shephard&#x2019;s coming-of-age series The Body is set against the backdrop of a Catholic school dance team in the early 2000s, following a group of teenage girls whose lives unravel after a team initiation goes horribly wrong, triggering prophetic visions and mass hysteria throughout their community. Boustany stars alongside Kristina Bogic, Geena Meszaros, Nnamdi Asomugha and more. The show hit 5.1M views in its first week and has now climbed to #1 on the streamer&#x2019;s chart of the Top TV Shows in the U.S.
+
+Also known for the acclaimed FX series Under the Bridge , as well as films such as Not Okay , Shephard is repped by WME and Ziffren Brittenham.
+
+For Lebanese-American actress Boustany, credits prior to The Body included Dolly Parton&#x2019;s Heartstrings , PEN15 and the indie Hello Beautiful . She is repped by WME, D2 Management and Myman Greenspan Fox. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Prior to making her feature debut, Fehmiu helmed the short film Look at Me , which premiered in competition at the Tribeca Festival.
+
+Also seen on shows like The Mosquito Coast and Mayans M.C. , Akara is repped by CESD and Jackson Entertainment Management.
+
+Hoeferle is repped by Affirmative Entertainment; Himadeh by Headline Talent Agency; Royce by Creative Partners Group and WME; and Rogers by CESD Talent and Leslie Allan-Rice Management.
+
+============================================================
+[2] I’ve Wondered If Bari Weiss’ CBS News Will Merge With CNN. Someone Asked Skydance’s Head Honcho
+Source: CinemaBlend | Status: expanded | Words: 283
+Published: 2026-11-23T18:50:28+00:00
+URL: https://www.cinemablend.com/television/skydance-head-honcho-whether-bari-weiss-cbs-news-will-merge-with-cnn
+------------------------------------------------------------
+SUMMARY:
+This is CNN... and CBS News?
+
+CONTENT / EXTRACTED DETAILS:
+The merger between Paramount Skydance and Warner Bros. Discovery has resulted in the formation of Skydance, which now holds various high-profile media assets. From a news perspective, the David Ellison-led conglomerate now owns both CBS News and CNN. There’s been a considerable amount of discussion regarding the future of both entities, especially in regard to whether CBS’ Bari Weiss might run CNN. While Weiss won’t take that big seat , I’ve still been curious about a merger, and Ellison recently weighed in.
+
+So this answer pretty much seems to fall into the category of “not a definitive yes, but not a definitive no”. At the very least, the possibility of “news sharing” does make sense due to the two networks now being under the same corporate umbrella. I still can’t help but wonder, however, whether Ellison isn't totally shutting down the merger idea due to it being internally discussed as a viable option. That’s just speculation on my part, of course, but I wouldn’t be surprised if the powers that be have or are currently pondering the idea, at the very least.
+
+Ellison eventually confirmed this past October, however, that current CNN CEO Mark Thompson would remain in his post. Shortly thereafter, Thompson spoke about the merger and shared some complimentary thoughts on his new bosses. The CEO said that after speaking to Ellison and the other Skydance executives, he felt “real confidence that they both understand and will fully support the principle and practice of the kind of independent news that CNN has always stood for.” All in all, Thompson has a solid reputation, and former CBS anchor Scott Pelley also praised him while warning CNN staffers about possible editorial changes post-merger.
+
+============================================================
+[3] Indie Film Accountant Gets Prison For Stealing Millions For Sugar Daddy Hook-Ups, Vegas Visits &#038; Louis Vuitton Gear
+Source: Deadline | Status: expanded | Words: 516
+Published: 2026-11-23T18:50:10+00:00
+URL: https://deadline.com/2026/11/film-accountant-sentenced-stole-millions-1237231746
+------------------------------------------------------------
+SUMMARY:
+Everybody knows budgets and resources on independent films are almost always tight and held together by spirit, favors and prayers. So, when your accountant is stealing from you, the production's pain is much more than a mere line item. Joshua Mandel was convicted back in February on six counts of wire fraud on embezzling over […]
+
+CONTENT / EXTRACTED DETAILS:
+Everybody knows budgets and resources on independent films are almost always tight and held together by spirit, favors and prayers. So, when your accountant is stealing from you, the production's pain is much more than a mere line item.
+
+Joshua Mandel was convicted back in February on six counts of wire fraud on embezzling over $1.7 million from 17 productions over the period of 2019 to 2023. Looking at decades in federal prison, the CEOP and CFO of Woodland Hills-based company First J Productions Inc. received a nearly 3.5 year sentence today.
+
+In Monday's hearing, United States District Judge John F. Walter ordered Mandel to 41 months behind bars and to pony up $1,747,935 in restitution. Prosecutors and the FBI actually believe that the moneyman stole up to $2 million from various indie flicks over the years. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Casting Mary Steenburgen, Kyra Sedgwick & Sophia Bush Set For Indie 'Kindred Spirits'; Hilary Swank Among Producers Executives Shares In Barry Diller's People Inc. Surge On Report Of Role-Reversal Acquisition Bid From MGM Resorts
+
+No individual films were cited in the indictment, during that 2019 - 2023 period Mandel worked on projects like David Ayers' The Tax Collector, the Diane Keaton and Jeremy Irons starring Love, Weddings & Other Disasters , and the Kyra Sedgwick directed and Kevin Bacon starring Space Oddity. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Still, while shifting money from one production to another in hopes of covering his tracks, Mandel lived large but not very originally while he could.
+
+Using his control over productions accounts, payroll and expenses, Madel moved money from flicks budgets to his (this is really what the not too sharp accountant called it) his "Fun, Fun, Fun" CASH&#xE9;t Card account.
+
+Over the years, the cash went to sex workers , luxury goods and some good times in Sin City. Specifically, the U.S. Attorney's office says Mandel paid out "hundreds of thousands of dollars to various young women, including pornographic actresses, and more than $129,000 to a woman he met through a 'sugar daddy' website; spending more than $24,000 at Las Vegas hotels, clubs, and shows; and purchasing more than $12,000 in luxury items from Louis Vuitton."
+
+In the sentencing memo submitted to Judge Walter from Assistant US Attorney Lauren E. Border of the Transnational Organized Crime Section, the feds stated: &#x201C;According to one victim, [Mandel&#x2019;s] fraud during post-production &#x2018;was dev[a]stating to the editing, sound design and promotion of the film." The overall result caused the project to "&#x2018;miss major deadlines on film festivals&#x2019; and recoup no financial return from the film.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+============================================================
+[4] Every Marvel Comic Reference in GTA 6 &#038; Where to Find Them
+Source: ComicBook.com | Status: expanded | Words: 597
+Published: 2026-11-23T18:45:00+00:00
+URL: https://comicbook.com/gaming/feature/every-marvel-comic-reference-in-gta-6-where-to-find-them
+------------------------------------------------------------
+SUMMARY:
+The whole world is talking about Grand Theft Auto VI now that it has finally arrived. As great and engaging as the game's main story is, one of the most fun aspects is learning that millions of players all over the world are discovering the incredible number of easter eggs sprinkled throughout the map. So […]
+
+CONTENT / EXTRACTED DETAILS:
+&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google The whole world is talking about Grand Theft Auto VI now that it has finally arrived. As great and engaging as the game's main story is, one of the most fun aspects is learning that millions of players all over the world are discovering the incredible number of easter eggs sprinkled throughout the map. So far, people have explored the massive map and encountered some wild events. There's a dog that rides a jet ski and saves you from being stranded in the water, you can find nods to Dexter and Fast and the Furious , you can end up in an actual trap right out of the Saw franchise, and more.
+
+With so many references to notable pieces of pop culture, it makes sense that Marvel Comics is part of that. Like many of the other easter eggs in Grand Theft Auto VI , you likely won't go off looking for anything specifically related to Marvel, yet there are a few. So far, just days after the game's initial launch, there have been two nods to Marvel Comics that people have stumbled upon, including one that references the MCU. Of course, there could likely be a bunch more that players haven't found quite yet.
+
+The easiest reference to find in Grand Theft Auto VI related to Marvel is the RX-Men comic book. Throughout the game, there are dozens of magazines and comics for you to collect, including one about the RX-Men, which is clearly a parody of the X-Men. You can actually open and read the story, which turns the characters into pharmaceutical jokes. Dr. Placebo is the main villain, acting as a mix of Dr. Doom and Magneto. Meanwhile, the heroes include Side Effect, Capsule, Diagnosis, and Mr. I (a play on MRI). The comic can be found at the 24-hour convenience store near your initial home in Key Lento.
+
+The more surprising and in-depth Marvel reference is harder to find, featuring a creature who feels a lot like the Red Hulk. It all starts soon after Chapter 1, when, as Lucia, you find a flyer for a "pilot wanted" at the Starlet Motel's reception area. That will give you Kyle's number and you start doing side jobs for him involving chemicals. When you reach Chapter 3, you get a strange text from Kyle and investigate at his farm. Once there, you head to the back of the barn, which is surrounded by agents. Suddenly, Kyle bursts out as a chemically mutated creature who resembles the Red Hulk.
+
+The moment was first famously found by streamer IShowSpeed and all of his viewers were just as shocked as he was. Kyle might not look exactly like Red Hulk, but he's massive, red, and ripping out of his clothes. The reference even goes far enough to show him throw someone into a helicopter, which is a scene pulled straight out of Captain America: Brave New World . You don't have to fight Kyle either, as you can just sit back and watch the carnage unfold from the side. Hopefully, there are even more Marvel references waiting to be found.
+
+What is your favorite thing that you've found in Grand Theft Auto VI ? Let us know in the comments!
+
+Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
+
+By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
+
+============================================================
+[5] All The Songs In 'Clashing Through The Snow' From Sabrina Carpenter To Olivia Rodrigo
+Source: Deadline | Status: expanded | Words: 260
+Published: 2026-11-23T18:42:35+00:00
+URL: https://deadline.com/2026/11/clashing-through-the-snow-soundtrack-songs-prime-video-1237231795
+------------------------------------------------------------
+SUMMARY:
+A new Christmas movie to add to the holiday watch list, now streaming on Prime Video, is Clashing Through The Snow starring Christopher Briney and Michelle Randolph and directed by Carlson Young. The screenplay, written by Danny Mackey and Rebecca Ewing, sets up two competitive senior editors at a publishing company set to go through […]
+
+CONTENT / EXTRACTED DETAILS:
+A new Christmas movie to add to the holiday watch list , now streaming on Prime Video, is Clashing Through The Snow starring Christopher Briney and Michelle Randolph and directed by Carlson Young.
+
+The screenplay, written by Danny Mackey and Rebecca Ewing, sets up two competitive senior editors at a publishing company set to go through layoffs after the holidays, threatening to condense their jobs into one combined position. Ryan Mitchell (Briney) and Hannah Hendricks (Randolph) both schedule important meetings for what would be big catches in terms of book deals for Dec. 23 in New York city, and when inclement weather grounds the flight they both booked, they are forced to travel together in the only remaining rental car under different guises for their reasons to be on the east coast. Their roadtrip yields all kinds of adventures, and room for romantic feelings to grow between them. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Mixed with Christmas songs, radio hits and a song for Julia Fox&#x2019;s Bianca Hart, the soundtrack of Clashing Through the Snow can be found below: Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+* Olivia Rodrigo 's "Take Me Home (4 Christmas)" was used in the film's trailer
+
+============================================================
+[6] Does GTA 6’s Infinite Money Glitch Still Work After Today’s Patch? Here's What We Know
 Source: ComicBook.com | Status: expanded | Words: 503
 Published: 2026-11-23T18:40:01+00:00
 URL: https://comicbook.com/gaming/news/gta-6-money-infinite-glitch-bug-update
@@ -27,7 +143,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Naruto's Live-Action Movie Just Cast the Perfect Third Hokage
+[7] Naruto's Live-Action Movie Just Cast the Perfect Third Hokage
 Source: ComicBook.com | Status: expanded | Words: 582
 Published: 2026-11-23T18:37:29+00:00
 URL: https://comicbook.com/anime/news/narutos-live-action-movie-just-cast-the-perfect-third-hokage
@@ -53,7 +169,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] God of War TV Series Confirms Deborah Ann Woll Will Appear as Faye
+[8] God of War TV Series Confirms Deborah Ann Woll Will Appear as Faye
 Source: ComicBook.com | Status: expanded | Words: 624
 Published: 2026-11-23T18:32:18+00:00
 URL: https://comicbook.com/tv-shows/news/god-of-war-tv-series-confirms-deborah-ann-woll-will-appear-as-faye
@@ -79,7 +195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Maggie Gyllenhaal Unpacks Short Film ‘Flesh Impact’ Reimagining Life At 100 For Marilyn Monroe
+[9] Maggie Gyllenhaal Unpacks Short Film ‘Flesh Impact’ Reimagining Life At 100 For Marilyn Monroe
 Source: Deadline | Status: expanded | Words: 1680
 Published: 2026-11-23T18:30:00+00:00
 URL: https://deadline.com/2026/11/maggie-gyllenhaal-flesh-impact-short-film-interview-dakota-johnson-1237227684
@@ -133,7 +249,7 @@ The other thing is the sequence where you see young Marilyn walking through the 
 Also, I want to say something before we stop. I was just thinking about all these shorts and they&#x2019;re really hard to see unless you&#x2019;re an Academy member. They don&#x2019;t have distribution. Mine doesn&#x2019;t, either. It&#x2019;s not a viable commercial venture. But I&#x2019;m just starting to watch them on the Oscar Portal, and it&#x2019;s fascinating to see all these filmmakers. I don&#x2019;t think we&#x2019;d have access to so many of them in a longer format. They all have different voices, different ideas and different things they need to express. It is so cool to be able to watch them, and I feel really honored to be part of that group.
 
 ============================================================
-[5] Avengers: Doomsday's X-Men Team Officially Confirmed, And It's Not a Line-up Anyone Could Predict
+[10] Avengers: Doomsday's X-Men Team Officially Confirmed, And It's Not a Line-up Anyone Could Predict
 Source: ComicBook.com | Status: expanded | Words: 633
 Published: 2026-11-23T18:28:01+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsdays-x-men-team-officially-confirmed-and-its-not-a-line-up-anyone-could-predict
@@ -161,7 +277,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] 4 Tech Gift Ideas from Insta360, Segway, Bose, and Oura Ring On Sale at Best Buy
+[11] 4 Tech Gift Ideas from Insta360, Segway, Bose, and Oura Ring On Sale at Best Buy
 Source: The Hollywood Reporter | Status: expanded | Words: 259
 Published: 2026-11-23T18:27:13+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-buy-tech-gifts-bose-segway-oura-insta360-1236761260
@@ -181,7 +297,7 @@ If you&#x2019;re considering taking advantage of any Best Buy deals this Black F
 Here are four of the best deals on giftable tech available at Best Buy right now:
 
 ============================================================
-[7] Why New Wave Music Won’t Go Away: New Documentary Explores How Synthesizers, MTV and Androgyny Built the Enduring Genre
+[12] Why New Wave Music Won’t Go Away: New Documentary Explores How Synthesizers, MTV and Androgyny Built the Enduring Genre
 Source: Variety | Status: expanded | Words: 1679
 Published: 2026-11-23T18:25:00+00:00
 URL: https://variety.com/2026/music/features/new-wave-music-wont-go-away-documentary-mgm-plus-1236954761
@@ -259,7 +375,7 @@ It&#x2019;s still driving culture.
 (This interview has been edited and condensed.)
 
 ============================================================
-[8] Dark New Zombie Anime Confirms January 2027 Release Date Ahead of Debut
+[13] Dark New Zombie Anime Confirms January 2027 Release Date Ahead of Debut
 Source: ComicBook.com | Status: expanded | Words: 586
 Published: 2026-11-23T18:23:00+00:00
 URL: https://comicbook.com/anime/news/dark-new-zombie-anime-confirms-january-2027-release-date-ahead-of-debut
@@ -287,7 +403,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Taylor Swift, a Brenda Lee Superfan, Presents the Star With 10x Platinum Plaque for 'Rockin' Around the Christmas Tree'
+[14] Taylor Swift, a Brenda Lee Superfan, Presents the Star With 10x Platinum Plaque for 'Rockin' Around the Christmas Tree'
 Source: Variety | Status: expanded | Words: 493
 Published: 2026-11-23T18:22:51+00:00
 URL: https://variety.com/2026/music/news/brenda-lee-taylor-swift-diamond-rockin-around-christmas-tree-1236956093
@@ -313,7 +429,7 @@ When she was 18, Swift wrote an essay about Lee, titled "Rare Peer." It was repu
 Read Variety 's previous interview with Brenda Lee about "Rockin'" here, conducted in 2023, when the song finally reached No. 1 on the Billboard Hot 100 for the first time, after 65 years.
 
 ============================================================
-[10] Protect Yourself from AI by Bidding on Terminator 2's Complete T-800 SFX Ensemble - Just Be Careful It Doesn't Terminate Your Wallet
+[15] Protect Yourself from AI by Bidding on Terminator 2's Complete T-800 SFX Ensemble - Just Be Careful It Doesn't Terminate Your Wallet
 Source: ComicBook.com | Status: expanded | Words: 646
 Published: 2026-11-23T18:18:00+00:00
 URL: https://comicbook.com/collectibles/news/protect-yourself-from-ai-by-bidding-on-terminator-2s-complete-t-800-sfx-ensemble-just-be-careful-it-doesnt-terminate-your-wallet
@@ -333,7 +449,7 @@ The Terminator has become one of the most instantly recognisable action characte
 Is Terminator 2 the best sequel ever made? Let us know in the comments.
 
 ============================================================
-[11] For Yahya Abdul-Mateen II, 'Cliff Booth' Closes Out a Massive Year in Wild Style
+[16] For Yahya Abdul-Mateen II, 'Cliff Booth' Closes Out a Massive Year in Wild Style
 Source: The Hollywood Reporter | Status: expanded | Words: 3023
 Published: 2026-11-23T18:14:03+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/yahya-abdul-mateen-ii-cliff-booth-feature-1236761149
@@ -425,7 +541,7 @@ Could you imagine ever taking on the role again in another incarnation?
 Yeah, absolutely. And if the phone rings, then I'm looking forward to it. I'm absolutely looking forward to it. We'll see what happens.
 
 ============================================================
-[12] Untitled Signs 'The Hunting Wives,' 'I Will Find You' Director Maggie Kiley
+[17] Untitled Signs 'The Hunting Wives,' 'I Will Find You' Director Maggie Kiley
 Source: Deadline | Status: expanded | Words: 451
 Published: 2026-11-23T18:13:16+00:00
 URL: https://deadline.com/2026/11/maggie-kiley-hunting-wives-signs-untitled-1237231737
@@ -447,7 +563,7 @@ Kiley began her career as an actress, appearing on stage and screen before trans
 A passionate advocate for arts education, Kiley serves on the board of the Los Angeles County High School for the Arts Foundation and regularly mentors through Film Independent, the DGA and Women in Film. She continues to. Be represented by CAA and Jackoway Austen Tyerman.
 
 ============================================================
-[13] Donald Trump Puts Himself At Center Of Jensen Huang's Reinstatement, Downplays "Sex Sells" Scandal Amid National Security Concerns
+[18] Donald Trump Puts Himself At Center Of Jensen Huang's Reinstatement, Downplays "Sex Sells" Scandal Amid National Security Concerns
 Source: Deadline | Status: expanded | Words: 868
 Published: 2026-11-23T18:09:28+00:00
 URL: https://deadline.com/2026/11/trump-jensen-huang-nvidia-scandal-1237231676
@@ -487,7 +603,7 @@ Even Newt Gingrich, the former House speaker and Trump supporter, found the circ
 He wrote on X, "There is something profoundly wrong about Jensen Huang having a relationship with a Chinese Communist Spy and helping China get a huge number of very advanced computer chips when that was specifically against the policy of the United States Government and now he is being reinstated as ceo of the most advanced chip making company in the world. Congress should really dig into this as a national security issue of enormous proportions and also a significant failure in the federal bureaucracy."
 
 ============================================================
-[14] One Way Jimmy Fallon Is Differentiating Himself From Jimmy Kimmel This Holiday TV Season
+[19] One Way Jimmy Fallon Is Differentiating Himself From Jimmy Kimmel This Holiday TV Season
 Source: CinemaBlend | Status: expanded | Words: 390
 Published: 2026-11-23T18:08:45+00:00
 URL: https://www.cinemablend.com/television/how-jimmy-fallon-differentiating-from-jimmy-kimmel-thanksgiving-holiday-tv-season
@@ -507,7 +623,7 @@ It definitely tracks that NBC would want to keep these late-night offerings on t
 The ABC press site confirms that Jimmy Kimmel Live ! will only air new episodes on Monday, November 23 and Tuesday, November 24. For the remainder of the week, the show will go on a break and reruns will air in its place. So, in other words, this marks a brief hiatus for the team over at Live! Of course, such a break isn’t unheard of for this show or any other like it. What’s also worth noting is that this break comes months after Kimmel’s latest time away from the desk.
 
 ============================================================
-[15] 'Way of the Warrior Kid' Review: Chris Pratt Pulls Too Much Focus in a Conflicted Family Film
+[20] 'Way of the Warrior Kid' Review: Chris Pratt Pulls Too Much Focus in a Conflicted Family Film
 Source: Variety | Status: expanded | Words: 1105
 Published: 2026-11-23T18:08:17+00:00
 URL: https://variety.com/2026/film/reviews/way-of-the-warrior-kid-review-chris-pratt-1236956062
@@ -537,7 +653,7 @@ Assuming Staples&#x2019; script translates Willink&#x2019;s book faithfully, the
 Ultimately, Pratt is too big a star to simply act in support of a story where he isn&#x2019;t the focus &#x2014; which ends up being to the detriment of what is really a kid's tale. Because the film must cater to his movie-star presence, the epiphanies experienced by Marc feel designed for adults to appreciate, offering a pointed reminder that there&#x2019;s a difference between not talking down to a kid and not talking directly to one. &#x201C;Way of the Warrior Kid&#x201D; doesn't bring enjoyment, empowerment or enlightenment, so much as a sense of, "Okay, that happened.&#x201D; Either way, a sock in the teeth feels as appropriate a response to somebody throwing your bike into San Diego Bay as spending an entire summer building a psychological profile understanding why they threw it in there in the first place.
 
 ============================================================
-[16] Jimmy Jenkins’s ‘God With Us,’ Starring Rotimi &#038; Lil Rel Howery, Lands PVOD Release
+[21] Jimmy Jenkins’s ‘God With Us,’ Starring Rotimi &#038; Lil Rel Howery, Lands PVOD Release
 Source: Deadline | Status: expanded | Words: 446
 Published: 2026-11-23T18:08:08+00:00
 URL: https://deadline.com/2026/11/jimmy-jenkins-god-with-us-rotimi-lil-rel-howery-pvod-1237231734
@@ -563,7 +679,7 @@ God With Us is Jenkins&#x2019;s sophomore feature following Sinners Wanted . He 
 Jenkins added: &#x201C;This audience has always been there: Black, faith-driven, family-centered, and ready to spend. The industry just hasn't treated them like a market. We did.&#x201D;
 
 ============================================================
-[17] Steven Spielberg to Direct Paul Thomas Anderson-Penned 'Heart in Winter,' Set to Star Jessie Buckley, Cillian Murphy, Mark Rylance
+[22] Steven Spielberg to Direct Paul Thomas Anderson-Penned 'Heart in Winter,' Set to Star Jessie Buckley, Cillian Murphy, Mark Rylance
 Source: The Hollywood Reporter | Status: expanded | Words: 169
 Published: 2026-11-23T18:05:47+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1236761238
@@ -583,7 +699,7 @@ Earlier this year, Spielberg helmed Universal's Disclosure Day . He also produce
 Buckley is represented by CAA, United Agents, and Johnson Shapiro. Murphy is repped by WME and Sloane Offer. Rylance is repped by CAA and Peikoff Mahan Law Office. Anderson is repped by CAA and Jackoway Austen.
 
 ============================================================
-[18] Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’
+[23] Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’
 Source: Variety | Status: expanded | Words: 49
 Published: 2026-11-23T18:03:43+00:00
 URL: https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084
@@ -595,7 +711,7 @@ CONTENT / EXTRACTED DETAILS:
 Steven Spielberg is set to adapt Kevin Barry's Western novel "The Heart in Winter" for Focus Features, Variety has confirmed. Jessie Buckley , Cillian Murphy and Mark Rylance are set to star. Spielberg will direct, with a script from "One Battle After Another" Oscar winner Paul Thomas Anderson .
 
 ============================================================
-[19] Shawn Levy's 21 Laps Inks First Look Film Deal At Sony Pictures
+[24] Shawn Levy's 21 Laps Inks First Look Film Deal At Sony Pictures
 Source: Deadline | Status: expanded | Words: 772
 Published: 2026-11-23T18:00:00+00:00
 URL: https://deadline.com/2026/11/shawn-levy-sony-21-laps-deal-1237231675
@@ -615,7 +731,7 @@ The deal begins in fall 2027. That's when Levy's 21 Laps Netflix pact ends. Next
 Levy's directed and produced Star Wars: Starfighter , starring Ryan Gosling, arrives in theaters on May 28, 2027. The duo will reteam together again on Marvel's Ghost Rider which is opening on July 28, 2028. 21 Laps upcoming projects also include Universal Pictures&#x2019; romantic comedy The Catch , starring Emma Stone and Chris Pine; Netflix&#x2019;s drama series The Sticks , starring Michelle Monaghan; Amazon MGM Studios&#x2019; supernatural horror film Seasons ; Netflix&#x2019;s feature comedy One Attempt Remaining , starring Jennifer Garner and John Cena; and an untitled Netflix spy feature starring Kevin Hart and Henry Cavill. Sony Pictures&#x2019; charted the third highest grossing movie ever with Spider-Man: Brand New Day ($2.5 billion) which is also the highest grossing movie at the North American box office at $959M. The studio recently revived Resident Evil with Weapons director Zach Cregger which has grossed over $400M, the highest grossing installment in the 24-year old feature franchise based on the Capcom videogame. Up next is Jumanji: Open World , the third film in the $1.8 billion Jumanji franchise, opening Christmas Day. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[20] James Marsden-Led Apple Series 'Disavowed' Adds Four To Cast
+[25] James Marsden-Led Apple Series 'Disavowed' Adds Four To Cast
 Source: Deadline | Status: expanded | Words: 596
 Published: 2026-11-23T18:00:00+00:00
 URL: https://deadline.com/2026/11/james-marsden-disavowed-cast-apple-tv-julia-jones-1237231128
@@ -645,7 +761,7 @@ Landes can most recently be seen in Starz's Fightland and opposite Colin Firth i
 Torrens can currently be seen in Sky/HBO's new legal drama War and recently appeared in Alejandro G. I&#xF1;&#xE1;rritu's Digger , starring Tom Cruise. He'll next be seen in Guy Ritchie's Wife and Dog , alongside Anthony Hopkins, Benedict Cumberbatch and Rosamund Pike, and in Netflix's The Mercenary: An Extraction Series. Torrens is repped by Independent Talent.
 
 ============================================================
-[21] ‘The Secret Lives of Mormon Wives: Orange County’ Renewed At Hulu For 20 More Episodes
+[26] ‘The Secret Lives of Mormon Wives: Orange County’ Renewed At Hulu For 20 More Episodes
 Source: Deadline | Status: expanded | Words: 379
 Published: 2026-11-23T18:00:00+00:00
 URL: https://deadline.com/2026/11/the-secret-lives-of-mormon-wives-orange-county-renewed-hulu-1237231308
@@ -671,7 +787,7 @@ The renewal comes as Hulu is expanding the Mormon Wives franchise even further; 
 Mormon Wives was handed another 20 episode renewal in August , although it&#x2019;s not clear how many of the stars will appear.
 
 ============================================================
-[22] 'The Secret Lives of Mormon Wives: Orange County' Renewed at Hulu
+[27] 'The Secret Lives of Mormon Wives: Orange County' Renewed at Hulu
 Source: The Hollywood Reporter | Status: expanded | Words: 422
 Published: 2026-11-23T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/secret-lives-mormon-wives-orange-county-renewed-hulu-20-episodes-1236760335
@@ -695,7 +811,7 @@ When asked by The Hollywood Reporter about plans for a potential second season, 
 The Secret Lives of Mormon Wives: Orange County is produced by Jeff Jenkins Productions, in association with 3BMG and Walt Disney Television Alternative. Executive producers include Jeff Jenkins, Russell Jay-Staglik, Amanda Weinstein, Melissa Bidwell and Brandon Beck at Jeff Jenkins Productions; Ross Weintraub and Reinout Oerlemans at 3BMG; and Georgia Berger, Filipelli and Danielle Pistotnik at Select Entertainment.
 
 ============================================================
-[23] UTA to Host Creators Summit For Next Generation of Agents
+[28] UTA to Host Creators Summit For Next Generation of Agents
 Source: The Hollywood Reporter | Status: expanded | Words: 279
 Published: 2026-11-23T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/uta-creators-summit-1236759971
@@ -715,7 +831,7 @@ Expected speakers include Partner and UTA Creators Co-Head Ali Berman, UTA Creat
 &#x201C;Curiosity and collaboration are at the heart of UTA&#x2019;s culture, and this summit opens our doors and shares that experience with the next generation,&#x201D; said Laura Roenick, Partner & SVP, People at UTA. &#x201C;We&#x2019;re excited to connect emerging professionals with the people powering the creator business to help them see how their passion and strengths can translate into meaningful careers.&#x201D;
 
 ============================================================
-[24] Shawn Levy's 21 Laps Inks Overall Film Deal at Sony
+[29] Shawn Levy's 21 Laps Inks Overall Film Deal at Sony
 Source: The Hollywood Reporter | Status: expanded | Words: 526
 Published: 2026-11-23T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/shawn-levys-21-laps-overall-film-deal-at-sony-1236761214
@@ -741,7 +857,7 @@ Levy came up in the world of family comedies, which is how he met Rothman and So
 "21 Laps was built on empowering fellow filmmakers and helping them tell stories imbued with their unique voices and visions," Levy's statement continued. "Along with my entire 21 Laps team, I&#x2019;m thrilled to begin this next chapter with the team at Sony, and am excited about the wide-open breadth of opportunity across Sony&#x2019;s many labels. I deeply value their commitment to theatrical filmmaking."
 
 ============================================================
-[25] Sandra Hüller To Be Honored With Spotlight Award At Palm Springs International Film Awards (EXCLUSIVE)
+[30] Sandra Hüller To Be Honored With Spotlight Award At Palm Springs International Film Awards (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 354
 Published: 2026-11-23T18:00:00+00:00
 URL: https://variety.com/2026/film/news/sandra-huller-spotlight-actress-psiff-1236955315
@@ -761,7 +877,7 @@ The Academy Award-winning actress joins this year&#x2019;s previously announced 
 Past recipients of the Spotlight Award include Amy Adams, Jessica Chastain, Danielle Brooks, Helen Hunt, Allison Janney, Julia Roberts, Kristen Stewart and Yuh-Jung Youn.
 
 ============================================================
-[26] American Film Institute Establishes First Full-Ride Scholarship for Production Design
+[31] American Film Institute Establishes First Full-Ride Scholarship for Production Design
 Source: Variety | Status: expanded | Words: 364
 Published: 2026-11-23T18:00:00+00:00
 URL: https://variety.com/2026/artisans/news/american-film-institute-full-scholarship-production-design-1236955132
@@ -787,7 +903,7 @@ The AFI Conservatory offers a two-year MFA in production design to prepare fello
 The priority deadline to apply for the AFI World Builder Scholarship for Production Design is Dec. 1. Further information can be found on the AFI website .
 
 ============================================================
-[27] 'The Secret Lives of Mormon Wives: Orange County' Renewed for Season 2 at Hulu
+[32] 'The Secret Lives of Mormon Wives: Orange County' Renewed for Season 2 at Hulu
 Source: Variety | Status: expanded | Words: 439
 Published: 2026-11-23T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/secret-lives-of-mormon-wives-orange-county-renewed-season-2-1236954749
@@ -809,7 +925,7 @@ While some of the women &#x2014; DaPron and McClanahan, in particular &#x2014; a
 "The Secret Lives of Mormon Wives: Orange County&#x201D; is produced by Jeff Jenkins Productions, with 3BMG and Walt Disney Television Alternative. Executive producers are Jeff Jenkins, Russell Jay-Staglik, Amanda Weinstein, Melissa Bidwell, Brandon Beck, Ross Weintraub, Reinout Oerlemans, Georgia Berger, Lisa Filipelli and Danielle Pistotnik.
 
 ============================================================
-[28] Shawn Levy's 21 Laps Inks Rich Overall Film Deal at Sony
+[33] Shawn Levy's 21 Laps Inks Rich Overall Film Deal at Sony
 Source: Variety | Status: expanded | Words: 651
 Published: 2026-11-23T18:00:00+00:00
 URL: https://variety.com/2026/film/news/shawn-levy-21-overall-film-deal-sony-1236956043
@@ -843,7 +959,7 @@ The company's slate of upcoming projects also includes Universal Pictures&#x2019
 Levy and 21 Laps Entertainment are represented by WME and Wendy Kirk at JSSK.
 
 ============================================================
-[29] The Sony INZONE M10S II Offers Stunning OLED Visuals in a Surprisingly Small Package (Review)
+[34] The Sony INZONE M10S II Offers Stunning OLED Visuals in a Surprisingly Small Package (Review)
 Source: ComicBook.com | Status: expanded | Words: 1417
 Published: 2026-11-23T18:00:00+00:00
 URL: https://comicbook.com/gaming/review/sony-inzone-m10s-ii-monitor-review
@@ -887,7 +1003,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] 'Shōgun' Star Hiroyuki Sanada Joins Destin Daniel Cretton's 'Naruto' At Lionsgate
+[35] 'Shōgun' Star Hiroyuki Sanada Joins Destin Daniel Cretton's 'Naruto' At Lionsgate
 Source: Deadline | Status: expanded | Words: 427
 Published: 2026-11-23T18:00:00+00:00
 URL: https://deadline.com/2026/11/shogun-hiroyuki-sanada-destin-daniel-cretton-naruto-movie-1237231404
@@ -909,7 +1025,7 @@ The motion picture will be based on the manga created by Masashi Kishimoto. A gl
 Best known for his award-winning performance in Sh&#x14D;gun , alongside John Wick: Chapter 4 , Bullet Train , and Mortal Kombat , Sanada is also a trained martial artist and karate black belt. His extraordinary combination of physical prowess, commanding presence, and dramatic depth makes him uniquely suited to portray the Hokage of the Hidden Leaf Village.
 
 ============================================================
-[31] 'The Heart In Winter': Steven Spielberg Western Enlists Jessie Buckley &#038; Cillian Murphy As Star-Crossed Fugitives With Script From Paul Thomas Anderson
+[36] 'The Heart In Winter': Steven Spielberg Western Enlists Jessie Buckley &#038; Cillian Murphy As Star-Crossed Fugitives With Script From Paul Thomas Anderson
 Source: The Playlist | Status: summary_only | Words: 105
 Published: 2026-11-23T17:59:53+00:00
 URL: https://theplaylist.net/the-heart-in-winter-steven-spielberg-paul-thomas-anderson-20261123
@@ -921,7 +1037,7 @@ CONTENT / EXTRACTED DETAILS:
 We learned not too long ago that veteran filmmaker Steven Spielberg 's next big feature would be a Western shooting in 2027, and there is now some more concrete information about it, including that it will be titled " The Heart In Winter ," an adaptation of the Kevin Barry novel, and will have a script penned by Paul Thomas Anderson ("One Battle After Another"), quite the one-two punch of creatives coming together for Spielberg's first Western feature. Continue reading 'The Heart In Winter': Steven Spielberg Western Enlists Jessie Buckley & Cillian Murphy As Star-Crossed Fugitives With Script From Paul Thomas Anderson at The Playlist.
 
 ============================================================
-[32] Kasi Lemmons Adapting Nike Exec Larry Miller's 'JUMP: My Secret Journey From The Streets To The Boardroom' For Scott Budnick's 1Community
+[37] Kasi Lemmons Adapting Nike Exec Larry Miller's 'JUMP: My Secret Journey From The Streets To The Boardroom' For Scott Budnick's 1Community
 Source: Deadline | Status: expanded | Words: 574
 Published: 2026-11-23T17:53:54+00:00
 URL: https://deadline.com/2026/11/kasi-lemmons-adapting-jump-larry-miller-memoir-1community-1237231715
@@ -947,7 +1063,7 @@ Miller added, &#x201C;Kasi Lemmons is legendary, and we're honored to see this s
 The deal was negotiated by Shukla and Karyn Edwards from BALA for 1Community. Lemmons is repped by CAA and Jeanne Bixler Way at Del Shaw Moonves. Miller and Lacy with CAA.
 
 ============================================================
-[33] Ariana Grande Teases 'Eternal Sunshine Tour' Movie at Peacock
+[38] Ariana Grande Teases 'Eternal Sunshine Tour' Movie at Peacock
 Source: Variety | Status: expanded | Words: 315
 Published: 2026-11-23T17:52:07+00:00
 URL: https://variety.com/2026/music/news/ariana-grande-teases-eternal-sunshine-tour-movie-peacock-1236956068
@@ -969,7 +1085,7 @@ Grande embarked on the "Eternal Sunshine" tour earlier this year, kicking off th
 Grande is currently gearing up for the release of the film "Focker-in-Law," the fourth entry in the series. The film is set for release on November 25.
 
 ============================================================
-[34] Dragon Ball Super Remake Is Already Setting Up Ultra Instinct's Debut
+[39] Dragon Ball Super Remake Is Already Setting Up Ultra Instinct's Debut
 Source: ComicBook.com | Status: expanded | Words: 614
 Published: 2026-11-23T17:49:42+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-remake-is-already-setting-up-ultra-instincts-debut
@@ -997,7 +1113,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] There’s An Insane Yellowjackets Theory About Akilah I Need To Talk Out After The Premiere
+[40] There’s An Insane Yellowjackets Theory About Akilah I Need To Talk Out After The Premiere
 Source: CinemaBlend | Status: expanded | Words: 231
 Published: 2026-11-23T17:48:55+00:00
 URL: https://www.cinemablend.com/television/insane-yellowjackets-theory-about-akilah-after-season-4-premiere
@@ -1015,7 +1131,7 @@ Once Pit Girl was revealed as Mari, the question about which of the Yellowjacket
 A sneak peek scene from later in Season 4 showed Akilah talking to Misty in the High School cafeteria, but that hasn't stopped fans from thinking she wasn't actually there. After all, Amazon's Carrie pulled a similar move with the character Emaline, who was revealed midway through the season to be an astral projection that only the titular character could see. As such, we'll have to continue watching Akilah throughout future episodes to see who she interacts with.
 
 ============================================================
-[36] 'Gondhal' Director Santosh Davakhar Talks Creating India's 2027 Oscar Entry, the Films That Inspired Him and More
+[41] 'Gondhal' Director Santosh Davakhar Talks Creating India's 2027 Oscar Entry, the Films That Inspired Him and More
 Source: Variety | Status: expanded | Words: 690
 Published: 2026-11-23T17:42:08+00:00
 URL: https://variety.com/2026/film/news/gondhal-director-santosh-davakhar-india-oscar-entry-1236955103
@@ -1051,7 +1167,7 @@ From his experience at Cannes, Davakhar learned that the global perception of In
 &#x201C;That heritage will be the backdrop of the story, but the human emotion, human conflict, that will be the story,&#x201D; he said.
 
 ============================================================
-[37] Made By All Hires Ex-Spotter &#038; Rolling Stone Exec Christina Tom
+[42] Made By All Hires Ex-Spotter &#038; Rolling Stone Exec Christina Tom
 Source: Deadline | Status: expanded | Words: 587
 Published: 2026-11-23T17:37:54+00:00
 URL: https://deadline.com/2026/11/made-by-all-hires-christina-tom-creator-economy-1237231690
@@ -1083,7 +1199,7 @@ Tom&#x2019;s career also includes roles at Entertainment Weekly, Billboard, Disn
 Earlier this year, Made By All launched a production arm , Made By Us Studios , with former Range partner Tanya Cohen named co-CEO to lead the business alongside Perice and President of Production Nic Stanish, who also leads marketing content studio Made By Us .
 
 ============================================================
-[38] ‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place
+[43] ‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place
 Source: The Playlist | Status: summary_only | Words: 107
 Published: 2026-11-23T17:35:41+00:00
 URL: https://theplaylist.net/way-of-the-warrior-kid-review-chris-pratt-mcg-20261123
@@ -1095,7 +1211,7 @@ CONTENT / EXTRACTED DETAILS:
 If you haven’t read a book, are you in a suitable position to properly judge its film adaptation? The answer, of course, is to treat said adaptation on its own merits, but in the case of McG ’s shiny new Apple TV effort based on Jocko Willink ’s “ Way Of The Warrior Kid ,” it’s far too easy to see just another story riddled with unoriginality, with an overall tone that can’t seem to resist veering wildly off course more often than one might expect. Continue reading ‘Way Of The Warrior Kid’ Review: Chris Pratt’s Formulaic Coming-Of-Age Drama Is All Over The Place at The Playlist.
 
 ============================================================
-[39] Avengers: Doomsday Just Teased the End of the Multiverse, And You Probably Missed It
+[44] Avengers: Doomsday Just Teased the End of the Multiverse, And You Probably Missed It
 Source: ComicBook.com | Status: expanded | Words: 687
 Published: 2026-11-23T17:33:14+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-just-teased-the-end-of-the-multiverse-and-you-probably-missed-it
@@ -1125,7 +1241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference
+[45] Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference
 Source: Variety | Status: expanded | Words: 327
 Published: 2026-11-23T17:30:08+00:00
 URL: https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188
@@ -1147,7 +1263,7 @@ Variety&#x2019;s senior artisans editor Jazz Tangcay will moderate the Hollywood
 Joining the announced talent will be Jerry Neuman, Board Chair, Hollywood Chamber of Commerce; Ron Frierson, President & CEO, Hollywood Chamber of Commerce; and Dea Lawrence, Co-President and Publisher, Variety .
 
 ============================================================
-[41] Steven Spielberg Sets Adaptation Of 'The Heart In Winter' As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul Thomas Anderson Adapting The Script
+[46] Steven Spielberg Sets Adaptation Of 'The Heart In Winter' As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul Thomas Anderson Adapting The Script
 Source: Deadline | Status: expanded | Words: 952
 Published: 2026-11-23T17:30:00+00:00
 URL: https://deadline.com/2026/11/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1237231172
@@ -1191,7 +1307,7 @@ Besides Hamnet, Buckley can be seen next in Three Incestuous Sisters, which also
 Buckley is represented by CAA, United Agents and Johnson Shapiro Slewett & Kole. Murphy is represented by WME and Sloane Offer Weber & Dern. Rylance is represented by CAA and Peikoff Mahan Law Office. Anderson is represented by CAA and Jackoway Austen Tyerman Wertheimer Mandelbaum Morris Bernstein Trattner Auerbach Hynick Jaime LeVine Sample & Klein
 
 ============================================================
-[42] Everything We Know About Amazon MGM &#038; Sony Pictures TV's ‘God Of War’ Adaptation So Far
+[47] Everything We Know About Amazon MGM &#038; Sony Pictures TV's ‘God Of War’ Adaptation So Far
 Source: Deadline | Status: expanded | Words: 1285
 Published: 2026-11-23T17:29:47+00:00
 URL: https://deadline.com/feature/god-of-war-tv-show-adaptation-news-updates-amazon-sony-tv-1237049420
@@ -1259,7 +1375,7 @@ Ronald D. Moore came aboard as showrunner shortly after Deadline broke the news 
 The video game was created by David Jaffe, who also created Twisted Metal which received a series adaptation on Peacock. Jaffe made some comments about the series' first-look image , released at the end of February 2026. This was before Bautista had taken over as Kratos, though.
 
 ============================================================
-[43] Don Toliver Postpones O2 Arena Show After Evacuation Due to "Unknown Substance" Released at Manchester Concert
+[48] Don Toliver Postpones O2 Arena Show After Evacuation Due to "Unknown Substance" Released at Manchester Concert
 Source: The Hollywood Reporter | Status: expanded | Words: 367
 Published: 2026-11-23T17:29:12+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/don-toliver-02-arena-concert-postponed-evacuation-1236761147
@@ -1287,7 +1403,7 @@ The representative said further testing would take place today on items found at
 Co-op Live said that the venue is working with Greater Manchester Police over the incident.
 
 ============================================================
-[44] Director David Leitch Confirms Attachment To 'Ocean's 14' With "Great Script," But Scheduling Remains An "Issue"
+[49] Director David Leitch Confirms Attachment To 'Ocean's 14' With "Great Script," But Scheduling Remains An "Issue"
 Source: The Playlist | Status: summary_only | Words: 116
 Published: 2026-11-23T17:27:50+00:00
 URL: https://theplaylist.net/david-leitch-confirms-oceans-14-update-20261123
@@ -1299,7 +1415,7 @@ CONTENT / EXTRACTED DETAILS:
 Back in January 2025, director David Leitch ("How to Rob A Bank") was reportedly in talks to helm " Ocean's 14 ," and there is pretty much confirmation from the man himself that he’s still attached to the heist sequel. But while he's praising the film's "great script" (co-written by George Clooney and longtime creative partner Grant Heslov of Smokehouse Pictures ), scheduling remains a sticking point despite a production window recently mentioned by Brad Pitt for October of next year when speaking from the red carpet premiere of " Cliff Booth " this month. Continue reading Director David Leitch Confirms Attachment To 'Ocean's 14' With "Great Script," But Scheduling Remains An "Issue" at The Playlist.
 
 ============================================================
-[45] ‘Mr. Irrelevant’ Trailer: David Corenswet Suits Up As John Tuggle In Jonathan Levine’s Underdog Sports Drama
+[50] ‘Mr. Irrelevant’ Trailer: David Corenswet Suits Up As John Tuggle In Jonathan Levine’s Underdog Sports Drama
 Source: The Playlist | Status: summary_only | Words: 112
 Published: 2026-11-23T17:26:41+00:00
 URL: https://theplaylist.net/mr-irrelevant-new-trailer-david-corenswet-john-tuggle-20261123
@@ -1309,438 +1425,4 @@ There is a certain kind of sports movie title that almost dares you to underesti
 
 CONTENT / EXTRACTED DETAILS:
 There is a certain kind of sports movie title that almost dares you to underestimate it, and “ Mr. Irrelevant ” certainly qualifies. But Paramount Pictures and director Jonathan Levine are aiming for something warmer and more old-school with this inspirational football drama about John Tuggle , the final pick in the 1983 NFL Draft who became a beloved New York Giant. David Corenswet , coming off “ Superman ,” stars as Tuggle, alongside Isabel May as his love interest Katie and Michael Shannon as legendary Giants coach Bill Parcells . Continue reading ‘Mr. Irrelevant’ Trailer: David Corenswet Suits Up As John Tuggle In Jonathan Levine’s Underdog Sports Drama at The Playlist.
-
-============================================================
-[46] 'The Odyssey' Leads Critics Choice Awards Below-The-Line Shortlists With 11; 'Dune: Part Three' And 'La Bola Negra' Get 8 Each
-Source: Deadline | Status: expanded | Words: 1408
-Published: 2026-11-23T17:25:41+00:00
-URL: https://deadline.com/2026/11/the-odyssey-leads-critics-choice-awards-crafts-shortlists-1237231672
-------------------------------------------------------------
-SUMMARY:
-No surprise here. The Odyssey leads the Critics Choice Awards below-the-line shortlists with recognition in 11 of the 12 categories for which shortlists were created. Dune: Part Three and La Bola Negra each followed with 8 mentions. Godzilla Minus Zero and Wildwood each got notice in 7 categories. The 12 categories CCA covered were Best […]
-
-CONTENT / EXTRACTED DETAILS:
-No surprise here. The Odyssey leads the Critics Choice Awards below-the-line shortlists with recognition in 11 of the 12 categories for which shortlists were created. Dune: Part Three and La Bola Negra each followed with 8 mentions. Godzilla Minus Zero and Wildwood each got notice in 7 categories.
-
-The 12 categories CCA covered were Best Casting and Ensemble, Best Young Actor/Actress, Best Cinematography, Best Production Design, Best Editing, Best Costume Design, Best Hair and Makeup, Best Visual Effects, Best Stunt Design, Best Song, Best Score, and Best Sound. A special BTL Nominating Committee created the shortlists. The full membership will now select the final nominees from these lists in addition to all other categories for the 32nd Annual Critics Choice Awards. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'GTA VI' Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B News 'The Odyssey's Christopher Nolan Explains Why "No One Will Ever See" Deleted Scenes Of Epic
-
-The complete shortlists can be found below. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-As previously announced, Abbott Elementary 's Janelle James will host the ceremony on Sunday, January 3, 2027, at The Barker Hangar in Santa Monica. Returning to E! for the third consecutive year, and to USA Network for the second, the telecast will air live on both coasts from 7:00-10:00 p.m. ET / 4:00-7:00 p.m. PT.
-
-Nominations in both the film and television categories will be announced by Live From E! &#x2019;s Erin Lim Rhodes and Will Marfuggi at 12:00 p.m. ET / 9:00 a.m. PT on Friday, December 4 on E! and USA Network linear channels, along with CriticsChoice.com and E! Online, and on CCA&#x2019;s and E!&#x2019;s social platforms.
-
-Bernard Telsey, Adam Caldwell &#x2013; Being Heumann (Apple Original Films)
-
-Nina Gold &#x2013; Clarissa (Neon)
-
-Carmen Cuba &#x2013; Club Kid (A24)
-
-Rick Montgomery &#x2013; I Play Rocky (Amazon MGM Studios)
-
-Nina Henninger, Sarah Kliban, Nafisa Kaptownwala, Natalie Lin Yang &#x2013; Josephine (Sumerian Pictures)
-
-Eva Leira, Yolanda Serrano &#x2013; La Bola Negra (Netflix)
-
-Victoria Thomas &#x2013; Michael (Lionsgate)
-
-Skyler Zurn &#x2013; Obsession (Focus Features) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-John Papsidera &#x2013; The Odyssey (Universal Pictures)
-
-Christine Kromer &#x2013; The Only Living Pickpocket in New York (Sony Pictures Classics)
-
-Sarah Halley Finn &#x2013; Wild Horse Nine (Searchlight Pictures)
-
-Alexa Swinton &#x2013; Behemoth! (Searchlight Pictures)
-
-Reggie Absolom &#x2013; Club Kid (A24)
-
-Jordyn Curet &#x2013; The Drama (A24)
-
-Vanessa Ceban &#x2013; Fjord (Neon)
-
-Sae Nagatani &#x2013; Godzilla Minus Zero (GKIDS)
-
-Bodhi Dell &#x2013; If I Go Will They Miss Me (Rich Spirit)
-
-Mason Reeves &#x2013; Josephine (Sumerian Pictures)
-
-Juliano Valdi &#x2013; Michael (Lionsgate)
-
-Katherine Mallen Kupferer &#x2013; Mouse (Independent Film Company)
-
-Bodhi Rae Breathnach &#x2013; Sense and Sensibility (Focus Features)
-
-Eve Ridley &#x2013; Supergirl (Warner Bros.)
-
-Charlotte Mellington &#x2013; Wuthering Heights (Warner Bros.)
-
-Malik Hassan Sayeed &#x2013; Artificial (Neon)
-
-Emmanuel Lubezki &#x2013; Digger (Warner Bros.)
-
-Linus Sandgren &#x2013; Dune: Part Three (Warner Bros.)
-
-Adam Newport-Berra &#x2013; The Invite (A24)
-
-Gris Jordana &#x2013; La Bola Negra (Netflix)
-
-Hoyte van Hoytema &#x2013; The Odyssey (Universal Pictures)
-
-Kim Ji-yong &#x2013; Possible Love (Netflix)
-
-Greig Fraser &#x2013; Project Hail Mary (Amazon MGM Studios)
-
-Jarin Blaschke &#x2013; Werwulf (Focus Features)
-
-Caleb Deschanel &#x2013; Wildwood (Fathom Entertainment)
-
-David Bolen &#x2013; You Can See Everything (A24)
-
-Katelin Arizmendi &#x2013; Your Mother Your Mother Your Mother (Amazon MGM Studios)
-
-Danny Vermette, Trevor Johnston &#x2013; Backrooms (A24)
-
-Dennis Gassner, Richard L. Johnson, Anna Pinnock &#x2013; Digger (Warner Bros.)
-
-Patrice Vermette, Shane Vieau &#x2013; Dune: Part Three (Warner Bros.)
-
-Donald Graham Burt, Jan Pascale &#x2013; The Further Mis-Adventures of Cliff Booth (Netflix)
-
-Anri Jojo, Wataru Hirai &#x2013; Godzilla Minus Zero (GKIDS)
-
-Christopher Glass, Lizbeth Ayala &#x2013; I Love Boosters (Neon)
-
-Jade Healy, Adam Willis &#x2013; The Invite (A24)
-
-Roger Bell&#xE9;s, Judit Ferrer &#x2013; La Bola Negra (Netflix)
-
-Ruth De Jong, Larry Dias &#x2013; The Odyssey (Universal Pictures)
-
-Charles Wood, John Bush &#x2013; Project Hail Mary (Amazon MGM Studios)
-
-Nelson Lowry, Nick Mariana, Nikki Woolsey &#x2013; Wildwood (Fathom Entertainment)
-
-Suzie Davies, Charlotte Dirickx &#x2013; Wuthering Heights (Warner Bros.)
-
-John Gilroy &#x2013; Behemoth! (Searchlight Pictures)
-
-Carsten Kurpanek &#x2013; Coyote vs. Acme (Ketchup Entertainment)
-
-Joe Walker &#x2013; Dune: Part Three (Warner Bros.)
-
-Ryuji Miyajima &#x2013; Godzilla Minus Zero (GKIDS)
-
-Yorgos Mavropsaridis, Ant Boys &#x2013; The Invite (A24)
-
-Alberto Guti&#xE9;rrez &#x2013; La Bola Negra (Netflix)
-
-Curry Barker &#x2013; Obsession (Focus Features)
-
-Jennifer Lame &#x2013; The Odyssey (Universal Pictures)
-
-Lynn True, Anne de Mare &#x2013; Once Upon a Time in Harlem (Neon)
-
-Joel Negron &#x2013; Project Hail Mary (Amazon MGM Studios)
-
-Adam Locke-Norton &#x2013; You Can See Everything (A24)
-
-Cam McLauchlin &#x2013; Your Mother Your Mother Your Mother (Amazon MGM Studios)
-
-Isabel Van Renterghem &#x2013; Coward (MUBI)
-
-Molly Rogers &#x2013; The Devil Wears Prada 2 (20th Century Studios)
-
-Jacqueline West &#x2013; Dune: Part Three (Warner Bros.)
-
-Shirley Kurata &#x2013; I Love Boosters (Neon)
-
-Amy Roth &#x2013; I Play Rocky (Amazon MGM Studios)
-
-Ana L&#xF3;pez Cobos &#x2013; La Bola Negra (Netflix)
-
-Marci Rodgers &#x2013; Michael (Lionsgate) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-Bina Daigeler &#x2013; Mother Mary (A24)k
-
-Ellen Mirojnick &#x2013; The Odyssey (Universal Pictures)
-
-Andr&#xE1;s D&#xE1;niel T&#xF3;th, Attila Godena-Juh&#xE1;sz &#x2013; Wicker (Black Bear Pictures)
-
-Deborah Cook &#x2013; Wildwood (Fathom Entertainment)
-
-Jacqueline Durran &#x2013; Wuthering Heights (Warner Bros.)
-
-28 Years Later: The Bone Temple (Sony Pictures Releasing)
-
-Dune: Part Three (Warner Bros.)
-
-The Odyssey (Universal Pictures)
-
-Wuthering Heights (Warner Bros.)
-
-Coyote vs. Acme (Ketchup Entertainment)
-
-Dune: Part Three (Warner Bros.)
-
-The End of Oak Street (Warner Bros.)
-
-The Odyssey (Universal Pictures)
-
-Project Hail Mary (Amazon MGM Studios)
-
-Ramayana: Rise of a Legend (Sony Pictures Releasing)
-
-Resident Evil (Sony Pictures Releasing)
-
-The Sheep Detectives (Amazon MGM Studios)
-
-Spider-Man: Brand New Day (Sony Pictures Releasing)
-
-Wildwood (Fathom Entertainment)
-
-Dune: Part Three (Warner Bros.)
-
-The Further Mis-Adventures of Cliff Booth (Netflix)
-
-Jackass: Best and Last (Paramount Pictures)
-
-The Odyssey (Universal Pictures)
-
-Ramayana: Rise of a Legend (Sony Pictures Releasing)
-
-Resident Evil (Sony Pictures Releasing)
-
-Spider-Man: Brand New Day (Sony Pictures Releasing)
-
-Your Mother Your Mother Your Mother (Amazon MGM Studios)
-
-&#x201C;Your God Is Sleeping&#x201D; &#x2013; Lukas Frank &#x2013; Behemoth! (Searchlight Pictures)
-
-&#x201C;This City May Have Chewed Me Up (But It Hasn&#x2019;t Spit Me Out)&#x201D; &#x2013; Jesse Eisenberg &#x2013; The Debut (A24)
-
-&#x201C;Runway&#x201D; &#x2013; Bruno Mars, Jaylah Hickmon, Lady Gaga, Andrew Watt, Henry Walter, D&#x2019;Mile, Jayda Love &#x2013; The Devil Wears Prada 2 (20th Century Studios)
-
-&#x201C;BRB&#x201D; &#x2013; Ryan Tedder, Gabriella Wilson &#x2013; Forgotten Island (Universal Pictures)
-
-&#x201C;La Nieve&#x201D; &#x2013; Guitarricadelafuente, Ra&#xFC;l Refree, Lucas Dur&#xE1;n &#x2013; La Bola Negra (Netflix)
-
-&#x201C;Burial&#x201D; &#x2013; Jack Antonoff, George Daniel, Charli xcx, Anne Hathaway &#x2013; Mother Mary (A24)
-
-&#x201C;When I&#x2019;m Home&#x201D; &#x2013; Christopher Nolan, James Blake, Ludwig G&#xF6;ransson, Travis Scott &#x2013; The Odyssey (Universal Pictures)
-
-&#x201C;How to Write a Song Without You&#x201D; &#x2013; Gary Clark, John Carney &#x2013; Power Ballad (Lionsgate)
-
-&#x201C;On Video&#x201D; &#x2013; Phoebe Bridgers &#x2013; Primetime (A24)
-
-&#x201C;Safety Instructions&#x201D; &#x2013; Leland, Connor Wright, Christina Friel &#x2013; Stop! That! Train! (Bleecker Street)
-
-&#x201C;I Knew It, I Knew You&#x201D; &#x2013; Taylor Swift, Jack Antonoff &#x2013; Toy Story 5 (Walt Disney Studios Motion Pictures)
-
-&#x201C;The Better Part of Bravery&#x201D; &#x2013; Colin Meloy &#x2013; Wildwood (Fathom Entertainment)
-
-Damon Albarn &#x2013; Artificial (Neon)
-
-Michael Abels, Emily Bear, Lukas Frank, Michael Giacchino, James Newton Howard, Henry Jackman, Nami Melumad, Brandon Roberts, Alan Silvestri &#x2013; Behemoth! (Searchlight Pictures)
-
-Kelsey Lu &#x2013; Clarissa (Neon)
-
-Steven Price &#x2013; Coyote vs. Acme (Ketchup Entertainment)
-
-Naoki Sato &#x2013; Godzilla Minus Zero (GKIDS)
-
-Ra&#xFC;l Refree &#x2013; La Bola Negra (Netflix) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-Ludwig G&#xF6;ransson &#x2013; The Odyssey (Universal Pictures)
-
-Daniel Pemberton &#x2013; Project Hail Mary (Amazon MGM Studios)
-
-Ricky Ho, Isabel Latorre &#x2013; The Violinist
-
-Robin Carolan &#x2013; Werwulf (Focus Features)
-
-Dario Marianelli &#x2013; Wildwood (Fathom Entertainment)
-
-Ari Balouzian &#x2013; You Can See Everything (A24)
-
-Behemoth! (Searchlight Pictures)
-
-Dune: Part Three (Warner Bros.)
-
-The Odyssey (Universal Pictures)
-
-Project Hail Mary (Amazon MGM Studios)
-
-Werwulf (Focus Features) Wildwood (Fathom Entertainment)
-
-============================================================
-[47] Re:Zero Star Breaks Silence on Anime’s Future After Season 5
-Source: ComicBook.com | Status: expanded | Words: 563
-Published: 2026-11-23T17:22:00+00:00
-URL: https://comicbook.com/anime/news/rezero-star-breaks-silence-on-animes-future-after-season-5
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of White Fox The voice behind Subaru Natsuki finally shared the anime's future even after Season 5. 2026 was a major year for Re:Zero -Starting Life in Another World– fans, as the anime not only aired its fourth season, but also commemorated its 10th anniversary. The fifth season has already been confirmed, and it's going to be more […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google The voice behind Subaru Natsuki finally shared the anime's future even after Season 5. 2026 was a major year for Re:Zero -Starting Life in Another World – fans, as the anime not only aired its fourth season, but also commemorated its 10th anniversary. The fifth season has already been confirmed, and it's going to be more intense than ever. The anime is based on an ongoing novel written by Tappei Nagatsuki and illustrated by Shinichirou Otsuka. As one of the biggest shows on Crunchyroll, it's no surprise Re:Zero was renewed for a fifth season not long after the fourth season finale.
-
-The story is currently at a crucial phase as Subaru Natsuki was forced to witness his friends die in gruesome ways, forcing him to realize his weakness. Fans are more excited to see his journey continue in Season 5, especially after Rem woke up from her coma. During the anime's 10th anniversary event last week, the voice actors were in attendance and discussed their experiences working on the series for a decade. The anime has only just confirmed its fifth season, but Yusuke Kobayashi, the voice behind Natsuki Subaru, already revealed what to expect from the anime going forward.
-
-Mantan Web shares his speech during the event, where Kobayashi says, “This toast is not a toast to a milestone, but the first call to continue running. We will continue to run for a long time to come, so we would be happy if you would continue to support and run with us in the world of Re:Zero , which may continue for decades to come.”
-
-Since the novel is ongoing, it goes without saying that the fifth season won't be able to adapt the entire story. Since the anime is already popular, fans will keep getting sequel seasons until the story is over. Kobayashi's closing remarks during the event confirm that the anime has a long future ahead, which may even continue for decades. In February this year, Nagatsuki confirmed that the novel's story is only halfway over after 14 years of serialization. This means the anime will keep releasing more seasons for another decade or even more.
-
-During the Season 5 announcement, Nagatsuki shared a special message to fans while dropping major hints about what to expect from the anime. While the creator didn't drop any major spoilers, he revealed that the but the journey from here on out will be even more grueling than ever, even comparing it to an inferno.
-
-Season 4 was already a brutal journey , but Subaru won't be able to catch a break in the upcoming season as well. Nagatsuki also assures fans that the journey from here on out won't be all about hardship. Fans can also look forward to new encounters and exciting developments, which means we can expect new character introductions in Season 5 as well.
-
-What are you most excited to see in&nbsp;the anime's Season 5? What do you hope will happen next in Subaru's journey? Share your thoughts in the comments below!
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[48] Supriya Ganesh, Benito Skinner, Amy Landecker &#038; Bradley Whitford Round Out Cast Of Mary Beth Barone Rom-Com 'Still We Met'
-Source: Deadline | Status: expanded | Words: 503
-Published: 2026-11-23T17:19:26+00:00
-URL: https://deadline.com/2026/11/still-we-met-cast-adds-supriya-ganesh-benito-skinner-more-1237231669
-------------------------------------------------------------
-SUMMARY:
-EXCLUSIVE: Still We Met, the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt's Supriya Ganesh, plus Overcompensating's Benito Skinner, and the husband &#38; wife duo of Amy Landecker (Misty Green) and Bradley Whitford (The Diplomat). Character details are […]
-
-CONTENT / EXTRACTED DETAILS:
-EXCLUSIVE: Still We Met , the indie rom-com written by and starring comedian Mary Beth Barone, has wrapped production in New York with four major additions to the cast: The Pitt 's Supriya Ganesh , plus Overcompensating 's Benito Skinner , and the husband & wife duo of Amy Landecker ( Misty Green ) and Bradley Whitford ( The Diplomat ).
-
-Character details are under wraps. The film follows a young woman at a crossroads who meets a charming British stranger and spends one unforgettable night wandering New York, revealing more than either intended.
-
-Still We Met marks Barone's feature screenwriting and acting debut. The film is directed by Zackary Drucke, in his narrative feature debut. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Casting Emily Ratajkowski Joins Mary Beth Barone & Joe Alwyn In Rom-Com 'Still We Met' News Benito Skinner Teases "2016 Millennial Hopecore" For 'Overcompensating' Season 2: "Sorry For The Wait"
-
-Other new additions to the cast include Daniel Liu ( The Devil Wears Prada 2 ), Adam Faison ( Fallout ), Corteon Moore ( Overcompensating ), and Johnny Sibilly ( Hacks ). Jack Heller and Caitlin de Lisser-Ellen produced for Assemble Media ( The Man I Love , Skeletons ), alongside Alex Bach and Daniel Powell of Irony Point ( I Think You Should Leave with Tim Robinson ). Lena Dunham and Michael Cohen exec produced under their Good Thing Going banner, with Madison Wolk co-producing for Assemble Media alongside Blake Mars for Good Thing Going. We scooped the project in September.
-
-Best known for her role of Dr. Samira Mohan on HBO's hit medical drama The Pitt , heading into its third season, Ganesh will be seen coming up in Netflix's reboot of 13 Going on 30 . She is repped by Untitled and Granderson Des Rochers.
-
-Skinner is the creator and star of Overcompensating , the Prime Video comedy returning for its second season on February 17, 2027. He works with Barone on that show and will next reteam with her on her Hulu rom-com series Hard Feelings . He is repped by WME and Entertainment 360.
-
-Best known for starring in Prime Video's Transparent , Landecker has most recently been seen in Chris Rock's A24 film Misty Green . She is repped by Gersh, Ayala Cohen Management, Marsha McManus of Principal Entertainment LA and Toczek Suddleson. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-Emmy nominated this year for his work on Netflix's The Diplomat , Whitford is repped by Gersh, Greenlight Management and Peikoff Mahan.
-
-============================================================
-[49] ‘3:30’ Filmmaker Shlok Choudhari &#038; Producer Sunil Sadarangani On Making A Women's Mental Health Awareness Noir In South Mumbai
-Source: Deadline | Status: expanded | Words: 2223
-Published: 2026-11-23T17:15:00+00:00
-URL: https://deadline.com/2026/11/330-short-film-inteview-shlok-choudhari-sunil-sadarangani-1237231423
-------------------------------------------------------------
-SUMMARY:
-Sometimes all it takes is a little gusto and a cold pitch on LinkedIn to get a film rolling. At 23, Shlok Choudhari left college and followed his dream of filmmaking with his first short, 3:30. Starring Priyanka Zemse, the black-and-white psychological noir follows a woman navigating Mumbai during the titular dark hour as medication, […]
-
-CONTENT / EXTRACTED DETAILS:
-Sometimes all it takes is a little gusto and a cold pitch on LinkedIn to get a film rolling. At 23, Shlok Choudhari left college and followed his dream of filmmaking with his first short, 3:30 . Starring Priyanka Zemse, the black-and-white psychological noir follows a woman navigating Mumbai during the titular dark hour as medication, memory, and a growing sense of danger blur together. Choudhari drew on two real events he witnessed to explore trauma and misdiagnosis.
-
-After screening at the Oscar-qualifying Tasveer Film Festival , the film is headed to the Yellowstone International Film Festival in Mumbai. Below, Choudhari and producer Sunil Sadarangani talk to Deadline about taking courage in filmmaking, developing themes around mental health awareness, and having an eye towards the future. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Aurora' Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self & Outer Space Documentary India's Yellowstone International Film Festival Announces Documentary And LGBTQIA+ Slates
-
-DEADLINE: This is your first short film, and you&#x2019;re 23. You should be in school, don&#x2019;t you think? What compelled you to make this short? Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-SHLOK CHOUDHARI: Well, I made this film when I was 22. I was in my second year of college studying advertising and journalism. With all due respect to journalism, and I appreciate the work you all do, I didn&#x2019;t want to study it anymore. I love movies.
-
-CHOUDHARI: I grew up watching movies, and I still watch at least one a day. So, I&#x2019;ve always wanted to make movies, but I would usually drop the idea until I eventually felt I had to do something. So, I wrote 3:30 and went on LinkedIn to cold-pitch people. Sunil [Sadarangani] was one of them, along with my executive producer, Jimmy Velarde, and other producers. We raised money, and I hired a crew also on LinkedIn, and we made the film.
-
-DEADLINE: Sunil, what went through your mind when this young filmmaker cold-pitched you on LinkedIn?
-
-SUNIL SADARANGANI: I wear a lot of hats, and there&#x2019;s so much catfishing on LinkedIn. When I got Shlok&#x2019;s first message, I thought, &#x201C;Who is this guy catfishing me?&#x201D; His profile picture was a little dodgy, kind of a far-off black-and-white shot. He was wearing some suit, and I thought, &#x201C;What&#x2019;s going on here?&#x201D; But he kept messaging me. [Laughs]. He was persistent and talked about film history and the palette and noir style that he wanted for the film. You can pull things from the internet, but I instinctively felt there was something there. Then he sent me his presentation deck, and I was impressed by how he put it together. But he hadn&#x2019;t made a film before. So, when he told me that, I wanted to give him advice on the way he was going about reaching out to other crew members to make this whole thing happen for himself. I told him to gather an experienced crew and go to the location where he wanted to film so we could see something on film. He wouldn&#x2019;t have time on set, and he had a limited budget. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-He wanted to shoot in South Mumbai, where I&#x2019;m from. Not many films are shot in that area because it&#x2019;s highly sensitive after the terrorist attacks in 2008 . There are still a lot of police patrols and surveillance there today. However, I thought it was an ambitious idea and that, along with his vision, attracted me to the project. When he came back with footage, I could see on film what I&#x2019;d seen on paper in his presentation. So, I said that I was in and that I would love to collaborate and help in any way I could.
-
-DEADLINE: Shlok, talk more about the difficulties of filming in South Mumbai.
-
-SHLOK CHOUDHARI: There were numerous obstacles. I wanted wet streets, with the white light glimmering&#x2014;I love that look in black and white. That&#x2019;s why I wanted to shoot during the monsoon season, but I didn&#x2019;t know how difficult it would be. It was the first time I&#x2019;d seen such a big boom mic and everyone with their setups and lights. I had no idea it would be like that.
-
-I thought I was going to go with my iPhone, and then suddenly there was a whole crew. The crew attracted a lot of attention, and there were cops at every location. Even though I had permission, they kept coming by. I had a good assistant director who handled the cops and got them to look the other way while we were filming. Running on schedule during monsoon was another obstacle, but it was a ride. It was my film school in a way.
-
-DEADLINE: Right, so when you lost the desire for journalism in college, did you switch to filmmaking?
-
-CHOUDHARI: I was at Kelkar College in Mumbai. I was studying journalism and advertising, but I didn&#x2019;t complete it.
-
-DEADLINE: Wait. You dropped out of school?
-
-CHOUDHARI: Yeah, I dropped out to make this.
-
-DEADLINE: Are your parents upset?
-
-CHOUDHARI: They&#x2019;re happy now. They&#x2019;re fine. [Laughs].
-
-SADARANGANI: Now he&#x2019;s getting international recognition. They&#x2019;re happy. [Laughs].
-
-CHOUDHARI: This is my first international trip ever [and I&#x2019;m here in Los Angeles], and it&#x2019;s so huge.
-
-SADARANGANI: He&#x2019;s never traveled abroad, so he&#x2019;s loving it here in LA.
-
-DEADLINE: And you're bringing this story internationally across several film festivals, which is great for sexual harassment and mental health awareness, I think. Talk a bit more about the inspiration behind 3:30.
-
-CHOUDHARI: 3:30 stems from two real events I witnessed. My ex-girlfriend had witnessed a traumatizing experience: She saw her brother kill her father and grandfather, then kill himself. He had schizophrenia. She was seeking psychiatric care and going to a psychiatrist every week, but from my perspective, the medication wasn&#x2019;t doing her any good. I felt it was triggering trauma, giving her more hallucinations and bringing her down. I would tell her, &#x201C;Maybe it&#x2019;s the medication,&#x201D; and she would say, &#x201C;No, it&#x2019;s prescribed. It&#x2019;s written, so it&#x2019;s right. It has to be right.&#x201D; She had this belief in authority. I had a lot of fallacies too, things you think are right one day and later wonder how you could have believed them. The next month, we changed psychiatrists and found out she had been misdiagnosed. I thought, &#x201C;Wow, this is interesting.&#x201D;
-
-Meanwhile, I knew a girl, a nine-year-old who was very close to me. She was sexually assaulted by a family friend who lived next door. He had a son about my age and a family. The girl was too young to understand what had happened to her. She was brutally assaulted. The police and nurses asked her what happened, and then we found out. I thought, &#x201C;This is just crazy. I had to honor these stories.&#x201D; I could go online and tell people about them, but I wanted to express them. I thought if I put these two things together, I might have a story worth telling. That&#x2019;s how I came up with 3:30 . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-DEADLINE: And for the folks at home, I want to make sure you get your point across here about the message of the film too. You wouldn&#x2019;t describe it as anti-medication, right?
-
-CHOUDHARI: No, no. This is beyond a cautionary tale, and it&#x2019;s not just about awareness. There is treatment, but psychiatric treatment is often trial and error. A psychiatrist may try something that works, or it may not. Be aware that you don&#x2019;t have to commit to it. You can seek another opinion. I want it to raise awareness, but also to make people aware that they may be in a situation without realizing it. Be aware that it can be trial and error. Definitely seek psychiatric help and support for mental health.
-
-SADARANGANI: Medication can help bring some balance to what&#x2019;s going on internally, especially after experiences like these. But human connection and psychiatric help can also help balance things out. Having another person as an anchor can help, especially for women dealing with sexual trauma. That can affect people around them, too.
-
-CHOUDHARI: There was a lot of opposition when I was starting out. I cold-pitched people in Mumbai, and they said the story was too bold. They said, &#x201C;How can you make something like this?&#x201D; They said it was unethical and that they wouldn&#x2019;t support it. Mumbai, and India in that sense, can be conservative. But this is true. I witnessed it. I&#x2019;m not making it up. I held onto my guns and kept reaching out to more people. Then I connected with Sunil, Betty, Jimmy, Paul and my other producers.
-
-DEADLINE: How did you find your lead actress, Priyanka Zemse?
-
-CHOUDHARI: It was at a fashion event. She was there as a guest, and I went up to her and asked, &#x201C;Would you like to be in a movie? This is the subject matter. Would you like to be part of it?&#x201D; That piqued her interest, and she said yes, though not immediately.
-
-SADARANGANI: The interesting thing about Priyanka is that Shlok connected with me on LinkedIn, and I was asking him questions, putting on my journalist hat. I asked if he had anyone in mind to play the lead, and he mentioned Priyanka. I had met her two years earlier at the Tasveer Film Festival in Seattle, where one of her other films was screening. We had connected there, so I already knew who she was. It made the connection feel meant to be.
-
-I also want to recognize the other women producers and crew members. Our executive producer Betty J. Butler has been a pillar of support, and this kind of abuse is also part of her personal experience. She connected with the story and supported Shlok throughout the process. You need a team to make a story happen, and Betty and the other women on the crew encouraged and pushed Shlok. Our editor, Navtika Sharma, did a great job, as did our hair and makeup artist, Ronicka Ralph. We had a good balance of people on the film.
-
-DEADLINE: I know you mentioned earlier that black and white was always part of your vision, but what was the inspiration behind it? Why was this the right way to tell the story to you?
-
-CHOUDHARI: I love film noir and always wanted to make one. So, I started studying where it originated and how it developed over time. I found it had a lot to do with German Expressionism after World War I, which was about externalizing internal conflicts. There was a lot of vibrancy and expressive imagery. You see it in films like The Cabinet of Dr. Caligari and Fritz Lang&#x2019;s Metropolis and M . I love mise-en-sc&#xE8;ne and the way those films expressed themselves. They weren&#x2019;t defying the laws of physics; they were creating an exaggerated reality. Their themes reflected the socioeconomic turmoil of postwar Germany. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-After the rise of Hitler, filmmakers like Billy Wilder and Fritz Lang came to Hollywood and brought their point of view. That helped lead to film noir. Noir had its own themes, including the Cold War, detective stories, and taboo subjects. It wasn&#x2019;t just dramatic lighting. I asked myself whether film noir was the right treatment for a story about misdiagnosis and sexual assault in 2025 or 2026. I thought it was. I&#x2019;m so thankful to our cinematographer; we were like brothers. He was wonderful and experienced; I&#x2019;m glad he chose to work with me.
-
-DEADLINE: What has the film festival experience been like?
-
-SADARANGANI: In addition to the Tasveer South Asian Film Festival in Seattle, we got into the City of Angels Film Festival in LA. There we won Best Feminist Film.
-
-DEADLINE: What was it like to receive that award as a male director?
-
-SADARANGANI: I think it was the subject matter. Lisa K. Crosato, the festival director and founder, was taken by the story Shlok told through 3:30 . The festival had previously been called the City of Angels Women&#x2019;s Film Festival, advocating for women&#x2019;s stories and female filmmakers. Lisa felt strongly about the subject matter, and that&#x2019;s how we received the award.
-
-DEADLINE: Shlok, what would you like to do next?
-
-CHOUDHARI: I want to make one more short, and I&#x2019;m also developing my feature. They&#x2019;re personal stories. They have to be personal. I write every day. So far, the universe, the force, has been with me. It&#x2019;s a privilege. I&#x2019;m taking one step at a time, but I know what I want to do next.
-
-============================================================
-[50] Lost Cartoon Network Classic Finally Getting Streaming Release After 23 Years
-Source: ComicBook.com | Status: expanded | Words: 601
-Published: 2026-11-23T17:14:27+00:00
-URL: https://comicbook.com/tv-shows/news/lost-cartoon-network-classic-finally-getting-streaming-release-after-23-years
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Warner Bros. Animation / Cartoon Network A lost Cartoon Network classic animated series is finally getting its own proper streaming release 23 years after it first began, and it's going to be available completely for free. It's been a tumultuous few years for Warner Bros. Animation and their classic library as not only is the future of it even more uncertain […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A lost Cartoon Network classic animated series is finally getting its own proper streaming release 23 years after it first began, and it's going to be available completely for free. It's been a tumultuous few years for Warner Bros. Animation and their classic library as not only is the future of it even more uncertain following the Skydance merger, but their properties had since moved to other streaming services. Though Tubi has really been coming through in the last year specifically .
-
-Tubi has been launching Warner Bros. Animation's classic cartoon library on a rotational schedule through the past year or so , and a new wave of releases is gearing up for their launch on the free streaming service this December. It's been announced by the platform's social media account that beginning on December 1st, Duck Dodgers is going to be available for streaming. Marking the first time it's been available in this way in quite some time.
-
-Duck Dodgers will be coming to Tubi on December 1st alongside the streaming releases of MAD, Wacky Races , and Xiaolin Showdown . It's yet to be revealed how long it's going to be available to watch on the platform, but it's going to be totally free. Given how some of the other series have only been available for a few months at a time, it's best to jump back into the classic series now before it's too late. And you're definitely going to want to as it's a hidden gem of the 2000s era of Cartoon Network.
-
-Based on the original Looney Tunes short, "Duck Dodgers of the 24th 1/2 Century," Duck Dodgers made its full series debut with Cartoon Network in 2003 . Running for a couple of seasons before it eventually came to an end in 2005, and expanding on that original idea, Daffy Duck stars as the titular Duck Dodgers alongside his trusty Space Cadet Porky. The two go on all sorts of space adventures with many of them facing off against Martian threats. But it had a whole life of its own with all sorts of fun moments you're going to want to see again.
-
-Duck Dodgers had a ton of fun with its premise because while it might have been inspired by the Looney Tunes short, it wasn't just limited to interactions with other Looney Tunes franchise characters. The series expanded the world around Dodgers, and made references to other major shows at the time such as Samurai Jack , had cameos from famous bands such as Megadeth, and even had a full episode where he became a member of the Green Lantern Corps for a brief time .
-
-The Looney Tunes have been in the midst of a major pop culture resurgence in the past few years thanks to the success of new projects such as Coyote vs. Acme and The Day The Earth Blew Up . But with the loss of Eric Bauza the future of it all remains uncertain . The best way to enjoy it all for now is to seek out classics like this one, and watch it all from the very beginning. Are you going to check out Duck Dodgers on Tubi? Let us know your thoughts about it in the comments.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
