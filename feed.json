@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T16:47:33.915Z"
+    "updated_at": "2026-11-23T16:49:34.394Z"
   },
   "articles": [
+    {
+      "id": "f2bd1263-a3eb-4b3c-abe6-eadef47adeae",
+      "title": "January Jones, Stephen Dorff &#038; Lionel Boyce Among New Additions To Comedy 'The Family Disappears'",
+      "summary": "EXCLUSIVE: Six have joined The Family Disappears, the new comedic thriller starring David Harbour and John Cena. They are: January Jones (Mad Men), Stephen Dorff (Old Henry), Patsy Ferran (A Streetcar Named Desire), Lionel Boyce (The Bear), Eric Rahill (Primetime) and Johnathon Schaech (Greyhound 2). Character details are being kept under wraps. Also new to […]",
+      "content": "EXCLUSIVE: Six have joined The Family Disappears , the new comedic thriller starring David Harbour and John Cena. They are: January Jones ( Mad Men ), Stephen Dorff ( Old Henry ), Patsy Ferran ( A Streetcar Named Desire ), Lionel Boyce ( The Bear ), Eric Rahill ( Primetime ) and Johnathon Schaech ( Greyhound 2 ).\n\nCharacter details are being kept under wraps. Also new to the project is Closer Media , which will co-finance alongside studio Fifth Season .\n\nCurrently in production, The Family Disappears follows an overworked dad who returns from a work trip to find his family has disappeared and a mysterious newcomer has bought and moved into their home. We announced the project in October. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nJonatan Etzler, the Swedish filmmaker behind the Saoirse Ronan-led dark comedy Bad Apples , is directing from a script by Brendan O&#x2019;Hare. Producers are Nick Weidenfeld through Friends Night and Alexis Garcia through CAT5, who together made the comedy Friendship , starring Tim Robinson and Paul Rudd, for Fifth Season and A24. Also producing is Dan Guando for Closer Media. Christopher Slager and Graham Taylor are exec producing for Fifth Season, with Zhang Xin, Jonathan King and Joanna Korshak executive producing for Closer Media. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nJones is repped by Verve, Mosaic and Jackoway Austen Tyerman; Dorff by Mosaic and Hansen, Jacobson, Teller; Ferran by UTA, Independent Talent Group and Goodman, Genow, Schenkman; Boyce by WME and Entertainment 360; Rahill by WME, Rise Management and Schreck Rose Dapello; and Schaech by Link Entertainment.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/the-family-disappears-january-jones-stephen-dorff-1237231650",
+      "published_at": "2026-11-23T16:48:43+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Advanced-Screening-For-Foxs-Deputy-The-Olivier-Awards-2019-with-MasterCard-Red-Carpet-Arrivals-I-Can-Only-Imagine-2-Nashville-Premiere-1000.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 324,
+      "extracted_at": "2026-11-23T16:49:19.831085+00:00",
+      "updated_at": "2026-11-23T16:49:19.831085+00:00"
+    },
     {
       "id": "8f82af2a-0799-4e6b-8962-cf328daf80f1",
       "title": "The Intellectual Property Corporation Unveils Executive Team Following Sony Split",
@@ -742,21 +757,6 @@
       "word_count": 753,
       "extracted_at": "2026-11-23T14:59:13.706018+00:00",
       "updated_at": "2026-11-23T14:59:13.706018+00:00"
-    },
-    {
-      "id": "0e602fb0-648a-43e3-941e-55b5962c98e6",
-      "title": "Justin Timberlake Documentary Trailer: \"He's Not Who I Thought He Was\"",
-      "summary": "A \"raw, reflective and revealing portrait\" of Timberlake is coming to Apple TV.",
-      "content": "Justin Timberlake is the subject of a new four-part documentary series that promises to explore his personal and professional life.\n\nApple TV just announced and released a trailer (below) for Timberlake , which is described as a \"raw, reflective and revealing portrait of the life and career of multi-hyphenate artist and icon.\"\n\nThe series is directed by Academy Award winner Fisher Stevens (The Cove) and spans three decades of music and popular culture, and features never-before-seen archival footage and exclusive interviews with Timberlake and his family, friends and collaborators. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nThe footage teases Timberlake's wife, Jessica Biel , telling the director, \"When I met him, he&#x2019;s just not who I thought &#x2014; at all\" and \"I think we gotta address some things.\" While Timberlake tells the audience, \"People aren&#x2019;t going to understand who I am\" and \"You want to ask me about specific things, let&#x2019;s do it.\" Timberlake's relationship with Britney Spears (who is not shown on camera in the trailer) is also discussed, along with the \"level of insanity\" in their relationship.\n\nThe series premieres on Apple TV on Friday, Dec. 11 with the first two episodes, followed by the third episode on Friday, Dec. 18, and the finale on Wednesday, Dec. 23, 2026.\n\nCheck out the trailer for Timberlake :",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080",
-      "published_at": "2026-11-23T14:56:49+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 232,
-      "extracted_at": "2026-11-23T14:57:14.312896+00:00",
-      "updated_at": "2026-11-23T14:57:14.312896+00:00"
     }
   ]
 }
