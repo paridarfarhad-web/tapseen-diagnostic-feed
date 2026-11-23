@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-23T14:05:26.577Z"
+    "updated_at": "2026-11-23T14:07:27.321Z"
   },
   "articles": [
+    {
+      "id": "99bf5621-9702-4cc5-8831-3b3c99db4139",
+      "title": "Jensen Huang Reinstated as Nvidia CEO After Series of Affairs",
+      "summary": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation. Huang will also return to the company’s board, the company said in a statement Monday. H “The Board of Directors voted […]",
+      "content": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang's resignation.\n\nHuang will also return to the company&#x2019;s board, the company said in a statement Monday. H\n\n&#x201C;The Board of Directors voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang&#x2019;s candor and ability to lead Nvidia,&#x201D;&#xA0;it said. &#x201C;In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang&#x2019;s reinstatement poses no national security risk.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837",
+      "published_at": "2026-11-23T14:06:20+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2024/05/jensen-huang-nvidia.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 146,
+      "extracted_at": "2026-11-23T14:07:14.987272+00:00",
+      "updated_at": "2026-11-23T14:07:14.987272+00:00"
+    },
     {
       "id": "57c6f39a-2613-47a3-a4e7-ced2938b1ab2",
       "title": "Super Mario Nintendo Switch and Nintendo Switch 2 Games Now $40 Off",
@@ -742,21 +757,6 @@
       "word_count": 768,
       "extracted_at": "2026-11-23T07:38:51.402418+00:00",
       "updated_at": "2026-11-23T07:38:51.402418+00:00"
-    },
-    {
-      "id": "228a6e1b-c29f-4a4f-940d-b846761e2797",
-      "title": "Trump Headed To L.A. For Reagan Library Speech",
-      "summary": "Amid the war with Iran, the Ukraine-Russia conflict and the ongoing violence in Israel, Gaza and the West Bank, the Ronald Reagan Presidential Library has announced that Donald Trump will deliver a keynote address at its National Defense Forum. Trump's speech will kick off the annual event at the Simi Valley institution on Friday, December […]",
-      "content": "Amid the war with Iran, the Ukraine-Russia conflict and the ongoing violence in Israel, Gaza and the West Bank, the Ronald Reagan Presidential Library has announced that Donald Trump will deliver a keynote address at its National Defense Forum. Trump's speech will kick off the annual event at the Simi Valley institution on Friday, December 4.\n\nThe gathering brings together administration officials, business leaders, defense contractors and members of Congress to discuss the future of the U.S. military.\n\n\"We are honored to announce the 45th and 47th President of the United States, Donald J. Trump, will join us for a keynote address at the 2026 Reagan National Defense Forum on Friday, December 4 at the Ronald Reagan Presidential Library,\" reads a statement from the library. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News After FAA Ground Stop, John Oliver Compares Trump Cabinet Official To \"A Batman Villain Trying To Hold Gotham Hostage\" News 'Trump TV' Promo Uses Clips From 'The Simpsons,' 'Seinfeld,' 'Friends,' 'The Dark Knight' & Many More\n\nTrump's address is set to run from 3:00 p.m.- 4:30 p.m. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nOthers speaking include Russell Vought, Director of the Office of Management and Budget; former Secretary of Defense Kathleen Hicks; Palantir Chief Technology Officer Shyam Sankar; Senator Ruben Gallego; Troy Meink, U.S. Secretary of the Air Force; JP Morgan Chairman and CEO Jamie Dimon; CIA Director John Radcliffe; and former Secretary of Defense Leon Panetta.\n\nThe moderators are Fox News' Brett Baier, Politico's Jonathan Martin, CNBC's Morgan Brennan and many more.\n\nYou can find the full schedule here .",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/trump-l-a-reagan-library-speech-1237231401",
-      "published_at": "2026-11-23T05:29:13+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-2262906645.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 325,
-      "extracted_at": "2026-11-23T05:30:45.343091+00:00",
-      "updated_at": "2026-11-23T05:30:45.343091+00:00"
     }
   ]
 }
