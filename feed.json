@@ -5,13 +5,13 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T03:28:02.649Z"
+    "updated_at": "2026-11-24T03:44:05.684Z"
   },
   "articles": [
     {
       "id": "1b4dbeed-279c-489a-af82-9a90d3ba9454",
-      "title": "'Careme' &#038; 'División Palermo' Take Top Prizes At International Emmy Awards: Full Winners List",
-      "summary": "France's Careme was named Best Drama Series at the 54th International Emmy Awards, which were handed out Monday night in Manhattan. División Palermo from Argentina took the Comedy Series prize. See the full winners list below. Hosted by Michael Urie, a two-time Primetime Emmy nominee for Shrinking,, winners were announced in 16 categories, drawn from […]",
+      "title": "'Caréme' &#038; 'División Palermo' Take Top Prizes At International Emmy Awards: Full Winners List",
+      "summary": "France's Caréme was named Best Drama Series at the 54th International Emmy Awards, which were handed out Monday night in Manhattan. División Palermo from Argentina took the Comedy Series prize. See the full winners list below. Hosted by Michael Urie, a two-time Primetime Emmy nominee for Shrinking,, winners were announced in 16 categories, drawn from […]",
       "content": "France's Careme was named Best Drama Series at the 54th International Emmy Awards , which were handed out Monday night in Manhattan. Divisi&#xF3;n Palermo from Argentina took the Comedy Series prize. See the full winners list below.\n\nHosted by Michael Urie, a two-time Primetime Emmy nominee for Shrinking, , winners were announced in 16 categories, drawn from 64 nominees from 22 countries, the UK taking home the most awards, with nine trophies.\n\nOther winners tonight included the UK's Bobby Schofield in Unforgivable for Best Performance by an Actor and Belgium's Mona Mina Leon in Holy Sh!t for Best Performance by an Actress. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nIn addition to the competitive categories, two special honors were handed out Monday night in the ceremony at the New York Hilton Midtown: Former Netflix Chief Content Officer Bela Bajaria received the International Emmy Founders Award, and Austria's Gerhard Zeilier accepted the International Emmy Directorate Award.\n\nDRAMA SERIES - Careme / VVZ / Shine Fiction / Apple TV, France\n\nBEST PERFORMANCE BY AN ACTRESS - Mona Mina Leon in Holy Sh!t - Fobic Films / Streamz, Belgium BEST PERFORMANCE BY AN ACTOR - Bobby Schofield, Unforgivable - LA Productions, UK\n\nCOMEDY SERIES - Divisi&#xF3;n Palermo - Season 2 [Community Squad] - K&S Films / Netflix, Argentina\n\nTV MOVIE / MINISERIES - Prisoner 951 - Dancing Ledge Productions for the BBC, UK DOCUMENTARY - Louis Theroux: The Settlers - Mindhouse Productions, UK\n\nARTS PROGRAMMING - Der Talentierte Mr. F [The Talented Mr. F], Germany SHORT-FORM SERIES - De Klas Van 2000 [The Class of 2000], Belgium NEWS - 24 Hours in the Kill Zone - Sky News, UK CURRENT AFFAIRS - Exposure: Breaking Ranks: Inside Israel&#x2019;s War - Zandland / ITV, UK SPORTS DOCUMENTARY - The Philipstown Wirecar Grand Prix - Giant Films, South Africa NON-SCRIPTED ENTERTAINMENT - Educating Yorkshire - Season 2 - TwoFour, UK KIDS ANIMATION - The Scarecrow&#x2019;s Wedding - Magic Light Pictures, UK KIDS: LIVE ACTION - Dexter Procter: The 10-Year-Old Doctor - Terrible Productions / Various Artists Limited, UK KIDS: FACTUAL & ENTERTAINMENT - Horrible Science - Lion Television, UK TELENOVELA - Leyla, Ay Yapim, Turkey\n\nErik Pedersen contributed to this report.",
       "source": "Deadline",
       "source_url": "https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118",
@@ -20,8 +20,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 430,
-      "extracted_at": "2026-11-24T03:27:51.424197+00:00",
-      "updated_at": "2026-11-24T03:27:51.424197+00:00"
+      "extracted_at": "2026-11-24T03:37:50.811221+00:00",
+      "updated_at": "2026-11-24T03:37:50.811221+00:00"
     },
     {
       "id": "e19bace4-d12d-4036-a161-7832d34ff742",
