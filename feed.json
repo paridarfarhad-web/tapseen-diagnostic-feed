@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T12:30:34.481Z"
+    "updated_at": "2026-11-24T12:42:34.888Z"
   },
   "articles": [
+    {
+      "id": "03e9bc92-9004-45e4-a9d0-6edbecd9da49",
+      "title": "Netflix Sets ‘March Of The Jaguars’ Release, Narrated By Fernanda Torres &#038; Its First Wildlife Film Out Of Latin America: Watch Trailer",
+      "summary": "EXCLUSIVE: Netflix Brazil has set a release date for March of the Jaguars, the streamer’s first wildlife documentary out of Latin America. The feature doc was created and produced in Brazil and is made by Alexandre Soullier and Emmanuel Priou, winner of the 2006 Oscar for Best Documentary Feature for March of the Penguins. Deadline […]",
+      "content": "EXCLUSIVE: Netflix Brazil has set a release date for March of the Jaguars , the streamer&#x2019;s first wildlife documentary out of Latin America. The feature doc was created and produced in Brazil and is made by Alexandre Soullier and Emmanuel Priou, winner of the 2006 Oscar for Best Documentary Feature for March of the Penguins . Deadline has a first look at the trailer ahead of March of the Jaguars launching on Netflix globally on December 2\n\nThe film follows a family of jaguars at the Encontro das &#xC1;guas State Park in Brazil's Pantanal region. It has footage of the titular big cats that was captured over five years and 26 different expeditions. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News Controversial \"Netflix Tax\" Could Raise Extra $2.1B For BBC By 2032, Research Finds Documentary Tyson Fury Reveals Schizophrenia Diagnosis In Netflix Doc\n\nFernanda Torres , who scored a Best Leading Actress Oscar nom for I&#x2019;m Still Here , narrates. The co-producers, Duo2 TV and Bonne Pioche , said they filmed never before seen behaviors. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nSoullier and Priou produce alongside Mike Bueno and director Lawrence Wahba, who also co-wrote the screenplay with Fernanda Polacow.\n\n&#x201C;In a way, my camera becomes the eyes of millions of people, revealing the wonders of nature in its rawest form, in remote and virtually inaccessible places,&#x201D; Wahba told Deadline.\n\n&#x201C;In March of the Jaguars , we want to show jaguars as they have never been seen before, inspiring not only awe and wonder, but also an awareness of the urgent need to protect them. Bringing these images to audiences in more than 190 countries through Netflix is an extraordinary opportunity to turn wonder into awareness and, hopefully, awareness into action.&#x201D;\n\nJaguars are native to Brazil and it holds around half the world's wild population of the big cat. Wahba explained that jaguars have a special meaning for Brazilians and it was important to have a Brazilian team involved.\n\n&#x201C;No one could tell this story quite like Brazilians can. To us, a jaguar is much more than just an animal. From a scientific perspective, it is a flagship species, a symbol of the conservation of entire ecosystems. In the cosmology of our Indigenous peoples, it is a sacred being, a messenger between the spiritual and physical worlds. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\n\" March of the Jaguars balances scientific rigor with the poetic freedom to listen to and interpret the messages these extraordinary animals have to share with us.&#x201D;",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/netflix-march-of-the-jaguars-wildlife-film-fernanda-torres-1237232478",
+      "published_at": "2026-11-24T12:40:44+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Marcha_das_Oncas_FKA_Duas_Irmas_n_00_04_39_23.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 497,
+      "extracted_at": "2026-11-24T12:42:18.810106+00:00",
+      "updated_at": "2026-11-24T12:42:18.810106+00:00"
+    },
     {
       "id": "e9b0a81d-a7ae-4ea8-919e-ddd2c6514503",
       "title": "Hayu FanFest Toronto 2026 Cast: 'Real Housewives Of London's Karen Loderick-Peace, 'RHOBH's Erika Jayne, 'Summer House's Kyle Cooke &#038; More",
@@ -742,21 +757,6 @@
       "word_count": 625,
       "extracted_at": "2026-11-24T02:19:47.99736+00:00",
       "updated_at": "2026-11-24T02:19:47.99736+00:00"
-    },
-    {
-      "id": "c7c3cc7c-7a55-46ab-8863-853d01a41e49",
-      "title": "Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam's Club Black Friday Sale",
-      "summary": "From viral hair care to high-end beauty tech, the online event is chock-full of Hollywood-coveted self-care steals.",
-      "content": "Sam's Club has entered the early Black Friday chat, joining the likes of Audible and Paramount+ in the promise of pre-Cyber Week savings.\n\nAhead of Thanksgiving, the retailer is delivering thousands of deals across every category, with some of its most notable price drops in the premium beauty and wellness departments. Shark has a goldmine of discounted beauty tech, Oura is offering $100 off its latest generation of smart rings, while Olay, Nexxus, Wet Brush and RoC are among Sam's Club's skin-care and hair-care standouts.\n\nIn addition to the limited-time savings, shoppers can secure fast and free delivery with a Sam&#x2019;s Club Plus membership . And as of October 2026, this rewards program comes bundled with Walmart+ at no extra cost (a savings of nearly $100 per year). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle Audible Subscriptions Drop to $1 Per Month for Black Friday Lifestyle 4 Tech Gift Ideas from Insta360, Segway, Bose, and Oura Ring On Sale at Best Buy\n\nWith Sam's Club Plus , members get access to exclusive savings and brands, free and fast delivery and quick in-store pickup. Plus, earn up to two percent Sam's Cash back on in-club qualifying purchases, up to $750 per year. As for Walmart+, enjoy free shipping; fuel discounts at Exxon, Mobil, CITGO, Murphy gas stations, as well as Sam&#x2019;s Club and Walmart fuel center locations; pharmacy deals; additional savings; and early access to events like Walmart Deals Days and Black Friday. Members can also get up to 25 percent off app orders at Burger King, along with free streaming access to either Peacock or Paramount+. Learn more about Sam&#x2019;s Club Plus and Walmart+ here .\n\nRelated: From K-Beauty to Creatine Gummies, iHerb&#x2019;s Black Friday Sale Marks Down Thousands of Viral Products",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/lifestyle/shopping/sams-club-black-friday-deals-2026-beauty-wellness-discounts-1236761566",
-      "published_at": "2026-11-24T02:14:10+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 309,
-      "extracted_at": "2026-11-24T02:15:46.811028+00:00",
-      "updated_at": "2026-11-24T02:15:46.811028+00:00"
     }
   ]
 }
