@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T17:46:52.002Z"
+    "updated_at": "2026-11-24T17:56:49.934Z"
   },
   "articles": [
+    {
+      "id": "5e6b4daa-7ff5-45e5-ba5f-a3740527031b",
+      "title": "Music Streamer Tidal Targets AI-Generated Music, Saying It Will Be \"Rejected And Removed\" Starting Next Month",
+      "summary": "Tidal, a formerly artist-backed music streamer that is now majority-owned by Twitter co-founder Jack Dorsey's Block, is taking an aggressive stand against AI. Citing a massive surge of artificially created music, the company on Tuesday announced a complete ban taking effect on December 9. As of that date, the company said in a post on […]",
+      "content": "Tidal , a formerly artist-backed music streamer that is now majority-owned by Twitter co-founder Jack Dorsey's Block, is taking an aggressive stand against AI .\n\nCiting a massive surge of artificially created music, the company on Tuesday announced a complete ban taking effect on December 9. As of that date, the company said in a post on X that any wholly AI track detected on the platform will be \"rejected and removed.\"\n\nIn the past 90 days, the company says, 43% of all tracks on its platform have been detected as wholly AI-generated. Tidal labeled them (a step many other companies have also been taking) and removed them from its royalty pool. On November 6, the company added, \"we had the greatest influx of AI music yet: Over 60% of the deliveries we received were wholly AI generated.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News Nvidia Reinstates Jensen Huang As CEO News CAA's Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans \"Famous Or Not\"\n\nAs of now, Tidal estimates that 27 million tracks (about 6% of the total in its catalog) are tagged as AI. But they are a zombie-like presence, with 96% of the titles receiving zero streams over the past 90 days. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\n\"Wholly AI-generated music intended to mislead listeners and impersonate artists is another serious problem that has only increased in scale: It diverts streams and royalties away from the artists, and confuses fans,\" the company wrote. \"To date, we&#x2019;ve taken down over 65,000 tracks flagged for suspected artist-name impersonation.\n\n\"It&#x2019;s true that not all songs catch on immediately, and artists should have time to build their fanbases. But this situation is different &#x2013; at this scale, the authentic music and artists that Tidal subscribers are looking to listen to and discover get buried.\"",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/tidal-bans-ai-music-streaming-1237232638",
+      "published_at": "2026-11-24T17:55:28+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 367,
+      "extracted_at": "2026-11-24T17:56:34.655311+00:00",
+      "updated_at": "2026-11-24T17:56:34.655311+00:00"
+    },
     {
       "id": "af12eec8-82a8-41d9-961f-48e820697c47",
       "title": "A Weird Little Sci-fi Show With Puppets Changed TV and Movies Forever 38 Years Ago",
@@ -280,7 +295,7 @@
     },
     {
       "id": "409eb76c-1d1d-406a-a77c-2d308f687559",
-      "title": "Jon Abrahams to Direct Survival Drama ‘Merry Christmas, Jay’",
+      "title": "Jon Abrahams to Direct Survival Drama ‘Merry Christmas, Jay’ (EXCLUSIVE)",
       "summary": "“Scary Movie” and “Meet the Parents” star Jon Abrahams is set to direct “Merry Christmas, Jay,” a survival drama inspired by real-life mechanic Jay Withey, who saved 24 people during a deadly Christmas blizzard in 2022. Ryan March penned the film’s screenplay and will produce through Altruistic Films. Per the film’s description, “Merry Christmas, Jay” […]",
       "content": "&#x201C;Scary Movie&#x201D; and &#x201C;Meet the Parents&#x201D; star Jon Abrahams is set to direct &#x201C;Merry Christmas, Jay,&#x201D; a survival drama inspired by real-life mechanic Jay Withey, who saved 24 people during a deadly Christmas blizzard in 2022.\n\nRyan March penned the film&#x2019;s screenplay and will produce through Altruistic Films.\n\nPer the film&#x2019;s description, &#x201C;Merry Christmas, Jay&#x201D; follows Withey, &#x201C;who was stranded in his Chevy Silverado pickup truck with two strangers on Christmas Eve when he broke a window at a school in Cheektowaga, New York, to get them out of the cold. After bringing the group inside, Withey returned to the storm to search for other stranded motorists. Over the course of the ordeal, Withey reportedly made 75 trips into the blizzard, helping 24 people find shelter inside the school.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Celebrity Streaming and Commerce Platform TalkShopLive Expands to TikTok Ahead of Black Friday Amazon Debuts $30 Streaming Bundle That Includes Starz, BritBox, AMC+, MGM+ and PBS Masterpiece In One Place\n\nThe film&#x2019;s title comes from a note Withey left apologizing for breaking the windows, signed &#x201C;Merry Christmas, Jay.&#x201D;\n\n&#x201C;Having previously directed two feature films in Buffalo, what speaks to me about this story is the humanity of the city of Buffalo, as well as the amazing true story of Jay Withey,&#x201D; Abrahams said. &#x201C;It's a 100 percent true take on a Christmas holiday miracle movie.&#x201D;\n\n&#x201C;Jay could have stayed inside that school and waited out the storm. Instead, he went back out, again and again, for people he'd never met,&#x201D; March said. &#x201C;When Jay entrusted me with the rights to his story, I knew the film had to honor both the danger of that night and the humanity behind his choice. Jon understands what makes this story extraordinary, and I'm excited to bring it to the screen with him.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nPreviously, March produced and edited \" The Crawling, \" Christian Everhard's horror feature, and executive produced \"In Flight.\"\n\nThe film is in development through Altruistic Films and Merry Christmas Jay Productions, LLC. Sig De Miguel and Steven Vincent are attached as casting directors. Casting and production dates have not yet been announced yet.",
       "source": "Variety",
@@ -290,8 +305,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 395,
-      "extracted_at": "2026-11-24T17:00:40.102503+00:00",
-      "updated_at": "2026-11-24T17:00:40.102503+00:00"
+      "extracted_at": "2026-11-24T17:52:34.810615+00:00",
+      "updated_at": "2026-11-24T17:52:34.810615+00:00"
     },
     {
       "id": "cf22b15a-e2ef-4980-b659-e7f874530c7e",
@@ -430,7 +445,7 @@
     },
     {
       "id": "f48e230a-1cca-4e26-bb6b-318213bc376c",
-      "title": "'You Can See Everything ' Gets Digital Release",
+      "title": "'You Can See Everything' Gets Digital Release",
       "summary": "Nathan Fielder and Lance Oppenheim's \"You Can See Everything,\" the Elizabeth Holmes documentary that became one of the year's most unlikely box office(and potential awards season) sensations, is now available to watch at home. The A24 film arrived on digital platforms Tuesday morning, just over a month after its theatrical debut. It's available to purchase […]",
       "content": "Nathan Fielder and Lance Oppenheim&#x2019;s &#x201C; You Can See Everything ,&#x201D; the Elizabeth Holmes documentary that became one of the year&#x2019;s most unlikely box office(and potential awards season) sensations, is now available to watch at home.\n\nThe A24 film arrived on digital platforms Tuesday morning, just over a month after its theatrical debut. It&#x2019;s available to purchase for $24.99 or rent for $19.99 on Prime Video and Apple TV. Related Stories Celebrity Streaming and Commerce Platform TalkShopLive Expands to TikTok Ahead of Black Friday Amazon Debuts $30 Streaming Bundle That Includes Starz, BritBox, AMC+, MGM+ and PBS Masterpiece In One Place\n\nThe digital release comes just days after &#x201C;You Can See Everything&#x201D; surpassed $100 million at the global box office , a staggering return for a nearly three-hour documentary that reportedly cost $7 million to produce. The film has grossed $93.5 million domestically, placing it among the highest-grossing documentaries in North American box office history. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nThe documentary picks up 34 days before Holmes, the disgraced founder of blood-testing startup Theranos, is set to report to federal prison following her conviction for defrauding investors. What begins as an intimate portrait of the former Silicon Valley darling evolves into a three-year filmmaking experiment that interrogates the relationship between documentary subjects and their filmmakers, and the slippery distinctions between performance and reality.\n\nIn his review of the film, Variety&#x2019;s Owen Gleiberman described it as &#x201C;a shameless, fascinating, reality-TV-eats-its-tale look at entitled duplicity&#x201D; and &#x201C;everything a great movie should be: an experience unlike one you&#x2019;ve had before, one that lures and enthralls you, and that leaves you feeling different when it&#x2019;s over.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\nHe also predicts that it could triumph at the Oscars because &#x201C;anyone who votes for it won&#x2019;t just be voting for best picture &#x2014; they&#x2019;ll be voting for the future.&#x201D;",
       "source": "Variety",
@@ -440,8 +455,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 340,
-      "extracted_at": "2026-11-24T16:38:30.748904+00:00",
-      "updated_at": "2026-11-24T16:38:30.748904+00:00"
+      "extracted_at": "2026-11-24T17:48:34.016897+00:00",
+      "updated_at": "2026-11-24T17:48:34.016897+00:00"
     },
     {
       "id": "05f284df-b8fd-4fd7-8b22-c03ee835a62e",
@@ -742,21 +757,6 @@
       "word_count": 589,
       "extracted_at": "2026-11-24T16:18:30.813263+00:00",
       "updated_at": "2026-11-24T16:18:30.813263+00:00"
-    },
-    {
-      "id": "bc5a07d7-06ce-48ba-a2bc-e4caccf53f9b",
-      "title": "Netflix Locks Down Release Date for Major 2027 Exclusive - Watch New Trailer",
-      "summary": "Image courtesy of Troyca Netflix has acquired the exclusive streaming rights to one of the most enigmatic power fantasies and love stories, beginning in January 2027. The giant streaming platform has gained significant access to the anime world over the past few years, bringing many popular anime to its platform. At the same time, Netflix has also secured the […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Netflix has acquired the exclusive streaming rights to one of the most enigmatic power fantasies and love stories, beginning in January 2027. The giant streaming platform has gained significant access to the anime world over the past few years, bringing many popular anime to its platform. At the same time, Netflix has also secured the rights to several exclusive anime. 2027 looks set to continue this trend, with one of the latest Winter 2027 anime joining another exclusive, Sakamoto Days , being Bride of the Barrier Master .\n\nThe anime was first announced in August 2025, with a Winter 2027 release window. Now, with the Winter season fast approaching, its release date has finally been revealed, with the series arriving exclusively on Netflix on January 6. It is an exciting announcement, as the romantic fantasy manga and light novel series has built a dedicated fan base eager to see its vibrant world brought to life through an anime adaptation and experience its romantic banter. The staff behind the anime's production and the latest teaser have also offered promising signs of what Netflix's exclusive title has in store.\n\nBride of the Barrier Master is being animated by Troyca, with Toru Kitahata serving as the director. The production also features Akari Kito as the female lead, Hana Ichise, who is known for several roles, including Nezuko in Demon Slayer and Hina Chono in Blue Box , another Netflix exclusive in international regions. Meanwhile, the male lead, Saku Ichinomiya, will be voiced by Kikunosuke Toya, another renowned voice actor in the anime industry, best known for roles such as Denji. His casting makes him a perfect fit for Saku, a rowdy character who likes to take charge.\n\nWhile the production committee looks promising, with the latest visuals and teasers making the anime shine, the series' narrative is what will make it stand out even more. The fantasy series follows a neglected girl named Hana Ichise, who is believed to lack the power required of one of the protectors of the pillars that safeguard Japan. She is constantly overshadowed by her older twin sister, who possesses the necessary power and fulfills her duties. However, Hana secretly possesses immense power but refuses to use it because she wants to live a normal life. Unfortunately, fate has other plans, as her secret is eventually discovered by the young head of the clan, Saku Ichinomiya.\n\nSaku initially pressures Hana into marrying him, which she naturally refuses. However, she is eventually forced into the marriage, as she has no other options. Thus begins Hana's new life, as her desire to live peacefully despite possessing immense power is disrupted by her marriage to the head of the clan. This adds a romantic twist to her journey, promising a series of hilarious moments and an unconventional love story that fans can immerse themselves in. Netflix has a reputation for featuring a variety of anime , and Bride of the Barrier Master 's exclusivity adds another unique title to its catalogue. It could even emerge as the platform's biggest romantic fantasy anime of 2027.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/anime/news/netflix-locks-down-release-date-for-major-2027-exclusive-watch-new-trailer",
-      "published_at": "2026-11-24T15:56:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 571,
-      "extracted_at": "2026-11-24T15:56:29.407517+00:00",
-      "updated_at": "2026-11-24T15:56:29.407517+00:00"
     }
   ]
 }
