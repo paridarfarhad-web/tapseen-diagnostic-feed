@@ -1,9 +1,119 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-24T19:00:52.113Z
+Last Updated: 2026-11-24T19:04:55.664Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Kevin Kline Joins Meryl Streep In Netflix's 'The Corrections'
+[1] Imax Vet Craig Dehmel Joins Qube Cinema As Head Of Studio Relations
+Source: Deadline | Status: expanded | Words: 467
+Published: 2026-11-24T19:04:12+00:00
+URL: https://deadline.com/2026/11/imax-craig-dehmel-qube-cinema-1237232749
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: Theatrical tech, distribution and management corp Qube Cinema has hired Imax and 20th Century Fox distribution vet Craig Dehmel as their new Head of Studio Relations. Dehmel will be based in Los Angeles for Qube Wire, which has a global content distribution service which connects with over 7,000 theaters worldwide. In his new position, […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: Theatrical tech, distribution and management corp Qube Cinema has hired Imax and 20th Century Fox distribution vet Craig Dehmel as their new Head of Studio Relations.
+
+Dehmel will be based in Los Angeles for Qube Wire, which has a global content distribution service which connects with over 7,000 theaters worldwide. In his new position, Dehmel will lead strategic customer development and strengthen senior-level relationships across Hollywood studios, independent distributors, and content owners.
+
+Dehmel's 35 years in the motion picture industry includes serving as Head of Global Distribution at Imax, where he led the planning, programming, and distribution of Hollywood studio, local-language, documentary, and special-content releases across more than 1,700 Imax screens worldwide. Related Stories Sports Imax To Screen Super Bowl In Deal With Disney, NFL News Imax Inks Largest UK Deal With Cinema Chain Acquired By Former Cineworld CEO Mooky Greidinger
+
+Prior to Imax, Dehmel spent 16 years at 20th Century Fox, where he held senior roles in sales, strategic planning, and international distribution, culminating in his appointment as EVP, International Distribution. He is a member of the Academy of Motion Picture Arts & Sciences, serving in its Executive Branch, and has been a guest lecturer at the UCLA Anderson School of Management for more than two decades. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+"Qube Wire&#x2019;s growth reflects the confidence that studios, distributors, and exhibitors place in our technology and services. As our global network continues to expand, strengthening our relationships with content owners and studio partners is central to our plans," said Harsh Rohatgi, CEO of Qube Cinema.
+
+"Craig brings an exceptional understanding of the global theatrical business and longstanding relationships across the industry. His appointment underscores our commitment to our studio clients and will help us build on the momentum of Qube Wire, expand our engagement across the entertainment ecosystem, and create new opportunities for our wider portfolio," he added.
+
+Dehmel said: "I&#x2019;m excited to join Qube Cinema at a time of significant growth for the company and continued evolution across the theatrical distribution landscape. Qube Wire has built an impressive global network and strong relationships with studios and exhibitors. Having worked closely with these partners throughout my career, I see considerable opportunity to build on that foundation, deepen industry relationships, and help expand the reach of Qube&#x2019;s technology and services. I look forward to working with the team and our partners to support the company&#x2019;s continued growth."
+
+============================================================
+[2] Audible Is Less Than $1/Month For 3 Months With This Black Friday Deal
+Source: Variety | Status: expanded | Words: 299
+Published: 2026-11-24T19:01:13+00:00
+URL: https://variety.com/shop/audible-plus-deal-2-1235042889
+------------------------------------------------------------
+SUMMARY:
+Audible has rolled out one of its steepest subscription discounts of the year ahead of Black Friday, bringing the price of its audiobook service down to less than a dollar a month. From now through Dec. 28, eligible subscribers can sign up for three months of Audible Standard for just 99 cents per month, down […]
+
+CONTENT / EXTRACTED DETAILS:
+Audible has rolled out one of its steepest subscription discounts of the year ahead of Black Friday, bringing the price of its audiobook service down to less than a dollar a month.
+
+From now through Dec. 28, eligible subscribers can sign up for three months of Audible Standard for just 99 cents per month , down from its usual $8.99 monthly price. As part of the holiday promotion, subscribers will also receive a $20 Audible credit to put toward additional audiobook purchases. Related Stories Netflix Alum Emily Feingold Joins Disney as Executive VP of Communications Alex de la Iglesia on His Upcoming Chilean Shoot ‘The Misunderstanding’: ‘Reality Has Become My Parallel World’
+
+The Amazon-owned platform's Standard membership allows subscribers to choose one audiobook per month from its catalog of more than one million titles, in addition to unlimited podcast listening. The monthly audiobook selections remain accessible for the duration of one's membership. Once the promotional period ends, the subscription automatically renews at $8.99 per month, although members can cancel at any time.
+
+For more voracious readers, Audible's $14.95-per-month Premium membership offers unlimited listening to a rotating library of more than 150,000 audiobooks and Audible Originals, in addition to one monthly audiobook credit that can be redeemed for any title in its broader catalog. Unlike Standard members' monthly selections, audiobooks purchased with Premium credits are yours to keep even after canceling your subscription.
+
+You can check out Audible's complete catalogue here , which includes celebrity memoirs like Lena Dunham's "Famesick," Britney Spears' "The Woman in Me," Al Pacino's "Sonny Boy" and Viola Davis's "Finding Me," in addition to book-to-screen adaptations such as "It Ends With Us," "The Perfect Couple," and "Uglies." Check out some of the year's buzziest releases here.
+
+Sign up for Audible's Black Friday deal through Dec. 28.
+
+============================================================
+[3] How Netflix and the NFL Hope to Establish New Thanksgiving Eve Tradition With Game and U2 Half-Time Show: ‘We Want to Create Those Global Water Cooler Moments’
+Source: Variety | Status: expanded | Words: 1548
+Published: 2026-11-24T19:01:00+00:00
+URL: https://variety.com/2026/sports/news/netflix-nfl-thanksgiving-eve-u2-1236956485
+------------------------------------------------------------
+SUMMARY:
+Thanksgiving Day has sported NFL games since the league’s inception in 1920, and now Turkey Day tussles on the gridiron are supercharged for the streaming future. On Nov. 25, Netflix and the NFL would like football fans to join them for a new holiday tradition: the Thanksgiving Eve game. And like the streamer’s Christmas Day […]
+
+CONTENT / EXTRACTED DETAILS:
+Thanksgiving Day has sported NFL games since the league&#x2019;s inception in 1920, and now Turkey Day tussles on the gridiron are supercharged for the streaming future.
+
+On Nov. 25, Netflix and the NFL would like football fans to join them for a new holiday tradition: the Thanksgiving Eve game. And like the streamer&#x2019;s Christmas Day gridiron matchups, this one is A-list all the way: the Los Angeles Rams vs. the Green Bay Packers at L.A.&#x2019;s SoFi Stadium and a halftime show headlined by U2. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Grendel' Animated Series Set at Netflix From 'Widow's Bay' Writer Years After Live-Action Adaptation Was Scrapped 'Russell Brand: Open Secret' Director Says Finding Contributors Wasn't Easy: 'There's Been a Landscape of Fear'
+
+Gabe Spitzer, Netflix&#x2019;s VP of global live sports and entertainment, says that cooking up a Thanksgiving Eve game came naturally between Netflix and the NFL. The partners have had great success in the last two years with Christmas Day games, with the matchups hitting 30 million-plus global viewers per game. The focus on showcasing games during holiday periods has conditioned Netflix subscribers and football fans to think of the streamer as a place for out-of-the-ordinary games.
+
+&#x201C;As the NFL opened up more inventory and started talking to us about [possibly adding] more games, [Thanksgiving Eve] is one that they mentioned and immediately it felt like the perfect fit,&#x201D; says Spitzer, who spoke with Variety while sporting a New England Patriots cap.
+
+Onnie Bose, the NFL&#x2019;s VP of broadcasting, echoes that sentiment. The league has learned &#x201C;over the last few years that when family and friends are together, they gravitate toward watching our games,&#x201D; Bose says. &#x201C;Our Thanksgiving viewership has always been strong. I think it&#x2019;s exploded. We hit 57 million viewers with the Kansas City-Dallas game last year.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+There is precedent for staking out new NFL-watching traditions, as the league has worked closely with Amazon Prime Video over the last few years to successfully establish the Black Friday game on the day after Thanksgiving.
+
+"We've been building Black Friday with Amazon over the last few years. So Thanksgiving is a clear natural weekend where people are together,&#x201D; Bose says. "They're watching football. We&#x2019;ve seen that on Christmas also in the last few years. We just looked at it as an opportunity to do something new.&#x201D;
+
+It&#x2019;s been a fruitful marriage between the NFL, which has wants to expand the popularity of football around the world, and the streaming giant with its global footprint in 190 countries. For Thanksgiving Eve, NBC Sports is producing the game broadcast; EverWonder Studio is serving as executive producer for Netflix. Jesse Collins Entertainment, the banner known for handling the Emmy Awards, Oscars and Super Bowl Halftime show, is producing U2&#x2019;s halftime performance.
+
+Netflix's expanded agreement with the NFL runs through the 2029 season, with a growing presence across the NFL calendar, from Week 1 through Super Bowl week.
+
+This year, Netflix streamed the first-ever NFL game played in Australia, a matchup between the San Francisco 49ers and the Los Angeles Rams, on Sept. 10. The NFL also played games in London, Madrid, Munich, Rio de Janeiro, Paris and Mexico City this year. Live sports are a coveted draw for broadcasters and streamers alike. In the U.S., through the Nov. 22 matchup, the NFL has averaged 18.2 million viewers across its broadcasts, its highest mid-season number since 2010.
+
+Netflix&#x2019;s partnership with the league includes Christmas Day games, the NFL's first regular-season game in Australia, the Thanksgiving Eve game, a Week 18 matchup and the annual NFL Honors awards ceremony.
+
+This week&#x2019;s game marks Netflix&#x2019;s second time working with the L.A. Rams this season.
+
+&#x201C;Our experience working with Netflix has been fantastic. There is a shared commitment between the Rams and Netflix to put fans first and deliver an exceptional experience, both inside SoFi Stadium in Inglewood, and for audiences watching around the globe,&#x201D; says Kathryn Kai-ling Frederick, chief marketing officer for the Rams. &#x201C;Netflix brings a unique ability to combine world-class storytelling, entertainment and live sports, creating opportunities to reach new audiences and elevate the way fans engage with the game. We&#x2019;re excited to continue building on our relationship and collaborate on moments that extend beyond the field.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+The strategy with the NFL is to create lasting moments and cement Netflix in the viewers&#x2019; minds as a marquee destination for top games and entertainment. &#x201C;We're not the networks that have hundreds of games a year. We're really showing up intentionally at a few points across the season, and I think this is where Thanksgiving Eve fits in perfectly,&#x201D; Spitzer says. &#x201C;We're that opening game, an international game in Melbourne, Thanksgiving Eve, two games on Christmas and then that final weekend of the season when stakes are all on the line for some of these potential playoff teams.&#x201D;
+
+The Rams and Packers, both with a record of 6-4, are each fighting for a spot in the playoffs, which means that Wednesday&#x2019;s game has big consequences for both teams&#x2019; seasons.
+
+Bose says that the Netflix partnership was a natural for the NFL&#x2019;s plans, especially after seeing how the streamer brought the spotlight to its Christmas Day games.
+
+&#x201C;They&#x2019;ve truly embraced Christmas. They&#x2019;ve made it into a big event with their double headers. It&#x2019;s worldwide distribution. They&#x2019;ve engaged in putting on concerts,&#x201D; Bose says. "There's not a lot of places where we can add new windows where we have partners that are well established in certain places. This was a new window. It fits with their strategy of wanting to have kind of events and standalone windows that resonate.&#x201D;
+
+Spitzer says that Netflix approaches its live events with an eye to setting a high bar in the pop culture landscape. It did that in 2024 with the &#x201C;Beyonc&#xE9; Bowl&#x201D; during the Houston Texans-Baltimore Ravens Christmas Day game, which drew some 27 million viewers in the U.S., not to mention the social media conversation generated by her performance. Beyonce's revue included Shaboozey, the Texas Southern University&#x2019;s Oceans of Soul Marching band and a wide range of performers that spoke to Southern Black and Latin history and music.
+
+In 2025, Snoop Dogg&#x2019;s halftime show for Netflix&#x2019;s Christmas Day games drew 29 million viewers and featured country superstar Lainey Wilson and the hitmakers of &#x201C;K-pop Demon Hunters&#x201D;: EJAE, Audrey Nuna and Rei Ami.
+
+&#x201C;Obviously, we&#x2019;re so early in our live sports journey, but it was a great start,&#x201D; Spitzer says.
+
+With U2, Netflix aims to create another big moment with a band that&#x2019;s a household name worldwide. &#x201C;They've only done it twice,&#x201D; Spitzer says about the rock superstars' NFL game appearances. U2 played in the 2002 game in a moving set that was also a tribute to the victims of 9/11; the other was as an opening act on &#x201C;Monday Night Football&#x201D; in 2006 as part of the reopening of the Louisiana Superdome a year after the devastation of Hurricane Katrina. &#x201C;They want to be a part of a big moment, and we're thrilled that they want to be on Netflix for launching this new tradition as well,&#x201D; Spitzer says. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+The streamer is also bringing celebrity chef David Chang aboard in the pregame show to spotlight food, tailgating and other game-day traditions. For Netflix, it&#x2019;s as much of a live event strategy as it is a sports strategy.
+
+&#x201C;It&#x2019;s about creating that new fandom. We want to create those global water cooler moments,&#x201D; says Spitzer. &#x201C;That could be a big boxing match. It could be NFL games. It could be the Women&#x2019;s World Cup, or it could be Alex Honnold climbing a 101-story building. If we&#x2019;re going to do a big live event, we really want to make sure it cuts through.&#x201D;
+
+Netflix has the rights to the 2027 and 2031 FIFA Women&#x2019;s World Cup, so lessons learned staging NFL games and other live events look to culminate next year in Brazil. Spitzer won&#x2019;t comment on whether the streamer is bidding for the 2030 and 2024 Men&#x2019;s World Cup rights.
+
+The Women&#x2019;s World Cup is &#x201C;the most ambitious project that we&#x2019;ve ever done. Thirty straight days, 64 matches over eight hours a day in the U.S. and Canada,&#x201D; Spitzer says. &#x201C;We&#x2019;ve been planning it for two years. There&#x2019;s nothing bigger, so we can&#x2019;t wait for that.&#x201D;
+
+For Netflix, aligning with the biggest brand in U.S. sports &#x2014; the NFL &#x2014; and creating a new tradition is good for driving global subscriptions and good for the bottom line in a business that has seen layoffs and management shake-ups like every other content giant. For the next few weeks, Team Netflix is all about driving viewership to Thanksgiving Eve and Christmas Day action on the gridiron.
+
+&#x201C;We want to create a new family tradition with Netflix,&#x201D; Spitzer says. "It's really about bringing fans together for the biggest moments in sports.&#x201D;
+
+============================================================
+[4] Kevin Kline Joins Meryl Streep In Netflix's 'The Corrections'
 Source: Deadline | Status: expanded | Words: 441
 Published: 2026-11-24T19:00:00+00:00
 URL: https://deadline.com/2026/11/the-corrections-netflix-meryl-streep-casts-kevin-kline-1237232653
@@ -25,7 +135,7 @@ Franzen adapted his book for Netflix and exec produces the limited drama alongsi
 An Oscar and three-time Tony Award winner, Kline is best known for turns in such classic films A Fish Called Wanda , Sophie's Choice and The Big Chill . Most recently, he's been seen starring in MGM+'s American Classic , opposite Laura Linney, and Alfonso Cuar&#xF3;n's Emmy-nominated Apple series Disclaimer , opposite Cate Blanchett and Sacha Baron Cohen. He is repped by UTA and Berwick & Kovacik.
 
 ============================================================
-[2] Kevin Kline Reunites With Meryl Streep in 'The Corrections' Series at Netflix
+[5] Kevin Kline Reunites With Meryl Streep in 'The Corrections' Series at Netflix
 Source: Variety | Status: expanded | Words: 463
 Published: 2026-11-24T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/kevin-kline-meryl-streep-the-corrections-series-netflix-1236957061
@@ -51,7 +161,7 @@ He is repped by UTA and Berwick & Kovacik.
 Franzen will adapt his novel for the screen and executive produce, with Streep executive producing in addition to starring. Mark Roybal and Paul Lee executive produce for wiip, with Nicole Clemens and Amy Sayres executive producing as well. Cord Jefferson will executive produce and direct all episodes. Paramount Television Studios ( soon to be Warner Bros. Television Studios ) will produce.
 
 ============================================================
-[3] MS NOW Hosts 'Disappointed' Management Has Yet to Reach WGA Union Deal Guaranteeing 'Fair Wages'; Network Boss Rebecca Kutler Responds to Accusations
+[6] MS NOW Hosts 'Disappointed' Management Has Yet to Reach WGA Union Deal Guaranteeing 'Fair Wages'; Network Boss Rebecca Kutler Responds to Accusations
 Source: Variety | Status: expanded | Words: 1006
 Published: 2026-11-24T18:56:56+00:00
 URL: https://variety.com/2026/tv/news/ms-now-hosts-disappointed-wga-union-deal-rebecca-kutler-memo-1236957154
@@ -93,7 +203,7 @@ In the past year, Kutler noted in her memo Tuesday, MS NOW reached new collectiv
 According to Kutler, MS NOW offers the highest starting salaries among its peers, "having raised entry-level salaries significantly over the last five years, and the starting point for each role&#x2019;s salary range is typically higher than our broadcast and cable news competitors." In addition, according to Kutler, "while many other news organizations are cutting back their newsrooms and trimming roles, we have filled more than 200 in the past year at MS NOW and continue recruiting for dozens of open positions."
 
 ============================================================
-[4] Kevin Feige Addresses the MCU's Future After Secret Wars, And Which Franchise Is The New Crown Jewel
+[7] Kevin Feige Addresses the MCU's Future After Secret Wars, And Which Franchise Is The New Crown Jewel
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-24T18:52:50+00:00
 URL: https://comicbook.com/movies/news/kevin-feige-addresses-the-mcus-future-after-secret-wars-and-which-franchise-is-the-new-crown-jewel
@@ -121,7 +231,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] MS NOW Hosts Sign On To Letter Urging Adoption Of "Fair" WGAE Contract; Network Says Talks Are Ongoing And "Constructive"
+[8] MS NOW Hosts Sign On To Letter Urging Adoption Of "Fair" WGAE Contract; Network Says Talks Are Ongoing And "Constructive"
 Source: Deadline | Status: expanded | Words: 1478
 Published: 2026-11-24T18:51:45+00:00
 URL: https://deadline.com/2026/11/ms-now-hosts-union-contract-wgae-1237232694
@@ -185,7 +295,7 @@ As we approach the final weeks of these negotiations, let's stay focused on what
 If you have any questions, please don't hesitate to reach out to me, Greg, Madeleine, Scott, Marcus, or anyone on our leadership team. Our doors are always open.
 
 ============================================================
-[6] I’m Pumped Secret Lives Of Mormon Wives: OC Got Renewed, But There’s One Big Change I Want To See
+[9] I’m Pumped Secret Lives Of Mormon Wives: OC Got Renewed, But There’s One Big Change I Want To See
 Source: CinemaBlend | Status: expanded | Words: 215
 Published: 2026-11-24T18:49:36+00:00
 URL: https://www.cinemablend.com/streaming-news/secret-lives-of-mormon-wives-oc-renewed-one-big-change-i-want-to-see
@@ -201,7 +311,7 @@ The Secret Lives of Mormon Wives original series has had a seemingly endless amo
 Because Mormon Wives OC ’s first season had to introduce us to a lot of new women, there wasn’t much time in its eight episodes to let us see much of their home lives, families, and relationships. Since it was also introducing many of those women to each other, some of the tension and confrontations felt more manufactured and forced.
 
 ============================================================
-[7] Russo Brothers Aware 'Avengers: Doomsday' &#038; 'Secret Wars' Return Was A "Risky" Play; Part Of Them Didn't "Want To Mess" With The Movie Everyone Loved
+[10] Russo Brothers Aware 'Avengers: Doomsday' &#038; 'Secret Wars' Return Was A "Risky" Play; Part Of Them Didn't "Want To Mess" With The Movie Everyone Loved
 Source: The Playlist | Status: summary_only | Words: 120
 Published: 2026-11-24T18:38:18+00:00
 URL: https://theplaylist.net/russo-brothers-avengers-doomsday-secret-wars-return-was-risky-20261124
@@ -213,7 +323,7 @@ CONTENT / EXTRACTED DETAILS:
 When it was announced that the Russo Brothers would be coming back to the Marvel Cinematic Universe, after some lackluster ventures on their own without Marvel Studios , many of us were tepid with our enthusiasm, and in a new profile for " Avengers: Doomsday ," the directors are well aware of this and even had their own apprehension early on about coming back to do the latest installment and then having to follow that up with " Avengers: Secret Wars " as their next attempt at a massive two-parter. Continue reading Russo Brothers Aware 'Avengers: Doomsday' & 'Secret Wars' Return Was A "Risky" Play; Part Of Them Didn't "Want To Mess" With The Movie Everyone Loved at The Playlist.
 
 ============================================================
-[8] Carrie Season 2 Update Could Mean a Long Wait for Stephen King Series' Return
+[11] Carrie Season 2 Update Could Mean a Long Wait for Stephen King Series' Return
 Source: ComicBook.com | Status: expanded | Words: 640
 Published: 2026-11-24T18:36:47+00:00
 URL: https://comicbook.com/tv-shows/news/carrie-season-2-update-could-mean-a-long-wait-for-stephen-king-series-return
@@ -245,7 +355,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”
+[12] Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”
 Source: The Hollywood Reporter | Status: expanded | Words: 426
 Published: 2026-11-24T18:32:47+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/sylvester-stallone-tulsa-king-spinoff-arnold-schwarzenegger-1236762273
@@ -269,7 +379,7 @@ With I Play Rocky , a biographical film about the writer-actor's iconic breakthr
 Stallone also cast doubt on returning as Rocky Balboa. "It would be hard…I was going to have a prot&#xE9;g&#xE9; and train him, but I think it would be more likely that they would have a prequel. That would work because it&#x2019;d be so interesting. Mickey at 30 years old, Rocky at 16."
 
 ============================================================
-[10] Benjamín Naishtat’s ‘The Seven Madmen,’ With ‘I’m Still Here’ Star Selton Mello, Wraps Production
+[13] Benjamín Naishtat’s ‘The Seven Madmen,’ With ‘I’m Still Here’ Star Selton Mello, Wraps Production
 Source: Variety | Status: expanded | Words: 784
 Published: 2026-11-24T18:31:17+00:00
 URL: https://variety.com/2026/film/global/benjamin-naishtat-the-seven-madmen-selton-mello-1236957214
@@ -311,7 +421,7 @@ It is no coincidence that two novels published in 1929 and 1931, an era of socia
 Noted Particular Crowd President Peter Bevan: &#x201D;&#x2019;The Seven Madmen&#x2019; pulsates with relentless tension, singular humor and Benjam&#xED;n Naishtat&#x2019;s signature lucidity.&#x201D;
 
 ============================================================
-[11] 'Aquamarine' Gets Disney Series Greenlight; Emma Roberts &#038; Jake McDorman To Reprise Film Roles &#038; Exec Produce
+[14] 'Aquamarine' Gets Disney Series Greenlight; Emma Roberts &#038; Jake McDorman To Reprise Film Roles &#038; Exec Produce
 Source: Deadline | Status: expanded | Words: 487
 Published: 2026-11-24T18:30:00+00:00
 URL: https://deadline.com/2026/11/aquamarine-disney-series-order-emma-roberts-jake-mcdorman-1237232575
@@ -335,7 +445,7 @@ The 2006 movie is loosely based on Alice Hoffman&#x2019;s 2001 YA novel. It star
 Aquamarine joins supernatural dramedy Coven Academy, which was picked up to series at Disney-owned Hulu following a pilot order in 2025, as well as Nick Paley's coming-of-age mystery Phony , and Durango, starring Cooper Hoffman and Kathryn Newton, both of which had received previous pilot orders. Ryan Coogler's reimagining of The X-Files was picked up to series at Hulu in October following a pilot order earlier this year.
 
 ============================================================
-[12] Disney Greenlights 'Aquamarine' Series Inspired by the 2006 Mermaid Movie; Emma Roberts to Reprise Role and Exec Produce
+[15] Disney Greenlights 'Aquamarine' Series Inspired by the 2006 Mermaid Movie; Emma Roberts to Reprise Role and Exec Produce
 Source: The Hollywood Reporter | Status: expanded | Words: 544
 Published: 2026-11-24T18:30:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/disney-aquamarine-series-mermaid-movie-emma-roberts-cast-1236762173
@@ -363,7 +473,7 @@ Disney had ordered a pilot for the live-action series over the summer. The show 
 Disney said the series builds on its expanding slate of coming-of-age shows for Disney+ and Hulu that also includes Percy Jackson and the Olympians, Coven Academy and Phony .
 
 ============================================================
-[13] 'Aquamarine' TV Series Greenlit at Disney+, Disney Channel
+[16] 'Aquamarine' TV Series Greenlit at Disney+, Disney Channel
 Source: Variety | Status: expanded | Words: 401
 Published: 2026-11-24T18:30:00+00:00
 URL: https://variety.com/2026/tv/news/aquamarine-tv-series-disney-plus-emma-roberts-jake-mcdorman-1236957019
@@ -387,7 +497,7 @@ The project hails from writer and executive producer Sarah Watson ("The Bold Typ
 Along with Roberts and McDorman, &#x201C;Aquamarine&#x201D; starred Joanna &#x201C;JoJo&#x201D; Levesque, Sara Paxton, and Arielle Kebbel. In the film, best friends Claire (Roberts) and Hailey (Levesque) try to help mermaid Aquamarine (Paxton) find true love. The film was not particularly well-received when it was first released, but has since achieved cult status.
 
 ============================================================
-[14] The Millennium Falcon Is Great but These 5 Star Wars Ships Are the Coolest of Them All
+[17] The Millennium Falcon Is Great but These 5 Star Wars Ships Are the Coolest of Them All
 Source: ComicBook.com | Status: expanded | Words: 1256
 Published: 2026-11-24T18:28:00+00:00
 URL: https://comicbook.com/movies/list/the-millennium-falcon-is-great-but-these-5-star-wars-ships-are-the-coolest-of-them-all
@@ -427,7 +537,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Nintendo Switch Online Just Stealth-Dropped a Beloved New GameCube Game for Subscribers
+[18] Nintendo Switch Online Just Stealth-Dropped a Beloved New GameCube Game for Subscribers
 Source: ComicBook.com | Status: expanded | Words: 570
 Published: 2026-11-24T18:22:18+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-online-gamecube-games-new-release-wave-race
@@ -455,7 +565,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Joe Rogan's The Most Trusted Name In Media For Dudes - Especially Dudes With Daddy Issues
+[19] Joe Rogan's The Most Trusted Name In Media For Dudes - Especially Dudes With Daddy Issues
 Source: Deadline | Status: expanded | Words: 1136
 Published: 2026-11-24T18:15:26+00:00
 URL: https://deadline.com/2026/11/joe-rogan-most-trusted-in-media-report-1237232007
@@ -503,7 +613,7 @@ With the right-ish preference of the men and women surveyed, a tendency to limit
 If all those lawsuits, credential revoking and "fake news" bluster is any indication, that last stat may be the Trump takeaway.
 
 ============================================================
-[17] Avatar: Seven Havens Producer Explains Why No Last Airbender or Korra Writers Return
+[20] Avatar: Seven Havens Producer Explains Why No Last Airbender or Korra Writers Return
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-24T18:07:04+00:00
 URL: https://comicbook.com/anime/news/avatar-seven-havens-producer-explains-why-no-last-airbender-or-korra-writers-return
@@ -529,7 +639,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Elizabeth Holmes’ Ex-Assistant Speaks Out on ‘You Can See Everything’ and Amanda Seyfried’s ‘Valid’ Performance: Holmes ‘Softened a Lot in the Film’
+[21] Elizabeth Holmes’ Ex-Assistant Speaks Out on ‘You Can See Everything’ and Amanda Seyfried’s ‘Valid’ Performance: Holmes ‘Softened a Lot in the Film’
 Source: Variety | Status: expanded | Words: 634
 Published: 2026-11-24T18:01:47+00:00
 URL: https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074
@@ -563,7 +673,7 @@ As to whether Holmes deserves a second chance, Marinelli said, "I think people a
 Watch Marinelli's full interview on "AvA Live" below.
 
 ============================================================
-[19] Taylor Swift’s Wedding Was The A-List Event Of The Year And Also Incredibly Awkward For Conan
+[22] Taylor Swift’s Wedding Was The A-List Event Of The Year And Also Incredibly Awkward For Conan
 Source: CinemaBlend | Status: expanded | Words: 328
 Published: 2026-11-24T18:00:06+00:00
 URL: https://www.cinemablend.com/television/taylor-swift-wedding-a-list-event-of-the-year-incredibly-awkward-conan-obrien
@@ -581,7 +691,7 @@ Seeing a grouping like that would be pretty incredible, and it sounds like O’B
 That definitely would be super awkward. Imagine going over to them, having never met Phoebe Waller-Bridge and just getting straight-up rejected. I wouldn’t be surprised if he had thought about it almost the entire time he was at the wedding. Of course, there’s no telling what would have actually happened, and Colman even said that Waller-Bridge is “wonderful.” Although being in that setting and surrounded by those kinds of people, I can see where O’Brien’s hesitation would come in.
 
 ============================================================
-[20] Diablo 5 Has Already Revealed Its First Three Classes, &#038; They're Perfect For Diablo 3 Fans
+[23] Diablo 5 Has Already Revealed Its First Three Classes, &#038; They're Perfect For Diablo 3 Fans
 Source: ComicBook.com | Status: expanded | Words: 1109
 Published: 2026-11-24T18:00:00+00:00
 URL: https://comicbook.com/gaming/feature/diablo-5-has-already-revealed-its-first-three-classes-theyre-perfect-for-diablo-3-fans
@@ -617,7 +727,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] 'The Rings of Power' Officially Renewed for Season 4 With Showrunners Returning
+[24] 'The Rings of Power' Officially Renewed for Season 4 With Showrunners Returning
 Source: The Hollywood Reporter | Status: expanded | Words: 348
 Published: 2026-11-24T18:00:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/the-rings-of-power-season-4-1236762209
@@ -643,7 +753,7 @@ According to Prime Video, season three launched two weeks ago and has reached 33
 According to Rotten Tomatoes, the show's critics' scores were steady with past seasons (averaging around 85 percent "Fresh"). The show's audience scores continued to be underwater, but the show has been a controversial one among LOTR fans for various reasons from the outset and getting an accurate sense of the show's reception can be tricky.
 
 ============================================================
-[22] 'One &#038; Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years
+[25] 'One &#038; Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years
 Source: Variety | Status: expanded | Words: 1949
 Published: 2026-11-24T18:00:00+00:00
 URL: https://variety.com/2026/biz/lifestyle/botox-cosmetic-one-and-only-campaign-1236683743
@@ -725,7 +835,7 @@ To report a side effect, please call Allergan Aesthetics at 1-800-678-1605.&#xA0
 Please see BOTOX&#xAE; Cosmetic full&#xA0; Prescribing Information &#xA0;including Boxed Warning and&#xA0; Medication Guide . &#xA0; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid5' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[23] 'Lord of the Rings: The Rings of Power' Renewed for Season 4 at Amazon Prime Video
+[26] 'Lord of the Rings: The Rings of Power' Renewed for Season 4 at Amazon Prime Video
 Source: Variety | Status: expanded | Words: 312
 Published: 2026-11-24T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-renewed-season-4-1236957049
@@ -747,7 +857,7 @@ The renewal comes on the day the final two episodes of Season 3 are airing on Am
 The third season of "The Lord of the Rings: The Rings of Power" was produced by showrunners and executive producers J.D. Payne and Patrick McKay, who are joined by executive producers Lindsey Weber, Kate Hazell, Justin Doble and Charlotte Br&#xE4;ndstr&#xF6;m, who also directs. Matthew Penry-Davey is a producer and Ally O&#x2019;Leary Cantrell, Tim Keene, and Andrew Lee are co-producers.
 
 ============================================================
-[24] John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble Among SFFILM Awards Night Honorees
+[27] John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble Among SFFILM Awards Night Honorees
 Source: Variety | Status: expanded | Words: 411
 Published: 2026-11-24T18:00:00+00:00
 URL: https://variety.com/2026/film/news/john-turturro-carrie-coon-sffilm-honorees-1236956973
@@ -773,7 +883,7 @@ Presented by &#x201C; I Play Rocky &#x201D; star Anthony Ippolito, the film's sc
 SFFILM Awards Night aims to bring together the film industry&#x2019;s most influential talent for an evening that celebrates cinema and fuels the next generation of storytellers by raising funds for the organization.
 
 ============================================================
-[25] ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon
+[28] ‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon
 Source: Deadline | Status: expanded | Words: 536
 Published: 2026-11-24T18:00:00+00:00
 URL: https://deadline.com/2026/11/lord-of-the-rings-rings-of-power-renewed-season-4-amazon-1237232657
@@ -803,7 +913,7 @@ It stars Vickers, Jamie Campbell Bower, Morfydd Clark, Ismael Cruz Cordova, Tyro
 Payne and McKay exec produce alongside Lindsey Weber, Kate Hazell, Justin Doble and Charlotte Br&#xE4;ndstr&#xF6;m, who also directs. Matthew Penry-Davey is producer and Ally O&#x2019;Leary Cantrell, Tim Keene, and Andrew Lee are co-producers.
 
 ============================================================
-[26] 'Shaun the Sheep: The Beast of Mossy Bottom' Directors on 'Game of Thrones' Easter Egg and the 'Challenge' of Filming Michael Jackson's 'Thriller' Dance in Stop-Motion
+[29] 'Shaun the Sheep: The Beast of Mossy Bottom' Directors on 'Game of Thrones' Easter Egg and the 'Challenge' of Filming Michael Jackson's 'Thriller' Dance in Stop-Motion
 Source: Variety | Status: expanded | Words: 1330
 Published: 2026-11-24T17:59:57+00:00
 URL: https://variety.com/2026/film/news/shaun-the-sheep-directors-thriller-game-of-thrones-variety-screening-series-1236956678
@@ -865,7 +975,7 @@ The giant jack-o&#x2019;-lantern was also another ambitious moment in the film. 
 For more from the conversation, watch the full video above.
 
 ============================================================
-[27] 'Thursday Murder Club' Author Says Wife's Casting in Netflix Adaptation Was a Coincidence: 'It Had Nothing to Do With Me'
+[30] 'Thursday Murder Club' Author Says Wife's Casting in Netflix Adaptation Was a Coincidence: 'It Had Nothing to Do With Me'
 Source: Variety | Status: expanded | Words: 371
 Published: 2026-11-24T17:59:46+00:00
 URL: https://variety.com/2026/tv/global/thursday-murder-club-richard-osman-wife-netflix-1236957129
@@ -895,7 +1005,7 @@ Osman is a TV host, podcaster and novelist. Before moving in front of the camera
 Variety 's reviewer called "The Thursday Murder Club" adaptation "as amiable and inoffensive as they come," concluding: "As a riff on the British whodunit, Columbus&#x2019; film is simply a cozy, and perhaps an all too simple, affair."
 
 ============================================================
-[28] Music Streamer Tidal Targets AI-Generated Music, Saying It Will Be "Rejected And Removed" Starting Next Month
+[31] Music Streamer Tidal Targets AI-Generated Music, Saying It Will Be "Rejected And Removed" Starting Next Month
 Source: Deadline | Status: expanded | Words: 367
 Published: 2026-11-24T17:55:28+00:00
 URL: https://deadline.com/2026/11/tidal-bans-ai-music-streaming-1237232638
@@ -917,7 +1027,7 @@ As of now, Tidal estimates that 27 million tracks (about 6% of the total in its 
 "It&#x2019;s true that not all songs catch on immediately, and artists should have time to build their fanbases. But this situation is different &#x2013; at this scale, the authentic music and artists that Tidal subscribers are looking to listen to and discover get buried."
 
 ============================================================
-[29] A Weird Little Sci-fi Show With Puppets Changed TV and Movies Forever 38 Years Ago
+[32] A Weird Little Sci-fi Show With Puppets Changed TV and Movies Forever 38 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 1440
 Published: 2026-11-24T17:46:00+00:00
 URL: https://comicbook.com/tv-shows/feature/a-weird-little-sci-fi-show-with-puppets-changed-tv-and-movies-forever-38-years-ago
@@ -955,7 +1065,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios &#038; His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film
+[33] David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios &#038; His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-24T17:37:41+00:00
 URL: https://theplaylist.net/david-fincher-james-gunn-dc-studios-the-batman-pitch-20261124
@@ -967,7 +1077,7 @@ CONTENT / EXTRACTED DETAILS:
 David Fincher has flirted with the superhero genre over the years, including unrealized versions of “ Spider-Man ” and “ Batman ,” but he’s never actually directed a comic book movie. And judging by his latest comments, overseeing an entire superhero universe is about the last thing he’d ever want to do. Fincher says he wouldn’t have had the “balls” to take on the responsibilities James Gunn assumed at DC Studios, calling the company inherently dysfunctional. Continue reading David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios & His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film at The Playlist.
 
 ============================================================
-[31] Constance Wu, Macaulay Culkin, Ken Leung And Ethan Eng To Star In New A24 Film From Director Walter Woodman
+[34] Constance Wu, Macaulay Culkin, Ken Leung And Ethan Eng To Star In New A24 Film From Director Walter Woodman
 Source: Deadline | Status: expanded | Words: 271
 Published: 2026-11-24T17:30:00+00:00
 URL: https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191
@@ -985,7 +1095,7 @@ Executive Producers include Bianca Rusu and Paula Paizes of Pressman, Patrick Ce
 Culkin is represented by CAA and Untitled, Wu is represented at Gersh, Principal Entertainment and Hansen, Jacobson, Teller. Leung is represented by Paradigm Talent Agency and Brillstein Entertainment Partners Slowikowska is represented by UTA, Artists First, and Yorn Levine. Klein is represented by Play Management, Untitled Entertainment, and Lichter, Grossman, Nichols. Eng is represented by Gersh.
 
 ============================================================
-[32] Issa Rae's Male Friendship HBO Comedy Pilot Casts Rafael Castillo, Branden Cook (EXCLUSIVE)
+[35] Issa Rae's Male Friendship HBO Comedy Pilot Casts Rafael Castillo, Branden Cook (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 400
 Published: 2026-11-24T17:30:00+00:00
 URL: https://variety.com/2026/tv/news/issa-rae-hbo-comedy-pilot-rafael-castillo-branden-cook-1236956972
@@ -1011,7 +1121,7 @@ Castillo is repped by Daniel Hoff Agency, Art Haus Alliance, and Goodman Genow. 
 Rae serves as writer and executive producer on the pilot under her Hoorae banner, with Prentice Penny serving as showrunner, executive producer, and director. Jax Clark also executive produces for Hoorae along with Penny's Penny For Your Thoughts Entertainment as well as Jonathan berry and Dave Becky of 3 Arts Entertainment.
 
 ============================================================
-[33] Major Shonen Jump Series Creator Kicks Off New Return With Special Crossover
+[36] Major Shonen Jump Series Creator Kicks Off New Return With Special Crossover
 Source: ComicBook.com | Status: expanded | Words: 617
 Published: 2026-11-24T17:29:07+00:00
 URL: https://comicbook.com/anime/news/major-shonen-jump-series-creator-kicks-off-new-return-with-special-crossover
@@ -1039,7 +1149,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] One Thing Jennifer Lopez Won’t Do With Her Romances Moving Forward: ‘I’ve Learned Lessons’
+[37] One Thing Jennifer Lopez Won’t Do With Her Romances Moving Forward: ‘I’ve Learned Lessons’
 Source: CinemaBlend | Status: expanded | Words: 224
 Published: 2026-11-24T17:25:54+00:00
 URL: https://www.cinemablend.com/movies/one-thing-jennifer-lopez-wont-do-romances-moving-forward
@@ -1057,7 +1167,7 @@ Honestly, I wouldn't blame her! She's made countless headlines and been photogra
 Perhaps it's because of this that we haven't gotten any official confirmation about Jennifer Lopez's rumored relationship with Brett Goldstein. Only time will tell if they're actually dating, but her comments might offer some context about why it's still firmly a rumor a this time.
 
 ============================================================
-[35] "Alarming" Diversity Backtrack Happening In Film and TV Industry In Canada, Report Finds
+[38] "Alarming" Diversity Backtrack Happening In Film and TV Industry In Canada, Report Finds
 Source: The Hollywood Reporter | Status: expanded | Words: 538
 Published: 2026-11-24T17:20:18+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/diverse-canadian-writers-struggling-1236762221
@@ -1091,7 +1201,7 @@ The guild found a steep decline in production numbers from 2018 to 2025, includi
 The WGC also pointed to even steeper cuts in the number of kids live action and animation episodes.
 
 ============================================================
-[36] GloRilla to Make Acting Debut in Deon Taylor's Horror-Thriller 'Don't Open the Door,' Starring Armani Greer (EXCLUSIVE)
+[39] GloRilla to Make Acting Debut in Deon Taylor's Horror-Thriller 'Don't Open the Door,' Starring Armani Greer (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 603
 Published: 2026-11-24T17:15:00+00:00
 URL: https://variety.com/2026/film/news/glorilla-acting-debut-dont-open-the-door-cast-armani-greer-1236956662
@@ -1121,7 +1231,7 @@ Greer is a rising talent who, most recently, delivered a standout performance as
 Deon Taylor, Roxanne Avent Taylor and Hidden Empire Film Group are represented by CAA.
 
 ============================================================
-[37] 'Michael' &#038; 'Training Day' Director Antoine Fuqua Accused Of Assault/Battery With A Gun
+[40] 'Michael' &#038; 'Training Day' Director Antoine Fuqua Accused Of Assault/Battery With A Gun
 Source: The Playlist | Status: summary_only | Words: 136
 Published: 2026-11-24T17:03:29+00:00
 URL: https://theplaylist.net/director-antoine-fuqua-accused-of-assault-battery-with-a-gun-20261124
@@ -1133,7 +1243,7 @@ CONTENT / EXTRACTED DETAILS:
 Director Antoine Fuqua , who was recently behind the billion-dollar success of the Michael Jackson biopic at Lionsgate titled " Michael ," is being accused of assault and battery alongside his son Brandon Fuqua by a Los Angeles bar manager, William Rosenthal , in a newly filed civil lawsuit back on Friday, with the incident allegedly taking place back in February and involving the use of handguns in the dispute after their group was being refused entry into the N El Centro Ave venue for being "visibly intoxicated." Some of the key takeaways were mentioned in a report from Variety, which features the violence involved in the claims in that altercation as Rosenethal is seeking $50,000 in damages. Continue reading 'Michael' & 'Training Day' Director Antoine Fuqua Accused Of Assault/Battery With A Gun at The Playlist.
 
 ============================================================
-[38] Fans of Nathan Fillion's Wrongly Canceled Sci-Fi Western Series Can Grab His Screen-Matched Pistol for $15,000
+[41] Fans of Nathan Fillion's Wrongly Canceled Sci-Fi Western Series Can Grab His Screen-Matched Pistol for $15,000
 Source: ComicBook.com | Status: expanded | Words: 636
 Published: 2026-11-24T17:01:00+00:00
 URL: https://comicbook.com/collectibles/news/fans-of-nathan-fillions-wrongly-canceled-sci-fi-western-series-can-grab-his-screen-matched-pistol-for-15000
@@ -1153,7 +1263,7 @@ Many members of the Firefly cast have gone on to bigger things, including Morena
 Would you love to see Firefly return? Let us know in the comments.
 
 ============================================================
-[39] Hulu, Disney+, Apple TV, HBO Max and More Streamers Up to 80% Off For Black Friday
+[42] Hulu, Disney+, Apple TV, HBO Max and More Streamers Up to 80% Off For Black Friday
 Source: Variety | Status: expanded | Words: 891
 Published: 2026-11-24T17:00:51+00:00
 URL: https://variety.com/2026/shopping/news/best-black-friday-streaming-deals-1235441075
@@ -1213,7 +1323,7 @@ The streamer&#x2019;s highly anticipated &#x201C;Harry Potter and the Philosophe
 In the meantime, subscribers can catch up on the fourth season of &#x201C;The Gilded Age&#x201D; and recent theatrical releases such as &#x201C;Backrooms&#x201D; and &#x201C;The End of Oak Street,&#x201D; alongside HBO staples such as &#x201C;Succession,&#x201D; &#x201C;The Sopranos&#x201D; and &#x201C;Game of Thrones.&#x201D;
 
 ============================================================
-[40] Marvel Rivals Is Getting Its First-Ever LEGO Set and It's Based on the Perfect Character
+[43] Marvel Rivals Is Getting Its First-Ever LEGO Set and It's Based on the Perfect Character
 Source: ComicBook.com | Status: expanded | Words: 472
 Published: 2026-11-24T17:00:24+00:00
 URL: https://comicbook.com/gaming/news/lego-marvel-rivals-jef-shark-release-price
@@ -1235,7 +1345,7 @@ Moving forward, there's a chance that LEGO could look to release more products t
 How do you feel about this new LEGO Jeff the Land Shark model? Are you planning to pick it up for yourself in January, or will you instead be holding off for other upcoming LEGO releases? Be sure to let me know your own thoughts down in the comments section.
 
 ============================================================
-[41] 'Hexed' Review: Disney's Not-So-Wicked Witch Tale Is Cheery Enough, but Not Terribly Crafty
+[44] 'Hexed' Review: Disney's Not-So-Wicked Witch Tale Is Cheery Enough, but Not Terribly Crafty
 Source: Variety | Status: expanded | Words: 806
 Published: 2026-11-24T17:00:08+00:00
 URL: https://variety.com/2026/film/reviews/hexed-review-1236956898
@@ -1257,7 +1367,7 @@ Sixteen-odd years later, Billie (now peppily voiced by Hailee Steinfeld ) is a s
 Those include flying &#x2014; rare even among her newfound kind, and an immediate threat to Queen Celeste ( Jodie Foster ), the silver-coiffed sorceress who rules over Hexe with chic cruelty. Soon exasperatedly following her through the portal is Alice, who it turns out knows Hexe &#x2014; and Celeste &#x2014; all too well: No surprise that Billie's powers are hereditary, and that it falls to mother and daughter to save the embattled queendom, with some crotchety assistance from Beef (Walton Goggins), a three-eyed, Southern-drawled feline familiar who looks a little like Disney's Cheshire Cat as misremembered by ChatGPT. Goggins' ripe vernacular delivery is the most pleasingly unexpected element here: Everything else runs pretty much entirely according to studio-blueprinted plan, down to the breakneck, back-and-forth chase of a finale in which the real duel for dominance plays out on the soundtrack: Demi Lovato's "Confident" battles composer Kris Bowers' busy orchestrations to a cacophonous draw.
 
 ============================================================
-[42] ‘Hexed’ Review: Disney’s Bewitching Animation Is A Surprisingly Edgy Y.A. Fantasy
+[45] ‘Hexed’ Review: Disney’s Bewitching Animation Is A Surprisingly Edgy Y.A. Fantasy
 Source: Deadline | Status: expanded | Words: 936
 Published: 2026-11-24T17:00:00+00:00
 URL: https://deadline.com/2026/11/hexed-review-disney-fawn-veerasunthorn-jason-hand-1237232517
@@ -1283,7 +1393,7 @@ But while Foster&#x2019;s frosty Queen Celeste offers a refreshing return to the
 Title: Hexed Directors: Fawn Veerasunthorn , Jason Hand Screenwriters: Jared Bush, Dana Ledoux Miller Voice cast: Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins, Henry Winkler, Dan Stevens, Brett Gelman, Tracey Ullman, Stephen Fry, Distributor: Disney Running time: 1 hr 43 mins
 
 ============================================================
-[43] 'Focker-in-Law' Filmmaker John Hamburg Talks Ariana Grande's Comedic Timing and the Actor Who Made Ben Stiller Laugh Hardest on Set
+[46] 'Focker-in-Law' Filmmaker John Hamburg Talks Ariana Grande's Comedic Timing and the Actor Who Made Ben Stiller Laugh Hardest on Set
 Source: The Hollywood Reporter | Status: expanded | Words: 2927
 Published: 2026-11-24T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/focker-in-law-movie-director-ariana-grande-ben-stiller-plot-1236760299
@@ -1357,7 +1467,7 @@ When was the last time you saw something and reached out to say, "God, that was 
 Literally the other day. I saw an ad Ben Stiller did for his soda brand, Stiller Soda. He goes to Canter&#x2019;s Deli, gets it wrong, and is dressed like he&#x2019;s in the cast of Andrew Lloyd Webber&#x2019;s Cats . It was hysterical. I texted him a crying-laughing emoji. It was pretty damn funny. And my God, the Nathan Fielder and Lance Oppenheim movie &#x2014; the first half had me thinking, "Wow, there are big laughs in this. Huge laughs." It&#x2019;s so awkward, but it was really funny. I don&#x2019;t know those guys, so I didn&#x2019;t text them, but I&#x2019;m a fan.
 
 ============================================================
-[44] ‘Hexed’ Review: Hailee Steinfeld and Rashida Jones Lead a Disney Fantasy More Enchanting in Its Spectacle Than Its Storytelling
+[47] ‘Hexed’ Review: Hailee Steinfeld and Rashida Jones Lead a Disney Fantasy More Enchanting in Its Spectacle Than Its Storytelling
 Source: The Hollywood Reporter | Status: expanded | Words: 1194
 Published: 2026-11-24T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588
@@ -1389,7 +1499,7 @@ In comparison to all the bewitching delights and exotic thrills of Hexe, Billie 
 The big lessons Alice and Billie come away with (Mom realizes she can&#x2019;t shelter her little girl forever, said girl learns to see Mom as her own person) are as predictable as they are unimpeachably timeless. Someone planning family movie night &#x2014; say, as a chaser to Thursday's Thanksgiving festivities &#x2014; could certainly do worse than the PG charms of Hexed . Just know what once the movie's over, it's the eccentric magic of Hexe, rather than the boilerplate messaging about loving one's family or being oneself, that's bound to leave a lasting spell.
 
 ============================================================
-[45] Four-Day Rom-Com Film Festival to Launch in Santa Barbara
+[48] Four-Day Rom-Com Film Festival to Launch in Santa Barbara
 Source: The Hollywood Reporter | Status: expanded | Words: 329
 Published: 2026-11-24T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/rom-com-film-festival-launch-santa-barbara-1236761332
@@ -1409,7 +1519,7 @@ Screenings will take place across multiple venues in downtown Santa Barbara, inc
 "The romantic comedy is often dismissed as a guilty pleasure, but it's one of the hardest genres to execute. Making an audience laugh, fall in love with the characters and believe in their story takes real craft," added Thomas in a statement. "We wanted to create a festival that not only celebrates that artistry, but gives filmmakers a dedicated platform to showcase their work and connect with audiences."
 
 ============================================================
-[46] One &#038; Only: Cinematographer Anna Mendes Details How She Navigates Her Career, Creative Vision and Life
+[49] One &#038; Only: Cinematographer Anna Mendes Details How She Navigates Her Career, Creative Vision and Life
 Source: Variety | Status: expanded | Words: 1612
 Published: 2026-11-24T17:00:00+00:00
 URL: https://variety.com/2026/biz/lifestyle/one-and-only-cinematographer-anna-mendes-career-1236683127
@@ -1483,7 +1593,7 @@ To report a side effect, please call Allergan Aesthetics at 1-800-678-1605.&#xA0
 Please see BOTOX&#xAE; Cosmetic full&#xA0; Product Information &#xA0;including Boxed Warning and&#xA0; Medication Guide . &#xA0;
 
 ============================================================
-[47] Jon Abrahams to Direct Survival Drama ‘Merry Christmas, Jay’ (EXCLUSIVE)
+[50] Jon Abrahams to Direct Survival Drama ‘Merry Christmas, Jay’ (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 395
 Published: 2026-11-24T17:00:00+00:00
 URL: https://variety.com/2026/film/news/jon-abrahams-merry-christmas-jay-1236956771
@@ -1507,62 +1617,4 @@ The film&#x2019;s title comes from a note Withey left apologizing for breaking t
 Previously, March produced and edited " The Crawling, " Christian Everhard's horror feature, and executive produced "In Flight."
 
 The film is in development through Altruistic Films and Merry Christmas Jay Productions, LLC. Sig De Miguel and Steven Vincent are attached as casting directors. Casting and production dates have not yet been announced yet.
-
-============================================================
-[48] John Turturro Talks ‘Only Living Pickpocket In New York,’ Clashing With Robert De Niro Over Too Many Takes &#038; What Modern Filmmaking Has Lost
-Source: The Playlist | Status: summary_only | Words: 105
-Published: 2026-11-24T16:59:33+00:00
-URL: https://theplaylist.net/ohn-turturro-only-living-pickpocket-new-york-de-niro-filmmaking-interview-20261124
-------------------------------------------------------------
-SUMMARY:
-MARRAKECH — John Turturro has a twofold presence at the 23rd Marrakech International Film Festival . On Sunday night, he received a career tribute honoring a body of work that includes “ Do the Right Thing ,” “ Barton Fink ,” “ The Big Lebowski ,” and “ Quiz Show .” The festival’s program also includes “ The Only Living Pickpocket in New York ,” Noah Segan ’s feature directorial debut, produced by Rian Johnson . Continue reading John Turturro Talks ‘Only Living Pickpocket In New York,’ Clashing With Robert De Niro Over Too Many Takes & What Modern Filmmaking Has Lost at The Playlist.
-
-CONTENT / EXTRACTED DETAILS:
-MARRAKECH — John Turturro has a twofold presence at the 23rd Marrakech International Film Festival . On Sunday night, he received a career tribute honoring a body of work that includes “ Do the Right Thing ,” “ Barton Fink ,” “ The Big Lebowski ,” and “ Quiz Show .” The festival’s program also includes “ The Only Living Pickpocket in New York ,” Noah Segan ’s feature directorial debut, produced by Rian Johnson . Continue reading John Turturro Talks ‘Only Living Pickpocket In New York,’ Clashing With Robert De Niro Over Too Many Takes & What Modern Filmmaking Has Lost at The Playlist.
-
-============================================================
-[49] Netflix Dates Jamie Foxx's Olympic Boxing Drama 'Fight For '84'
-Source: Deadline | Status: expanded | Words: 270
-Published: 2026-11-24T16:52:36+00:00
-URL: https://deadline.com/2026/11/fight-for-84-netflix-release-date-jamie-foxx-1237232637
-------------------------------------------------------------
-SUMMARY:
-Netflix has announced a release date for Fight for '84, its true-life sports drama starring Jamie Foxx. The film releases globally on February 19, 2027. Check out a first-look still of Foxx above. Fight for '84 takes place after the U.S. Olympic Boxing Team is tragically killed in a plane crash in 1980. A new […]
-
-CONTENT / EXTRACTED DETAILS:
-Netflix has announced a release date for Fight for '84 , its true-life sports drama starring Jamie Foxx .
-
-The film releases globally on February 19, 2027. Check out a first-look still of Foxx above.
-
-Fight for '84 takes place after the U.S. Olympic Boxing Team is tragically killed in a plane crash in 1980. A new coach, played by Foxx, is then brought in to rebuild the team from scratch and lead them to victory at the '84 Olympics, winning the most medals in Olympic boxing history.
-
-Directed by Andr&#xE9;s Baiz, a Colombian filmmaker known for work on shows like Griselda and Narcos , the film shot in New Jersey last year. Its cast also includes Malachi Beasley, Dan Perrault, Will Chase, Algee Smith, Tre McBride, Xavier Mills, Mitchell Edwards, Al-Shabazz Jabateh, Jamir Cope, Adrian Martinez, Javier Bola&#xF1;os, Robert Barbour, Amanda Warren, Adeola Role, and Shea Whigham. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-The script is by Oscar nominees Andrea Berloff and John Gatins and Andy Weiss. Eric Newman produced for Grand Electric, alongside Bryan Unkeless for Night Owl, Foxx, and Michael W. Abbott for A Move Films Production. Exec producers included Weiss for A WeBros Entertainment Production, Henry Tillman, and Datari Turner. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-============================================================
-[50] New Dark Fantasy Isekai Anime Confirms Crunchyroll Release Date With New Trailer - Watch
-Source: ComicBook.com | Status: expanded | Words: 582
-Published: 2026-11-24T16:51:17+00:00
-URL: https://comicbook.com/anime/news/new-dark-fantasy-isekai-anime-confirms-crunchyroll-release-date-with-new-trailer-watch
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Kadokawa A new dark fantasy Isekai anime is coming to Crunchyroll this January, and has now locked down its release date with a new trailer and poster showing it all off. With the ongoing slate of Fall 2026 anime releases now rounding out their respective final phases, it's time to look ahead to all of the […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google A new dark fantasy Isekai anime is coming to Crunchyroll this January, and has now locked down its release date with a new trailer and poster showing it all off. With the ongoing slate of Fall 2026 anime releases now rounding out their respective final phases, it's time to look ahead to all of the new releases coming our way next year. And 2027 looks like it's going to be kicking things off on the right foot for Isekai anime fans with one series in particular.
-
-The anime adaptation for Yu Shimizu and Makoto Aogiri's Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! was originally scheduled for a release in Fall 2025 before being hit by a major production delay behind the scenes. But it's finally now set a release date of January 7th next year as part of the upcoming Winter 2027 slate. To commemorate the release of the new series, you can check out the new trailer and poster for the upcoming Isekai below.
-
-Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! is currently scheduled to release in Japan on January 7th, and will be streaming exclusively with Crunchyroll when it finally makes its debut. There have been quite a few shake ups behind the scenes following its two year delay too with Naoya Fukushi now directing the series for Studio Durandal with Mamoru Yokota and Yui Kato providing the character designs, Yui Horiguchi serving as CG director, Hiroshi Hosokawa providing the scripts, and Asami Tachibana composing the music.
-
-It's also been confirmed that Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! will feature the opening theme titled "Sai" as performed by LIL LEAGUE, and an ending theme titled "Zanka" as performed by ZAQ. Both of which have been previewed in this newly released trailer. The voice cast for the series includes Kazuki Ura as Yukito Kirihara, Kana Yuki as Charlotte R. Brownia, Yui Ishikawa as Lumilia Sherwood, Kaori Maeda as Liverna Dark, Hika Tsukishiro as Sana Kirihara, Fukushi Ochiai as Rocinante, Ayasa Ito as Managarmr, Yoko Hikasa as Nephilia Curse, Anri Katsu as the narrator, and Yuichiro Umehara as Sharaza.
-
-Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! takes a dark path much like some of the Isekai anime releases that have gotten a lot of attention from fans in the last few years. Yukito and his sister are suddenly transported to another world, but he's got a major disadvantage in exploring it. When he's brought to this new world he's given a mysterious character sheet and given all sorts of random properties by a mysterious woman.
-
-Discovering he only has a single hit point, Yukito needs to navigate this mysterious new world and find his sister all while dealing with some strange new threats. There's some of kind of underlying threat underneath it all, and that always leads to some great results with Isekai anime of this kind. With so many other new Isekai coming our way next year , what are you hoping to see in action in 2027? Let us know all of your thoughts about it in the comments.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
