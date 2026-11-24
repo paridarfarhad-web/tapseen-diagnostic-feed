@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T23:37:03.674Z"
+    "updated_at": "2026-11-24T23:41:03.059Z"
   },
   "articles": [
+    {
+      "id": "fc47612f-6005-46cc-84e6-969b2f1637f8",
+      "title": "Take-Two CEO Strauss Zelnick To Talk 'Grand Theft Auto VI' At SXSW London 2027; More Speakers Announced",
+      "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world's biggest entertainment franchises, is among the first-wave speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May. Built […]",
+      "content": "Take-Two Interactive CEO Strauss Zelnick , the man behind Grand Theft Auto VI , will speak at SXSW London 2027, organizers announced Tuesday.\n\nZelnick, who will talk about building one of the world's biggest entertainment franchises, is among the first-wave speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.\n\nBuilt around the theme \"The Power of Human Potential\", the 2027 festival will focus on people in a year dominated by what machines can do. Additional speakers include Jon Steinback, former DeepMind creative lead whose start-up Marker is building an AI writing tool designed to develop, rather than delete, writers. David Thornton, President of Genomics Limited, will explore how rapid analysis of large-scale genetic and genomic information will empower us to predict disease risks and improve medicine. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nRounding out the first group of speakers are Sir Martin Sorrell and Rory Sutherland and media personality GK Barry, who will discuss the future of advertising and the creator economy. Additionally, Refik Anadol, founder of the newly opened L.A. museum, Dataland, will share his artistic vision for AI and data-driven installations. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nThe 2027 festival will run from May 24-29.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963",
+      "published_at": "2026-11-24T23:39:19+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/STRAUSS-ZELNICK-gta6.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 264,
+      "extracted_at": "2026-11-24T23:40:50.934007+00:00",
+      "updated_at": "2026-11-24T23:40:50.934007+00:00"
+    },
     {
       "id": "3d79b53d-5da8-4993-8a77-ecaa85efb52c",
       "title": "In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee",
@@ -742,21 +757,6 @@
       "word_count": 573,
       "extracted_at": "2026-11-24T20:38:42.084885+00:00",
       "updated_at": "2026-11-24T20:38:42.084885+00:00"
-    },
-    {
-      "id": "15703202-8fe8-46a9-8a95-c7f01ac266b2",
-      "title": "Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68",
-      "summary": "His credits ranged from ‘Jake and the Fatman’ and ‘Seinfeld’ to ‘Pam &#38; Tommy’ and ‘Amsterdam.’",
-      "content": "Steven Hack, the theater veteran who spent five years on Broadway as an original castmember in Cats , then appeared as a character actor in dozens of films and TV shows, has died. He was 68.\n\nHack died Thursday at home following what was described as &#x201C;a sudden and unexpected cardiac event,&#x201D; the Interact Theatre Company announced . He was a founding member of the North Hollywood-based group that launched in 1989.\n\n&#x201C;Steven was a gifted and versatile performer, a superb graphic artist and a cherished member of our artistic family,&#x201D; ITC directors Barry Heins and Walter Ware said in a statement. &#x201C;His creativity and talent helped shape Interact in its earliest years, and his artistry, humor, warmth and generous spirit enriched everything he touched.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle The Pulitzer-Winning Play 'Purpose' Finally Came to Los Angeles. But That Doesn't Mean It's Gone Hollywood. Lifestyle 'The Comedy About Spies' to Open on Broadway This Spring\n\nBorn in St. Louis on April 20, 1958, Hack studied at CalArts and The American Academy of Dramatic Arts in Los Angeles. In 1978, he was a background dancer in the film version of Grease and appeared in the off-Broadway musical The Coolest Cat in Town .\n\nHack was there when Andrew Lloyd Webber&#x2019;s Cats opened at the Winter Garden Theatre on Oct. 7, 1982, and he portrayed several characters, including Coricopat, Mungojerrie, Carbucketty, Tumblebrutus and Pouncival, over the next five years.\n\nHe toured with Michael Bennett&#x2019;s A Chorus Line for nearly two years and then joined the Broadway production at the Shubert Theatre for one show only &#x2014; its record-breaking 3,389th Great White Way performance on Sept. 29, 1983. (He did Cats that night, too.)\n\nHack started showing up on television in the 1990s on shows including The Trials of Rosie O&#x2019;Neill , Jake and the Fatman , Matlock , Dr. Quinn, Medicine Woman , Married &#x2026; With Children , Seinfeld , Mad About You and Caroline in the City . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nMore recently, he found work in the series American Horror Story , Ratched , Perry Mason and Not Dead Yet , in the miniseries Pam & Tommy and Angelyne and in the films Thor: The Dark World (2013), Fantastic Four (2015), The Happytime Murders (2018) and Amsterdam (2022).\n\nIn 1995, he received an Ovation Award for his performance in an L.A. production of Elmer Rice&#x2019;s venerable drama Counsellor-at-Law , then acted in the radio version for L.A. Theatre Works. And in 2003, he was nominated for another Ovation prize, this one for his turn in the Interact one-man drama Willie&#x2019;s Son .",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/steven-hack-dead-cats-interact-theatre-company-1236762464",
-      "published_at": "2026-11-24T20:35:15+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 471,
-      "extracted_at": "2026-11-24T20:36:42.381478+00:00",
-      "updated_at": "2026-11-24T20:36:42.381478+00:00"
     }
   ]
 }
