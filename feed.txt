@@ -1,9 +1,61 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-24T23:33:03.697Z
+Last Updated: 2026-11-24T23:37:03.675Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
+[1] In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
+Source: Deadline | Status: expanded | Words: 1410
+Published: 2026-11-24T23:34:49+00:00
+URL: https://deadline.com/2026/11/the-disciple-a-wu-tang-fable-director-joanna-natasegara-interview-1237232945
+------------------------------------------------------------
+SUMMARY:
+Wu-Tang Clan has big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the Chicago Bears (U2 will do the halftime honors for the Thanksgiving Eve game in LA between the Green Bay Packers and the Los Angeles Rams, airing […]
+
+CONTENT / EXTRACTED DETAILS:
+Wu-Tang Clan has big plans for Thanksgiving. The hip-hop legends will be in Detroit to headline the halftime show for the NFL game between the host Lions and the Chicago Bears (U2 will do the halftime honors for the Thanksgiving Eve game in LA between the Green Bay Packers and the Los Angeles Rams, airing on Netflix ).
+
+Wu-Tang, founded in Staten Island, NY, has long been considered one of the most influential groups in music history, with legions of fans worldwide and even their own acolytes known as the Killa Bees, a collective of rappers, producers, singers and others affiliated with the group. Among the most notable Bees: Cilvaringz , aka Tarik Azzougarh , a Dutch Moroccan Wu-Tang superfan turned artist whose connection to the Clan goes back to the late 1990s. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The remarkable story of how Cilvaringz became associated with Wu-Tang and then played a critical role in producing the astonishing one-copy only album Once Upon a Time in Shaolin is told in the documentary The Disciple: A Wu-Tang Fable , now streaming on Netflix. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The Oscar-contending film is directed by Joanna Natasegara, the Academy Award-winning producer of The White Helmets , The Edge of Democracy , Virunga and other acclaimed documentaries. The Disciple premiered at the Sundance Film Festival in January and screened in September at the Telluride Film Festival before debuting on Netflix.
+
+DEADLINE: Have you always been into Wu-Tang? When did you learn about the story of Tarik Azzougarh?
+
+Joanna Natasegara: I grew up in the '90s. It's exactly my era of music&#x2026; Wu-Tang was just something me and my friends were very much into. We would go to clubs and listen to hip hop music, but it was something I just didn't really think about in the scope of my work, clearly for decades, actually. And so, the story [of Tarik/Cilvaringz] itself I hadn't heard of despite it being something that had gone around the world. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+I was on a holiday in Morocco with my family and a script writer friend of mine came for lunch and she said, &#x201C;My brother [Tarik] is having some trouble with his life story and his life rights.&#x201D; And I was like, &#x201C;Okay.&#x201D; I knew he was Moroccan, but I thought [his story] would be something that pertained to North Africa, not to Staten Island. And she said, &#x201C;Do you know the Wu-Tang?&#x201D; I was like, &#x201C;Yeah. I don't really know where this is going.&#x201D; [She said], &#x201C;He's a Killer Bee.&#x201D; And I was like, &#x201C;How is that possible?&#x201D; And so, she told me a little part of the story, but she said, &#x201C;It's so convoluted, complicated, twisty, wonderful. Can I bring him to lunch tomorrow?&#x201D;
+
+So, he came to lunch and honestly, over a three-hour lunch, he told me his whole life story. And not only did I think it was a great story, it just really resonated. We're exactly the same age. He was obviously a migrant growing up in a tiny town in Europe, and a lot of that resonated with me and he was very ambitious to make it [in the music business], and I thought that was really inspiring.
+
+DEADLINE: It's a very complex story to tell as your feature directorial debut. About halfway into The Disciple , you really start to pivot to the sale of the kind of one-off album, Once Upon a Time in Shaolin . But as an audience we really need to understand how it all came together. We need to understand Cilvaringz, Tarik, and that's complicated. So, this is not an easy piece of storytelling to do.
+
+JN: No, no, no, it wasn't&#x2026; I wanted to build the film as a kind of homage to a Wu-Tang album. There's a lot of Easter eggs in the film — if you're a Clan fan, you can see them. But I also wanted the film to work for somebody that didn't know anything about the Wu-Tang. So that's a tricky balance to be able to tell a story that's not too complex, but also dense enough for the mega fans, and there are millions of them.
+
+I was well held by two extremely experienced editors, Chloe Lambourne who cut for For Sama and Chris Dickens who cut for Slumdog Millionaire . And that was a lot of fun.
+
+DEADLINE: The film does work for people who are not steeped in either hip hop or Wu-Tang or martial arts movies or &#x201C;pharma bro&#x201D; Martin Shkreli [who bought the one-copy only album] or other elements of the story.
+
+JN: It's a coming-of-age story and a story about ambition because I think that's what Tarik took from RZA, what RZA took from Shifu [Shaolin monk Shi Yan Ming] and what audiences are seeming to take from Tarik. So, the album in a way is kind of a McGuffin. Obviously, some people are very attracted to know about the machinations of the album, but I'm really interested in the mentorship aspect of the film.
+
+DEADLINE: There's the line that RZA says: &#x201C;Persistence overcomes resistance,&#x201D; and it's wonderful. That motto guided Tarik as a prot&#xE9;g&#xE9; of RZA and Wu-Tang, but it could also apply to you as a filmmaker.
+
+JN: It's great, isn't it? We had t-shirts made.
+
+DEADLINE: Towards the end of the film, you ask Tarik specifically whether producing Once Upon a Time in Shaolin was a career highlight or if it destroyed his career. And his answer is quite interesting, that he doesn't necessarily think of himself as having a career.
+
+JN: I think he's quite honest and reflective in the piece. I thank him for that trust because that's important, isn't it, in documentary? And I think he is reflective about that process, but he's also resilient and knew what that meant to do that [album]. I think they both did, him and RZA, but the discussion [it ignited] was the point [about the value attached to a work of music] and that has worked. People are seeing that stunt and the value of music because of it. And I think it's inspired many other people to do similar things. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+The album was a perfect protest. It was a perfect way to say, why is this piece of music worth less than something that is put in an extraordinary museum? So, I think it was a really clever protest piece, and to that extent it's also worked. We're talking about it years later. So, it's a conversation that's endured and I think is really relevant not only to music now, but also to film or any piece of creative, especially as we move more and more into the dangers of AI. How much less will everything be valued, in fact?
+
+Note: After Martin Shkreli&#x2019;s conviction for fraud, the U.S. government seized his assets, including the one copy of Once Upon a Time in Shaolin encased in its custom-made box. Per a legal agreement, the album will not be available for commercial release until the year 2103. In the interim, it can only be played at limited special events.
+
+DEADLINE: Probably the first question you get asked is, have you listened to the album?
+
+JN: We had a beautiful listening session at Sundance, and then we had another one at Telluride. I haven't heard the whole thing. And it's probably the most frustrating thing about this film&#x2026; I can't show you how good the album is; that's going to be a question for people, but it really is good&#x2026; I still think all of us involved in the film or the album go back and debate, do we hope it's released? Do we not? Is it better than it isn't released? But I would really like people to be able to hear it because it&#x2019;s good.
+
+============================================================
+[2] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-24T23:31:33+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943
@@ -35,7 +87,7 @@ Across all trailers thus far, Avengers: Doomsday has generated a jawdropping 3.3
 The data here comes from WaveMetrix.
 
 ============================================================
-[2] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
+[3] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 8691
 Published: 2026-11-24T23:31:30+00:00
 URL: https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413
@@ -831,7 +883,27 @@ CINEMATIC AND BOX OFFICE ACHIEVEMENT (20 titles)
 &#x201C;You Can See Everything&#x201D; (A24)
 
 ============================================================
-[3] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
+[4] What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take
+Source: CinemaBlend | Status: expanded | Words: 388
+Published: 2026-11-24T23:31:00+00:00
+URL: https://www.cinemablend.com/streaming-news/what-happened-harrison-ford-deckard-after-blade-runner-2049-response-2099-ep
+------------------------------------------------------------
+SUMMARY:
+I can't be the only one who's been wondering, right?
+
+CONTENT / EXTRACTED DETAILS:
+Blade Runner 2049 , in my humble opinion, is a science-fiction masterpiece. The Denis Villeneuve -directed sequel not only expertly builds upon Ridley Scott ’s 1982 film, but it also adds to the mythology in interesting ways. Additionally, the film includes a stellar performance from Harrison Ford , who reprises his role as Rick Deckard. In the near decade since the film’s release, I’ve been wondering about Deckard’s ultimate fate. So, when CinemaBlend spoke to the creator of Blade Runner 2099 , I asked for her take.
+
+Since walking out of the theater after seeing the film for the first time in 2017, I’ve wondered about Deckard and Ana’s fates, especially with the looming war between humans and Replicants. Blade Runner 2099 creator/showrunner Silka Luisa is also a major fan of the franchise and, when she was asked for her take on what happened to Ana and Deckard, she shared some surprising comments with CB:
+
+Considering how big a Blade Runner fan Luisa is, I’m honestly shocked over her not asking Michael Green (who shares 2049 writing credits with Hampton Fancher) for a definitive answer on Deckard and Ana. I can, however, also see Luisa’s point, though, as this franchise does leave certain plot threads open-ended, leading to fan speculation. This answer also tracks with the EP’s approach to 2099 , which is a standalone piece that doesn’t have direct references to its big-screen predecessors.
+
+While Blade Runner ’s ending remains controversial in some circles, the discussions surrounding 2049 ’s conclusion arguably aren’t as tense. Villeneuve’s film went through different alterations during development, and even the ending changed . Fancher previously disclosed that the original plan was for Deckard to die. While that could’ve been powerful (if crafted effectively), I’m fine with Deckard not biting the big one, considering it leaves the door open for a direct sequel. And Silka Luisa is down for that as well:
+
+For right now, though, fans can return to this dark, futuristic universe by way of 2099 . The limited series centers on dying Replicant Blade Runner Olwen (played by Michelle Yeoh ) and Cora (Hunter Schafer), a human posing as a Replicant. While fans won’t be getting answers on Deckard, the show covers plenty of ground in other respects. And, who knows, maybe we’ll actually get that 2049 sequel one day.
+
+============================================================
+[5] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-24T23:30:00+00:00
 URL: https://comicbook.com/comics/news/peach-momokos-marvel-art-book-kickstarter-pulls-in-a-staggering-130000-in-just-its-first-hour
@@ -857,7 +929,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Patrick Stewart Was ‘Struggling With His Health’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
+[6] Patrick Stewart Was ‘Struggling With His Health’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-24T23:27:20+00:00
 URL: https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522
@@ -881,7 +953,7 @@ Stewart died after a brief battle with Alzheimer&#x2019;s and Lewy Body Dementia
 &#x201C;Avengers: Doomsday&#x201D; hits theaters on Dec. 18.
 
 ============================================================
-[5] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
+[7] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-24T23:20:21+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-reveals-how-mcu-doctor-doom-will-be-different-from-tony-stark-in-avengers
@@ -907,7 +979,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
+[8] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 485
 Published: 2026-11-24T23:18:03+00:00
 URL: https://comicbook.com/gaming/news/ps5-games-shut-down-servers-november-2026
@@ -931,7 +1003,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
+[9] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
 Source: Deadline | Status: expanded | Words: 390
 Published: 2026-11-24T23:17:03+00:00
 URL: https://deadline.com/2026/11/adam-driver-x-men-reboot-mister-sinister-marvel-studios-1237232938
@@ -959,7 +1031,7 @@ Earlier this year, Driver talked to Jimmy Kimmel about joining the MCU after rej
 He added, "I was a big fan. I mean, I was a fan of the other things too. But this one felt like a right time, and then it's X-Men."
 
 ============================================================
-[8] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
+[10] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
 Source: Deadline | Status: expanded | Words: 420
 Published: 2026-11-24T23:08:19+00:00
 URL: https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942
@@ -985,7 +1057,7 @@ As has been typical lately, the film slate garnered much more attention &#x2014;
 The mystery thriller Heartland came in second place on the English film list with 14.8 million views.
 
 ============================================================
-[9] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
+[11] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-24T23:01:00+00:00
 URL: https://www.cinemablend.com/movies/ben-stiller-skyler-gisondo-night-at-the-museum-together-focker-in-law-full-circle-moment
@@ -1001,7 +1073,7 @@ Again, while Skyler Gisondo was a successful child actor , Night at the Museum: 
 Knowing about Stiller and Gisondo’s history certainly played into my enjoyment of the movie, especially since the last time I saw them together, Gisondo was a kid. Now, he’s all grown up, and that fact certainly plays into Focker In-Law .
 
 ============================================================
-[10] 3 Things You Need to Know for Sakamoto Days Season 2
+[12] 3 Things You Need to Know for Sakamoto Days Season 2
 Source: ComicBook.com | Status: expanded | Words: 742
 Published: 2026-11-24T22:56:00+00:00
 URL: https://comicbook.com/anime/list/3-things-you-need-to-know-for-sakamoto-days-season-2
@@ -1033,7 +1105,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
+[13] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 440
 Published: 2026-11-24T22:46:09+00:00
 URL: https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478
@@ -1055,7 +1127,7 @@ Alex Lebovici and Michael Learner will produce for Hammerstone Studios, with Ada
 Black Bear was founded in 2011 as independent production studio and recently launched a domestic distribution arm. The company's latest theatrical release, the offbeat romantic dramedy "Wicker," has been a box office winner with $40 million globally to date. Black Bear's upcoming slate includes Guy Ritchie&#x2019;s "Wife & Dog," starring Benedict Cumberbatch and Rosamund Pike; and David Leitch&#x2019;s "Jason Statham Stole My Bike" led by Statham and Hannah Waddingham. It also recently nabbed Bill Hader&#x2019;s feature directing debut, "They Know," a psychological horror film starring Hader and Linda Cardellini.
 
 ============================================================
-[12] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
+[14] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
 Source: ComicBook.com | Status: expanded | Words: 533
 Published: 2026-11-24T22:39:00+00:00
 URL: https://comicbook.com/collectibles/news/batmans-nemesis-looks-even-more-terrifying-without-his-iconic-makeup-in-this-prototype-action-figure
@@ -1075,7 +1147,7 @@ What really stands out to me about this prototype is how many different base col
 Which is your favorite version of The Joker? Let us know in the comments.
 
 ============================================================
-[13] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
+[15] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
 Source: The Hollywood Reporter | Status: expanded | Words: 438
 Published: 2026-11-24T22:37:56+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567
@@ -1109,7 +1181,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 Visit Sling.com to check station availability, and compare streaming packages with THR 's Sling breakdown here .
 
 ============================================================
-[14] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
+[16] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
 Source: CinemaBlend | Status: expanded | Words: 275
 Published: 2026-11-24T22:31:00+00:00
 URL: https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions
@@ -1129,7 +1201,7 @@ This is becoming a pattern. Mackie essentially gave the same answer to gave Josh
 I love watching Anthony Mackie navigate all this. With Robert Downey Jr. returning to Marvel as Doctor Doom and so many heroes converging for the next Avengers movie, fans have plenty of questions. Mackie has apparently decided the title will answer most of them.
 
 ============================================================
-[15] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
+[17] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
 Source: ComicBook.com | Status: expanded | Words: 536
 Published: 2026-11-24T22:29:44+00:00
 URL: https://comicbook.com/tv-shows/news/blade-runner-2099-rotten-tomatoes-score-is-a-franchise-low-but-its-not-bad-news-at-all
@@ -1153,7 +1225,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
+[18] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
 Source: Variety | Status: expanded | Words: 363
 Published: 2026-11-24T22:24:06+00:00
 URL: https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441
@@ -1179,7 +1251,7 @@ Among the balloons that are set to take flight are Sorcerer&#x2019;s Apprentice 
 Another highlight is Snoopy, who returns to the parade in a new role as Joe Cool. &#x201C;Joe Cool is what happens when Snoopy is pretending to be a student at school. He&#x2019;s never been in the parade before in this form, which makes it really fun,&#x201D; Kennedy said. &#x201C;We&#x2019;re excited to bring him and Woodstock together. I was on the Parade Studio floor yesterday and saw an arm and an ear being worked on.&#x201D;
 
 ============================================================
-[17] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
+[19] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
 Source: ComicBook.com | Status: expanded | Words: 588
 Published: 2026-11-24T22:07:00+00:00
 URL: https://comicbook.com/anime/feature/22-years-ago-studio-ghiblis-most-whimsical-anti-war-movie-was-released-it-holds-up-even-today
@@ -1205,7 +1277,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
+[20] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
 Source: ComicBook.com | Status: expanded | Words: 670
 Published: 2026-11-24T22:02:57+00:00
 URL: https://comicbook.com/tv-shows/news/the-rings-of-power-officially-renewed-for-season-4-at-prime-video-but-whats-the-story
@@ -1233,7 +1305,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
+[21] ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
 Source: Variety | Status: expanded | Words: 1251
 Published: 2026-11-24T22:00:00+00:00
 URL: https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506
@@ -1297,7 +1369,7 @@ Spencer completed the transformation by leaning into the showgirl-inspired makeu
 "[Drusilla's] like a performer. When you really do think about it, she&#x2019;s a narcissist. 'This is me. I&#x2019;m bold. I&#x2019;m dominant,'" Spencer says. "We had all the showgirls &#x2014; all of those big colors and the feathers and everything else, so it's almost like a carnival of entertainers coming together on the stage. The set design, the colors, all the background people in the crowd are so, so important. What you&#x2019;re portraying is a performance. It&#x2019;s entertainment, and that&#x2019;s who they are."
 
 ============================================================
-[20] Path of Exile 2's New Classes Are Bringing Some Much-Needed Creativity to ARPG Combat
+[22] Path of Exile 2's New Classes Are Bringing Some Much-Needed Creativity to ARPG Combat
 Source: ComicBook.com | Status: expanded | Words: 1021
 Published: 2026-11-24T22:00:00+00:00
 URL: https://comicbook.com/gaming/feature/path-of-exile-2s-new-classes-are-bringing-some-much-needed-creativity-to-arpg-combat
@@ -1329,7 +1401,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Cyclops May Have Saved the World, But His Sacrifice Could Be the X-Men's Worst Nightmare
+[23] Cyclops May Have Saved the World, But His Sacrifice Could Be the X-Men's Worst Nightmare
 Source: ComicBook.com | Status: expanded | Words: 841
 Published: 2026-11-24T21:58:00+00:00
 URL: https://comicbook.com/comics/feature/cyclops-may-have-saved-the-world-but-his-sacrifice-could-be-the-x-mens-worst-nightmare
@@ -1361,7 +1433,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Steven Hack, 'American Horror Story' Actor and Original Cast Member of ‘Cats,’ Dies at 68
+[24] Steven Hack, 'American Horror Story' Actor and Original Cast Member of ‘Cats,’ Dies at 68
 Source: Variety | Status: expanded | Words: 351
 Published: 2026-11-24T21:53:08+00:00
 URL: https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417
@@ -1385,7 +1457,7 @@ He was born in St. Louis before attending college at the California Institute of
 The company concluded its post, &#x201C;As we remember Steven, we celebrate not only his many contributions to our company but also the joy of knowing and working with him. He will always hold a special place in Interact&#x2019;s history and in the hearts of those who knew him. We extend our heartfelt condolences to his family, friends and all who loved him. May his memory be a blessing.&#x201D;
 
 ============================================================
-[23] IATSE Reaches Tentative Agreement for Broadway Stagehands
+[25] IATSE Reaches Tentative Agreement for Broadway Stagehands
 Source: The Hollywood Reporter | Status: expanded | Words: 280
 Published: 2026-11-24T21:52:47+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558
@@ -1407,7 +1479,7 @@ IATSE said the issues still in contention include wages and a gender pay gap tha
 Both Actors&#x2019; Equity and the American Federation of Musicians Local 802 also voted to authorize strikes last year, and came very close to doing so, before striking new contracts with the Broadway League.
 
 ============================================================
-[24] Men’s Wearhouse Kicks Off Black Friday With Designer Discounts on Suits and Tuxedos — Just in Time For Awards Season
+[26] Men’s Wearhouse Kicks Off Black Friday With Designer Discounts on Suits and Tuxedos — Just in Time For Awards Season
 Source: Variety | Status: expanded | Words: 247
 Published: 2026-11-24T21:51:07+00:00
 URL: https://variety.com/2026/shopping/news/mens-wearhouse-black-friday-designer-deals-shop-online-1236957432
@@ -1429,7 +1501,7 @@ Beyond formalwear, the retailer&#x2019;s holiday sale is a good opportunity to s
 Shop the full Men&#x2019;s Wearhouse Black Friday sale here .
 
 ============================================================
-[25] ‘Coward’ Trailer: Love Blossoms In The Trenches In Lukas Dhont’s Acclaimed WWI Drama
+[27] ‘Coward’ Trailer: Love Blossoms In The Trenches In Lukas Dhont’s Acclaimed WWI Drama
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-24T21:50:03+00:00
 URL: https://theplaylist.net/coward-trailer-lukas-dhont-wwi-romance-20261124
@@ -1441,7 +1513,7 @@ CONTENT / EXTRACTED DETAILS:
 Having already explored the pressures of masculinity and the devastating consequences of policing male intimacy in his Oscar-nominated drama “ Close ,” Belgian filmmaker Lukas Dhont takes those concerns to the battlefield with “ Coward .” An intimate love story set against the horrors of World War I, the film arrives in theaters on Christmas Day via MUBI , which, following the release of the official trailer last month, has unveiled a new look at the acclaimed drama. Continue reading ‘Coward’ Trailer: Love Blossoms In The Trenches In Lukas Dhont’s Acclaimed WWI Drama at The Playlist.
 
 ============================================================
-[26] T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple's New iPhone Duo and iPhone 18 Pro
+[28] T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple's New iPhone Duo and iPhone 18 Pro
 Source: Variety | Status: expanded | Words: 382
 Published: 2026-11-24T21:49:52+00:00
 URL: https://variety.com/2026/shopping/news/t-mobile-holiday-deals-2026-apple-iphone-duo-iphone-18-pro-1236957422
@@ -1465,7 +1537,7 @@ Beyond Apple's newest releases, T-Mobile's early holiday promotions include $830
 Shop T-Mobile's holiday offerings here .
 
 ============================================================
-[27] Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock &#038; More
+[29] Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock &#038; More
 Source: Deadline | Status: expanded | Words: 426
 Published: 2026-11-24T21:49:34+00:00
 URL: https://deadline.com/2026/11/black-friday-streaming-deals-disney-hbo-max-paramount-peacock-1237231785
@@ -1491,7 +1563,7 @@ Amazon Prime Video has had Black Friday deals going since early November, an inc
 Netflix, the largest global streamer, is famous for its reluctance to take part in bundles or engage in frequent discounting. Befitting that strategy, it is not offering any Black Friday deals.
 
 ============================================================
-[28] Alfonso Ribeiro on the "Wild" Ride of 'DWTS' Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season
+[30] Alfonso Ribeiro on the "Wild" Ride of 'DWTS' Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season
 Source: The Hollywood Reporter | Status: expanded | Words: 2880
 Published: 2026-11-24T21:46:52+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413
@@ -1575,7 +1647,7 @@ Not a clue. I really don't know. It is quite wild to me because this is a very d
 The season 35 finale of DWTS airs live Tuesdays at 8 p.m., simulcasting across ABC and Disney+ and streaming the next day on Hulu. Read all of THR &#x2018;s DWTS coverage here . This interview was edited and condensed for clarity.
 
 ============================================================
-[29] Documentary Filmmaking Legend Frederick Wiseman’s Complete Works to Be Distributed by Janus Films in North America (EXCLUSIVE)
+[31] Documentary Filmmaking Legend Frederick Wiseman’s Complete Works to Be Distributed by Janus Films in North America (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 611
 Published: 2026-11-24T21:46:02+00:00
 URL: https://variety.com/2026/film/news/frederick-wiseman-complete-works-janus-films-documentary-1236957431
@@ -1597,7 +1669,7 @@ Wiseman&#x2019;s early films, from &#x201C;Titicut Follies&#x201D; (1967) throug
 The full list of titles acquired: &#x201C;Titicut Follies&#x201D; (1967), &#x201C;High School&#x201D; (1968,) &#x201C;Law and Order&#x201D; (1969), &#x201C;Hospital&#x201D; (1970), &#x201C;Basic Training&#x201D; (1971), &#x201C;Essene&#x201D; (1972), &#x201C;Juvenile Court&#x201D; (1973), &#x201C;Primate&#x201D; (1974), &#x201C;Welfare&#x201D; (1975), &#x201C;Meat&#x201D; (1976), &#x201C;Canal Zone&#x201D; (1977), &#x201C;Sinai Field Mission&#x201D; (1978), &#x201C;Manoeuvre&#x201D; (1979), &#x201C;Model&#x201D; (1980), &#x201C;The Store&#x201D; (1983), &#x201C;Racetrack&#x201D; (1985), &#x201C;Blind&#x201D; (1986), &#x201C;Deaf&#x201D;(1986), &#x201C;Adjustment & Work&#x201D; (1986), &#x201C;Multi-handicapped&#x201D; (1986), &#x201C;Missile&#x201D; (1988), &#x201C;Near Death&#x201D; (1989), &#x201C;Central Park&#x201D; (1990), &#x201C;Aspen&#x201D; (1991), &#x201C;Zoo&#x201D; (1993), &#x201C;High School II&#x201D; (1994), &#x201C;Ballet&#x201D; (1995), &#x201C;La Com&#xE9;die-Fran&#xE7;aise ou L'amour jou&#xE9;&#x201D; (1996), &#x201C;Public Housing&#x201D; (1997), &#x201C;Belfast, Maine&#x201D; (1999), &#x201C;Domestic Violence&#x201D; (2001), &#x201C;Domestic Violence 2&#x201D; (2002), &#x201C;The Last Letter&#x201D; (2002), &#x201C;State Legislature&#x201D; (2007), &#x201C;La Danse: The Paris Opera Ballet&#x201D; (2009), &#x201C;Boxing Gym&#x201D; (2010), &#x201C;Crazy Horse&#x201D; (2011), &#x201C;At Berkeley&#x201D; (2013), &#x201C;National Gallery&#x201D; (2014), &#x201C;In Jackson Heights&#x201D; (2015), &#x201C;Ex Libris: The New York Public Library&#x201D; (2017), &#x201C;Monrovia, Indiana&#x201D; (2018), &#x201C;City Hall&#x201D; (2020), &#x201C;A Couple&#x201D; (2022) and &#x201C;Menus-Plaisirs, les Troisgros&#x201D; (2023).
 
 ============================================================
-[30] Chris Evans Took Secret Marvel Meetings for Years After ‘Avengers: Endgame’ to Discuss His Return Despite Telling the Press He Was ‘Happily Retired’ From the MCU
+[32] Chris Evans Took Secret Marvel Meetings for Years After ‘Avengers: Endgame’ to Discuss His Return Despite Telling the Press He Was ‘Happily Retired’ From the MCU
 Source: Variety | Status: expanded | Words: 411
 Published: 2026-11-24T21:45:00+00:00
 URL: https://variety.com/2026/film/news/chris-evans-secret-marvel-meetings-steve-rogers-mcu-return-1236957301
@@ -1621,7 +1693,7 @@ When audiences last saw Steve, he chose to travel back to the past to live a ful
 Watch the latest trailer for &#x201C;Avengers: Doomsday,&#x201D; which opens in theaters on Dec. 18.
 
 ============================================================
-[31] ‘Paper Tiger’ Final Trailer: Adam Driver, Miles Teller &#038; Scarlett Johansson Chase A Poisoned American Dream In James Gray’s Crime Drama
+[33] ‘Paper Tiger’ Final Trailer: Adam Driver, Miles Teller &#038; Scarlett Johansson Chase A Poisoned American Dream In James Gray’s Crime Drama
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-24T21:41:52+00:00
 URL: https://theplaylist.net/paper-tiger-final-trailer-james-gray-adam-driver-miles-teller-20261124
@@ -1633,7 +1705,7 @@ CONTENT / EXTRACTED DETAILS:
 Good intentions can have devastating consequences in the films of James Gray , and his latest, “ Paper Tiger ,” is one of the most emotionally wrenching expressions of that idea. Having premiered in competition at Cannes and opened the New York Film Festival earlier this fall, the acclaimed crime drama is now playing nationwide, and NEON has released a final trailer to entice audiences into theaters. Continue reading ‘Paper Tiger’ Final Trailer: Adam Driver, Miles Teller & Scarlett Johansson Chase A Poisoned American Dream In James Gray’s Crime Drama at The Playlist.
 
 ============================================================
-[32] Broadway Producers &#038; Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike
+[34] Broadway Producers &#038; Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike
 Source: Deadline | Status: expanded | Words: 489
 Published: 2026-11-24T21:38:59+00:00
 URL: https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887
@@ -1661,7 +1733,7 @@ In its announcement about today's deal, IATSE added, "Local 764 members have bee
 Local 764 members, according to the union, are seeking an agreement "that continues progress toward pay equity and does not widen that longstanding disparity.
 
 ============================================================
-[33] GTA 6 Analysis Says the Game Plays Better on Xbox Than PS5
+[35] GTA 6 Analysis Says the Game Plays Better on Xbox Than PS5
 Source: ComicBook.com | Status: expanded | Words: 905
 Published: 2026-11-24T21:34:36+00:00
 URL: https://comicbook.com/gaming/news/gta-6-analysis-says-the-game-plays-better-on-xbox-than-ps5
@@ -1695,7 +1767,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] I Get Why Red Rising Fans Want Joseph Zada To Play A Certain Gold, But Wait A Second
+[36] I Get Why Red Rising Fans Want Joseph Zada To Play A Certain Gold, But Wait A Second
 Source: CinemaBlend | Status: expanded | Words: 544
 Published: 2026-11-24T21:31:00+00:00
 URL: https://www.cinemablend.com/movies/red-rising-fans-want-joseph-zada-movie-cast-character-golds
@@ -1719,7 +1791,7 @@ Nah. I can't even picture it... but it'd be fun to see his take on the role.
 I'm going to cross Pax off the list right away. Even if Zada bulked up a lot for the part, I picture a guy with the size and personality of a jovial (or ferocious, when necessary) bear for the youngest Telemanus son. However, Roque would be an interesting option. I don't think Zada fits how I imagine Roque to look, but I do think he'd have an interesting take on the thoughtful character.
 
 ============================================================
-[35] 11 Oscars Questions For The 2027 Season That Should Be Top Of Mind
+[37] 11 Oscars Questions For The 2027 Season That Should Be Top Of Mind
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-24T21:30:50+00:00
 URL: https://theplaylist.net/11-oscars-questions-for-the-2027-season-that-should-be-top-of-mind-20261124
@@ -1731,7 +1803,7 @@ CONTENT / EXTRACTED DETAILS:
 The business side of Hollywood is winding down as the end of the year gets closer. "Let's circle back in the new year" is a common refrain for many on the development and financing side of the industry, but awards season (and box office, for that matter) is in full force. December will bring the Gotham Awards ceremony, Golden Globes, Critics' Choice and Independent Spirit Awards nominations, year-end critics' group honors, as well as the unveiling of the 2027 Sundance Film Festival slate. Continue reading 11 Oscars Questions For The 2027 Season That Should Be Top Of Mind at The Playlist.
 
 ============================================================
-[36] Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’
+[38] Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’
 Source: The Playlist | Status: summary_only | Words: 120
 Published: 2026-11-24T21:29:49+00:00
 URL: https://theplaylist.net/patrick-stewart-avengers-doomsday-secret-wars-marvel-20261124
@@ -1743,7 +1815,7 @@ CONTENT / EXTRACTED DETAILS:
 While “ Avengers: Doomsday ” will mark Patrick Stewart ’s final screen performance, Marve l had originally hoped to bring the actor back for both of its upcoming Avengers films. According to a new report from Entertainment Weekly, Stewart was offered roles in both ‘Doomsday’ and “ Avengers: Secret Wars ,” but agreed to appear in only the former. Stewart, who died in October at 86, had played Professor Charles Xavier for more than two decades, originating the role in the 2000s’ “ X-Men ” before seemingly bidding farewell to the character in James Mangold ’s “ Logan ” in 2017. Continue reading Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’ at The Playlist.
 
 ============================================================
-[37] Broadway Box Office: 'Hamilton' Rises Back Up to $3M, 'Here There are Blueberries' Cracks $1M
+[39] Broadway Box Office: 'Hamilton' Rises Back Up to $3M, 'Here There are Blueberries' Cracks $1M
 Source: The Hollywood Reporter | Status: expanded | Words: 275
 Published: 2026-11-24T21:25:33+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-rises-back-up-to-3m-here-there-are-blueberries-cracks-1m-1236762460
@@ -1767,7 +1839,7 @@ Wanted, a new musical which opened Nov. 8, also saw a dip in capacity down to 85
 Broadway&#x2019;s holiday fare has not yet taken off with consumers, with The Blue Man Group playing to 60 percent capacity, illusionist show Now You See Me playing to 77 percent capacity and radio play It&#x2019;s a Wonderful Life playing to 76 percent.
 
 ============================================================
-[38] TV Ratings: NBA Logs Winning Streak in First Month of the Season
+[40] TV Ratings: NBA Logs Winning Streak in First Month of the Season
 Source: The Hollywood Reporter | Status: expanded | Words: 332
 Published: 2026-11-24T21:19:54+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311
@@ -1789,7 +1861,7 @@ The first eight games on Prime Video have averaged 2.05 million viewers, and ESP
 Prime Video has the youngest audience of the NBA's three national media partners (the same is true for Prime relative to other NFL broadcasters); its median viewer age is a little under 46. ESPN and NBC (not including Peacock viewers) have a median age of about 53 for NBA games.
 
 ============================================================
-[39] Stephen King Was Outed as Richard Bachman Thanks to This Book That Was Turned Into a Movie 30 Years Ago
+[41] Stephen King Was Outed as Richard Bachman Thanks to This Book That Was Turned Into a Movie 30 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 915
 Published: 2026-11-24T21:14:00+00:00
 URL: https://comicbook.com/movies/feature/stephen-king-was-outed-as-richard-bachman-thanks-to-this-book-that-was-turned-into-a-movie-30-years-ago
@@ -1821,7 +1893,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] ‘Paper Tiger’ Director James Gray Calls Out ‘Dumb, Ethically, Morally Bankrupt’ Festival Competitions and Quips That He’s Giving Up on Cannes: ‘I’ve Learned My Lesson’
+[42] ‘Paper Tiger’ Director James Gray Calls Out ‘Dumb, Ethically, Morally Bankrupt’ Festival Competitions and Quips That He’s Giving Up on Cannes: ‘I’ve Learned My Lesson’
 Source: Variety | Status: expanded | Words: 930
 Published: 2026-11-24T21:05:40+00:00
 URL: https://variety.com/2026/film/global/paper-tiger-director-james-gray-festival-competition-cannes-1236957123
@@ -1867,7 +1939,7 @@ Gray is among the star-studded lineup participating in the Conversations series 
 The Marrakech Film Festival runs Nov. 20 &#x2013; 28.
 
 ============================================================
-[41] How Amin Joseph Brought "Humanity" to Sonny Liston in 'The Greatest'
+[43] How Amin Joseph Brought "Humanity" to Sonny Liston in 'The Greatest'
 Source: The Hollywood Reporter | Status: expanded | Words: 861
 Published: 2026-11-24T20:56:02+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/who-plays-sonny-liston-in-the-greastest-meet-amin-joseph-1236759934
@@ -1915,7 +1987,7 @@ As heavy as Joseph's new (pure muscle) weight was, what weighed most on the real
 All episodes of The Greatest are currently available on Amazon Prime Video.
 
 ============================================================
-[42] 'Inter Alia' Starring Rosamund Pike Sells Out; 'Hamilton' With Christopher Jackson Tops $3M - Broadway Box Office
+[44] 'Inter Alia' Starring Rosamund Pike Sells Out; 'Hamilton' With Christopher Jackson Tops $3M - Broadway Box Office
 Source: Deadline | Status: expanded | Words: 801
 Published: 2026-11-24T20:52:30+00:00
 URL: https://deadline.com/2026/11/broadway-box-office-rosamund-pike-christopher-jackson-1237232642
@@ -1951,7 +2023,7 @@ In the 26th week of the 2026-27 season, Broadway has grossed $843,441,665 season
 All figures courtesy of The Broadway League. For more box office information visit the League&#x2019;s web .
 
 ============================================================
-[43] Parke's Viral Sweatshirts Get Rare Price Drop for Black Friday
+[45] Parke's Viral Sweatshirts Get Rare Price Drop for Black Friday
 Source: The Hollywood Reporter | Status: expanded | Words: 355
 Published: 2026-11-24T20:51:27+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/parke-black-friday-sale-2026-discount-sweatshirt-archives-1236762383
@@ -1975,7 +2047,7 @@ As for the Parke Archives: The Keepsake Collection , pieces are now live in limi
 Related: Our Top 30 Holiday Gifts of 2026
 
 ============================================================
-[44] Kelly Rowland Joins Hulu's 'Reasonable Doubt' For Season 5
+[46] Kelly Rowland Joins Hulu's 'Reasonable Doubt' For Season 5
 Source: Deadline | Status: expanded | Words: 556
 Published: 2026-11-24T20:44:58+00:00
 URL: https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824
@@ -2001,7 +2073,7 @@ The official synopsis: After a brutal attack leaves Jax&#x2019;s family and newl
 In addition to Mohamed Hunter, executive producers also include Kerry Washington alongside Pilar Savone for Simpson Street, Larry Wilmore for Wilmore Films, Tamara Gregory, Anton Cropper, Lena Cordina and Erika L. Johnson. Shawn Holley, Jon Leshay and Zahir McGhee serve as co-executive producers. The series hails from Onyx Collective and is produced by 20th Television, a part of Disney Television Studios.
 
 ============================================================
-[45] Al Gore To Purchase Hometown Paper Carthage Courier
+[47] Al Gore To Purchase Hometown Paper Carthage Courier
 Source: Deadline | Status: expanded | Words: 361
 Published: 2026-11-24T20:44:56+00:00
 URL: https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838
@@ -2025,7 +2097,7 @@ The publication also announced that Roger Wells would become publisher, succeedi
 Gore previously was co-owner of Current TV, the cable channel that initially specialized in user-generated content and later switched to news programming and a lineup of progressive hosts. The channel was sold to Al Jazeera Media in 2013.
 
 ============================================================
-[46] Ariana Grande’s Eternal Sunshine Tour Is Going To Peacock And Fans Are Freaking Out
+[48] Ariana Grande’s Eternal Sunshine Tour Is Going To Peacock And Fans Are Freaking Out
 Source: CinemaBlend | Status: expanded | Words: 261
 Published: 2026-11-24T20:38:11+00:00
 URL: https://www.cinemablend.com/streaming-news/ariana-grande-eternal-sunshine-tour-peacock-fans-freaking-out
@@ -2043,7 +2115,7 @@ Yeah, the hype is real! Because Grande announced she’d be stepping back from t
 Peacock isn’t known for putting any of their originals in theaters, so better luck next time Arianators! However, you can support Grande at cinemas with Focker-In-Law , hitting theaters on Wednesday . And, for the many people who didn’t get to go to her sold-out tour, it’s pretty awesome that The Eternal Sunshine tour is coming to TVs in just a couple of weeks.
 
 ============================================================
-[47] Marvel Confirms Patrick Stewart Was Offered a Role in Avengers: Secret Wars
+[49] Marvel Confirms Patrick Stewart Was Offered a Role in Avengers: Secret Wars
 Source: ComicBook.com | Status: expanded | Words: 573
 Published: 2026-11-24T20:36:44+00:00
 URL: https://comicbook.com/movies/news/marvel-confirms-patrick-stewart-was-offered-a-role-in-avengers-secret-wars
@@ -2075,7 +2147,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68
+[50] Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68
 Source: The Hollywood Reporter | Status: expanded | Words: 471
 Published: 2026-11-24T20:35:15+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/steven-hack-dead-cats-interact-theatre-company-1236762464
@@ -2101,92 +2173,4 @@ Hack started showing up on television in the 1990s on shows including The Trials
 More recently, he found work in the series American Horror Story , Ratched , Perry Mason and Not Dead Yet , in the miniseries Pam & Tommy and Angelyne and in the films Thor: The Dark World (2013), Fantastic Four (2015), The Happytime Murders (2018) and Amsterdam (2022).
 
 In 1995, he received an Ovation Award for his performance in an L.A. production of Elmer Rice&#x2019;s venerable drama Counsellor-at-Law , then acted in the radio version for L.A. Theatre Works. And in 2003, he was nominated for another Ovation prize, this one for his turn in the Interact one-man drama Willie&#x2019;s Son .
-
-============================================================
-[49] 5 Best Non-Superhero Comics Going Today and 1 Is Being Made Into a Movie
-Source: ComicBook.com | Status: expanded | Words: 1182
-Published: 2026-11-24T20:33:00+00:00
-URL: https://comicbook.com/comics/list/5-best-non-superhero-comics-going-today-and-1-is-being-made-into-a-movie
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Image Comics Some of the best comics being published today have nothing to do with Marvel Comics and DC superheroes, with some examples being horror titles about a zombie whose heart starts beating again, several killers set loose in a small town on Halloween, or an entire title centered around conspiracy theories. While superhero comics dominate the […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Some of the best comics being published today have nothing to do with Marvel Comics and DC superheroes, with some examples being horror titles about a zombie whose heart starts beating again, several killers set loose in a small town on Halloween, or an entire title centered around conspiracy theories. While superhero comics dominate the sales charts, there are a lot of creator-owned titles and imprint horror, sci-fi, and fantasy stories that people are talking about today. Image Comics remains the core publisher for many of these titles, but it isn't the only company that pushes these non-superhero books.
-
-There are some big-time creators working in this space today, including James Tynion IV and Deniz Camp, and they are proving that great stories can have nothing to do with superheroes and still stand tall above even tales about men in capes. Some of these books are even new enough that you can catch up on them now without digging into years of backstory. One of these stories is even big enough that it is in development to become a Hollywood movie.
-
-Bleeding Hearts is a Vertigo series, the first new title from the DC Vertigo relaunch . The first issue went on sale in February 2026, and there have been nine issues released to date for the series. Bleeding Hearts is a series by Deniz Camp and Stipan Morian that follows a zombie named Poke whose heart starts beating again. The world in the comics is quirky, with the zombies actually having an intelligence and talking to each other, but still having an insatiable desire to eat the living.
-
-The story is set about 10 years after humanity falls, when zombies are the dominant life form. The twist comes at the start, when Poke's heart starts beating again, and he sees the living as friends instead of food, which is a problem since he is now in the minority, and the other zombies don't take kindly to his new feelings. Later issues add human survivors, and the series remains one of the most original and quirky zombie stories going today.
-
-The Department of Truth is an Image Comics series by James Tynion IV and Martin Simmonds that launched in 2020. It is still ongoing to this day, with issue #39 starting a new story arc. The story follows FBI agent Cole Turner, who learns that conspiracy theories are real and is pulled into a battle to decide reality for every person on Earth. In the series, the Department of Truth is nothing new, and it traces back to beliefs recorded by Pope Sylvester II in 1000 A.D.
-
-The book has a high-concept premise, with the idea that if enough people believe in a conspiracy theory, myth, or alternate fact, it can manifest itself into existence, or even rewrite reality. The comics have a secret government agency bring in Turner to stop dangerous ideas from coming into existence, while there are rival forces that fight to shape what the world will turn into if they are successful. Tynion brings in several real-world theories, from JFK's assassination and the Satanic Panic to things like Bigfoot, making this a smart, surreal, and entertaining read.
-
-Crowbound is a new Image Comics series from Jeff Lemire ( Sweet Tooth ) and Dustin Nguyen ( Little Monsters ). The first issue went on sale in September 2026, and it is already earning great reviews, which should come as no surprise for Lemire. There have only been three issues so far, but this series is already a fantastic story, and it can only go up from here. This is a post-apocalyptic dark fantasy where children start working in the Factory at age 13. They work to help maintain a wall to keep an alien being known as the Eater out, and are ruled by evil men who have taken over as the ruling class.
-
-However, everything changes when a woman named Rose has her daughter taken away a year before the girl turns 13 and is killed trying to save her. Rose then returns from the dead, now bound to an ancient spirit known as the Scarecrow Queen, and she sets out to save her daughter and free her people before a man connected to an evil being can stop her. This is a dark and disturbing story that is one of the most promising books available today.
-
-Assorted Crisis Events is an Image Comics series by Deniz Camp and Eric Zawadzki that started publication in 2025. This ongoing series has nine issues so far and is an anthology comic book series set in a world where time is unraveling, with each issue following a new character and a figure called the Broken Man appearing in every issue. The series is a sci-fi high-concept idea with a reality where time is collapsing, and the past, present, and future make it hard to keep track of what is going on. However, each issue has normal people experiencing the phenomenon and shows how it affects their real lives.
-
-This series mixes apocalyptic events, time loops, dinosaurs from the past, robots from the future, and even displaced historical figures, and shows how regular people deal with it all. There is also a strong sense of how modern-day crises weigh on people, with looks at trauma, memory loss, relentless disasters in the news, and economic pressures breaking down society. It is one of the most experimental and thought-provoking comics being published today.
-
-Exquisite Corpses is an Image Comics series co-created by James Tynion IV and Michael Walsh. The series is an action-horror story with a dozen killers dropped into a small town on Halloween with the instructions to kill each other. Each killer was chosen by 12 of the 13 wealthy families who control everything (the family hosting the event doesn't get a killer to compete), and whichever killer survives gives the family that hired him leadership for the next five years. However, in this series, there are people in the town who fight back.
-
-The first season ran 13 issues and ended in May 2026, but three of the killers got spin-off comics. There is a sequel that will take place in a new town and is set to arrive in 2027. The series has proven to be so successful that it is being developed into a movie by Blumhouse Atomic, although there is no word on a director yet. While the first season is over, the spin-offs added more stories, and a second season will continue the comic series, making this a perfect non-superhero comic book for anyone who loves blood-soaked action.
-
-What is your favorite current non-superhero comic book series? Let us know any we might have missed in the comments below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] The Pulitzer-Winning Play 'Purpose' Finally Came to Los Angeles. But That Doesn't Mean It's Gone Hollywood.
-Source: The Hollywood Reporter | Status: expanded | Words: 1512
-Published: 2026-11-24T20:31:40+00:00
-URL: https://www.hollywoodreporter.com/lifestyle/arts/branden-jacobs-jenkins-purpose-playwright-never-adapt-his-work-1236761628
-------------------------------------------------------------
-SUMMARY:
-Branden Jacobs-Jenkins reunites the entire company, including Kara Young and director Phylicia Rashad, for a sold-out run at the Geffen Playhouse.
-
-CONTENT / EXTRACTED DETAILS:
-Branden Jacobs-Jenkins is, famously, a tinkerer. His plays go through long, thoughtful development processes. He first wrote Appropriate a decade before it became the 2024 Tony Award-winning play starring Sarah Paulson. His next work, Purpose , went through a nuanced workshop with the actors before it premiered at the Steppenwolf Theatre in Chicago; the company finalized the ending one day before the first performance. "They were walking on stage with pages in hand, that's how fresh it was," says Jacobs-Jenkins. "But they say the great writers all rewrite &#x2014;&#xA0;Arthur Miller was rewriting his plays at the end of his life. Shakespeare obviously was rewriting King Lear over and over again." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories Lifestyle 'The Comedy About Spies' to Open on Broadway This Spring Lifestyle 'Birthright,' About Differing Attitudes on Israel, Set For Broadway
-
-Director Phylicia Rashad is quick to point out that she sees Jacobs-Jenkins' process as a gift, noting how rare it is for a company to have success access to the playwright during rehearsals. "I've only had this experience once before, with August Wilson and Gem of the Ocean ," she says. "The first production I did was here in Los Angeles at the Mark Taper forum, and then it went to the Huntington in Boston and eventually to Broadway &#x2014;&#xA0;he continued to refine that play until we opened on Broadway, and I loved it." Plus, she adds of Jacobs-Jenkins, "You cannot tell a playwright, this genius, 'You have got to have this by three o'clock tomorrow.' That doesn't work."
-
-Purpose eventually transferred to Broadway, where it won best play and best performance by an actress in a featured role (for Kara Young ), as well as the 2025 Pulitzer Prize for drama. But Jacobs-Jenkins says that despite the accolades he still hopes to polish it until the bitter end. "Every time I hear the play I think: I want to change this or that," he laughs. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-The storied stage play, which centers on a politically dynastic Black family (not entirely unlike that of the Reverend Jesse Jackson) during a dinner welcoming their eldest home from his white collar crime prison stint, is now in the midst of a revival at Los Angeles' Geffen Playhouse . The entire Broadway cast, along with Rashad, reunited for the L.A. run, an occasion that proved both historic and also tempting for a playwright who loves the chance to revisit his work. "I actually felt a lot of pressure to leave it alone, because so many people want to see the Broadway production," he says. "So I can't just be out here messing with the thing. I don't want to rock the boat."
-
-Here, Jacobs-Jenkins tells THR about what it's like to bring a piece of theater to a famously screen-forward town.
-
-When you wrote Purpose , did you imagine it would have as much success as it did?
-
-That's the thing, is that I really try to keep myself in check because I can get a little wild. I try to fight the fire right in front of me. I had this commission from the Steppenwolf Theater Company to write a play, and Alana Arenas is this incredible actor at the company and honestly my wildest dream was to bring her to Broadway. She plays Morgan in Purpose , and she's one of those people that if you know her you're obsessed with her. So I was like, I'm about to bring her to New York. And I got to do that, which is crazy. But the truth is I wanted to make something with people I like. And for whatever reason, whenever I do something with that in mind, it does keep going. If I'm launching something with some ambition, it's always falling apart, but if a project starts with the people they go the furthest. I've learned that lesson. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Purpose first played for audiences in Chicago, and then New York. Does it feel at all formidable to come to an industry town?
-
-I've had some great experiences in L.A. with theater, honestly. My play Gloria happened here and did pretty well. And Appropriate played at the Mark Taper Forum. It's not a theater town, but it is an actor town. Anytime I've done a show here, the cast has been absolutely incredible. The audiences weren't necessarily the most full, but the people who were there were theatergoers. For me, theater has to be a celebration of the actor. These people go out there, they're not hiding behind a cut, they're not hiding behind coverage. They're like athletes and they're telling you a story in real time without a break. In Chicago, audiences are very sophisticated, they have a high bar for writing because they're the city of David Mamet, they're the city of Tracy Letts. L.A. has a similar vibe, but also… I don't know how to go down this road though, I'm not trying to say anything spicy. I would say there can be a dismissiveness of theater, because when you see the kind of capital that moves through television and film, the company town energy can take over. Even though theater could be the most impactful, powerful experience of your life, nobody is counting box office.
-
-How much pressure do you feel towards writing screenplays or putting your stage work up for adaptation? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-I would never adapt my own plays to movies or film, but I do love those mediums and I've dabbled in both with varying degrees of success. Like most playwrights, I've been feeding myself with some screen work for quite some time now. I'm a proud member of the WGA-East. But I know that I can do whatever I want in a play and I don't have to beg some executive to let me do. I never have to ask for permission to execute my ideas. That freedom is so necessary to me as an artist. It's funny, some of the most powerful directors and showrunners I know have said they're jealous of my work and I'm like, what the fuck are you talking about? But it's because we're all just writers who want to be able to execute our visions &#x2014;&#xA0;and there's less red tape in the theater.
-
-But you could also pass off the adapting, and the dealing with red tape, to someone else…
-
-I think a lot of hit plays and musicals that have been turned into movies and they just don't hit the same way. And I don't want to get blamed for that. So if somebody else came along trying to do it, I'm here to support them. If they win, I win. Tennessee Williams never adapted his own scripts &#x2014;&#xA0;the smartest thing he did was be like, I'm going to sit back and take this check, but I hope y'all have a good time. That being said, I feel like people do make the mistake of thinking these forms are more similar than they are. The pleasures are very different.
-
-You know they're developing The Invite for Broadway, right? blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
-
-Did no one learn anything from Dog Day Afternoon ? Why would someone pay a premium to see a play when they can go home and see the movie that they already know is really good. I mean, let me stop. I should not talk smack about it, but it does make me think, what ? I would love it if they would just bankroll a new play. There have been several hit movies and TV shows lately that people have said, oh it's so good, it's like a play. Like Adolescence , when everyone was like, "Oh my God, they're acting in real time." And people who do plays are like, "Yeah we do that every night. What are you guys freaking out about?" Come see a play. If your vibe is two couples in an apartment, I have so many good plays for you.
-
-What's the latest with your next play?
-
-We've been developing Grass for two years, we had a great workshop last September, and we start rehearsals in two months. We just got a cast together, and it's going to star Daniel Kaluuya.
-
-I'm sure you saw his hit on the local Oregon news during the FAA shutdown?
-
-I got so many texts about him. He has responsibilities, he was on his way somewhere special, okay? ( Laughs .) I'm glad he's back on the news for whatever reasons.
 
