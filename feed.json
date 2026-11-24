@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T21:20:57.387Z"
+    "updated_at": "2026-11-24T21:27:02.087Z"
   },
   "articles": [
+    {
+      "id": "77d2aad2-8364-45d0-a945-a4cbdea07a57",
+      "title": "Broadway Box Office: 'Hamilton' Rises Back Up to $3M, 'Here There are Blueberries' Cracks $1M",
+      "summary": "'Inter Alia,' starring Rosamund Pike, is also continuing to build momentum.",
+      "content": "Hamilton was the top grossing show last week, rising back above $3 million as the industry neared its lucrative holiday week, followed by Other Desert Cities with $2.5 million and the Tom Hiddleston and Hayley Atwell-led Much Ado About Nothing , which still brought in $2 million in a week that included its comped opening night performance.\n\nThe Lion King followed with $1.9 million and Harry Potter and the Cursed Child with $1.7 million.\n\nInter Alia, starring Rosamund Pike, continues to build momentum, bringing in close to $1 million ($993,103) with 100 percent capacity, across its first week of seven performances. The play is set to open Dec. 1.\n\nHere There are Blueberries , a play about museum curators examining previously undiscovered photos from the Holocaust, cracked $1 million for the first time since beginning previews in early November. The show played to close to 100 percent capacity with an average ticket price of $128.\n\nNew musical Galileo saw a slight dip in capacity and grosses after lead actor Ra&#xFA;l Esparza missed performances from Nov. 16 through Nov. 18 while recovering from a concussion. The show brought in $699,975 across six performances, and saw capacity fall to 92 percent. The musical is scheduled to open Dec. 6.\n\nWanted, a new musical which opened Nov. 8, also saw a dip in capacity down to 85 percent, with the show grossing $661,143 across eight performances.\n\nBroadway&#x2019;s holiday fare has not yet taken off with consumers, with The Blue Man Group playing to 60 percent capacity, illusionist show Now You See Me playing to 77 percent capacity and radio play It&#x2019;s a Wonderful Life playing to 76 percent.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-rises-back-up-to-3m-here-there-are-blueberries-cracks-1m-1236762460",
+      "published_at": "2026-11-24T21:25:33+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 275,
+      "extracted_at": "2026-11-24T21:26:44.885923+00:00",
+      "updated_at": "2026-11-24T21:26:44.885923+00:00"
+    },
     {
       "id": "d31109fd-625b-4285-b1dd-7a6ac52b8074",
       "title": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
@@ -742,21 +757,6 @@
       "word_count": 371,
       "extracted_at": "2026-11-24T19:08:37.345657+00:00",
       "updated_at": "2026-11-24T19:08:37.345657+00:00"
-    },
-    {
-      "id": "87cf346d-b291-42ad-802f-836528b35634",
-      "title": "90 Day Fiancé: The Other Way’s Ally Claps Back After Parents Say Show Faked Their Pregnancy Reaction",
-      "summary": "There's an added layer to the drama.",
-      "content": "90 Day Fiancé: The Other Way 's Ally Yahuff and her family are currently embroiled in some drama due to a recent episode. Ally's parents claimed the show scripted their daughter's pregnancy reveal scene . However, the TLC star is now pushing back. As her storyline continues to unfold on the 2026 TV schedule , Ally is suggesting that the only fake element is her parents' latest public response.\n\nAlly's stress makes sense, considering the circumstances. Those who assumed the scene was faked may also assume that her crying in bed after the scene wasn't genuine, and that makes the whole situation seem very dramatic and silly. Additionally, past cast members have claimed 90 Day is faked , and I can imagine it'd feel really rough to have the internet decide a real-life traumatic event was just scripted television.\n\nOnce again, 90 Day Fiancé fans keeping up with the 2026 TV schedule are caught in the game of \"he said, she said.\" Like what happened with the drama surrounding Vittorio Palchetti's house not being his actual home, it feels like there's an explanation for all of this. Yet, because the audience was misled from the start, I can't help but feel skeptical of everything.\n\nOn the one hand, I can imagine that parents who would disown their adult child for an unexpected pregnancy would also feel ashamed about being called out for it later. Conversely, Ally was very clearly showing ahead of their big reveal, to the point that I'm not sure it was even necessary for Jonathan to state it.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/90-day-fiance-the-other-ways-ally-responds-parents-saying-pregnancy-reaction-fake",
-      "published_at": "2026-11-24T19:03:39+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/cgGyACG2RVB9bP85MdMdEa-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 261,
-      "extracted_at": "2026-11-24T19:08:37.441642+00:00",
-      "updated_at": "2026-11-24T19:08:37.441642+00:00"
     }
   ]
 }
