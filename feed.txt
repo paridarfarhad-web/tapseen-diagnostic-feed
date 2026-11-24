@@ -1,9 +1,95 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-24T09:18:20.729Z
+Last Updated: 2026-11-24T09:32:21.362Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Home Alone's Most Misunderstood Moment Isn't a Plot Hole, But It's Easy to Miss
+[1] 'Fin Vs History': Stars Of Video Podcast On The Wildly-Popular Satirical History Series, Animation Ambitions &#038; Why Spotify Beats TV
+Source: Deadline | Status: expanded | Words: 2314
+Published: 2026-11-24T09:30:00+00:00
+URL: https://deadline.com/2026/11/fin-vs-history-podcast-interview-1237215502
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: For Fin Taylor, one half of the satirical podcast Fin Vs History, there's no going back to TV now. The British stand-up comedian, writer and podcaster, who fronts his show with fellow comedian Horatio Gould, had over the years made appearances on staple British comedy shows such as Live at the Apollo and The […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE: For Fin Taylor , one half of the satirical podcast Fin Vs History , there's no going back to TV now.
+
+The British stand-up comedian, writer and podcaster, who fronts his show with fellow comedian Horatio Gould , had over the years made appearances on staple British comedy shows such as Live at the Apollo and The Last Leg , but his deliberately shocking style didn't feel like a good fit &#x2013; to him.
+
+As we sit down for lunch at the Ham Yard Hotel in London, he recalls making a VT for BBC news satire The Mash Report that had been cut so severely that it made his deliberately anti-woke character seemed more "fascist" than a satirical take on a news reporter. He was livid. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories Executives Reed Hastings On Netflix Shakeup, YouTube Rivalry And How Streamer Can Go Back To "Being Thrilling" News Sue Perkins Exploring ADHD Diagnosis For First Time In Audible Podcast 'Attention, Please! Tales From A Distracted Mind'
+
+"This was during Covid, when agents weren&#x2019;t allowed to come to the record," he recalls. "I went into the gallery and I threw my toys out of the pram, and said, &#x2018;You can&#x2019;t use that in the show.&#x2019; I had basically accepted I wouldn&#x2019;t be asked back, but weirdly they called the next morning and apologized, and they got me to write more stuff for them." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Even though that worked out, the incident was one of several that made Taylor seek out a different path. There was also a wild broadcast where he was asked to give the British perspective on NFL Network's Good Morning Football , leading to what can only be described as mayhem and the naming of his company, Fumblerooski Productions. Watch the video below for context on that.
+
+Taylor knew that his television future would be "the funny guy on a show that's not comedy, like Sewing Bee ," but says: "They&#x2019;re never going to book me to do that because I&#x2019;m a bull in a China shop. They&#x2019;re not putting me on The Great British Bake Off . I needed to do my own thing."
+
+For Gould, a comedian's life as a TV star felt even more alien. "I didn&#x2019;t see anything on TV that I would want to do, or would want me," he says. Both men had been active on the UK stand-up scene, but Gould, who's slightly younger than his podcast partner, natively posted his comedy online, and he was sure his future was more likely in digital self-publishing than on the BBC or ITV. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"We all looked over to America, which is always five years ahead," says Gould. "There were so many comedians doing video podcasts and shows it was only a matter of time before it came over here."
+
+Soon Taylor, Gould and Irish comedian Vittorio Angelone had devised Fin Vs the Internet , an online comedy series vehicle for Taylor in which he would play a deluded interviewer determined to find out why those he spoke with had bigger and better online followings than he did.
+
+"He was like a Between Two Ferns -meets-Eric Andre character, who has no idea how the internet works and has views of a man from the '50s," says Gould, who wrote and produced the show, but remained off screen. "These were people who are very careful about their brands and he was like a bulldozer," adds Taylor.
+
+Guests included YouTube star JaackMaate, comedian and OnlyFans performer Rebecca Goodwin, reality star and podcaster Jamie Laing, and Love Island contestant Chris Williamson, whose podcast Taylor and Gould have appeared on directly before we meet. (That episode published online yesterday.) Four seasons of the show ran between 2022 and 2024, and an accompanying Patreon podcast was created.
+
+Then a little twist of fate led to Fin Vs History . Taylor and Gould &#x2013; British men who both have history degrees &#x2013; had recently been to Ireland, so they decided to film themselves talking about the country's history without doing any proper research, primarily to troll Angelone, an Irish stand-up comic. "That went really well, and it was actually exciting to do," says Taylor. "Vittorio was starting a tour and we did a few more of them, and then we started realizing the clicks were going nuts."
+
+However, it was clear even at this stage a paywalled production could not last in the long term. "The Patreon podcast didn&#x2019;t really work," says Gould. "The idea was we wanted to keep giving people weekly stuff to pay for a web series that took ages to make." However, this period ended up serving as "perfect development" for what eventually launched in January 2025 as Fin Vs History .
+
+Angelone, who had his own podcast, amicably stepped aside ("He's now our IRA correspondent," says Taylor), while Gould had to square the time drain of another production alongside his popular Boys Gone Wild video podcast show &#x2013; and potentially a continuation of the Patreon podcast. The latter was scrapped and the focus went entirely on creating Fin Vs History .
+
+Taylor's Fumblerooski Productions, which he runs with exec producer Pete Wells ("the George Martin figure," as they call him), took on production and Podmasters, the UK-based independent podcast network, signed it to help expand the audience and monetize the show.
+
+Gould was obsessed with Brian McGee, an aged 1970s BBC presenter and philosopher who presented stuffy, hour-long TV conversations, and felt this should be the aesthetic for a comedy show satirising history academics.
+
+"He was this very bored, ancient-looking professor of philosophy, who would just sit on a beige sofa for an hour in front of a beige background with an even older guy with an even more dandruff-flecked suit, and they would talk about Wittgenstein."
+
+Accordingly, each episode sees Taylor and Gould sitting facing each other in ill-fitting, bunching suits or military regalia, including hats they rent from the National Theatre. "We have a whole tailoring operation," says Taylor as an aside. "The sofa means you can&#x2019;t help but be in this funny position," adds Gould. "It would not be as funny if we were on a sofa in just our trackies." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+Taylor and Gould take on the personas of two out-of-touch history buffs with extremely questionable views on almost every issue and every part of history, often taking the side of the very worst people and views in human history. "'Hitler: Friend of the pod' is the fundamental joke," says Gould, explaining their characters' warped worldviews.
+
+Fin Vs History is deliberately provocative and certainly shocking to the unsuspecting listeners &#x2013; and some have called the podcast right-leaning, though its creators say it is a staunchly non-political show and purely there to find the next laugh. "It is about doing everything you shouldn&#x2019;t do, whilst dressed as if you really care about it," explains Taylor. "I trust that if you don&#x2019;t find that funny, you just won&#x2019;t listen to it. If you listen to the episodes, it is genuinely impossible not to understand that nothing in it is sincere."
+
+"That&#x2019;s what&#x2019;s great about internet TV," adds Gould. "Back in the day, you would go into someone&#x2019;s home and you had certain responsibilities and had to cater to the audience. We are in a corner of the internet putting our stuff out."
+
+"We&#x2019;re in an old lawn bowls club in Anerley. Why are you here?" quips Taylor, slipping effortlessly into his curmudgeonly character.
+
+Since launching in early 2025, Fin Vs History has exploded in popularity, surpassing 66 million downloads with deep-dive series on the likes of Horatio Nelson, pirates, Roman Emperors, the Russian revolution, the Nazis and World War II, Ugandan dictator Idi Amin and, more quirkily, a much-loved episode on the 2018 Thai cave rescue. It won a Chortle Award, sold put the O2 Shepherd's Bush Empire with a live show and was nominated for Best Comedy Podcast at the British Podcast Awards.
+
+On Spotify, it currently ranks as the 12th most-popular video podcast in the UK, behind the likes of The Rest is History , on which the show shares topical DNA, and The Joe Rogan Experience . Serendipity played a part there: The show began booming just as music service Spotify went all-out on video podcasting to compete with YouTube. "Because we started doing well, they started to push us more as their success story," says Taylor. "We did get lucky on the timing."
+
+" Fin vs History is exactly the kind of show we love at Podmasters," Martin Bojtos, co-founder and CEO of Podmasters upon re-signing the pod in September. "It is original, fearless and completely distinctive. To see it grow at this speed has been incredible, but what means just as much is that Fin, Horatio and the team have chosen to continue that journey with us. For us, that trust is a real measure of success."
+
+The show has nearly 60,000 paying Patreon subscribers (playfully known as "losers"), who get early access and exclusive content &#x2013; a long running podcast in-joke is this is a bigger membership than the terrorist organization ISIS.
+
+"I always had the sense I wanted to be funded by lots of people paying little things rather than one brand paying a lot," says Gould of the business model. "It means you can do what you want. Piss off one person, that&#x2019;s &#xA3;3 [$3.90]." Taylor finishes his thought: "Piss off one brand, &#xA3;10,000."
+
+Gould does worry that the exponential growth towards a more mainstream audience could lead to the nuance of the underlying joke of Fin Vs History being lost, but Taylor takes a different view &#x2013; there will be a ceiling to the audience.
+
+"It was never supposed to be mainstream in the way we&#x2019;re talking about stuff," he says. "We&#x2019;re always going to be in The Rest is History &#x2019;s shadow because that is mainstream. The Rest is History is so big that you can subvert it and still be one of the biggest podcasts in the country. I genuinely think if you come to Fin Vs History not knowing why it&#x2019;s funny, you don&#x2019;t find it funny." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+The Fin vs History podcast, via Taylor's Fumblerooski, and Gould are separately both represented by CAA, which has been heavily pushing into the creator space in the UK since last year, as we reported back in December 2025 . Gould is also managed by 42 for film and TV.
+
+They share an agent, Glenn Miller, whose team are seeking to expand the brand &#x2013; CAA's Harriet Pollard led a five-way auction for Taylor's debut book, The History of Mankind in its Entirety , earlier this year. The satirical book, written in the same voice as Taylor's podcast version of himself, published in September.
+
+"CAA basically seeks to exploit the IP we make," says Taylor. "They&#x2019;re always looking for opportunities with the streamers for podcasts. The old way felt you couldn&#x2019;t start anything because the ratings had to be part of it from the start, and now we&#x2019;re just doing what we want, and the agent might say, &#x2018;Hey, I can do X to your earnings.&#x2019; For me, that&#x2019;s a much better way round where it still feels like it&#x2019;s me, but there&#x2019;s someone there maximizing it."
+
+The future for the podcast includes animation, which it has experimented with in some episodes. "We have long-term animation ambitions, and we&#x2019;re building out that side of it," says Taylor, who adds: "The writing team we&#x2019;re a part of and have accumulated would be perfect for an animated sitcom, which [British] TV was never able to do."
+
+"The key is being able to turn something around with no red tape, basically," adds Gould. "That&#x2019;s why South Park works so well. They&#x2019;ve got this production line that feels so free."
+
+Gould says there have been discussions for a travel-themed Fin Vs offshoot, and is open to "any medium we can turn this show into," while Taylor says new productions would be contingent on Fumblerookski continuing to build. "I only want to do certain topics when our animation capabilities are ready," he explains. "Video podcasting is so new and the resources are coming in."
+
+As our lunch at Ham Yard comes to a close, the conversation turns back to the nature of traditional broadcasting. Taylor recalls a BBC radio appearance that left him cold, and says Fin Vs History has proven he only wants to engage in projects in which he makes executive decisions, while Gould says the video podcast "is TV now," and that the medium "can be anything &#x2013; we used to open with sketches, just to experiment."
+
+Taylor believes Fin Vs History represents "the perfect vehicle for creativity as comics who love history, and adds: "I just want it to keep being creative and not to feel like it&#x2019;s becoming formulaic and stale, and I like the idea there will be another show borne out of this one. What&#x2019;s nice is it&#x2019;s all down to us."
+
+For Taylor and Gould, TV is more likely on their list of historical subjects to cover than a pathway for the future.
+
+============================================================
+[2] Home Alone's Most Misunderstood Moment Isn't a Plot Hole, But It's Easy to Miss
 Source: ComicBook.com | Status: expanded | Words: 1008
 Published: 2026-11-24T09:17:00+00:00
 URL: https://comicbook.com/movies/feature/home-alones-most-misunderstood-moment-isnt-a-plot-hole-but-its-easy-to-miss
@@ -37,7 +123,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] 'MobLand' Adds 'The Forsytes' Actor Gregg Sulkin For Season 3
+[3] 'MobLand' Adds 'The Forsytes' Actor Gregg Sulkin For Season 3
 Source: Deadline | Status: expanded | Words: 390
 Published: 2026-11-24T08:41:43+00:00
 URL: https://deadline.com/2026/11/mobland-gregg-sulkin-season-3-paramount-1237232411
@@ -61,7 +147,7 @@ Season 2 starred Paddy Considine, Joanne Froggatt, Lara Pulver, Anson Boon, Mand
 Sulkin recently returned to his fan-favorite role of Mason Greyback on Wizards Beyond Waverly Place for its four-part conclusion. He previously starred in Hulu&#x2019;s The Kollective , Netflix's The Six Triple Eight , and BBC drama World on Fire . Sulkin is repped by D2 Management and Curtis Brown Group.
 
 ============================================================
-[3] 4 Years Ago, Star Wars Scrapped Its First-Ever "F-Bomb" And It Would Have Been Perfect
+[4] 4 Years Ago, Star Wars Scrapped Its First-Ever "F-Bomb" And It Would Have Been Perfect
 Source: ComicBook.com | Status: expanded | Words: 1416
 Published: 2026-11-24T08:36:00+00:00
 URL: https://comicbook.com/tv-shows/feature/4-years-ago-star-wars-scrapped-its-first-ever-f-bomb-and-it-would-have-been-perfect
@@ -101,7 +187,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 'The Hunger Games: Sunrise on the Reaping' Dominates U.K., Ireland Box Office as 'Ramayana' Sets All-Time Indian Record
+[5] 'The Hunger Games: Sunrise on the Reaping' Dominates U.K., Ireland Box Office as 'Ramayana' Sets All-Time Indian Record
 Source: Variety | Status: expanded | Words: 660
 Published: 2026-11-24T08:25:20+00:00
 URL: https://variety.com/2026/film/box-office/the-hunger-games-sunrise-on-the-reaping-ramayana-uk-ireland-box-office-1236956785
@@ -131,7 +217,7 @@ Wide commercial and saturation rollouts arriving on Friday are led by "Disney's 
 Titles debuting Friday include Sony Pictures' "Ghost Soldier"; Vertigo Releasing's "Buddy," directed by Casper Kelly and starring Cristin Milioti, Delaney Quinn, Patton Oswalt, Michael Shannon, Topher Grace, and Keegan-Michael Key; Dogwoof's documentary "Who Killed Alex Odeh?"; Yash Raj Films' Indian title "Yeh Prem Mol Liya"; Akka Films' "Who Is Still Alive"; Peccadillo Pictures' "Big Girls Don't Cry"; Netflix's English-dubbed animated drama "In Waves," directed by Phuong Mai Nguyen and starring Will Sharpe and Stephanie Hsu; Netflix's documentary "14th," directed by Ava DuVernay; MetFilm Distribution's "To Hold A Mountain," directed by Petar Glomazi&#x107; and Biljana Tutorov; and Bulldog Film Distribution's South Korean drama "The World Of Love," directed by Yoon Ga-eun and starring Seo Su-bin, Jang Hyae-jin, Kim Jeong-sik, and Kang Chae-yun.
 
 ============================================================
-[5] Marvel Just Completed a Loop for Robert Downey Jr in the MCU That Goes Back 20 Years
+[6] Marvel Just Completed a Loop for Robert Downey Jr in the MCU That Goes Back 20 Years
 Source: ComicBook.com | Status: expanded | Words: 451
 Published: 2026-11-24T08:12:35+00:00
 URL: https://comicbook.com/movies/news/marvel-just-completed-a-loop-for-robert-downey-jr-in-the-mcu-that-goes-back-20-years
@@ -161,7 +247,7 @@ Obsession&nbsp; is one of the biggest hits&nbsp; in horror, and the movie clearl
 &nbsp; Movies 9 hours ago Ray Gunn's Brad Bird Reveals the Biggest Film Noir Influence on New Netflix Movie [EXCLUSIVE] The director also signals whether he'd make an R-rated animated film.&nbsp;
 
 ============================================================
-[6] Sky New Zealand Sets 'I Will Find You: The Search For Alysha Hanin' True Crime Series From Woodcut International &#038; Our Story
+[7] Sky New Zealand Sets 'I Will Find You: The Search For Alysha Hanin' True Crime Series From Woodcut International &#038; Our Story
 Source: Deadline | Status: expanded | Words: 468
 Published: 2026-11-24T07:30:00+00:00
 URL: https://deadline.com/2026/11/sky-new-zealand-alysha-hanin-true-crime-series-1237231491
@@ -189,13 +275,13 @@ Jane Robertson and Jeremy Hall, co-founders at Our Story said in a statement: "M
 Koulla Anastasi, Managing Director at Woodcut International, added: "This is not only a fascinating series but an incredibly unique documentary as the story is still unfolding. To not have closure on the disappearance of a loved one will touch many viewers worldwide. We are confident our buyers will want to be part of this journey, and see Adrian eventually solve this mystery and find some form of resolution."
 
 ============================================================
-[7] Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers
+[8] Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers
 Source: Variety | Status: expanded | Words: 454
 Published: 2026-11-24T06:42:34+00:00
 URL: https://variety.com/2026/film/news/adam-driver-x-men-mister-sinister-seth-meyers-marvel-1236956786
 ------------------------------------------------------------
 SUMMARY:
-Robert Pattinson isn’t the only A-lister who’s appeared in multiple massive movie franchises. Adam Driver starred as the lightsaber-wielding antagonist Kylo Ren in the “Star Wars” trilogy and will don a cape once more as Dr. Nathaniel Essex, aka Mister Sinister — a hyperintelligent, shape-shifting telepath and the main villain in Marvel’s upcoming “X-Men” reboot […]
+Robert Pattinson isn’t the only A-lister who has appeared in multiple massive movie franchises. Adam Driver starred as the lightsaber-wielding antagonist Kylo Ren in the “Star Wars” trilogy and will don a cape once more as Dr. Nathaniel Essex, aka Mister Sinister — a hyperintelligent, shape-shifting telepath and the main villain in Marvel’s upcoming “X-Men” […]
 
 CONTENT / EXTRACTED DETAILS:
 Robert Pattinson isn&#x2019;t the only A-lister who&#x2019;s appeared in multiple massive movie franchises.
@@ -213,7 +299,7 @@ Marvel Studios honcho Kevin Feige admitted he&#x2019;d been courting Driver for 
 Schreier&#x2019;s upcoming &#x201C;X-Men&#x201D; reboot will see Driver square off against Sadie Sink as Jean Grey, Inde Navarrette as Rogue, Kit Connor as Cyclops, Maya Boyd as Storm, Asa Germann as Angel and Christopher Abbott as Charles Xavier/Professor X. The film will hit theaters May 5, 2028.
 
 ============================================================
-[8] Love Blooms Behind an Open Prison's Missing Bars in Venice and Busan-Selected Director Nidhi Saxena's 'Azaad Nagar' at WAVES Film Bazaar
+[9] Love Blooms Behind an Open Prison's Missing Bars in Venice and Busan-Selected Director Nidhi Saxena's 'Azaad Nagar' at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 520
 Published: 2026-11-24T06:17:35+00:00
 URL: https://variety.com/2026/film/markets-festivals/love-blooms-open-prison-venice-directors-azaad-nagar-1236956781
@@ -241,7 +327,7 @@ The project is in development, with a budget of approximately INR45 million ($47
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[9] Ranbir Kapoor's 'Brahmastra' Sequel Could Go 'Even More Indian,' Director Ayan Mukerji Tells IFFI
+[10] Ranbir Kapoor's 'Brahmastra' Sequel Could Go 'Even More Indian,' Director Ayan Mukerji Tells IFFI
 Source: Variety | Status: expanded | Words: 628
 Published: 2026-11-24T06:04:06+00:00
 URL: https://variety.com/2026/film/festivals/ranbir-kapoor-brahmastra-sequel-more-indian-1236956772
@@ -275,7 +361,7 @@ During the audience Q&A, Mukerji was asked to choose between Kapoor as Shiva in 
 The session closed on a note of mutual admiration, with Mukerji joking, "I'll give Basil my next script to read and take some notes from him," and Joseph responding, "I'll give you mine."
 
 ============================================================
-[10] 'Elephants in the Fog' Adds Mexico, South Korea, Portugal Sales as Oscar Campaign Visits U.N. (EXCLUSIVE)
+[11] 'Elephants in the Fog' Adds Mexico, South Korea, Portugal Sales as Oscar Campaign Visits U.N. (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 831
 Published: 2026-11-24T05:50:13+00:00
 URL: https://variety.com/2026/film/festivals/elephants-fog-mexico-south-korea-portugal-sales-1236956767
@@ -305,7 +391,7 @@ The Cannes Un Certain Regard Jury Prize winner is Nepal's submission in this yea
 The film is playing at the International Film Festival of India in Goa.
 
 ============================================================
-[11] Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’
+[12] Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’
 Source: Variety | Status: expanded | Words: 421
 Published: 2026-11-24T05:36:19+00:00
 URL: https://variety.com/2026/digital/news/hila-klein-exits-h3-podcast-ethan-klein-affair-1236956758
@@ -327,7 +413,7 @@ When Ethan&#x2019;s affair was made public, the podcast&#x2019;s production team
 The former couple had worked together as content creators since 2011, when they launched their YouTube channel, and tied the knot in 2012. They began their shared podcast 10 years ago; on YouTube, the podcast currently has 2.49 million subscribers. Previously, Ethan hosted the &#x201C;Frenemies&#x201D; podcast with internet personality Trisha Paytas.
 
 ============================================================
-[12] India Could Post Its Highest Box Office Since the Pandemic, Zee Studios' Girish Johar Tells WAVES Film Bazaar
+[13] India Could Post Its Highest Box Office Since the Pandemic, Zee Studios' Girish Johar Tells WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 699
 Published: 2026-11-24T05:29:49+00:00
 URL: https://variety.com/2026/film/markets-festivals/india-highest-box-office-pandemic-waves-film-bazaar-1236956754
@@ -359,7 +445,7 @@ Johar said the choice between a theatrical and a streaming release depended on t
 He suggested that streaming fatigue had helped lift box office in India. "At the end of the day, we all want a social gathering, we all want to watch movies on the big screen," Johar said. "And if we give audiences stories which are relatable, which is what we are seeing, then we also see a huge upswing in box office."
 
 ============================================================
-[13] A.R. Rahman Unpacks His Hindustani Classical Score for Bharat Bala's IFFI-Selected Maha Kumbh Drama 'Banaras'
+[14] A.R. Rahman Unpacks His Hindustani Classical Score for Bharat Bala's IFFI-Selected Maha Kumbh Drama 'Banaras'
 Source: Variety | Status: expanded | Words: 530
 Published: 2026-11-24T05:16:11+00:00
 URL: https://variety.com/2026/film/festivals/ar-rahman-hindustani-classical-score-banaras-1236956751
@@ -389,7 +475,7 @@ For Neeraj Kabi, the role was a gift for an actor. "When you go into a particula
 The film's first notes belong to another Banaras musician. Bala opens "Banaras" with archival footage of shehnai maestro Bismillah Khan, which reached him as a WhatsApp forward. "I've always missed filming him," Bala said, adding that he wanted the film to begin with "the son of the soil from Banaras."
 
 ============================================================
-[14] 'You Can See Everything' Now Streaming: Where to Watch Nathan Fielder's Elizabeth Holmes Doc Online
+[15] 'You Can See Everything' Now Streaming: Where to Watch Nathan Fielder's Elizabeth Holmes Doc Online
 Source: The Hollywood Reporter | Status: expanded | Words: 328
 Published: 2026-11-24T05:01:50+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736
@@ -415,7 +501,7 @@ The A24 doc is expected to hit HBO Max around four months after its theatrical r
 Related: Billy Evans Fires Back at Amanda Seyfried and Nathan Fielder: &#x201C;It&#x2019;s My Life and I Love It&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[15] Berlinale Alum Sreemoyee Singh's WAVES Film Bazaar Selection 'Fireflowers,' About a Mother's Lost Singing Voice, Boards Dutch Co-Producer (EXCLUSIVE)
+[16] Berlinale Alum Sreemoyee Singh's WAVES Film Bazaar Selection 'Fireflowers,' About a Mother's Lost Singing Voice, Boards Dutch Co-Producer (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 545
 Published: 2026-11-24T04:58:03+00:00
 URL: https://variety.com/2026/film/markets-festivals/waves-film-bazaar-doc-fireflowers-dutch-co-producer-1236956745
@@ -445,7 +531,7 @@ Chatterjee calls the film a daughter's look back at her father and her city, mad
 Ghatak, for his part, says there is something extraordinarily brave about reaching into the deepest corners of one's heart and laying it bare for the world to feel and perhaps even mourn alongside. "I have long wanted to support cinema that carries this kind of emotional truth, and 'Fireflowers' is exactly that," he says.
 
 ============================================================
-[16] Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’
+[17] Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’
 Source: Variety | Status: expanded | Words: 491
 Published: 2026-11-24T04:45:00+00:00
 URL: https://variety.com/2026/film/news/anya-taylor-joy-lord-of-the-rings-gollum-ian-mckellen-1236956723
@@ -469,7 +555,7 @@ Malkin also asked the actress about her reaction to getting cast in &#x201C;The 
 Nearly a year before &#x201C;Lord of the Rings: The Hunt for Gollum&#x201D; opens in theaters next Dec., Taylor-Joy will return to the big screen in Denis Villeneuve&#x2019;s final &#x201C;Dune&#x201D; film, due out Dec. 18. In the film, she returns to play Alia Atreides, the younger sister of Paul.
 
 ============================================================
-[17] Obsession Just Opened the Door to An Entire Horror Franchise, And They Better Make the Most of It
+[18] Obsession Just Opened the Door to An Entire Horror Franchise, And They Better Make the Most of It
 Source: ComicBook.com | Status: expanded | Words: 750
 Published: 2026-11-24T04:35:12+00:00
 URL: https://comicbook.com/movies/feature/obsession-just-opened-the-door-to-an-entire-horror-franchise-and-they-better-make-the-most-of-it
@@ -499,7 +585,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Is Robert Pattinson Done As Batman After Part 2? New Update Signals An Early End to the Reevesverse
+[19] Is Robert Pattinson Done As Batman After Part 2? New Update Signals An Early End to the Reevesverse
 Source: ComicBook.com | Status: expanded | Words: 611
 Published: 2026-11-24T04:01:13+00:00
 URL: https://comicbook.com/movies/news/is-robert-pattinson-done-as-batman-after-part-2-new-update-signals-an-early-end-to-the-reevesverse
@@ -527,7 +613,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Skydance Products &#038; Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure
+[20] Skydance Products &#038; Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure
 Source: Deadline | Status: expanded | Words: 443
 Published: 2026-11-24T03:56:13+00:00
 URL: https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267
@@ -555,7 +641,7 @@ Kedar Nadkarni, EVP, CFO & Head of Strategy and Insights, will lead finance for 
 As part of the organizational moves, Warner Bros. and WBD vet Robert Oberschelp will be leaving the company, Silverman said.
 
 ============================================================
-[20] GTA 6 PS5 Sales Near 39 Million &#038; Obliterate an All-Time PlayStation Record
+[21] GTA 6 PS5 Sales Near 39 Million &#038; Obliterate an All-Time PlayStation Record
 Source: ComicBook.com | Status: expanded | Words: 705
 Published: 2026-11-24T03:51:12+00:00
 URL: https://comicbook.com/gaming/news/gta-6-ps5-sales-near-39-million-obliterate-an-all-time-playstation-record
@@ -585,7 +671,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] ESPN's 'Monday Night Football' Interrupted As Lights Go Out During Bengals-Commanders Game
+[22] ESPN's 'Monday Night Football' Interrupted As Lights Go Out During Bengals-Commanders Game
 Source: Deadline | Status: expanded | Words: 349
 Published: 2026-11-24T03:48:37+00:00
 URL: https://deadline.com/2026/11/espn-monday-night-football-lights-out-bengals-commanders-1237232264
@@ -615,7 +701,7 @@ ESPN took a commercial break while stadium officials worked to fix the lights, a
 Watch the moment the lights went out during the Bengals-Commanders game on ESPN's Monday Night Football .
 
 ============================================================
-[22] 'Caréme' &#038; 'División Palermo' Take Top Prizes At International Emmy Awards: Full Winners List
+[23] 'Caréme' &#038; 'División Palermo' Take Top Prizes At International Emmy Awards: Full Winners List
 Source: Deadline | Status: expanded | Words: 430
 Published: 2026-11-24T03:27:23+00:00
 URL: https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118
@@ -645,7 +731,7 @@ ARTS PROGRAMMING - Der Talentierte Mr. F [The Talented Mr. F], Germany SHORT-FOR
 Erik Pedersen contributed to this report.
 
 ============================================================
-[23] 2026 International Emmy Winners Revealed: 'Carême' Wins Best Drama
+[24] 2026 International Emmy Winners Revealed: 'Carême' Wins Best Drama
 Source: The Hollywood Reporter | Status: expanded | Words: 1209
 Published: 2026-11-24T03:12:23+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237
@@ -801,7 +887,7 @@ M&#xC1;SCARAS DE OXIG&#xCA;NIO N&#xC3;O CAIR&#xC3;O AUTOMATICAMENTE [OXYGEN MASK
 PRISONER 951 (WINNER) DANCING LEDGE PRODUCTIONS LTD FOR THE BBC UNITED KINGDOM
 
 ============================================================
-[24] Why I Have Mixed Feelings On How 90 Day: Hunt For Love Addressed Razvan’s Exit
+[25] Why I Have Mixed Feelings On How 90 Day: Hunt For Love Addressed Razvan’s Exit
 Source: CinemaBlend | Status: expanded | Words: 219
 Published: 2026-11-24T03:01:00+00:00
 URL: https://www.cinemablend.com/television/-mixed-feelings--how-90-day-hunt-for-love-addressed-razvans-exit
@@ -819,7 +905,7 @@ The scene then switched to Iris meeting up with the other 90 Day: Hunt For Love 
 I don't know all the context that went into this decision, but I can already see some problems with it. To start, I don't think avoiding what happened with Razvan is going to dissuade viewers out of the loop from looking up what happened. He was a prominent part of 90 Day: Hunt For Love up to this point, and I think his absence will be felt.
 
 ============================================================
-[25] David Zaslav Recalls "Awkward Moment" Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff "Motivated"
+[26] David Zaslav Recalls "Awkward Moment" Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff "Motivated"
 Source: Deadline | Status: expanded | Words: 717
 Published: 2026-11-24T02:59:56+00:00
 URL: https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182
@@ -847,7 +933,7 @@ Zeiler's acceptance speech was straightforward and a fair bit shorter than Zasla
 He called his run at WBD and its predecessors (and RTL before that) "a journey to which I never stopped learning. Not one single day. And you get to know this nuances, the differences, specialties of the individual cultures all around the world. That was the biggest gig I got in my professional life."
 
 ============================================================
-[26] Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit
+[27] Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit
 Source: The Hollywood Reporter | Status: expanded | Words: 329
 Published: 2026-11-24T02:56:12+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725
@@ -871,7 +957,7 @@ Roughly an hour later, Fuqua returned and confronted Rosenthal about pepper spra
 Rosenthal says he sustained a head injury, nose fracture and lacerations from the alleged assault and now has post-traumatic stress disorder and severe emotional stress. His lawyers say the injuries will result in "some permanent disability."
 
 ============================================================
-[27] Adam Driver Reveals The Major Personal Sacrifice He Was Going to Make to Get The Hunt for Ben Solo Made
+[28] Adam Driver Reveals The Major Personal Sacrifice He Was Going to Make to Get The Hunt for Ben Solo Made
 Source: ComicBook.com | Status: expanded | Words: 641
 Published: 2026-11-24T02:52:54+00:00
 URL: https://comicbook.com/movies/news/adam-driver-reveals-the-major-personal-sacrifice-he-was-going-to-make-to-get-the-hunt-for-ben-solo-made
@@ -897,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] From Beauty to Tech, Deep Black Friday Deals Land on the New Brand+ Marketplace via AliExpress
+[29] From Beauty to Tech, Deep Black Friday Deals Land on the New Brand+ Marketplace via AliExpress
 Source: The Hollywood Reporter | Status: expanded | Words: 339
 Published: 2026-11-24T02:50:07+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/brand-plus-aliexpress-black-friday-sale-2026-1236761706
@@ -923,7 +1009,7 @@ Delivery timing to the U.S. varies, but it's typically within a week. And while 
 Related: Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam&#x2019;s Club Black Friday Sale
 
 ============================================================
-[29] The X-Men Got Iceman's Coming-Out Story Wrong, but the MCU Has a Chance to Get It Right
+[30] The X-Men Got Iceman's Coming-Out Story Wrong, but the MCU Has a Chance to Get It Right
 Source: ComicBook.com | Status: expanded | Words: 1252
 Published: 2026-11-24T02:44:00+00:00
 URL: https://comicbook.com/comics/feature/the-x-men-got-icemans-coming-out-story-wrong-but-the-mcu-has-a-chance-to-get-it-right
@@ -957,7 +1043,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Woody Harrelson Turned Down Haymitch Offer Twice: I Didn’t ‘Think There Was Enough to Do’ in ‘The Hunger Games’
+[31] Woody Harrelson Turned Down Haymitch Offer Twice: I Didn’t ‘Think There Was Enough to Do’ in ‘The Hunger Games’
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-24T02:42:27+00:00
 URL: https://variety.com/2026/film/news/woody-harrelson-turned-down-haymitch-the-hunger-games-1236956694
@@ -981,7 +1067,7 @@ In addition to Harrelson, who returned for the film , original cast members Jenn
 &#x201C;Sunrise on the Reaping&#x201D; opened to $120 million at the box office last weekend, and is currently in theaters.
 
 ============================================================
-[31] Marathi Crime Drama 'Hurda – That Tight Green Top' Puts a Journalist's Masculinity Under the Microscope at WAVES Film Bazaar
+[32] Marathi Crime Drama 'Hurda – That Tight Green Top' Puts a Journalist's Masculinity Under the Microscope at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 522
 Published: 2026-11-24T02:40:37+00:00
 URL: https://variety.com/2026/film/markets-festivals/marathi-crime-drama-hurda-masculinity-microscope-1236956699
@@ -1011,7 +1097,7 @@ At Film Bazaar, the team hopes to engage with programmers, sales agents and othe
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[32] Shanghai Golden Goblet Winner Ridham Janve Stages a Goan Village Death Watch in 'Goodbye Mr D'Mello' at WAVES Film Bazaar
+[33] Shanghai Golden Goblet Winner Ridham Janve Stages a Goan Village Death Watch in 'Goodbye Mr D'Mello' at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 528
 Published: 2026-11-24T02:31:53+00:00
 URL: https://variety.com/2026/film/markets-festivals/shanghai-winner-ridham-janve-goan-death-watch-dark-comedy-1236956692
@@ -1041,7 +1127,7 @@ Pre-production and shooting are planned for the first quarter of 2027. At Film B
 WAVES Film Bazaar runs as the market component of the International Film Festival of India (IFFI) in Goa.
 
 ============================================================
-[33] The Toughest Part Of Coaching On The Voice, According To Newbie Riley Green
+[34] The Toughest Part Of Coaching On The Voice, According To Newbie Riley Green
 Source: CinemaBlend | Status: expanded | Words: 224
 Published: 2026-11-24T02:31:00+00:00
 URL: https://www.cinemablend.com/television/riley-green-explains-toughest-part-coaching-the-voice
@@ -1057,7 +1143,7 @@ Nobody is ever really an overnight sensation, so The Voice ’s superstar coache
 One of the best parts of the reality competition show is watching how the coaches really become fans of their own team members. Kelly Clarkson has expressed her commitment to continue collaborating with Team Kelly, and I’m sure other coaches feel just as dedicated to creating such a supportive atmosphere.
 
 ============================================================
-[34] Interactive Films 'The Run,' 'Kaiju Princess,' 'Back From the Other World' Hit Taiwan Cinemas as Audiences Vote on Endings by Smartphone (EXCLUSIVE)
+[35] Interactive Films 'The Run,' 'Kaiju Princess,' 'Back From the Other World' Hit Taiwan Cinemas as Audiences Vote on Endings by Smartphone (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 625
 Published: 2026-11-24T02:18:00+00:00
 URL: https://variety.com/2026/film/news/interactive-films-the-run-kaiju-princess-taiwan-cinemas-1236956688
@@ -1085,7 +1171,7 @@ He described the Taiwan launch as a major milestone for the company's network. "
 The company pitches itself to filmmakers, IP owners and exhibitors as a single partner covering both the production technology and the distribution needed to get interactive titles onto cinema screens. The Taiwan dates form part of a wider push across Asia, with releases in further international markets planned for 2027.
 
 ============================================================
-[35] Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam's Club Black Friday Sale
+[36] Oura Ring 5, Red Light Therapy and Cult-Favorite Skin Care Lead the Sam's Club Black Friday Sale
 Source: The Hollywood Reporter | Status: expanded | Words: 309
 Published: 2026-11-24T02:14:10+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/sams-club-black-friday-deals-2026-beauty-wellness-discounts-1236761566
@@ -1105,7 +1191,7 @@ With Sam's Club Plus , members get access to exclusive savings and brands, free 
 Related: From K-Beauty to Creatine Gummies, iHerb&#x2019;s Black Friday Sale Marks Down Thousands of Viral Products
 
 ============================================================
-[36] Vin Diesel's Panned 24-Year-Old Attempt to Be James Bond Is About to Get Harder to Watch in December
+[37] Vin Diesel's Panned 24-Year-Old Attempt to Be James Bond Is About to Get Harder to Watch in December
 Source: ComicBook.com | Status: expanded | Words: 679
 Published: 2026-11-24T02:07:27+00:00
 URL: https://comicbook.com/movies/news/vin-diesels-panned-24-year-old-attempt-to-be-james-bond-is-about-to-get-harder-to-watch-in-december
@@ -1129,7 +1215,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] David Fincher Reflects on Alien 3 After 34 Years, And Reveals The Original Pitch That Got Him the Job
+[38] David Fincher Reflects on Alien 3 After 34 Years, And Reveals The Original Pitch That Got Him the Job
 Source: ComicBook.com | Status: expanded | Words: 691
 Published: 2026-11-24T02:06:24+00:00
 URL: https://comicbook.com/movies/news/david-fincher-reflects-on-alien-3-after-34-years-and-reveals-the-original-pitch-that-got-him-the-job
@@ -1155,7 +1241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] James Gunn's DC Exit Has People Asking About Keanu Reeves And Constantine Again (& I Don’t Hate It)
+[39] James Gunn's DC Exit Has People Asking About Keanu Reeves And Constantine Again (& I Don’t Hate It)
 Source: CinemaBlend | Status: expanded | Words: 236
 Published: 2026-11-24T02:01:00+00:00
 URL: https://www.cinemablend.com/movies/james-gunn-dc-exit-has-people-asking-about-keanu-reeves-constantine-sequel
@@ -1171,7 +1257,7 @@ This is sure to be music to some fans' ears amid the major corporate shift. Jere
 2005's Constantine has earned quite the cult following. Believe it or not, Reeves wasn’t fans' first pick for the role, and that's because of how much of a departure from the comics his take on John is. The character has lived on in the live-action space since then, with Matt Ryan taking on the trench coat in 2014 for a short-lived NBC show. Ryan continued to portray Constantine in The CW’s Arrowverse and voiced the DC antihero in various animated works through 2024.
 
 ============================================================
-[39] DC Fans Can Save Years of Collecting With This Rare Swamp Thing Comic Lot
+[40] DC Fans Can Save Years of Collecting With This Rare Swamp Thing Comic Lot
 Source: ComicBook.com | Status: expanded | Words: 1420
 Published: 2026-11-24T01:59:00+00:00
 URL: https://comicbook.com/collectibles/news/dc-fans-can-save-years-of-collecting-with-this-rare-swamp-thing-comic-lot
@@ -1203,7 +1289,7 @@ Oh there are so many great pieces from Frank Frazetta! I've always loved Death D
 Also the Buck Rodger’s covers he did for Famous Funnies.
 
 ============================================================
-[40] "Not True": Antoine Fuqua Alleged Gun Assault Of Bar Manager Over Daughter Rebuked By Reps
+[41] "Not True": Antoine Fuqua Alleged Gun Assault Of Bar Manager Over Daughter Rebuked By Reps
 Source: Deadline | Status: expanded | Words: 554
 Published: 2026-11-24T01:50:35+00:00
 URL: https://deadline.com/2026/11/antoine-fuqua-assault-denied-1237232104
@@ -1229,7 +1315,7 @@ Law enforcement sources tell Deadline that an investigation of the incident resu
 Released in late April under no small cloud of controversy, including from the late King of Pop's own daughter Paris' fights with her father's now very flush estate, the Fuqua helmed and John Logan penned Michael has gone on to make over $1.02 billion globally and will see a sequel. On the other hand, Good Times at Davey Wayne&#x2019;s was closed down for a spell by the L.A. County Public Health Department for &#x201C;vermin infestation."
 
 ============================================================
-[41] 'I'm A Celebrity's AJ Odudu Gets Support From 'BBUK' Co-Host Will Best &#038; More Stars Amid Microaggressions On ITV Reality Series
+[42] 'I'm A Celebrity's AJ Odudu Gets Support From 'BBUK' Co-Host Will Best &#038; More Stars Amid Microaggressions On ITV Reality Series
 Source: Deadline | Status: expanded | Words: 745
 Published: 2026-11-24T01:45:22+00:00
 URL: https://deadline.com/2026/11/im-a-celebrity-aj-odudu-support-microaggressions-itv-reality-1237232114
@@ -1267,7 +1353,7 @@ Following the public outcry from I'm a Celebrity… fans, ITV issued a statement
 Watch the I'm a Celebrity… Get Me Out of Here clip in the video below.
 
 ============================================================
-[42] 'Hooters: The Movie' Sets Owen Patrick Joyner, Kyle Clark &#038; Audrey Trullinger
+[43] 'Hooters: The Movie' Sets Owen Patrick Joyner, Kyle Clark &#038; Audrey Trullinger
 Source: Deadline | Status: expanded | Words: 566
 Published: 2026-11-24T01:41:15+00:00
 URL: https://deadline.com/2026/11/hooters-the-movie-sets-cast-1237232108
@@ -1293,7 +1379,7 @@ Hooters: The Movie is also produced by Ed Droste, Chuck Melcher, Bill Williams, 
 Joyner ( Final Destination: Bloodlines ) is repped by Prototype Talent Agency, Protege Entertainment and Myman Greenspan Fox etc; Clark ( Crew Girl, Riverdale ) is repped by Nuance Talent Management, Linden Entertainment and Yorn Levine Barnes etc; and Trullinger (Law & Order: Special Victims Unit ) is repped by Gersh, Authentic Talent and Literary Management, and Felker McGinnis & Ryan.
 
 ============================================================
-[43] Marvel Studios Just Picked Fans Over Hollywood Prestige With One Massive Avengers: Doomsday Decision
+[44] Marvel Studios Just Picked Fans Over Hollywood Prestige With One Massive Avengers: Doomsday Decision
 Source: ComicBook.com | Status: expanded | Words: 557
 Published: 2026-11-24T01:38:19+00:00
 URL: https://comicbook.com/movies/news/marvel-studios-just-picked-fans-over-hollywood-prestige-with-one-massive-avengers-doomsday-decision
@@ -1319,7 +1405,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] I Love Julie Bowen’s Mom-Coded Way Of Trolling Modern Family Co-Stars Ariel Winter And Nolan Gould
+[45] I Love Julie Bowen’s Mom-Coded Way Of Trolling Modern Family Co-Stars Ariel Winter And Nolan Gould
 Source: CinemaBlend | Status: expanded | Words: 294
 Published: 2026-11-24T01:31:00+00:00
 URL: https://www.cinemablend.com/television/julie-bowen-trolling-modern-family-co-stars-ariel-winter-nolan-gould
@@ -1337,7 +1423,7 @@ Not only are they NOT together, but it turns out that the best friend of your be
 It's a moment like this that makes me wish a Modern Family revival of sorts would happen at some point. The cast's chemistry was just too perfect, and they clearly continue to have that bond off camera. I'm not sure whether ABC would be interested in such a production, but I'll keep my fingers crossed that it happens.
 
 ============================================================
-[45] One Simple Change Could Make Pokemon’s Postgame More Exciting Than the Main Story
+[46] One Simple Change Could Make Pokemon’s Postgame More Exciting Than the Main Story
 Source: ComicBook.com | Status: expanded | Words: 957
 Published: 2026-11-24T01:30:00+00:00
 URL: https://comicbook.com/gaming/feature/one-simple-change-could-make-pokemons-postgame-more-exciting-than-the-main-story
@@ -1373,7 +1459,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] ‘Only Murders In The Building’ Returning To New York For Likely Season 7
+[47] ‘Only Murders In The Building’ Returning To New York For Likely Season 7
 Source: Deadline | Status: expanded | Words: 568
 Published: 2026-11-24T01:20:23+00:00
 URL: https://deadline.com/2026/11/only-murders-in-the-building-new-york-return-season-7-1237231938
@@ -1403,7 +1489,7 @@ In addition to those previously mentioned, the new season will also feature Oliv
 See more content from the premiere below:
 
 ============================================================
-[47] LA Skins Fest Concludes 20th Year Celebrating Indigenous Artists
+[48] LA Skins Fest Concludes 20th Year Celebrating Indigenous Artists
 Source: Variety | Status: expanded | Words: 536
 Published: 2026-11-24T01:15:00+00:00
 URL: https://variety.com/2026/film/news/la-skins-fest-20-years-1236956545
@@ -1427,7 +1513,7 @@ The ceremony also recognized the 6th Annual Native American Writer Accelerator G
 2026 Native American Media Awards Winners Emerging Filmmaker Award &#x2014; Narrative Gina East &#x2014; "What The Crows Saw" Emerging Filmmaker Award &#x2014; Documentary Elissa Simons &#x2014; "The Land Still Speaks" Achievement in Student Filmmaking Sophia Lindholm &#x2014; "Roots of A Cedar Tree" Achievement in Acting Isabella Dionne &#x2014; "Menil and Her Heart" Achievement in Acting Forrest Goodluck &#x2014; "Native Sin" Achievement in Writing Jonathan Thunder and Tasha Heart &#x2014; "Ish Meets A Mermaid" Achievement in Documentary Filmmaking Janet Martinez &#x2014; "Kindred Roots" Achievement in Short Documentary Filmmaking Alex Inoruk Sallee &#x2014; "Niqipiaq: To Eat Real Food" Achievement in Community Leadership Edsel Pete &#x2014; Navajo Nation TV Film and TV Achievement in Directing Mark D. Williams &#x2014; "Stickball: The Little Brother of War" Achievement in Short Filmmaking Boise Esquerra &#x2014; "Shadow in the Desert" Achievement in Filmmaking Orlando Skidmore &#x2014; "Made For Her: A Native American Fashion Film"
 
 ============================================================
-[48] Ariana Grande Teases 'Eternal Sunshine Tour' Project At Peacock
+[49] Ariana Grande Teases 'Eternal Sunshine Tour' Project At Peacock
 Source: Deadline | Status: expanded | Words: 389
 Published: 2026-11-24T01:10:19+00:00
 URL: https://deadline.com/2026/11/ariana-grande-eternal-sunshine-tour-project-peacock-1237232061
@@ -1449,7 +1535,7 @@ Grande toured Canada, England, and the U.S. with the&#xA0; Eternal Sunshine Tour
 Currently, Grande is in the middle of promoting her latest film, Focker-in-Law , in which she stars alongside Ben Stiller, Skyler Gisondo, Owen Wilson, Robert De Niro, and more. The comedy film opens in theaters on November 25.
 
 ============================================================
-[49] I Knew There Was Secrecy On The Odyssey. John Leguizamo’s Story About Landing The Script Is WILD
+[50] I Knew There Was Secrecy On The Odyssey. John Leguizamo’s Story About Landing The Script Is WILD
 Source: CinemaBlend | Status: expanded | Words: 285
 Published: 2026-11-24T01:01:00+00:00
 URL: https://www.cinemablend.com/movies/i-knew-there-was-secrecy-on-the-odyssey-john-leguizamos-story-about-landing-the-script-is-wild
@@ -1465,26 +1551,4 @@ Leguizamo’s performance as Eumaeus has been called “sublime” by critics , 
 Perhaps Marvel needs to take some notes from Nolan. While this seems like an insane level of secrecy for a book to screen adaptation , I admire the commitment to "no spoilers." Though the journalist asked the most important question, who delivered the script? Surely, FedEx wasn’t tasked with such a feat. Turns out one of Nolan’s personal assistants hand delivered it. However, there was still another step for him to be able to keep the confidential script:
 
 The cloak and dagger seems to have worked as not even Tom Holland seems to have leaked anything. Additionally, Leguizamo shared that whenever Nolan made tweaks , the actor would have to turn in the old pages. This was definitely a first in his career, but one he feels was completely worth it, and I have to agree as the actor seemed to easily embody the role.
-
-============================================================
-[50] Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’
-Source: Variety | Status: expanded | Words: 372
-Published: 2026-11-24T00:48:48+00:00
-URL: https://variety.com/2026/tv/news/zosia-mamet-mad-men-matthew-weiner-1236956628
-------------------------------------------------------------
-SUMMARY:
-Zosia Mamet recently revealed that her “absolutely horrible” experience working with showrunner and producer Matthew Weiner on the set of “Mad Men” caused her to quit the series after just five episodes. “All the other actors were wonderful, but he really was like the Catholic Church back in the day, like that bro rules with […]
-
-CONTENT / EXTRACTED DETAILS:
-&#x201C;Girls&#x201D; star Zosia Mamet recently revealed that her &#x201C;absolutely horrible&#x201D; experience working with showrunner and producer Matthew Weiner on the set of &#x201C; Mad Men &#x201D; caused her to quit the series after just five episodes.
-
-&#x201C;All the other actors were wonderful, but he really was like the Catholic Church back in the day, like that bro rules with fear,&#x201D; she said while appearing on Dax Shepard&#x2019;s &#x201C;Armchair Expert&#x201D; podcast on Monday. &#x201C;He would dart every table read with this little speech&#x2026; and he would talk about how he didn&#x2019;t want any of us to take our scripts home&#x2026; And he would be like, &#x2018;If I see that, I&#x2019;m going to find you, and I&#x2019;m going to hunt you down. I&#x2019;m going to kill you. Just kidding. Actually not. He would do this at every table read. And I was like, this not only isn&#x2019;t funny, but it&#x2019;s yucky. It&#x2019;s fucking yucky, man.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories BTS, Katseye Drive Hybe to Record Quarterly Revenue and Profit
-
-Mamet then recounted the moment that pushed her to quit the show, explaining that &#x201C;he came in and was having a bad day and decided to set his sights on me.&#x201D; &#x201C;During a block rehearsal, [he] just fucking went to town on me in front of the whole cast and crew&#x2026; I called my agents when I left, and I was like, &#x2018;I can&#x2019;t go back to that set,&#x2019;&#x201D; she told Shepard. &#x201C;He just systematically dressed me down for like 45 minutes. And I was like, &#x2018;I want to kill myself.&#x2019;&#x201D;
-
-She continued: &#x201C;My level of insecurity was so great that I knew that I wouldn&#x2019;t be able [to]. I was like, I will shut down,&#x201D; Mamet said. &#x201C;I won&#x2019;t be able to function in this environment, and the fear of that happening again was just too great.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Mamet appeared on Season 4 and 5 of the hit drama as Joyce Ramsay.
-
-Reps for Weiner did not immediately respond to Variety&#x2019; s request for comment.
 
