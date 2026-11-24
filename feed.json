@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T21:27:02.087Z"
+    "updated_at": "2026-11-24T21:30:59.237Z"
   },
   "articles": [
+    {
+      "id": "b9670ee1-a634-43fd-bf79-708de03239bd",
+      "title": "Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’",
+      "summary": "While “ Avengers: Doomsday ” will mark Patrick Stewart ’s final screen performance, Marve l had originally hoped to bring the actor back for both of its upcoming Avengers films. According to a new report from Entertainment Weekly, Stewart was offered roles in both ‘Doomsday’ and “ Avengers: Secret Wars ,” but agreed to appear in only the former. Stewart, who died in October at 86, had played Professor Charles Xavier for more than two decades, originating the role in the 2000s’ “ X-Men ” before seemingly bidding farewell to the character in James Mangold ’s “ Logan ” in 2017. Continue reading Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’ at The Playlist.",
+      "content": "While “ Avengers: Doomsday ” will mark Patrick Stewart ’s final screen performance, Marve l had originally hoped to bring the actor back for both of its upcoming Avengers films. According to a new report from Entertainment Weekly, Stewart was offered roles in both ‘Doomsday’ and “ Avengers: Secret Wars ,” but agreed to appear in only the former. Stewart, who died in October at 86, had played Professor Charles Xavier for more than two decades, originating the role in the 2000s’ “ X-Men ” before seemingly bidding farewell to the character in James Mangold ’s “ Logan ” in 2017. Continue reading Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’ at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/patrick-stewart-avengers-doomsday-secret-wars-marvel-20261124",
+      "published_at": "2026-11-24T21:29:49+00:00",
+      "image_url": "https://www.youtube.com/embed/Wb8Tq_HD4E8",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 120,
+      "extracted_at": "2026-11-24T21:30:45.383006+00:00",
+      "updated_at": "2026-11-24T21:30:45.383006+00:00"
+    },
     {
       "id": "77d2aad2-8364-45d0-a945-a4cbdea07a57",
       "title": "Broadway Box Office: 'Hamilton' Rises Back Up to $3M, 'Here There are Blueberries' Cracks $1M",
@@ -742,21 +757,6 @@
       "word_count": 467,
       "extracted_at": "2026-11-24T19:04:37.816243+00:00",
       "updated_at": "2026-11-24T19:04:37.816243+00:00"
-    },
-    {
-      "id": "b80d7515-af13-4952-9832-f5c0f492d98b",
-      "title": "Disney Really Needed A Hit With Hexed. The First Reviews Have Me Concerned",
-      "summary": "Critics aren't bewitched by this one.",
-      "content": "In the last couple of years, when Walt Disney Animation has released a movie during its long-coveted Thanksgiving slot, it's been a sequel that became a $1 billion hit. However, it's been a long while since the House of Mouse released an original title that really cast a magical spell on audiences. I was hopeful about the next upcoming Disney movie , Hexed, especially after seeing the first reactions. But now that the reviews are here, I'm afraid we might have to wait longer for another real Disney winner.\n\nHexed is the first non-sequel to come out from Walt Disney Animation since 2023's Wish , which earned a 48 percent on Rotten Tomatoes from critics and made just $254 million worldwide. It's too early to call this movie's true RT score, but there's similarly middling reception so far. AV Club 's Jacob Oller had this to say:\n\nThe movie features Hailee Steinfeld voicing a rebellious teenage witch named Billie , as she finds out she has magical powers. Rashida Jones voices her overprotective mom, and Jodie Foster voices the movie's villainous witch, Celeste. The movie was co-written by Walt Disney Animation's CCO Jared Bush and Moana 2's Dana Ledoux Miller.\n\nThen there's Variety' s Guy Lodge, who pointed out how Hexed is perhaps particularly disappointing in the wake of the stop-motion movie Wildwood , which came out last month. Here are some of his thoughts:\n\nThe Hollywood Reporter 's Angie Han had more positive things to say about Hexed , but made a point of saying the visuals dazzled her more than the storyline itself. In her words:\n\nIt's certainly worth pointing out that Hexed will likely be much more of a hit with its target audience of young girls. That remains to be seen, but not all the reviews are bummers. The Wrap 's Amelia Emberwing celebrated the movie's girl power and made these comments:\n\nWith regard to the box office, Hexed is projected to make around $40 million behind the new Hunger Games , which isn't great. As a lifelong Disney fan who wants to support original animation and see it thrive, I'm concerned. The studio really needed an original hit, and so far the news isn't trending up.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/disney-needed-hit-hexed-first-reviews-concerned",
-      "published_at": "2026-11-24T19:03:57+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/doBJ2DLGTfUnQGnSaZqatD-1920-80.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 371,
-      "extracted_at": "2026-11-24T19:08:37.345657+00:00",
-      "updated_at": "2026-11-24T19:08:37.345657+00:00"
     }
   ]
 }
