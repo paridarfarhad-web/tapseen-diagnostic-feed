@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T19:39:01.806Z"
+    "updated_at": "2026-11-24T19:43:01.401Z"
   },
   "articles": [
     {
@@ -22,6 +22,21 @@
       "word_count": 597,
       "extracted_at": "2026-11-24T19:38:40.700306+00:00",
       "updated_at": "2026-11-24T19:38:40.700306+00:00"
+    },
+    {
+      "id": "74c6ef00-3d69-41d7-bb8c-1cf398687cb8",
+      "title": "Amid 60 Minutes Concerns, CBS News’ Bari Weiss Just Suffered Another Setback With The Show",
+      "summary": "This is less-than-positive news for the long-running show.",
+      "content": "CBS News Editor-in-Chief Bari Weiss has made headlines for multiple reasons since being hired for the job in October 2025, but one specific aspect of the job she continues to receive backlash for is 60 Minutes . This past summer, Weiss and executive producer Nick Bilton cut ties with several high-profile employees and, more recently, the show has seen losses in viewership. Now, some fresh numbers regarding the news magazine show’s 59th season have arrived, and they mark yet another setback for Weiss and her staff.\n\nMonths ago, Season 59 premiered to 6.5 million viewers on CBS, and that sum differed from the initial report of 7.7 million (which was not finalized at the time). One of the key commonalities between both reports, however, is that the news program has seen losses within the 25-54 demographic. In that demo, 60 has apparently seen a 25 percent decline compared to last season. This demographic is critical, especially when considering on-air advertising.\n\nAfter parting ways with Pelley and co., Weiss hired several other broadcasters to fill out 60 Minutes ’ new broadcasting team. Ross Douthat, Gianna Toboni, Sebastian Junger, Sir Trevor Phillips and Ariel Levy were ultimately brought on. Those newcomers are now working alongside the show’s three on-camera veterans: Lesley Stahl, Bill Whitaker and Jon Wertheim. Just recently, Stahl addressed the backlash she faced due to remaining with the show under Weiss’ leadership and said she did so in order for the series as they know it not to “vanish.”",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/cbs-news-bari-weiss-another-60-minutes-setback",
+      "published_at": "2026-11-24T19:38:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fMkrQr4dTbz9o3YfMRwq3U-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 249,
+      "extracted_at": "2026-11-24T19:42:44.219268+00:00",
+      "updated_at": "2026-11-24T19:42:44.219268+00:00"
     },
     {
       "id": "24f1057c-a295-40e5-a98f-3534617d71ff",
@@ -742,21 +757,6 @@
       "word_count": 1440,
       "extracted_at": "2026-11-24T17:46:38.446013+00:00",
       "updated_at": "2026-11-24T17:46:38.446013+00:00"
-    },
-    {
-      "id": "792291a8-c3f8-4c42-a152-74961a5e2ddf",
-      "title": "David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios &#038; His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film",
-      "summary": "David Fincher has flirted with the superhero genre over the years, including unrealized versions of “ Spider-Man ” and “ Batman ,” but he’s never actually directed a comic book movie. And judging by his latest comments, overseeing an entire superhero universe is about the last thing he’d ever want to do. Fincher says he wouldn’t have had the “balls” to take on the responsibilities James Gunn assumed at DC Studios, calling the company inherently dysfunctional. Continue reading David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios & His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film at The Playlist.",
-      "content": "David Fincher has flirted with the superhero genre over the years, including unrealized versions of “ Spider-Man ” and “ Batman ,” but he’s never actually directed a comic book movie. And judging by his latest comments, overseeing an entire superhero universe is about the last thing he’d ever want to do. Fincher says he wouldn’t have had the “balls” to take on the responsibilities James Gunn assumed at DC Studios, calling the company inherently dysfunctional. Continue reading David Fincher Says He Lacks James Gunn’s “Balls” To Run DC Studios & His Rejected ‘Batman’ Pitch Resembled Matt Reeves’ Film at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/david-fincher-james-gunn-dc-studios-the-batman-pitch-20261124",
-      "published_at": "2026-11-24T17:37:41+00:00",
-      "image_url": "https://www.youtube.com/embed/3G2b3BiTDZg",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 102,
-      "extracted_at": "2026-11-24T17:38:33.225765+00:00",
-      "updated_at": "2026-11-24T17:38:33.225765+00:00"
     }
   ]
 }
