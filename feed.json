@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T21:15:01.590Z"
+    "updated_at": "2026-11-24T21:20:57.387Z"
   },
   "articles": [
+    {
+      "id": "d31109fd-625b-4285-b1dd-7a6ac52b8074",
+      "title": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
+      "summary": "Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.",
+      "content": "Like a jump shooter who can't miss, the NBA is on a heater with TV audiences through the first month of its 2026-27 season.\n\nNational telecasts of league games on NBC/Peacock, ESPN and Prime Video are averaging 2.62 million viewers over the season's first month, based on Nielsen ratings and Adobe Analytics figures for Peacock's games. That's a sizable, 37 percent increase over the same time frame last year &#x2014;&#xA0;the first in the league's current media rights deal with NBCUniversal, ESPN and Prime Video. Through last week, every national telecast had topped 1 million viewers, the first time that's happened since 2023. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories TV TV Ratings: CMA Awards Score Seven-Year High TV Streaming Ratings: Rough Week for Original Series, 'From' Remains No. 1 Overall\n\nThat's&#xA0;also the highest mark on record for the first month of an NBA season, excluding lockout-delayed starts in 1999 and 2011 (and with the caveat that changes in Nielsen measurement the past few years have tended to benefit live sports).\n\nNBC's six national windows lead the way with an average of 4.5 million viewers (including streaming on Peacock), a 27 percent improvement over last season's first month.. The network's opening night game between the defending champion New York Knicks and the Philadelphia 76ers (who acquired LeBron James during the offseason) averaged 7.71 million cross-platform viewers.\n\nThe first eight games on Prime Video have averaged 2.05 million viewers, and ESPN is at 1.8 million viewers across 13 telecasts. Prime Video has grown by a huge 83 percent year to year, and ESPN's games are up 13 percent.\n\nPrime Video has the youngest audience of the NBA's three national media partners (the same is true for Prime relative to other NFL broadcasters); its median viewer age is a little under 46. ESPN and NBC (not including Peacock viewers) have a median age of about 53 for NBA games.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311",
+      "published_at": "2026-11-24T21:19:54+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 332,
+      "extracted_at": "2026-11-24T21:20:44.630037+00:00",
+      "updated_at": "2026-11-24T21:20:44.630037+00:00"
+    },
     {
       "id": "87e4375c-8fe7-463e-9bf1-ecb2136ddd88",
       "title": "Stephen King Was Outed as Richard Bachman Thanks to This Book That Was Turned Into a Movie 30 Years Ago",
@@ -101,7 +116,7 @@
     {
       "id": "b64ce391-b41a-4d8e-a762-5c4dc2ad9ae1",
       "title": "Al Gore To Purchase Hometown Paper Carthage Courier",
-      "summary": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly news paper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks. Gore said in a statement, \"I’m so grateful to the Lake […]",
+      "summary": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks. Gore said in a statement, \"I’m so grateful to the Lake family […]",
       "content": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly news paper that covers his Tennessee hometown and surrounding area.\n\nThe current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks.\n\nGore said in a statement, \"I&#x2019;m so grateful to the Lake family for their decades of leadership in supporting independent news here in Smith County. Having spent my early years as a military reporter in Vietnam and later at the Tennessean, I am a firm believer that a free, independent local press is irreplaceable for the enduring health of our community.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News MS NOW Hosts Sign On To Letter Urging Adoption Of \"Fair\" WGAE Contract; Network Says Talks Are Ongoing And \"Constructive\" News Joe Rogan's The Most Trusted Name In Media For Dudes - Especially Dudes With Daddy Issues\n\nGore said that when the paper came up for sale, \"I saw an opportunity to help preserve the Courier as an independent voice for Carthage and Smith County. I look forward to supporting the Carthage Courier team, many of whom have served this community for decades, as they continue to provide vital information and serve this community for generations to come.\" Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nCarthage is about one hour east of Nashville.\n\nThe publication also announced that Roger Wells would become publisher, succeeding Scott Winfree, with will serve in a part-time role as adviser due to health issues. The Courier also said that the current staff would be retained.\n\nGore previously was co-owner of Current TV, the cable channel that initially specialized in user-generated content and later switched to news programming and a lineup of progressive hosts. The channel was sold to Al Jazeera Media in 2013.",
       "source": "Deadline",
       "source_url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838",
@@ -110,8 +125,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 361,
-      "extracted_at": "2026-11-24T20:46:44.80695+00:00",
-      "updated_at": "2026-11-24T20:46:44.80695+00:00"
+      "extracted_at": "2026-11-24T21:16:43.747001+00:00",
+      "updated_at": "2026-11-24T21:16:43.747001+00:00"
     },
     {
       "id": "44d13f3f-cd52-4791-8e50-b916059d52da",
@@ -742,21 +757,6 @@
       "word_count": 261,
       "extracted_at": "2026-11-24T19:08:37.441642+00:00",
       "updated_at": "2026-11-24T19:08:37.441642+00:00"
-    },
-    {
-      "id": "4b17d87d-0913-4356-ba6c-9a54401c8738",
-      "title": "Audible Is Less Than $1/Month For 3 Months With This Black Friday Deal",
-      "summary": "Audible has rolled out one of its steepest subscription discounts of the year ahead of Black Friday, bringing the price of its audiobook service down to less than a dollar a month. From now through Dec. 28, eligible subscribers can sign up for three months of Audible Standard for just 99 cents per month, down […]",
-      "content": "Audible has rolled out one of its steepest subscription discounts of the year ahead of Black Friday, bringing the price of its audiobook service down to less than a dollar a month.\n\nFrom now through Dec. 28, eligible subscribers can sign up for three months of Audible Standard for just 99 cents per month , down from its usual $8.99 monthly price. As part of the holiday promotion, subscribers will also receive a $20 Audible credit to put toward additional audiobook purchases. Related Stories Netflix Alum Emily Feingold Joins Disney as Executive VP of Communications Alex de la Iglesia on His Upcoming Chilean Shoot ‘The Misunderstanding’: ‘Reality Has Become My Parallel World’\n\nThe Amazon-owned platform's Standard membership allows subscribers to choose one audiobook per month from its catalog of more than one million titles, in addition to unlimited podcast listening. The monthly audiobook selections remain accessible for the duration of one's membership. Once the promotional period ends, the subscription automatically renews at $8.99 per month, although members can cancel at any time.\n\nFor more voracious readers, Audible's $14.95-per-month Premium membership offers unlimited listening to a rotating library of more than 150,000 audiobooks and Audible Originals, in addition to one monthly audiobook credit that can be redeemed for any title in its broader catalog. Unlike Standard members' monthly selections, audiobooks purchased with Premium credits are yours to keep even after canceling your subscription.\n\nYou can check out Audible's complete catalogue here , which includes celebrity memoirs like Lena Dunham's \"Famesick,\" Britney Spears' \"The Woman in Me,\" Al Pacino's \"Sonny Boy\" and Viola Davis's \"Finding Me,\" in addition to book-to-screen adaptations such as \"It Ends With Us,\" \"The Perfect Couple,\" and \"Uglies.\" Check out some of the year's buzziest releases here.\n\nSign up for Audible's Black Friday deal through Dec. 28.",
-      "source": "Variety",
-      "source_url": "https://variety.com/shop/audible-plus-deal-2-1235042889",
-      "published_at": "2026-11-24T19:01:13+00:00",
-      "image_url": "https://variety.com/wp-content/uploads/2024/10/GettyImages-1242656589.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 299,
-      "extracted_at": "2026-11-24T19:02:37.887313+00:00",
-      "updated_at": "2026-11-24T19:02:37.887313+00:00"
     }
   ]
 }
