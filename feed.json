@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T20:38:58.110Z"
+    "updated_at": "2026-11-24T20:44:55.067Z"
   },
   "articles": [
+    {
+      "id": "44d13f3f-cd52-4791-8e50-b916059d52da",
+      "title": "Ariana Grande’s Eternal Sunshine Tour Is Going To Peacock And Fans Are Freaking Out",
+      "summary": "\"Christmas came early\" for the Arianators.",
+      "content": "Even though Ariana Grande was recently on a public hiatus, tons of fans were treated to her first tour in seven years. Plus, she's on the 2026 movie schedule for the comedy, Focker-In-Law and she just hard-launched her blooming relationship . Surprise, there’s even more! The Eternal Sunshine Tour just made a last-minute appearance on the upcoming TV schedule , and fans have a lot of thoughts.\n\nAs it turns out, Ariana Grande filmed her most recent tour for streaming, and a documentary about the “making” of the show. If you have a Peacock subscription , you’ll be able to watch The eternal sunshine diaries: the making of the tour starting on Friday, December 11 followed by the eternal sunshine tour on Saturday, December 12. It’s a two-part event! Here’s some of the comments on Instagram :\n\nYeah, the hype is real! Because Grande announced she’d be stepping back from the spotlight over the summer, this came out of nowhere. The documentary will follow Grande during the 30 days leading up to the opening of her sold out tour, which also includes the singer finishing up her latest album Petal , which came out on July 31.\n\nPeacock isn’t known for putting any of their originals in theaters, so better luck next time Arianators! However, you can support Grande at cinemas with Focker-In-Law , hitting theaters on Wednesday . And, for the many people who didn’t get to go to her sold-out tour, it’s pretty awesome that The Eternal Sunshine tour is coming to TVs in just a couple of weeks.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/streaming-news/ariana-grande-eternal-sunshine-tour-peacock-fans-freaking-out",
+      "published_at": "2026-11-24T20:38:11+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gizz3GGShKPipznYk6Pqc5-1920-80.png",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 261,
+      "extracted_at": "2026-11-24T20:44:42.274705+00:00",
+      "updated_at": "2026-11-24T20:44:42.274705+00:00"
+    },
     {
       "id": "e144ae83-39c4-490d-ac6e-7afb7f479dca",
       "title": "Marvel Confirms Patrick Stewart Was Offered a Role in Avengers: Secret Wars",
@@ -742,21 +757,6 @@
       "word_count": 215,
       "extracted_at": "2026-11-24T18:52:36.548424+00:00",
       "updated_at": "2026-11-24T18:52:36.548424+00:00"
-    },
-    {
-      "id": "a242a7e9-5419-4ad8-9557-61653a9a1d44",
-      "title": "Russo Brothers Aware 'Avengers: Doomsday' &#038; 'Secret Wars' Return Was A \"Risky\" Play; Part Of Them Didn't \"Want To Mess\" With The Movie Everyone Loved",
-      "summary": "When it was announced that the Russo Brothers would be coming back to the Marvel Cinematic Universe, after some lackluster ventures on their own without Marvel Studios , many of us were tepid with our enthusiasm, and in a new profile for \" Avengers: Doomsday ,\" the directors are well aware of this and even had their own apprehension early on about coming back to do the latest installment and then having to follow that up with \" Avengers: Secret Wars \" as their next attempt at a massive two-parter. Continue reading Russo Brothers Aware 'Avengers: Doomsday' & 'Secret Wars' Return Was A \"Risky\" Play; Part Of Them Didn't \"Want To Mess\" With The Movie Everyone Loved at The Playlist.",
-      "content": "When it was announced that the Russo Brothers would be coming back to the Marvel Cinematic Universe, after some lackluster ventures on their own without Marvel Studios , many of us were tepid with our enthusiasm, and in a new profile for \" Avengers: Doomsday ,\" the directors are well aware of this and even had their own apprehension early on about coming back to do the latest installment and then having to follow that up with \" Avengers: Secret Wars \" as their next attempt at a massive two-parter. Continue reading Russo Brothers Aware 'Avengers: Doomsday' & 'Secret Wars' Return Was A \"Risky\" Play; Part Of Them Didn't \"Want To Mess\" With The Movie Everyone Loved at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/russo-brothers-avengers-doomsday-secret-wars-return-was-risky-20261124",
-      "published_at": "2026-11-24T18:38:18+00:00",
-      "image_url": "https://www.youtube.com/embed/Wb8Tq_HD4E8",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 120,
-      "extracted_at": "2026-11-24T18:38:41.838914+00:00",
-      "updated_at": "2026-11-24T18:38:41.838914+00:00"
     }
   ]
 }
