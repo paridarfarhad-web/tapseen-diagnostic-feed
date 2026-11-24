@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T21:30:59.237Z"
+    "updated_at": "2026-11-24T21:33:04.979Z"
   },
   "articles": [
+    {
+      "id": "9ca8bff4-4fc9-4ebe-bb33-d54d546bd3a4",
+      "title": "11 Oscars Questions For The 2027 Season That Should Be Top Of Mind",
+      "summary": "The business side of Hollywood is winding down as the end of the year gets closer. \"Let's circle back in the new year\" is a common refrain for many on the development and financing side of the industry, but awards season (and box office, for that matter) is in full force. December will bring the Gotham Awards ceremony, Golden Globes, Critics' Choice and Independent Spirit Awards nominations, year-end critics' group honors as well as the unveiling of the 2027 Sundance Film Festival slate. Continue reading 11 Oscars Questions For The 2027 Season That Should Be Top Of Mind at The Playlist.",
+      "content": "The business side of Hollywood is winding down as the end of the year gets closer. \"Let's circle back in the new year\" is a common refrain for many on the development and financing side of the industry, but awards season (and box office, for that matter) is in full force. December will bring the Gotham Awards ceremony, Golden Globes, Critics' Choice and Independent Spirit Awards nominations, year-end critics' group honors as well as the unveiling of the 2027 Sundance Film Festival slate. Continue reading 11 Oscars Questions For The 2027 Season That Should Be Top Of Mind at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/11-oscars-questions-for-the-2027-season-that-should-be-top-of-mind-20261124",
+      "published_at": "2026-11-24T21:30:50+00:00",
+      "image_url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/24163015/ClubKid-1024x597.jpg",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 101,
+      "extracted_at": "2026-11-24T21:32:45.546488+00:00",
+      "updated_at": "2026-11-24T21:32:45.546488+00:00"
+    },
     {
       "id": "b9670ee1-a634-43fd-bf79-708de03239bd",
       "title": "Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’",
@@ -742,21 +757,6 @@
       "word_count": 263,
       "extracted_at": "2026-11-24T19:08:37.24055+00:00",
       "updated_at": "2026-11-24T19:08:37.24055+00:00"
-    },
-    {
-      "id": "f6d0ae10-c524-441a-bbc6-c216f188ed1f",
-      "title": "Imax Vet Craig Dehmel Joins Qube Cinema As Head Of Studio Relations",
-      "summary": "EXCLUSIVE: Theatrical tech, distribution and management corp Qube Cinema has hired Imax and 20th Century Fox distribution vet Craig Dehmel as their new Head of Studio Relations. Dehmel will be based in Los Angeles for Qube Wire, which has a global content distribution service which connects with over 7,000 theaters worldwide. In his new position, […]",
-      "content": "EXCLUSIVE: Theatrical tech, distribution and management corp Qube Cinema has hired Imax and 20th Century Fox distribution vet Craig Dehmel as their new Head of Studio Relations.\n\nDehmel will be based in Los Angeles for Qube Wire, which has a global content distribution service which connects with over 7,000 theaters worldwide. In his new position, Dehmel will lead strategic customer development and strengthen senior-level relationships across Hollywood studios, independent distributors, and content owners.\n\nDehmel's 35 years in the motion picture industry includes serving as Head of Global Distribution at Imax, where he led the planning, programming, and distribution of Hollywood studio, local-language, documentary, and special-content releases across more than 1,700 Imax screens worldwide. Related Stories Sports Imax To Screen Super Bowl In Deal With Disney, NFL News Imax Inks Largest UK Deal With Cinema Chain Acquired By Former Cineworld CEO Mooky Greidinger\n\nPrior to Imax, Dehmel spent 16 years at 20th Century Fox, where he held senior roles in sales, strategic planning, and international distribution, culminating in his appointment as EVP, International Distribution. He is a member of the Academy of Motion Picture Arts & Sciences, serving in its Executive Branch, and has been a guest lecturer at the UCLA Anderson School of Management for more than two decades. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\n\"Qube Wire&#x2019;s growth reflects the confidence that studios, distributors, and exhibitors place in our technology and services. As our global network continues to expand, strengthening our relationships with content owners and studio partners is central to our plans,\" said Harsh Rohatgi, CEO of Qube Cinema.\n\n\"Craig brings an exceptional understanding of the global theatrical business and longstanding relationships across the industry. His appointment underscores our commitment to our studio clients and will help us build on the momentum of Qube Wire, expand our engagement across the entertainment ecosystem, and create new opportunities for our wider portfolio,\" he added.\n\nDehmel said: \"I&#x2019;m excited to join Qube Cinema at a time of significant growth for the company and continued evolution across the theatrical distribution landscape. Qube Wire has built an impressive global network and strong relationships with studios and exhibitors. Having worked closely with these partners throughout my career, I see considerable opportunity to build on that foundation, deepen industry relationships, and help expand the reach of Qube&#x2019;s technology and services. I look forward to working with the team and our partners to support the company&#x2019;s continued growth.\"",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/imax-craig-dehmel-qube-cinema-1237232749",
-      "published_at": "2026-11-24T19:04:12+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Craig-Dehmel-Qube-logo.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 467,
-      "extracted_at": "2026-11-24T19:04:37.816243+00:00",
-      "updated_at": "2026-11-24T19:04:37.816243+00:00"
     }
   ]
 }
