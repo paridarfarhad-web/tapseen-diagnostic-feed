@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-24T13:38:33.293Z"
+    "updated_at": "2026-11-24T13:42:34.597Z"
   },
   "articles": [
+    {
+      "id": "10f5a96b-87ca-4e4a-845b-4cbdd506d9fc",
+      "title": "I Just Learned The Reason Vanna White Beat Out Hundreds Of Other Ladies For Wheel Of Fortune",
+      "summary": "She’s not the best letter-turner in the business for nothing!",
+      "content": "It’s kind of hard to believe that Vanna White has been co-hosting Wheel of Fortune for nearly 45 years as of the 2026 television schedule . For thousands of episodes, White has been turning the iconic letter on the show, but her beginning was as humble as you would expect. In a recent appearance on The Tonight Show Starring Jimmy Fallon , White told the story of her audition, why she was chosen by legendary producer Merv Griffin, and even what her first puzzle was (and the first letter she turned).\n\nI mean, yeah, fair enough, right? Though White’s role on the show has grown a lot over the years, far beyond only turning (now touching) the letters (and working hard for her salary ). In those early days, that was the job. If you’re going to get the gig, you better be elegant when you are flipping those lit-up boxes around! No one can argue with Griffin’s logic, and almost five incredible decades later, it's clear he couldn’t have made a better choice.\n\nAccording to White, she’d wanted to be a TV star since she first saw her “uncle,” actor Christopher George, in an episode of his show The Rat Patrol in the mid ‘60s. George, it should be noted, was not a biological uncle, but was a close friend of her mother’s. On her first day filming, however, she was still quite nervous (and was even worried it wouldn't work out in the early days ), telling Fallon:\n\nFamously, that wasn't the first time appearing on a game show. Two years before getting the job, she appeared as a contestant on The Price Is Right . Fallon and White talked about that appearance, which, sadly, ended without her making it on stage with Bob Barker, as she was never closest to the price of the item while on contestants' row.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/television/just-learned-the-reason-vanna-white-beat-out-hundreds-other-ladies-wheel-of-fortune",
+      "published_at": "2026-11-24T13:39:58+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nUaNJBkKku4jp7C5J5jXP8-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 312,
+      "extracted_at": "2026-11-24T13:42:21.016375+00:00",
+      "updated_at": "2026-11-24T13:42:21.016375+00:00"
+    },
     {
       "id": "49d6efd9-dd75-4e8e-8b29-872c2b7debb4",
       "title": "‘SNL’ Heads to France With Canal+, NBCUniversal Unveiling Cast and Manu Payet as First Host (EXCLUSIVE)",
@@ -742,21 +757,6 @@
       "word_count": 717,
       "extracted_at": "2026-11-24T03:01:49.203412+00:00",
       "updated_at": "2026-11-24T03:01:49.203412+00:00"
-    },
-    {
-      "id": "90d46874-6e80-4bda-bc92-5434f0611fe3",
-      "title": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
-      "summary": "A spokesperson for the director denied the allegations and said, \"It's not true.\"",
-      "content": "Director Antoine Fuqua has been sued for assault and battery by a bar manager, who alleges the director struck him with a handgun and used an antisemitic slur.\n\nIn a lawsuit filed on Friday in California state court, the bar manager, William Rosenthal, details an altercation in February in which Fuqua and his group were denied entry to a Los Angeles bar because they were overly intoxicated. He claims the director \"directed a racial and antisemitic slur\" at him before the filmmaker and his son \"pointed their handguns\" in his direction. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Business Selena Gomez's Wondermind Fraud Lawsuit Has Been Dismissed With Prejudice TV Chris Pratt Seeks Violent Redemption in 'The Terminal List' Season 2 First-Look Images\n\nRosenthal brings claims for assault, battery and intentional infliction of emotional distress. He seeks at least $50,000.\n\nIn a statement, a spokesperson for the director denied the allegations. \"It's not true,\" the representative said.\n\nThe lawsuit says Fuqua and four others, including his daughter and son, visited Good Times at Davey Wayne's in Los Angeles on Feb. 14. After the group was refused entry by Rosenthal, he was spat on by a member of the group and threatened by Fuqua's daughter, according to the complaint. They left the establishment, the lawsuit says.\n\nRoughly an hour later, Fuqua returned and confronted Rosenthal about pepper spraying his daughter. Rosenthal denied the accusation and was hit in the face with a handgun by the director, who later used an antisemitic slur and threatened to kill the bar manager. From there, the altercation escalated, with Fuqua's son also pulling out a handgun and striking Rosenthal, the lawsuit says.\n\nRosenthal says he sustained a head injury, nose fracture and lacerations from the alleged assault and now has post-traumatic stress disorder and severe emotional stress. His lawyers say the injuries will result in \"some permanent disability.\"",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725",
-      "published_at": "2026-11-24T02:56:12+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 329,
-      "extracted_at": "2026-11-24T02:57:48.990994+00:00",
-      "updated_at": "2026-11-24T02:57:48.990994+00:00"
     }
   ]
 }
