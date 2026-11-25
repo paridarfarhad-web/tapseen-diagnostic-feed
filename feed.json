@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T19:02:04.550Z"
+    "updated_at": "2026-11-25T19:10:03.835Z"
   },
   "articles": [
+    {
+      "id": "f21d82ff-1b14-4511-b9f4-6a57a803bdc6",
+      "title": "A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)",
+      "summary": "The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.",
+      "content": "A+E is deepening its investment in the world of microdramas , most recently by inking a content partnership with the shortform video company Snips, The Hollywood Reporter has learned.\n\nUnder the auspices of the agreement, Snips will use its proprietary technology to adapt previously released television programs into mobile-first stories told in vertically oriented, short chapters, with cliffhangers galore, any extraneous material trimmed and episodes no more than two minutes long. The deal will allow the mobile app to stream roughly 50 true-crime and reality projects from A+E Global Media &#x2019;s library in this shortform format.\n\n\"A+E Global Media has built some of the most obsessively watched unscripted and scripted storytelling in the industry for over four decades, and true crime and documentary content is some of the most naturally suited to how people actually watch on mobile &#x2014; in short, sharp, story-driven bursts,\" Snips co-founder and CEO Or Ben Shimon said in a statement . &#x201C;We are delighted to bring some of A+E&#x2019;s proven titles into our growing catalog.&#x201D; The specific titles that will be adapted for the Snips audience were not immediately available.\n\nThe Snips deal will provide A+E, which will retain ownership rights over projects, with data on viewership, completion rates, monetization and engagement for specific titles on the app. Meanwhile, the projects provided by A+E will augment the entertainment library available on Snips, which now includes around 1,700 titles.\n\nA+E Global Media is no stranger to the microdrama format, having first dipped its toes in the space in March when its label Lifetime released the project Tides of Temptation , executive produced by Taye Diggs. The company and Lifetime announced in October that they are releasing additional microdrama projects on MyLifetime.com and the Lifetime mobile app. A+E further revealed that it had adapted nearly 200 of its own projects into microdramas that the company would license to third-party platforms.\n\nSnips has previously partnered with Banijay Rights and BIG Media to distribute microdrama adaptations of the latter companies&#x2019; projects.\n\n&#x201C;The idea of Snips, it's to be a platform. We're not creating our own content because we don't want to compete with our content partners,&#x201C; Ben Shimon said in an interview with The Hollywood Reporter. &#x201C;The idea for us is that we're building relationships first [with] adapting content. Second, [our content partners] think about testing things or testing new genres with us.\"",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568",
+      "published_at": "2026-11-25T19:08:15+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 394,
+      "extracted_at": "2026-11-25T19:09:50.498825+00:00",
+      "updated_at": "2026-11-25T19:09:50.498825+00:00"
+    },
     {
       "id": "90c861d8-1e3e-499a-ba49-a48b58d0235f",
       "title": "As 'Hello Kitty' Joins Thanksgiving Parade, Sanrio Execs Tease 'Magical' Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand's Gen Alpha Strategy",
@@ -742,21 +757,6 @@
       "word_count": 129,
       "extracted_at": "2026-11-25T17:05:43.127129+00:00",
       "updated_at": "2026-11-25T17:05:43.127129+00:00"
-    },
-    {
-      "id": "82d750c0-7cf3-4783-8411-7a56ac9c2000",
-      "title": "Wondering If There Were ‘Red Flags’ For Theranos Employees? A Former Assistant Spoke Out",
-      "summary": "Yeah, there were some big ones",
-      "content": "The Nathan Fielder/Lance Oppenheim co-directed hit documentary You Can See Everything, which has done huge box office numbers on the 2026 movie schedule , does a very deep dive into Elizabeth Holmes after Theranos. Now, everyone from former employees to psychologists is weighing in on Holmes both before and after her fraud convictions led to a long prison sentence that she is currently serving in Texas. Recently, one of Holmes’ assistants, Aria Marinelli, from the early days of Theranos, appeared on the Assistants vs. Agents podcast and spoke about a few red flags she saw in her short time working for the disgraced CEO.\n\nIn the interview, she highlights a few things that made her question whether she wanted to be part of the company and if what they were doing was legitimate. According to Marinelli, the suspicions started even before she accepted the job, as she explained:\n\nShe went on to explain that pretty early on, there was never a lot of talk about what the company was trying to do with the machine. In typical Silicon Valley style, according to Marinelli, most of the talk was about stock shares, IPOs, and how much money they could all make. That was something else that didn’t sit right with her.\n\nThe final straw for Marinelli was when she was tasked with tracking down one of the company’s machines from the Army, which was supposedly testing it. Through multiple emails and phone calls, she seemed to be a wild goose chase, with everyone pointing to other people, and no one knowing where the device actually was. Marinelli told host Warner Bailey:\n\nMarinelli also gave her honest impression of Holmes, and it wasn’t all negative, but she did mention that she thought The Dropout , the series starring Amanda Seyfried that can be seen with a Hulu subscription , is a fair portrayal of Holmes as Marinelli knew her. She also praised You Can See Everything and seems to have real sympathy for Holmes, saying, “everyone has to lie at that level.”",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/wondering-if-there-were-red-flags-for-theranos-employees-former-elizabeth-holmes-assistant-spoke-out-you-can-see-everything",
-      "published_at": "2026-11-25T16:59:54+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Mo7MBZHsQoubVEU2MndVDT-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 340,
-      "extracted_at": "2026-11-25T17:01:42.429897+00:00",
-      "updated_at": "2026-11-25T17:01:42.429897+00:00"
     }
   ]
 }
