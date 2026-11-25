@@ -1,9 +1,61 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T12:03:42.051Z
+Last Updated: 2026-11-25T12:17:44.274Z
 Website: https://tapseen.com
 
 ============================================================
-[1] These 4 Unadaptable Fantasy Books Actually Became 10/10 Movies, But They Could Have Gone Wrong
+[1] Generative AI Indian Feature 'Maharaja in Denims,' Inspired by Sikh Ruler Maharaja Ranjit Singh, Sets April 2027 Release (EXCLUSIVE)
+Source: Variety | Status: expanded | Words: 1285
+Published: 2026-11-25T12:17:16+00:00
+URL: https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865
+------------------------------------------------------------
+SUMMARY:
+"Maharaja in Denims," author Khushwant Singh's novel about a young man who relives the life of 19th-century Sikh ruler Maharaja Ranjit Singh, is nearing the finish line as a feature-length generative AI film – one its makers say they effectively had to make three times. The team hopes to release the film by April 2027, […]
+
+CONTENT / EXTRACTED DETAILS:
+" Maharaja in Denims ," author Khushwant Singh's novel about a young man who relives the life of 19th-century Sikh ruler Maharaja Ranjit Singh , is nearing the finish line as a feature-length generative AI film &#x2013; one its makers say they effectively had to make three times.
+
+The team hopes to release the film by April 2027, in time for Baisakhi, the Punjabi harvest festival. Ahmedabad-based Twenty-Twenty One Studios has come aboard as co-producer and is weighing a theatrical run followed by non-theatrical distribution. Balpreet Kaur, a Punjab-based independent filmmaker, is directing and holds final creative control. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Agatha Christie Series 'Tommy & Tuppence' Coming to Channel 5 in the U.K.
+
+The book was optioned in July 2020 by producer Guneet Monga Kapoor, but that version never got made. Singh, who is also CEO of Intelliflicks Studios, the company producing the AI film, tells Variety the timing worked against it. The option landed in the middle of the COVID pandemic, cinemas were slow to recover, and a story spanning Ranjit Singh's reign as well as 20th- and 21st-century India was always going to be a costly gamble for a producer.
+
+The AI route came from Gurdeep Pall, then corporate VP of incubations at Microsoft. During a visit to Chandigarh in 2023, Pall asked Singh why the book had never reached the screen and proposed trying it with generative AI. His work with OpenAI's models had convinced him the technology would mature within a couple of years to the point where a realistic feature was possible.
+
+"It has unfolded exactly as predicted," Singh says.
+
+The pair co-founded Intelliflicks that year and unveiled the project with a short clip in 2024. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Choosing realism over mythology or sci-fi made consistency the central problem. Production began in 2024 with Midjourney and Runway, shifted to Google Veo, with Nano Banana handling stills, then moved through Kling AI and Seedance 2.0 before wrapping on tools available on Higgsfield. ChatGPT and Google Imagen helped build early character references, and keeping faces, costumes and sets in line took heavy manual fixes with face-swapping software, Photoshop and Adobe Firefly.
+
+Nano Banana proved the turning point, letting the team generate new camera angles and compositions from reference images with far fewer manual corrections. Even so, Singh says near-perfect shot-to-shot consistency only became achievable four or five months ago. The team rebuilt the stills for the entire film three times before locking a look. When Higgsfield began allowing moving shots to be generated straight from character sheets, switching over would have added time and money, so the team animated the stills it already had.
+
+Performances went through a similar evolution. Early on, real actors guided them via Runway Act-One. A single person created most of the motion shots so that each character would speak, move and react the same way throughout. The short clips also gave the editor less room to shape scenes than conventional footage allows.
+
+"For example, if a lampshade is placed at a particular spot in a two-minute scene, it must remain in exactly the same position across every generated shot, irrespective of the camera angle. Even the slightest inconsistency can disrupt the cinematic experience," Singh says.
+
+That learning curve drove up the budget. Singh says new technology usually cuts costs to around a tenth, but the team redid close to an hour of the film three times as the tools improved. He puts the cost at more than $500,000, excluding marketing, which has yet to begin.
+
+"Throughout this technological evolution, the creative process has remained entirely human-led. Screenwriting, direction, storyboarding, shot composition, performance evaluation and final creative decisions remain with our filmmaking team. AI is the technology that helps us translate that vision onto the screen," Singh says.
+
+Set in 2008, the film follows Hari Sandhu, who has flashbacks to three earlier lives: as Ranjit Singh, as a victim of Partition violence in 1947 and as a victim of the 1984 anti-Sikh violence. Kaur chose pivotal episodes from Ranjit Singh's life and added material from outside the novel to give his story more screen heft. The team stuck closely to historical sources, Singh says, but took liberties where the tools couldn't render period costumes accurately. Keeping faces and headgear consistent was also a major hurdle when production began, and some early imagery still bears the marks. Singh vetted the screenplay for accuracy with input from historians, but leaves day-to-day filmmaking to Kaur. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+The AI film joins a long line of Ranjit Singh projects. Last week, Katha Studios and B4 Makers Studios unveiled a big-screen biopic of the ruler , set to shoot in 2027. Actor-politician Raj Babbar's series "Maharaja Ranjit Singh" ran on public broadcaster Doordarshan from 2010 to 2011, while Contiloe Pictures' "Sher-e-Punjab: Maharaja Ranjit Singh," with Damanpreet Singh in the title role, aired on Life OK in 2017. Feature versions have proved harder to get off the ground. Babbar's planned film "The Lord of Five Rivers: Maharaja Ranjit Singh" was shelved, and "Border" director J.P. Dutta lined up a Ranjit Singh biopic after his 2018 war film "Paltan." Ranjit Singh's son Duleep Singh, the last Sikh maharaja, was the subject of Kavi Raz's 2017 feature "The Black Prince," starring Satinder Sartaaj.
+
+The music is entirely human-made. Every song was written, composed and performed by people, and dubbing and narration were recorded with actors in the studio. Playback singer Sukhwinder Singh sang two versions of the title track, composed by up-and-coming singer Hargun Kaur, after the team also considered Rahat Fateh Ali Khan, Wazir Patar and Daler Mehndi. Recorded in Mumbai, the track pairs modern production with traditional instruments of 19th-century Punjab. Internet sensation Inayat Kaur Bajaj makes her film debut, Punjab-based Azaad and Gurprasad Singh composed and performed several tracks, and the lyricists include Harmanjit Singh, known for "Rani Tatt," as well as Ferro Fluid, Azaad and director Kaur.
+
+On copyright, Singh relays Pall's view that there are two separate questions. What data the AI models were trained on is one for the companies that own them. How Intelliflicks uses those models is the studio's responsibility, and it avoids drawing on any style or IP that belongs to a person or company.
+
+Singh pushes back on concerns that AI filmmaking will put actors, animators and other crew out of work, pointing to a century of the industry adopting new tools, VFX among them.
+
+"Having made this film we see a need for human creativity and talent, from storytelling to cinematography to music. Sometimes the specific roles change but human involvement will be needed to make compelling cinema with AI," he says.
+
+Glitches may remain, Singh concedes, but he likens them to the flaws of the earliest motion pictures. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+"I definitely see 'Maharaja in Denims' as an experiment, and a successful one at that, because technically, it will be the first full-length generative AI film rooted in realism, and it will be there for everyone to see," he says.
+
+Intelliflicks is already exploring an adaptation of Singh's next novel, "The Opium Toffee," a love story set in Punjab during the 1980s, and has a spy script and a war film in development. The company is also open to partnering with outside filmmakers on hybrid productions.
+
+============================================================
+[2] These 4 Unadaptable Fantasy Books Actually Became 10/10 Movies, But They Could Have Gone Wrong
 Source: ComicBook.com | Status: expanded | Words: 1311
 Published: 2026-11-25T12:02:00+00:00
 URL: https://comicbook.com/movies/list/these-4-unadaptable-fantasy-books-actually-became-10-10-movies-but-they-could-have-gone-wrong
@@ -39,7 +91,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] SXSW Heads To Egypt In Partnership With Youth-Focused UTH Festival
+[3] SXSW Heads To Egypt In Partnership With Youth-Focused UTH Festival
 Source: Deadline | Status: expanded | Words: 632
 Published: 2026-11-25T11:53:10+00:00
 URL: https://deadline.com/2026/11/sxsw-egypt-uth-festival-1237233156
@@ -75,7 +127,7 @@ This year&#x2019;s edition also hosted a short film competition in partnership w
 A jury featuring Egyptian writer and director Omar Hilal ( Voy! Voy! Voy!); Emirati Maitha Alawadi (X, Charlie) and Egyptian actress Salma Abou Deif (Sheikh Jackson) awarded Egyptian director Abdelrahman Taha the top prize for 7,000 Years Of Color.
 
 ============================================================
-[3] 'Ramayana' Language App Cinedubs Named IFFI Accessibility Partner After Reaching More Than 100,000 Moviegoers in 42 Countries
+[4] 'Ramayana' Language App Cinedubs Named IFFI Accessibility Partner After Reaching More Than 100,000 Moviegoers in 42 Countries
 Source: Variety | Status: expanded | Words: 425
 Published: 2026-11-25T11:52:25+00:00
 URL: https://variety.com/2026/film/festivals/ramayana-app-cinedubs-iffi-2026-accessibility-partner-1236957861
@@ -105,7 +157,7 @@ Built by Dubswork Mobile Pvt. Ltd., Cinedubs can be downloaded from both Apple's
 For cinemas, the app's multilingual soundtracks run without any changes to existing projection or sound systems.
 
 ============================================================
-[4] Women Filmmakers From Kyrgyzstan, Romania and Mexico Push Past Tokenism at IFFI Goa
+[5] Women Filmmakers From Kyrgyzstan, Romania and Mexico Push Past Tokenism at IFFI Goa
 Source: Variety | Status: expanded | Words: 370
 Published: 2026-11-25T11:40:32+00:00
 URL: https://variety.com/2026/film/festivals/women-filmmakers-kyrgyzstan-romania-mexico-past-tokenism-iffi-1236957853
@@ -127,7 +179,7 @@ Andrews Correa spoke about the decade-long journey of making her debut feature "
 &#x218;erban also described her presence at IFFI as an emotional return to an ancestral homeland, pointing to the historical links between the Roma community and Rajasthan in northwest India.
 
 ============================================================
-[5] Cole Sprouse Says He Didn't Make 'Substantial Money' on 'Riverdale' Until Season 4: TV Is 'Not as Profitable for Actors Anymore'
+[6] Cole Sprouse Says He Didn't Make 'Substantial Money' on 'Riverdale' Until Season 4: TV Is 'Not as Profitable for Actors Anymore'
 Source: Variety | Status: expanded | Words: 461
 Published: 2026-11-25T11:26:30+00:00
 URL: https://variety.com/2026/tv/news/cole-sprouse-didnt-make-good-money-riverdale-season-4-1236957830
@@ -157,7 +209,7 @@ Added Cole, "I will say that that used to do a lot of damage to us when we were 
 Watch the full "Wildmen" episode below.
 
 ============================================================
-[6] Mark Cousins Backs Kyrgyzstan-Set Refugee Drama 'A Requiem in Bishkek,' a FIDMarseille Prize Winner (EXCLUSIVE)
+[7] Mark Cousins Backs Kyrgyzstan-Set Refugee Drama 'A Requiem in Bishkek,' a FIDMarseille Prize Winner (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 651
 Published: 2026-11-25T11:23:56+00:00
 URL: https://variety.com/2026/film/markets-festivals/mark-cousins-backs-fidmarseille-winner-requiem-bishkek-1236957835
@@ -197,7 +249,7 @@ The director participated in the WAVES Film Bazaar , the market component of the
 Ray's next projects will tackle political, anthropological and ethnographic subjects, often folding in magical realism and folklore drawn from Asian storytelling traditions, in keeping with the Film for People movement he follows.
 
 ============================================================
-[7] Netflix’s Twilight Reboot Can Finally Give Fans Something the Books Never Did
+[8] Netflix’s Twilight Reboot Can Finally Give Fans Something the Books Never Did
 Source: ComicBook.com | Status: expanded | Words: 921
 Published: 2026-11-25T11:20:00+00:00
 URL: https://comicbook.com/tv-shows/feature/netflixs-twilight-reboot-can-finally-give-fans-something-the-books-never-did
@@ -231,7 +283,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Scott Adkins On Getting The 'Diablo' Team Back Together For 'Brutal Justice' &#038; Prospects Of More 'Undisputed'
+[9] Scott Adkins On Getting The 'Diablo' Team Back Together For 'Brutal Justice' &#038; Prospects Of More 'Undisputed'
 Source: Deadline | Status: expanded | Words: 749
 Published: 2026-11-25T11:10:15+00:00
 URL: https://deadline.com/2026/11/scott-adkins-brutal-justice-last-fight-undisputed-diablo-1237227869
@@ -263,7 +315,7 @@ Adkins was, meanwhile, cool on the prospect of doing more in the Undisputed fran
 There was also talk of an Undisputed TV series. Adkins noted the challenges in taking the film mythology over to a series. &#x201C;I think it's hard to go from the movies &#x2026; does a TV series have those in its history, or do we start afresh? I wouldn't want to start fresh, but maybe you could do a TV show and you don't discuss the other movies, but they are there in the background &#x2026; but it gets complicated.&#x201D;
 
 ============================================================
-[9] Vinod Kapri's Himalayan Love Story 'Pyre' Heads to U.A.E., U.K. After India Release (EXCLUSIVE)
+[10] Vinod Kapri's Himalayan Love Story 'Pyre' Heads to U.A.E., U.K. After India Release (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 399
 Published: 2026-11-25T11:01:59+00:00
 URL: https://variety.com/2026/film/festivals/himalayan-drama-pyre-uae-uk-release-india-run-1236957829
@@ -289,7 +341,7 @@ Since opening in India, "Pyre" has steadily gained momentum with audiences. The 
 "Pyre" is currently showing at the International Film Festival of India in Goa.
 
 ============================================================
-[10] Damian Lewis Boards Short Film 'Odessa' as Executive Producer (Exclusive)
+[11] Damian Lewis Boards Short Film 'Odessa' as Executive Producer (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 411
 Published: 2026-11-25T11:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/damian-lewis-boards-short-film-odessa-as-executive-producer-1236762810
@@ -313,7 +365,7 @@ Lewis rose to international prominence as Major Richard Winters in HBO&#x2019;s 
 The film from Swinkels' Exosphere, produced by Rianne Beenes, also stars Johannes Zeiler ( Almania ). Odessa screened at the Cleveland International Film Festival and Tribeca Festival and was selected for the Santa Fe International Film Festival. He also produced Beyond Silence , which won awards at Tribeca and Palm Springs and was shortlisted for an Oscar in 2025.
 
 ============================================================
-[11] 5 Fictional Worlds That Look Epic on Screen But Would Be Total Nightmares to Live In
+[12] 5 Fictional Worlds That Look Epic on Screen But Would Be Total Nightmares to Live In
 Source: ComicBook.com | Status: expanded | Words: 1257
 Published: 2026-11-25T10:39:00+00:00
 URL: https://comicbook.com/movies/list/5-fictional-worlds-that-look-epic-on-screen-but-would-be-total-nightmares-to-live-in
@@ -351,7 +403,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Sul Kyung-gu on Korean Oscar Contender 'Possible Love,' a Lighter Set and Lee Chang-dong's 'Silent Challenge'
+[13] Sul Kyung-gu on Korean Oscar Contender 'Possible Love,' a Lighter Set and Lee Chang-dong's 'Silent Challenge'
 Source: Variety | Status: expanded | Words: 872
 Published: 2026-11-25T10:24:06+00:00
 URL: https://variety.com/2026/film/news/sul-kyung-gu-possible-love-lee-chang-dong-silent-challenge-1236957808
@@ -387,7 +439,7 @@ Sul says what he looks for in roles has not changed much. "It's really about a g
 If he may be a little more ambitious, Sul says, he would love to work with directors like Lee going forward. "I think that's really something that's true for all actors."
 
 ============================================================
-[13] Every MCU Hero That Has Already Encountered an Incursion, And If They’re Confirmed for Doomsday
+[14] Every MCU Hero That Has Already Encountered an Incursion, And If They’re Confirmed for Doomsday
 Source: ComicBook.com | Status: expanded | Words: 869
 Published: 2026-11-25T10:15:00+00:00
 URL: https://comicbook.com/movies/list/every-mcu-hero-that-has-already-encountered-an-incursion-and-if-theyre-confirmed-for-doomsday
@@ -425,7 +477,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] 'Hanuman Ansh' Went From Micro-Budget Flop to $48 Million Hit, Director Tells WAVES Film Bazaar
+[15] 'Hanuman Ansh' Went From Micro-Budget Flop to $48 Million Hit, Director Tells WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 749
 Published: 2026-11-25T10:02:58+00:00
 URL: https://variety.com/2026/film/markets-festivals/hanuman-ansh-micro-budget-flop-48-million-hit-1236957802
@@ -459,7 +511,7 @@ Guedes rejected the idea that commerce dilutes a director's voice, since "all th
 Chaturvedi argued that a filmmaker's intent, and the audience's ability to connect with it, matter more than surface elements such as production design, costumes or an actor's appearance. "AI can do that 2 + 2 = 4. It can't do that 2 + 2 = 5, 6, 7," he said, referring to the meanings that emerge when "you relate with the story's intent and emotions."
 
 ============================================================
-[15] This 2001 Sci-Fi Movie Explored the Multiverse Years Before Hollywood Became Obsessed With It
+[16] This 2001 Sci-Fi Movie Explored the Multiverse Years Before Hollywood Became Obsessed With It
 Source: ComicBook.com | Status: expanded | Words: 811
 Published: 2026-11-25T09:57:00+00:00
 URL: https://comicbook.com/movies/feature/this-2001-sci-fi-movie-explored-the-multiverse-years-before-hollywood-became-obsessed-with-it
@@ -487,7 +539,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Ashutosh Gowariker Wants IFFI Goa to Be a First-Stop Festival for Filmmakers, Rules Out 'Lagaan' Sequel
+[17] Ashutosh Gowariker Wants IFFI Goa to Be a First-Stop Festival for Filmmakers, Rules Out 'Lagaan' Sequel
 Source: Variety | Status: expanded | Words: 1100
 Published: 2026-11-25T09:46:10+00:00
 URL: https://variety.com/2026/film/festivals/ashutosh-gowariker-iffi-first-stop-festival-lagaan-2-1236957798
@@ -549,7 +601,7 @@ He hasn't settled the details yet. "I really want to make a bigger impact to IFF
 When this edition ends, his team will review what worked and what didn't. After two weeks off in December, they will start building relationships with other festivals in January, beginning with Sundance.
 
 ============================================================
-[17] Design Duo Brian Gluckstein &#038; Lynda Reeves Set Video Podcast With Marlo Miazga's M Media
+[18] Design Duo Brian Gluckstein &#038; Lynda Reeves Set Video Podcast With Marlo Miazga's M Media
 Source: Deadline | Status: expanded | Words: 566
 Published: 2026-11-25T09:30:00+00:00
 URL: https://deadline.com/2026/11/brian-gluckstein-lynda-reeves-video-podcast-m-media-1237232655
@@ -581,7 +633,7 @@ The show marks M Media's second order, following on from former Sphere Media bos
 The news also follows M Media hiring Sarah Zammit to VP of Content and Development and Ryan Dias as VP of Operations.
 
 ============================================================
-[18] UK Prime Minister Promises To Get Tough On NDAs After "Watershed" Russell Brand Sentencing
+[19] UK Prime Minister Promises To Get Tough On NDAs After "Watershed" Russell Brand Sentencing
 Source: Deadline | Status: expanded | Words: 508
 Published: 2026-11-25T09:23:08+00:00
 URL: https://deadline.com/2026/11/russell-brand-andy-burnham-ndas-david-walliams-1237233158
@@ -609,7 +661,7 @@ Discussion about NDAs has returned to the fore in UK entertainment since the Bra
 Over the weekend, Channel 4 News boss Esme Wren emailed staff reiterating that Channel 4 News-operator ITN no longer engages in the practice and has apologized for historic instances.
 
 ============================================================
-[19] John Travolta Honors His Audience at Torino Lifetime Achievement Award Ceremony: 'You Allowed Me to Fly'
+[20] John Travolta Honors His Audience at Torino Lifetime Achievement Award Ceremony: 'You Allowed Me to Fly'
 Source: Variety | Status: expanded | Words: 542
 Published: 2026-11-25T09:15:00+00:00
 URL: https://variety.com/2026/film/festivals/john-travolta-audience-torino-lifetime-achievement-award-1236957483
@@ -641,7 +693,7 @@ The audience's audible enthusiasm may even have contributed to Travolta's emotio
 When he did, he began by explaining where he starts when stepping into a new role. "With every character, I decide first how they move through space," he said. "[I first figure out] how they move through the air, and then I add to that."
 
 ============================================================
-[20] Wacom and India's IICT Ink Pact at IFFI Goa With Scholarships, Manga and Anime Masterclasses
+[21] Wacom and India's IICT Ink Pact at IFFI Goa With Scholarships, Manga and Anime Masterclasses
 Source: Variety | Status: expanded | Words: 624
 Published: 2026-11-25T09:14:28+00:00
 URL: https://variety.com/2026/film/festivals/wacom-india-iict-scholarships-manga-masterclasses-1236957791
@@ -673,7 +725,7 @@ The pact extends an existing collaboration between the two organizations. Rajiv 
 For IICT, the tie-up feeds a larger ambition Kulkarni described: an India that generates original IP for audiences around the world, rather than simply making work for others.
 
 ============================================================
-[21] The BBC's Latest Idea To Save £500M: Bring In Consultants
+[22] The BBC's Latest Idea To Save £500M: Bring In Consultants
 Source: Deadline | Status: expanded | Words: 555
 Published: 2026-11-25T09:14:09+00:00
 URL: https://deadline.com/2026/11/bbc-consultants-alixpartners-save-hundreds-of-millions-1237232693
@@ -701,7 +753,7 @@ The UK&#x2019;s National Audit Office (NAO) spending watchdog warned last week t
 In a 52-page report, the NAO said: &#x201C;Larger savings from scope reductions, delivered at a faster pace, could increase the risk of cumulative impacts on audiences, reputation and services, while potentially reducing the BBC&#x2019;s capacity to manage further change.&#x201D;
 
 ============================================================
-[22] Presenter &#038; YouTube Creator Patricia Bright Signs With HLD Talent &#038; Launches Feel-Good Show 'Unpacked &#038; Upgraded'
+[23] Presenter &#038; YouTube Creator Patricia Bright Signs With HLD Talent &#038; Launches Feel-Good Show 'Unpacked &#038; Upgraded'
 Source: Deadline | Status: expanded | Words: 460
 Published: 2026-11-25T09:00:00+00:00
 URL: https://deadline.com/2026/11/patricia-bright-signs-hld-talent-unpacked-upgraded-series-1237232602
@@ -733,7 +785,7 @@ After she gets a sense of what they want, Bright and her team of experts get to 
 " Unpacked & Upgraded blends these elements together in one show for the first time, and it feels like everything I&#x2019;ve been building towards. I can&#x2019;t wait for everyone to open the suitcase with me."
 
 ============================================================
-[23] 'Minotaur' Star Iris Lebedeva Signs With Independent Talent Group (EXCLUSIVE)
+[24] 'Minotaur' Star Iris Lebedeva Signs With Independent Talent Group (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 547
 Published: 2026-11-25T09:00:00+00:00
 URL: https://variety.com/2026/film/news/minotaur-star-iris-lebedeva-signs-independent-talent-group-1236957640
@@ -761,7 +813,7 @@ Lebedeva spent four years at the Gerasimov Institute of Cinematography, the Mosc
 She has kept up a parallel stage career. Her roles include Irina Arkadina in Chekhov's "The Seagull," Princess Lise Bolkonskaya in Solovyov's seven-hour production of "War and Peace," Sarah in Harold Pinter's "The Lover" and Marianne in Nick Payne's "Constellations."
 
 ============================================================
-[24] This Forgotten '90s Sci-Fi Series Was a Strange Experiment, But It Held a Much Bigger Mystery
+[25] This Forgotten '90s Sci-Fi Series Was a Strange Experiment, But It Held a Much Bigger Mystery
 Source: ComicBook.com | Status: expanded | Words: 970
 Published: 2026-11-25T08:31:00+00:00
 URL: https://comicbook.com/tv-shows/feature/this-forgotten-90s-sci-fi-series-was-a-strange-experiment-but-it-held-a-much-bigger-mystery
@@ -791,7 +843,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Inside Story Of California's Napa Valley Wine Region Explored In Feature Doc
+[26] Inside Story Of California's Napa Valley Wine Region Explored In Feature Doc
 Source: Deadline | Status: expanded | Words: 360
 Published: 2026-11-25T08:30:00+00:00
 URL: https://deadline.com/2026/11/napa-valley-wine-region-feature-doc-docsville-pmg-slam-1237232680
@@ -815,7 +867,7 @@ Couson described Napa as a "region full of contrasts." "Behind the successes, th
 The doc is produced by Lawrence Elman, Todd Ruppert, Scott Allison and Lauren Mammini.
 
 ============================================================
-[26] Noomi Rapace Launches Production Company Boom Films, Dedicated to Female-Driven Projects and Backed by Thomas Benski’s Lumina Media (EXCLUSIVE)
+[27] Noomi Rapace Launches Production Company Boom Films, Dedicated to Female-Driven Projects and Backed by Thomas Benski’s Lumina Media (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 884
 Published: 2026-11-25T08:30:00+00:00
 URL: https://variety.com/2026/film/global/noomi-rapace-production-company-boom-films-1236956766
@@ -857,7 +909,7 @@ Rapace said she will be starring in several of the projects in the Boom Films sl
 "I have a really dark sense of humor, and I'm really drawn to comedies. Even though everyone sees me as this very serious, hardcore [actor], like, 'Oh she's so badass!'" she said. "But my son is always telling me, 'You're such a nerd.' So I think maybe I'd like to direct a stupid comedy &#x2014; something I've never done. Maybe that's where I need to go."
 
 ============================================================
-[27] Lionsgate Play Sets 'Eklavya' As First AI-Led Series For Tiger TV
+[28] Lionsgate Play Sets 'Eklavya' As First AI-Led Series For Tiger TV
 Source: Deadline | Status: expanded | Words: 572
 Published: 2026-11-25T06:15:00+00:00
 URL: https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555
@@ -885,7 +937,7 @@ Using AI actors in series continues to prove controversial, with the likes of Ti
 "That&#x2019;s why every title on our AI slate is driven by a strong creative team, from the writers and artists to the director. Eklavya is our boldest statement of intent, an eight-episode first season built to grow into a multi-season franchise, and Yug R.Ai is just the beginning." Puri, the director, added: "Eklavya was never given a teacher, so he made the bow his own. In a way, that&#x2019;s what this series is for me. I&#x2019;ve spent my career making ambitious ideas fit inside budgets and schedules. With Eklavya , for the first time, the canvas is as big as the imagination. Every frame, every emotion and every choice, the characters bring alive on screen comes from our team." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
 
 ============================================================
-[28] Lionsgate Play Casts AI Actor Yug R.Ai in Series 'Eklavya,' Partners With Google Cloud (EXCLUSIVE)
+[29] Lionsgate Play Casts AI Actor Yug R.Ai in Series 'Eklavya,' Partners With Google Cloud (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 543
 Published: 2026-11-25T06:15:00+00:00
 URL: https://variety.com/2026/tv/news/lionsgate-play-ai-actor-eklavya-ai-led-original-1236957605
@@ -915,7 +967,7 @@ Puri said that Eklavya, never given a teacher, made the bow his own, and that th
 Lionsgate Play set up Tiger TV to bring Indian stories to a global audience. In India, the service costs INR349 ($4) a quarter or INR799 ($8) a year. It is set to expand to the U.K., the U.S., Canada, Australia and New Zealand, aimed at Punjabi and South Asian audiences in those markets.
 
 ============================================================
-[29] 'Hershey' Review: In a Sugary Sweet Biopic, Finn Wittrock Plays the Candy Man Who Turned Chocolate Into an American Empire
+[30] 'Hershey' Review: In a Sugary Sweet Biopic, Finn Wittrock Plays the Candy Man Who Turned Chocolate Into an American Empire
 Source: Variety | Status: expanded | Words: 1066
 Published: 2026-11-25T05:52:53+00:00
 URL: https://variety.com/2026/film/reviews/hershey-review-finn-wittrock-1236957567
@@ -939,7 +991,7 @@ Milton meets and marries the feisty Kitty (Alexandra Daddario), who loves him, s
 "Hershey" is a movie that makes you hungry for chocolate, and that&#x2019;s part of its appeal. So is the notion that a legendary American entrepreneur could ever have been this much of a selfless gentleman. Yet the movie simulates your sweet tooth without necessarily satisfying it. Chocolate, as anyone who craves it knows, is no casual delight. There&#x2019;s something orgasmic about chocolate (yes, even a Hershey bar), but in "Hershey" it&#x2019;s a strictly civilized pleasure.
 
 ============================================================
-[30] Amanda Seyfried Reveals ‘You Can See Everything’ Script Required ‘Five-Factor Authentication App’ to Access
+[31] Amanda Seyfried Reveals ‘You Can See Everything’ Script Required ‘Five-Factor Authentication App’ to Access
 Source: Variety | Status: expanded | Words: 417
 Published: 2026-11-25T05:35:39+00:00
 URL: https://variety.com/2026/tv/news/amanda-seyfried-you-can-see-everything-script-elizabeth-holmes-nathan-fielder-1236957716
@@ -961,7 +1013,7 @@ Once Holmes is sent away to prison, Fielder tapped Seyfried to take her place, w
 Seyfried alluded to the &#x201C;You Can See Everything&#x201D; script being kept under lock and key, revealing, &#x201C;I didn&#x2019;t know what the script would be until I got to set, or it would be, like, five-factor authentication app where I could maybe read it the night before.&#x201D;
 
 ============================================================
-[31] NFL Thanksgiving Week Football Schedule: How To Watch &#038; Livestream All Games
+[32] NFL Thanksgiving Week Football Schedule: How To Watch &#038; Livestream All Games
 Source: Deadline | Status: expanded | Words: 369
 Published: 2026-11-25T04:55:00+00:00
 URL: https://deadline.com/2026/11/nfl-thanksgiving-games-schedule-livestream-online-tv-1237233131
@@ -989,7 +1041,7 @@ The Thanksgiving Eve game on Netflix will feature U2 during Halftime, while the 
 For the third year, each MVP will receive the Madden Thanksgiving MVP trophy, created to honor John and celebrate what football means to the Thanksgiving holiday. This year, the NFL is introducing a new trophy: a football turkey leg commissioned by trophy designer Victor Solomon.
 
 ============================================================
-[32] The Coolest Batmobile Has Been Sold, but Even Bruce Wayne Might Flinch at the Price
+[33] The Coolest Batmobile Has Been Sold, but Even Bruce Wayne Might Flinch at the Price
 Source: ComicBook.com | Status: expanded | Words: 602
 Published: 2026-11-25T04:48:57+00:00
 URL: https://comicbook.com/collectibles/news/the-coolest-batmobile-has-been-sold-but-even-bruce-wayne-might-flinch-at-the-price
@@ -1009,7 +1061,7 @@ However, there is nothing like the real thing, which is why this auction attract
 How much would you pay to own the Batmobile? Let us know in the comments.
 
 ============================================================
-[33] ‘The Remarried Empress’ Star Shin Mina On Playing Royalty, Shooting In Europe &#038; Why The Show Is Such A Huge Hit
+[34] ‘The Remarried Empress’ Star Shin Mina On Playing Royalty, Shooting In Europe &#038; Why The Show Is Such A Huge Hit
 Source: Deadline | Status: expanded | Words: 1226
 Published: 2026-11-25T04:28:11+00:00
 URL: https://deadline.com/2026/11/the-remarried-empress-shin-mina-ju-jihoon-disney-hulu-1237232430
@@ -1061,7 +1113,7 @@ We first got a glimpse of how big the show would become at this year&#x2019;s Bu
 The final two episodes are dropping today at 5:00pm KST, 4:00pm HKT, 8:00am GMT and midnight PST.
 
 ============================================================
-[34] Avengers: Doomsday Team Confirms Patrick Stewart Tribute Is in the Works for Marvel's Next Movie
+[35] Avengers: Doomsday Team Confirms Patrick Stewart Tribute Is in the Works for Marvel's Next Movie
 Source: ComicBook.com | Status: expanded | Words: 820
 Published: 2026-11-25T04:19:39+00:00
 URL: https://comicbook.com/uncategorized/news/avengers-doomsday-team-confirms-patrick-stewart-tribute-is-in-the-works-for-marvels-next-movie
@@ -1089,7 +1141,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] 5 Weird ’80s Movies That Every Gen X Kid Watched, And That Explain Why We’re All Messed Up
+[36] 5 Weird ’80s Movies That Every Gen X Kid Watched, And That Explain Why We’re All Messed Up
 Source: ComicBook.com | Status: expanded | Words: 1540
 Published: 2026-11-25T04:12:08+00:00
 URL: https://comicbook.com/movies/list/5-weird-80s-movies-that-every-gen-x-kid-watched-and-that-explain-why-were-all-messed-up
@@ -1131,7 +1183,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Avengers: Doomsday Theory Breaks Down What Doom Is Really After (And It Includes More Big Surprises)
+[37] Avengers: Doomsday Theory Breaks Down What Doom Is Really After (And It Includes More Big Surprises)
 Source: ComicBook.com | Status: expanded | Words: 844
 Published: 2026-11-25T03:59:00+00:00
 URL: https://comicbook.com/movies/feature/avengers-doomsday-theory-breaks-down-what-doom-is-really-after-and-it-includes-more-big-surprises
@@ -1163,7 +1215,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Jenna Ushkowitz Says 'Glee's Cory Monteith Tribute "Wasn't The Right Thing": "It Was Too Soon For That"
+[38] Jenna Ushkowitz Says 'Glee's Cory Monteith Tribute "Wasn't The Right Thing": "It Was Too Soon For That"
 Source: Deadline | Status: expanded | Words: 398
 Published: 2026-11-25T03:58:42+00:00
 URL: https://deadline.com/2026/11/jenna-ushkowitz-glee-cory-monteith-tribute-1237233122
@@ -1189,7 +1241,7 @@ Ushkowitz mentioned that at the time "even our creators, they were dealing with 
 Watch the full interview in the video below.
 
 ============================================================
-[38] 'Dancing With The Stars' Finale Recap: Who Takes Home The Len Goodman Mirrorball Trophy?
+[39] 'Dancing With The Stars' Finale Recap: Who Takes Home The Len Goodman Mirrorball Trophy?
 Source: Deadline | Status: expanded | Words: 1375
 Published: 2026-11-25T03:58:30+00:00
 URL: https://deadline.com/2026/11/dancing-with-the-stars-season-35-finale-recap-1237233031
@@ -1243,7 +1295,7 @@ Paralympian Ezra Frech with Daniella Karagach . Closing out the entire competiti
 After a grueling 11 weeks, Ezra and Daniella take home the Len Goodman Mirrorball Trophy. That's a wrap on Dancing with the Stars Season 35!
 
 ============================================================
-[39] ‘Glee’ Star Jenna Ushkowitz Says Show’s Cory Monteith Tribute ‘Wasn’t the Right Thing’ to Do: ‘It Was Too Soon… We Were Grieving’
+[40] ‘Glee’ Star Jenna Ushkowitz Says Show’s Cory Monteith Tribute ‘Wasn’t the Right Thing’ to Do: ‘It Was Too Soon… We Were Grieving’
 Source: Variety | Status: expanded | Words: 514
 Published: 2026-11-25T03:32:05+00:00
 URL: https://variety.com/2026/tv/news/glee-jenna-ushkowitz-cory-monteith-tribute-1236957675
@@ -1269,7 +1321,7 @@ Ushkowitz also noted that the &#x201C;nobody&#x201D; on the show &#x201C;had the
 Speaking with Variety earlier this month, co-creator Ian Brennan said he&#x2019;s &#x201C;really excited about it.&#x201D; &#x201C;It&#x2019;s going to be a lot of fun,&#x201D; he added. &#x201C;We&#x2019;re still figuring a lot of it out,&#x201D; Brennan said on addressing the deaths of Monteith and Rivera, who died in 2020. &#x201C;That&#x2019;s going to be part of it, that sadness and that loss. But still in all, I think [&#x201C;Glee&#x201D;] is too big of a thing to sort of let lay. There&#x2019;s something about that feels right right now.&#x201D;
 
 ============================================================
-[40] 'Dancing With the Stars: The Next Pro' Renewed for Second Season
+[41] 'Dancing With the Stars: The Next Pro' Renewed for Second Season
 Source: The Hollywood Reporter | Status: expanded | Words: 482
 Published: 2026-11-25T03:29:24+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-next-pro-renewed-season-2-male-dancers-1236762752
@@ -1295,7 +1347,7 @@ THR also recently asked Next Pro judge and season 35 pro dancer Mark Ballas if h
 Dancing With the Stars: The Next Pro is produced by BBC Studios. Conrad Green serves as showrunner and executive producer. Deena Katz, Ryan O&#x2019;Dowd, Krystal Whitney and Alex Cross are executive producers. Quinn Lipton is co-executive producer.
 
 ============================================================
-[41] Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One
+[42] Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One
 Source: The Hollywood Reporter | Status: expanded | Words: 334
 Published: 2026-11-25T03:20:14+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/fubo-free-access-to-disney-plus-hulu-espn-unlimited-fox-one-1236762695
@@ -1317,7 +1369,7 @@ Visit fubo.tv to further compare plans and sign up for the free trial period.
 Related: Audible Subscriptions Drop to $1 Per Month for Black Friday
 
 ============================================================
-[42] Philip Rosenberg Dies: Oscar-Winning Production Designer On 'All That Jazz' As Well As 'Network' &#038; 'Moonstruck' Was 91
+[43] Philip Rosenberg Dies: Oscar-Winning Production Designer On 'All That Jazz' As Well As 'Network' &#038; 'Moonstruck' Was 91
 Source: Deadline | Status: expanded | Words: 334
 Published: 2026-11-25T03:15:36+00:00
 URL: https://deadline.com/2026/11/philip-rosenberg-dead-oscar-production-designer-1237233057
@@ -1339,7 +1391,7 @@ He likewise had a long-running working relationship with Norman Jewison. The two
 Rosenberg's breakthrough came on All That Jazz in 1978. His work on Bob Fosse's film earned him an Oscar, which he shared with Tony Walton, Edward Stewart and Gary J. Brink. He would be nominated again in 1978 as an art director on The Wiz .
 
 ============================================================
-[43] Doomsday Just Shattered a Disney Record But One Avenger Still Has The Movie Beat
+[44] Doomsday Just Shattered a Disney Record But One Avenger Still Has The Movie Beat
 Source: ComicBook.com | Status: expanded | Words: 566
 Published: 2026-11-25T03:05:39+00:00
 URL: https://comicbook.com/movies/news/doomsday-just-shattered-a-disney-record-but-one-avenger-still-has-the-movie-beat
@@ -1365,7 +1417,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] ‘Dancing With The Stars: The Next Pro’ Renewed For Season 2 At ABC &#038; Prepares To Move Filming To LA
+[45] ‘Dancing With The Stars: The Next Pro’ Renewed For Season 2 At ABC &#038; Prepares To Move Filming To LA
 Source: Deadline | Status: expanded | Words: 552
 Published: 2026-11-25T03:05:00+00:00
 URL: https://deadline.com/2026/11/dancing-with-the-stars-the-next-pro-renewed-season-2-abc-la-1237233033
@@ -1399,7 +1451,7 @@ Robert Irwin returns as host, although, at the moment, it&#x2019;s unclear if th
 Dancing with the Stars: The Next Pro is produced by BBC Studios. Conrad Green serves as showrunner and executive produces alongside Deena Katz, Ryan O&#x2019;Dowd, Krystal Whitney and Alex Cross are executive producers. Quinn Lipton is co-executive producer.
 
 ============================================================
-[45] ‘KPop Demon Hunters’ Rei Ami To Host ABC’s ‘Who’s In The Band?’
+[46] ‘KPop Demon Hunters’ Rei Ami To Host ABC’s ‘Who’s In The Band?’
 Source: Deadline | Status: expanded | Words: 366
 Published: 2026-11-25T03:00:00+00:00
 URL: https://deadline.com/2026/11/kpop-demon-hunters-rei-ami-host-abc-whos-in-the-band-1237232706
@@ -1431,7 +1483,7 @@ It comes from Bacon&#x2019;s Yes Yes Media, which is backed by Sister Group. Bac
 Bacon will exec produce alongside Cowell, Kotecha and Elisabeth Murdoch . Matt Banks and Ashley Edens will serve as showrunners and will also exec produce.
 
 ============================================================
-[46] Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)
+[47] Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 657
 Published: 2026-11-25T03:00:00+00:00
 URL: https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588
@@ -1463,7 +1515,7 @@ The Borobudur declaration calls for a closer, more formal audiovisual alliance b
 The JAFF Market runs alongside the Jogja-Netpac Asian Film Festival .
 
 ============================================================
-[47] 3 MCU Characters Who Could Be the Key to Bringing the X-Men and Avengers Together
+[48] 3 MCU Characters Who Could Be the Key to Bringing the X-Men and Avengers Together
 Source: ComicBook.com | Status: expanded | Words: 838
 Published: 2026-11-25T02:47:00+00:00
 URL: https://comicbook.com/movies/list/3-mcu-characters-who-could-be-the-key-to-bringing-the-x-men-and-avengers-together
@@ -1497,7 +1549,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Golden Globes Predictions: 170 Films and 475 Actors Vie for Nominations as Voting Gets Underway. Who Will Make the Cut?
+[49] Golden Globes Predictions: 170 Films and 475 Actors Vie for Nominations as Voting Gets Underway. Who Will Make the Cut?
 Source: Variety | Status: expanded | Words: 624
 Published: 2026-11-25T02:35:00+00:00
 URL: https://variety.com/lists/2027-golden-globes-predictions
@@ -1535,7 +1587,7 @@ The list of Oscar predictions in all categories can be found here .
 Variety parent company Penske Media Corporation owns Golden Globes producer Dick Clark Prods. in a joint venture with Eldridge .
 
 ============================================================
-[49] 'The Samurai and the Prisoner' Review: Kiyoshi Kurosawa Folds Nesting Mysteries into an Elegantly Classical Shogun-Era Drama
+[50] 'The Samurai and the Prisoner' Review: Kiyoshi Kurosawa Folds Nesting Mysteries into an Elegantly Classical Shogun-Era Drama
 Source: Variety | Status: expanded | Words: 1180
 Published: 2026-11-25T02:12:22+00:00
 URL: https://variety.com/2026/film/reviews/the-samurai-and-the-prisoner-review-1236754267
@@ -1563,28 +1615,4 @@ This four-chapter structure and the contained castle, with its rooms and courtya
 But mostly the watchword in the craft design is simplicity, like Kurosawa is preparing a magic trick and showing us, look! No hidden accomplices or secret trapdoors! And it helps to have an uncluttered stage, when the plot is so baroque and the (routinely excellent) cast of clan chiefs and nobles and advisers and trusty retainers is so numerous. Don't worry, they get fewer all the time: Fans of Genki Kawamura's "Exit 8," for example, will be happy to see Kochi Yamato, after his breakout as the creepily smiling Walking Man in the 2025 videogame adaptation, but they are also fairly warned not to get too attached to him.
 
 The same could be said for roughly half the populous but well-differentiated&#xA0;cast. As the seasons pass, the castle ranks are thinned by defection or death, and increasingly it feels like Murashige's only real friend is the enemy he threw in prison a year ago. Kanbei is locked up but in many ways freer than a weighed-down Murashige, with his proscribed roles and responsibilities, and his conflicted loyalty to a code he no longer believes in. Kurosawa's highly entertaining adaptation knows that just because you are chained does not make you a prisoner, any more than having wealth and power can reliably make you free.
-
-============================================================
-[50] Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: "He Was Struggling With His Health"
-Source: Deadline | Status: expanded | Words: 395
-Published: 2026-11-25T02:10:40+00:00
-URL: https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059
-------------------------------------------------------------
-SUMMARY:
-Patrick Stewart's final film is set to be Avengers: Doomsday, where he reprises his role as Professor Charles Xavier one last time. To honor the actor, Marvel's Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18. "We’re long done filming that movie, and he did an […]
-
-CONTENT / EXTRACTED DETAILS:
-Patrick Stewart 's final film is set to be&#xA0; Avengers: Doomsday , &#xA0;where he reprises his role as Professor Charles Xavier one last time.
-
-To honor the actor, Marvel's Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18.
-
-"We&#x2019;re long done filming that movie, and he did an amazing job for us," the studio head told Entertainment Weekly . "We&#x2019;re looking now at how we can put something together that honors and respects our friend."
-
-Stewart died on October 28 &#xA0;from Alzheimer&#x2019;s disease and Lewy body dementia and was originally offered the chance to appear in both Avengers: Doomsday and Avengers: Secret Wars , which will be released at the end of 2027. However, the actor opted to do only the first film, EW noted. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful" News 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
-
-Feige recalled that on his last day on the set, Stewart "stood up and he gave a speech to the crew."
-
-Director Anthony Russo said, "It was clear that he was struggling with his health, and he worked so hard to deliver a performance and a presence &#x2014; for us as directors, for his other actors, for the crew."
-
-"You could see it wasn&#x2019;t just the effort of a regular actor showing up and delivering that kind of presence and performance and experience for others, collaboration," Anthony Russo continued. "It was someone who was really being challenged in a very deep way on a health level, showing up and doing that. For him to have muscled through and delivered the performance that he did in that movie, and the experience that he delivered for all of us as collaborators, it made it intensely emotional."
 
