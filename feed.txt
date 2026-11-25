@@ -1,9 +1,101 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T16:44:00.212Z
+Last Updated: 2026-11-25T16:46:03.005Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Marvel Boss Squashes Ghost Rider Rumor, But I Don't Believe Him
+[1] Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit
+Source: Deadline | Status: expanded | Words: 2024
+Published: 2026-11-25T16:45:00+00:00
+URL: https://deadline.com/2026/11/studio-lambert-traitors-circle-monopoly-interview-1237232183
+------------------------------------------------------------
+SUMMARY:
+One of the interesting consequences of Banijay’s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert, has been reunited with his early work. Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife […]
+
+CONTENT / EXTRACTED DETAILS:
+One of the interesting consequences of Banijay &#x2019;s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert , has been reunited with his early work.
+
+Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife Swap and Faking It.
+
+As a result of the merger, which values the company at around $8B, that brings together Banijay&#x2019;s 130 production companies (including RDF Media, which was folded into Remarkable Entertainment in 2024) with All3Media&#x2019;s 40 shingles, Lambert and his team, which includes Chief Creative Officer Tim Harcourt and U.S. President Jack Burgess, can now dig through his own archives in search of IP to plunder and shows to remake. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Lambert told Deadline, &#x201C;We're excited to be part of a very big group. We're excited about the fact that we have access to a pretty significant rights library, including a whole lot of shows that we did at RDF that we suddenly have access to.&#x201D; Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Studio Lambert already has form bringing back and reinvigorating some of its biggest hits such as The Circle , which started life on Channel 4 in the UK, before becoming a Netflix series and is now streaming on Hulu, and Undercover Boss , which ran for 11 seasons on CBS between 2010 and 2022, and is now in production on a new season for the Skydance-owned broadcast network with Drew Carey as host.
+
+It will look to see whether there&#x2019;s any new life for franchises such as Wife Swap , which was most recently turned into a Real Housewives vehicle, Faking It , the &#x201C;modern-day Pygmalion&#x201D; that ran for seven seasons in the UK and was adapted for TLC in the early noughties, Secret Millionaire , which was remade for both Fox and ABC between 2008 and 2012, and youth-skewing reality show Shipwrecked .
+
+&#x201C;We&#x2019;re going through it at the moment, trying to work out what we think is the best thing to do,&#x201D; Lambert said. &#x201C;There&#x2019;s a wealth of opportunity and renaissance moments,&#x201D; added Harcourt. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The trio are aware that they are &#x201C;a bit of an anomaly&#x201D; within the broader Banijay group.
+
+&#x201C;There hasn't been quite enough clarity about the fact that we're not in the country-specific setup. We&#x2019;re not an American company working to the American system and we&#x2019;re not a British company working to the British system,&#x201D; said Lambert. &#x201C;We&#x2019;re a bit of an anomaly, but an anomaly that comes from the fact that we're both British and American, and also we're not fully owned by Banijay, so that makes quite a big difference as well.&#x201D;
+
+They&#x2019;re happy to be part of a big group, but they&#x2019;re aware that &#x201C;we hang and fall on our ability to come up with ideas and to sell shows and make them very well.&#x201D;
+
+&#x201C;It's a new outlook for [the parent company], and so far everyone's been very accommodating of our desire to keep working in the way that has been working for us,&#x201D; added Burgess.
+
+They work closely with Jane Turton, the former All3Media CEO who is now Banijay&#x2019;s Deputy CEO.
+
+Turton told Deadline, &#x201C;Working with Stephen and Tim and the team at Studio Lambert is always exciting. The ideas, the shows, the success and, of course, the personalities are all big. Big bold ambitious ideas developed and produced to the very highest quality. It is a pleasure to be part of the Studio Lambert team and especially so now that we are part of the bigger Banijay Entertainment with its many production territories, deep IP catalogue and expertise in distribution, digital and live.&#x201D;
+
+Unlike many transatlantic companies, Studio Lambert does not geo-block its ideas with key staff being incentivized to work on projects regardless of whether they land in the U.S. or UK.
+
+This was intentional to allow Studio Lambert entry into the &#x201C;exclusive&#x201D; club of producers that are trusted to make big shows. Lambert said that it started with The Circle , which was originally developed for Channel 4 in the UK before becoming a hit among younger viewers and being adapted for Netflix.
+
+&#x201C;Our effort has been on these big, high-budget shows, which we knew that buyers, both in Britain and America, wanted. In this highly competitive market, [buyers] all know that they need these big, noisy tentpole shows. But they also know that if they order an idea and the people who are pitching it haven't got the experience of making those very expensive shows, then it's not just going to be a flop, it's going to be their careers that are a flop for having ordered it. So, it does mean that they have to go with those people that have got the track record,&#x201D; he added.
+
+The Circle led to The Traitors, which led to Squid Game: The Challenge , which led to Fallout Shelter: The Experiment.
+
+The company is currently in the middle of shooting The Circle for Hulu, which is streaming three episodes a week, hosted by Tinx and starring a mix of civilians and celebrities from Disney shows such as The Secret Lives of Mormon Wives, Vanderpump Villa and Dancing with the Stars.
+
+&#x201C;It's exciting, and fast turn as well. We&#x2019;re making it one day, cutting it and then it&#x2019;s on air 48 hours later,&#x201D; said Harcourt.
+
+It was somewhat of a surprise that Hulu was able to land the rights, given that Netflix had premiered two seasons as recently as 2024. Burgess said that Hulu&#x2019;s unscripted chief Rob Mills &#x201C;jumped on the opportunity&#x201D;. &#x201C;There was a moment where he could he could do it, and they were instantly on board,&#x201D; he said. &#x201C;It was competitive as well,&#x201D; added Harcourt. &#x201C;There were other people that were that that were interested. It&#x2019;s amazing that they&#x2019;ve been able to do it.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+Studio Lambert&#x2019;s most buzzy show also features civilians and celebrities, albeit in separate versions.
+
+It has produced four seasons of The Traitors featuring civilians for the BBC, as well as an upcoming fifth one in 2027, and two celebrity versions. In the U.S., The Traitors: New Blood , featuring civilians, just wrapped its first season and was renewed for a second season by NBC , as well as four seasons of the celebrity version for Peacock and a fifth one coming next year.
+
+&#x201C;A format is always best if it works with civilians because then you know it's like waterproof,&#x201D; said Harcourt. "The BBC One audience was never going to accept a bunch of celebrities running around in green cloaks so there [had] to be civilians. Then it success we can do it with celebrities.&#x201D;
+
+&#x201C;Conversely, in the U.S., having those tried and true reality stars who brought an audience was really helpful to us on Peacock. It was a platform that had Love Island , but didn't have a ton of inventory there, and so you're asking different questions of the audience, and it's worked really nicely going the other way,&#x201D; added Burgess.
+
+The Traitors has also been renewed for three further seasons, through season eight , by Peacock. &#x201C;We've already interested our grandchildren. They want to know who's going to be making the show in 2053,&#x201D; joked Lambert.
+
+The trio paid tribute to Mike Cotton, who is the creative director of the franchise, and exec produces both the U.S. and UK series.
+
+They also believe there&#x2019;s plenty of road for the format. &#x201C;It&#x2019;s still quite early in its life cycle. I&#x2019;m sure if 27 years ago we were told that this little show Big Brother, that felt innovative, was still on the air everyone would have scoffed. It&#x2019;s quite surprising how long the shelf life of IP actually is,&#x201D; said Harcourt.
+
+In terms of big-budget competitions, the company is also passing go at Netflix with an adaptation of iconic board game Monopoly .
+
+Studio Lambert beat out around 50 rivals in a bake-off to land the right to produce the show , which has a $2M prize. It will see 12 contestants competing on a life-sized Monopoly board.
+
+&#x201C;It's a big world. We've brought the board to life, and we've taken the heart of the game, but changed it for television. I think the changes are brilliant,&#x201D; said Lambert. &#x201C;It turns out that a board game that every family ends up squabbling over makes for a really exciting reality game because those emotions are definitely brought to life in this game. Luckily, the board was too big for anyone to flip over,&#x201D; added Burgess.
+
+Before it became one of the go-to producers for large-scale competition series, the feather in Studio Lambert&#x2019;s cap was Undercover Boss. The show became a &#x201C;great utility player&#x201D; for CBS, which initially launched in behind the Super Bowl in 2010 and went on to air over 130 episodes. The Skydance-owned network revealed in September that it was bringing it back and, this time, with a host in Drew Carey.
+
+&#x201C;Good shows never die, they just rest,&#x201D; said Lambert.
+
+The first version of the show launched after the banking crisis and Lambert added that anxiety in the workplace and the American economy got CBS to the point where people would want to watch it again.
+
+&#x201C;This season has been really fun because you realize just how different people&#x2019;s work lives are now,&#x201D; added Burgess.
+
+While the company prioritizes big-budget competitions, it has also struck a number of partnerships that allow it to play in different genres. These include launching Inner Drive Entertainment with Jon Barinholtz and Rob Belushi and bringing Vivian Choi and Jill Goslicky&#x2019;s MindMeld Entertainment into the fold. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
+
+MindMeld focuses on reality shows and docuseries with the pair having worked on Bravo&#x2019;s Below Deck, while Inner Drive is game show focused.
+
+Burgess said that these teams bring different skill sets. MindMeld, for instance, may be able to take advantage of all of the reality stars that come through the Traitors universe. &#x201C;I&#x2019;m really excited about the stuff [these companies] have coming through,&#x201D; he added.
+
+&#x201C;It wasn't that we thought we would help them make big shows like ours. It was more that we thought, let's [have] our main creative effort concentrate on these big shows. But because we want to grow in all different ways, and we like working with great people, it's a way of having different kinds of shows away from the main sort of thrust of what we're doing and by having a relationship with them, we would hopefully help them get stuff away,&#x201D; added Lambert.
+
+The trio are confident that there are &#x201C;tons of big opportunities in unscripted in the American market at the moment&#x201D;.
+
+&#x201C;I think we&#x2019;re sort of at the end of a cycle of a glut of dramas that started in the pandemic and I think buyers see value in unscripted and the young large audiences that they can they can deliver,&#x201D; said Harcourt.
+
+Every seven years or so, a new unscripted format emerges and becomes the lightning rod for others, which is exactly what The Traitors did. &#x201C;What I hope that the takeaway from that will be is that something big and bold can still be a really big broad hit in unscripted. The focus for us isn&#x2019;t what&#x2019;s the next iteration of Traitors, it more what is the next big shape of a show that will be popular,&#x201D; added Burgess.
+
+============================================================
+[2] Marvel Boss Squashes Ghost Rider Rumor, But I Don't Believe Him
 Source: ComicBook.com | Status: expanded | Words: 550
 Published: 2026-11-25T16:43:35+00:00
 URL: https://comicbook.com/movies/news/marvel-boss-squashes-ghost-rider-rumor-but-i-dont-believe-him
@@ -27,7 +119,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)
+[3] Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 392
 Published: 2026-11-25T16:36:45+00:00
 URL: https://variety.com/2026/digital/columns/jason-kennedy-karrueche-tran-pop-exchange-1236958021
@@ -53,7 +145,7 @@ Tran said, &#x201C;What&#x2019;s been exciting to see is how the conversations a
 &#x201C;The world doesn&#x2019;t need another podcast or another entertainment show built for a media landscape that no longer exists,&#x201D; Bauman said. &#x201C;We started with a different question: What would the definitive destination for pop culture look like if you built it today? You would need extraordinary talent with real credibility and firsthand experience, a format that brings audiences into the conversation and distribution designed for wherever people actually consume content. Jason and Karrueche bring something you can&#x2019;t manufacture. They&#x2019;ve lived the stories, they know the people and they understand the culture from the inside.&#x201D;
 
 ============================================================
-[3] New Man of Tomorrow Poster Revealed by DC, With the Fight We're All Waiting For
+[4] New Man of Tomorrow Poster Revealed by DC, With the Fight We're All Waiting For
 Source: ComicBook.com | Status: expanded | Words: 266
 Published: 2026-11-25T16:36:21+00:00
 URL: https://comicbook.com/movies/news/new-man-of-tomorrow-poster-revealed-by-dc-with-the-fight-were-all-waiting-for
@@ -73,7 +165,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] PlayStation Plus Free Games for December 2026 Announced
+[5] PlayStation Plus Free Games for December 2026 Announced
 Source: ComicBook.com | Status: expanded | Words: 514
 Published: 2026-11-25T16:35:47+00:00
 URL: https://comicbook.com/gaming/news/playstation-ps-plus-free-games-december-2026
@@ -97,7 +189,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] "Sometimes You Just Have to Think: 'What Will Make People Laugh?'": Lolly Adefope on Gags, 'Ghosts' and Her West End Debut
+[6] "Sometimes You Just Have to Think: 'What Will Make People Laugh?'": Lolly Adefope on Gags, 'Ghosts' and Her West End Debut
 Source: The Hollywood Reporter | Status: expanded | Words: 2232
 Published: 2026-11-25T16:33:22+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/lolly-adefope-oh-mary-show-ghosts-film-kitty-interview-1236762933
@@ -155,7 +247,7 @@ After agreeing to take on the role, the nerves followed soon after. "I had these
 Until December, Lolly Adefope has her kneepads on. "For the characters to get slightly further from myself is always fun," she tells THR about what comes after. "I mean, Mary Todd Lincoln is quite far from myself, even though now I feel like she is me. But I'm doing lots of writing, and seeing where that goes, and [I'm] open to whatever comes next." What that might entail is anyone's guess, but one thing is for certain: this Ghosts alum will stay a pro at lifting spirits.
 
 ============================================================
-[6] Box Office: 'Hunger Games: Sunrise on the Reaping' Scores $16 Million on Tuesday, 'Hexed' Earns $2 Million in Previews
+[7] Box Office: 'Hunger Games: Sunrise on the Reaping' Scores $16 Million on Tuesday, 'Hexed' Earns $2 Million in Previews
 Source: Variety | Status: expanded | Words: 568
 Published: 2026-11-25T16:33:19+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-tuesday-record-hexed-previews-1236958028
@@ -173,7 +265,7 @@ In terms of new releases, "Hexed" got off to a slow start with $2.1 million in p
 "Focker In-Law" didn't have Tuesday previews; showtimes will begin on Wednesday. It's similarly targeting a debut of $40 million to $45 million over its first five days. "Focker In-Law" was produced for $90 million (split between Universal and Paramount), a hefty budget for a theatrical comedy. The studios were willing to spend big, however, because the three prior films in the &#x201C;Focker&#x201D; universe were major box office winners. &#x201C;Meet the Parents,&#x201D; which debuted 26 years ago and starred Ben Stiller and Robert De Niro as mismatched in-laws Greg Focker and Jack Byrnes, generated $330 million worldwide and inspired two commercially successful sequels, 2004&#x2019;s &#x201C;Meet the Fockers&#x201D; ($522 million worldwide) and 2010&#x2019;s &#x201C;Little Fockers&#x201D; ($310 million worldwide). In this installment, Ariana Grande joins the fun as the girlfriend of Greg's son Henry (Skyler Gisondo) who meets the family as they gather for Jack's 80th birthday party.
 
 ============================================================
-[7] Black Clover Season 2 Shocks With Sudden Love Confession
+[8] Black Clover Season 2 Shocks With Sudden Love Confession
 Source: ComicBook.com | Status: expanded | Words: 603
 Published: 2026-11-25T16:33:12+00:00
 URL: https://comicbook.com/anime/feature/black-clover-season-2-shocks-with-sudden-love-confession
@@ -203,7 +295,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Link Click Season 3 Confirms 2027 Return for Part 2 With New Look
+[9] Link Click Season 3 Confirms 2027 Return for Part 2 With New Look
 Source: ComicBook.com | Status: expanded | Words: 540
 Published: 2026-11-25T16:32:00+00:00
 URL: https://comicbook.com/anime/news/link-click-season-3-confirms-2027-return-for-part-2-with-new-look
@@ -231,7 +323,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] The Doomsday Team Recalled Patrick Stewart’s Last Day On Set, And I’m Going To Need A Tissue
+[10] The Doomsday Team Recalled Patrick Stewart’s Last Day On Set, And I’m Going To Need A Tissue
 Source: CinemaBlend | Status: expanded | Words: 283
 Published: 2026-11-25T16:23:24+00:00
 URL: https://www.cinemablend.com/movies/avengers-doomsday-team-recalled-patrick-stewarts-last-day-on-set
@@ -251,7 +343,7 @@ I have a feeling that sentiment will carry over to audiences when the film final
 Now, more than a quarter-century after his first appearance, he'll be returning alongside McKellen's Magneto. Joe Russo revealed that the longtime friends share an emotional scene about forgiveness, which could be especially difficult to watch under the circumstances.
 
 ============================================================
-[10] 'GTA 6' Has At Least 9 Distinct Endings
+[11] 'GTA 6' Has At Least 9 Distinct Endings
 Source: Variety | Status: expanded | Words: 359
 Published: 2026-11-25T16:19:58+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-endings-possible-jason-lucia-1236958026
@@ -271,7 +363,7 @@ Following &#x201C;GTA 6's&#x201D; Nov. 19 debut, Rockstar Games parent company T
 According to PlayStation, the game has racked up more than 39 million unique players on PlayStation 5 consoles as of Monday, setting a record for the highest number of concurrent players for any game on PlayStation. Xbox has not yet disclosed comparable gameplay figures.
 
 ============================================================
-[11] 'The Mark' Trailer: Jessica Alba &#038; Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters
+[12] 'The Mark' Trailer: Jessica Alba &#038; Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters
 Source: The Playlist | Status: summary_only | Words: 108
 Published: 2026-11-25T16:16:42+00:00
 URL: https://theplaylist.net/the-mark-trailer-jessica-alba-tom-hooper-20261125
@@ -283,7 +375,7 @@ CONTENT / EXTRACTED DETAILS:
 It's been a hot minute since we've seen Jessica Alba leading an action project; that changes with the cat-and-mouse crime flick " The Mark ," where she co-stars alongside Tom Hopper . While the project isn't hitting traditional movie theaters until the new year, we can now share a trailer for this nifty-looking project. "The Mark" is directed by Justin Chadwick , known for making "T he Other Boleyn Girl ," from a script penned by veteran screenwriter Ronnie Christensen ("Dark Tide," "Passengers"). Continue reading 'The Mark' Trailer: Jessica Alba & Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters at The Playlist.
 
 ============================================================
-[12] Sofia Carson, Taylor John Smith &#038; Charlie Hall Board NFL Rom-Com 'The Christmas Game' From Netflix
+[13] Sofia Carson, Taylor John Smith &#038; Charlie Hall Board NFL Rom-Com 'The Christmas Game' From Netflix
 Source: Deadline | Status: expanded | Words: 588
 Published: 2026-11-25T16:15:00+00:00
 URL: https://deadline.com/2026/11/sofia-carson-the-christmas-game-netflix-rom-com-1237232688
@@ -313,7 +405,7 @@ Terruso most recently directed About My Father , the Lionsgate comedy starring R
 Morrow is repped by Eris Talent Agency and AKA Talent Agency; Marano by Marano Entertainment, Untitled and Hansen, Jacobson, Teller.
 
 ============================================================
-[13] Spider-Man/Hulk: Fire and Brimstone #4 Is Everything You Could Want From a Penultimate Story (Review)
+[14] Spider-Man/Hulk: Fire and Brimstone #4 Is Everything You Could Want From a Penultimate Story (Review)
 Source: ComicBook.com | Status: expanded | Words: 1177
 Published: 2026-11-25T16:13:00+00:00
 URL: https://comicbook.com/comics/review/spider-man-hulk-fire-and-brimstone-4-is-everything-you-could-want-from-a-penultimate-story-review
@@ -349,7 +441,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Demon Slayer Studio's New Movie Confirms Return With New Sequel
+[15] Demon Slayer Studio's New Movie Confirms Return With New Sequel
 Source: ComicBook.com | Status: expanded | Words: 621
 Published: 2026-11-25T16:11:00+00:00
 URL: https://comicbook.com/anime/news/demon-slayer-studios-new-movie-confirms-return-with-new-sequel
@@ -377,7 +469,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Turnaround Times Improve for U.K. Crews Following Union Campaign: 'Change Is Possible When Workers Speak Out' (EXCLUSIVE)
+[16] Turnaround Times Improve for U.K. Crews Following Union Campaign: 'Change Is Possible When Workers Speak Out' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 483
 Published: 2026-11-25T16:08:21+00:00
 URL: https://variety.com/2026/tv/global/turnaround-times-improving-uk-crews-bectu-1236958015
@@ -409,7 +501,7 @@ Bectu is now calling for Pact to continue measuring broken turnaround figures an
 &#x201C;There is still a lot of work to do across the industry, particularly in ensuring good practice becomes embedded. But these results demonstrate the value of collective action and maintaining constant pressure about unsustainable working hours and fatigue.&#x201D;
 
 ============================================================
-[16] Marvel's Chris Hemsworth Reveals Filming Doomsday Made Him Uncomfortable for a Big Reason
+[17] Marvel's Chris Hemsworth Reveals Filming Doomsday Made Him Uncomfortable for a Big Reason
 Source: ComicBook.com | Status: expanded | Words: 575
 Published: 2026-11-25T16:07:23+00:00
 URL: https://comicbook.com/movies/news/marvels-chris-hemsworth-reveals-filming-doomsday-made-him-uncomfortable-for-a-big-reason
@@ -433,7 +525,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Hollow Knight: Silksong DLC to Receive New Release Update Very Soon
+[18] Hollow Knight: Silksong DLC to Receive New Release Update Very Soon
 Source: ComicBook.com | Status: expanded | Words: 554
 Published: 2026-11-25T16:03:30+00:00
 URL: https://comicbook.com/gaming/news/hollow-knight-silksong-dlc-to-receive-new-release-update-very-soon
@@ -461,7 +553,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] All 17 Quentin Tarantino Movies, Ranked From Worst to Best
+[19] All 17 Quentin Tarantino Movies, Ranked From Worst to Best
 Source: The Hollywood Reporter | Status: expanded | Words: 3705
 Published: 2026-11-25T16:03:19+00:00
 URL: https://www.hollywoodreporter.com/lists/quentin-tarantino-movies-ranked-worst-best
@@ -515,7 +607,7 @@ Brad Pitt exudes folkloric chill as convertible cowboy Cliff Booth. Whereas Leon
 That’s just one way Tarantino Voltrons together his whole filmography into his magnum opus. Here’s a Los Angeles thriller, a meta-western, and an alternate history, with Grindhouse -worthy re-enactments and a whole society incapable of turning off the radio or the television. There’s even — call Oliver Stone! — a meditation on screen violence, with one wannabe murderer declaring “If you grew up watching TV, that means you grew up watching murder!” Is it weird the heroes are older men, while the Mansonites (Margaret Qualley, Sydney Sweeney, Mikey Madison, Austin Butler, Maya Hawke) turned out to be Gen Z’s top stars this decade? I think Tarantino was being honest about late midlife fears, with Rick in particular worrying that some whole rising generation of longhairs is coming for his ass. There’s always been so much you don’t see in Tarantino’s movies, though, like Dogs ’ jewelry store or Pulp ’s briefcase. The climactic awe in Hollywood is how magnificently one big nothing happens. Margot Robbie’s Sharon Tate is a luminous mystery, worshipped yet unknowable. Manson himself barely appears. Tarantino resurrects an era that finished horrifically in the true 1969, then merrily twists the facts. Sadness embeds in that fantasy. We know the end came and will come again. Celluloid projection won’t return to the global multiplex, no matter how many repertory theaters Tarantino runs. Nobody lasts forever, in Hollywood or anywhere else. Good thing art is death proof.
 
 ============================================================
-[19] Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)
+[20] Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 666
 Published: 2026-11-25T16:03:12+00:00
 URL: https://variety.com/2026/film/global/salma-hayek-pinault-saul-canelo-alvarez-for-the-opponents-1236957909
@@ -551,7 +643,7 @@ The film &#x201C;explores the dreams, expectations and family bonds surrounding 
 &#x201C;For the Opponents&#x201D; has been selected for more than 50 international festivals including Telluride, San Sebasti&#xE1;n and Tallinn Black Nights.
 
 ============================================================
-[20] 'The Trip To The Northern Lights': IFC Acquires Latest In Michael Winterbottom, Steve Coogan &#038; Rob Brydon Franchise
+[21] 'The Trip To The Northern Lights': IFC Acquires Latest In Michael Winterbottom, Steve Coogan &#038; Rob Brydon Franchise
 Source: Deadline | Status: expanded | Words: 572
 Published: 2026-11-25T16:00:00+00:00
 URL: https://deadline.com/2026/11/steve-coogan-trip-to-the-northern-lights-ifc-1237233265
@@ -577,7 +669,7 @@ The Trip to the Northern Lights is produced by Melissa Parmenter and Josh Hyams 
 EPs are Winterbottom, Coogan, Rob Brydon, Alex Moody, Josh Sapan, Tristan Whalley, and Paul Wiegard. The pic is a Revolution Films, Baby Cow, and Small Man Production in association with Sky Studios.
 
 ============================================================
-[21] Peacock Is $2.99 a Month With This Black Friday Deal
+[22] Peacock Is $2.99 a Month With This Black Friday Deal
 Source: Variety | Status: expanded | Words: 386
 Published: 2026-11-25T15:59:28+00:00
 URL: https://variety.com/2026/shopping/news/peacock-black-friday-deal-sign-up-online-1236958024
@@ -603,7 +695,7 @@ For sports fans, a Premium subscription also includes access to the NBA, NFL's &
 Shop Peacock's Black Friday streaming deal through Nov. 30.
 
 ============================================================
-[22] I’m Rolling My Eyes At Claims That Ezra Frech Losing His Prosthetic Won Him Dancing With The Stars
+[23] I’m Rolling My Eyes At Claims That Ezra Frech Losing His Prosthetic Won Him Dancing With The Stars
 Source: CinemaBlend | Status: expanded | Words: 377
 Published: 2026-11-25T15:54:40+00:00
 URL: https://www.cinemablend.com/television/fans-claim-ezra-frech-losing-prosthetic-caused-dancing-with-the-stars-victory
@@ -625,7 +717,7 @@ If Ezra Frech gained additional votes in Dancing with the Stars ' finale after h
 Had Connor Wood, Maura Higgins, Amber Glenn, or Tatyana Ali recovered from a disastrous moment with such poise, I feel confident the judges and audience would've reacted the same way. This is especially true on DWTS ' finale night, in which I feel the judges want their scores to impact the end result as little as possible.
 
 ============================================================
-[23] BBC Journalists Vote To Take Strike Action Over Job Cuts
+[24] BBC Journalists Vote To Take Strike Action Over Job Cuts
 Source: Deadline | Status: expanded | Words: 411
 Published: 2026-11-25T15:52:14+00:00
 URL: https://deadline.com/2026/11/bbc-journalists-vote-yes-industrial-action-result-1237233186
@@ -647,7 +739,7 @@ When the NUJ announced the ballot last month, the BBC said it was a &#x201C;disa
 &#x201C;Faced with a &#xA3;500 million financial savings challenge and significant operational pressures, we cannot offer a guarantee that there will be no compulsory redundancies. Whilst we will continue to do everything possible to minimise this, the reality is that no organisation of our scale and complexity could offer such an undertaking and it would inevitably compromise our service to audiences if we did.&#x201D;
 
 ============================================================
-[24] The Hunger Games Team Reveals the Biggest Mistake the Franchise Made, And They're Right
+[25] The Hunger Games Team Reveals the Biggest Mistake the Franchise Made, And They're Right
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-25T15:49:29+00:00
 URL: https://comicbook.com/movies/news/the-hunger-games-team-reveals-the-biggest-mistake-the-franchise-made-and-theyre-right
@@ -673,7 +765,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Jennifer Lawrence's 'Sex Swing' Comment When She Met Woody Harrelson Is The Most JLaw Comment Ever
+[26] Jennifer Lawrence's 'Sex Swing' Comment When She Met Woody Harrelson Is The Most JLaw Comment Ever
 Source: CinemaBlend | Status: expanded | Words: 277
 Published: 2026-11-25T15:49:25+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lawrence-made-sex-swing-comment-amid-first-meeting-with-woody-harrelson
@@ -691,7 +783,7 @@ What's funny is that this isn't the first time Harrelson has shared the anecdote
 During their conversation, Harrelson also reflected on how much he enjoyed the original cast. "My God, did we have fun," he recalled. "It was such a good group." He fondly remembered Lawrence, Josh Hutcherson, and Liam Hemsworth , along with the lively atmosphere they created behind the scenes. Given the story about that first meeting, it seems about right. I can't imagine the Silver Linings Playbook star was responsible for a particularly quiet set.
 
 ============================================================
-[26] James Gray Says New York Has “Run Its Course” With His Films &#038; Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview]
+[27] James Gray Says New York Has “Run Its Course” With His Films &#038; Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview]
 Source: The Playlist | Status: summary_only | Words: 144
 Published: 2026-11-25T15:49:07+00:00
 URL: https://theplaylist.net/james-gray-paper-tiger-new-york-marrakech-interview-20261125
@@ -703,7 +795,7 @@ CONTENT / EXTRACTED DETAILS:
 James Gray has spent much of his filmmaking career returning to New York. From the Brighton Beach streets of “ Little Odessa ,” his 1994 debut, to “ The Yards ,” “ We Own The Night ,” “ Two Lovers ,” “ The Immigrant ,” and “ Armageddon Time ,” the city has remained a constant presence in his work. It is a striking attachment for a filmmaker who has lived in Los Angeles since 2012, and whose films have also taken him into the Amazon with “ The Lost City Of Z ” and into space with Brad Pitt in “ Ad Astra ” (which he talked about more at length in this interview excerpt). Continue reading James Gray Says New York Has “Run Its Course” With His Films & Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview] at The Playlist.
 
 ============================================================
-[27] 'Sunrise On The Reaping' $16M Tuesday Scores Records For Lionsgate &#038; Franchise; 'Hexed' Begins Previews - Box Office
+[28] 'Sunrise On The Reaping' $16M Tuesday Scores Records For Lionsgate &#038; Franchise; 'Hexed' Begins Previews - Box Office
 Source: Deadline | Status: expanded | Words: 142
 Published: 2026-11-25T15:46:42+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281
@@ -719,7 +811,7 @@ As we told you last night, Lionsgate scored its best Tuesday ever at the domesti
 We're still waiting on Disney's official number for its previews on Walt Disney Animation's Hexed , but last night we were spotting $2M which is higher than Encanto ($1.5M previews, 5-day of $40.5M) and Wish ($1.8M previews including $500K Saturday sneaks; 5-day of $31.6M). No RT audience score yet, but critics were meh at 67% fresh.
 
 ============================================================
-[28] 'Clashing Through the Snow' Director Carlson Young on Going From "Horror Girly" to Holiday Rom-Com
+[29] 'Clashing Through the Snow' Director Carlson Young on Going From "Horror Girly" to Holiday Rom-Com
 Source: The Hollywood Reporter | Status: expanded | Words: 2314
 Published: 2026-11-25T15:45:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/clashing-through-the-snow-movie-director-interview-1236751763
@@ -823,7 +915,7 @@ Young is open to it but doesn't want "to chase it."
 Clashing Through the Snow is available on Prime Video.
 
 ============================================================
-[29] 'Hunger Games' Producer Admits 'Mockingjay' Should Have Been One Movie
+[30] 'Hunger Games' Producer Admits 'Mockingjay' Should Have Been One Movie
 Source: The Hollywood Reporter | Status: expanded | Words: 497
 Published: 2026-11-25T15:43:48+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-mockingjay-one-movie-1236763038
@@ -851,7 +943,7 @@ And while the Mockingjay films were considered creatively weaker than the previo
 The new film, Sunrise on the Reaping , grossed a strong $120 million in its opening weekend, marking a rebound for the franchise after the soft launch of 2023's The Ballad of Songbirds & Snakes ($44.6 million).
 
 ============================================================
-[30] Supergirl Was Just Short Listed for An Oscar Despite Its Box Office Failure
+[31] Supergirl Was Just Short Listed for An Oscar Despite Its Box Office Failure
 Source: ComicBook.com | Status: expanded | Words: 604
 Published: 2026-11-25T15:41:00+00:00
 URL: https://comicbook.com/movies/news/supergirl-was-just-short-listed-for-an-oscar-despite-its-box-office-failure
@@ -877,7 +969,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Doomsday Artist Shares Multiverse-Crossing Yelena Moment That Would Have Been Amazing
+[32] Doomsday Artist Shares Multiverse-Crossing Yelena Moment That Would Have Been Amazing
 Source: ComicBook.com | Status: expanded | Words: 590
 Published: 2026-11-25T15:39:41+00:00
 URL: https://comicbook.com/movies/news/doomsday-artist-shares-multiverse-crossing-yelena-moment-that-would-have-been-amazing
@@ -903,7 +995,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Path of Exile 2's Critical Strike Changes Are Great, But Its Biggest Itemization Problem Remains
+[33] Path of Exile 2's Critical Strike Changes Are Great, But Its Biggest Itemization Problem Remains
 Source: ComicBook.com | Status: expanded | Words: 1004
 Published: 2026-11-25T15:30:00+00:00
 URL: https://comicbook.com/gaming/feature/path-of-exile-2s-critical-strike-changes-are-great-but-its-biggest-itemization-problem-remains
@@ -937,7 +1029,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Thor's First Appearance Comic Is Still Valued At Over $3,000 Despite Being In The Worst Possible Condition
+[34] Thor's First Appearance Comic Is Still Valued At Over $3,000 Despite Being In The Worst Possible Condition
 Source: ComicBook.com | Status: expanded | Words: 549
 Published: 2026-11-25T15:30:00+00:00
 URL: https://comicbook.com/collectibles/news/thors-first-appearance-comic-is-still-valued-at-over-3000-despite-being-in-the-worst-possible-condition
@@ -957,7 +1049,7 @@ Younger fans will find it hard to believe that Thor wasn't originally born in th
 Do you prefer Thor's original backstory or his Asgardian one? Let us know in the comments.
 
 ============================================================
-[34] New Shonen Jump Anime Confirms 2027 Release With First Look Trailer - Watch
+[35] New Shonen Jump Anime Confirms 2027 Release With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 580
 Published: 2026-11-25T15:28:39+00:00
 URL: https://comicbook.com/anime/news/new-shonen-jump-anime-confirms-2027-release-with-first-look-trailer-watch
@@ -983,7 +1075,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Miley Cyrus Made A Notable Choice With Her Wedding Where Billy Ray Cyrus Was Involved
+[36] Miley Cyrus Made A Notable Choice With Her Wedding Where Billy Ray Cyrus Was Involved
 Source: CinemaBlend | Status: expanded | Words: 295
 Published: 2026-11-25T15:24:42+00:00
 URL: https://www.cinemablend.com/television/miley-cyrus-made-notable-choice-with-wedding-billy-ray-cyrus-involved
@@ -999,7 +1091,7 @@ Cyrus’ decision to have her mom walk her down the aisle is definitely big, but
 Billy Ray Cyrus’ mere presence at the wedding represents a major milestone, given the former family drama he and Miley were entangled in. The father and daughter reportedly experienced a rift in their relationship after Billy Ray and Tish’s 2022 divorce . Also, in early 2025, Billy Ray and son Trace – whom he adopted after marrying Tish – were apparently on the outs, based on a candid letter Trace shared on social media. While Miley didn’t open up publicly about the situation, insiders claimed she was looking to distance herself from the family drama . Throughout the estrangement, Billy Ray also paid tribute to Miley and, while it allegedly took some time, the two mended fences.
 
 ============================================================
-[36] 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild"
+[37] 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild"
 Source: The Playlist | Status: summary_only | Words: 188
 Published: 2026-11-25T15:21:58+00:00
 URL: https://theplaylist.net/avengers-secret-wars-2028-slate-xmen-black-panther-3-ghost-rider-20261125
@@ -1011,7 +1103,7 @@ CONTENT / EXTRACTED DETAILS:
 Next month will see the big release of " Avengers: Doomsday ," and there are already some early teases coming from Kevin Feige about how " Avengers: Secret Wars " will have an impact and set up their 2028 lineup of movies, alongside giving fans some signals that they'll likely have clues about where the MCU is going by reading established comics. The Marvel Studios co-president went on to tell Entertainment Weekly in a recent profile for "Doomsday" that the next installment, coming out in 2027, "will very much be a launching pad for our films in 2028, the 20th anniversary of the MCU, and launching a very new era at that point." READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” Adding the source material is going to telegraph where things are going (hinting at Doom's version of Battleworld, teased in leaked concept art): "Look at the comics. Continue reading 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild" at The Playlist.
 
 ============================================================
-[37] Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton
+[38] Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton
 Source: Variety | Status: expanded | Words: 454
 Published: 2026-11-25T15:19:45+00:00
 URL: https://variety.com/2026/tv/news/miley-cyrus-cnn-heroes-legacy-award-dolly-parton-1236957974
@@ -1037,7 +1129,7 @@ Over its 20-year history, the CNN Heroes franchise focused on "uplifting, purpos
 "The 20th Annual CNN Heroes All-Star Tribute" will air on CNN, CNN International and CNN en Espa&#xF1;ol on Saturday, Dec. 5, starting at 8 p.m. ET/PT. The broadcast also will stream live for CNN&#x2019;s All Access and pay-TV subscribers via CNN.com, CNN connected TV and mobile apps and will become available on demand beginning Sunday, Dec. 6, to CNN subscribers.
 
 ============================================================
-[38] The Ultimate Advent Calendar for Jet-Setters: Artist Laila Gohar's Chocolate-Filled Creation Is Inspired by 24 Luxury Destinations
+[39] The Ultimate Advent Calendar for Jet-Setters: Artist Laila Gohar's Chocolate-Filled Creation Is Inspired by 24 Luxury Destinations
 Source: Variety | Status: expanded | Words: 443
 Published: 2026-11-25T15:14:15+00:00
 URL: https://variety.com/2026/shopping/news/laila-gohar-luxury-advent-calendar-chocolate-travel-1236957983
@@ -1065,7 +1157,7 @@ The partnership is part of The Luxury Collection's ongoing World in Season initi
 The limited-edition Laila Gohar x The Luxury Collection advent calendar retails for $218 and is available to purchase online and at participating hotels.
 
 ============================================================
-[39] James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut &#038; Has Had Conversations With The Criterion Collection
+[40] James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut &#038; Has Had Conversations With The Criterion Collection
 Source: The Playlist | Status: summary_only | Words: 123
 Published: 2026-11-25T15:07:03+00:00
 URL: https://theplaylist.net/james-gray-ad-astra-directors-cut-criterion-20261125
@@ -1077,7 +1169,7 @@ CONTENT / EXTRACTED DETAILS:
 Seven years after the release of “ Ad Astra ,” filmmaker James Gray remains eager to revisit his ambitious science-fiction drama starring Brad Pitt . While a director’s cut has yet to materialize, Gray has had conversations with the Criterion Collection about the possibility, though financial considerations and other complications continue to stand in the way. Speaking to The Playlist at the Marrakech International Film Festival, where he was presenting his latest film, “ Paper Tiger ,” Gray said he wants to return to the 2019 space odyssey when asked whether audiences might eventually see a director’s cut. Continue reading James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut & Has Had Conversations With The Criterion Collection at The Playlist.
 
 ============================================================
-[40] Robert Downey Jr’s Thanksgiving Doomsday Art Just Teased Wanda’s Role in Avengers 5
+[41] Robert Downey Jr’s Thanksgiving Doomsday Art Just Teased Wanda’s Role in Avengers 5
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-25T15:06:52+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jrs-thanksgiving-doomsday-art-just-teased-wandas-role-in-avengers-5
@@ -1103,7 +1195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Mario Kart World Update Adds 8 New Tracks and Other Big Upgrades, Full Patch Notes Revealed
+[42] Mario Kart World Update Adds 8 New Tracks and Other Big Upgrades, Full Patch Notes Revealed
 Source: ComicBook.com | Status: expanded | Words: 355
 Published: 2026-11-25T15:02:28+00:00
 URL: https://comicbook.com/gaming/news/mkw-mario-kart-world-update-nintendo-switch-2-patch-notes-november-2026
@@ -1125,7 +1217,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Russell Brand Rape Conviction Sees Spike in Whistleblowing Reports to U.K. Harassment Watchdog CIISA
+[43] Russell Brand Rape Conviction Sees Spike in Whistleblowing Reports to U.K. Harassment Watchdog CIISA
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-25T15:02:02+00:00
 URL: https://variety.com/2026/tv/global/russell-brand-ciisa-reports-spike-1236957913
@@ -1155,7 +1247,7 @@ The event marked the official launch of CIISA&#x2019;s register, which displays 
 &#x201C;We thank the organisations who have already pledged their support for this important work and we will continue to work alongside industry and Government to ensure that CIISA is adequately resourced to offer a safe, confidential route for people to seek independent advice and report concerns, and to embed the consistent cross-sector standards that will drive lasting change.&#x201D;
 
 ============================================================
-[43] Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director
+[44] Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director
 Source: The Hollywood Reporter | Status: expanded | Words: 316
 Published: 2026-11-25T15:00:29+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033
@@ -1177,7 +1269,7 @@ And Kuzmyk introduced at Banff the Country of Honor program, which hosted delega
 &#x201C;Under her (Kuzmyk) watch, she has elevated these iconic brands with a consummate blend of strategic leadership and innovation. Building on this exceptional foundation, Banff 2027 is poised for growth under the stewardship of our remarkably talented and dedicated team. We are deeply grateful for Jenn&#x2019;s contributions and wish her every success in her next chapter,&#x201D; Russell Goldstein, president and CEO of parent Brunico Communications said in a statement on Wednesday.
 
 ============================================================
-[44] Ben Affleck Negotiates With a Duck as Artists Equity Kicks Off Thanksgiving Campaign for Aflac
+[45] Ben Affleck Negotiates With a Duck as Artists Equity Kicks Off Thanksgiving Campaign for Aflac
 Source: The Hollywood Reporter | Status: expanded | Words: 299
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/ben-affleck-aflac-duck-artists-equity-thanksgiving-ad-1236762294
@@ -1197,7 +1289,7 @@ Affleck himself frequently directs commercial spots from Artists Equity
 &#x201C;Sure, it's funny to have Ben Affleck translating for the Aflac Duck. But the idea is rooted in a simple truth,&#x201D; said Aflac senior VPand CMO Garth Knutson. &#x201C;Every year, millions of Americans turn to Aflac agents and HR professionals to help them understand their benefits and make informed decisions about their coverage. In this commercial, Ben does it for 60 seconds. They do it every day.&#x201D; "As we explored the bond forming between the Aflac Duck and the Affleck Human, it became clear we needed to show audiences that Ben was gaining a deeper understanding of Aflac and its brand icon," added Brandon Pierce, co-president and ECD of Artists Equity Brand Studio. "And what better way to prove it than through a high-stakes negotiation where Ben could simply and boldly declare, 'I speak Aflac.&#x2019;"
 
 ============================================================
-[45] Mindy Kaling Will Be Honored With The Hollywood Reporter's Equity in Entertainment Award at Women in Entertainment Gala
+[46] Mindy Kaling Will Be Honored With The Hollywood Reporter's Equity in Entertainment Award at Women in Entertainment Gala
 Source: The Hollywood Reporter | Status: expanded | Words: 1706
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/mindy-kaling-hollywood-reporter-equity-entertainment-award-1236762197
@@ -1247,7 +1339,7 @@ The news comes on the heels of THR&#x2019;s Daytime Emmys win last month. THR&#x
 Also in 2026, THR took home a record 20 SoCal Journalism Awards, including best magazine, best website and best podcast &#x2014; more wins than any other media outlet. It earned a record 96 nominations at the National Arts & Entertainment Journalism Awards, outpacing any other press organization, after winning 50 top honors in 2025. Other accolades include an American Society of Magazine Editors award for best cover and the 2026 Webby People&#x2019;s Voice Award for best entertainment website.
 
 ============================================================
-[46] Gotham Film &#038; Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)
+[47] Gotham Film &#038; Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 1347
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-gotham-film-media-institute-focus-student-short-films-1236762790
@@ -1307,7 +1399,7 @@ Bio: Qinting Wang is a writer-director and producer whose creative work spans Ch
 Logline: On the day of her arranged marriage, a bride reclaims the ceremony meant to contain her.
 
 ============================================================
-[47] Netflix As The New Cable: From Friend To Foe To Friend Again, How Streamer Became Go-To Source Of Off-Network Revenue &#038; Tune-In Promotion
+[48] Netflix As The New Cable: From Friend To Foe To Friend Again, How Streamer Became Go-To Source Of Off-Network Revenue &#038; Tune-In Promotion
 Source: Deadline | Status: expanded | Words: 2485
 Published: 2026-11-25T15:00:00+00:00
 URL: https://deadline.com/2026/11/netflix-streaming-licensing-off-network-revenue-promotion-1237213705
@@ -1403,7 +1495,7 @@ Touting the mutual benefits of the deal for Disney and Netflix, the latter's co-
 "We expect to have opportunities throughout for the best series and the best films with all the suppliers," Sarandos said about the Netflix licensing strategy. "It's a little complicated because all of our suppliers are also our competitors. Our deals bring in much needed revenue. They certainly build awareness, and the benefit of that awareness transfers back to them because it helps grow the value of their IP. So these deals really are win-win."
 
 ============================================================
-[48] 5 PlayStation Black Friday Deals You Won't Want to Miss Before November 2026 Ends
+[49] 5 PlayStation Black Friday Deals You Won't Want to Miss Before November 2026 Ends
 Source: ComicBook.com | Status: expanded | Words: 1425
 Published: 2026-11-25T15:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-playstation-black-friday-deals-you-wont-want-to-miss-before-november-2026-ends
@@ -1447,7 +1539,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] Netflix Only Big Player Not Funding UK's Independent Bullying &#038; Harassment Complaints Body
+[50] Netflix Only Big Player Not Funding UK's Independent Bullying &#038; Harassment Complaints Body
 Source: Deadline | Status: expanded | Words: 722
 Published: 2026-11-25T15:00:00+00:00
 URL: https://deadline.com/2026/11/ciisa-netflix-not-funding-bullying-harassment-body-brand-1237233203
@@ -1477,30 +1569,4 @@ Emerging from the Time's Up UK movement and Noel Clarke allegations, CIISA has t
 In parliament today, CIISA gathered bigwigs like Nandy, BBC chair Samir Shah, ex-BBC Director General Tim Davie and Zelda Perkins, the Harvey Weinstein victim who campaigns on outlawing NDAs. In a discussion chaired by Sky News Presenter Cathy Newman, attendees discussed ongoing challenges within the creative industries and efforts to drive improvements in workplace culture.
 
 CIISA boss Jen Smith said: "CIISA has a pivotal role to play in preventing harm and closing accountability gaps in the creative industry infrastructure, offering a unique opportunity to identify harmful patterns of behaviour across different projects. We thank the organisations who have already pledged their support for this important work and we will continue to work alongside industry and government to ensure that CIISA is adequately resourced to offer a safe, confidential route for people to seek independent advice and report concerns, and to embed the consistent cross-sector standards that will drive lasting change.&#x201D;
-
-============================================================
-[50] Jenn Kuzmyk Stepping Down From Banff World Media Festival After Nearly A Decade
-Source: Deadline | Status: expanded | Words: 521
-Published: 2026-11-25T15:00:00+00:00
-URL: https://deadline.com/2026/11/jenn-kuzmyk-stepping-down-banff-world-media-festival-1237233161
-------------------------------------------------------------
-SUMMARY:
-It's the end of an era for the Banff World Media Festival with its long-serving boss Jenn Kuzmyk stepping down. Kuzmyk will leave her role as Executive Director of Banff and publisher of Canadian trade title Playback on December 11. Both brands are part of Toronto-based Brunico Communications, the media publishing and events business. On […]
-
-CONTENT / EXTRACTED DETAILS:
-It's the end of an era for the Banff World Media Festival with its long-serving boss Jenn Kuzmyk stepping down.
-
-Kuzmyk will leave her role as Executive Director of Banff and publisher of Canadian trade title Playback on December 11. Both brands are part of Toronto-based Brunico Communications, the media publishing and events business.
-
-On an interim basis, Brunico President and CEO Russell Goldstein will lead the commercial elements of the 2027 Banff festival alongside Mary Maddever, Brunico's Chief Content Officer. Kuzmyk will move into a short-term consulting role to support the transition. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Saint-Pierre' Is The High-Rating Canadian Cop Series Proving Small Island Life Can Provide The Drama News Design Duo Brian Gluckstein & Lynda Reeves Set Video Podcast With Marlo Miazga's M Media
-
-Kuzmyk is considered the driving force behind establishing Banff was a major event on the global entertainment industry calendar each summer in Canada . She has focused on internationalizing the fest with execs from more than 50 countries participating, and building out the conference program and Rockie Awards. Speakers at the conference have included Ted Sarandos, Jeffrey Katzenberg, Channing Dungey and Pearlena Igbokwe. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-"Jenn's vision and passion have left an indelible mark on both Banff and Playback ," said Goldstein. "Under her watch, she has elevated these iconic brands with a consummate blend of strategic leadership and innovation. Building on this exceptional foundation, Banff 2027 is poised for growth under the stewardship of our remarkably talented and dedicated team. We are deeply grateful for Jenn&#x2019;s contributions and wish her every success in her next chapter."
-
-Sean Cohan, President of Bell Media and chair of the Banff directors board, added that she had "steered Banff through an era of rapid industry evolution with grace, foresight, and integrity, expanding its international reach while creating vital, career-defining opportunities for industry participants at every level."
-
-"Leading Banff and Playback has been the privilege of my career," said Kuzmyk. "I want to thank Sean and the Banff board of directors for their trust, guidance and commitment to the festival, and our supporters, partners and sponsors, whose belief in Banff makes everything we do possible. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-"To the Banff and Playback teams: you are the reason the festival and publication are as strong as they have ever been, and it has been a joy to work alongside you. I'm especially grateful to Russell Goldstein for his years of support and partnership. I leave knowing both Banff and Playback have never been in better shape, and I&#x2019;ll share more about what&#x2019;s next in the New Year for me."
 
