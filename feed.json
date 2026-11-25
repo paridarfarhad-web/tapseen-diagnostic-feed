@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T21:12:08.521Z"
+    "updated_at": "2026-11-25T21:14:10.863Z"
   },
   "articles": [
+    {
+      "id": "c2a046b4-4ab1-4000-b5fd-7f72d4dfcf7c",
+      "title": "‘Steven Universe’ Star Zyri Comes Out as Trans",
+      "summary": "Zyri, who voiced the titular character in \"Steven Universe\" and played Brian Corbett on \"The Goldbergs,\" has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity. \"Coming to terms with my dysphoria and my transness was […]",
+      "content": "Zyri , who voiced the titular character in \" Steven Universe \" and played Brian Corbett on \"The Goldbergs,\" has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity.\n\n\"Coming to terms with my dysphoria and my transness was only a small piece of my journey towards being a whole, authentic person, but it was notable as the first thing that truly felt like mine in my entire life,\" Zyri wrote. \"That&#x2019;s also why for a time I was so terrified of being outed: I didn&#x2019;t want to lose my newfound light the way I&#x2019;d lost control of my name, my childhood, and my entire identity to the brand I was molded into by others. I know now that I really had nothing to fear there &#x2014; the only thing that defines me is me &#x2014; but I&#x2019;ve had to continuously unlearn being afraid of losing all of myself again. That&#x2019;s probably something I&#x2019;ll have to remind myself of for the rest of my life, but at least now, for the very first time, I can envision the rest of my life. I celebrated my twenty-eighth birthday just over a year ago now, and the symbolic nature of that number shouldn&#x2019;t be lost on anyone who grew up like I did. What twenty-one year old me would&#x2019;ve cynically viewed as being past my cosmically-assigned expiration date, is now something that truly feels worth celebrating. To any of you poor souls who had to suffer my angst-riddled but still disconcertingly genuine former aspirations to wrap my life up at twenty-seven, I&#x2019;m terribly sorry, and am also happy to report that I didn&#x2019;t even come close to sticking the landing.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon Banff World Media Festival's Jenn Kuzmyk to Exit After Nine Years as Executive Director\n\nZyri voiced Steven Universe and several other characters on the Cartoon Network series across all five seasons and 160 episodes, in addition to a TV movie, a follow-up series and several video games. Zyri's TV debut came in 2009 on \"Are You Smarter Than a Fifth Grader?,\" and they also appeared in episodes of \"Hannah Montana,\" \"iCarly,\" \"Fresh Off the Boat,\" \"Henry Danger\" and animated titles like \"The Legend of Korra,\" \"Justice League: War,\" \"Batman: The Long Halloween, Part Two,\" \"Injustice\" and many more. Zyri also gave an update that they have been married for a year and will \"wade back into\" performing after not appearing in a live-action project since 2019 and an animated role since 2024. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; });\n\n\"As for the future, my hope is that not too much changes in my daily life going forward,\" Zyri wrote. \"I do genuinely love and miss performing and creating, though it&#x2019;s only very recently that I&#x2019;ve felt well enough to wade back into it. I recognize that my job often requires some degree of public visibility, but for the foreseeable future I intend to only engage in that when it&#x2019;s necessary, rather than proactively. I do place an extremely high value on privacy these days, and while there will always be some blurring of the lines between personal and professional life, I&#x2019;m very happy to have actually separated the two for the first time and I don&#x2019;t wish to give that up again. Being a child performer has a way of capturing your psychological development and splicing those two pieces together until they&#x2019;re simply the same thing; everything I&#x2019;ve written about overcoming here could be summed up as the process of carefully untangling them from each other until they&#x2019;re the way they ought to be.\"",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383",
+      "published_at": "2026-11-25T21:12:35+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/zyri.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 666,
+      "extracted_at": "2026-11-25T21:13:59.022232+00:00",
+      "updated_at": "2026-11-25T21:13:59.022232+00:00"
+    },
     {
       "id": "6f2cded8-677b-4cf2-8b37-b07e051a1a52",
       "title": "Macy's Thanksgiving Day Parade Postponed as Storm Descends on Northeast",
@@ -742,21 +757,6 @@
       "word_count": 535,
       "extracted_at": "2026-11-25T18:55:50.723761+00:00",
       "updated_at": "2026-11-25T18:55:50.723761+00:00"
-    },
-    {
-      "id": "4c6c7413-e5cf-4aa6-8e40-80b367ea7162",
-      "title": "'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands",
-      "summary": "Actress Lily James and Universal Pictures are joining forces to turn the Lucy Foley novel \" The Hunting Party \" into a feature film, as the main gist of the project sees a group of friends from Oxford with plans to spend the New Year together at an isolated hunting lodge in the Scottish Highlands before a blizzard traps them there and a dead body suddenly turns up. Continue reading 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands at The Playlist.",
-      "content": "Actress Lily James and Universal Pictures are joining forces to turn the Lucy Foley novel \" The Hunting Party \" into a feature film, as the main gist of the project sees a group of friends from Oxford with plans to spend the New Year together at an isolated hunting lodge in the Scottish Highlands before a blizzard traps them there and a dead body suddenly turns up. Continue reading 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/the-hunting-party-lily-james-universal-pictures-20261125",
-      "published_at": "2026-11-25T18:46:31+00:00",
-      "image_url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/25132237/LILY-JAMES_THE-HUNTING-PARTY_UNIVERSAL-PICTURES_-1024x577.jpg",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 89,
-      "extracted_at": "2026-11-25T18:47:51.741044+00:00",
-      "updated_at": "2026-11-25T18:47:51.741044+00:00"
     }
   ]
 }
