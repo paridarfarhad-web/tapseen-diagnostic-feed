@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T19:20:03.134Z
+Last Updated: 2026-11-25T19:26:01.766Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
+[1] 'The Pitt' Sets Season 3 Premiere Date
+Source: Deadline | Status: expanded | Words: 382
+Published: 2026-11-25T19:25:39+00:00
+URL: https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493
+------------------------------------------------------------
+SUMMARY:
+The holidays have arrived early, as HBO Max has revealed that its critically acclaimed medical drama, The Pitt, will premiere its third season on January 7, 2027. The news dropped today via the show's Instagram account, with actors Taylor Dearden, Isa Briones, and Gerran Howell dressed as their characters Mel, Santos, and Whitaker, respectively. The […]
+
+CONTENT / EXTRACTED DETAILS:
+The holidays have arrived early, as HBO Max has revealed that its critically acclaimed medical drama, The Pitt , will premiere its third season on January 7, 2027.
+
+The news dropped today via the show's Instagram account, with actors Taylor Dearden, Isa Briones, and Gerran Howell dressed as their characters Mel, Santos, and Whitaker, respectively. The trio is in the locker room, with little reveals shown in their compartments: Santos' says The Pitt returns on a pink sticky note, and Mel finds a small package that also has a pink sticky note that reads January 7.
+
+The Pitt chronicles the urgent challenges U.S. frontline healthcare professionals face through the lens of the fictional Pittsburgh Trauma Medical Center&#x2019;s emergency department. Offering a real-time format, the series traces, hour by hour, the medical cases and personal crises physicians and nurses must navigate as they reckon with an overabundance of patients and a lack of resources. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Black Friday Streaming Deals Offered By Disney+, HBO Max, Paramount+, Peacock & More News 'The Odyssey', 'Widow's Bay' Among Top Nominees For AARP's Movies & TV For Grownups Awards
+
+The cast includes Noah Wyle (Michael "Robby" Robinavitch), Patrick Ball (Dr. Langdon), Katherine LaNasa (Dana Evans), Fiona Dourif (Dr. McKay), Taylor Dearden (Dr. King), Isa Briones (Dr. Santos), Gerran Howell (Dr. Whitaker), Shabana Azeez (Javadi), Ayesha Harris (Dr. Ellis), Sepideh Moafi (Dr. Al-Hashimi) and Shawn Hatosy (Dr. Abbot). Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+New additions for Season 3 in recurring roles: Stephen Chang, Barry Clifton, Chris Diamantopoulos, Lawrence Kao, Brent Sexton, JB Tadena, and Hannah Ware.
+
+Regarding the plot for Season 3, Wyle told Deadline, &#x201C;Season 3 is about doctors benefiting from being patients. We&#x2019;re going to see that [Robby]&#x2019;s begun the therapeutic road; it&#x2019;s had a positive effect. It&#x2019;s fragile, and it&#x2019;s not without risk and vulnerability, but at least there&#x2019;s forward progress.&#x201D;
+
+Watch the social media announcement below.
+
+============================================================
+[2] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
 Source: The Hollywood Reporter | Status: expanded | Words: 340
 Published: 2026-11-25T19:18:55+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140
@@ -27,7 +51,7 @@ And Disney-owned FX has given a three-season pickup to Welcome to Wrexham , the 
 News of Reynolds' representation switch was first reported by Page Six Hollywood.
 
 ============================================================
-[2] ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
+[3] ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
 Source: Variety | Status: expanded | Words: 473
 Published: 2026-11-25T19:12:12+00:00
 URL: https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-nov-23-1236956394
@@ -59,7 +83,7 @@ The game introduces a new generation to the series by recreating the look and sp
 &#x201C;Recreating Thunderbirds, such an iconic piece of British television and a treasured brand at ITV Studios, required immense care, passion and dedication,&#x201D; Ashley Lewis, managing director of Metavision, said. &#x201C;By pairing the unmistakable DNA and enduring spirit of the 1960s original with Roblox&#x2019;s rapidly evolving technical capabilities, we&#x2019;ve been able to bring Tracy Island and its iconic rescues to life with truly impressive scale and fidelity. We hope we&#x2019;ve created an authentic experience for long-standing fans while introducing a new generation to the excitement and imagination of Thunderbirds.&#x201D;
 
 ============================================================
-[3] A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)
+[4] A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 394
 Published: 2026-11-25T19:08:15+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568
@@ -83,7 +107,7 @@ Snips has previously partnered with Banijay Rights and BIG Media to distribute m
 &#x201C;The idea of Snips, it's to be a platform. We're not creating our own content because we don't want to compete with our content partners,&#x201C; Ben Shimon said in an interview with The Hollywood Reporter. &#x201C;The idea for us is that we're building relationships first [with] adapting content. Second, [our content partners] think about testing things or testing new genres with us."
 
 ============================================================
-[4] As 'Hello Kitty' Joins Thanksgiving Parade, Sanrio Execs Tease 'Magical' Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand's Gen Alpha Strategy
+[5] As 'Hello Kitty' Joins Thanksgiving Parade, Sanrio Execs Tease 'Magical' Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand's Gen Alpha Strategy
 Source: Variety | Status: expanded | Words: 1605
 Published: 2026-11-25T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985
@@ -123,7 +147,7 @@ Takiguchi: I would say, as we represent North America because we're a global bra
 Koch: We find too, like with all events, but sports in particular, our fans crave interacting together and going to an event together. With all the games, in a lot of cases, a lot of girlfriends will get together and that might be the one baseball game they go to all year, where eight of them will go together and it'll be like their special day out or family or dad and daughter. So we also see from a fan perspective, they love that and they also love meeting other fans that obviously share the love of the brand. I'll use this last Dodgers game as a good example from August. We had a blind box plush as the game giveaway, so it was one of five [possible Hello Kitty and Friends characters in the box], and we saw with fans all the content they posted after. So many were opening it, and like, &#x201C;Oh, I love Pompompurin, but I wanted Kuromi&#x201D; and then meeting a stranger and exchanging and making new friends. So for us, that was everything. It's like coming together, making new friends, sharing a connection, which is what people love about our brand. And that emotional connection is what makes our brand unique. So to see that all come together at once is really fulfilling from the brand side of things.
 
 ============================================================
-[5] 5 Good Movies That Actually Have Terrible Writing &#038; I Can Explain Why
+[6] 5 Good Movies That Actually Have Terrible Writing &#038; I Can Explain Why
 Source: ComicBook.com | Status: expanded | Words: 1574
 Published: 2026-11-25T18:59:00+00:00
 URL: https://comicbook.com/movies/list/5-good-movies-that-actually-have-terrible-writing-i-can-explain-why
@@ -163,7 +187,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Ariana Grande Says 'Petal' Music Video Backlash Felt Like 'Black Mirror' and 'I Wouldn’t Change a Thing. I'd Put It Out Again Today As Is'
+[7] Ariana Grande Says 'Petal' Music Video Backlash Felt Like 'Black Mirror' and 'I Wouldn’t Change a Thing. I'd Put It Out Again Today As Is'
 Source: Variety | Status: expanded | Words: 581
 Published: 2026-11-25T18:55:28+00:00
 URL: https://variety.com/2026/music/news/ariana-grande-petal-music-video-backlash-black-mirror-1236958153
@@ -185,7 +209,7 @@ Following the video's criticism, Grande released a statement declaring that she 
 Grande recently announced that she will be releasing the documentary "The Eternal Sunshine Diaries: The Making of the Tour, premiering on December 11, followed by the concert film "The Eternal Sunshine Tour" on December 12, exclusively on Peacock. She is currently on a press run in the lead-up to the release of "Focker-in-Law," in theaters today.
 
 ============================================================
-[7] David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’
+[8] David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’
 Source: Variety | Status: expanded | Words: 786
 Published: 2026-11-25T18:55:08+00:00
 URL: https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022
@@ -223,7 +247,7 @@ Fincher and Netflix have not commented on those instances, though he told the Lo
 Netflix has also been a proponent of AI in filmmaking, purchasing Ben Affleck's AI tool startup InterPositive for $587 million in March and revealing in August that more than 300 programs in its catalog have used some level of generative AI this year.
 
 ============================================================
-[8] Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel &#038; Says It’s “Doubtful” There Will Be Further Adventures
+[9] Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel &#038; Says It’s “Doubtful” There Will Be Further Adventures
 Source: The Playlist | Status: summary_only | Words: 122
 Published: 2026-11-25T18:51:07+00:00
 URL: https://theplaylist.net/brad-pitt-calls-cliff-booth-an-episode-not-a-sequel-says-its-doubtful-there-will-be-further-adventures-20261125
@@ -235,7 +259,7 @@ CONTENT / EXTRACTED DETAILS:
 While Quentin Tarantino has entertained the idea of turning Cliff Booth into a recurring pulp hero, even suggesting he could write a series of paperbacks centered on the character, audiences probably shouldn’t count on more movies. With David Fincher’s “ The Further Mis-Adventures of Cliff Booth ” opening in IMAX today, Brad Pitt is already casting serious doubt on another return to his Oscar-winning role. Speaking alongside Fincher on watch enthusiast publication Hodinkee’s Talking Watches series, Pitt explained how Tarantino conceived the follow-up to “ Once Upon a Time in Hollywood ” (read our review of ‘Cliff Booth’). Continue reading Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel & Says It’s “Doubtful” There Will Be Further Adventures at The Playlist.
 
 ============================================================
-[9] MasterClass Courses — From Spike Lee, Mark Cuban and Martha Stewart — Are 50% Off This Black Friday
+[10] MasterClass Courses — From Spike Lee, Mark Cuban and Martha Stewart — Are 50% Off This Black Friday
 Source: Variety | Status: expanded | Words: 535
 Published: 2026-11-25T18:47:53+00:00
 URL: https://variety.com/shop/best-masterclass-deal-promo-1234835035
@@ -261,7 +285,7 @@ Their annual subscription gets users instant access to the company&#x2019;s enti
 Check out MasterClass's full subscription offerings and the latest deals on MasterClass.com .
 
 ============================================================
-[10] 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands
+[11] 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands
 Source: The Playlist | Status: summary_only | Words: 89
 Published: 2026-11-25T18:46:31+00:00
 URL: https://theplaylist.net/the-hunting-party-lily-james-universal-pictures-20261125
@@ -273,7 +297,7 @@ CONTENT / EXTRACTED DETAILS:
 Actress Lily James and Universal Pictures are joining forces to turn the Lucy Foley novel " The Hunting Party " into a feature film, as the main gist of the project sees a group of friends from Oxford with plans to spend the New Year together at an isolated hunting lodge in the Scottish Highlands before a blizzard traps them there and a dead body suddenly turns up. Continue reading 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands at The Playlist.
 
 ============================================================
-[11] Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response
+[12] Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response
 Source: CinemaBlend | Status: expanded | Words: 196
 Published: 2026-11-25T18:44:25+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lopez-kid-asked-pants-free-lifestyle-she-had-most-vegas-response
@@ -289,7 +313,7 @@ Honestly, this tracks. While Jennifer Lopez is known for celebrity fashion , inc
 Honestly, I love this response. It's giving big Vegas energy, but I also think it's a legit way to explain dance costumes to a young child. It would be weird under normal circumstances for Lopez to go pants-free, but on stage it's par for the course. She's still rocking sparkly leotards when performing live to this very day. Smart money we'll see these types of costumes when streaming The JLo Show .
 
 ============================================================
-[12] Dragon Ball Super Will Never Evolve Without Going Beyond Dragon Ball Z's Ending
+[13] Dragon Ball Super Will Never Evolve Without Going Beyond Dragon Ball Z's Ending
 Source: ComicBook.com | Status: expanded | Words: 855
 Published: 2026-11-25T18:41:05+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-will-never-evolve-without-going-beyond-dragon-ball-zs-ending
@@ -321,7 +345,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Bowen Yang, Mark Ruffalo and the Rise of Antisemitism in Hollywood
+[14] Bowen Yang, Mark Ruffalo and the Rise of Antisemitism in Hollywood
 Source: The Hollywood Reporter | Status: expanded | Words: 1465
 Published: 2026-11-25T18:34:06+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bowen-yang-mark-ruffalo-antisemitism-hollywood-1236763143
@@ -361,7 +385,7 @@ There are many ways to measure Hollywood&#x2019;s decline. The lackluster qualit
 James Kirchick is the author of Secret City: The Hidden History of Gay Washington.
 
 ============================================================
-[14] Dropout's 'Very Important People' Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests
+[15] Dropout's 'Very Important People' Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests
 Source: Variety | Status: expanded | Words: 307
 Published: 2026-11-25T18:30:12+00:00
 URL: https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190
@@ -385,7 +409,7 @@ Returning to "VIP" this series are previous guest stars Jeremy Culhane, Lisa Gil
 Watch the trailer for the new season of "Very Important People" below.
 
 ============================================================
-[15] Why 60 Minutes Veteran Lesley Stahl Is Supposedly Unhappy With CBS News’ Bari Weiss
+[16] Why 60 Minutes Veteran Lesley Stahl Is Supposedly Unhappy With CBS News’ Bari Weiss
 Source: CinemaBlend | Status: expanded | Words: 257
 Published: 2026-11-25T18:29:07+00:00
 URL: https://www.cinemablend.com/television/60-minutes-lesley-stahl-supposedly-unhappy-with-cbs-news-bari-weiss
@@ -401,7 +425,7 @@ Per this reporting, much of the supposed displeasure on Stahl’s part also has 
 Pelley is also one of several former employees who have made claims of “journalistic interference” against the new leadership team at CBS News. He, Cecilia Vega and more have alleged that they were encouraged to insert what they believed to be news-related bias into their reporting. On the other side of this equation, Weiss and co. have denied presenting biased reporting. Some have also come to Weiss’ defense during this time, with CBS Evening News anchor Tony Dokoupil defending her vision and saying he hadn’t personally seen any instances of bias.
 
 ============================================================
-[16] Veruschka, Supermodel Who Appeared in 'Blow-Up,' 'Casino Royale,' Dies at 87
+[17] Veruschka, Supermodel Who Appeared in 'Blow-Up,' 'Casino Royale,' Dies at 87
 Source: Variety | Status: expanded | Words: 304
 Published: 2026-11-25T18:28:20+00:00
 URL: https://variety.com/2026/film/news/veruschka-supermodel-blow-up-1236958180
@@ -425,7 +449,7 @@ She worked with top photographers including David Bailey, Irving Penn, Steven Me
 She returned to modeling several times in more recent years, including for Acne Studios in 2018.
 
 ============================================================
-[17] Streaming Ratings: 'Rings of Power,' 'Black Doves' Open Lower After Long Gaps Between Seasons
+[18] Streaming Ratings: 'Rings of Power,' 'Black Doves' Open Lower After Long Gaps Between Seasons
 Source: The Hollywood Reporter | Status: expanded | Words: 480
 Published: 2026-11-25T18:26:07+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-9-15-2026-1236763130
@@ -449,7 +473,7 @@ Tyler Perry's The Gospel of Christmas led the movie top 10 with 372 million minu
 Nielsen's streaming ratings cover viewing on TV sets only and don&#x2019;t include minutes watched on computers or mobile devices. The ratings only measure U.S. audiences. The top streaming titles for Nov. 9-15, 2026, are below.
 
 ============================================================
-[18] Takashi Miike's 'Bad Lieutenant: Tokyo' From Neon Sets Spring Release
+[19] Takashi Miike's 'Bad Lieutenant: Tokyo' From Neon Sets Spring Release
 Source: Deadline | Status: expanded | Words: 517
 Published: 2026-11-25T18:20:21+00:00
 URL: https://deadline.com/2026/11/bad-lieutenant-tokyo-release-date-1237233449
@@ -473,7 +497,7 @@ Written by Daisuke Tengan ( Audition , Imprint and 13 Assassins ) and based on t
 Miike has directed over 100 feature films including Audition , the yakuza trilogy Dead Or Alive , and thriller Ichi The Killer , as well as other titles including Sukiyaki Western Django, Visitor Q, 13 Assassins , and his 100th film, Blade of the Immortal. His pics at Cannes include Hara-Kiri: Death of a Samurai and Shield of Straw which was in consideration for the Palme d&#x2019;Or. Up next, Miike&#x2019;s has an untitled slasher-horror film, starring Charlie xcx, Milly Alcock, Norman Reedus, Kiko Mizuhara, and Show Kasamatsu.
 
 ============================================================
-[19] BlackStar's Luminary Gala Returns For Fourth Edition; Mahershala Ali &#038; Mara Brock Akil Among Honorary Award Winners
+[20] BlackStar's Luminary Gala Returns For Fourth Edition; Mahershala Ali &#038; Mara Brock Akil Among Honorary Award Winners
 Source: Deadline | Status: expanded | Words: 1028
 Published: 2026-11-25T18:18:46+00:00
 URL: https://deadline.com/2026/11/blackstar-luminary-gala-mahershala-ali-mara-brock-akil-2026-1237233236
@@ -529,7 +553,7 @@ Next up on the BlackStar calendar is the Greaves Seminar, a symposium for Black,
 Check out images from last week's Luminary Gala below.
 
 ============================================================
-[20] 5 Cult Animated Shows From 2009 That I Wish Would Come Back for More Episodes
+[21] 5 Cult Animated Shows From 2009 That I Wish Would Come Back for More Episodes
 Source: ComicBook.com | Status: expanded | Words: 1445
 Published: 2026-11-25T18:17:00+00:00
 URL: https://comicbook.com/tv-shows/list/5-cult-animated-shows-from-2009-that-i-wish-would-come-back-for-more-episodes
@@ -569,7 +593,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Takashi Miike’s ‘Bad Lieutenant: Tokyo’ From Neon Gets Early 2027 Release
+[22] Takashi Miike’s ‘Bad Lieutenant: Tokyo’ From Neon Gets Early 2027 Release
 Source: The Hollywood Reporter | Status: expanded | Words: 404
 Published: 2026-11-25T18:15:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/takashi-miike-bad-lieutenant-tokyo-release-date-1236763105
@@ -593,7 +617,7 @@ Bad Lieutenant: Tokyo had a world premiere at the Toronto Film Festival and will
 The executive producer credits are shared by Paula Paizes, Ivan Kelava, Peter Watson, Yuzo Kuwahara, Nobuyuki Iinuma, Tetsu Fujimura, Max Loeb, Mike Apgar, Tom Quinn, Sarah Colvin, Kristen Figeroid, Laurel Charnetsky and Alain&#xE9;e Ken.
 
 ============================================================
-[22] As ‘The Further Mis-Adventures of Cliff Booth’ Opens on Just 200 Imax Screens, Netflix’s Movie Theater Push Is Still Failing Moviegoers
+[23] As ‘The Further Mis-Adventures of Cliff Booth’ Opens on Just 200 Imax Screens, Netflix’s Movie Theater Push Is Still Failing Moviegoers
 Source: Variety | Status: expanded | Words: 1285
 Published: 2026-11-25T18:15:00+00:00
 URL: https://variety.com/2026/film/columns/cliff-booth-imax-limited-release-netflix-1236956318
@@ -623,7 +647,7 @@ The movie has a budget of $120 million, which raises the age-old question: Why i
 We&#x2019;ll see what the further mis-adventures of Netflix bring. When it comes to theatrical, can Netflix truly change its spots? Much will be riding on Peter Rice, the company's new chief content officer. With his golden track record from the Fox Searchlight days, he has long been bullish on theatrical. If he hires Mike DeLuca and Pam Abdy, those high-powered refugees of Skydance, or even if Rice just oversees the film side himself (as he has suggested he might), it could mark a new era for Netflix. But based on the strangely limited release of "The Further Mis-Adventures of Cliff Booth," a movie that audiences are hungry for but in most cases wlll not be able to see in theaters, I won&#x2019;t be holding my breath, even as the constricted Netflix theatrical model now looks like it&#x2019;s swimming perilously upstream.
 
 ============================================================
-[23] Takashi Miike's 'Bad Lieutenant: Tokyo' Sets March 2027 Release Date
+[24] Takashi Miike's 'Bad Lieutenant: Tokyo' Sets March 2027 Release Date
 Source: Variety | Status: expanded | Words: 406
 Published: 2026-11-25T18:15:00+00:00
 URL: https://variety.com/2026/film/news/takashi-miike-bad-lieutenant-tokyo-release-date-neon-1236957562
@@ -645,7 +669,7 @@ The deal was negotiated by Neon&#x2019;s Sarah Colvin, VP of acquisitions and Pa
 Miike is represented by CAA. Oguri is represented by Tristone Entertainment Inc. James is represented by Tavistock Wood Management, Independent Talent Group and UTA.
 
 ============================================================
-[24] The Witcher 4 Will Be Similar to GTA 6 in Quality Leap, Claims CDPR
+[25] The Witcher 4 Will Be Similar to GTA 6 in Quality Leap, Claims CDPR
 Source: ComicBook.com | Status: expanded | Words: 519
 Published: 2026-11-25T18:14:42+00:00
 URL: https://comicbook.com/gaming/news/the-witcher-4-will-be-similar-to-gta-6-in-quality-leap-claims-cdpr
@@ -673,7 +697,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Capcom Announces Shutdown of Shooter Game Just Released in 2023
+[26] Capcom Announces Shutdown of Shooter Game Just Released in 2023
 Source: ComicBook.com | Status: expanded | Words: 517
 Published: 2026-11-25T18:12:28+00:00
 URL: https://comicbook.com/gaming/news/capcom-games-2023-shooter-shutdown
@@ -699,7 +723,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] I Can’t Believe The Lord Of The Rings: The Hunt For Gollum Has Wrapped (With A Sweet And Silly Goodbye)
+[27] I Can’t Believe The Lord Of The Rings: The Hunt For Gollum Has Wrapped (With A Sweet And Silly Goodbye)
 Source: CinemaBlend | Status: expanded | Words: 1308
 Published: 2026-11-25T18:11:38+00:00
 URL: https://www.cinemablend.com/movies/lord-of-the-rings-hunt-for-gollum-
@@ -745,7 +769,7 @@ Streaming News I'm Geeking Out Over Orlando Bloom And Elijah Wood Reuniting (But
 {let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,a.bj)(e)):(0,o.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,a.qL)(e)):(u.log("Authenticated under metered paywall"),(0,o.kR)(e)?(0,i.aq)(e)&&(0,a.qL)(e):(0,i.aq)(e)&&g(e)?((0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e)),t&&(0,i.aq)(e)&&(0,l.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,o.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",o="kiosq-micropaywall-content",a="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),s=e=>e?.finalSiteConfig??e?.defaultSiteConfig,l=e=>!0===s(e)?.micropaywall_layer_enabled,c=e=>l(e)&&r().length>0,d=e=>{if(!l(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=s(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${o}`))return;const t=document.createElement("div");for(t.className=o;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${a}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[27] 'Avatar 4' Set For 2029 &#038; 'Avatar 5' In 2031 After Reported Update To Disney Film Slate
+[28] 'Avatar 4' Set For 2029 &#038; 'Avatar 5' In 2031 After Reported Update To Disney Film Slate
 Source: The Playlist | Status: summary_only | Words: 102
 Published: 2026-11-25T18:07:27+00:00
 URL: https://theplaylist.net/avatar-4-2029-avatar-5-2031-disney-james-cameron-20261125
@@ -757,7 +781,7 @@ CONTENT / EXTRACTED DETAILS:
 Fans of the " Avatar " franchise should be sighing a bit in relief after 20th Century Studios ' parent company, Disney , has updated its main feature film slate, which includes James Cameron 's sequels " Avatar 4 " and " Avatar 5 ," telegraphing that Disney is looking to greenlight the two EXPENSIVE films in the wake of a recent dip at the box office in comparison to the original installment from 2009 (made an impressive $2.924 billion). Continue reading 'Avatar 4' Set For 2029 & 'Avatar 5' In 2031 After Reported Update To Disney Film Slate at The Playlist.
 
 ============================================================
-[28] Jane Fonda, Robert De Niro &#038; Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide's Prank
+[29] Jane Fonda, Robert De Niro &#038; Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide's Prank
 Source: Deadline | Status: expanded | Words: 723
 Published: 2026-11-25T18:03:48+00:00
 URL: https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358
@@ -795,7 +819,7 @@ Spokespersons for Schumer and Van Hollen did not return requests for comment.
 But a campaign aide to Schumer, Angelo Roefaro, told Politico that he was behind a bit of pranks-manship in advance of the release of the letter. He gained access to the Google doc draft of the letter and added Frank Sinatra's name to the list of signatories, and subbed in Schumer's name for Van Hollen. A Times reporter initially posted a copy of the letter endorsing Van Hollen, but with Sinatra's name still included, before replacing it with an image of the corrected letter, per Politico. Roefaro told Politico that Schumer was unaware of the prank.
 
 ============================================================
-[29] Robert Downey Jr. Confirms "Science Bro" Replacements in Avengers: Doomsday, And It's Perfect
+[30] Robert Downey Jr. Confirms "Science Bro" Replacements in Avengers: Doomsday, And It's Perfect
 Source: ComicBook.com | Status: expanded | Words: 745
 Published: 2026-11-25T18:03:26+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-confirms-science-bro-replacements-in-avengers-doomsday-and-its-perfect
@@ -829,7 +853,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Veruschka, Mesmerizing Supermodel of the 1960s and ’70s, Dies at 87
+[31] Veruschka, Mesmerizing Supermodel of the 1960s and ’70s, Dies at 87
 Source: The Hollywood Reporter | Status: expanded | Words: 826
 Published: 2026-11-25T17:58:59+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/veruschka-dead-supermodel-1236763138
@@ -877,7 +901,7 @@ Her autobiography, Veruschka &#x2014; Mein Leben , was published in 2011.
 Her beauty, Avedon said, &#x201C;demands something, and you must extend yourself to meet the challenge or know that a kind of splendor is lost to you forever.&#x201D;
 
 ============================================================
-[31] 'Twilight' Director 'Almost Fell Out of Bed' Over Robert Pattinson's Bond Casting: 'The Same Bed Where Rob and Kristen Stewart Auditioned Their Kiss'
+[32] 'Twilight' Director 'Almost Fell Out of Bed' Over Robert Pattinson's Bond Casting: 'The Same Bed Where Rob and Kristen Stewart Auditioned Their Kiss'
 Source: Variety | Status: expanded | Words: 720
 Published: 2026-11-25T17:51:58+00:00
 URL: https://variety.com/2026/film/news/twilight-director-robert-pattinson-james-bond-1236956867
@@ -905,7 +929,7 @@ When Pattinson's Bond casting was announced earlier this month, "Twilight" fans 
 Watch Hardwicke's full appearance on "The Kyle Buchanan" show in the video below.
 
 ============================================================
-[32] Watch Nathan Fielder and Lance Oppenheim's Full In-Depth Breakdown of 'You Can See Everything'
+[33] Watch Nathan Fielder and Lance Oppenheim's Full In-Depth Breakdown of 'You Can See Everything'
 Source: The Hollywood Reporter | Status: expanded | Words: 623
 Published: 2026-11-25T17:47:22+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/watch-nathan-fielder-lance-oppenheim-you-can-see-everything-1236762706
@@ -935,7 +959,7 @@ Indeed, the movie has left most every viewer with questions. This dynamic was wh
 Watch the full conversation above. You Can See Everything is in theaters and available for purchase on digital platforms.
 
 ============================================================
-[33] 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office
+[34] 'Avengers: Doomsday' U.S. Presales Now At $100M+ As Pic Heads For $270M+ Opening - Box Office
 Source: Deadline | Status: expanded | Words: 275
 Published: 2026-11-25T17:45:32+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-box-office-presales-1237233410
@@ -953,7 +977,7 @@ Three months ago Walt Disney Company senior executive VP & Chief Financial Offic
 Tickets went on sale for Avengers: Doomsday on July 20 for Disney PLF certified Infinity Vision. Dune 3 will have all the Imax. On August 14, Doomsday tickets went on sale for general 2D and 3D showtimes.
 
 ============================================================
-[34] Told You So: Bake Off’s Semifinal Had An Issue I Called From Day 1
+[35] Told You So: Bake Off’s Semifinal Had An Issue I Called From Day 1
 Source: CinemaBlend | Status: expanded | Words: 273
 Published: 2026-11-25T17:44:20+00:00
 URL: https://www.cinemablend.com/streaming-news/bake-offs-semifinal-had-an-issue-i-called-from-day-1
@@ -969,7 +993,7 @@ Unfortunately, Gabe struggled quite a bit during the semifinals, partially thank
 There's just one episode for this season of The Great British Baking Show , so the pressure is on for the final there bakers to stick the landing and hopefully pull out a W. While fans across the pond already know who will take the prize, we here in the states will have to wait until Black Friday to stream the finale episode on Netflix. I'm especially curious to see if the U.K. heatwave from last summer continues to be a menace for the contestants during their final few bakes. Can't we get some better air conditioning in the Bake Off tent?
 
 ============================================================
-[35] Jujutsu Kaisen Studio's Next Shonen Jump Anime Shares New Look Ahead of Jump Festa 2027
+[36] Jujutsu Kaisen Studio's Next Shonen Jump Anime Shares New Look Ahead of Jump Festa 2027
 Source: ComicBook.com | Status: expanded | Words: 579
 Published: 2026-11-25T17:43:45+00:00
 URL: https://comicbook.com/anime/news/jujutsu-kaisen-studios-next-shonen-jump-anime-shares-new-look-ahead-of-jump-festa-2027
@@ -995,7 +1019,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
+[37] Chris Evans On Secret Meetings About 'Avengers' Return Despite Saying He Was "Happily Retired" From MCU
 Source: Deadline | Status: expanded | Words: 358
 Published: 2026-11-25T17:36:12+00:00
 URL: https://deadline.com/2026/11/chris-evans-avengers-doomsday-return-happily-retired-mcu-1237233374
@@ -1017,7 +1041,7 @@ Evans noted that he had a meeting with Marvel Studios head Kevin Feige and co-pr
 At the end of Endgame , Steve and Peggy Carter (Hayley Atwell) travel back in time to live their life. Steve then appears in the present day as an old man to pass the baton to Sam Wilson. However, in the Doomsday trailer, Steve and Peggy look like they haven't aged, which could mean they are time traveling through the multi-verse.
 
 ============================================================
-[37] Annihilation Was ’00s Marvel’s Best Story and I’m Tired of Waiting for Marvel Studios to Adapt It
+[38] Annihilation Was ’00s Marvel’s Best Story and I’m Tired of Waiting for Marvel Studios to Adapt It
 Source: ComicBook.com | Status: expanded | Words: 1228
 Published: 2026-11-25T17:36:00+00:00
 URL: https://comicbook.com/comics/feature/annihilation-was-00s-marvels-best-story-and-im-tired-of-waiting-for-marvel-studios-to-adapt-it
@@ -1055,7 +1079,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Cyberpunk 2 Gets New Development Update From CD Projekt, And It Sounds Promising
+[39] Cyberpunk 2 Gets New Development Update From CD Projekt, And It Sounds Promising
 Source: ComicBook.com | Status: expanded | Words: 524
 Published: 2026-11-25T17:33:18+00:00
 URL: https://comicbook.com/gaming/news/cyberpunk-2-2077-sequel-update-cd-projekt-red
@@ -1083,7 +1107,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Lily James To Star And Produce 'The Hunting Party' Adaptation At Universal; Molly Sims Also Producing
+[40] Lily James To Star And Produce 'The Hunting Party' Adaptation At Universal; Molly Sims Also Producing
 Source: Deadline | Status: expanded | Words: 418
 Published: 2026-11-25T17:30:00+00:00
 URL: https://deadline.com/2026/11/lily-james-hunting-party-movie-adaptation-universal-1237232787
@@ -1105,7 +1129,7 @@ The Golden Globe nominee's upcoming films include Guy Nattiv&#x2019;s psychologi
 James is represented by UTA, Tavistock Wood, and Sloane Weber Offer Dern. Foley is represented by UTA and Cathryn Summerhayes at Curtis Brown Group. Sims is represented by Linden Entertainment and UTA.
 
 ============================================================
-[40] David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ &#038; Embraces Its Future In Filmmaking: “I’m Not Going Backwards”
+[41] David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ &#038; Embraces Its Future In Filmmaking: “I’m Not Going Backwards”
 Source: The Playlist | Status: summary_only | Words: 93
 Published: 2026-11-25T17:28:14+00:00
 URL: https://theplaylist.net/david-fincher-confirms-ai-use-cliff-booth-future-filmmaking-20261125
@@ -1117,7 +1141,7 @@ CONTENT / EXTRACTED DETAILS:
 Wondering where everything stands regarding the brouhaha surrounding David Fincher ’s Quentin Tarantino -written “ The Further Mis-Adventures Of Cliff Booth ,” starring Brad Pitt , and its alleged A.I. usage? Well, we now have some answers, though the more contentious allegations remain unaddressed—and Netflix has not responded to a request for comment or clarification. In a new interview on The Big Picture podcast, Fincher acknowledged using some A.I. Continue reading David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ & Embraces Its Future In Filmmaking: “I’m Not Going Backwards” at The Playlist.
 
 ============================================================
-[41] 'The Pitt' Sets Season 3 Release Date at HBO Max
+[42] 'The Pitt' Sets Season 3 Release Date at HBO Max
 Source: Variety | Status: expanded | Words: 244
 Published: 2026-11-25T17:25:30+00:00
 URL: https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110
@@ -1139,7 +1163,7 @@ As Variety exclusively reported earlier this year, Supriya Ganesh, who played se
 R. Scott Gemmill created the series and serves as an executive producer along with John Wells via John Wells Productions (JWP), Wyle, Michael Hissrich, Erin Jontow of JWP, Joe Sachs, Simran Baidwan, and Eli Attie.
 
 ============================================================
-[42] 'Top Gear' Sets 2028 Return — With Gordon Ramsay as Host
+[43] 'Top Gear' Sets 2028 Return — With Gordon Ramsay as Host
 Source: The Hollywood Reporter | Status: expanded | Words: 549
 Published: 2026-11-25T17:21:50+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/top-gear-gordon-ramsay-host-tv-bbc-2028-show-flintoff-1236763104
@@ -1167,7 +1191,7 @@ Ramsay is no stranger to the show, having been a guest previously on three occas
 Top Gear is produced by BBC Studios Entertainment Productions for BBC One and BBC iPlayer and was commissioned by Ed Havard, director of entertainment and Michael Jochnowitz, head of constructed reality and studio entertainment. For BBC Studios, the creative director is Mel Balac, the showrunner is Rowland French, and the executive producer is Zac Assemakis. Suzy Lamb is managing director for BBC Studios Entertainment.
 
 ============================================================
-[43] Francis Lawrence Recalls 'Constantine' Landed R-Rating From MPA; They Said People Believe "Angels &#038; Demons" Are Real
+[44] Francis Lawrence Recalls 'Constantine' Landed R-Rating From MPA; They Said People Believe "Angels &#038; Demons" Are Real
 Source: The Playlist | Status: summary_only | Words: 96
 Published: 2026-11-25T17:18:51+00:00
 URL: https://theplaylist.net/francis-lawrence-constantine-r-rating-mpa-20261125
@@ -1179,7 +1203,7 @@ CONTENT / EXTRACTED DETAILS:
 Director Francis Lawrence has returned to " The Hunger Games " franchise with his latest prequel installment, " Sunrise On The Reaping ," while he's experienced headaches from the MPA (the ratings board of the U.S. that can have an odd Christian angle to their reasoning). He shared a story about how the Keanu Reeves -led DC Comics film " Constantine " landed its R-rating in the 2000s and has us scratching our heads. Continue reading Francis Lawrence Recalls 'Constantine' Landed R-Rating From MPA; They Said People Believe "Angels & Demons" Are Real at The Playlist.
 
 ============================================================
-[44] Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)
+[45] Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 387
 Published: 2026-11-25T17:15:00+00:00
 URL: https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790
@@ -1205,7 +1229,7 @@ The New York ceremony, the East Coast half the guild's annual bicoastal celebrat
 Behind the scenes, Ann Cohen returns as head writer of the 2027 New York show. Bonnie Datt and Shannon Walker serve as executive producers, with Marsha Seeman and Caroline Waxler producing.
 
 ============================================================
-[45] 'Avengers: Doomsday' $270M+ Opening Is Highest Pic Ever On NRG Tracking; 'Dune 3' Eyes $75M+ Debut - Box Office Early Look
+[46] 'Avengers: Doomsday' $270M+ Opening Is Highest Pic Ever On NRG Tracking; 'Dune 3' Eyes $75M+ Debut - Box Office Early Look
 Source: Deadline | Status: expanded | Words: 404
 Published: 2026-11-25T17:07:00+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326
@@ -1227,7 +1251,7 @@ Still, many are projecting this fanboy charged pre-Christmas weekend as the bigg
 First Choice, an excellent indicator of who will actually show up, is enormous with guys under 25 followed immediately after by guys over 25. Guys under 25 in first choice has the same near 50% as Spider-Man: Brand New Day . Guys over 25 are two points behind guys under 25 in first choice; that figure 35% ahead of where Brand New Day was when it arrived on tracking.
 
 ============================================================
-[46] Major Horror Anime Drops New Opening Ahead of Netflix Debut - Watch Now
+[47] Major Horror Anime Drops New Opening Ahead of Netflix Debut - Watch Now
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-25T17:06:53+00:00
 URL: https://comicbook.com/anime/news/major-horror-anime-drops-new-opening-ahead-of-netflix-debut-watch-now
@@ -1253,7 +1277,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Gordon Ramsay To Host Revived 'Top Gear' For BBC
+[48] Gordon Ramsay To Host Revived 'Top Gear' For BBC
 Source: Deadline | Status: expanded | Words: 644
 Published: 2026-11-25T17:00:09+00:00
 URL: https://deadline.com/2026/11/top-gear-gordon-ramsay-host-bbc-2027-andrew-flintoff-1237233336
@@ -1285,7 +1309,7 @@ Havard added that the rebooted offering will bring together "two iconic global p
 Top Gear became a global phenomenon in the hands of Jeremy Clarkson, Richard Hammond, James May and producer Andy Wilman. It enjoyed a second life when Chris Harris, Paddy McGuinness and Flintoff took over hosting duties from Matt LeBlanc and Chris Evans. Various versions of the show air around the world and an American version was made last decade first for the History Channel and then for BBC America.
 
 ============================================================
-[48] How ‘The Other Bennet Sister’ Defied the Odds as a Smash Hit
+[49] How ‘The Other Bennet Sister’ Defied the Odds as a Smash Hit
 Source: The Hollywood Reporter | Status: expanded | Words: 725
 Published: 2026-11-25T17:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/other-bennet-sister-ella-bruccoleri-donal-finn-interview-1236762265
@@ -1307,7 +1331,7 @@ The series centers on the romantic arc between Mary and Tom, who is engaged when
 You can watch the full panel conversation above. The Other Bennet Sister is streaming on BritBox.
 
 ============================================================
-[49] 10 Short Films Forging Drama and Discomfort as Routes to Kindness and Compassion
+[50] 10 Short Films Forging Drama and Discomfort as Routes to Kindness and Compassion
 Source: Variety | Status: expanded | Words: 1499
 Published: 2026-11-25T17:00:00+00:00
 URL: https://variety.com/2026/biz/news/10-short-films-forging-drama-discomfort-as-routes-to-kindness-compassion-1236956641
@@ -1345,40 +1369,4 @@ Writer-director Kristian Lever describes his provocative, emotional film as a ps
 "Art should be political. Art isn't just for entertainment,&#x201D; says Ayman Alhussein, co-writer of this powerful short film exploring attitudes towards refugees crossing the English Channel in small boats. Drawing on his own experience fleeing Syria by dinghy from Turkey to Greece before seeking asylum in the U.K., Alhussein wanted to flip the narrative and imagine what happens when everyone is in the same boat. Co-writer and director Max Fisher describes the film as a cautionary tale, conceived before vigilante activity in the English Channel made headlines. Its message now feels increasingly relevant, warning of the consequences of dehumanising refugees and blaming them for wider national problems. Shot entirely at sea, the film captures the danger and isolation of the crossing through the eyes of radicalized right-wing activists attempting to intercept a refugee boat, only to find themselves begging for help from the very people they sought to turn away.
 
 The character of Anthony (Russell Tovey), a seemingly successful mentor of men, was born from a writer&#x2019;s program, in which writer-director Sai Karan Talwar saw a cultural shift in some of his friends. Another discomforting effect of the pandemic had isolated some, who were &#x201C;becoming indoctrinated by toxic social media influences, creating this perverse war in gender dynamics.&#x201D; The concept originated from a television pilot script developed during Talwar&#x2019;s time in a writers' room program. Talwar's film skewers that projection by revealing the archetype of a con man. &#x201C;If you're able to deconstruct these people and try to understand them,&#x201D; says Talwar, &#x201C;then in doing so, you can take their power away from them.&#x201D;
-
-============================================================
-[50] ‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond
-Source: Variety | Status: expanded | Words: 1313
-Published: 2026-11-25T17:00:00+00:00
-URL: https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823
-------------------------------------------------------------
-SUMMARY:
-“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]
-
-CONTENT / EXTRACTED DETAILS:
-&#x201C;You&#x2019;re lucky you don&#x2019;t have a father.&#x201D;
-
-So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends&#x2019; carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn&#x2019;t anything like a plus. She&#x2019;s a drifting, lonely soul in her own home, left to her own devices by a mother wrapped up in her new boyfriend and a teenage brother distracted by his girlfriend. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life
-
-In &#x201C;Hold Onto Me,&#x201D; the luminous debut feature from writer-director Myrsini Aristidou, the father Iris never knew is a shadow behind the eyes and a wound in the heart of wonderfully expressive Maria Petrova, the blazingly talented newcomer who plays the youngster. Little wonder, then, that when Aris (Christos Passalis) &#x2014; not dead, just estranged and feckless &#x2014; blows back into town, Iris can&#x2019;t help but be drawn to him. Even when her dad reveals his true colors as a grifter who&#x2019;d rather use his daughter in his scams than display familial love, Iris tries to hold onto him &#x2014; with perilous results for both. Aristidou displayed similar dogged, impassioned commitment to her movie. To bring &#x201C;Hold Onto Me&#x201D; to screen, the Cypriot filmmaker weathered seven years of script development, financing challenges, Covid-wrought delays and the pressures involved in honoring her story and her island home by hiring multiple nonactors, not least to play her lead child characters.
-
-&#x201C;Coming from Cyprus or Greece, it's hard to find kids that are actors,&#x201D; Aristidou explains. &#x201C;We don't have big industries. So I knew it was going to be nonactors playing Iris and Danae [Jenny Sallo].&#x201D; The filmmaker had grappled with that reality on two shorts, 2015&#x2019;s &#x201C;Semele&#x201D; and 2017&#x2019;s &#x201C;Aria.&#x201D; They both also starred young girls. In &#x201C;Semele,&#x201D; Aristidou worked with a 9-year-old; in &#x201C;Aria,&#x201D; a 16-year-old. &#x201C;I guess they've called me the child whisperer,&#x201D; she says, smiling. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Petrova, who has a beautiful naturalism that shines from the screen, was only 10 when Aristidou shot her. &#x201C;I had my hesitations,&#x201D; she admits, &#x201C;because initially I wrote the script for a 13-year-old who was feistier and more teenage-y. But when I met Maria, it made sense to rewrite the script around her as a younger character who is not as feisty but has this internal strength and courage that come out. Maria has that in real life. When you're working with kids, with nonactors generally, it's always better if you cast someone who&#x2019;s close to the character.&#x201D;
-
-The same went for her background artists, mostly untested locals from the towns of Nicosia and Limassol, where she shot. &#x201C;They don't care about their image or what they're supposed to do. They just are. And there's a freedom in that, an authenticity. I love that and I wanted that,&#x201D; continues Aristidou of a cast of dozens &#x2014; caf&#xE9;-goers, bar patrons, racetrack attendees, teenage boys drinking and smoking their way through the school summer holidays &#x2014; whom she painstakingly names in the closing titles. &#x201C;It was important that I put them in the credits, that I give them this honor. They were part of this film that, for me, was a collective thing, that was shot in my country.&#x201D;
-
-She was, too, equally rigorous in the casting of Passalis, an established actor and director in Greece. She first spotted him &#x201C;from a distance&#x201D; in a bar during the Thessaloniki International Film Festival in 2019 &#x201C;when I was there doing the work-in-progress [development] for my film. I was like, &#x2018;he has a cool face &#x2026;&#x2019; But I didn&#x2019;t make the connection that he was the guy in Dogtooth,&#x201D; she says. After sharing the script and inviting Passalis in for a casting, &#x201C;I brought him back two or three times. And I saw him with a lot of different kids, to see the dynamic.&#x201D;
-
-Having been shot over the summer of 2023, &#x201C;Hold Onto Me&#x201D; film finally bowed in early 2026 at Sundance, where it won the Audience Award: World Cinema Dramatic. And its awards season run continues. The Cyprus-Denmark-Greece international co-production has been selected for 58 festivals, including this year&#x2019;s edition of Thessaloniki. At the European Film Awards, being held in Athens in January 2027, the feature is one of three films nominated for the European Young Audience Award. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Capping all that, &#x201C;Hold Onto Me&#x201D; is Cyprus&#x2019; first-ever official submission for Best International Feature Film, for which Aristidou thanks her country&#x2019;s Deputy Ministry of Culture and Ministry of Foreign Affairs for supporting the campaign&#x2019;s efforts. The film&#x2019;s hard-earned success is a conclusion in another way, too. After her last two shorts, Aristidou views &#x201C;Hold Onto Me&#x201D; as the final part of a triptych of father-daughter narratives. &#x201C;These stories matter to me a lot. Beyond figuring out our parental relationships, which tend to eventually define our adult relationship choices, we need to allow space to understand and accept &#x2014; and sometimes even forgive the other. Because not everything&#x2019;s intentional. And when you allow for that space, there&#x2019;s a chance for reconciliation or coexistence between us as humans.&#x201D;
-
-Given the deeply empathetic, evocative way she&#x2019;s crafted and framed these stories of generational separation, disconnect and reconnect, it&#x2019;s perhaps unsurprising that the themes have emotional resonance for Aristidou. &#x201C;My parents divorced when I was 9 months old, and I didn&#x2019;t grow up with my dad. I remember looking for photos with him and not having any. So there&#x2019;s a lot of truth in the film, and many things in it are very personal.&#x201D; She and her father did, though, reunite in her early teens. &#x201C;We started bonding more, and I started to understand where he was coming from. But he&#x2019;s a writer &#x2014; he&#x2019;s not a con artist!&#x201D; she clarifies with a laugh. &#x201C;Although when you&#x2019;re a writer, we are all kind of con artists. I think all creatives are.&#x201D;
-
-Plus, in the end, for all that pain of separation, in their reunion, her father did make up for lost time in one notable way. &#x201C;I got into university in New York for painting. And he was said: &#x2018;Now that you&#x2019;re going to be in America, maybe you should try directing. Cinema is the seventh art.&#x2019; Then I just switched my degree and became a filmmaker, pretty much!&#x201D;
-
-Her family bonds, no matter how frayed, were also helpful in Park City. &#x201C;When we got into Sundance, it was already a huge achievement, because they only choose 10 films from around the world. But during the ceremony, I knew that we were not going to win anything. So I entirely zoned out. Then, when they announced the award, my mom pushed me: &#x2018;Myrsini, it&#x2019;s you!&#x2019; And I just woke up! Because I just didn&#x2019;t expect that.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Also, Aristidou reframed her thoughts from the past. &#x201C;I had let go of expectation. My feeling was: I did my job. I served my calling of creating this film, which was so important for me personally. And I felt so relieved when it was done, as if I had lost 100 kilos of weight off my life. Then I felt: now that the film is finally out, it&#x2019;s not up to me. It doesn&#x2019;t belong to me anymore. Now it belongs to the world.&#x201D;
 
