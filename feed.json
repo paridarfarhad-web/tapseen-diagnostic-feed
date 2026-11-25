@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T21:08:09.957Z"
+    "updated_at": "2026-11-25T21:12:08.521Z"
   },
   "articles": [
+    {
+      "id": "6f2cded8-677b-4cf2-8b37-b07e051a1a52",
+      "title": "Macy's Thanksgiving Day Parade Postponed as Storm Descends on Northeast",
+      "summary": "The annual event is one of the most-watched TV events of the year for NBC.",
+      "content": "In an unprecedented move, the 100th edition of the Macy's Thanksgiving Day Parade in New York City will be postponed until Saturday Nov. 28, a source familiar with the matter confirms to The Hollywood Reporter .\n\nThe decision comes as a powerful nor'easter storm is bearing down on the northeast, with potential wind gusts north of 60 miles per hour.\n\nIt's also a major headache for the broadcast partner NBC , with last year's parade drawing over 34 million viewers between NBC and Peacock.\n\nThe parade has never been canceled in its 100 years, though some of the iconic giant balloons have been grounded when there have been high winds. This year's postponement is also a first. New York City officials and Macy's executives are expected to address the postponement later on Wednesday. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/2026-macys-thanksgiving-day-parade-postponed-nbc-saturday-1236763428",
+      "published_at": "2026-11-25T21:10:38+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 154,
+      "extracted_at": "2026-11-25T21:11:55.811029+00:00",
+      "updated_at": "2026-11-25T21:11:55.811029+00:00"
+    },
     {
       "id": "aa995ad8-f52f-4ffe-97f0-74f81970cf22",
       "title": "With HBO Series 'Scams for a Better Tomorrow,' Oobah Butler Has a Language for Your Frustration",
@@ -742,21 +757,6 @@
       "word_count": 89,
       "extracted_at": "2026-11-25T18:47:51.741044+00:00",
       "updated_at": "2026-11-25T18:47:51.741044+00:00"
-    },
-    {
-      "id": "6c75867b-ec85-4ae9-b67b-d907049e9da7",
-      "title": "Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response",
-      "summary": "Jenny from the Block has to wear revealing costumes sometimes.",
-      "content": "Jennifer Lopez has been entertaining audiences for decades now, thanks to her thriving career as an actress and global pop star. She's also a mother, whose kids are off to college leaving her as an empty nester. During a recent talk show appearance she spoke about how her kids used to ask her about going pants-free during live performances, and her response was SO Las Vegas coded.\n\nHonestly, this tracks. While Jennifer Lopez is known for celebrity fashion , including that i conic green Versace dress , it must be a unique experience for her kids seeing her in the various looks. That includes dance costumes where she's decidedly not wearing traditional pants. She's got to keep her legs free to dance, after all!\n\nHonestly, I love this response. It's giving big Vegas energy, but I also think it's a legit way to explain dance costumes to a young child. It would be weird under normal circumstances for Lopez to go pants-free, but on stage it's par for the course. She's still rocking sparkly leotards when performing live to this very day. Smart money we'll see these types of costumes when streaming The JLo Show .",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/jennifer-lopez-kid-asked-pants-free-lifestyle-she-had-most-vegas-response",
-      "published_at": "2026-11-25T18:44:25+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/yrYycQwYMmD54XYzKWLfic-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 196,
-      "extracted_at": "2026-11-25T18:47:47.874382+00:00",
-      "updated_at": "2026-11-25T18:47:47.874382+00:00"
     }
   ]
 }
