@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T00:45:08.357Z"
+    "updated_at": "2026-11-25T00:51:14.290Z"
   },
   "articles": [
+    {
+      "id": "470e8aa3-5f55-4de5-8c23-6595ad087206",
+      "title": "Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91",
+      "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for \"All That Jazz,\" died Oct. 28 in West Palm Beach, Florida. He was 91. His death was announced by his nephew, Alan Rosenberg. Rosenberg's first film job was as design assistant on the […]",
+      "content": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for \" All That Jazz ,\" died Oct. 28 in West Palm Beach, Florida. He was 91.\n\nHis death was announced by his nephew, Alan Rosenberg.\n\nRosenberg's first film job was as design assistant on the 1968 \"The Sea Gull.\" He went on to become an art director and production designer, working with New York-based directors such as Sidney Lumet, Paul Mazursky and Norman Jewison. He partnered with production designer Tony Walton on films including \"The Wiz\" and \"All That Jazz.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories Chris Colfer Says 'Glee' Reboot 'Conversations' About Kurt's Return Are Ongoing: 'From What I Heard, It Sounded Very Funny and Like a Good Idea' Jane Lynch Wants to Return for 'Glee' Reboot: 'I Would Love to Do Sue Sylvester for the Rest of My Life'\n\nKnown for being part of the realist school of production design in the 1970s, he was nominated for an Oscar as art director of \"The Wiz.\" Among his other credits were \"The Owl and the Pussycat,\" \"Next Stop Greenwich Village,\" \"The Gambler,\" \"Network,\" \"The Sentinel,\" \"Running on Empty,\" \"Night Falls on Manhattan\" and \"Moonstruck.\" His final credit came for \"Collateral Damage\" in 2002.\n\nRosenberg grew up in Prospect Park South, Flatbush, Brooklyn, and studied scenic design at Yale. After graduation, he was hired as an assistant at the Metropolitan Opera, as well as assisting Marcel Vert&#xE8;s on the murals in the Cafe Carlyle.\n\nHe married Siv Sandstrom, a hostess in the Swedish pavilion at the 1964 World's Fair, who assisted him in the art department on films including \"Running on Empty\" and \"Moonstruck.\" She died in 2024.\n\nHe is survived by his brothers Stanley Rosenberg and David Rosenberg and six nieces and nephews.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540",
+      "published_at": "2026-11-25T00:50:47+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-106662355-e1795564014741.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 323,
+      "extracted_at": "2026-11-25T00:50:59.503899+00:00",
+      "updated_at": "2026-11-25T00:50:59.503899+00:00"
+    },
     {
       "id": "c5b712b6-c379-44a4-92f9-7cd9ef8286eb",
       "title": "One of the 80s' Most Inappropriate Superheroes Somehow Got His Own Children's Toy Line",
@@ -742,21 +757,6 @@
       "word_count": 101,
       "extracted_at": "2026-11-24T21:42:46.43146+00:00",
       "updated_at": "2026-11-24T21:42:46.43146+00:00"
-    },
-    {
-      "id": "b9670ee1-a634-43fd-bf79-708de03239bd",
-      "title": "Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’",
-      "summary": "While “ Avengers: Doomsday ” will mark Patrick Stewart ’s final screen performance, Marve l had originally hoped to bring the actor back for both of its upcoming Avengers films. According to a new report from Entertainment Weekly, Stewart was offered roles in both ‘Doomsday’ and “ Avengers: Secret Wars ,” but agreed to appear in only the former. Stewart, who died in October at 86, had played Professor Charles Xavier for more than two decades, originating the role in the 2000s’ “ X-Men ” before seemingly bidding farewell to the character in James Mangold ’s “ Logan ” in 2017. Continue reading Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’ at The Playlist.",
-      "content": "While “ Avengers: Doomsday ” will mark Patrick Stewart ’s final screen performance, Marve l had originally hoped to bring the actor back for both of its upcoming Avengers films. According to a new report from Entertainment Weekly, Stewart was offered roles in both ‘Doomsday’ and “ Avengers: Secret Wars ,” but agreed to appear in only the former. Stewart, who died in October at 86, had played Professor Charles Xavier for more than two decades, originating the role in the 2000s’ “ X-Men ” before seemingly bidding farewell to the character in James Mangold ’s “ Logan ” in 2017. Continue reading Marvel Wanted Patrick Stewart For Both ‘Avengers’ Sequels, But He Only Agreed To ‘Doomsday’ at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/patrick-stewart-avengers-doomsday-secret-wars-marvel-20261124",
-      "published_at": "2026-11-24T21:29:49+00:00",
-      "image_url": "https://www.youtube.com/embed/Wb8Tq_HD4E8",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 120,
-      "extracted_at": "2026-11-24T21:30:45.383006+00:00",
-      "updated_at": "2026-11-24T21:30:45.383006+00:00"
     }
   ]
 }
