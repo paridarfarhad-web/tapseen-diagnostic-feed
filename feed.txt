@@ -1,9 +1,73 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T02:49:13.688Z
+Last Updated: 2026-11-25T03:01:17.184Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Golden Globes Predictions: 170 Films and 475 Actors Vie for Nominations as Voting Gets Underway. Who Will Make the Cut?
+[1] ‘KPop Demon Hunters’ Rei Ami To Host ABC’s ‘Who’s In The Band?’
+Source: Deadline | Status: expanded | Words: 366
+Published: 2026-11-25T03:00:00+00:00
+URL: https://deadline.com/2026/11/kpop-demon-hunters-rei-ami-host-abc-whos-in-the-band-1237232706
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: ABC has officially landed a Kpop Demon Hunter to host its latest musical competition series. Rei Ami, who was the singing voice of the Netflix animated feature hit’s Zoey, including on songs such as breakout single "Golden", will front the show after closing her deal. This comes ten days after Deadline revealed that the […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : ABC has officially landed a Kpop Demon Hunter to host its latest musical competition series.
+
+Rei Ami , who was the singing voice of the Netflix animated feature hit&#x2019;s Zoey, including on songs such as breakout single "Golden", will front the show after closing her deal.
+
+This comes ten days after Deadline revealed that the project had landed a greenlight from the Disney-owned broadcaster.
+
+The show, which is set to launch next summer, comes from Richard Bacon, Simon Cowell and Savan Kotecha. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Who&#x2019;s In The Band? is described as a &#x201C;fast-paced competition built for the era of snap decisions.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Five contestants sing the same song at once, each inside a brightly colored soundproof tube, while judges at their own mixing desks isolate vocals and eliminate hopefuls in real time. The series gives audiences an inside look at how top music industry professionals put together pop groups today, culminating in a live finale where one girl band and one boy band face a live vote.
+
+The winners will record an album executive produced by Kotecha, who has written songs for the likes of Ariana Grande, Katy Perry, Lizzo, Britney Spears, Ed Sheeran and One Direction.
+
+Rei Ami hosted the show&#x2019;s pilot presentation that was shot in London last year.
+
+It comes as she is set to release more music in 2027, having recently launched her latest single, 2LOUD, in September via Republic Records.
+
+It comes from Bacon&#x2019;s Yes Yes Media, which is backed by Sister Group. Bacon devised the project and will produce alongside Syco Entertainment, Kotecha, Publicis Media Content Innovation in association with Walt Disney Television Alternative.
+
+Bacon will exec produce alongside Cowell, Kotecha and Elisabeth Murdoch . Matt Banks and Ashley Edens will serve as showrunners and will also exec produce.
+
+============================================================
+[2] Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)
+Source: Variety | Status: expanded | Words: 657
+Published: 2026-11-25T03:00:00+00:00
+URL: https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588
+------------------------------------------------------------
+SUMMARY:
+Six Indonesian projects, each from a director-producer pairing working on a debut or sophomore feature, have been chosen for the 2026 Indonesia-France Film Lab X MTN Lab, which runs Nov. 25-30 in Yogyakarta as part of JAFF Market. Now in its third edition, the lab is run by the French Embassy and the Institut français […]
+
+CONTENT / EXTRACTED DETAILS:
+Six Indonesian projects, each from a director-producer pairing working on a debut or sophomore feature, have been chosen for the 2026 Indonesia-France Film Lab X MTN Lab, which runs Nov. 25-30 in Yogyakarta as part of JAFF Market .
+
+Now in its third edition, the lab is run by the French Embassy and the Institut fran&#xE7;ais d'Indon&#xE9;sie (IFI), with French film school La F&#xE9;mis supplying the mentors. Indonesian partners include the Ministry of Culture's Directorate of Film, Music and Arts, through its national talent management program, MTN, as well as the Indonesia Film Agency (BPI) and the Association of Indonesian Film Producers (Aprofi). The long-term aim is to seed French-Indonesian co-productions. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories ‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody Billy Evans Addresses Amanda Seyfried’s Portrayal of Elizabeth Holmes in 'You Can See Everything’: She Was ‘Eager’ to ‘Play a Character’
+
+"Indonesian filmmakers have never lacked stories. What they have lacked is structured access to international partners," said Fauzan Zidni, chairman of BPI. "BPI is committed to working with the Ministry of Culture, the French Embassy, CNC and our industry associations to make sure these projects get made."
+
+French script consultant Eric Collins leads the story development strand, working with each team individually to sharpen each project's artistic vision and international prospects. A separate two-day industry workshop covers development, financing, international distribution and the workings of the French film business. It is led by producers Vincent Wang of House On Fire and Thibaut Amri of Avant La Nuit, along with S&#xE9;bastien Chesneau of sales company Cercamon.
+
+The selection comprises "A Straight Way to Love," written and directed by Kurnia Alexander and produced by Eliza Cheisa; "An Interesting Incident," directed by Rizal Hanun, who co-wrote it with producer Janice Angelica; "Father Figure," from writer-director Rizaldy Bagas and producer Mo Amputra; "My Tears, a Sea for Jakarta to Sink," written and directed by Andrea Nirmala Widjajanto and produced by Nirartha Bas Diwangkara; "Saltstorm!," from writer-director Al Ridwan and producer Utari Hanif Assyuri; and "Super Neli," co-directed by Robby Ul Pratama, who also produces, and Anggi Frisca from a script by Resty Savira Oktaviani and Sally Anom Sari. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+"It is particularly fascinating to discover how strongly traditional culture resonates in contemporary Indonesian storytelling," said Julie Tingaud, deputy head of international affairs at La F&#xE9;mis.
+
+Teams from last year's edition get their next shot in December. The inaugural Southeast Asia Film Forum takes place in Paris Dec. 9-13, hosted by France's CNC, the Centre Pompidou and the French cultural network. Indonesia, Thailand, Vietnam and the Philippines are the four partner nations, and the program mixes panels, screenings and an institutional strand around a central slate of co-production meetings.
+
+Indonesia's presence will be backed by the Ministry of Culture's film directorate. BPI will take part in the institutional program, filmmaker Edwin will present two of his films, and the 2025 lab teams will pitch to French producers.
+
+Fabien Penone, France's ambassador to Indonesia, Timor-Leste and ASEAN, said the lab built on the joint cultural strategy adopted by French President Emmanuel Macron and Indonesian President Prabowo Subianto at Borobudur on May 29, 2025, and that last year's duos would arrive in Paris after a year of mentoring from La F&#xE9;mis. "This is precisely our ambition: to turn the growing ties between our two film industries into concrete and long-term collaborations and, ultimately, more co-productions between France and Indonesia," Penone said.
+
+The Borobudur declaration calls for a closer, more formal audiovisual alliance between the two countries, with co-production as its centerpiece. The Yogyakarta lab is one of the ways the two countries are building it.
+
+The JAFF Market runs alongside the Jogja-Netpac Asian Film Festival .
+
+============================================================
+[3] Golden Globes Predictions: 170 Films and 475 Actors Vie for Nominations as Voting Gets Underway. Who Will Make the Cut?
 Source: Variety | Status: expanded | Words: 624
 Published: 2026-11-25T02:35:00+00:00
 URL: https://variety.com/lists/2027-golden-globes-predictions
@@ -41,7 +105,7 @@ The list of Oscar predictions in all categories can be found here .
 Variety parent company Penske Media Corporation owns Golden Globes producer Dick Clark Prods. in a joint venture with Eldridge .
 
 ============================================================
-[2] 'The Samurai and the Prisoner' Review: Kiyoshi Kurosawa Folds Nesting Mysteries into an Elegantly Classical Shogun-Era Drama
+[4] 'The Samurai and the Prisoner' Review: Kiyoshi Kurosawa Folds Nesting Mysteries into an Elegantly Classical Shogun-Era Drama
 Source: Variety | Status: expanded | Words: 1180
 Published: 2026-11-25T02:12:22+00:00
 URL: https://variety.com/2026/film/reviews/the-samurai-and-the-prisoner-review-1236754267
@@ -71,7 +135,7 @@ But mostly the watchword in the craft design is simplicity, like Kurosawa is pre
 The same could be said for roughly half the populous but well-differentiated&#xA0;cast. As the seasons pass, the castle ranks are thinned by defection or death, and increasingly it feels like Murashige's only real friend is the enemy he threw in prison a year ago. Kanbei is locked up but in many ways freer than a weighed-down Murashige, with his proscribed roles and responsibilities, and his conflicted loyalty to a code he no longer believes in. Kurosawa's highly entertaining adaptation knows that just because you are chained does not make you a prisoner, any more than having wealth and power can reliably make you free.
 
 ============================================================
-[3] Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: "He Was Struggling With His Health"
+[5] Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: "He Was Struggling With His Health"
 Source: Deadline | Status: expanded | Words: 395
 Published: 2026-11-25T02:10:40+00:00
 URL: https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059
@@ -95,7 +159,7 @@ Director Anthony Russo said, "It was clear that he was struggling with his healt
 "You could see it wasn&#x2019;t just the effort of a regular actor showing up and delivering that kind of presence and performance and experience for others, collaboration," Anthony Russo continued. "It was someone who was really being challenged in a very deep way on a health level, showing up and doing that. For him to have muscled through and delivered the performance that he did in that movie, and the experience that he delivered for all of us as collaborators, it made it intensely emotional."
 
 ============================================================
-[4] 5 Characters Who Are Perfect Love Interests for Batman Who Aren’t Catwoman
+[6] 5 Characters Who Are Perfect Love Interests for Batman Who Aren’t Catwoman
 Source: ComicBook.com | Status: expanded | Words: 1225
 Published: 2026-11-25T02:05:00+00:00
 URL: https://comicbook.com/comics/list/5-characters-who-are-perfect-love-interests-for-batman-who-arent-catwoman
@@ -133,7 +197,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought
+[7] Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought
 Source: CinemaBlend | Status: expanded | Words: 283
 Published: 2026-11-25T02:01:00+00:00
 URL: https://www.cinemablend.com/movies/twilight-fans-robert-pattinson-james-bond-scene-more-than-we-thought-catherine-hardwicke
@@ -151,7 +215,7 @@ That happened 18 years before it became a reality. I guess it goes to show the r
 While it’s perhaps a bit surprising Amazon MGM Studios didn’t opt for an actor who was an unknown , Jeff Bezos has said that in the screen tests it was “so obvious” Pattinson was their Bond that they didn’t dare pick anyone else. We can’t wait to see what his Bond will be like, and given his career thus far, it sounds like it might be unexpected.
 
 ============================================================
-[6] Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)
+[8] Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 803
 Published: 2026-11-25T01:57:22+00:00
 URL: https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450
@@ -197,7 +261,7 @@ The confirmed finalists are below:
 Oscars Visual Effects Top 19 (one still to be confirmed)
 
 ============================================================
-[7] 'Dancing With the Stars' Finalist Connor Wood Has Already Won: "I Feel Really Good"
+[9] 'Dancing With the Stars' Finalist Connor Wood Has Already Won: "I Feel Really Good"
 Source: The Hollywood Reporter | Status: expanded | Words: 1729
 Published: 2026-11-25T01:55:19+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661
@@ -259,7 +323,7 @@ I mean, they come knocking. Of course, I'll open the door. But at least for Trai
 The season 35 finale of Dancing With the Stars airs Tuesday at 5 p.m. PT/8 p.m. ET, simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter &#x2019;s DWTS coverage here .
 
 ============================================================
-[8] 'Sunrise On The Reaping' To Gobble Up Thanksgiving; 'Hexed' $75M+ WW Opening; 'Focker-In-Law' $70M WW - Box Office Preview
+[10] 'Sunrise On The Reaping' To Gobble Up Thanksgiving; 'Hexed' $75M+ WW Opening; 'Focker-In-Law' $70M WW - Box Office Preview
 Source: Deadline | Status: expanded | Words: 1128
 Published: 2026-11-25T01:41:33+00:00
 URL: https://deadline.com/2026/11/hunger-games-focker-in-law-hexed-box-office-thanksgiving-1237233010
@@ -289,7 +353,7 @@ Overseas, Hexed is eyeing $35M-$40M with a 92% footprint. Like for like comps ar
 Also wide stateside is Angel Studio's biopic about Milton Hershey , the chocolate guy, Hershey , starring Finn Wittrock and Alexandra Daddario at 2,275. The pic opens Thursday and is looking at $7M . Reviews are a quite stale 17% on RT. NEON is expanding James Gray's crime drama Paper Tiger starring Adam Driver, Scarlett Johansson, and Miles Teller from 28 locations to 1,500 with an eye at $3M-$5M over five days. There's been a push to sell this to the Letterboxd and Barstool Sports dude demo with the studio buying spots in sports. Since its world premiere at Cannes, Paper Tiger is 86% certified fresh with critics and good at 70% currently with RT audiences.
 
 ============================================================
-[9] After The Last Jedi Backlash, Would Rian Johnson Return To Star Wars? Someone Asked Him
+[11] After The Last Jedi Backlash, Would Rian Johnson Return To Star Wars? Someone Asked Him
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-25T01:31:00+00:00
 URL: https://www.cinemablend.com/movies/after-the-last-jedi-backlash-would-rian-johnson-return-star-wars
@@ -305,7 +369,7 @@ Talk about a glowing review. Clearly the time away from the franchise hasn't que
 I'll take it. While not an all-out confirmation, Rian Johnson hasn't ruled out the possibility of returning for another Star Wars movie. The franchise has been away from the big screen for a few years, but that'll change in 2027 with Shawn Levy 's Starfighter . Fingers crossed that the Knives Out filmmaker eventually gives it another spin in the beloved science-fiction property.
 
 ============================================================
-[10] New Doomsday Teaser Reveals Unseen Footage, Including Doom Facing Off With 2 Original Avengers
+[12] New Doomsday Teaser Reveals Unseen Footage, Including Doom Facing Off With 2 Original Avengers
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-25T01:16:03+00:00
 URL: https://comicbook.com/movies/news/new-doomsday-teaser-reveals-unseen-footage-including-doom-facing-off-with-2-original-avengers
@@ -333,7 +397,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] 'Hunger Games: Sunrise on the Reaping' to Dominate Thanksgiving Box Office as 'Focker In-Law,' 'Hexed' Join Fray
+[13] 'Hunger Games: Sunrise on the Reaping' to Dominate Thanksgiving Box Office as 'Focker In-Law,' 'Hexed' Join Fray
 Source: The Hollywood Reporter | Status: expanded | Words: 1100
 Published: 2026-11-25T01:13:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317
@@ -371,7 +435,7 @@ Debuting exclusively in Imax is Netflix's The Further Mis-Adventures of Cliff Bo
 Set to begin streaming Dec. 23, the new movie hits 550 Imax screens worldwide and focuses on Pitt's stuntman and fixer navigating Hollywood in the late 1970s. THR chief film critic David Rooney deemed it "sexy, seductive and chaotic in mostly fun ways."
 
 ============================================================
-[12] ‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live
+[14] ‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live
 Source: Variety | Status: expanded | Words: 73
 Published: 2026-11-25T01:05:46+00:00
 URL: https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-1236957201
@@ -385,7 +449,7 @@ Season 35 of " Dancing With the Stars " is officially coming to an end. On Tuesd
 Variety will be updating this story live, so keep refreshing through the night for updates.
 
 ============================================================
-[13] I Just Found Out How Arnold Schwarzenegger’s Son Joseph Baena Is In The New Baywatch
+[15] I Just Found Out How Arnold Schwarzenegger’s Son Joseph Baena Is In The New Baywatch
 Source: CinemaBlend | Status: expanded | Words: 230
 Published: 2026-11-25T01:01:00+00:00
 URL: https://www.cinemablend.com/television/how-arnold-schwarzeneggers-son-joseph-baena-in-new-baywatch
@@ -403,7 +467,7 @@ The 29-year-old half-sibling of Patrick Schwarzenegger admitted he didn’t watc
 Since we’ve only seen glimpses and teases of footage, it’s hard to get a sense of the show’s tone, the new character dynamics, and just how epic the action will be on a weekly basis. However, with the new generation of lifeguards being led by Hobie ( Stephen Amell ), the son of the iconic Mitch Buchannon (David Hasselhoff), and a number of the OG cast members returning, the hype and the nostalgia are real and should easily get an audience tuning in.
 
 ============================================================
-[14] Christopher Nolan's Mind-Bending Thriller That Is Better Than Inception Is Being Erased from Netflix
+[16] Christopher Nolan's Mind-Bending Thriller That Is Better Than Inception Is Being Erased from Netflix
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-25T01:00:00+00:00
 URL: https://comicbook.com/movies/news/christopher-nolans-mind-bending-thriller-that-is-better-than-inception-is-being-erased-from-netflix
@@ -427,7 +491,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] 'Dancing With the Stars' Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
+[17] 'Dancing With the Stars' Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
 Source: The Hollywood Reporter | Status: expanded | Words: 523
 Published: 2026-11-25T00:58:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506
@@ -463,7 +527,7 @@ Connor Wood and Rylee Arnold Maura Higgins and Mark Ballas Ezra Frech and Daniel
 The season 35 finale of Dancing With the Stars airs Tuesday at 5 p.m. PT/8 p.m. ET, simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter &#x2019;s DWTS coverage here .
 
 ============================================================
-[16] Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91
+[18] Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91
 Source: Variety | Status: expanded | Words: 323
 Published: 2026-11-25T00:50:47+00:00
 URL: https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540
@@ -487,7 +551,7 @@ He married Siv Sandstrom, a hostess in the Swedish pavilion at the 1964 World's 
 He is survived by his brothers Stanley Rosenberg and David Rosenberg and six nieces and nephews.
 
 ============================================================
-[17] One of the 80s' Most Inappropriate Superheroes Somehow Got His Own Children's Toy Line
+[19] One of the 80s' Most Inappropriate Superheroes Somehow Got His Own Children's Toy Line
 Source: ComicBook.com | Status: expanded | Words: 1233
 Published: 2026-11-25T00:43:00+00:00
 URL: https://comicbook.com/collectibles/news/one-of-the-80s-most-inappropriate-superheroes-somehow-got-his-own-childrens-toy-line
@@ -517,7 +581,7 @@ Everyone always talks about Superman and Batman, but honestly, 90s Conner Kent's
 Would it be cheating to say Icon?
 
 ============================================================
-[18] William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash
+[20] William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash
 Source: CinemaBlend | Status: expanded | Words: 219
 Published: 2026-11-25T00:31:00+00:00
 URL: https://www.cinemablend.com/television/william-shatner-clarifies-stance-grand-theft-auto-vi-after-backlash
@@ -535,7 +599,7 @@ The comments called out various claims, mainly the assertion that Grand Theft Au
 I'm hoping Shatner isn't stressed about this, because I know I'm not personally concerned about what opinion he holds on Grand Theft Auto VI . In fact, I would expect most people north of 90 years old would not be too interested in video games and would sooner read a book.
 
 ============================================================
-[19] ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
+[21] ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
 Source: Variety | Status: expanded | Words: 714
 Published: 2026-11-25T00:30:00+00:00
 URL: https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515
@@ -571,7 +635,7 @@ When Netflix posted the trailer for the film in early November, it went viral on
 &#x201C;I&#x2019;ve been practicing for the Spirit Tunnel,&#x201D; she says of the talk show&#x2019;s viral entrance videos. &#x201C;I can dance a little bit. I&#x2019;m going to be cool with it and rock with it.&#x201D;
 
 ============================================================
-[20] Demon Slayer Peaked Early, But Infinity Castle Can Save It
+[22] Demon Slayer Peaked Early, But Infinity Castle Can Save It
 Source: ComicBook.com | Status: expanded | Words: 598
 Published: 2026-11-25T00:24:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-peaked-early-but-infinity-castle-can-save-it
@@ -595,7 +659,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful"
+[23] 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful"
 Source: Deadline | Status: expanded | Words: 438
 Published: 2026-11-25T00:22:55+00:00
 URL: https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013
@@ -619,7 +683,7 @@ As far as shooting the new Marvel film, Marsden said that it "felt like entering
 "The technology has advanced enormously as well, but I appreciated that the Russo Brothers still wanted to ground the film in practical effects whenever possible. At times, the production was so massive that even when you&#x2019;re playing a major character, you can feel like a background player within something much larger than yourself."
 
 ============================================================
-[22] HBO's Harry Potter Reboot Confirms Big Change From the Movie Costumes That's Book Accurate
+[24] HBO's Harry Potter Reboot Confirms Big Change From the Movie Costumes That's Book Accurate
 Source: ComicBook.com | Status: expanded | Words: 621
 Published: 2026-11-25T00:15:42+00:00
 URL: https://comicbook.com/tv-shows/news/hbos-harry-potter-reboot-confirms-big-change-from-the-movie-costumes-thats-book-accurate
@@ -651,7 +715,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco - Film News in Brief
+[25] Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco - Film News in Brief
 Source: Variety | Status: expanded | Words: 290
 Published: 2026-11-25T00:05:00+00:00
 URL: https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894
@@ -673,7 +737,7 @@ Hagen&#x2019;s credits included &#x201C;The Dick Van Dyke Show,&#x201D; &#x201C;
 Other honorees include Jon Batiste, who will receive the Ambassador Award in New York on Dec. 1; Brent McCorkle, who will receive the Trailblazer Award in Nashville on Dec. 5; and Sen. Dick Durbin (D-IL), who will receive the Excellence in Advocacy Award in Chicago on Dec. 3.
 
 ============================================================
-[24] Charles Barkley Pitched His Potential Inside The NBA Replacement, But I Have Another Idea
+[26] Charles Barkley Pitched His Potential Inside The NBA Replacement, But I Have Another Idea
 Source: CinemaBlend | Status: expanded | Words: 501
 Published: 2026-11-25T00:01:00+00:00
 URL: https://www.cinemablend.com/television/charles-barkley-pitched-potential-inside-the-nba-jalen-rose-alternate-idea
@@ -695,7 +759,7 @@ Again, though, this isn’t to say that Jalen Rose wouldn’t be able to do the 
 To be honest, it may also behoove me not to get too ahead of myself right now, as the season is still young. Also, while Charles Barkley’s retirement claim is seeming more likely , he hasn’t said much more about it in the wake of Ernie Johnson’s announcement. We’ll just have to wait and see what happens and how the producers choose to proceed should Barkley leave the fold along with Johnson.
 
 ============================================================
-[25] Charlie Brown's Thanksgiving Special Isn't Good, But There Are 5 Reasons To Still Watch it
+[27] Charlie Brown's Thanksgiving Special Isn't Good, But There Are 5 Reasons To Still Watch it
 Source: ComicBook.com | Status: expanded | Words: 1479
 Published: 2026-11-25T00:00:00+00:00
 URL: https://comicbook.com/tv-shows/list/charlie-browns-thanksgiving-special-isnt-good-but-there-are-5-reasons-to-still-watch-it
@@ -735,7 +799,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Marathon Reveals New Bishop Shell With One of the Game's Coolest Trailers Yet
+[28] Marathon Reveals New Bishop Shell With One of the Game's Coolest Trailers Yet
 Source: ComicBook.com | Status: expanded | Words: 522
 Published: 2026-11-24T23:49:28+00:00
 URL: https://comicbook.com/gaming/news/marathon-reveals-new-bishop-shell-with-one-of-the-games-coolest-trailers-yet
@@ -761,7 +825,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
+[29] Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
 Source: Deadline | Status: expanded | Words: 727
 Published: 2026-11-24T23:46:44+00:00
 URL: https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631
@@ -817,7 +881,7 @@ Does Tomi Adeyemi have other books?
 Adeyemi has The Siren coming out at the end of September.
 
 ============================================================
-[28] Take-Two CEO Strauss Zelnick To Talk 'Grand Theft Auto VI' At SXSW London 2027; More Speakers Announced
+[30] Take-Two CEO Strauss Zelnick To Talk 'Grand Theft Auto VI' At SXSW London 2027; More Speakers Announced
 Source: Deadline | Status: expanded | Words: 264
 Published: 2026-11-24T23:39:19+00:00
 URL: https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963
@@ -837,7 +901,7 @@ Rounding out the first group of speakers are Sir Martin Sorrell and Rory Sutherl
 The 2027 festival will run from May 24-29.
 
 ============================================================
-[29] In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
+[31] In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
 Source: Deadline | Status: expanded | Words: 1410
 Published: 2026-11-24T23:34:49+00:00
 URL: https://deadline.com/2026/11/the-disciple-a-wu-tang-fable-director-joanna-natasegara-interview-1237232945
@@ -889,7 +953,7 @@ DEADLINE: Probably the first question you get asked is, have you listened to the
 JN: We had a beautiful listening session at Sundance, and then we had another one at Telluride. I haven't heard the whole thing. And it's probably the most frustrating thing about this film&#x2026; I can't show you how good the album is; that's going to be a question for people, but it really is good&#x2026; I still think all of us involved in the film or the album go back and debate, do we hope it's released? Do we not? Is it better than it isn't released? But I would really like people to be able to hear it because it&#x2019;s good.
 
 ============================================================
-[30] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
+[32] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-24T23:31:33+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943
@@ -921,7 +985,7 @@ Across all trailers thus far, Avengers: Doomsday has generated a jawdropping 3.3
 The data here comes from WaveMetrix.
 
 ============================================================
-[31] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
+[33] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 8691
 Published: 2026-11-24T23:31:30+00:00
 URL: https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413
@@ -1717,7 +1781,7 @@ CINEMATIC AND BOX OFFICE ACHIEVEMENT (20 titles)
 &#x201C;You Can See Everything&#x201D; (A24)
 
 ============================================================
-[32] What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take
+[34] What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take
 Source: CinemaBlend | Status: expanded | Words: 388
 Published: 2026-11-24T23:31:00+00:00
 URL: https://www.cinemablend.com/streaming-news/what-happened-harrison-ford-deckard-after-blade-runner-2049-response-2099-ep
@@ -1737,7 +1801,7 @@ While Blade Runner ’s ending remains controversial in some circles, the discus
 For right now, though, fans can return to this dark, futuristic universe by way of 2099 . The limited series centers on dying Replicant Blade Runner Olwen (played by Michelle Yeoh ) and Cora (Hunter Schafer), a human posing as a Replicant. While fans won’t be getting answers on Deckard, the show covers plenty of ground in other respects. And, who knows, maybe we’ll actually get that 2049 sequel one day.
 
 ============================================================
-[33] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
+[35] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-24T23:30:00+00:00
 URL: https://comicbook.com/comics/news/peach-momokos-marvel-art-book-kickstarter-pulls-in-a-staggering-130000-in-just-its-first-hour
@@ -1763,7 +1827,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Patrick Stewart Was ‘Struggling’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
+[36] Patrick Stewart Was ‘Struggling’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-24T23:27:20+00:00
 URL: https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522
@@ -1787,7 +1851,7 @@ Stewart died after a brief battle with Alzheimer&#x2019;s and Lewy Body Dementia
 &#x201C;Avengers: Doomsday&#x201D; hits theaters on Dec. 18.
 
 ============================================================
-[35] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
+[37] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-24T23:20:21+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-reveals-how-mcu-doctor-doom-will-be-different-from-tony-stark-in-avengers
@@ -1813,7 +1877,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
+[38] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 485
 Published: 2026-11-24T23:18:03+00:00
 URL: https://comicbook.com/gaming/news/ps5-games-shut-down-servers-november-2026
@@ -1837,7 +1901,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
+[39] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
 Source: Deadline | Status: expanded | Words: 390
 Published: 2026-11-24T23:17:03+00:00
 URL: https://deadline.com/2026/11/adam-driver-x-men-reboot-mister-sinister-marvel-studios-1237232938
@@ -1865,7 +1929,7 @@ Earlier this year, Driver talked to Jimmy Kimmel about joining the MCU after rej
 He added, "I was a big fan. I mean, I was a fan of the other things too. But this one felt like a right time, and then it's X-Men."
 
 ============================================================
-[38] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
+[40] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
 Source: Deadline | Status: expanded | Words: 420
 Published: 2026-11-24T23:08:19+00:00
 URL: https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942
@@ -1891,7 +1955,7 @@ As has been typical lately, the film slate garnered much more attention &#x2014;
 The mystery thriller Heartland came in second place on the English film list with 14.8 million views.
 
 ============================================================
-[39] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
+[41] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-24T23:01:00+00:00
 URL: https://www.cinemablend.com/movies/ben-stiller-skyler-gisondo-night-at-the-museum-together-focker-in-law-full-circle-moment
@@ -1907,7 +1971,7 @@ Again, while Skyler Gisondo was a successful child actor , Night at the Museum: 
 Knowing about Stiller and Gisondo’s history certainly played into my enjoyment of the movie, especially since the last time I saw them together, Gisondo was a kid. Now, he’s all grown up, and that fact certainly plays into Focker In-Law .
 
 ============================================================
-[40] 3 Things You Need to Know for Sakamoto Days Season 2
+[42] 3 Things You Need to Know for Sakamoto Days Season 2
 Source: ComicBook.com | Status: expanded | Words: 742
 Published: 2026-11-24T22:56:00+00:00
 URL: https://comicbook.com/anime/list/3-things-you-need-to-know-for-sakamoto-days-season-2
@@ -1939,7 +2003,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
+[43] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 440
 Published: 2026-11-24T22:46:09+00:00
 URL: https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478
@@ -1961,7 +2025,7 @@ Alex Lebovici and Michael Learner will produce for Hammerstone Studios, with Ada
 Black Bear was founded in 2011 as independent production studio and recently launched a domestic distribution arm. The company's latest theatrical release, the offbeat romantic dramedy "Wicker," has been a box office winner with $40 million globally to date. Black Bear's upcoming slate includes Guy Ritchie&#x2019;s "Wife & Dog," starring Benedict Cumberbatch and Rosamund Pike; and David Leitch&#x2019;s "Jason Statham Stole My Bike" led by Statham and Hannah Waddingham. It also recently nabbed Bill Hader&#x2019;s feature directing debut, "They Know," a psychological horror film starring Hader and Linda Cardellini.
 
 ============================================================
-[42] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
+[44] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
 Source: ComicBook.com | Status: expanded | Words: 533
 Published: 2026-11-24T22:39:00+00:00
 URL: https://comicbook.com/collectibles/news/batmans-nemesis-looks-even-more-terrifying-without-his-iconic-makeup-in-this-prototype-action-figure
@@ -1981,7 +2045,7 @@ What really stands out to me about this prototype is how many different base col
 Which is your favorite version of The Joker? Let us know in the comments.
 
 ============================================================
-[43] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
+[45] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
 Source: The Hollywood Reporter | Status: expanded | Words: 438
 Published: 2026-11-24T22:37:56+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567
@@ -2015,7 +2079,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 Visit Sling.com to check station availability, and compare streaming packages with THR 's Sling breakdown here .
 
 ============================================================
-[44] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
+[46] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
 Source: CinemaBlend | Status: expanded | Words: 275
 Published: 2026-11-24T22:31:00+00:00
 URL: https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions
@@ -2035,7 +2099,7 @@ This is becoming a pattern. Mackie essentially gave the same answer to gave Josh
 I love watching Anthony Mackie navigate all this. With Robert Downey Jr. returning to Marvel as Doctor Doom and so many heroes converging for the next Avengers movie, fans have plenty of questions. Mackie has apparently decided the title will answer most of them.
 
 ============================================================
-[45] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
+[47] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
 Source: ComicBook.com | Status: expanded | Words: 536
 Published: 2026-11-24T22:29:44+00:00
 URL: https://comicbook.com/tv-shows/news/blade-runner-2099-rotten-tomatoes-score-is-a-franchise-low-but-its-not-bad-news-at-all
@@ -2059,7 +2123,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
+[48] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
 Source: Variety | Status: expanded | Words: 363
 Published: 2026-11-24T22:24:06+00:00
 URL: https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441
@@ -2085,7 +2149,7 @@ Among the balloons that are set to take flight are Sorcerer&#x2019;s Apprentice 
 Another highlight is Snoopy, who returns to the parade in a new role as Joe Cool. &#x201C;Joe Cool is what happens when Snoopy is pretending to be a student at school. He&#x2019;s never been in the parade before in this form, which makes it really fun,&#x201D; Kennedy said. &#x201C;We&#x2019;re excited to bring him and Woodstock together. I was on the Parade Studio floor yesterday and saw an arm and an ear being worked on.&#x201D;
 
 ============================================================
-[47] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
+[49] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
 Source: ComicBook.com | Status: expanded | Words: 588
 Published: 2026-11-24T22:07:00+00:00
 URL: https://comicbook.com/anime/feature/22-years-ago-studio-ghiblis-most-whimsical-anti-war-movie-was-released-it-holds-up-even-today
@@ -2111,7 +2175,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
+[50] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
 Source: ComicBook.com | Status: expanded | Words: 670
 Published: 2026-11-24T22:02:57+00:00
 URL: https://comicbook.com/tv-shows/news/the-rings-of-power-officially-renewed-for-season-4-at-prime-video-but-whats-the-story
@@ -2133,102 +2197,6 @@ In a bold move, Amazon doesn't hold back about spoiling the finale of The Rings 
 Obviously, the good guys failed on both counts. Season 4 of The Rings of Power will now cover the portion of J.R.R. Tolkein's lore where Sauron uses the power of the One Ring to go to war against the Elves and the kingdom of Númenór. Given the five-year jump in time between Seasons 2 and 3, it wouldn't be surprising if Season 4 plunges us into the midst of that war, when the fate of Middle-earth takes a pivotal turn when Sauron chooses a new tactic to break his enemy's might. At this point, it feels like Season 4's finale would be the "Fall of Númenór," while Season 5 would end the show with the "War of the Last Alliance," in which Sauron has the One Ring cut from his finger, destroying his physical form and bringing the Second Age of Middle-earth to an end, and seeding events for both The Hobbit and The Lord of the Rings . That would fulfill Amazon's original 5-season plan for The Rings of Power perfectly.
 
 " The Lord of the Rings: The Rings of Power has become a defining series for Prime Video,” Peter Friedlander, Head of Global Television, Amazon MGM Studios, said in his statement. “As Season 3 delivers the landmark moment fans have been waiting for — the forging of the One Ring — we are proud to confirm Season Four with J.D. Payne, Patrick McKay, and the entire creative team. We look forward to bringing fans even deeper into the rich world of Tolkien's Second Age."
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[49] ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
-Source: Variety | Status: expanded | Words: 1251
-Published: 2026-11-24T22:00:00+00:00
-URL: https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506
-------------------------------------------------------------
-SUMMARY:
-Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you're Drusilla Sickle, played by screen legend Glenn Close in “The Hunger Games: Sunrise on the Reaping.” In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of […]
-
-CONTENT / EXTRACTED DETAILS:
-Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you're Drusilla Sickle, played by screen legend Glenn Close in "The Hunger Games : Sunrise on the Reaping."
-
-In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of the District 12 tributes in the 50th Hunger Games, where she uses over-the-top fashion to broadcast her social status. Close worked closely with costume designer Bina Daigeler and hair, makeup and prosthetics designer Natalie MacGowan Spencer to ensure the character translated properly from Suzanne Collins' best-selling prequel novel to the screen. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Adam's Law' Enjoys Early TV-Ratings Judgment at CBS Tony Awards Will Remain on CBS Through 2032 Under New Five-Year Deal
-
-One challenge Daigeler faced was meeting Close&#x2019;s request that each outfit felt connected, creating a through line that explained why Drusilla changes from one look to the next. Despite the drastic differences between each outfit, Daigeler established continuity through the character&#x2019;s accessories, most notably a collection of gold medals and military-inspired epaulets that created a sense of authority.
-
-&#x201C;She wears all these medals, because somehow she thinks she is the top general of the capital,&#x201D; Daigeler tells Variety .
-
-And, not dissimilar to red-bottomed Louboutin shoes, Daigeler gave Drusilla dramatically long black nails that were painted red underneath to show her abundant wealth.
-
-The character's Capitol allegiance also went beyond her wardrobe, with Spencer overseeing her hair and makeup. While creating the looks, Spencer relied heavily on Collins&#x2019; source material to remain faithful to the author&#x2019;s vision. Collins describes Drusilla as having implanted tabs that pull the skin on her face back, which Spencer wanted to honor. But because there wasn&#x2019;t enough time each morning for an extensive prosthetics process, Spencer turned to Hollywood tape to tightly pull Close's skin back, creating a distorted appearance. She later added tabs on the sides of Close&#x2019;s face to complete the illusion, along with fake teeth that heightened Drusilla&#x2019;s &#x201C;scary&#x201D; and &#x201C;eerie&#x201D; appearance. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-&#x201C;[Glenn] really wanted to pull it so taut that it changed all of her facial features, which it really did,&#x201D; Spencer tells Variety .
-
-Daigeler and Spencer's shared mission: to create visuals that resonate with the franchise&#x2019;s devoted fans &#x2014; who &#x201C;know their stuff inside out,&#x201D; Spencer quips. "They're so passionate." When the book was released and casting announcements began rolling out, Spencer would regularly check social media to see what fans envisioned for the adaptation and what details they hoped to see on screen.
-
-Below, Spencer and Daigeler break down the process of creating each of Drusilla&#x2019;s costumes, hair and makeup, as well as the inspiration behind each look.
-
-Drusilla makes her grand entrance at the District 12 reaping, wheeled into the frame wearing a bold yellow ensemble. The outfit is a stark contrast to the muted colors worn throughout Panem&#x2019;s poorest district &#x2014; the exact irony Spencer and Daigeler hoped to portray by making that the character's brightest look in the film.
-
-"It shouldn&#x2019;t have any practicality. That is why she was driven in," Daigeler says of the tightly-cinched yellow coat dress. "It was supposed to be very stiff."
-
-To complement the dress&#x2019; high collar, Spencer styled Close with an orange bob that also paid homage to the film&#x2019;s &#x2018;70s aesthetic. At Close's request, the look was completed with a raven headpiece &#x2014; which, to be clear, was not an intentional nod to Lenore Dove&#x2019;s name poem.
-
-&#x201C;For me, that sort of represents the children of the district &#x2014; something that's taxidermied and dead on their head,&#x201D; Spencer says about the headpiece. &#x201C;And [Drusilla&#x2019;s] so proud of that statement.&#x201D;
-
-Black medals and military-inspired shoulder plates further accentuated the ensemble, reinforcing Drusilla&#x2019;s self-appointed authority. "She looked like a yellow general," Daigeler adds.
-
-When representing District 12 at the Capitol&#x2019;s chariot parade, Drusilla&#x2019;s color palette dims to an all-black look that publicly links her to the district&#x2019;s coal-mining industry. To elevate the outfit and solidify her Capitol status, Daigeler experimented with different textures to create the illusion of leather-like skin while also keeping her gold medals and fringed military epaulets. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-&#x201C;We wanted to give it strength,&#x201D; Daigeler says of the outfit, which, she notes, also signals that things are getting more serious in the film's storyline. &#x201C;We wanted it to be a little bit aggressive and very demanding. And very Capitol.&#x201D;
-
-Close initially wanted to style the look with an extravagant, fluffy hat, but she and Spencer ultimately settled on a simpler black wig with pointed horns so as not to distract from Drusilla&#x2019;s face. The shorter bangs draw more attention to the exaggerated eye makeup and the face-slimming tabs.
-
-Drusilla settles on a softer green dress for the tributes&#x2019; interviews with Caesar Flickerman (Kieran Culkin), which once again challenged Daigeler to maintain the character&#x2019;s threads between outfit changes.
-
-&#x201C;Where&#x2019;s the strength? Where&#x2019;s the craziness?&#x201D; she asked herself when accessorizing Drusilla&#x2019;s third look, a crepey, olive-hued gown with a high neck and massive, billowy sleeves.
-
-This time, Daigeler forwent Drusilla's medallions and instead made a statement by adding red gloves, tights and boots, paired with spiky necklaces.
-
-Spencer leaned further into the softer ensemble by adding a wave to Drusilla&#x2019;s hair, washed with a light shade of pink. "I really like fabrics and the colors and how the hair and makeup is going to be one big look altogether," Spencer notes.
-
-Drusilla&#x2019;s final appearance comes after Haymitch is declared the victor of the 50th Hunger Games &#x2014; or, at least in Drusilla&#x2019;s mind, after she is declared the victor. Complete with a purple sash, the look was designed to make it seem as though Drusilla herself had won the games.
-
-This was the only outfit not described in Collins&#x2019; novel, giving Daigeler the creative freedom to execute her own vision. Knowing Drusilla would appear on the colorful stage, she wanted to put her in a bold red ensemble that would ensure she stood out.
-
-Without a predetermined silhouette in mind, Daigeler drew inspiration from designers Alexander McQueen, Talyano and Balenciaga, as well as Renaissance-era shapes.
-
-&#x201C;I went to a beautiful fabric store in London, and I just found all these beautiful, different textured red fabrics,&#x201D; Daigeler says. &#x201C;I didn&#x2019;t have it clear what would be the silhouette of the dress, but I knew that it should be an evening gown and somehow huge and over the top.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-Spencer completed the transformation by leaning into the showgirl-inspired makeup, settling on a bright red lip and feathered hair.
-
-"[Drusilla's] like a performer. When you really do think about it, she&#x2019;s a narcissist. 'This is me. I&#x2019;m bold. I&#x2019;m dominant,'" Spencer says. "We had all the showgirls &#x2014; all of those big colors and the feathers and everything else, so it's almost like a carnival of entertainers coming together on the stage. The set design, the colors, all the background people in the crowd are so, so important. What you&#x2019;re portraying is a performance. It&#x2019;s entertainment, and that&#x2019;s who they are."
-
-============================================================
-[50] Path of Exile 2's New Classes Are Bringing Some Much-Needed Creativity to ARPG Combat
-Source: ComicBook.com | Status: expanded | Words: 1021
-Published: 2026-11-24T22:00:00+00:00
-URL: https://comicbook.com/gaming/feature/path-of-exile-2s-new-classes-are-bringing-some-much-needed-creativity-to-arpg-combat
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Grinding Gear Games You know what gets me more excited than seeing a ridiculous damage number pop up on screen? Finding an entirely new way to make that number happen. Really, there's a special kind of magic when a developer introduces a mechanic that makes you stop and reconsider everything you thought you knew about building a character. […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google You know what gets me more excited than seeing a ridiculous damage number pop up on screen? Finding an entirely new way to make that number happen. Really, there's a special kind of magic when a developer introduces a mechanic that makes you stop and reconsider everything you thought you knew about building a character. One weird addition is all it takes before you're theorycrafting some wonderfully unhinged combination that might turn out to be your next obsession. That is the sort of creativity I want more of the ARPG genre, and Grinding Gear Games giving us all plenty of reasons to be excited about what comes next for Path of Exile 2 , starting with their upcoming 1.0 release .
-
-The upcoming Shadow and Duelist classes are exactly the sort of additions that make me want to drop everything and start experimenting. The Shadow wants to turn combat into an elaborate game of cat and mouse. The Duelist looks ready to make swordplay an absolute playground of mechanical possibilities. Neither is content with simply handing players another collection of abilities or spells and calling it a day. Oh, no.They're introducing mechanics that could fundamentally change how people approach encounters, and the possibilities are downright exciting. Honestly, I love what this studio is doing.
-
-Let's talk about the Shadow, because I absolutely love the idea of turning stealth into an actual combat identity in an ARPG. This isn't just a character who sneaks behind an enemy before delivering a slightly stronger backstab. The Shadow can remain concealed until monsters get close enough to detect them, creating opportunities to decide exactly when an encounter begins. Dagger skills become empowered while hidden, so there's a genuine incentive to strike from the darkness rather than immediately jumping into the fray. Then things get even more interesting with traps. You can prepare them while concealed before revealing yourself and triggering a sequence of detonations. Just imagine the sheer satisfaction of setting up an elaborate little death trap and watching an unsuspecting pack of monsters wander straight into it. It's wonderfully devious, and I can already picture players coming up with increasingly ridiculous ways to turn entire encounters into sushi the moment they start.
-
-The Duelist, meanwhile, looks like an absolute treat for anyone who loves getting into the thick of combat. Swords are finally joining Path of Exile 2 's weapon roster, and GGG clearly isn't interested in making this a simple case of giving players another object to swing around. The new weapon type comes with its own stance system, allowing certain abilities to function differently depending on whether you're in Ready, Blood, or Sand Stance. Blood leans into bleeding enemies while Sand offers a different approach to dealing damage, giving sword users another layer of decision-making to explore. What I particularly enjoy about this design is how it encourages players to think about the relationship between their abilities rather than simply finding the biggest number and pressing the corresponding button until everything dies.
-
-Here's what really gets me excited, though: these two classes couldn't be much more different. Both classes offer their own mechanical rabbit holes for players to disappear into, and I suspect the community is going to have an absolute field day figuring out what these classes can do. New classes in PoE 2 tend to come with a lot more than what they represent on the surface, and that's really where my excitement stems from.
-
-There's a reason people can sink hundreds or even thousands of hours into ARPGs. Building a character is practically an obsession in its own right. You start with a vague idea of what you want to create, spend an unreasonable amount of time figuring out how to make it work, and eventually emerge with something that can turn an entire screen of enemies into a very brief memory. It's glorious. But I think the genre sometimes gets a little too comfortable with the idea that progression alone is enough to keep things exciting. Another passive node makes your character stronger. Another piece of equipment pushes your damage even higher. Fantastic! But what if the next update gave you an entirely new way to fight instead? That's the kind of progression that really gets my attention.
-
-This is where Path of Exile 2 has the potential to become something special. GGG has spent development continually finding ways to push beyond familiar ARPG conventions, and the upcoming release represents a major opportunity to build on that foundation. The Shadow and Duelist are particularly exciting because their mechanics could inspire entirely new approaches to character building. Players are going to spend their time experimenting with trap combinations and discover how far they can push the Shadow's stealth mechanics. Duelist players will have their own mechanical playground to explore through. The real icing on the cake is that both classes add new mechanics, and since PoE 2 allows you to mix and match almost everything, the results are going to be spectacular. I wouldn't be surprised if some of the most interesting combinations emerge from players doing things GGG never expected. That's half the fun!
-
-December 11 is an enormous milestone for Path of Exile 2 , but I'm just as interested in what the next few years could bring. The Shadow and Duelist already have me excited to see what GGG does next, and I absolutely love that the studio seems more interested in expanding what combat can be than simply giving us another way to make enemies explode. Although, to be fair, I'm certainly not opposed to making enemies explode.
-
-Which of the new Path of Exile 2 mechanics has you most excited to experiment with when the full release arrives? Let us know in the comment section below.
 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
