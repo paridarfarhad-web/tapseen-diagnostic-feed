@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T03:17:16.956Z"
+    "updated_at": "2026-11-25T03:21:14.166Z"
   },
   "articles": [
+    {
+      "id": "9c7ff83a-92d3-4e07-856a-b781311dfccd",
+      "title": "Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One",
+      "summary": "As of November 2026, Fubo subscribers can use their login credentials to access all four services — over $75 in monthly value — for $0 additional.",
+      "content": "In an effort to combat industry-wide streaming inflation, Fubo has introduced a deal-savvy way to access additional services for your same dollar &#x2014; four more services, to be exact.\n\nAs of November 2026, new and existing subscribers to Fubo 's most popular packages &#x2014; Fubo Pro, Fubo Elite and Fubo's legacy Deluxe plan &#x2014; will now receive access to Disney+, Hulu, ESPN Unlimited and Fox One &#x2014; a value of over $75 per month &#x2014; at no extra cost. Plus, Fubo offers a five-day free trial , meaning new customers can test out their live TV plan of choice and gain access to all four of these bonus streamers at no cost during said period. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle Parke's Viral Sweatshirts Get Rare Price Drop for Black Friday BLACK FRIDAY DEALS Cuyana's Black Friday Sale Drops Up to 70% Off Online: Shop Our Picks From $23, From Luxe Leather Bags to Meghan Markle's Cashmere Coat\n\nFollowing the standard free trial, Fubo Pro has a promotional rate of $63.99 for the first month, then costs $88.99 monthly thereafter, while Fubo Elite is $68.99 for the first month, then $98.99 monthly thereafter. The former features 201 channels, while the latter includes 265 channels and 4K.\n\nTo claim Fubo's Disney+, Hulu, ESPN Unlimited and Fox One promotion, new subscribers can select either of the two qualifying plans (Pro or Elite). (There's nothing additional to add at check out.) Once subscribed (and taking advantage of the aforementioned five-day free trial), visit the My Account page upon sign in at fubo.tv , or use the activation link that's displayed after checkout. Finally, follow the prompts to connect each account, and to watch, sign in to each app: Disney+, Hulu, ESPN and FOX One.\n\nVisit fubo.tv to further compare plans and sign up for the free trial period.\n\nRelated: Audible Subscriptions Drop to $1 Per Month for Black Friday",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/lifestyle/shopping/fubo-free-access-to-disney-plus-hulu-espn-unlimited-fox-one-1236762695",
+      "published_at": "2026-11-25T03:20:14+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 334,
+      "extracted_at": "2026-11-25T03:21:02.492075+00:00",
+      "updated_at": "2026-11-25T03:21:02.492075+00:00"
+    },
     {
       "id": "fecdb6e6-dce5-4592-927f-800a04ce3aeb",
       "title": "Philip Rosenberg Dies: Oscar-Winning Production Designer On 'All That Jazz' As Well As 'Network' &#038; 'Moonstruck' Was 91",
@@ -742,21 +757,6 @@
       "word_count": 438,
       "extracted_at": "2026-11-24T22:38:48.439451+00:00",
       "updated_at": "2026-11-24T22:38:48.439451+00:00"
-    },
-    {
-      "id": "fad28e44-ece1-4974-84b8-14104fdefb8c",
-      "title": "Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase",
-      "summary": "Captain America has found a new favorite phrase.",
-      "content": "Anthony Mackie seems to have figured out how to get through an Avengers: Doomsday interview without giving Marvel's security team a heart attack. Whenever someone asks him about the upcoming Marvel movie , he just starts playing with the title. It was funny the first time. Now that he's doing it again, I'm beginning to think the MCU's Captain America has found his new catchphrase.\n\nI don't know that Jean Grey actually destroyed an entire planet in the Fox X-Men movies , but I appreciate the former Falcon’s commitment to making the comparison sound terrifying. And considering Wanda's history in WandaVision and Doctor Strange in the Multiverse of Madness , I understand why he'd reach for another famously powerful mutant. What he doesn't explain is how Sam Wilson and the other Avengers plan to deal with any of it.\n\nThe interviewer followed up by asking if he was really claiming he had no idea about Wanda's return. That's when Mackie delivered the line I've now decided needs to be printed on a shirt:\n\nThis is becoming a pattern. Mackie essentially gave the same answer to gave Josh Horowitz on Happy Sad Confused , describing the movie as a day full of a lot of, shall we say, fucking Doom. Now he's refined the joke into a cleaner line he can use in just about any interview. I hope he keeps going.\n\nI love watching Anthony Mackie navigate all this. With Robert Downey Jr. returning to Marvel as Doctor Doom and so many heroes converging for the next Avengers movie, fans have plenty of questions. Mackie has apparently decided the title will answer most of them.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions",
-      "published_at": "2026-11-24T22:31:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/8Yp2YKf6QnCN8ohrugDq9e-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 275,
-      "extracted_at": "2026-11-24T22:34:47.540731+00:00",
-      "updated_at": "2026-11-24T22:34:47.540731+00:00"
     }
   ]
 }
