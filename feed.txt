@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T02:07:15.823Z
+Last Updated: 2026-11-25T02:11:17.409Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought
+[1] Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: "He Was Struggling With His Health"
+Source: Deadline | Status: expanded | Words: 395
+Published: 2026-11-25T02:10:40+00:00
+URL: https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059
+------------------------------------------------------------
+SUMMARY:
+Patrick Stewart's final film is set to be Avengers: Doomsday, where he reprises his role as Professor Charles Xavier one last time. To honor the actor, Marvel's Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18. "We’re long done filming that movie, and he did an […]
+
+CONTENT / EXTRACTED DETAILS:
+Patrick Stewart 's final film is set to be&#xA0; Avengers: Doomsday , &#xA0;where he reprises his role as Professor Charles Xavier one last time.
+
+To honor the actor, Marvel's Kevin Feige revealed they are planning to add a special tribute to the film, set for release on December 18.
+
+"We&#x2019;re long done filming that movie, and he did an amazing job for us," the studio head told Entertainment Weekly . "We&#x2019;re looking now at how we can put something together that honors and respects our friend."
+
+Stewart died on October 28 &#xA0;from Alzheimer&#x2019;s disease and Lewy body dementia and was originally offered the chance to appear in both Avengers: Doomsday and Avengers: Secret Wars , which will be released at the end of 2027. However, the actor opted to do only the first film, EW noted. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful" News 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
+
+Feige recalled that on his last day on the set, Stewart "stood up and he gave a speech to the crew."
+
+Director Anthony Russo said, "It was clear that he was struggling with his health, and he worked so hard to deliver a performance and a presence &#x2014; for us as directors, for his other actors, for the crew."
+
+"You could see it wasn&#x2019;t just the effort of a regular actor showing up and delivering that kind of presence and performance and experience for others, collaboration," Anthony Russo continued. "It was someone who was really being challenged in a very deep way on a health level, showing up and doing that. For him to have muscled through and delivered the performance that he did in that movie, and the experience that he delivered for all of us as collaborators, it made it intensely emotional."
+
+============================================================
+[2] Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought
 Source: CinemaBlend | Status: expanded | Words: 283
 Published: 2026-11-25T02:01:00+00:00
 URL: https://www.cinemablend.com/movies/twilight-fans-robert-pattinson-james-bond-scene-more-than-we-thought-catherine-hardwicke
@@ -21,7 +45,7 @@ That happened 18 years before it became a reality. I guess it goes to show the r
 While it’s perhaps a bit surprising Amazon MGM Studios didn’t opt for an actor who was an unknown , Jeff Bezos has said that in the screen tests it was “so obvious” Pattinson was their Bond that they didn’t dare pick anyone else. We can’t wait to see what his Bond will be like, and given his career thus far, it sounds like it might be unexpected.
 
 ============================================================
-[2] Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)
+[3] Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 803
 Published: 2026-11-25T01:57:22+00:00
 URL: https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450
@@ -67,7 +91,7 @@ The confirmed finalists are below:
 Oscars Visual Effects Top 19 (one still to be confirmed)
 
 ============================================================
-[3] 'Dancing With the Stars' Finalist Connor Wood Has Already Won: "I Feel Really Good"
+[4] 'Dancing With the Stars' Finalist Connor Wood Has Already Won: "I Feel Really Good"
 Source: The Hollywood Reporter | Status: expanded | Words: 1729
 Published: 2026-11-25T01:55:19+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661
@@ -129,7 +153,7 @@ I mean, they come knocking. Of course, I'll open the door. But at least for Trai
 The season 35 finale of Dancing With the Stars airs Tuesday at 5 p.m. PT/8 p.m. ET, simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter &#x2019;s DWTS coverage here .
 
 ============================================================
-[4] 'Sunrise On The Reaping' To Gobble Up Thanksgiving; 'Hexed' $75M+ WW Opening; 'Focker-In-Law' $70M WW - Box Office Preview
+[5] 'Sunrise On The Reaping' To Gobble Up Thanksgiving; 'Hexed' $75M+ WW Opening; 'Focker-In-Law' $70M WW - Box Office Preview
 Source: Deadline | Status: expanded | Words: 1128
 Published: 2026-11-25T01:41:33+00:00
 URL: https://deadline.com/2026/11/hunger-games-focker-in-law-hexed-box-office-thanksgiving-1237233010
@@ -159,7 +183,7 @@ Overseas, Hexed is eyeing $35M-$40M with a 92% footprint. Like for like comps ar
 Also wide stateside is Angel Studio's biopic about Milton Hershey , the chocolate guy, Hershey , starring Finn Wittrock and Alexandra Daddario at 2,275. The pic opens Thursday and is looking at $7M . Reviews are a quite stale 17% on RT. NEON is expanding James Gray's crime drama Paper Tiger starring Adam Driver, Scarlett Johansson, and Miles Teller from 28 locations to 1,500 with an eye at $3M-$5M over five days. There's been a push to sell this to the Letterboxd and Barstool Sports dude demo with the studio buying spots in sports. Since its world premiere at Cannes, Paper Tiger is 86% certified fresh with critics and good at 70% currently with RT audiences.
 
 ============================================================
-[5] After The Last Jedi Backlash, Would Rian Johnson Return To Star Wars? Someone Asked Him
+[6] After The Last Jedi Backlash, Would Rian Johnson Return To Star Wars? Someone Asked Him
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-25T01:31:00+00:00
 URL: https://www.cinemablend.com/movies/after-the-last-jedi-backlash-would-rian-johnson-return-star-wars
@@ -175,7 +199,7 @@ Talk about a glowing review. Clearly the time away from the franchise hasn't que
 I'll take it. While not an all-out confirmation, Rian Johnson hasn't ruled out the possibility of returning for another Star Wars movie. The franchise has been away from the big screen for a few years, but that'll change in 2027 with Shawn Levy 's Starfighter . Fingers crossed that the Knives Out filmmaker eventually gives it another spin in the beloved science-fiction property.
 
 ============================================================
-[6] New Doomsday Teaser Reveals Unseen Footage, Including Doom Facing Off With 2 Original Avengers
+[7] New Doomsday Teaser Reveals Unseen Footage, Including Doom Facing Off With 2 Original Avengers
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-25T01:16:03+00:00
 URL: https://comicbook.com/movies/news/new-doomsday-teaser-reveals-unseen-footage-including-doom-facing-off-with-2-original-avengers
@@ -203,7 +227,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] 'Hunger Games: Sunrise on the Reaping' to Dominate Thanksgiving Box Office as 'Focker In-Law,' 'Hexed' Join Fray
+[8] 'Hunger Games: Sunrise on the Reaping' to Dominate Thanksgiving Box Office as 'Focker In-Law,' 'Hexed' Join Fray
 Source: The Hollywood Reporter | Status: expanded | Words: 1100
 Published: 2026-11-25T01:13:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317
@@ -241,7 +265,7 @@ Debuting exclusively in Imax is Netflix's The Further Mis-Adventures of Cliff Bo
 Set to begin streaming Dec. 23, the new movie hits 550 Imax screens worldwide and focuses on Pitt's stuntman and fixer navigating Hollywood in the late 1970s. THR chief film critic David Rooney deemed it "sexy, seductive and chaotic in mostly fun ways."
 
 ============================================================
-[8] ‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live
+[9] ‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live
 Source: Variety | Status: expanded | Words: 73
 Published: 2026-11-25T01:05:46+00:00
 URL: https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-1236957201
@@ -255,7 +279,7 @@ Season 35 of " Dancing With the Stars " is officially coming to an end. On Tuesd
 Variety will be updating this story live, so keep refreshing through the night for updates.
 
 ============================================================
-[9] I Just Found Out How Arnold Schwarzenegger’s Son Joseph Baena Is In The New Baywatch
+[10] I Just Found Out How Arnold Schwarzenegger’s Son Joseph Baena Is In The New Baywatch
 Source: CinemaBlend | Status: expanded | Words: 230
 Published: 2026-11-25T01:01:00+00:00
 URL: https://www.cinemablend.com/television/how-arnold-schwarzeneggers-son-joseph-baena-in-new-baywatch
@@ -273,7 +297,7 @@ The 29-year-old half-sibling of Patrick Schwarzenegger admitted he didn’t watc
 Since we’ve only seen glimpses and teases of footage, it’s hard to get a sense of the show’s tone, the new character dynamics, and just how epic the action will be on a weekly basis. However, with the new generation of lifeguards being led by Hobie ( Stephen Amell ), the son of the iconic Mitch Buchannon (David Hasselhoff), and a number of the OG cast members returning, the hype and the nostalgia are real and should easily get an audience tuning in.
 
 ============================================================
-[10] Christopher Nolan's Mind-Bending Thriller That Is Better Than Inception Is Being Erased from Netflix
+[11] Christopher Nolan's Mind-Bending Thriller That Is Better Than Inception Is Being Erased from Netflix
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-25T01:00:00+00:00
 URL: https://comicbook.com/movies/news/christopher-nolans-mind-bending-thriller-that-is-better-than-inception-is-being-erased-from-netflix
@@ -297,7 +321,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] 'Dancing With the Stars' Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
+[12] 'Dancing With the Stars' Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)
 Source: The Hollywood Reporter | Status: expanded | Words: 523
 Published: 2026-11-25T00:58:00+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506
@@ -333,7 +357,7 @@ Connor Wood and Rylee Arnold Maura Higgins and Mark Ballas Ezra Frech and Daniel
 The season 35 finale of Dancing With the Stars airs Tuesday at 5 p.m. PT/8 p.m. ET, simulcasting across ABC and Disney+ and streaming the next day on Hulu . Check out all of The Hollywood Reporter &#x2019;s DWTS coverage here .
 
 ============================================================
-[12] Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91
+[13] Philip Rosenberg, Oscar-Winning Production Designer for 'All That Jazz,' Dies at 91
 Source: Variety | Status: expanded | Words: 323
 Published: 2026-11-25T00:50:47+00:00
 URL: https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540
@@ -357,7 +381,7 @@ He married Siv Sandstrom, a hostess in the Swedish pavilion at the 1964 World's 
 He is survived by his brothers Stanley Rosenberg and David Rosenberg and six nieces and nephews.
 
 ============================================================
-[13] One of the 80s' Most Inappropriate Superheroes Somehow Got His Own Children's Toy Line
+[14] One of the 80s' Most Inappropriate Superheroes Somehow Got His Own Children's Toy Line
 Source: ComicBook.com | Status: expanded | Words: 1233
 Published: 2026-11-25T00:43:00+00:00
 URL: https://comicbook.com/collectibles/news/one-of-the-80s-most-inappropriate-superheroes-somehow-got-his-own-childrens-toy-line
@@ -387,7 +411,7 @@ Everyone always talks about Superman and Batman, but honestly, 90s Conner Kent's
 Would it be cheating to say Icon?
 
 ============================================================
-[14] William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash
+[15] William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash
 Source: CinemaBlend | Status: expanded | Words: 219
 Published: 2026-11-25T00:31:00+00:00
 URL: https://www.cinemablend.com/television/william-shatner-clarifies-stance-grand-theft-auto-vi-after-backlash
@@ -405,7 +429,7 @@ The comments called out various claims, mainly the assertion that Grand Theft Au
 I'm hoping Shatner isn't stressed about this, because I know I'm not personally concerned about what opinion he holds on Grand Theft Auto VI . In fact, I would expect most people north of 90 years old would not be too interested in video games and would sooner read a book.
 
 ============================================================
-[15] ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
+[16] ‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams
 Source: Variety | Status: expanded | Words: 714
 Published: 2026-11-25T00:30:00+00:00
 URL: https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515
@@ -441,7 +465,7 @@ When Netflix posted the trailer for the film in early November, it went viral on
 &#x201C;I&#x2019;ve been practicing for the Spirit Tunnel,&#x201D; she says of the talk show&#x2019;s viral entrance videos. &#x201C;I can dance a little bit. I&#x2019;m going to be cool with it and rock with it.&#x201D;
 
 ============================================================
-[16] Demon Slayer Peaked Early, But Infinity Castle Can Save It
+[17] Demon Slayer Peaked Early, But Infinity Castle Can Save It
 Source: ComicBook.com | Status: expanded | Words: 598
 Published: 2026-11-25T00:24:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-peaked-early-but-infinity-castle-can-save-it
@@ -465,7 +489,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful"
+[18] 'X-Men's James Marsden On Cyclops Leading In 'Avengers: Doomsday' After Taking "Back Seat To Wolverine": "It Was Important That My Return Felt Meaningful"
 Source: Deadline | Status: expanded | Words: 438
 Published: 2026-11-25T00:22:55+00:00
 URL: https://deadline.com/2026/11/james-marsden-cyclops-x-men-avengers-doomsday-wolverine-1237233013
@@ -489,7 +513,7 @@ As far as shooting the new Marvel film, Marsden said that it "felt like entering
 "The technology has advanced enormously as well, but I appreciated that the Russo Brothers still wanted to ground the film in practical effects whenever possible. At times, the production was so massive that even when you&#x2019;re playing a major character, you can feel like a background player within something much larger than yourself."
 
 ============================================================
-[18] HBO's Harry Potter Reboot Confirms Big Change From the Movie Costumes That's Book Accurate
+[19] HBO's Harry Potter Reboot Confirms Big Change From the Movie Costumes That's Book Accurate
 Source: ComicBook.com | Status: expanded | Words: 621
 Published: 2026-11-25T00:15:42+00:00
 URL: https://comicbook.com/tv-shows/news/hbos-harry-potter-reboot-confirms-big-change-from-the-movie-costumes-thats-book-accurate
@@ -521,7 +545,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco - Film News in Brief
+[20] Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco - Film News in Brief
 Source: Variety | Status: expanded | Words: 290
 Published: 2026-11-25T00:05:00+00:00
 URL: https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894
@@ -543,7 +567,7 @@ Hagen&#x2019;s credits included &#x201C;The Dick Van Dyke Show,&#x201D; &#x201C;
 Other honorees include Jon Batiste, who will receive the Ambassador Award in New York on Dec. 1; Brent McCorkle, who will receive the Trailblazer Award in Nashville on Dec. 5; and Sen. Dick Durbin (D-IL), who will receive the Excellence in Advocacy Award in Chicago on Dec. 3.
 
 ============================================================
-[20] Charles Barkley Pitched His Potential Inside The NBA Replacement, But I Have Another Idea
+[21] Charles Barkley Pitched His Potential Inside The NBA Replacement, But I Have Another Idea
 Source: CinemaBlend | Status: expanded | Words: 501
 Published: 2026-11-25T00:01:00+00:00
 URL: https://www.cinemablend.com/television/charles-barkley-pitched-potential-inside-the-nba-jalen-rose-alternate-idea
@@ -565,7 +589,7 @@ Again, though, this isn’t to say that Jalen Rose wouldn’t be able to do the 
 To be honest, it may also behoove me not to get too ahead of myself right now, as the season is still young. Also, while Charles Barkley’s retirement claim is seeming more likely , he hasn’t said much more about it in the wake of Ernie Johnson’s announcement. We’ll just have to wait and see what happens and how the producers choose to proceed should Barkley leave the fold along with Johnson.
 
 ============================================================
-[21] Charlie Brown's Thanksgiving Special Isn't Good, But There Are 5 Reasons To Still Watch it
+[22] Charlie Brown's Thanksgiving Special Isn't Good, But There Are 5 Reasons To Still Watch it
 Source: ComicBook.com | Status: expanded | Words: 1479
 Published: 2026-11-25T00:00:00+00:00
 URL: https://comicbook.com/tv-shows/list/charlie-browns-thanksgiving-special-isnt-good-but-there-are-5-reasons-to-still-watch-it
@@ -605,7 +629,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Marathon Reveals New Bishop Shell With One of the Game's Coolest Trailers Yet
+[23] Marathon Reveals New Bishop Shell With One of the Game's Coolest Trailers Yet
 Source: ComicBook.com | Status: expanded | Words: 522
 Published: 2026-11-24T23:49:28+00:00
 URL: https://comicbook.com/gaming/news/marathon-reveals-new-bishop-shell-with-one-of-the-games-coolest-trailers-yet
@@ -631,7 +655,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
+[24] Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far
 Source: Deadline | Status: expanded | Words: 727
 Published: 2026-11-24T23:46:44+00:00
 URL: https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631
@@ -687,7 +711,7 @@ Does Tomi Adeyemi have other books?
 Adeyemi has The Siren coming out at the end of September.
 
 ============================================================
-[24] Take-Two CEO Strauss Zelnick To Talk 'Grand Theft Auto VI' At SXSW London 2027; More Speakers Announced
+[25] Take-Two CEO Strauss Zelnick To Talk 'Grand Theft Auto VI' At SXSW London 2027; More Speakers Announced
 Source: Deadline | Status: expanded | Words: 264
 Published: 2026-11-24T23:39:19+00:00
 URL: https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963
@@ -707,7 +731,7 @@ Rounding out the first group of speakers are Sir Martin Sorrell and Rory Sutherl
 The 2027 festival will run from May 24-29.
 
 ============================================================
-[25] In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
+[26] In Joanna Natasegara’s Oscar Contender ‘The Disciple,’ Wu-Tang Clan Superfan Cilvaringz Morphs Into A Killer Bee
 Source: Deadline | Status: expanded | Words: 1410
 Published: 2026-11-24T23:34:49+00:00
 URL: https://deadline.com/2026/11/the-disciple-a-wu-tang-fable-director-joanna-natasegara-interview-1237232945
@@ -759,7 +783,7 @@ DEADLINE: Probably the first question you get asked is, have you listened to the
 JN: We had a beautiful listening session at Sundance, and then we had another one at Telluride. I haven't heard the whole thing. And it's probably the most frustrating thing about this film&#x2026; I can't show you how good the album is; that's going to be a question for people, but it really is good&#x2026; I still think all of us involved in the film or the album go back and debate, do we hope it's released? Do we not? Is it better than it isn't released? But I would really like people to be able to hear it because it&#x2019;s good.
 
 ============================================================
-[26] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
+[27] 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time
 Source: Deadline | Status: expanded | Words: 571
 Published: 2026-11-24T23:31:33+00:00
 URL: https://deadline.com/2026/11/avengers-doomsday-final-trailer-viewership-record-1237232943
@@ -791,7 +815,7 @@ Across all trailers thus far, Avengers: Doomsday has generated a jawdropping 3.3
 The data here comes from WaveMetrix.
 
 ============================================================
-[27] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
+[28] Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 8691
 Published: 2026-11-24T23:31:30+00:00
 URL: https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413
@@ -1587,7 +1611,7 @@ CINEMATIC AND BOX OFFICE ACHIEVEMENT (20 titles)
 &#x201C;You Can See Everything&#x201D; (A24)
 
 ============================================================
-[28] What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take
+[29] What Happened To Harrison Ford’s Deckard After Blade Runner 2049? I Asked 2099’s EP For Her Take
 Source: CinemaBlend | Status: expanded | Words: 388
 Published: 2026-11-24T23:31:00+00:00
 URL: https://www.cinemablend.com/streaming-news/what-happened-harrison-ford-deckard-after-blade-runner-2049-response-2099-ep
@@ -1607,7 +1631,7 @@ While Blade Runner ’s ending remains controversial in some circles, the discus
 For right now, though, fans can return to this dark, futuristic universe by way of 2099 . The limited series centers on dying Replicant Blade Runner Olwen (played by Michelle Yeoh ) and Cora (Hunter Schafer), a human posing as a Replicant. While fans won’t be getting answers on Deckard, the show covers plenty of ground in other respects. And, who knows, maybe we’ll actually get that 2049 sequel one day.
 
 ============================================================
-[29] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
+[30] Peach Momoko’s Marvel Art Book Kickstarter Pulls in a Staggering $130,000 in Just Its First Hour
 Source: ComicBook.com | Status: expanded | Words: 659
 Published: 2026-11-24T23:30:00+00:00
 URL: https://comicbook.com/comics/news/peach-momokos-marvel-art-book-kickstarter-pulls-in-a-staggering-130000-in-just-its-first-hour
@@ -1633,7 +1657,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Patrick Stewart Was ‘Struggling’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
+[31] Patrick Stewart Was ‘Struggling’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-24T23:27:20+00:00
 URL: https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522
@@ -1657,7 +1681,7 @@ Stewart died after a brief battle with Alzheimer&#x2019;s and Lewy Body Dementia
 &#x201C;Avengers: Doomsday&#x201D; hits theaters on Dec. 18.
 
 ============================================================
-[31] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
+[32] Robert Downey Jr. Reveals How MCU Doctor Doom Will Be Different From Tony Stark in Avengers
 Source: ComicBook.com | Status: expanded | Words: 551
 Published: 2026-11-24T23:20:21+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jr-reveals-how-mcu-doctor-doom-will-be-different-from-tony-stark-in-avengers
@@ -1683,7 +1707,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
+[33] PS5 Exclusive Game From 2021 Is Shutting Down Forever in Under 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 485
 Published: 2026-11-24T23:18:03+00:00
 URL: https://comicbook.com/gaming/news/ps5-games-shut-down-servers-november-2026
@@ -1707,7 +1731,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
+[34] Adam Driver Teases Mister Sinister Role In Marvel Reboot: "I Was A Big X-Men Fan"
 Source: Deadline | Status: expanded | Words: 390
 Published: 2026-11-24T23:17:03+00:00
 URL: https://deadline.com/2026/11/adam-driver-x-men-reboot-mister-sinister-marvel-studios-1237232938
@@ -1735,7 +1759,7 @@ Earlier this year, Driver talked to Jimmy Kimmel about joining the MCU after rej
 He added, "I was a big fan. I mean, I was a fan of the other things too. But this one felt like a right time, and then it's X-Men."
 
 ============================================================
-[34] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
+[35] 'The Body' Summons 86% Audience Boost To Lead Netflix's Weekly TV Rankings
 Source: Deadline | Status: expanded | Words: 420
 Published: 2026-11-24T23:08:19+00:00
 URL: https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942
@@ -1761,7 +1785,7 @@ As has been typical lately, the film slate garnered much more attention &#x2014;
 The mystery thriller Heartland came in second place on the English film list with 14.8 million views.
 
 ============================================================
-[35] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
+[36] Ben Stiller And Skyler Gisondo Starred In Night At The Museum Together. Focker In-Law Was A Full-Circle Moment
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-24T23:01:00+00:00
 URL: https://www.cinemablend.com/movies/ben-stiller-skyler-gisondo-night-at-the-museum-together-focker-in-law-full-circle-moment
@@ -1777,7 +1801,7 @@ Again, while Skyler Gisondo was a successful child actor , Night at the Museum: 
 Knowing about Stiller and Gisondo’s history certainly played into my enjoyment of the movie, especially since the last time I saw them together, Gisondo was a kid. Now, he’s all grown up, and that fact certainly plays into Focker In-Law .
 
 ============================================================
-[36] 3 Things You Need to Know for Sakamoto Days Season 2
+[37] 3 Things You Need to Know for Sakamoto Days Season 2
 Source: ComicBook.com | Status: expanded | Words: 742
 Published: 2026-11-24T22:56:00+00:00
 URL: https://comicbook.com/anime/list/3-things-you-need-to-know-for-sakamoto-days-season-2
@@ -1809,7 +1833,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
+[38] Black Bear Buys Thriller 'Seeker,' Starring 'Obsession's' Cooper Tomlinson and 'Off Campus' Actor Mika Abdalla (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 440
 Published: 2026-11-24T22:46:09+00:00
 URL: https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478
@@ -1831,7 +1855,7 @@ Alex Lebovici and Michael Learner will produce for Hammerstone Studios, with Ada
 Black Bear was founded in 2011 as independent production studio and recently launched a domestic distribution arm. The company's latest theatrical release, the offbeat romantic dramedy "Wicker," has been a box office winner with $40 million globally to date. Black Bear's upcoming slate includes Guy Ritchie&#x2019;s "Wife & Dog," starring Benedict Cumberbatch and Rosamund Pike; and David Leitch&#x2019;s "Jason Statham Stole My Bike" led by Statham and Hannah Waddingham. It also recently nabbed Bill Hader&#x2019;s feature directing debut, "They Know," a psychological horror film starring Hader and Linda Cardellini.
 
 ============================================================
-[38] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
+[39] Batman's Nemesis Looks Even More Terrifying Without His Iconic Makeup In This Prototype Action Figure
 Source: ComicBook.com | Status: expanded | Words: 533
 Published: 2026-11-24T22:39:00+00:00
 URL: https://comicbook.com/collectibles/news/batmans-nemesis-looks-even-more-terrifying-without-his-iconic-makeup-in-this-prototype-action-figure
@@ -1851,7 +1875,7 @@ What really stands out to me about this prototype is how many different base col
 Which is your favorite version of The Joker? Let us know in the comments.
 
 ============================================================
-[39] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
+[40] Where to Stream 'Dancing With the Stars' Season 35 Finale Live Online
 Source: The Hollywood Reporter | Status: expanded | Words: 438
 Published: 2026-11-24T22:37:56+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567
@@ -1885,7 +1909,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 Visit Sling.com to check station availability, and compare streaming packages with THR 's Sling breakdown here .
 
 ============================================================
-[40] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
+[41] Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase
 Source: CinemaBlend | Status: expanded | Words: 275
 Published: 2026-11-24T22:31:00+00:00
 URL: https://www.cinemablend.com/movies/anthony-mackie-drops-marvel-catchphrase-dodging-avengers-doomsday-spoiler-questions
@@ -1905,7 +1929,7 @@ This is becoming a pattern. Mackie essentially gave the same answer to gave Josh
 I love watching Anthony Mackie navigate all this. With Robert Downey Jr. returning to Marvel as Doctor Doom and so many heroes converging for the next Avengers movie, fans have plenty of questions. Mackie has apparently decided the title will answer most of them.
 
 ============================================================
-[41] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
+[42] Blade Runner 2099 Rotten Tomatoes Score Is a Franchise Low, But It's Not Bad News At All
 Source: ComicBook.com | Status: expanded | Words: 536
 Published: 2026-11-24T22:29:44+00:00
 URL: https://comicbook.com/tv-shows/news/blade-runner-2099-rotten-tomatoes-score-is-a-franchise-low-but-its-not-bad-news-at-all
@@ -1929,7 +1953,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
+[43] NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’
 Source: Variety | Status: expanded | Words: 363
 Published: 2026-11-24T22:24:06+00:00
 URL: https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441
@@ -1955,7 +1979,7 @@ Among the balloons that are set to take flight are Sorcerer&#x2019;s Apprentice 
 Another highlight is Snoopy, who returns to the parade in a new role as Joe Cool. &#x201C;Joe Cool is what happens when Snoopy is pretending to be a student at school. He&#x2019;s never been in the parade before in this form, which makes it really fun,&#x201D; Kennedy said. &#x201C;We&#x2019;re excited to bring him and Woodstock together. I was on the Parade Studio floor yesterday and saw an arm and an ear being worked on.&#x201D;
 
 ============================================================
-[43] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
+[44] 22 Years Ago, Studio Ghibli's Most Whimsical Anti-War Movie Was Released &#038; It Holds Up Even Today
 Source: ComicBook.com | Status: expanded | Words: 588
 Published: 2026-11-24T22:07:00+00:00
 URL: https://comicbook.com/anime/feature/22-years-ago-studio-ghiblis-most-whimsical-anti-war-movie-was-released-it-holds-up-even-today
@@ -1981,7 +2005,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
+[45] The Rings of Power Officially Renewed for Season 4 at Prime Video, But What's the Story?
 Source: ComicBook.com | Status: expanded | Words: 670
 Published: 2026-11-24T22:02:57+00:00
 URL: https://comicbook.com/tv-shows/news/the-rings-of-power-officially-renewed-for-season-4-at-prime-video-but-whats-the-story
@@ -2009,7 +2033,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
+[46] ‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature
 Source: Variety | Status: expanded | Words: 1251
 Published: 2026-11-24T22:00:00+00:00
 URL: https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506
@@ -2073,7 +2097,7 @@ Spencer completed the transformation by leaning into the showgirl-inspired makeu
 "[Drusilla's] like a performer. When you really do think about it, she&#x2019;s a narcissist. 'This is me. I&#x2019;m bold. I&#x2019;m dominant,'" Spencer says. "We had all the showgirls &#x2014; all of those big colors and the feathers and everything else, so it's almost like a carnival of entertainers coming together on the stage. The set design, the colors, all the background people in the crowd are so, so important. What you&#x2019;re portraying is a performance. It&#x2019;s entertainment, and that&#x2019;s who they are."
 
 ============================================================
-[46] Path of Exile 2's New Classes Are Bringing Some Much-Needed Creativity to ARPG Combat
+[47] Path of Exile 2's New Classes Are Bringing Some Much-Needed Creativity to ARPG Combat
 Source: ComicBook.com | Status: expanded | Words: 1021
 Published: 2026-11-24T22:00:00+00:00
 URL: https://comicbook.com/gaming/feature/path-of-exile-2s-new-classes-are-bringing-some-much-needed-creativity-to-arpg-combat
@@ -2105,7 +2129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Cyclops May Have Saved the World, But His Sacrifice Could Be the X-Men's Worst Nightmare
+[48] Cyclops May Have Saved the World, But His Sacrifice Could Be the X-Men's Worst Nightmare
 Source: ComicBook.com | Status: expanded | Words: 841
 Published: 2026-11-24T21:58:00+00:00
 URL: https://comicbook.com/comics/feature/cyclops-may-have-saved-the-world-but-his-sacrifice-could-be-the-x-mens-worst-nightmare
@@ -2137,7 +2161,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Steven Hack, 'American Horror Story' Actor and Original Cast Member of ‘Cats,’ Dies at 68
+[49] Steven Hack, 'American Horror Story' Actor and Original Cast Member of ‘Cats,’ Dies at 68
 Source: Variety | Status: expanded | Words: 351
 Published: 2026-11-24T21:53:08+00:00
 URL: https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417
@@ -2161,7 +2185,7 @@ He was born in St. Louis before attending college at the California Institute of
 The company concluded its post, &#x201C;As we remember Steven, we celebrate not only his many contributions to our company but also the joy of knowing and working with him. He will always hold a special place in Interact&#x2019;s history and in the hearts of those who knew him. We extend our heartfelt condolences to his family, friends and all who loved him. May his memory be a blessing.&#x201D;
 
 ============================================================
-[49] IATSE Reaches Tentative Agreement for Broadway Stagehands
+[50] IATSE Reaches Tentative Agreement for Broadway Stagehands
 Source: The Hollywood Reporter | Status: expanded | Words: 280
 Published: 2026-11-24T21:52:47+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558
@@ -2181,26 +2205,4 @@ Local 764 members have been bargaining with The Broadway League, a trade associa
 IATSE said the issues still in contention include wages and a gender pay gap that has existed for decades for Broadway wardrobe workers. The field is predominantly female, and has been paid &#x201C;significantly lower rates than stagehand classifications historically held predominantly by men&#x201D; according to the union, with Local 764 department heads needing to work 45 percent longer to earn pay comparable to workers in similar department-head roles.
 
 Both Actors&#x2019; Equity and the American Federation of Musicians Local 802 also voted to authorize strikes last year, and came very close to doing so, before striking new contracts with the Broadway League.
-
-============================================================
-[50] Men’s Wearhouse Kicks Off Black Friday With Designer Discounts on Suits and Tuxedos — Just in Time For Awards Season
-Source: Variety | Status: expanded | Words: 247
-Published: 2026-11-24T21:51:07+00:00
-URL: https://variety.com/2026/shopping/news/mens-wearhouse-black-friday-designer-deals-shop-online-1236957432
-------------------------------------------------------------
-SUMMARY:
-Just in time for holiday parties and the upcoming awards season, Men’s Wearhouse has kicked off its Black Friday sale early, slashing prices across its expansive selection of suiting, formalwear and everyday wardrobe staples. The menswear retailer is offering discounts on top brands such as Calvin Klein, Joseph Abboud, Kenneth Cole and Nautica, with particularly […]
-
-CONTENT / EXTRACTED DETAILS:
-Just in time for holiday parties and the upcoming awards season, Men&#x2019;s Wearhouse has kicked off its Black Friday sale early, slashing prices across its expansive selection of suiting, formalwear and everyday wardrobe staples.
-
-The menswear retailer is offering discounts on top brands such as Calvin Klein, Joseph Abboud, Kenneth Cole and Nautica, with particularly steep savings on sport coats, wool overcoats and tailored separates. Related Stories 'NCIS: New York' Sells Across 135 Markets Globally (EXCLUSIVE) 'Adam's Law' Enjoys Early TV-Ratings Judgment at CBS
-
-The early Black Friday deals, which run through 11:59 p.m. CT on Nov. 24, include 40% off select suits, sport coats and dress shirts, up to 50% off outerwear and casualwear and up to 40% off shoes. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-Standout deals include a Calvin Klein slim-fit wool-blend suit for $299.99 and a Joseph Abboud navy wool-blend blazer for $149.99 (normally $249.99). Those looking to spend a little less can snag a classic black Nautica suit for just $119.99, down from $199.99.
-
-Beyond formalwear, the retailer&#x2019;s holiday sale is a good opportunity to stock up on winter essentials, from wool overcoats and knit sweaters to leather boots. There are even steeper discounts in the retailer&#x2019;s clearance section, where a pair of Joseph Abboud stretch denim jeans is currently going for just $14.99, down from $69.99.
-
-Shop the full Men&#x2019;s Wearhouse Black Friday sale here .
 
