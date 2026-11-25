@@ -5,7 +5,7 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T17:02:04.265Z"
+    "updated_at": "2026-11-25T17:05:56.051Z"
   },
   "articles": [
     {
@@ -82,6 +82,21 @@
       "word_count": 577,
       "extracted_at": "2026-11-25T17:01:49.345458+00:00",
       "updated_at": "2026-11-25T17:01:49.345458+00:00"
+    },
+    {
+      "id": "30c3acfc-394c-46b8-8e71-313165b4e10d",
+      "title": "‘Blade Runner 2099’: Showrunner Silka Luisa Talks Ridley Scott, “Sunshine Noir” &#038; The Future Of Humanity [Bingeworthy Podcast]",
+      "summary": "If you’re going to make another “ Blade Runner, ” you better have something interesting to say. The powerful one-two punch of Ridley Scott ’s original movie and Denis Villeneuve ’s “ Blade Runner 2049 ” set an incredibly high bar in terms of visual style and philosophical musings, making it extremely tough for anyone else to step into their shoes. The good news is that the creative force behind Prime Video’ s “ Blade Runner 2099, ” Showrunner and creator Silka Luisa (“ Shining Girls ”), has some ideas of her own, and even some pretty weighty concerns for the fate of humanity as well. Continue reading ‘Blade Runner 2099’: Showrunner Silka Luisa Talks Ridley Scott, “Sunshine Noir” & The Future Of Humanity [Bingeworthy Podcast] at The Playlist.",
+      "content": "If you’re going to make another “ Blade Runner, ” you better have something interesting to say. The powerful one-two punch of Ridley Scott ’s original movie and Denis Villeneuve ’s “ Blade Runner 2049 ” set an incredibly high bar in terms of visual style and philosophical musings, making it extremely tough for anyone else to step into their shoes. The good news is that the creative force behind Prime Video’ s “ Blade Runner 2099, ” Showrunner and creator Silka Luisa (“ Shining Girls ”), has some ideas of her own, and even some pretty weighty concerns for the fate of humanity as well. Continue reading ‘Blade Runner 2099’: Showrunner Silka Luisa Talks Ridley Scott, “Sunshine Noir” & The Future Of Humanity [Bingeworthy Podcast] at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/blade-runner-2099-silka-luisa-on-ridley-scotts-surprising-revelations-reinventing-the-sci-fi-classic-finding-humanity-in-the-apocalypse-bingeworthy-podcast-20261125",
+      "published_at": "2026-11-25T17:00:00+00:00",
+      "image_url": "https://www.youtube.com/embed/1d4x_eSdqNc",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 129,
+      "extracted_at": "2026-11-25T17:05:43.127129+00:00",
+      "updated_at": "2026-11-25T17:05:43.127129+00:00"
     },
     {
       "id": "82d750c0-7cf3-4783-8411-7a56ac9c2000",
@@ -742,21 +757,6 @@
       "word_count": 295,
       "extracted_at": "2026-11-25T15:29:37.925282+00:00",
       "updated_at": "2026-11-25T15:29:37.925282+00:00"
-    },
-    {
-      "id": "0a375822-dc36-4c7f-8fc8-b070348c559c",
-      "title": "'Avengers: Secret Wars' Is \"Launching Pad\" For Marvel's 2028 Slate Teases Kevin Feige: \"The Imagination Gone Wild\"",
-      "summary": "Next month will see the big release of \" Avengers: Doomsday ,\" and there are already some early teases coming from Kevin Feige about how \" Avengers: Secret Wars \" will have an impact and set up their 2028 lineup of movies, alongside giving fans some signals that they'll likely have clues about where the MCU is going by reading established comics. The Marvel Studios co-president went on to tell Entertainment Weekly in a recent profile for \"Doomsday\" that the next installment, coming out in 2027, \"will very much be a launching pad for our films in 2028, the 20th anniversary of the MCU, and launching a very new era at that point.\" READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” Adding the source material is going to telegraph where things are going (hinting at Doom's version of Battleworld, teased in leaked concept art): \"Look at the comics. Continue reading 'Avengers: Secret Wars' Is \"Launching Pad\" For Marvel's 2028 Slate Teases Kevin Feige: \"The Imagination Gone Wild\" at The Playlist.",
-      "content": "Next month will see the big release of \" Avengers: Doomsday ,\" and there are already some early teases coming from Kevin Feige about how \" Avengers: Secret Wars \" will have an impact and set up their 2028 lineup of movies, alongside giving fans some signals that they'll likely have clues about where the MCU is going by reading established comics. The Marvel Studios co-president went on to tell Entertainment Weekly in a recent profile for \"Doomsday\" that the next installment, coming out in 2027, \"will very much be a launching pad for our films in 2028, the 20th anniversary of the MCU, and launching a very new era at that point.\" READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” Adding the source material is going to telegraph where things are going (hinting at Doom's version of Battleworld, teased in leaked concept art): \"Look at the comics. Continue reading 'Avengers: Secret Wars' Is \"Launching Pad\" For Marvel's 2028 Slate Teases Kevin Feige: \"The Imagination Gone Wild\" at The Playlist.",
-      "source": "The Playlist",
-      "source_url": "https://theplaylist.net/avengers-secret-wars-2028-slate-xmen-black-panther-3-ghost-rider-20261125",
-      "published_at": "2026-11-25T15:21:58+00:00",
-      "image_url": "https://www.youtube.com/embed/Wb8Tq_HD4E8",
-      "language": "en",
-      "content_status": "summary_only",
-      "word_count": 188,
-      "extracted_at": "2026-11-25T15:23:37.958449+00:00",
-      "updated_at": "2026-11-25T15:23:37.958449+00:00"
     }
   ]
 }
