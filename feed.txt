@@ -1,9 +1,37 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T16:51:57.077Z
+Last Updated: 2026-11-25T16:54:00.322Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Netflix Releases New Peter Berg-Directed Spot Inspired By 'Friday Night Lights' Highlighting Thanksgiving Eve Game
+[1] Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56
+Source: Variety | Status: expanded | Words: 493
+Published: 2026-11-25T16:52:52+00:00
+URL: https://variety.com/2026/film/people-news/mike-plante-dead-sundance-film-festival-1236958042
+------------------------------------------------------------
+SUMMARY:
+Mike Plante, the shorts programmer at Sundance Film Festival, died Tuesday. He was 56. Friends reported he died from complications of a brain aneurysm. Over the years, he established deep relationships within the organization. Eugene Hernandez, Sundance director and Kim Yutani, director of programming, expressed their condolences on behalf of the festival, referring to Plante […]
+
+CONTENT / EXTRACTED DETAILS:
+Mike Plante, the shorts programmer at Sundance Film Festival, died Tuesday. He was 56.
+
+Friends reported he died from complications of a brain aneurysm.
+
+Over the years, he established deep relationships within the organization. Eugene Hernandez, Sundance director and Kim Yutani, director of programming, expressed their condolences on behalf of the festival, referring to Plante as a &#x201C;true cinephile, a filmmaker, a champion of short films, movie theaters and film culture.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life
+
+&#x201C;We are deeply saddened by the loss of our beloved colleague and 25-year veteran of the Sundance Institute, Mike Plante, who passed away early this morning after a brief illness,&#x201D; they wrote in a statement. &#x201C;Mike was a treasure to the Institute, the Festival and our independent film community. His sense of wonder and humor were matched by boundless enthusiasm and curatorial excellence. Our Festival&#x2019;s Short Film Program and the Sundance Film Festival Short Film Tour were shaped by Mike&#x2019;s energy and superb taste in movies.&#x201D;
+
+Amy Redford, the daughter of Sundance founder Robert Redford and a board member of the festival, also shared her sympathies for Plante, calling him a &#x201C;visionary.&#x201D;
+
+&#x201C;Through his extraordinary curatorial talent, he launched countless storytellers through the vital medium of short film, many of whom have gone on to become some of the world&#x2019;s most enduring artists,&#x201D; Redford wrote in a statement. &#x201C;Mike embodied the Sundance ethos and played a critical role in preserving the continuity of its values. He was unfailingly generous with his time and mentorship, and a talented creator in his own right. But Mike&#x2019;s most enduring legacy is his kindness. It was, and remains, the first thing people say about him. His passing is a profound loss not only to the Sundance community but to all those fortunate enough to have known and loved him. He will be deeply missed.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Plante was a director and producer, working on feature documentaries by other directors, including &#x201C;Scrap Vessel&#x201D; (2009) and &#x201C;Giuseppe Makes A Movie&#x201D; (2014). He began working for film festivals as a programmer in 1993 before joining Sundance in 2001.
+
+Former Sundance programming director Trevor Groth wrote on Facebook , "Mike was the coolest person I ever met, and he never tried to be. He was just 100% Mike, all the time. He was true to himself in everything he did, and it was intoxicating to be around. Mike wouldn&#x2019;t want a moment of silence. He&#x2019;d want us to go see the most bizarre movie we can find and then argue about it while bowling our asses off and eating cupcakes."
+
+Plante is survived by his mother, Barb.
+
+============================================================
+[2] Netflix Releases New Peter Berg-Directed Spot Inspired By 'Friday Night Lights' Highlighting Thanksgiving Eve Game
 Source: Deadline | Status: expanded | Words: 433
 Published: 2026-11-25T16:50:08+00:00
 URL: https://deadline.com/2026/11/netflix-peter-berg-directed-friday-night-lights-thanksgiving-eve-game-1237233333
@@ -35,7 +63,7 @@ Netflix's Thanksgiving Eve game streams on Wednesday, November 25, starting at 8
 Watch the complete pre-game spot in the video posted above.
 
 ============================================================
-[2] Taylor Swift’s Dealing With An Expose, And Now A Lawsuit: ‘Enough Is Enough’
+[3] Taylor Swift’s Dealing With An Expose, And Now A Lawsuit: ‘Enough Is Enough’
 Source: CinemaBlend | Status: expanded | Words: 158
 Published: 2026-11-25T16:49:00+00:00
 URL: https://www.cinemablend.com/streaming-news/taylor-swift-dealing-expose-now-lawsuit-life-of-a-showgirl
@@ -51,7 +79,7 @@ In response, Swift’s lawyers called this argument “absurd.” Now, according
 Wade is arguing that she can sue the singer in California because she performs there. Swift did perform at the Academy Museum Gala in LA recently. However, according to the pop star’s team, a performance in the state does not mean she can be sued there, and she doesn’t have a legal connection to California.
 
 ============================================================
-[3] Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit
+[4] Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit
 Source: Deadline | Status: expanded | Words: 2024
 Published: 2026-11-25T16:45:00+00:00
 URL: https://deadline.com/2026/11/studio-lambert-traitors-circle-monopoly-interview-1237232183
@@ -143,7 +171,7 @@ The trio are confident that there are &#x201C;tons of big opportunities in unscr
 Every seven years or so, a new unscripted format emerges and becomes the lightning rod for others, which is exactly what The Traitors did. &#x201C;What I hope that the takeaway from that will be is that something big and bold can still be a really big broad hit in unscripted. The focus for us isn&#x2019;t what&#x2019;s the next iteration of Traitors, it more what is the next big shape of a show that will be popular,&#x201D; added Burgess.
 
 ============================================================
-[4] Marvel Boss Squashes Ghost Rider Rumor, But I Don't Believe Him
+[5] Marvel Boss Squashes Ghost Rider Rumor, But I Don't Believe Him
 Source: ComicBook.com | Status: expanded | Words: 550
 Published: 2026-11-25T16:43:35+00:00
 URL: https://comicbook.com/movies/news/marvel-boss-squashes-ghost-rider-rumor-but-i-dont-believe-him
@@ -167,7 +195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)
+[6] Jason Kennedy and Karrueche Tran Celebrity Digital Series ‘The Pop Exchange’ Scores More Than 11 Million Views in First Month (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 392
 Published: 2026-11-25T16:36:45+00:00
 URL: https://variety.com/2026/digital/columns/jason-kennedy-karrueche-tran-pop-exchange-1236958021
@@ -193,7 +221,7 @@ Tran said, &#x201C;What&#x2019;s been exciting to see is how the conversations a
 &#x201C;The world doesn&#x2019;t need another podcast or another entertainment show built for a media landscape that no longer exists,&#x201D; Bauman said. &#x201C;We started with a different question: What would the definitive destination for pop culture look like if you built it today? You would need extraordinary talent with real credibility and firsthand experience, a format that brings audiences into the conversation and distribution designed for wherever people actually consume content. Jason and Karrueche bring something you can&#x2019;t manufacture. They&#x2019;ve lived the stories, they know the people and they understand the culture from the inside.&#x201D;
 
 ============================================================
-[6] New Man of Tomorrow Poster Revealed by DC, With the Fight We're All Waiting For
+[7] New Man of Tomorrow Poster Revealed by DC, With the Fight We're All Waiting For
 Source: ComicBook.com | Status: expanded | Words: 266
 Published: 2026-11-25T16:36:21+00:00
 URL: https://comicbook.com/movies/news/new-man-of-tomorrow-poster-revealed-by-dc-with-the-fight-were-all-waiting-for
@@ -213,7 +241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] PlayStation Plus Free Games for December 2026 Announced
+[8] PlayStation Plus Free Games for December 2026 Announced
 Source: ComicBook.com | Status: expanded | Words: 514
 Published: 2026-11-25T16:35:47+00:00
 URL: https://comicbook.com/gaming/news/playstation-ps-plus-free-games-december-2026
@@ -237,7 +265,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] "Sometimes You Just Have to Think: 'What Will Make People Laugh?'": Lolly Adefope on Gags, 'Ghosts' and Her West End Debut
+[9] "Sometimes You Just Have to Think: 'What Will Make People Laugh?'": Lolly Adefope on Gags, 'Ghosts' and Her West End Debut
 Source: The Hollywood Reporter | Status: expanded | Words: 2232
 Published: 2026-11-25T16:33:22+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/lolly-adefope-oh-mary-show-ghosts-film-kitty-interview-1236762933
@@ -295,7 +323,7 @@ After agreeing to take on the role, the nerves followed soon after. "I had these
 Until December, Lolly Adefope has her kneepads on. "For the characters to get slightly further from myself is always fun," she tells THR about what comes after. "I mean, Mary Todd Lincoln is quite far from myself, even though now I feel like she is me. But I'm doing lots of writing, and seeing where that goes, and [I'm] open to whatever comes next." What that might entail is anyone's guess, but one thing is for certain: this Ghosts alum will stay a pro at lifting spirits.
 
 ============================================================
-[9] Box Office: 'Hunger Games: Sunrise on the Reaping' Scores $16 Million on Tuesday, 'Hexed' Earns $2 Million in Previews
+[10] Box Office: 'Hunger Games: Sunrise on the Reaping' Scores $16 Million on Tuesday, 'Hexed' Earns $2 Million in Previews
 Source: Variety | Status: expanded | Words: 568
 Published: 2026-11-25T16:33:19+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-tuesday-record-hexed-previews-1236958028
@@ -313,7 +341,7 @@ In terms of new releases, "Hexed" got off to a slow start with $2.1 million in p
 "Focker In-Law" didn't have Tuesday previews; showtimes will begin on Wednesday. It's similarly targeting a debut of $40 million to $45 million over its first five days. "Focker In-Law" was produced for $90 million (split between Universal and Paramount), a hefty budget for a theatrical comedy. The studios were willing to spend big, however, because the three prior films in the &#x201C;Focker&#x201D; universe were major box office winners. &#x201C;Meet the Parents,&#x201D; which debuted 26 years ago and starred Ben Stiller and Robert De Niro as mismatched in-laws Greg Focker and Jack Byrnes, generated $330 million worldwide and inspired two commercially successful sequels, 2004&#x2019;s &#x201C;Meet the Fockers&#x201D; ($522 million worldwide) and 2010&#x2019;s &#x201C;Little Fockers&#x201D; ($310 million worldwide). In this installment, Ariana Grande joins the fun as the girlfriend of Greg's son Henry (Skyler Gisondo) who meets the family as they gather for Jack's 80th birthday party.
 
 ============================================================
-[10] Black Clover Season 2 Shocks With Sudden Love Confession
+[11] Black Clover Season 2 Shocks With Sudden Love Confession
 Source: ComicBook.com | Status: expanded | Words: 603
 Published: 2026-11-25T16:33:12+00:00
 URL: https://comicbook.com/anime/feature/black-clover-season-2-shocks-with-sudden-love-confession
@@ -343,7 +371,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] Link Click Season 3 Confirms 2027 Return for Part 2 With New Look
+[12] Link Click Season 3 Confirms 2027 Return for Part 2 With New Look
 Source: ComicBook.com | Status: expanded | Words: 540
 Published: 2026-11-25T16:32:00+00:00
 URL: https://comicbook.com/anime/news/link-click-season-3-confirms-2027-return-for-part-2-with-new-look
@@ -371,7 +399,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] The Doomsday Team Recalled Patrick Stewart’s Last Day On Set, And I’m Going To Need A Tissue
+[13] The Doomsday Team Recalled Patrick Stewart’s Last Day On Set, And I’m Going To Need A Tissue
 Source: CinemaBlend | Status: expanded | Words: 283
 Published: 2026-11-25T16:23:24+00:00
 URL: https://www.cinemablend.com/movies/avengers-doomsday-team-recalled-patrick-stewarts-last-day-on-set
@@ -391,7 +419,7 @@ I have a feeling that sentiment will carry over to audiences when the film final
 Now, more than a quarter-century after his first appearance, he'll be returning alongside McKellen's Magneto. Joe Russo revealed that the longtime friends share an emotional scene about forgiveness, which could be especially difficult to watch under the circumstances.
 
 ============================================================
-[13] 'GTA 6' Has At Least 9 Distinct Endings
+[14] 'GTA 6' Has At Least 9 Distinct Endings
 Source: Variety | Status: expanded | Words: 359
 Published: 2026-11-25T16:19:58+00:00
 URL: https://variety.com/2026/gaming/news/gta-6-endings-possible-jason-lucia-1236958026
@@ -411,7 +439,7 @@ Following &#x201C;GTA 6's&#x201D; Nov. 19 debut, Rockstar Games parent company T
 According to PlayStation, the game has racked up more than 39 million unique players on PlayStation 5 consoles as of Monday, setting a record for the highest number of concurrent players for any game on PlayStation. Xbox has not yet disclosed comparable gameplay figures.
 
 ============================================================
-[14] 'The Mark' Trailer: Jessica Alba &#038; Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters
+[15] 'The Mark' Trailer: Jessica Alba &#038; Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters
 Source: The Playlist | Status: summary_only | Words: 108
 Published: 2026-11-25T16:16:42+00:00
 URL: https://theplaylist.net/the-mark-trailer-jessica-alba-tom-hooper-20261125
@@ -423,7 +451,7 @@ CONTENT / EXTRACTED DETAILS:
 It's been a hot minute since we've seen Jessica Alba leading an action project; that changes with the cat-and-mouse crime flick " The Mark ," where she co-stars alongside Tom Hopper . While the project isn't hitting traditional movie theaters until the new year, we can now share a trailer for this nifty-looking project. "The Mark" is directed by Justin Chadwick , known for making "T he Other Boleyn Girl ," from a script penned by veteran screenwriter Ronnie Christensen ("Dark Tide," "Passengers"). Continue reading 'The Mark' Trailer: Jessica Alba & Tom Hopper Lead Crime Thriller Helmed By Justin Chadwick Arriving February 19 In Theaters at The Playlist.
 
 ============================================================
-[15] Sofia Carson, Taylor John Smith &#038; Charlie Hall Board NFL Rom-Com 'The Christmas Game' From Netflix
+[16] Sofia Carson, Taylor John Smith &#038; Charlie Hall Board NFL Rom-Com 'The Christmas Game' From Netflix
 Source: Deadline | Status: expanded | Words: 588
 Published: 2026-11-25T16:15:00+00:00
 URL: https://deadline.com/2026/11/sofia-carson-the-christmas-game-netflix-rom-com-1237232688
@@ -453,7 +481,7 @@ Terruso most recently directed About My Father , the Lionsgate comedy starring R
 Morrow is repped by Eris Talent Agency and AKA Talent Agency; Marano by Marano Entertainment, Untitled and Hansen, Jacobson, Teller.
 
 ============================================================
-[16] Spider-Man/Hulk: Fire and Brimstone #4 Is Everything You Could Want From a Penultimate Story (Review)
+[17] Spider-Man/Hulk: Fire and Brimstone #4 Is Everything You Could Want From a Penultimate Story (Review)
 Source: ComicBook.com | Status: expanded | Words: 1177
 Published: 2026-11-25T16:13:00+00:00
 URL: https://comicbook.com/comics/review/spider-man-hulk-fire-and-brimstone-4-is-everything-you-could-want-from-a-penultimate-story-review
@@ -489,7 +517,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Demon Slayer Studio's New Movie Confirms Return With New Sequel
+[18] Demon Slayer Studio's New Movie Confirms Return With New Sequel
 Source: ComicBook.com | Status: expanded | Words: 621
 Published: 2026-11-25T16:11:00+00:00
 URL: https://comicbook.com/anime/news/demon-slayer-studios-new-movie-confirms-return-with-new-sequel
@@ -517,7 +545,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Turnaround Times Improve for U.K. Crews Following Union Campaign: 'Change Is Possible When Workers Speak Out' (EXCLUSIVE)
+[19] Turnaround Times Improve for U.K. Crews Following Union Campaign: 'Change Is Possible When Workers Speak Out' (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 483
 Published: 2026-11-25T16:08:21+00:00
 URL: https://variety.com/2026/tv/global/turnaround-times-improving-uk-crews-bectu-1236958015
@@ -549,7 +577,7 @@ Bectu is now calling for Pact to continue measuring broken turnaround figures an
 &#x201C;There is still a lot of work to do across the industry, particularly in ensuring good practice becomes embedded. But these results demonstrate the value of collective action and maintaining constant pressure about unsustainable working hours and fatigue.&#x201D;
 
 ============================================================
-[19] Marvel's Chris Hemsworth Reveals Filming Doomsday Made Him Uncomfortable for a Big Reason
+[20] Marvel's Chris Hemsworth Reveals Filming Doomsday Made Him Uncomfortable for a Big Reason
 Source: ComicBook.com | Status: expanded | Words: 575
 Published: 2026-11-25T16:07:23+00:00
 URL: https://comicbook.com/movies/news/marvels-chris-hemsworth-reveals-filming-doomsday-made-him-uncomfortable-for-a-big-reason
@@ -573,7 +601,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] Hollow Knight: Silksong DLC to Receive New Release Update Very Soon
+[21] Hollow Knight: Silksong DLC to Receive New Release Update Very Soon
 Source: ComicBook.com | Status: expanded | Words: 554
 Published: 2026-11-25T16:03:30+00:00
 URL: https://comicbook.com/gaming/news/hollow-knight-silksong-dlc-to-receive-new-release-update-very-soon
@@ -601,7 +629,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] All 17 Quentin Tarantino Movies, Ranked From Worst to Best
+[22] All 17 Quentin Tarantino Movies, Ranked From Worst to Best
 Source: The Hollywood Reporter | Status: expanded | Words: 3705
 Published: 2026-11-25T16:03:19+00:00
 URL: https://www.hollywoodreporter.com/lists/quentin-tarantino-movies-ranked-worst-best
@@ -655,7 +683,7 @@ Brad Pitt exudes folkloric chill as convertible cowboy Cliff Booth. Whereas Leon
 That’s just one way Tarantino Voltrons together his whole filmography into his magnum opus. Here’s a Los Angeles thriller, a meta-western, and an alternate history, with Grindhouse -worthy re-enactments and a whole society incapable of turning off the radio or the television. There’s even — call Oliver Stone! — a meditation on screen violence, with one wannabe murderer declaring “If you grew up watching TV, that means you grew up watching murder!” Is it weird the heroes are older men, while the Mansonites (Margaret Qualley, Sydney Sweeney, Mikey Madison, Austin Butler, Maya Hawke) turned out to be Gen Z’s top stars this decade? I think Tarantino was being honest about late midlife fears, with Rick in particular worrying that some whole rising generation of longhairs is coming for his ass. There’s always been so much you don’t see in Tarantino’s movies, though, like Dogs ’ jewelry store or Pulp ’s briefcase. The climactic awe in Hollywood is how magnificently one big nothing happens. Margot Robbie’s Sharon Tate is a luminous mystery, worshipped yet unknowable. Manson himself barely appears. Tarantino resurrects an era that finished horrifically in the true 1969, then merrily twists the facts. Sadness embeds in that fantasy. We know the end came and will come again. Celluloid projection won’t return to the global multiplex, no matter how many repertory theaters Tarantino runs. Nobody lasts forever, in Hollywood or anywhere else. Good thing art is death proof.
 
 ============================================================
-[22] Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)
+[23] Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 666
 Published: 2026-11-25T16:03:12+00:00
 URL: https://variety.com/2026/film/global/salma-hayek-pinault-saul-canelo-alvarez-for-the-opponents-1236957909
@@ -691,7 +719,7 @@ The film &#x201C;explores the dreams, expectations and family bonds surrounding 
 &#x201C;For the Opponents&#x201D; has been selected for more than 50 international festivals including Telluride, San Sebasti&#xE1;n and Tallinn Black Nights.
 
 ============================================================
-[23] 'The Trip To The Northern Lights': IFC Acquires Latest In Michael Winterbottom, Steve Coogan &#038; Rob Brydon Franchise
+[24] 'The Trip To The Northern Lights': IFC Acquires Latest In Michael Winterbottom, Steve Coogan &#038; Rob Brydon Franchise
 Source: Deadline | Status: expanded | Words: 572
 Published: 2026-11-25T16:00:00+00:00
 URL: https://deadline.com/2026/11/steve-coogan-trip-to-the-northern-lights-ifc-1237233265
@@ -717,7 +745,7 @@ The Trip to the Northern Lights is produced by Melissa Parmenter and Josh Hyams 
 EPs are Winterbottom, Coogan, Rob Brydon, Alex Moody, Josh Sapan, Tristan Whalley, and Paul Wiegard. The pic is a Revolution Films, Baby Cow, and Small Man Production in association with Sky Studios.
 
 ============================================================
-[24] Peacock Is $2.99 a Month With This Black Friday Deal
+[25] Peacock Is $2.99 a Month With This Black Friday Deal
 Source: Variety | Status: expanded | Words: 386
 Published: 2026-11-25T15:59:28+00:00
 URL: https://variety.com/2026/shopping/news/peacock-black-friday-deal-sign-up-online-1236958024
@@ -743,7 +771,7 @@ For sports fans, a Premium subscription also includes access to the NBA, NFL's &
 Shop Peacock's Black Friday streaming deal through Nov. 30.
 
 ============================================================
-[25] I’m Rolling My Eyes At Claims That Ezra Frech Losing His Prosthetic Won Him Dancing With The Stars
+[26] I’m Rolling My Eyes At Claims That Ezra Frech Losing His Prosthetic Won Him Dancing With The Stars
 Source: CinemaBlend | Status: expanded | Words: 377
 Published: 2026-11-25T15:54:40+00:00
 URL: https://www.cinemablend.com/television/fans-claim-ezra-frech-losing-prosthetic-caused-dancing-with-the-stars-victory
@@ -765,7 +793,7 @@ If Ezra Frech gained additional votes in Dancing with the Stars ' finale after h
 Had Connor Wood, Maura Higgins, Amber Glenn, or Tatyana Ali recovered from a disastrous moment with such poise, I feel confident the judges and audience would've reacted the same way. This is especially true on DWTS ' finale night, in which I feel the judges want their scores to impact the end result as little as possible.
 
 ============================================================
-[26] BBC Journalists Vote To Take Strike Action Over Job Cuts
+[27] BBC Journalists Vote To Take Strike Action Over Job Cuts
 Source: Deadline | Status: expanded | Words: 411
 Published: 2026-11-25T15:52:14+00:00
 URL: https://deadline.com/2026/11/bbc-journalists-vote-yes-industrial-action-result-1237233186
@@ -787,7 +815,7 @@ When the NUJ announced the ballot last month, the BBC said it was a &#x201C;disa
 &#x201C;Faced with a &#xA3;500 million financial savings challenge and significant operational pressures, we cannot offer a guarantee that there will be no compulsory redundancies. Whilst we will continue to do everything possible to minimise this, the reality is that no organisation of our scale and complexity could offer such an undertaking and it would inevitably compromise our service to audiences if we did.&#x201D;
 
 ============================================================
-[27] The Hunger Games Team Reveals the Biggest Mistake the Franchise Made, And They're Right
+[28] The Hunger Games Team Reveals the Biggest Mistake the Franchise Made, And They're Right
 Source: ComicBook.com | Status: expanded | Words: 677
 Published: 2026-11-25T15:49:29+00:00
 URL: https://comicbook.com/movies/news/the-hunger-games-team-reveals-the-biggest-mistake-the-franchise-made-and-theyre-right
@@ -813,7 +841,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Jennifer Lawrence's 'Sex Swing' Comment When She Met Woody Harrelson Is The Most JLaw Comment Ever
+[29] Jennifer Lawrence's 'Sex Swing' Comment When She Met Woody Harrelson Is The Most JLaw Comment Ever
 Source: CinemaBlend | Status: expanded | Words: 277
 Published: 2026-11-25T15:49:25+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lawrence-made-sex-swing-comment-amid-first-meeting-with-woody-harrelson
@@ -831,7 +859,7 @@ What's funny is that this isn't the first time Harrelson has shared the anecdote
 During their conversation, Harrelson also reflected on how much he enjoyed the original cast. "My God, did we have fun," he recalled. "It was such a good group." He fondly remembered Lawrence, Josh Hutcherson, and Liam Hemsworth , along with the lively atmosphere they created behind the scenes. Given the story about that first meeting, it seems about right. I can't imagine the Silver Linings Playbook star was responsible for a particularly quiet set.
 
 ============================================================
-[29] James Gray Says New York Has “Run Its Course” With His Films &#038; Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview]
+[30] James Gray Says New York Has “Run Its Course” With His Films &#038; Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview]
 Source: The Playlist | Status: summary_only | Words: 144
 Published: 2026-11-25T15:49:07+00:00
 URL: https://theplaylist.net/james-gray-paper-tiger-new-york-marrakech-interview-20261125
@@ -843,7 +871,7 @@ CONTENT / EXTRACTED DETAILS:
 James Gray has spent much of his filmmaking career returning to New York. From the Brighton Beach streets of “ Little Odessa ,” his 1994 debut, to “ The Yards ,” “ We Own The Night ,” “ Two Lovers ,” “ The Immigrant ,” and “ Armageddon Time ,” the city has remained a constant presence in his work. It is a striking attachment for a filmmaker who has lived in Los Angeles since 2012, and whose films have also taken him into the Amazon with “ The Lost City Of Z ” and into space with Brad Pitt in “ Ad Astra ” (which he talked about more at length in this interview excerpt). Continue reading James Gray Says New York Has “Run Its Course” With His Films & Talks Finding Joy In The Tragedy Of ‘Paper Tiger’ [Interview] at The Playlist.
 
 ============================================================
-[30] 'Sunrise On The Reaping' $16M Tuesday Scores Records For Lionsgate &#038; Franchise; 'Hexed' Begins Previews - Box Office
+[31] 'Sunrise On The Reaping' $16M Tuesday Scores Records For Lionsgate &#038; Franchise; 'Hexed' Begins Previews - Box Office
 Source: Deadline | Status: expanded | Words: 142
 Published: 2026-11-25T15:46:42+00:00
 URL: https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281
@@ -859,7 +887,7 @@ As we told you last night, Lionsgate scored its best Tuesday ever at the domesti
 We're still waiting on Disney's official number for its previews on Walt Disney Animation's Hexed , but last night we were spotting $2M which is higher than Encanto ($1.5M previews, 5-day of $40.5M) and Wish ($1.8M previews including $500K Saturday sneaks; 5-day of $31.6M). No RT audience score yet, but critics were meh at 67% fresh.
 
 ============================================================
-[31] 'Clashing Through the Snow' Director Carlson Young on Going From "Horror Girly" to Holiday Rom-Com
+[32] 'Clashing Through the Snow' Director Carlson Young on Going From "Horror Girly" to Holiday Rom-Com
 Source: The Hollywood Reporter | Status: expanded | Words: 2314
 Published: 2026-11-25T15:45:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/clashing-through-the-snow-movie-director-interview-1236751763
@@ -963,7 +991,7 @@ Young is open to it but doesn't want "to chase it."
 Clashing Through the Snow is available on Prime Video.
 
 ============================================================
-[32] 'Hunger Games' Producer Admits 'Mockingjay' Should Have Been One Movie
+[33] 'Hunger Games' Producer Admits 'Mockingjay' Should Have Been One Movie
 Source: The Hollywood Reporter | Status: expanded | Words: 497
 Published: 2026-11-25T15:43:48+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-mockingjay-one-movie-1236763038
@@ -991,7 +1019,7 @@ And while the Mockingjay films were considered creatively weaker than the previo
 The new film, Sunrise on the Reaping , grossed a strong $120 million in its opening weekend, marking a rebound for the franchise after the soft launch of 2023's The Ballad of Songbirds & Snakes ($44.6 million).
 
 ============================================================
-[33] Supergirl Was Just Short Listed for An Oscar Despite Its Box Office Failure
+[34] Supergirl Was Just Short Listed for An Oscar Despite Its Box Office Failure
 Source: ComicBook.com | Status: expanded | Words: 604
 Published: 2026-11-25T15:41:00+00:00
 URL: https://comicbook.com/movies/news/supergirl-was-just-short-listed-for-an-oscar-despite-its-box-office-failure
@@ -1017,7 +1045,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Doomsday Artist Shares Multiverse-Crossing Yelena Moment That Would Have Been Amazing
+[35] Doomsday Artist Shares Multiverse-Crossing Yelena Moment That Would Have Been Amazing
 Source: ComicBook.com | Status: expanded | Words: 590
 Published: 2026-11-25T15:39:41+00:00
 URL: https://comicbook.com/movies/news/doomsday-artist-shares-multiverse-crossing-yelena-moment-that-would-have-been-amazing
@@ -1043,7 +1071,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Path of Exile 2's Critical Strike Changes Are Great, But Its Biggest Itemization Problem Remains
+[36] Path of Exile 2's Critical Strike Changes Are Great, But Its Biggest Itemization Problem Remains
 Source: ComicBook.com | Status: expanded | Words: 1004
 Published: 2026-11-25T15:30:00+00:00
 URL: https://comicbook.com/gaming/feature/path-of-exile-2s-critical-strike-changes-are-great-but-its-biggest-itemization-problem-remains
@@ -1077,7 +1105,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Thor's First Appearance Comic Is Still Valued At Over $3,000 Despite Being In The Worst Possible Condition
+[37] Thor's First Appearance Comic Is Still Valued At Over $3,000 Despite Being In The Worst Possible Condition
 Source: ComicBook.com | Status: expanded | Words: 549
 Published: 2026-11-25T15:30:00+00:00
 URL: https://comicbook.com/collectibles/news/thors-first-appearance-comic-is-still-valued-at-over-3000-despite-being-in-the-worst-possible-condition
@@ -1097,7 +1125,7 @@ Younger fans will find it hard to believe that Thor wasn't originally born in th
 Do you prefer Thor's original backstory or his Asgardian one? Let us know in the comments.
 
 ============================================================
-[37] New Shonen Jump Anime Confirms 2027 Release With First Look Trailer - Watch
+[38] New Shonen Jump Anime Confirms 2027 Release With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 580
 Published: 2026-11-25T15:28:39+00:00
 URL: https://comicbook.com/anime/news/new-shonen-jump-anime-confirms-2027-release-with-first-look-trailer-watch
@@ -1123,7 +1151,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Miley Cyrus Made A Notable Choice With Her Wedding Where Billy Ray Cyrus Was Involved
+[39] Miley Cyrus Made A Notable Choice With Her Wedding Where Billy Ray Cyrus Was Involved
 Source: CinemaBlend | Status: expanded | Words: 295
 Published: 2026-11-25T15:24:42+00:00
 URL: https://www.cinemablend.com/television/miley-cyrus-made-notable-choice-with-wedding-billy-ray-cyrus-involved
@@ -1139,7 +1167,7 @@ Cyrus’ decision to have her mom walk her down the aisle is definitely big, but
 Billy Ray Cyrus’ mere presence at the wedding represents a major milestone, given the former family drama he and Miley were entangled in. The father and daughter reportedly experienced a rift in their relationship after Billy Ray and Tish’s 2022 divorce . Also, in early 2025, Billy Ray and son Trace – whom he adopted after marrying Tish – were apparently on the outs, based on a candid letter Trace shared on social media. While Miley didn’t open up publicly about the situation, insiders claimed she was looking to distance herself from the family drama . Throughout the estrangement, Billy Ray also paid tribute to Miley and, while it allegedly took some time, the two mended fences.
 
 ============================================================
-[39] 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild"
+[40] 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild"
 Source: The Playlist | Status: summary_only | Words: 188
 Published: 2026-11-25T15:21:58+00:00
 URL: https://theplaylist.net/avengers-secret-wars-2028-slate-xmen-black-panther-3-ghost-rider-20261125
@@ -1151,7 +1179,7 @@ CONTENT / EXTRACTED DETAILS:
 Next month will see the big release of " Avengers: Doomsday ," and there are already some early teases coming from Kevin Feige about how " Avengers: Secret Wars " will have an impact and set up their 2028 lineup of movies, alongside giving fans some signals that they'll likely have clues about where the MCU is going by reading established comics. The Marvel Studios co-president went on to tell Entertainment Weekly in a recent profile for "Doomsday" that the next installment, coming out in 2027, "will very much be a launching pad for our films in 2028, the 20th anniversary of the MCU, and launching a very new era at that point." READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” Adding the source material is going to telegraph where things are going (hinting at Doom's version of Battleworld, teased in leaked concept art): "Look at the comics. Continue reading 'Avengers: Secret Wars' Is "Launching Pad" For Marvel's 2028 Slate Teases Kevin Feige: "The Imagination Gone Wild" at The Playlist.
 
 ============================================================
-[40] Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton
+[41] Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton
 Source: Variety | Status: expanded | Words: 454
 Published: 2026-11-25T15:19:45+00:00
 URL: https://variety.com/2026/tv/news/miley-cyrus-cnn-heroes-legacy-award-dolly-parton-1236957974
@@ -1177,7 +1205,7 @@ Over its 20-year history, the CNN Heroes franchise focused on "uplifting, purpos
 "The 20th Annual CNN Heroes All-Star Tribute" will air on CNN, CNN International and CNN en Espa&#xF1;ol on Saturday, Dec. 5, starting at 8 p.m. ET/PT. The broadcast also will stream live for CNN&#x2019;s All Access and pay-TV subscribers via CNN.com, CNN connected TV and mobile apps and will become available on demand beginning Sunday, Dec. 6, to CNN subscribers.
 
 ============================================================
-[41] The Ultimate Advent Calendar for Jet-Setters: Artist Laila Gohar's Chocolate-Filled Creation Is Inspired by 24 Luxury Destinations
+[42] The Ultimate Advent Calendar for Jet-Setters: Artist Laila Gohar's Chocolate-Filled Creation Is Inspired by 24 Luxury Destinations
 Source: Variety | Status: expanded | Words: 443
 Published: 2026-11-25T15:14:15+00:00
 URL: https://variety.com/2026/shopping/news/laila-gohar-luxury-advent-calendar-chocolate-travel-1236957983
@@ -1205,7 +1233,7 @@ The partnership is part of The Luxury Collection's ongoing World in Season initi
 The limited-edition Laila Gohar x The Luxury Collection advent calendar retails for $218 and is available to purchase online and at participating hotels.
 
 ============================================================
-[42] James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut &#038; Has Had Conversations With The Criterion Collection
+[43] James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut &#038; Has Had Conversations With The Criterion Collection
 Source: The Playlist | Status: summary_only | Words: 123
 Published: 2026-11-25T15:07:03+00:00
 URL: https://theplaylist.net/james-gray-ad-astra-directors-cut-criterion-20261125
@@ -1217,7 +1245,7 @@ CONTENT / EXTRACTED DETAILS:
 Seven years after the release of “ Ad Astra ,” filmmaker James Gray remains eager to revisit his ambitious science-fiction drama starring Brad Pitt . While a director’s cut has yet to materialize, Gray has had conversations with the Criterion Collection about the possibility, though financial considerations and other complications continue to stand in the way. Speaking to The Playlist at the Marrakech International Film Festival, where he was presenting his latest film, “ Paper Tiger ,” Gray said he wants to return to the 2019 space odyssey when asked whether audiences might eventually see a director’s cut. Continue reading James Gray Says He’s “Dying” To Make An ‘Ad Astra’ Director’s Cut & Has Had Conversations With The Criterion Collection at The Playlist.
 
 ============================================================
-[43] Robert Downey Jr’s Thanksgiving Doomsday Art Just Teased Wanda’s Role in Avengers 5
+[44] Robert Downey Jr’s Thanksgiving Doomsday Art Just Teased Wanda’s Role in Avengers 5
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-25T15:06:52+00:00
 URL: https://comicbook.com/movies/news/robert-downey-jrs-thanksgiving-doomsday-art-just-teased-wandas-role-in-avengers-5
@@ -1243,7 +1271,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Mario Kart World Update Adds 8 New Tracks and Other Big Upgrades, Full Patch Notes Revealed
+[45] Mario Kart World Update Adds 8 New Tracks and Other Big Upgrades, Full Patch Notes Revealed
 Source: ComicBook.com | Status: expanded | Words: 355
 Published: 2026-11-25T15:02:28+00:00
 URL: https://comicbook.com/gaming/news/mkw-mario-kart-world-update-nintendo-switch-2-patch-notes-november-2026
@@ -1265,7 +1293,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Russell Brand Rape Conviction Sees Spike in Whistleblowing Reports to U.K. Harassment Watchdog CIISA
+[46] Russell Brand Rape Conviction Sees Spike in Whistleblowing Reports to U.K. Harassment Watchdog CIISA
 Source: Variety | Status: expanded | Words: 459
 Published: 2026-11-25T15:02:02+00:00
 URL: https://variety.com/2026/tv/global/russell-brand-ciisa-reports-spike-1236957913
@@ -1295,7 +1323,7 @@ The event marked the official launch of CIISA&#x2019;s register, which displays 
 &#x201C;We thank the organisations who have already pledged their support for this important work and we will continue to work alongside industry and Government to ensure that CIISA is adequately resourced to offer a safe, confidential route for people to seek independent advice and report concerns, and to embed the consistent cross-sector standards that will drive lasting change.&#x201D;
 
 ============================================================
-[46] Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director
+[47] Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director
 Source: The Hollywood Reporter | Status: expanded | Words: 316
 Published: 2026-11-25T15:00:29+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033
@@ -1317,7 +1345,7 @@ And Kuzmyk introduced at Banff the Country of Honor program, which hosted delega
 &#x201C;Under her (Kuzmyk) watch, she has elevated these iconic brands with a consummate blend of strategic leadership and innovation. Building on this exceptional foundation, Banff 2027 is poised for growth under the stewardship of our remarkably talented and dedicated team. We are deeply grateful for Jenn&#x2019;s contributions and wish her every success in her next chapter,&#x201D; Russell Goldstein, president and CEO of parent Brunico Communications said in a statement on Wednesday.
 
 ============================================================
-[47] Ben Affleck Negotiates With a Duck as Artists Equity Kicks Off Thanksgiving Campaign for Aflac
+[48] Ben Affleck Negotiates With a Duck as Artists Equity Kicks Off Thanksgiving Campaign for Aflac
 Source: The Hollywood Reporter | Status: expanded | Words: 299
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/ben-affleck-aflac-duck-artists-equity-thanksgiving-ad-1236762294
@@ -1337,7 +1365,7 @@ Affleck himself frequently directs commercial spots from Artists Equity
 &#x201C;Sure, it's funny to have Ben Affleck translating for the Aflac Duck. But the idea is rooted in a simple truth,&#x201D; said Aflac senior VPand CMO Garth Knutson. &#x201C;Every year, millions of Americans turn to Aflac agents and HR professionals to help them understand their benefits and make informed decisions about their coverage. In this commercial, Ben does it for 60 seconds. They do it every day.&#x201D; "As we explored the bond forming between the Aflac Duck and the Affleck Human, it became clear we needed to show audiences that Ben was gaining a deeper understanding of Aflac and its brand icon," added Brandon Pierce, co-president and ECD of Artists Equity Brand Studio. "And what better way to prove it than through a high-stakes negotiation where Ben could simply and boldly declare, 'I speak Aflac.&#x2019;"
 
 ============================================================
-[48] Mindy Kaling Will Be Honored With The Hollywood Reporter's Equity in Entertainment Award at Women in Entertainment Gala
+[49] Mindy Kaling Will Be Honored With The Hollywood Reporter's Equity in Entertainment Award at Women in Entertainment Gala
 Source: The Hollywood Reporter | Status: expanded | Words: 1706
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/mindy-kaling-hollywood-reporter-equity-entertainment-award-1236762197
@@ -1387,7 +1415,7 @@ The news comes on the heels of THR&#x2019;s Daytime Emmys win last month. THR&#x
 Also in 2026, THR took home a record 20 SoCal Journalism Awards, including best magazine, best website and best podcast &#x2014; more wins than any other media outlet. It earned a record 96 nominations at the National Arts & Entertainment Journalism Awards, outpacing any other press organization, after winning 50 top honors in 2025. Other accolades include an American Society of Magazine Editors award for best cover and the 2026 Webby People&#x2019;s Voice Award for best entertainment website.
 
 ============================================================
-[49] Gotham Film &#038; Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)
+[50] Gotham Film &#038; Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 1347
 Published: 2026-11-25T15:00:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/2026-gotham-film-media-institute-focus-student-short-films-1236762790
@@ -1445,100 +1473,4 @@ Her Wedding Director: Qinting Wang (Columbia)
 Bio: Qinting Wang is a writer-director and producer whose creative work spans China and the United States. She holds an MFA in film from Columbia University School of the Arts. Her short film Her Wedding was selected for the 2026 American Pavilion Emerging Filmmaker Showcase at Cannes. Her earlier film The Weak was selected for the China New Talents program at Interfilm Berlin. She also produced Delay , which won the Sonje Award for Best Asian Short Film at the 2025 Busan International Film Festival. Her films explore intimate human relationships and the social expectations that shape them, often through the perspectives of women.
 
 Logline: On the day of her arranged marriage, a bride reclaims the ceremony meant to contain her.
-
-============================================================
-[50] Netflix As The New Cable: From Friend To Foe To Friend Again, How Streamer Became Go-To Source Of Off-Network Revenue &#038; Tune-In Promotion
-Source: Deadline | Status: expanded | Words: 2485
-Published: 2026-11-25T15:00:00+00:00
-URL: https://deadline.com/2026/11/netflix-streaming-licensing-off-network-revenue-promotion-1237213705
-------------------------------------------------------------
-SUMMARY:
-Initially welcomed by legacy media companies as an additional revenue stream for library content to offset the declines in DVD sales, third-party streamers, particularly Netflix, have evolved into a replacement for the depressed off-network syndication business and a viable promotional platform to drum up interest for new season launches on broadcast — and beyond. The […]
-
-CONTENT / EXTRACTED DETAILS:
-Initially welcomed by legacy media companies as an additional revenue stream for library content to offset the declines in DVD sales, third-party streamers, particularly Netflix , have evolved into a replacement for the depressed off-network syndication business and a viable promotional platform to drum up interest for new season launches on broadcast — and beyond.
-
-The latest example is the major film and TV licensing deal Netflix recently made with Disney. It includes multi-year agreements for drama Will Trent and comedy Shifting Gears , whose existing seasons are launching on the streamer weeks ahead of their upcoming season premieres on ABC. The latter debuted on Netflix earlier this month and is projected to crack the Nielsen Top 10 when the next ranking is released. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News UK Actors Union Equity To Kickstart Negotiations With Streamers Early Next Year Sports NFL Thanksgiving Week Football Schedule: How To Watch & Livestream All Games
-
-Disney has first-hand experience how a streaming window on Netflix can help a broadcast series via its pioneering at the time pact for ABC drama Grey's Anatomy, which made its debut on the platform in 2015 . Making previous seasons available on the streamer has recruited a new generation of fans for the medical drama, extending the series' life on ABC where it is currently airing its 23rd season. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-The breakthrough came four years prior when the success of AMC's Breaking Bad on Netflix helped the series avoid cancellation and become an award-winning hit for the cable network, prompting creator Vince Gilligan to give the streamer credit for keeping Breaking Bad on the air following the first of two Outstanding Drama Series Emmy wins in 2013.
-
-Soon, there was a name for that — "the Riverdale phenomenon" — after the 2017 CW series which delivered OK, not spectacular ratings during its first season on the network before exploding on Netflix over the summer, leading to a ratings surge for the following season on the CW that fall.
-
-"After that, everyone was like, 'Oh, I want my show on Netflix because then everyone will watch it,'" one industry veteran recalled.
-
-Still, Netflix's output with the CW that Riverdale was part of notwithstanding, major library streaming pacts for on-air broadcast/basic cable series made after their first season were not that common, with NBC's The Blacklist and Blindspot , Fox's New Girl , Gotham and Lucifer and TNT's Animal Kingdom as notable examples, all selling in competitive situations. (Of the six, The Blacklist, New Girl and Gotham went to Netflix, Blindspot and Lucifer were acquired by Hulu before Lucifer became a Netflix original, Animal Kingdom by Prime Video.) blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
-
-NBC's Good Girls was another streaming success story on Netflix. Licensed under an old co-production model Netflix employed in the late 2010s, its first season made its debut on Netflix in the U.S. on Jan. 1, 2019, just two months before the Season 2 launch on NBC. The series' success on Netflix and the generous fees coming from the streamer helped keep Good Girls on the air for four seasons despite declining linear ratings.
-
-While lucrative for the studios, such third-party licensing agreements largely dried up when legacy media companies started launching their own streamers in 2019-20 and initially kept virtually of their series in a walled garden. That has gradually changed, with Netflix carrying more current ABC, NBC, CBS and Fox series than ever. (While Netflix has been dominating the field, there are rare exceptions with other third-party streamers, like CBS' Ghosts being available on Prime Video.)
-
-What has evolved from the early-days exclusive SVOD pacts is that third-party deals now are largely not exclusive: the broadcast series are available on their sibling streamers which have both in-season (next day) and out-of-season (previous seasons) rights, while Netflix and other third-party streamers get the shows out-of-season, launching a season after it has finished its broadcast run.
-
-That is in line with how syndication worked, though the streamer is getting new broadcast series much faster than the traditional model where shows had to make it to four seasons and 100 episodes to launch in syndication, first on local broadcast stations and then on cable.
-
-"Then cable and local markets collapsed on top of each other, and eventually streaming essentially took the place of this syndication window. But not after four years, after one year," one industry veteran said.
-
-Network series are now commonly sold to third-party platforms after their first season for an SVOD window that has two main entry points: a season dropping on the streamer 30 days after the season finale had been released, which shows such as Grey's Anatomy and the the CW's Sullivan's Crossing adhere to on Netflix, or at the start of the next broadcast season.
-
-The latter was the case with New Girl and The Blacklist and is currently in play with NBC comedies Happy's Place and St. Denis Medical as well as Fox drama Doc , all on Netflix. In many cases, the fall entry point has evolved into a streaming season launch 30 or so days prior to the start of the next season on broadcast, providing an opportunity for people to get back into a show by catching up and reengaging.
-
-That makes for strategic deployments like this fall's Netflix premieres of ABC's Will Trent and Shifting Gears timed to the next seasons' debut on broadcast with a strong promotional purpose. ( Will Trent dropped on Netflix two months ahead of the series' return on ABC, for Shifting Gears , the lead-in is about 30 days.)
-
-Fox's Best Medicine and Animal Control — both owned by the network — also launch their previous season on Netflix a month ahead of the new seasons debuting on Fox.
-
-Meanwhile, CBS' Fire Country is adding a wrinkle by going back an extra season. Its first season released on Netflix about two months ahead of its Season 3 premiere on CBS in 2024, and Season 2 made its Netflix debut about two months ahead of Season 4 debut on CBS in 2025. Interestingly, Fire Country 's presence on Netflix has been limited to these two seasons, with newer seasons only available on CBS sibling Paramount+. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid2' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-One of the earliest examples of such use of Netflix after the broadcast networks already had streamers in the corporate family was a one-year non-exclusive licensing deal CBS Studios made in September 2020 to put the first seasons of drama Evil and comedy The Unicorn on Netflix ahead of the premiere of their second seasons on CBS.
-
-The stunt didn't help the Walton Goggins comedy, which was canceled by after two seasons. (The same happened to NBC's The Hunting Party despite a strong Season 1 launch on Netflix a little over a month into The Hunting Party 's second season on NBC.)
-
-Meanwhile, Evil 's strong sampling on Netflix helped inform the decision to move the supernatural drama from CBS to Paramount+. The series' streaming performance also likely factored into the initial one-year non-exclusive licensing deal with Netflix getting extended to five years and the show's first three seasons.
-
-The way streaming launches are plotted by series' owners is in line with the function basic cable served in its heyday for shows sold in off-network syndication whose latest season would become available on cable in September, just before the next season starts airing on broadcast.
-
-To further promote a series' return on broadcast, shows used to do marathons on cable. What is a TV marathon's equivalent in the streaming era? Binging — or dropping the entire previous season on a platform like Netflix ahead of the new one's network premiere.
-
-Exposure is great but it doesn't pay the bills — at least not directly — so the proliferation of Netflix licensing deals has been fueled by other motives too as networks and studios grapple with declines in linear ratings and the ad revenue attached to them.
-
-"There is enhanced promotion, but also economics are driving these things," one industry insider said. "Studios are carrying deficits on these shows, they need to find revenue, so because because the four-year syndication window really is not there anymore, they have to find revenue."
-
-For studios, the latter sometimes takes precedent. "From our standpoint, we're going to look at the money first, and then the marketing aspect second," one studio executive said.
-
-The decisions are made with many factors in mind, including profit participants who get a portion of off-network revenue.
-
-Talent agents who represent creatives have been lamenting the demise of the off-network syndication model, claiming that the money from streaming deals doesn't come close to the syndication windfall in covering shows' deficits and paying profit participants, with proceeds also down from the early days of the streaming wars when Netflix was paying premium for (predominantly exclusive) SVOD rights.
-
-Studio executives argue that money is still there for the taking, but instead of one syndication revenue stream, there are multiple steaming ones as the era of large audiences watching network shows in syndication five days a week is gone. Now viewership is fractured, and so are streaming deals, non-exclusive over a myriad of platforms.
-
-"Our business is not just streaming to the big ones, Netflix and Amazon; it's also AVOD, it's Roku and Tubi. There's multiple ways you can now make money, which is great," one TV executive said. "In the aggregate for individual shows probably will rarely get close to what a show could have made in its peak syndication days, so agents probably see that more than we do because they're focusing on the individual performance of one show in its U.S. life cycle." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid3' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-Exactly six years after the Riverdale phenomenon, in the summer of 2023, we had the Suits phenomenon when an old USA Network series became the biggest show in America, breaking a slew of streaming ratings records and amassing eye-popping 57.7 billion minutes watched for the year despite only launching on Netflix U.S. in June.
-
-It showed that cable series, once thought to be of no off-network syndication value, can draw big numbers when exposed to a new, wide audience on streaming.
-
-That carried over to pay cable too, with Starz's biggest series, Outlander and Power, and Showtime's signature shows Dexter, Homeland, Shameless and Yellowjackets finding their way to Netflix, many of the deals driven by the series' producing studios.
-
-With the dire state of the linear TV business, for basic cable networks that want to stay in the original scripted programming — and some pay cable ones too — a syndication-type deal with a major streamer is a do-or-die, a crucial revenue stream that allows them to afford scripted series.
-
-That explains the big new $500 million licensing deal AMC recently made with Netflix for the entire The Walking Dead universe. Ever since Breaking Bad 's Netflix breakthrough, AMC has been licensing its biggest originals to the streamer, including The Walking Dead mothership for almost 15 years and Anne Rice's Immortal Universe, the newer ones shared with its own platform AMC+.
-
-Meanwhile, Disney's FX is essentially a streaming brand on Hulu, delivering some of the platform's biggest hits, like American Horror Story, Love Story: John F. Kennedy Jr. & Carolyn Bessette, Sh&#x14D;gun , and The Bear .
-
-In January, Netflix announced a deal with Paramount for 20 series, which, surprisingly, included a Taylor Sheridan Paramount+ original, Mayor of Kingstown .
-
-HBO had previously licensed some of its originals to Netflix years after they had ended their run, including Sex and the City, Band of Brothers and Six Feet Under, with marquee series such as The Sopranos and Game of Thrones off limits. In contrast, Mayor of Kingstown is a current original on a rival streamer, part of Paramount+'s treasured Taylorverse. The other titles in the package are largely former CBS series, along with Matlock , licensed to Netflix only internationally.
-
-I hear Mayor of Kingstown was a late addition as Netflix was not willing to take the other titles without it. I hear the Mayor of Kingstown producers leveraged the series' inclusion to get an extra season as Paramount+ had planned to end the show after Season 4. A renewal for an abbreviated fifth and final season was announced just days before the Netflix licensing deal, which includes the first four seasons of Mayor of Kingstown , was unveiled.
-
-In May, David Ellison, then-CEO of Paramount, now co-CEO of Skydance, told Wall Street analysts that the company will continue to license select programming to third parties &#x201C;for the foreseeable future.&#x201D;
-
-Amazon similarly made a Netflix deal for the first three seasons of MGM+'s acclaimed but not widely known sci-fi horror drama From, which has released four seasons and has been renewed for a fifth and final season. It has turned into a Suits/Riverdale -style phenomenon, amassing more than 5 billion minutes viewed in the U.S. in its first three weeks. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-articleX-uid4' ) .setTargeting( 'pos', ["mid-articleX","mid-article","btf","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,366]]) .exemptFromSleep() ; });
-
-As part of its Netflix licensing deal, Disney took a step further by lending a top Disney+ original series in its prime, Percy Jackson and the Olympians , for an unprecedented short, three-month window, along with the Ice Age movie franchise. The stunt is timed to the release of the new season of Percy Jackson on Disney+ on Nov. 20 and the new Ice Age movie, Boiling Point, on Feb. 5, 2027.
-
-Touting the mutual benefits of the deal for Disney and Netflix, the latter's co-CEO Ted Sarandos joked about plugging rival Disney's Ice Age: Boiling Point on the streamer's earnings call last month, name-checking his Disney counterpart Josh D'Amaro by quipping, "You're welcome, Josh."
-
-"We expect to have opportunities throughout for the best series and the best films with all the suppliers," Sarandos said about the Netflix licensing strategy. "It's a little complicated because all of our suppliers are also our competitors. Our deals bring in much needed revenue. They certainly build awareness, and the benefit of that awareness transfers back to them because it helps grow the value of their IP. So these deals really are win-win."
 
