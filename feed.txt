@@ -1,9 +1,59 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T21:34:13.806Z
+Last Updated: 2026-11-25T21:40:16.379Z
 Website: https://tapseen.com
 
 ============================================================
-[1] The Lord of the Rings: The Hunt for Gollum Wraps Filming &#038; Reveals a Hilarious New Set Video
+[1] Tony Romo, After Parting Ways With CBS, Named 'Chief Predictions Officer' of Jake Paul's Betr Betting App
+Source: Variety | Status: expanded | Words: 380
+Published: 2026-11-25T21:39:30+00:00
+URL: https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444
+------------------------------------------------------------
+SUMMARY:
+Former NFL quarterback and football analyst Tony Romo has landed his next gig: He's joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever "chief predictions officer." In the new role, Romo will serve as "a prominent face of the Betr brand," appearing in original content, delivering sports predictions and engaging with […]
+
+CONTENT / EXTRACTED DETAILS:
+Former NFL quarterback and football analyst Tony Romo has landed his next gig: He's joined Betr , the sports gambling app co-founded by Jake Paul, as its first-ever "chief predictions officer."
+
+In the new role, Romo will serve as "a prominent face of the Betr brand," appearing in original content, delivering sports predictions and engaging with fans across the company's gaming products, including Picks, Predictions, Social Sportsbook, Social Casino, Arcade and Rips. As part of the agreement, Romo will become an equity stakeholder in Betr. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Danny DeVito-Produced SXSW Heist Comedy 'Drag' Scores Wave of International Sales Out of AFM (EXCLUSIVE) Vatican-Produced Doc 'Green Lava' Drops Trailer Featuring Justin Bieber's 'Everything Hallelujah' (EXCLUSIVE)
+
+Romo, former QB for the Dallas Cowboys, had been an on-air analyst with CBS Sports since 2017. Last month, the network announced it was parting ways with Romo . That came after Romo had pleaded no contest to a charge of operating while intoxicated stemming from an incident that took place in Milwaukee in July .
+
+Romo said: "I've spent my entire career trying to anticipate what's going to happen next, whether that was on the field or in the broadcast booth. Now I get to put those instincts to work in a completely new way with Betr." He added, "I'm looking forward to having some fun, making predictions and being part of where this company is headed. And I've got a pretty good feeling about what's coming next."
+
+"Tony Romo has built an extraordinary reputation around something that sits at the very heart of our business: predictions," Joey Levy, founder and CEO of Betr, said in a statement. "His ability to see what's coming before anyone else has made him one of the most compelling personalities in sports, and we see a tremendous opportunity to bring that talent and personality to our growing ecosystem." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Romo joins Betr's roster of sports and entertainment talent partners, including NBA veteran Patrick Beverley, former Heisman Trophy winner Johnny Manziel and actors Jeremy Piven and Adrian Grenier .
+
+============================================================
+[2] 'Dancing With The Stars' Season 35 Finale Scores Series' Best Performance Among Young Adults In 15 Years
+Source: Deadline | Status: expanded | Words: 430
+Published: 2026-11-25T21:38:36+00:00
+URL: https://deadline.com/2026/11/dancing-with-the-stars-season-35-finale-viewership-ratings-1237233628
+------------------------------------------------------------
+SUMMARY:
+Dancing with the Stars wrapped its 35th season with another ratings win. The finale scored 9.2 million total live + same-day viewers across ABC and Disney+, according to early Nielsen data, making it the most-watched episode of the season. It was on par with last year's finale, when Witney Carson and Robert Irwin took home […]
+
+CONTENT / EXTRACTED DETAILS:
+Dancing with the Stars wrapped its 35th season with another ratings win.
+
+The finale scored 9.2 million total live + same-day viewers across ABC and Disney+, according to early Nielsen data, making it the most-watched episode of the season.
+
+It was on par with last year's finale, when Witney Carson and Robert Irwin took home the mirrorball, in terms of total viewers. However, since this is preliminary data, the final number is expected to go up.
+
+Impressively, the episode, during which Daniella Karagach and Ezra Frech were crowned the champs of Season 35, saw a hefty surge in interest from adults 18-49, rising 11% over the week prior to a 2.38 rating, per Nielsen. That is the best rating in that demo the show has managed in 12 years &#x2014; since Carson and her partner-turned-host Alfonso Ribeiro won the trophy. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News 'Dancing With The Stars' Finale Recap: Who Takes Home The Len Goodman Mirrorball Trophy? Cancellations and Renewals 'Dancing With The Stars: The Next Pro' Renewed For Season 2 At ABC & Prepares To Move Filming To LA
+
+The ratings were driven by an influx of young viewers to the series, as illustrated by the fact that the episode put up a 2.86 rating among adults 18-34. That is its strongest performance in the younger adult demo in 15 years, since the Season 12 finale. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The episode over indexed among women 18-34, delivering the top series telecast in that demo in more than a decade with a 4.46 rating.
+
+The Dancing with the Stars Season 35 finale is the top entertainment telecast in the 18-49 demo since ABC's presentation of the Oscars earlier this year. Nielsen data shows it's also the highest-rated regularly scheduled entertainment telecast in the key demo in over six years.
+
+For the third consecutive season, Dancing with the Stars takes the cake as the No. 1 entertainment series among adults 18-49.
+
+Tuesday night's finale was one for the history books as Frech became not only the youngest winner ever on DWTS (eking past Irwin by just a few months) but also the first amputee and the first Paralympian to take the crown.
+
+============================================================
+[3] The Lord of the Rings: The Hunt for Gollum Wraps Filming &#038; Reveals a Hilarious New Set Video
 Source: ComicBook.com | Status: expanded | Words: 561
 Published: 2026-11-25T21:32:38+00:00
 URL: https://comicbook.com/movies/news/the-lord-of-the-rings-the-hunt-for-gollum-wraps-filming-reveals-a-hilarious-new-set-video
@@ -33,7 +83,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] 'Dancing With the Stars' Season 35 Finale Attracts 9.2 Million Viewers
+[4] 'Dancing With the Stars' Season 35 Finale Attracts 9.2 Million Viewers
 Source: Variety | Status: expanded | Words: 686
 Published: 2026-11-25T21:30:00+00:00
 URL: https://variety.com/2026/tv/news/dancing-with-the-stars-season-35-finale-ratings-1236958264
@@ -67,7 +117,7 @@ The three-hour event included an instant dance challenge, where the couples were
 Season to date, "Dancing With the Stars&#x201D; is primetime&#x2019;s No. 1 entertainment series in adults 18-49 (1.59 rating in live+same day) for the third year in a row. It&#x2019;s 86% above the No. 2 show, CBS&#x2019; &#x201C;Survivor&#x201D; (0.86), which ABC said is the largest advantage in Nielsen electronic measurement history.
 
 ============================================================
-[3] New 'Rocky' Book Celebrates 50th Anniversary With Rare and Never-Seen-Before Paintings
+[5] New 'Rocky' Book Celebrates 50th Anniversary With Rare and Never-Seen-Before Paintings
 Source: Variety | Status: expanded | Words: 634
 Published: 2026-11-25T21:25:32+00:00
 URL: https://variety.com/2026/film/news/rocky-book-50th-anniversary-1236958344
@@ -103,7 +153,7 @@ Another meaningful work of art is &#x201C;The Chosen One.&#x201D; Rivoli reveals
 This richly illustrated volume reimagines Rocky as an immersive artistic celebration, bringing moments from screen to canvas, which invites fans to experience the iconic character in a bold new light across his 50-year legacy.
 
 ============================================================
-[4] Andy Taylor, Duran Duran Guitarist, Dies at 65
+[6] Andy Taylor, Duran Duran Guitarist, Dies at 65
 Source: Variety | Status: expanded | Words: 1484
 Published: 2026-11-25T21:24:39+00:00
 URL: https://variety.com/2026/music/news/andy-taylor-dead-duran-duran-guitarist-1236958437
@@ -155,7 +205,7 @@ He was born Feb. 16, 1961, in Tynemouth, Northumberland, and raised nearby Culle
 He is survived by wife Tracey and his children Andrew, Isabelle, Bethany and Georgina.
 
 ============================================================
-[5] Thanksgiving Indie Preview: 'Cliff Booth' &#038; 'All Of A Sudden' Aim For A Holiday Feast
+[7] Thanksgiving Indie Preview: 'Cliff Booth' &#038; 'All Of A Sudden' Aim For A Holiday Feast
 Source: Deadline | Status: expanded | Words: 976
 Published: 2026-11-25T21:15:00+00:00
 URL: https://deadline.com/2026/11/indie-films-opening-thanksgiving-the-further-mis-adventures-of-cliff-booth-1237233498
@@ -201,7 +251,7 @@ Netflix starts week-long qualifying runs for Ava DuVernay documentary 14 th and 
 In Waves is an animated romantic surfing tearjerker by Phuong Mai Nguyen, adapted from AJ Dungo's autobiographical graphic memoir. The voice cast is is led b Will Sharpe and Stephanie Hsu. Premiered at Annecy, Deadline review here.
 
 ============================================================
-[6] ‘Steven Universe’ Star Zyri Comes Out as Trans
+[8] ‘Steven Universe’ Star Zyri Comes Out as Trans
 Source: Variety | Status: expanded | Words: 666
 Published: 2026-11-25T21:12:35+00:00
 URL: https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383
@@ -219,7 +269,7 @@ Zyri voiced Steven Universe and several other characters on the Cartoon Network 
 "As for the future, my hope is that not too much changes in my daily life going forward," Zyri wrote. "I do genuinely love and miss performing and creating, though it&#x2019;s only very recently that I&#x2019;ve felt well enough to wade back into it. I recognize that my job often requires some degree of public visibility, but for the foreseeable future I intend to only engage in that when it&#x2019;s necessary, rather than proactively. I do place an extremely high value on privacy these days, and while there will always be some blurring of the lines between personal and professional life, I&#x2019;m very happy to have actually separated the two for the first time and I don&#x2019;t wish to give that up again. Being a child performer has a way of capturing your psychological development and splicing those two pieces together until they&#x2019;re simply the same thing; everything I&#x2019;ve written about overcoming here could be summed up as the process of carefully untangling them from each other until they&#x2019;re the way they ought to be."
 
 ============================================================
-[7] Macy's Thanksgiving Day Parade Postponed as Storm Descends on Northeast
+[9] Macy's Thanksgiving Day Parade Postponed as Storm Descends on Northeast
 Source: The Hollywood Reporter | Status: expanded | Words: 154
 Published: 2026-11-25T21:10:38+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/2026-macys-thanksgiving-day-parade-postponed-nbc-saturday-1236763428
@@ -237,7 +287,7 @@ It's also a major headache for the broadcast partner NBC , with last year's para
 The parade has never been canceled in its 100 years, though some of the iconic giant balloons have been grounded when there have been high winds. This year's postponement is also a first. New York City officials and Macy's executives are expected to address the postponement later on Wednesday. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[8] With HBO Series 'Scams for a Better Tomorrow,' Oobah Butler Has a Language for Your Frustration
+[10] With HBO Series 'Scams for a Better Tomorrow,' Oobah Butler Has a Language for Your Frustration
 Source: The Hollywood Reporter | Status: expanded | Words: 1228
 Published: 2026-11-25T21:06:35+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-features/oobah-butler-scams-for-a-better-tomorrow-hbo-max-vice-1236763316
@@ -269,7 +319,7 @@ With such heights of disruptive newsmaking reached in his first season, what can
 "I'm trying to entertain and to provide people with a language to make themselves feel less fucking insane," he says. "I think we know the world feels rigged in a certain way, and I think it's good to lay that out on the table. I'm constantly learning that you can't trust the systems to protect you, which is a little, little sad. At the very base level, [I want to] give people a language for their frustrations."
 
 ============================================================
-[9] Tony Romo Lands Post-CBS Gig With Betting App Betr as "Chief Predictions Officer" (Exclusive)
+[11] Tony Romo Lands Post-CBS Gig With Betting App Betr as "Chief Predictions Officer" (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 477
 Published: 2026-11-25T21:06:14+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163
@@ -293,7 +343,7 @@ Romo, the longtime lead analyst for CBS Sports, exited the network last month af
 His exit came amid a tumultuous year for NFL TV teams in general, with ESPN's booth in the spotlight amid a bitter and public feud between Joe Buck and Troy Aikman, Fox's Greg Olsen starting to look for a new TV home, and networks coveting NFL names like Travis Kelce and Sean McVay.
 
 ============================================================
-[10] Robert Pattinson Is About to Get His Own James Bond Weapon, but You Don't Need to Be 007 to Get Your Hands on One, Too
+[12] Robert Pattinson Is About to Get His Own James Bond Weapon, but You Don't Need to Be 007 to Get Your Hands on One, Too
 Source: ComicBook.com | Status: expanded | Words: 636
 Published: 2026-11-25T21:05:00+00:00
 URL: https://comicbook.com/collectibles/news/robert-pattinson-is-about-to-get-his-own-james-bond-weapon-but-you-dont-need-to-be-007-to-get-your-hands-on-one-too
@@ -313,7 +363,7 @@ In the meantime, every Bond fan has their favorite version of the character, fro
 What are your thoughts on the new James Bond casting? Let us know in the comments.
 
 ============================================================
-[11] Macy’s Thanksgiving Day Parade Postponed to Saturday Due to Storm
+[13] Macy’s Thanksgiving Day Parade Postponed to Saturday Due to Storm
 Source: Variety | Status: expanded | Words: 439
 Published: 2026-11-25T21:03:27+00:00
 URL: https://variety.com/2026/tv/news/macys-thanksgiving-day-parade-postponed-saturday-storm-1236957468
@@ -337,7 +387,7 @@ Float performances from Natasha Bedingfield, McKenna Grace, Jimmy Fallon & The R
 &#x201C;Macy&#x2019;s Thanksgiving Day Parade brings the extraordinary together: iconic entertainers and emerging talent, artistry and imagination, hometown pride, cherished traditions and the thrill of discovering something new,&#x201D; said Sharon Otterman, Macy&#x2019;s chief marketing officer. &#x201C;For our 100th Parade, we&#x2019;re creating a celebration of unprecedented scale and will deliver an unforgettable Thanksgiving for millions across the country.&#x201D;
 
 ============================================================
-[12] Will Ferrell Comedy 'The Hawk' Canceled By Netflix After One Season
+[14] Will Ferrell Comedy 'The Hawk' Canceled By Netflix After One Season
 Source: Deadline | Status: expanded | Words: 546
 Published: 2026-11-25T21:00:00+00:00
 URL: https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347
@@ -367,7 +417,7 @@ In the series, Ferrell reunited with former SNL co-star Molly Shannon who played
 Ferrell, Jessica Elbaum and Alix Taylor executive produced for Gloria Sanchez Productions. Rian Johnson, Ram Bergman and Nena Rodrigue were executive producers for T-Street. Henchy, Steele, David Gordon Green and Andrew Guest also executive produced.
 
 ============================================================
-[13] Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims
+[15] Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims
 Source: The Hollywood Reporter | Status: expanded | Words: 823
 Published: 2026-11-25T21:00:00+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219
@@ -405,7 +455,7 @@ The FBI investigated the 2016 altercation but declined to press charges. A redac
 Pitt was represented by John Berlinksi and Julia Cherlow, partners at Bird Marella, while Jolie was represented by Paul Murphy and Daniel Csillag. Alejandro Brito, who handles media lawsuit for President Trump, represents Shefler.
 
 ============================================================
-[14] ‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’
+[16] ‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’
 Source: Variety | Status: expanded | Words: 1527
 Published: 2026-11-25T21:00:00+00:00
 URL: https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739
@@ -457,7 +507,7 @@ Ramos wrapped the conversation by humorously stating he would bring a &#x201C;co
 &#x201C;Gugu&#x2019;s World&#x201D; goes against the grain in this sense, according to the veteran performer. &#x201C;This film struggled to find partners and financiers for a long time,&#x201D; he went on. &#x201C;So let&#x2019;s take the opportunity to get people to consider the current state of filmmaking, watch this film and go back to respecting the storyteller, which I think is an important message, because otherwise we get a lot of tepid or similar movies.&#x201D;
 
 ============================================================
-[15] 'Focker In-Law' Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel
+[17] 'Focker In-Law' Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel
 Source: Variety | Status: expanded | Words: 1723
 Published: 2026-11-25T21:00:00+00:00
 URL: https://variety.com/2026/film/features/focker-in-law-director-ariana-grande-casting-next-sequel-1236953332
@@ -511,7 +561,7 @@ As far as making the movie, it wasn't that different. Universal gave us so much 
 This interview has been edited and condensed.
 
 ============================================================
-[16] Macy's Thanksgiving Day Parade Postponed To Saturday Due To Severe Weather; NBC Will Rerun 2025 Parade On Thursday
+[18] Macy's Thanksgiving Day Parade Postponed To Saturday Due To Severe Weather; NBC Will Rerun 2025 Parade On Thursday
 Source: Deadline | Status: expanded | Words: 67
 Published: 2026-11-25T20:56:47+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-day-parade-postponed-1237233595
@@ -531,7 +581,7 @@ Comments On Deadline Hollywood are monitored. So don't go off topic, don't imper
 &#916; document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
 ============================================================
-[17] The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers &#038; Cinephiles
+[19] The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers &#038; Cinephiles
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-25T20:55:51+00:00
 URL: https://theplaylist.net/holiday-gift-guide-best-gifts-movie-lovers-cinephiles-20261125
@@ -543,7 +593,7 @@ CONTENT / EXTRACTED DETAILS:
 It’s Holiday gift guide time! Physical media was supposed to be dying, but somebody forgot to tell the boutique labels, restoration specialists, and obsessive collectors who keep finding reasons to buy another edition of a movie they already own. And 2026 has been particularly generous to anyone whose shelves are already threatening to collapse under the weight of all those movie box sets. This year brings an enormous Stanley Kubrick retrospective, long-awaited 4K restorations, newly assembled filmmaker collections, and enough lavishly illustrated cinema books to make a coffee table buckle. Continue reading The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers & Cinephiles at The Playlist.
 
 ============================================================
-[18] Aaron Rodgers Released By NFL's Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching
+[20] Aaron Rodgers Released By NFL's Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching
 Source: Deadline | Status: expanded | Words: 520
 Published: 2026-11-25T20:55:31+00:00
 URL: https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574
@@ -579,7 +629,7 @@ Rodgers signed with the Steelers this season as a swan song and was planning to 
 Watch Aaron Rodgers' full interview in the video below.
 
 ============================================================
-[19] Gwyneth Paltrow Is Amazing In Marty Supreme, But She Didn’t Know If Hollywood Would Want Her Back
+[21] Gwyneth Paltrow Is Amazing In Marty Supreme, But She Didn’t Know If Hollywood Would Want Her Back
 Source: CinemaBlend | Status: expanded | Words: 221
 Published: 2026-11-25T20:53:09+00:00
 URL: https://www.cinemablend.com/movies/gwyneth-paltrow-talks-marty-supreme-uncertainties-about-hollywood-wanting-her-back
@@ -597,7 +647,7 @@ Marty Supreme turned out to be a really smart choice for the former Glee star to
 When it came to generating buzz for the Timothée Chalamet starrer, the PR blitz included a massive orange blimp touring across the U.S., fans camping out for the viral Marty jackets , and even the Las Vegas Sphere being turned into a giant ping pong.
 
 ============================================================
-[20] BÉIS' Black Friday Sale Drops Up to 50% Off Bags and Suitcases From Shay Mitchell's Star-Loved Luggage Line
+[22] BÉIS' Black Friday Sale Drops Up to 50% Off Bags and Suitcases From Shay Mitchell's Star-Loved Luggage Line
 Source: The Hollywood Reporter | Status: expanded | Words: 213
 Published: 2026-11-25T20:49:30+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/beis-black-friday-sale-2026-best-luggage-deals-discounts-1236763253
@@ -617,7 +667,7 @@ B&#xC9;IS was founded by Mitchell in 2018 after she says she saw a "gaping white
 The company has since grown to be one of the most popular and well-respected brands in the luggage space, while also being among the most profitable, with reports pegging revenue at upwards of $200 million .
 
 ============================================================
-[21] Breaking Baz: 'Bunker' Writer-Director Florian Zeller Takes Us Behind The Scenes With Penélope Cruz, Javier Bardem, Stephen Graham &#038; Dame Eileen Atkins
+[23] Breaking Baz: 'Bunker' Writer-Director Florian Zeller Takes Us Behind The Scenes With Penélope Cruz, Javier Bardem, Stephen Graham &#038; Dame Eileen Atkins
 Source: Deadline | Status: expanded | Words: 2368
 Published: 2026-11-25T20:45:00+00:00
 URL: https://deadline.com/2026/11/bunker-florian-zeller-penelope-cruz-javier-bardem-interview-1237233549
@@ -677,7 +727,7 @@ Sony Pictures Classics opens Bunker in select U.S. cities on December 11 and the
 StudioCanal will release the film in the U.K. and Ireland on February 19.
 
 ============================================================
-[22] ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror
+[24] ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror
 Source: The Playlist | Status: summary_only | Words: 108
 Published: 2026-11-25T20:45:00+00:00
 URL: https://theplaylist.net/anne-rice-mayfair-witches-salem-coven-trailer-alexandra-daddario-20261125
@@ -689,7 +739,7 @@ CONTENT / EXTRACTED DETAILS:
 Will Rowan Fielding survive Salem? “ Anne Rice’s Mayfair Witches: Salem Coven ” focuses on a legendary location and its tragic history. The upcoming eight-episode season sees Rowan’s magic pushed to the limit thanks to an unstoppable force. She’ll find new friends and foes as witches face a life-changing destiny.&nbsp; The series is a two-time Academy of Science Fiction, Fantasy and Horror Films Saturn Award nominee. Michelle Ashford and Esta Spalding adapted the project from Anne Rice’s popular “ Lives of the Mayfair Witches ” novels. Continue reading ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror at The Playlist.
 
 ============================================================
-[23] Ariana Grande Says "Insane Perception" of "Petal" Music Video Felt Like 'Black Mirror' and Intention Was "Me Sharing a Vulnerable Thing"
+[25] Ariana Grande Says "Insane Perception" of "Petal" Music Video Felt Like 'Black Mirror' and Intention Was "Me Sharing a Vulnerable Thing"
 Source: The Hollywood Reporter | Status: expanded | Words: 885
 Published: 2026-11-25T20:40:34+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/ariana-grande-petal-music-video-insane-perception-black-mirror-1236763215
@@ -725,7 +775,7 @@ The Grammy winner continued, "Those are two of my favorite videos, &#x2018;Hate 
 Grande is currently starring in Focker-in-Law alongside Robert De Niro and Ben Stiller.
 
 ============================================================
-[24] Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
+[26] Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
 Source: The Hollywood Reporter | Status: expanded | Words: 228
 Published: 2026-11-25T20:38:25+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/black-friday-streaming-deals-2026-1236763158
@@ -747,7 +797,7 @@ Plus, save 50-plus percent on select movies and TV shows in the Prime Video stor
 Frndly includes over 50 family-friendly networks, including Hallmark Channel, A&E, History and Lifetime; and unlimited DVR and streaming on up to four screens. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[25] I’ve Been Worried About 9-1-1 Season 10’s Big Athena Scare, And Now The EP Has A Cryptic Take
+[27] I’ve Been Worried About 9-1-1 Season 10’s Big Athena Scare, And Now The EP Has A Cryptic Take
 Source: CinemaBlend | Status: expanded | Words: 232
 Published: 2026-11-25T20:32:39+00:00
 URL: https://www.cinemablend.com/television/9-1-1-ep-shares-crytpic-take-season-10-athena-scare
@@ -765,7 +815,7 @@ It’s no secret that 9-1-1 has been putting Athena through the wringer over the
 So fans will just have to find out in January. Whatever the case may be, this is likely it won't be resolved easily. Hopefully, it’s not as serious as it looks, but given this is 9-1-1 , there's a chance that this is the start of a serious situation.
 
 ============================================================
-[26] David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” &#038; The Two May Make An Animated Film
+[28] David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” &#038; The Two May Make An Animated Film
 Source: The Playlist | Status: summary_only | Words: 123
 Published: 2026-11-25T20:26:20+00:00
 URL: https://theplaylist.net/david-fincher-says-brad-pitt-turned-down-his-scariest-movie-ever-the-two-may-make-an-animated-film-20261125
@@ -777,7 +827,7 @@ CONTENT / EXTRACTED DETAILS:
 It took nearly two decades for David Fincher and Brad Pitt to make another movie together following 2008’s “ The Curious Case Of Benjamin Button ,” but it certainly wasn’t for a lack of trying. The pair have finally reunited for the Quentin Tarantino -written “ The Further Mis-Adventures Of Cliff Booth ” (read our review), and, as Fincher revealed in a new interview on The Big Picture podcast, there have been several other projects they’ve discussed over the years, including a particularly scary movie Pitt wasn’t interested in making and a potential animated film they’ve been kicking around. Continue reading David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” & The Two May Make An Animated Film at The Playlist.
 
 ============================================================
-[27] 'GTA VI' Just Might Turn Carly Rae Jepsen Into A "Late in Life Gamer"
+[29] 'GTA VI' Just Might Turn Carly Rae Jepsen Into A "Late in Life Gamer"
 Source: The Hollywood Reporter | Status: expanded | Words: 865
 Published: 2026-11-25T20:25:48+00:00
 URL: https://www.hollywoodreporter.com/music/music-features/gta-vi-carly-rae-jepsen-runaway-with-me-interview-1236763127
@@ -813,7 +863,7 @@ Jepsen admits she hasn't actually played GTA VI , but she has seen the scene in 
 The singer thinks it's a game she could get into, given its cinematic nature. "It's everything that I want to put into the music that I make," she says. "I'm going to become a late in life gamer."
 
 ============================================================
-[28] Avengers: Doomsday Has Already Outgrossed Supergirl &#038; Clayface Three Weeks Before Release
+[30] Avengers: Doomsday Has Already Outgrossed Supergirl &#038; Clayface Three Weeks Before Release
 Source: ComicBook.com | Status: expanded | Words: 605
 Published: 2026-11-25T20:24:48+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-has-already-outgrossed-supergirl-clayface-three-weeks-before-release
@@ -841,7 +891,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Rosamund Pike On Starring in Spiky Stage Drama 'Inter Alia': "I Like to Do Things That Are Provocative"
+[31] Rosamund Pike On Starring in Spiky Stage Drama 'Inter Alia': "I Like to Do Things That Are Provocative"
 Source: The Hollywood Reporter | Status: expanded | Words: 1119
 Published: 2026-11-25T20:24:05+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/rosamund-pike-inter-alia-broadway-interview-1236762507
@@ -887,7 +937,7 @@ From her own time in British courts, Pike said she was struck by the way in whic
 &#x201C;I've sat in court and watched so many men be found not guilty of sexual assault,&#x201D; Pike said. &#x201C;I think Susie Miller always wants to raise a conversation within the law.&#x201D;
 
 ============================================================
-[30] How 'Backrooms' Artisans Transformed YouTube Series Into Cinema’s Favorite Liminal Space Using 30,000 Square Feet of Sets and Four Sound Stages
+[32] How 'Backrooms' Artisans Transformed YouTube Series Into Cinema’s Favorite Liminal Space Using 30,000 Square Feet of Sets and Four Sound Stages
 Source: Variety | Status: expanded | Words: 863
 Published: 2026-11-25T20:14:20+00:00
 URL: https://variety.com/2026/artisans/news/backrooms-visual-effects-production-design-1236958246
@@ -919,7 +969,7 @@ But it was really helped with the use of blue screen. &#x201C;We built everythin
 In the end, "Backrooms" came together with a set that measured over 30,000 square feet and used four stages.
 
 ============================================================
-[31] Amanda Seyfried Reveals Secret Elizabeth Holmes Role in 'You Can See Everything' Required a "Five-Factor Authentication App" to Read Script
+[33] Amanda Seyfried Reveals Secret Elizabeth Holmes Role in 'You Can See Everything' Required a "Five-Factor Authentication App" to Read Script
 Source: The Hollywood Reporter | Status: expanded | Words: 408
 Published: 2026-11-25T20:13:50+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-script-elizabeth-1236763095
@@ -945,7 +995,7 @@ Although Seyfried kept her participation in the film private for the better part
 YCSE has crossed $100 million worldwide at the box office and became the first documentary film to have one million Letterboxd members log it as watched.
 
 ============================================================
-[32] Boucheron Opens Doors to South Coast Plaza Store
+[34] Boucheron Opens Doors to South Coast Plaza Store
 Source: The Hollywood Reporter | Status: expanded | Words: 395
 Published: 2026-11-25T20:08:26+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/south-coast-plaza-stores-boucheron-luxury-jewelry-1236763216
@@ -967,7 +1017,7 @@ Also of note: a custom moir&#xE9; wall panel from De Gournay that is hand-embroi
 Back in Los Angeles, Boucheron is located on Rodeo Drive at 449 N. Rodeo Dr. in Beverly Hills, Calif. More information on the maison can be found here , while views from the South Coast Plaza store can be seen below.
 
 ============================================================
-[33] Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in 'Cliff Booth'
+[35] Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in 'Cliff Booth'
 Source: The Hollywood Reporter | Status: expanded | Words: 1421
 Published: 2026-11-25T20:05:21+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216
@@ -1027,7 +1077,7 @@ So when you get a text that Fincher wants to cast you in a film written by Taran
 He quips with a laugh, "I'm still only in my 20s. I got a ways to go, you know what I mean?"
 
 ============================================================
-[34] Sakamoto Days Ends With Shonen Jump's Best 2026 Finale
+[36] Sakamoto Days Ends With Shonen Jump's Best 2026 Finale
 Source: ComicBook.com | Status: expanded | Words: 661
 Published: 2026-11-25T20:05:00+00:00
 URL: https://comicbook.com/anime/feature/sakamoto-days-ends-with-shonen-jumps-best-2026-finale
@@ -1053,7 +1103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Alexandra Daddario Had To Wear Lots Of Corsets In Hershey, But It Was ‘Fantastic’
+[37] Alexandra Daddario Had To Wear Lots Of Corsets In Hershey, But It Was ‘Fantastic’
 Source: CinemaBlend | Status: expanded | Words: 198
 Published: 2026-11-25T20:02:00+00:00
 URL: https://www.cinemablend.com/movies/alexandra-daddario-wear-corsets-hershey-fantastic
@@ -1069,7 +1119,7 @@ I can totally see how the corsets helped Daddario. While painful at times, they 
 I love how much these looks helped her get into character. As someone who has been a fan of Alexandra Daddario’s fashion game for years, I was looking forward to speaking with her about her outfits in Hershey , because they stand out so much. They’re beautiful and fitting for the time, and I think it’s so cool that they really helped the actress find her character.
 
 ============================================================
-[36] 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift"
+[38] 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift"
 Source: The Playlist | Status: summary_only | Words: 148
 Published: 2026-11-25T20:01:06+00:00
 URL: https://theplaylist.net/chris-pratt-confirms-the-terminal-list-season-3-savage-son-20261125
@@ -1081,7 +1131,7 @@ CONTENT / EXTRACTED DETAILS:
 Chris Pratt is giving audiences a meaty update concerning the future of his series " The Terminal List ," revealing which book from the series, created by author Jack Carr , it will adapt, giving some idea of where the third season could be going (Season 2 being an adaptation of " True Believer "). After confirming to ScreenRant that the next season of the Prime show would adapt the novel " Savage Son ," Pratt, who is promoting his new family comedy " Way of the Warrior Kid ," went on to tell the outlet about how they're planning on moving forward with the show and made it clear it won't be a spinoff like " Dark Wolf ," but part of that third season. Continue reading 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift" at The Playlist.
 
 ============================================================
-[37] NFL On The Future Of Netflix's Thanksgiving Eve Game &#038; Starting A New Tradition: "We Are Committed"
+[39] NFL On The Future Of Netflix's Thanksgiving Eve Game &#038; Starting A New Tradition: "We Are Committed"
 Source: Deadline | Status: expanded | Words: 685
 Published: 2026-11-25T20:00:00+00:00
 URL: https://deadline.com/2026/11/nfl-future-netflix-thanksgiving-eve-game-tradition-1237233072
@@ -1113,7 +1163,7 @@ Netflix is set to bring the Thanksgiving Eve game back in 2027 as part of their 
 Netflix&#x2019;s Thanksgiving Eve game streams on Wednesday, November 25, starting at 8 p.m. ET / 5 p.m. PT and will feature U2 during the halftime show.
 
 ============================================================
-[38] Disney+ and Hulu's Black Friday Deal Is Here: Get Both Streamers for Just $4.99/Month for an Entire Year
+[40] Disney+ and Hulu's Black Friday Deal Is Here: Get Both Streamers for Just $4.99/Month for an Entire Year
 Source: Variety | Status: expanded | Words: 423
 Published: 2026-11-25T20:00:00+00:00
 URL: https://variety.com/2026/shopping/news/disney-hulu-bundle-black-friday-deal-2026-sign-up-online-1236958031
@@ -1143,7 +1193,7 @@ Those who took advantage of last year&#x2019;s Black Friday promotion may also q
 Sign up for the Disney+ and Hulu Black Friday bundle before the promotion ends on Nov. 30.
 
 ============================================================
-[39] Jeff Goldblum Breaks Into 'Wicked' Song While Reflecting on His 'Unexpectedly Enduring Career' at Marrakech: 'You Just Follow Your Curiosity and Your Heart'
+[41] Jeff Goldblum Breaks Into 'Wicked' Song While Reflecting on His 'Unexpectedly Enduring Career' at Marrakech: 'You Just Follow Your Curiosity and Your Heart'
 Source: Variety | Status: expanded | Words: 838
 Published: 2026-11-25T19:57:07+00:00
 URL: https://variety.com/2026/film/global/jeff-goldblum-sings-wicked-unexpected-career-marrakech-1236958123
@@ -1189,7 +1239,7 @@ Hearing the title &#x201C;I Heart Huckabees&#x201D; from the audience, Goldblum 
 The Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[40] Veruschka Dies: German Supermodel Of The 1960s &#038; '70s Who Appeared In 'Blow-Up' Was 87
+[42] Veruschka Dies: German Supermodel Of The 1960s &#038; '70s Who Appeared In 'Blow-Up' Was 87
 Source: Deadline | Status: expanded | Words: 445
 Published: 2026-11-25T19:55:37+00:00
 URL: https://deadline.com/2026/11/veruschka-dead-1237233496
@@ -1215,7 +1265,7 @@ Although she only occasionally returned to modeling over the decades, Veruschka 
 Information on survivors was not immediately available.
 
 ============================================================
-[41] Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan
+[43] Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan
 Source: Variety | Status: expanded | Words: 651
 Published: 2026-11-25T19:55:34+00:00
 URL: https://variety.com/2026/film/global/awkwafina-cancer-drama-kate-might-die-mercedes-bryce-morgan-1236951703
@@ -1263,7 +1313,7 @@ Her actors were game to try that as well.
 &#x201C;Ken Jeong and Awkwafina are making each other laugh, but they&#x2019;re also making each other cry. As long as it&#x2019;s emotionally true, it doesn&#x2019;t matter what genre your film is or how much you base it in reality. Ultimately, that&#x2019;s what shines through to people.&#x201D;
 
 ============================================================
-[42] Doc Talk Podcast: ‘The Eyes Of Ghana’s Ben Proudfoot &#038; Nana Frimpong On Their Oscar Contender Backed By The Obamas &#038; IShowSpeed
+[44] Doc Talk Podcast: ‘The Eyes Of Ghana’s Ben Proudfoot &#038; Nana Frimpong On Their Oscar Contender Backed By The Obamas &#038; IShowSpeed
 Source: Deadline | Status: expanded | Words: 386
 Published: 2026-11-25T19:45:45+00:00
 URL: https://deadline.com/2026/11/eyes-of-ghana-directors-podcast-obama-ishowspeed-1237233501
@@ -1287,7 +1337,7 @@ That&#x2019;s on the new episode of Doc Talk hosted by Oscar winner John Ridley 
 Listen to the episode above or on major podcast platforms including Spotify , iHeart and Apple .
 
 ============================================================
-[43] 'Avengers: Doomsday' Eyes $270M Opening as 'Dune: Part Three' Also Heads for Big Start
+[45] 'Avengers: Doomsday' Eyes $270M Opening as 'Dune: Part Three' Also Heads for Big Start
 Source: The Hollywood Reporter | Status: expanded | Words: 327
 Published: 2026-11-25T19:45:27+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-box-office-tracking-dune-part-three-1236763223
@@ -1309,7 +1359,7 @@ Avengers: Doomsday includes an extensive list of Marvel superheroes facing off a
 The Russos helm Avengers: Doomsday from a script by Michael Waldron and Stephen McFeely. The directing duo return to lead an MCU feature for the first time since Avengers: Endgame .
 
 ============================================================
-[44] 5 Thanksgiving Comic Book Stories That Went Horribly Wrong, and Not Always Because of Supervillains
+[46] 5 Thanksgiving Comic Book Stories That Went Horribly Wrong, and Not Always Because of Supervillains
 Source: ComicBook.com | Status: expanded | Words: 1182
 Published: 2026-11-25T19:42:00+00:00
 URL: https://comicbook.com/comics/list/5-thanksgiving-comic-book-stories-that-went-horribly-wrong-and-not-always-because-of-supervillains
@@ -1359,7 +1409,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon
+[47] Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon
 Source: Variety | Status: expanded | Words: 1293
 Published: 2026-11-25T19:41:16+00:00
 URL: https://variety.com/2026/film/global/horror-soulala-youtube-generation-saudi-doha-1236956740
@@ -1403,7 +1453,7 @@ When asked what he thinks of the &#x201C;Backrooms&#x201D; slash &#x201C;Obsessi
 &#x201C;Soulala&#x201D; is produced by Arabia Pictures, DH&#x2019;BAB and Desert Motion Pictures. The film will be released in Saudi cinemas from Dec. 23 via Arabia Pictures.
 
 ============================================================
-[46] I’ve Wondered Why X-Men Vets Halle Berry And Anna Paquin Aren’t In Doomsday. The Russos Weigh In
+[48] I’ve Wondered Why X-Men Vets Halle Berry And Anna Paquin Aren’t In Doomsday. The Russos Weigh In
 Source: CinemaBlend | Status: expanded | Words: 241
 Published: 2026-11-25T19:39:10+00:00
 URL: https://www.cinemablend.com/movies/russo-brothers-explain-x-men-vets-halle-berry-anna-paquin-absence-doomsday
@@ -1419,7 +1469,7 @@ In fairness, the Russos are shrewd when it comes to assembling (no pun intended)
 Bringing those OGs into the fold seemed to be the realization of a dream not just for the Russos but for producer Kevin Feige as well. Feige’s producing career notably started years ago when Lauren Shuler Donner tapped him as an associate producer on 2000’s X-Men . Now, the super producer is in the position to have his MCU characters interact with the famous mutants for what may be the latter group’s final stand within the multiverse.
 
 ============================================================
-[47] 'The Pitt' Sets Season 3 Premiere Date
+[49] 'The Pitt' Sets Season 3 Premiere Date
 Source: Deadline | Status: expanded | Words: 382
 Published: 2026-11-25T19:25:39+00:00
 URL: https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493
@@ -1443,7 +1493,7 @@ Regarding the plot for Season 3, Wyle told Deadline, &#x201C;Season 3 is about d
 Watch the social media announcement below.
 
 ============================================================
-[48] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
+[50] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
 Source: The Hollywood Reporter | Status: expanded | Words: 340
 Published: 2026-11-25T19:18:55+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140
@@ -1465,60 +1515,4 @@ Besides Deadpool & Wolverine , starring Reynolds and Hugh Jackman as Wolverine, 
 And Disney-owned FX has given a three-season pickup to Welcome to Wrexham , the docuseries from Rob Mac and Reynolds about the Welsh soccer club, its fans and its city. Disney+ has also greenlit a new docuseries from Reynolds and Mac following Reynolds&#x2019; and Hugh Jackman &#x2018;s Australian sailing team. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
 
 News of Reynolds' representation switch was first reported by Page Six Hollywood.
-
-============================================================
-[49] ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
-Source: Variety | Status: expanded | Words: 473
-Published: 2026-11-25T19:12:12+00:00
-URL: https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-nov-23-1236956394
-------------------------------------------------------------
-SUMMARY:
-The wait for “Avengers: Doomsday” is almost over, and soon, fans can play in that world in addition to watching the story unfold. To celebrate the movie hitting theaters Dec. 18, Scopely, in collaboration with Marvel Games, is uniting “Monopoly Go!” with Marvel Studios’ highly anticipated “Avengers: Doomsday” for an all-new season of “Doomsday Go!” […]
-
-CONTENT / EXTRACTED DETAILS:
-The wait for &#x201C;Avengers: Doomsday&#x201D; is almost over, and soon, fans can play in that world in addition to watching the story unfold.
-
-To celebrate the movie hitting theaters Dec. 18, Scopely, in collaboration with Marvel Games, is uniting &#x201C;Monopoly Go!&#x201D; with Marvel Studios&#x2019; highly anticipated &#x201C;Avengers: Doomsday&#x201D; for an all-new season of &#x201C;Doomsday Go!&#x201D;
-
-This season, which runs Nov. 25 - Jan. 27, brings new shields, tokens and dice with richer animations and visual effects and visually enhanced super stickers and super tokens. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Jo Koy on ‘Blue in the Face,’ Steven Spielberg, Biggie’s Mom and Learning What His Name Really Means at Long John Silver’s 'Spider-Man: Brand New Day' Extended Cut Sets December Release Date in Theaters
-
-The &#x201C;Doomsday Go!&#x201D; album is packed with 23 unique sticker sets featuring Marvel Super Heroes from Thor and Iron Man to Deadpool, Wolverine, Spider-Man, the X-Men and more. Players can collect super hero team sets, follow story sets, explore whimsical designs and piece together puzzles as Tycoons build a collection worthy of the Marvel Universe.
-
-See more gaming news from the week in the roundup below.
-
-The Battle of the Boroughs Minecraft Competition will return to New York City for the fifth consecutive year.
-
-Hosted by New York City Public Schools and the NYC Mayor's Office of Media and Entertainment (MOME), the competition incentivizes students in grades 3-12 to build a more inclusive and sustainable culture while developing critical thinking, computer science, public speaking and problem-solving skills. This year's prompt will challenge students to develop Minecraft builds that create a safer, more connected Penn Station neighborhood.
-
-Submissions for elementary, middle and high school teams are now open on the New York City Public Schools website and close Jan. 6. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-ITV Studios unveiled on Monday a faithful, nostalgia-packed &#x201C;Roblox&#x201D; experience based on the original 1960s TV series &#x201C;Thunderbirds.&#x201D;
-
-The game introduces a new generation to the series by recreating the look and spirit of the show, from the famous launch sequences to the craft designs fans grew up with, all with a modern twist.
-
-&#x201C;Recreating Thunderbirds, such an iconic piece of British television and a treasured brand at ITV Studios, required immense care, passion and dedication,&#x201D; Ashley Lewis, managing director of Metavision, said. &#x201C;By pairing the unmistakable DNA and enduring spirit of the 1960s original with Roblox&#x2019;s rapidly evolving technical capabilities, we&#x2019;ve been able to bring Tracy Island and its iconic rescues to life with truly impressive scale and fidelity. We hope we&#x2019;ve created an authentic experience for long-standing fans while introducing a new generation to the excitement and imagination of Thunderbirds.&#x201D;
-
-============================================================
-[50] A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)
-Source: The Hollywood Reporter | Status: expanded | Words: 394
-Published: 2026-11-25T19:08:15+00:00
-URL: https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568
-------------------------------------------------------------
-SUMMARY:
-The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.
-
-CONTENT / EXTRACTED DETAILS:
-A+E is deepening its investment in the world of microdramas , most recently by inking a content partnership with the shortform video company Snips, The Hollywood Reporter has learned.
-
-Under the auspices of the agreement, Snips will use its proprietary technology to adapt previously released television programs into mobile-first stories told in vertically oriented, short chapters, with cliffhangers galore, any extraneous material trimmed and episodes no more than two minutes long. The deal will allow the mobile app to stream roughly 50 true-crime and reality projects from A+E Global Media &#x2019;s library in this shortform format.
-
-"A+E Global Media has built some of the most obsessively watched unscripted and scripted storytelling in the industry for over four decades, and true crime and documentary content is some of the most naturally suited to how people actually watch on mobile &#x2014; in short, sharp, story-driven bursts," Snips co-founder and CEO Or Ben Shimon said in a statement . &#x201C;We are delighted to bring some of A+E&#x2019;s proven titles into our growing catalog.&#x201D; The specific titles that will be adapted for the Snips audience were not immediately available.
-
-The Snips deal will provide A+E, which will retain ownership rights over projects, with data on viewership, completion rates, monetization and engagement for specific titles on the app. Meanwhile, the projects provided by A+E will augment the entertainment library available on Snips, which now includes around 1,700 titles.
-
-A+E Global Media is no stranger to the microdrama format, having first dipped its toes in the space in March when its label Lifetime released the project Tides of Temptation , executive produced by Taye Diggs. The company and Lifetime announced in October that they are releasing additional microdrama projects on MyLifetime.com and the Lifetime mobile app. A+E further revealed that it had adapted nearly 200 of its own projects into microdramas that the company would license to third-party platforms.
-
-Snips has previously partnered with Banijay Rights and BIG Media to distribute microdrama adaptations of the latter companies&#x2019; projects.
-
-&#x201C;The idea of Snips, it's to be a platform. We're not creating our own content because we don't want to compete with our content partners,&#x201C; Ben Shimon said in an interview with The Hollywood Reporter. &#x201C;The idea for us is that we're building relationships first [with] adapting content. Second, [our content partners] think about testing things or testing new genres with us."
 
