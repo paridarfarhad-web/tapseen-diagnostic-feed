@@ -1,9 +1,207 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-25T21:00:08.254Z
+Last Updated: 2026-11-25T21:04:09.420Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Macy's Thanksgiving Day Parade Postponed Due To Weather
+[1] Macy’s Thanksgiving Day Parade Postponed to Saturday Due to Storm
+Source: Variety | Status: expanded | Words: 439
+Published: 2026-11-25T21:03:27+00:00
+URL: https://variety.com/2026/tv/news/macys-thanksgiving-day-parade-postponed-saturday-storm-1236957468
+------------------------------------------------------------
+SUMMARY:
+Thanksgiving morning will not feature the Macy's Parade this year, NBC announced on Wednesday. "The safety of our participants and spectators is our top priority, and after close consultation with our City and agency partners, we have made the decision to move this year’s celebration. Due to the expected severe weather, the 100th March of […]
+
+CONTENT / EXTRACTED DETAILS:
+Thanksgiving morning will not feature the Macy's Parade this year, NBC announced on Wednesday.
+
+"The safety of our participants and spectators is our top priority, and after close consultation with our City and agency partners, we have made the decision to move this year&#x2019;s celebration. Due to the expected severe weather, the 100th March of Macy&#x2019;s Thanksgiving Day Parade will move to Saturday, Nov. 28," Macy's said in a statement to NBC News on Monday. "Our team is working through the operational logistics for this change and will share details as they are finalized. We expect the Parade to kick off at 8:30a.m. on Saturday. Thank you to the thousands of volunteers, performers and partners who create the magic millions enjoy each year. We look forward to celebrating together on Saturday." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56 ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
+
+Ahead of the announcement, organizers behind the parade had been monitoring the weather situation all week, worrying that strong winds in New York City would ground the iconic balloons. Parade rules prohibit giant balloons from flying if sustained winds exceed 23 mph or if gusts are 34 mph or stronger.
+
+Over 100 balloons and balloon handlers were set to be on display in celebration of the parade&#x2019;s 100th anniversary. Buckaroo Bob the Minion, Joe Cool, Mickey&#x2019;s Sorcerer&#x2019;s Apprentice and Billie Brightpaw were among the balloon characters that had to be grounded.
+
+Preparations for the parade balloons take months, with a village of creatives working behind the scenes to bring everything together. As early as July, the parade&#x2019;s concept artist begins working on both balloon and float designs. By September, the parade&#x2019;s costume designer, Kimberly Montgomery, starts piecing together over 5,000 costumes and collaborating with partners to ensure she has the right colors for the balloon handlers and accurate designs. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Float performances from Natasha Bedingfield, McKenna Grace, Jimmy Fallon & The Roots, Queen Latifah and a tribute to Dolly Parton led by Megan Hilty are all expected.
+
+&#x201C;Macy&#x2019;s Thanksgiving Day Parade brings the extraordinary together: iconic entertainers and emerging talent, artistry and imagination, hometown pride, cherished traditions and the thrill of discovering something new,&#x201D; said Sharon Otterman, Macy&#x2019;s chief marketing officer. &#x201C;For our 100th Parade, we&#x2019;re creating a celebration of unprecedented scale and will deliver an unforgettable Thanksgiving for millions across the country.&#x201D;
+
+============================================================
+[2] Will Ferrell Comedy 'The Hawk' Canceled By Netflix After One Season
+Source: Deadline | Status: expanded | Words: 546
+Published: 2026-11-25T21:00:00+00:00
+URL: https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: The Hawk did not make the cut for a second season. Netflix has opted not to renew the freshman golf comedy, co-created, executive produced and headlined by Will Ferrell. The news comes more than four months after The Hawk, SNL alum Ferrell's first TV starring vehicle, premiered on July 16. The decision fits Netflix's […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : The Hawk did not make the cut for a second season. Netflix has opted not to renew the freshman golf comedy, co-created, executive produced and headlined by Will Ferrell . The news comes more than four months after The Hawk, SNL alum Ferrell's first TV starring vehicle, premiered on July 16.
+
+The decision fits Netflix's performance vs. cost renewal criteria. The Hawk was believed to be among the most expensive comedy series on Netflix, with its star Ferrell commanding a seven-figure episodic salary. It spent three weeks in Netflix's Global Top 10 for English series, peaking at No.2 with 6.2M views for its first full week, a respectable but not outsized delivery. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The show did not score well with critics, averaging 33% in reviews on Rotten Tomatoes but did better with core Will Ferrell fans for a 65% audience score. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+The Hawk 's fate was telegraphed by co-creator/executive producer Harper Steele during an interview on Late Night with Seth Meyers two weeks ago in which she said, in passing, &#x201C;I was working on a short-lived but probably the best show ever, The Hawk. &#x201D;
+
+Ferrell remains in business with Netflix. Via Gloria Sanchez Productions, he executive produces the streamer's upcoming series All the Rage, Prep as well as Nikki Glaser&#x2019;s first scripted show, developed through Netflix Is a Joke Studios .
+
+Of the comedy series that have released new seasons after The Hawk 's debut, Netflix has renewed Nobody Wants This , whose third season delivered the biggest 2026 opening week for a returning scripted comedy, Tires and freshman A Different World. Leanne is awaiting word on a Season 3 pickup; it's too early for Minimum Wage .
+
+Upcoming Netflix comedy series also include Uncorked, A Hundred Percent and I Suck at Girls.
+
+In The Hawk , Lonnie Hawkins (Ferrell), 2004&#x2019;s number one golfer, struggles on the back nine of his career to recapture his magic. His body says retire, but his heart says he&#x2019;s not done yet. His ex-wife and his son Lance, golf&#x2019;s new golden boy, know he&#x2019;s through. But with one more major to win to complete golf&#x2019;s Grand Slam, Lonnie refuses to believe he&#x2019;s anything other than one stroke away from the greatest comeback in golf history. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+In the series, Ferrell reunited with former SNL co-star Molly Shannon who played his foul-mouthed ex-wife. Jimmy Tatro, Fortune Feimster, Luke Wilson, Chris Parnell, Katelyn Tarver and David Hornsby also starred in The Hawk , which was co-created by Ferrell, Steele and Chris Henchy.
+
+Ferrell, Jessica Elbaum and Alix Taylor executive produced for Gloria Sanchez Productions. Rian Johnson, Ram Bergman and Nena Rodrigue were executive producers for T-Street. Henchy, Steele, David Gordon Green and Andrew Guest also executive produced.
+
+============================================================
+[3] Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims
+Source: The Hollywood Reporter | Status: expanded | Words: 823
+Published: 2026-11-25T21:00:00+00:00
+URL: https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219
+------------------------------------------------------------
+SUMMARY:
+After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.
+
+CONTENT / EXTRACTED DETAILS:
+Brad Pitt and Angelina Jolie have settled a long-running dispute over the sale of their French winery, a lawsuit that opened the door for the actress to accuse her ex-husband of abusing her and their children.
+
+Both sides on Wednesday moved to dismiss claims against each other. Terms of the settlement weren't disclosed.
+
+&#x201C;We have settled out of court in the best interests of our family and will not be commenting further," said representatives for Jolie and Pitt in a statement. "Any comments in media stories attributed to 'sources' are in fact not coming from either of us, or anyone close to us.&#x201D;
+
+The couple purchased the 1,200-acre winery in the South of France where they married, Ch&#xE2;teau Miraval, in 2008. Jolie planned to sell her half to Pitt in the wake of their divorce, court filings alleged, until negotiations broke down over his insistence that she sign a nondisclosure agreement barring her from publicizing allegations of abuse leading up to their split.
+
+Jolie balked at the ask and instead struck a $64 million deal with billionaire alcohol magnate Yuri Shefler for her half of the winery. Pitt in 2022 filed a lawsuit, claiming that the actress reneged on an unwritten agreement that they wouldn&#x2019;t sell their stakes in the business without the other&#x2019;s consent. That led to a countersuit from Jolie publicizing for the first time abuse allegations against Pitt in a 2016 altercation on a private plane in which she claimed that the actor &#x201C;grabbed her by the head and shook her,&#x201D; &#x201C;choked one of the children&#x201D; and &#x201C;struck another in the face.&#x201D;
+
+At the time, a representative for Pitt denied the allegations. Jolie &#x201C;continues to rehash, revise and reimagine her description of an event that happened 6 years ago by adding completely untrue information each time she fails to get what she wants," the spokesperson said. "Her story is constantly evolving.&#x201D;
+
+Wednesday's settlement ends a contentious case that peeled back the origins of Pitt and Jolie's divorce and hostility between the former couple. Pitt continues to pursue claims against Shefler, who allegedly orchestrated the acquisition in secret alongside Jolie, and Shefler's company Tenute del Mondo, the wine arm of the Stoli Group. The actor seeks a court order allowing him to purchase Jolie's shares in Miraval at the same valuation Shefler acquired them, plus unspecified damages.
+
+A state appeals court earlier this year found that Shefler played a vital role in structuring and finalizing the deal to purchase Miraval. It pointed to him guaranteeing $39 million of the purchase using his own funds, a provision he wouldn&#x2019;t agree to if he wasn&#x2019;t involved in the agreement. Shefler sent three letters to Jolie over the course of the transaction, according to court filings. One thanked her for accepting his offer and assured her that a deal would be made &#x201C;despite personal complications.&#x201D; Another asked Jolie to postpone paying an installment on the purchase due to complications with Pitt.
+
+Since the allegations became public in 2022, Pitt has continued starring in major studio productions, like F1 and Heart of the Beast , maintaining his dual-standing as one of Hollywood's most bankable leading men and a prolific producer of prestige film through Plan B Entertainment. Jolie, meanwhile, momentarily took a step back from acting before earning critical acclaim for her portrayal as Maria Callas in Maria .
+
+In her cross complaint, Jolie detailed a physical altercation with Pitt, with him on one side and her and their children on the other.
+
+&#x201C;Pitt lunged at his own child and Jolie grabbed him from behind to stop him,&#x201D; the complaint stated. &#x201C;To get Jolie off his back, Pitt threw himself backwards into the airplane&#x2019;s seats injuring Jolie&#x2019;s back and elbow. The children rushed in and all bravely tried to protect each other.&#x201D;
+
+At one point, Pitt poured beer on Jolie; at another, he poured beer and wine on the children, the lawsuit alleged. Once the flight landed, Jolie claimed Pitt pushed her when she told him that she and the children were going to a hotel. &#x201C;He also grabbed and shook Jolie by the head and shoulders, causing one of the children to beg, &#x2018;Don&#x2019;t hurt her,'&#x201D; the complaint stated. &#x201C;He let Jolie go, but then called her a &#x2018;bitch,&#x2019; before adding, &#x2018;Fuck you, fuck you all.'&#x201D; Jolie filed for divorce five days later.
+
+The FBI investigated the 2016 altercation but declined to press charges. A redacted report on the case stated that the investigating agent found there was probable cause to pursue a criminal case but that charges would not be filed due to &#x201C; several factors ,&#x201D; according to The New York Times . It described Jolie as being &#x201C;conflicted on whether or not to be supportive of charges.&#x201D;
+
+Pitt was represented by John Berlinksi and Julia Cherlow, partners at Bird Marella, while Jolie was represented by Paul Murphy and Daniel Csillag. Alejandro Brito, who handles media lawsuit for President Trump, represents Shefler.
+
+============================================================
+[4] ‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’
+Source: Variety | Status: expanded | Words: 1527
+Published: 2026-11-25T21:00:00+00:00
+URL: https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739
+------------------------------------------------------------
+SUMMARY:
+In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]
+
+CONTENT / EXTRACTED DETAILS:
+In the nine months since &#x201C;Gugu&#x2019;s World&#x201D; premiered in Berlin, director Allan Deberton has had only the most &#x201C;joyful experiences.&#x201D; By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon.
+
+That star is Yuri Gomes, who plays the titular Gugu. The boy is the epitome of freedom, zigzagging across a dirt field with a football, then breaking into a dance sequence the moment he hears the throbbing beats of Brazilian brega music. Yes, those around him judge him, including stern dad Batista (L&#xE1;zaro Ramos), but Gugu is sheltered by the love of grandmother Dilma (Teca Pereira). The two live together in a small town in Cear&#xE1;, their loving home and safe cocoon until the day Dilma&#x2019;s health deteriorates due to a rapidly developing case of Alzheimer&#x2019;s. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories ‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton
+
+&#x201C;Gugu&#x2019;s World&#x201D; follows Deberton&#x2019;s &#x201C;Pacarrete&#x201D; and reunites the director with screenwriter Andr&#xE9; Ara&#xFA;jo, who originated the story. The tale of this energetic boy resonated deeply with the filmmaker, who knew he needed a &#x201C;great cast&#x201D; to do justice to the &#x201C;responsibility&#x201D; of tackling the issues in the script, from talking about young queerness to dealing with caring responsibilities and progressive disorders. Deberton landed two of Brazil&#x2019;s great screen stars in Ramos and Pereira, but the process of finding Gugu was a much more complex, lengthy operation. The film team saw over 700 kids and eventually found Gomes, a star-in-the-making. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+&#x201C;We needed an actor who had the spirit of Gugu,&#x201D; says producer Karen Castanho of Bi&#xF4;nica Filmes. &#x201C;But today, the great challenge of filming kids is that, because of social media, kids are not very spontaneous. Yuri is the opposite of that.&#x201D;
+
+Deberton worked closely with casting director and AD Luciana Vieira to ensure that not only Gomes but the wider cast of children were &#x201C;very natural.&#x201D; &#x201C;We simply see children being children. We don&#x2019;t see kids acting. I think that&#x2019;s very strong in the film.&#x201D;
+
+The director said it is &#x201C;transformative&#x201D; to work with children. He enjoyed the experience so much that he decided to replicate it for his next project, &#x201C;Adoption,&#x201D; dealing with his personal experience adopting his son. &#x201C;What they put on the screen is very truthful. We need to be open to that gaze, which is pure, intimate, truthful and that makes us feel alive.&#x201D;
+
+The film presented a great challenge to Ramos, an actor-director with decades of experience and one of the most recognizable names in Brazil thanks to his work on telenovelas and films such as &#x201C;Madame Sat&#xE3;&#x201D; and &#x201C;Carandiru.&#x201D; Ramos is more widely known for his loving, well-humored roles, so playing a stern father dealing with internalized homophobia and unable to accept his son was difficult.
+
+&#x201C;My first read of [Batista] was one that is very distant from the dad I aim to be,&#x201D; he said. &#x201C;I was looking to villainize that figure, to signal his flaws, like an alert call. But when we started rehearsing, he gained richness and a much more interesting personality, which is this man who does care about his child, who seeks to be closer to his child, but he doesn&#x2019;t have the resources.&#x201D;
+
+Asked about the physicality of his character, who is often contained in contrast to Gugu&#x2019;s penchant for movement, Ramos shared the complex process. During rehearsals, it felt &#x201C;curious&#x201D; to Ramos how he couldn&#x2019;t mimic Gomes&#x2019; movements. The two often danced together or moved together between takes, but Ramos returned to introspection when cameras rolled. &#x201C;It was good to encounter that vitality of his to understand the opposition we&#x2019;d aim for in each scene,&#x201D; he said.
+
+Pereira, on the other hand, was able to imbue Dilma with a lot of herself, such as &#x201C;her joy for life, that animated way of living and the way she cares for her grandson,&#x201D; she noted. The role was still quite different from everything she had done previously, with the experience made even more special thanks to the relationship she developed with Gomes. &#x201C;Luciana Vieira gave us exercises for us to develop that care, to develop a bond,&#x201D; she recalled. &#x201C;It was great. Yuri is an intelligent, clever child, as well as talented.&#x201D; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+Working on an indie project always brings a set of challenges, but shooting with a large ensemble cast mostly of children and setting the production in Quixad&#xE1;, a small city in the inland of Cear&#xE1;, added massively to Castanho&#x2019;s plate.
+
+Despite the city being a frequent production hub, the film team wanted to avoid &#x201C;obvious locations,&#x201D; turning the city into a base camp. &#x201C;Most of the locations were within one hour of the city, with a big team, to sets without any infrastructure. We had to literally bring everything to film in these places, which involved traveling one hour every day.&#x201D;
+
+&#x201C;At the same time, we needed a city that could host all these people,&#x201D; added the producer. &#x201C;The logistical challenge was huge. The background actors are all from the region, but the team is very diverse. Brazil is a country of continental dimensions; we had professionals from all over Brazil. The greatest challenge for us was logistical.&#x201D;
+
+Deberton noted that the local population completely embraced the project, and the film team worked closely with all background extras to ensure they were comfortable with the costume and production design and felt integrated into the production. Ramos said he &#x201C;loves shooting on location&#x201D; and ended up staying longer in Quixad&#xE1; than he was originally supposed to. &#x201C;I live in an urban center, I'm very agitated, very rushed,&#x201D; he said. &#x201C;And there's a timing there of the effect of a smaller city, where people know each other, where people have time to chat and I think that ended up influencing me too.&#x201D;
+
+When asked what &#x201C;Gugu&#x2019;s World&#x201D; communicates about Brazil to international audiences and what they want the film to be in dialogue with when it meets audiences all over the world, the team Castanho is quick to say she wants people to understand the diversity of Brazilian cinema. &#x201C;This is a small film with a big heart and, especially in this moment in the world, I think we all need that love.&#x201D;
+
+Deberton echoes that thought, saying he often felt that Brazilian films were &#x201C;put in a box&#x201D; as a type of cinema that would connect with cinephiles but not broad audiences. &#x201C;I think it&#x2019;s the opposite: when we have access to powerful stories, to characters that transform, that connection happens naturally and genuinely with the audience,&#x201D; he said. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+&#x201C;This progress that we&#x2019;re seeing with national cinema shows a quality of directors, of teams and producers,&#x201D; added Pereira, noting the great momentum of her national cinema, with standout international hits such as &#x201C;I&#x2019;m Still Here&#x201D; and &#x201C;The Secret Agent&#x201D; projecting Brazilian films to the world.
+
+&#x201C;As Allan says, regionality is very important because we don&#x2019;t want to stay just in the big urban centers,&#x201D; added the actress. &#x201C;The quality of the work depends also on the opportunities. Brazil is very diverse. We have a lot to show still, and a lot to do still &#x2026; And for me it&#x2019;s very important. I want and hope that all this results in more jobs for many people, because we need to talk about ourselves. And that should be seen by the whole world.&#x201D;
+
+Ramos wrapped the conversation by humorously stating he would bring a &#x201C;contentious&#x201D; subject to the table, which is the need for the regulation of streamers in Brazil so that independent productions can benefit from the market they have helped build, as well as revising how partnerships with major studios and production companies are forged.
+
+&#x201C;After the pandemic, we went through a period in which, due to market needs, we made some concessions and negotiations, and made many films without identity,&#x201D; he said. &#x201C;People watched a film and wouldn&#x2019;t even know the name of the protagonist at the end of the movie. Or they would be faced with a storytelling model based on either an algorithm or on the desires of another country.&#x201D;
+
+&#x201C;Gugu&#x2019;s World&#x201D; goes against the grain in this sense, according to the veteran performer. &#x201C;This film struggled to find partners and financiers for a long time,&#x201D; he went on. &#x201C;So let&#x2019;s take the opportunity to get people to consider the current state of filmmaking, watch this film and go back to respecting the storyteller, which I think is an important message, because otherwise we get a lot of tepid or similar movies.&#x201D;
+
+============================================================
+[5] 'Focker In-Law' Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel
+Source: Variety | Status: expanded | Words: 1723
+Published: 2026-11-25T21:00:00+00:00
+URL: https://variety.com/2026/film/features/focker-in-law-director-ariana-grande-casting-next-sequel-1236953332
+------------------------------------------------------------
+SUMMARY:
+Over the years, “Meet the Parents” writer John Hamburg would exchange the occasional text or email with his collaborators from the 2000 movie to ask whether anyone had another sequel idea. (They had already revisited the characters, mismatched in-laws portrayed by Ben Stiller and Robert De Niro, to outsized commercial success in 2004's “Meet the […]
+
+CONTENT / EXTRACTED DETAILS:
+Over the years, &#x201C;Meet the Parents&#x201D; writer John Hamburg would exchange the occasional text or email with his collaborators from the 2000 movie to ask whether anyone had another sequel idea. (They had already revisited the characters, mismatched in-laws portrayed by Ben Stiller and Robert De Niro, to outsized commercial success in 2004's &#x201C;Meet the Fockers&#x201D; and 2010's &#x201C;Little Fockers.&#x201D;) But nothing else stuck — until they realized Stiller was the same age as De Niro&#x2019;s character in the first film, a comedy about male nurse Gaylord &#x201C;Greg&#x201D; Focker who goes through hijinks hell when he&#x2019;s introduced to his girlfriend&#x2019;s family, including her intimidating father Jack Byrnes. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Hanuman Ansh' Went From Micro-Budget Flop to $48 Million Hit, Director Tells WAVES Film Bazaar 'Ramayana' Language App Cinedubs Named IFFI Accessibility Partner After Reaching More Than 100,000 Moviegoers in 42 Countries
+
+&#x201C;It felt like a way back into the story,&#x201D; says Hamburg, best known for &#x201C;Zoolander" and &#x201C;I Love You, Man," in addition to the "Focker" films. &#x201C;Greg Focker finds himself where Jack was all those years ago. What a full-circle moment.&#x201D;
+
+The result is "Focker In-Law," a battle of wits that plays out as Greg's son Henry (Skyler Gisondo) brings home his new girlfriend, a former FBI hostage negotiator named Olivia ( Ariana Grande ). The new installment, written and directed by Hamburg, takes place as the entire family — including Greg and Jack's wives Pam and Dina (Teri Polo and Blythe Danner), as well as Greg and Pam's daughter Samantha (Beanie Feldstein) and her boyfriend Eduardo (Eduardo Franco) — return to Long Island to celebrate Jack's 80th birthday.
+
+Ahead of the big-screen release — &#x201C;Focker In-Law&#x201D; opens in theaters on Nov. 25 — Hamburg spoke to Variety about reconnecting with Stiller and De Niro, Grande&#x2019;s comedic chops and why Barbra Streisand and Dustin Hoffman didn't return as Greg's parents. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+It was surreal. The first time I was at the Byrnes family home in Oyster Bay, Long Island, I was 29, and now I'm coming back in my 50s. That was my first big job in the business.
+
+From time to time, the original group who made the first few movies would text or email to say, &#x201C;Is there any idea?&#x201D; But it wasn't something on my mind. Peter Cramer at Universal was a big proponent of this movie, and he jump-started it, saying, &#x201C;We would be interested if you guys would be interested.&#x201D; We were all driven by one thing: &#x201C;Do we have a story that we're excited to tell?&#x201D; It wasn't &#x201C;let's cash in,&#x201D; I promise. We all were happy doing other things.
+
+It was really joyful to be back with those guys. Their chemistry is incredible. The fact that we have this history helps on set. There's so much trust.
+
+We knew we needed to bring a big new element to this, just like we had in &#x201C;Meet the Fockers,&#x201D; bringing in Dustin Hoffman and Barbra Streisand as Greg's parents. Ariana was the perfect person. She&#x2019;s hilarious, and she's got great timing. I can't believe she's been in as few big movies as she has, because she's so skilled. Bringing her in was this injection of awesomeness. She would light up the set. I really love her energy, and she's so much fun to be around and to work with — so engaged and committed and professional and early. She was always the first one there.
+
+Oh, they were totally game. Ben Stiller is basically the most committed actor who could ever exist. As long as he thinks it's right for the story, he will go for it, 100%. The first day of rehearsal — Ben and Ari had met, but they hadn't rehearsed — was the Heimlich maneuver scene. So it was literally, like, &#x201C;Ben, Ari — say hi to each other. OK, now you're gonna get behind Ben and start giving him the Heimlich.&#x201D; Ari was tentative at first because they didn't know each other well. And Ben's like, &#x201C;Go for it. Don't worry.&#x201D; There were no stunt doubles. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+That was a very physical scene. That was crazy to shoot. Ari took the kitchen stuff really seriously and took multiple lessons with a world-class chef to learn knife skills. It was the sous chef of my good friend Dan Barber, who owns Blue Hill at Stone Barns. And then the flame, it wasn't done all with CGI. There was a special-effects flame that shot up in Ben's face, and then Ariana was swatting him, and he was pushing back. They were both so in it. Ben was saying, &#x201C;Swat me in the face,&#x201D; and Ariana was saying, &#x201C;Put your hand on my face to push me away!&#x201D; There was no being shy around each other.
+
+De Niro, at 82 years old, was cruising on that bike. He has this very unique way of riding a bike. His shoulders kind of rock back and forth, and he was super into it. Ariana took lessons to get as proficient as possible on the bike. Ben is a big cyclist, so he slipped into that pretty easily.
+
+Bob is a fitness guy. He takes it really seriously. I was talking to his trainer and he was like, &#x201C;No, Bob hits it hard many days of the week.&#x201D; But Jack Byrnes is suddenly into wellness in a way he hadn't been in the previous movies, so Bob got even more ripped and stronger for the role. He went full Jake LaMotta in &#x201C;Raging Bull.&#x201D; Bob and Ben knew there was a scene where they were both going to be in speedos, so they're like, &#x201C;We gotta go for it.&#x201D;
+
+You'd have to ask Bob. I'm not sure, but Bob has kids and grandkids. He's around young people all the time, so Bob's pretty hip. I think he knew. He might not let that on, but he'd be like, &#x201C;I know, John. I know.&#x201D;
+
+Look, I have no one to blame but myself. I wrote that line. Maybe there's more to mine, but only if it's organic and feels like there's a reason for it to exist. Talk to me after Thanksgiving weekend.
+
+I have some people in mind, but there's no way I could talk about this right now. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid3' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+I was a fan of Cole's, and flight attendants are very important in these movies. Rachel Tenner, our casting director, was like, &#x201C;What about Cole Escola?&#x201D; Immediately, my producers and I were like, &#x201C;That would be perfect.&#x201D; Cole might be one of the funniest human beings I've ever been around, and they made Ben and Ariana die laughing for those three days that they were on set.
+
+I wanted to bring back the lie detector, because that's such an important part of the franchise. And now we have Olivia Jones, who is FBI, so she might know her way around a lie detector. You're probably going to have a dinner table scene. The dinner table scene in the first movie ends in such a funny way, with Greg breaking the urn of Jack's mom and Jinx [the cat] peeing on the ashes. I don't know that we're ever going to top that, but what can we do that will take the audience by surprise and feel right for the story? So I wrote the part with Greg baby-birding Grandpa Jack. It's a pretty epic moment. My fellow filmmakers on this movie were a little skeptical, and I'm wrong about a lot of stuff, but I was like, &#x201C;Guys, I feel it in my gut. This is gonna work.&#x201D;
+
+That's really important, because it's been a long time since &#x201C;Meet the Parents.&#x201D; I have to assume that many people aren't that familiar, or maybe they saw it a long time ago. I wanted to make this movie work if you'd never seen any of the &#x201C;Meet the Parents,&#x201D; as a funny, heartfelt, character-based comedy. But then, of course, it is a &#x201C;Meet the Parents&#x201D; movie, so there's going to be certain touchstones. My job was finding fresh ways in.
+
+Yes, of course. They were so incredible in &#x201C;Meet the Fockers.&#x201D; But I wanted to bring it back to the simplicity of the original &#x201C;Meet the Parents.&#x201D; Dustin and Barbra are so iconic that I didn't want to bring them back in a smaller part if I couldn't service their characters, because I had all these new characters. If I brought them back, I would have to take away from Olivia, Henry, Samantha and Eduardo. It was a hard choice. Not that they would have agreed to come back. But for this story, it didn't feel like the movie could hold all of that. But maybe in a fifth one&#x2026; blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
+
+It's got to be the writing. No, I'm just kidding. If you use that quote, you have to say I was joking. I believe it's because the themes are relatable and timeless. Everybody, at one point in their lives, is probably going to introduce their significant other to their families.
+
+As far as making the movie, it wasn't that different. Universal gave us so much support. One thing is studios literally stopped making this type of comedy for theaters. It's hard to point to the last one. I'm not talking about hilarious movies like the &#x201C;Naked Gun&#x201D; or &#x201C;Scary Movie&#x201D; reboots. Those are a little different, because they're in their own sub-genre. But the movies I made or watched in the '90s and 2000s stopped getting made. They moved to streaming, which can be great, but it's just different. I think people were missing that communal feeling of being in a theater with hundreds of people and sharing laughter at cringe moments.
+
+This interview has been edited and condensed.
+
+============================================================
+[6] Macy's Thanksgiving Day Parade Postponed Due To Weather
 Source: Deadline | Status: expanded | Words: 67
 Published: 2026-11-25T20:56:47+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-day-parade-postponed-1237233595
@@ -23,7 +221,7 @@ Comments On Deadline Hollywood are monitored. So don't go off topic, don't imper
 &#916; document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 
 ============================================================
-[2] The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers &#038; Cinephiles
+[7] The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers &#038; Cinephiles
 Source: The Playlist | Status: summary_only | Words: 109
 Published: 2026-11-25T20:55:51+00:00
 URL: https://theplaylist.net/holiday-gift-guide-best-gifts-movie-lovers-cinephiles-20261125
@@ -35,7 +233,7 @@ CONTENT / EXTRACTED DETAILS:
 It’s Holiday gift guide time! Physical media was supposed to be dying, but somebody forgot to tell the boutique labels, restoration specialists, and obsessive collectors who keep finding reasons to buy another edition of a movie they already own. And 2026 has been particularly generous to anyone whose shelves are already threatening to collapse under the weight of all those movie box sets. This year brings an enormous Stanley Kubrick retrospective, long-awaited 4K restorations, newly assembled filmmaker collections, and enough lavishly illustrated cinema books to make a coffee table buckle. Continue reading The Playlist’s 2026 Holiday Gift Guide: 31 Essential Gifts For Movie Lovers & Cinephiles at The Playlist.
 
 ============================================================
-[3] Aaron Rodgers Released By NFL's Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching
+[8] Aaron Rodgers Released By NFL's Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching
 Source: Deadline | Status: expanded | Words: 520
 Published: 2026-11-25T20:55:31+00:00
 URL: https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574
@@ -71,7 +269,7 @@ Rodgers signed with the Steelers this season as a swan song and was planning to 
 Watch Aaron Rodgers' full interview in the video below.
 
 ============================================================
-[4] Gwyneth Paltrow Is Amazing In Marty Supreme, But She Didn’t Know If Hollywood Would Want Her Back
+[9] Gwyneth Paltrow Is Amazing In Marty Supreme, But She Didn’t Know If Hollywood Would Want Her Back
 Source: CinemaBlend | Status: expanded | Words: 221
 Published: 2026-11-25T20:53:09+00:00
 URL: https://www.cinemablend.com/movies/gwyneth-paltrow-talks-marty-supreme-uncertainties-about-hollywood-wanting-her-back
@@ -89,7 +287,7 @@ Marty Supreme turned out to be a really smart choice for the former Glee star to
 When it came to generating buzz for the Timothée Chalamet starrer, the PR blitz included a massive orange blimp touring across the U.S., fans camping out for the viral Marty jackets , and even the Las Vegas Sphere being turned into a giant ping pong.
 
 ============================================================
-[5] BÉIS' Black Friday Sale Drops Up to 50% Off Bags and Suitcases From Shay Mitchell's Star-Loved Luggage Line
+[10] BÉIS' Black Friday Sale Drops Up to 50% Off Bags and Suitcases From Shay Mitchell's Star-Loved Luggage Line
 Source: The Hollywood Reporter | Status: expanded | Words: 213
 Published: 2026-11-25T20:49:30+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/beis-black-friday-sale-2026-best-luggage-deals-discounts-1236763253
@@ -109,7 +307,7 @@ B&#xC9;IS was founded by Mitchell in 2018 after she says she saw a "gaping white
 The company has since grown to be one of the most popular and well-respected brands in the luggage space, while also being among the most profitable, with reports pegging revenue at upwards of $200 million .
 
 ============================================================
-[6] Breaking Baz: 'Bunker' Writer-Director Florian Zeller Takes Us Behind The Scenes With Penélope Cruz, Javier Bardem, Stephen Graham &#038; Dame Eileen Atkins
+[11] Breaking Baz: 'Bunker' Writer-Director Florian Zeller Takes Us Behind The Scenes With Penélope Cruz, Javier Bardem, Stephen Graham &#038; Dame Eileen Atkins
 Source: Deadline | Status: expanded | Words: 2368
 Published: 2026-11-25T20:45:00+00:00
 URL: https://deadline.com/2026/11/bunker-florian-zeller-penelope-cruz-javier-bardem-interview-1237233549
@@ -169,7 +367,7 @@ Sony Pictures Classics opens Bunker in select U.S. cities on December 11 and the
 StudioCanal will release the film in the U.K. and Ireland on February 19.
 
 ============================================================
-[7] ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror
+[12] ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror
 Source: The Playlist | Status: summary_only | Words: 108
 Published: 2026-11-25T20:45:00+00:00
 URL: https://theplaylist.net/anne-rice-mayfair-witches-salem-coven-trailer-alexandra-daddario-20261125
@@ -181,7 +379,7 @@ CONTENT / EXTRACTED DETAILS:
 Will Rowan Fielding survive Salem? “ Anne Rice’s Mayfair Witches: Salem Coven ” focuses on a legendary location and its tragic history. The upcoming eight-episode season sees Rowan’s magic pushed to the limit thanks to an unstoppable force. She’ll find new friends and foes as witches face a life-changing destiny.&nbsp; The series is a two-time Academy of Science Fiction, Fantasy and Horror Films Saturn Award nominee. Michelle Ashford and Esta Spalding adapted the project from Anne Rice’s popular “ Lives of the Mayfair Witches ” novels. Continue reading ‘Anne Rice’s Mayfair Witches: Salem Coven’ Trailer: Alexandra Daddario Returns For A Third Season Of Supernatural Horror at The Playlist.
 
 ============================================================
-[8] Ariana Grande Says "Insane Perception" of "Petal" Music Video Felt Like 'Black Mirror' and Intention Was "Me Sharing a Vulnerable Thing"
+[13] Ariana Grande Says "Insane Perception" of "Petal" Music Video Felt Like 'Black Mirror' and Intention Was "Me Sharing a Vulnerable Thing"
 Source: The Hollywood Reporter | Status: expanded | Words: 885
 Published: 2026-11-25T20:40:34+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/ariana-grande-petal-music-video-insane-perception-black-mirror-1236763215
@@ -217,7 +415,7 @@ The Grammy winner continued, "Those are two of my favorite videos, &#x2018;Hate 
 Grande is currently starring in Focker-in-Law alongside Robert De Niro and Ben Stiller.
 
 ============================================================
-[9] Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
+[14] Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
 Source: The Hollywood Reporter | Status: expanded | Words: 228
 Published: 2026-11-25T20:38:25+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/black-friday-streaming-deals-2026-1236763158
@@ -239,7 +437,7 @@ Plus, save 50-plus percent on select movies and TV shows in the Prime Video stor
 Frndly includes over 50 family-friendly networks, including Hallmark Channel, A&E, History and Lifetime; and unlimited DVR and streaming on up to four screens. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[10] I’ve Been Worried About 9-1-1 Season 10’s Big Athena Scare, And Now The EP Has A Cryptic Take
+[15] I’ve Been Worried About 9-1-1 Season 10’s Big Athena Scare, And Now The EP Has A Cryptic Take
 Source: CinemaBlend | Status: expanded | Words: 232
 Published: 2026-11-25T20:32:39+00:00
 URL: https://www.cinemablend.com/television/9-1-1-ep-shares-crytpic-take-season-10-athena-scare
@@ -257,7 +455,7 @@ It’s no secret that 9-1-1 has been putting Athena through the wringer over the
 So fans will just have to find out in January. Whatever the case may be, this is likely it won't be resolved easily. Hopefully, it’s not as serious as it looks, but given this is 9-1-1 , there's a chance that this is the start of a serious situation.
 
 ============================================================
-[11] David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” &#038; The Two May Make An Animated Film
+[16] David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” &#038; The Two May Make An Animated Film
 Source: The Playlist | Status: summary_only | Words: 123
 Published: 2026-11-25T20:26:20+00:00
 URL: https://theplaylist.net/david-fincher-says-brad-pitt-turned-down-his-scariest-movie-ever-the-two-may-make-an-animated-film-20261125
@@ -269,7 +467,7 @@ CONTENT / EXTRACTED DETAILS:
 It took nearly two decades for David Fincher and Brad Pitt to make another movie together following 2008’s “ The Curious Case Of Benjamin Button ,” but it certainly wasn’t for a lack of trying. The pair have finally reunited for the Quentin Tarantino -written “ The Further Mis-Adventures Of Cliff Booth ” (read our review), and, as Fincher revealed in a new interview on The Big Picture podcast, there have been several other projects they’ve discussed over the years, including a particularly scary movie Pitt wasn’t interested in making and a potential animated film they’ve been kicking around. Continue reading David Fincher Says Brad Pitt Turned Down His “Scariest Movie Ever” & The Two May Make An Animated Film at The Playlist.
 
 ============================================================
-[12] 'GTA VI' Just Might Turn Carly Rae Jepsen Into A "Late in Life Gamer"
+[17] 'GTA VI' Just Might Turn Carly Rae Jepsen Into A "Late in Life Gamer"
 Source: The Hollywood Reporter | Status: expanded | Words: 865
 Published: 2026-11-25T20:25:48+00:00
 URL: https://www.hollywoodreporter.com/music/music-features/gta-vi-carly-rae-jepsen-runaway-with-me-interview-1236763127
@@ -305,7 +503,7 @@ Jepsen admits she hasn't actually played GTA VI , but she has seen the scene in 
 The singer thinks it's a game she could get into, given its cinematic nature. "It's everything that I want to put into the music that I make," she says. "I'm going to become a late in life gamer."
 
 ============================================================
-[13] Avengers: Doomsday Has Already Outgrossed Supergirl &#038; Clayface Three Weeks Before Release
+[18] Avengers: Doomsday Has Already Outgrossed Supergirl &#038; Clayface Three Weeks Before Release
 Source: ComicBook.com | Status: expanded | Words: 605
 Published: 2026-11-25T20:24:48+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-has-already-outgrossed-supergirl-clayface-three-weeks-before-release
@@ -333,7 +531,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Rosamund Pike On Starring in Spiky Stage Drama 'Inter Alia': "I Like to Do Things That Are Provocative"
+[19] Rosamund Pike On Starring in Spiky Stage Drama 'Inter Alia': "I Like to Do Things That Are Provocative"
 Source: The Hollywood Reporter | Status: expanded | Words: 1119
 Published: 2026-11-25T20:24:05+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/arts/rosamund-pike-inter-alia-broadway-interview-1236762507
@@ -379,7 +577,7 @@ From her own time in British courts, Pike said she was struck by the way in whic
 &#x201C;I've sat in court and watched so many men be found not guilty of sexual assault,&#x201D; Pike said. &#x201C;I think Susie Miller always wants to raise a conversation within the law.&#x201D;
 
 ============================================================
-[15] How 'Backrooms' Artisans Transformed YouTube Series Into Cinema’s Favorite Liminal Space Using 30,000 Square Feet of Sets and Four Sound Stages
+[20] How 'Backrooms' Artisans Transformed YouTube Series Into Cinema’s Favorite Liminal Space Using 30,000 Square Feet of Sets and Four Sound Stages
 Source: Variety | Status: expanded | Words: 863
 Published: 2026-11-25T20:14:20+00:00
 URL: https://variety.com/2026/artisans/news/backrooms-visual-effects-production-design-1236958246
@@ -411,7 +609,7 @@ But it was really helped with the use of blue screen. &#x201C;We built everythin
 In the end, "Backrooms" came together with a set that measured over 30,000 square feet and used four stages.
 
 ============================================================
-[16] Amanda Seyfried Reveals Secret Elizabeth Holmes Role in 'You Can See Everything' Required a "Five-Factor Authentication App" to Read Script
+[21] Amanda Seyfried Reveals Secret Elizabeth Holmes Role in 'You Can See Everything' Required a "Five-Factor Authentication App" to Read Script
 Source: The Hollywood Reporter | Status: expanded | Words: 408
 Published: 2026-11-25T20:13:50+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-script-elizabeth-1236763095
@@ -437,7 +635,7 @@ Although Seyfried kept her participation in the film private for the better part
 YCSE has crossed $100 million worldwide at the box office and became the first documentary film to have one million Letterboxd members log it as watched.
 
 ============================================================
-[17] Boucheron Opens Doors to South Coast Plaza Store
+[22] Boucheron Opens Doors to South Coast Plaza Store
 Source: The Hollywood Reporter | Status: expanded | Words: 395
 Published: 2026-11-25T20:08:26+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/style/south-coast-plaza-stores-boucheron-luxury-jewelry-1236763216
@@ -459,7 +657,7 @@ Also of note: a custom moir&#xE9; wall panel from De Gournay that is hand-embroi
 Back in Los Angeles, Boucheron is located on Rodeo Drive at 449 N. Rodeo Dr. in Beverly Hills, Calif. More information on the maison can be found here , while views from the South Coast Plaza store can be seen below.
 
 ============================================================
-[18] Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in 'Cliff Booth'
+[23] Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in 'Cliff Booth'
 Source: The Hollywood Reporter | Status: expanded | Words: 1421
 Published: 2026-11-25T20:05:21+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216
@@ -519,7 +717,7 @@ So when you get a text that Fincher wants to cast you in a film written by Taran
 He quips with a laugh, "I'm still only in my 20s. I got a ways to go, you know what I mean?"
 
 ============================================================
-[19] Sakamoto Days Ends With Shonen Jump's Best 2026 Finale
+[24] Sakamoto Days Ends With Shonen Jump's Best 2026 Finale
 Source: ComicBook.com | Status: expanded | Words: 661
 Published: 2026-11-25T20:05:00+00:00
 URL: https://comicbook.com/anime/feature/sakamoto-days-ends-with-shonen-jumps-best-2026-finale
@@ -545,7 +743,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] Alexandra Daddario Had To Wear Lots Of Corsets In Hershey, But It Was ‘Fantastic’
+[25] Alexandra Daddario Had To Wear Lots Of Corsets In Hershey, But It Was ‘Fantastic’
 Source: CinemaBlend | Status: expanded | Words: 198
 Published: 2026-11-25T20:02:00+00:00
 URL: https://www.cinemablend.com/movies/alexandra-daddario-wear-corsets-hershey-fantastic
@@ -561,7 +759,7 @@ I can totally see how the corsets helped Daddario. While painful at times, they 
 I love how much these looks helped her get into character. As someone who has been a fan of Alexandra Daddario’s fashion game for years, I was looking forward to speaking with her about her outfits in Hershey , because they stand out so much. They’re beautiful and fitting for the time, and I think it’s so cool that they really helped the actress find her character.
 
 ============================================================
-[21] 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift"
+[26] 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift"
 Source: The Playlist | Status: summary_only | Words: 148
 Published: 2026-11-25T20:01:06+00:00
 URL: https://theplaylist.net/chris-pratt-confirms-the-terminal-list-season-3-savage-son-20261125
@@ -573,7 +771,7 @@ CONTENT / EXTRACTED DETAILS:
 Chris Pratt is giving audiences a meaty update concerning the future of his series " The Terminal List ," revealing which book from the series, created by author Jack Carr , it will adapt, giving some idea of where the third season could be going (Season 2 being an adaptation of " True Believer "). After confirming to ScreenRant that the next season of the Prime show would adapt the novel " Savage Son ," Pratt, who is promoting his new family comedy " Way of the Warrior Kid ," went on to tell the outlet about how they're planning on moving forward with the show and made it clear it won't be a spinoff like " Dark Wolf ," but part of that third season. Continue reading 'The Terminal List': Chris Pratt Confirms Proper Season 3 Will Adapt 'Savage Son' Novel In "Exciting Shift" at The Playlist.
 
 ============================================================
-[22] NFL On The Future Of Netflix's Thanksgiving Eve Game &#038; Starting A New Tradition: "We Are Committed"
+[27] NFL On The Future Of Netflix's Thanksgiving Eve Game &#038; Starting A New Tradition: "We Are Committed"
 Source: Deadline | Status: expanded | Words: 685
 Published: 2026-11-25T20:00:00+00:00
 URL: https://deadline.com/2026/11/nfl-future-netflix-thanksgiving-eve-game-tradition-1237233072
@@ -605,7 +803,7 @@ Netflix is set to bring the Thanksgiving Eve game back in 2027 as part of their 
 Netflix&#x2019;s Thanksgiving Eve game streams on Wednesday, November 25, starting at 8 p.m. ET / 5 p.m. PT and will feature U2 during the halftime show.
 
 ============================================================
-[23] Disney+ and Hulu's Black Friday Deal Is Here: Get Both Streamers for Just $4.99/Month for an Entire Year
+[28] Disney+ and Hulu's Black Friday Deal Is Here: Get Both Streamers for Just $4.99/Month for an Entire Year
 Source: Variety | Status: expanded | Words: 423
 Published: 2026-11-25T20:00:00+00:00
 URL: https://variety.com/2026/shopping/news/disney-hulu-bundle-black-friday-deal-2026-sign-up-online-1236958031
@@ -635,7 +833,7 @@ Those who took advantage of last year&#x2019;s Black Friday promotion may also q
 Sign up for the Disney+ and Hulu Black Friday bundle before the promotion ends on Nov. 30.
 
 ============================================================
-[24] Jeff Goldblum Breaks Into 'Wicked' Song While Reflecting on His 'Unexpectedly Enduring Career' at Marrakech: 'You Just Follow Your Curiosity and Your Heart'
+[29] Jeff Goldblum Breaks Into 'Wicked' Song While Reflecting on His 'Unexpectedly Enduring Career' at Marrakech: 'You Just Follow Your Curiosity and Your Heart'
 Source: Variety | Status: expanded | Words: 838
 Published: 2026-11-25T19:57:07+00:00
 URL: https://variety.com/2026/film/global/jeff-goldblum-sings-wicked-unexpected-career-marrakech-1236958123
@@ -681,7 +879,7 @@ Hearing the title &#x201C;I Heart Huckabees&#x201D; from the audience, Goldblum 
 The Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[25] Veruschka Dies: German Supermodel Of The 1960s &#038; '70s Who Appeared In 'Blow-Up' Was 87
+[30] Veruschka Dies: German Supermodel Of The 1960s &#038; '70s Who Appeared In 'Blow-Up' Was 87
 Source: Deadline | Status: expanded | Words: 445
 Published: 2026-11-25T19:55:37+00:00
 URL: https://deadline.com/2026/11/veruschka-dead-1237233496
@@ -707,7 +905,7 @@ Although she only occasionally returned to modeling over the decades, Veruschka 
 Information on survivors was not immediately available.
 
 ============================================================
-[26] Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan
+[31] Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan
 Source: Variety | Status: expanded | Words: 651
 Published: 2026-11-25T19:55:34+00:00
 URL: https://variety.com/2026/film/global/awkwafina-cancer-drama-kate-might-die-mercedes-bryce-morgan-1236951703
@@ -755,7 +953,7 @@ Her actors were game to try that as well.
 &#x201C;Ken Jeong and Awkwafina are making each other laugh, but they&#x2019;re also making each other cry. As long as it&#x2019;s emotionally true, it doesn&#x2019;t matter what genre your film is or how much you base it in reality. Ultimately, that&#x2019;s what shines through to people.&#x201D;
 
 ============================================================
-[27] Doc Talk Podcast: ‘The Eyes Of Ghana’s Ben Proudfoot &#038; Nana Frimpong On Their Oscar Contender Backed By The Obamas &#038; IShowSpeed
+[32] Doc Talk Podcast: ‘The Eyes Of Ghana’s Ben Proudfoot &#038; Nana Frimpong On Their Oscar Contender Backed By The Obamas &#038; IShowSpeed
 Source: Deadline | Status: expanded | Words: 386
 Published: 2026-11-25T19:45:45+00:00
 URL: https://deadline.com/2026/11/eyes-of-ghana-directors-podcast-obama-ishowspeed-1237233501
@@ -779,7 +977,7 @@ That&#x2019;s on the new episode of Doc Talk hosted by Oscar winner John Ridley 
 Listen to the episode above or on major podcast platforms including Spotify , iHeart and Apple .
 
 ============================================================
-[28] 'Avengers: Doomsday' Eyes $270M Opening as 'Dune: Part Three' Also Heads for Big Start
+[33] 'Avengers: Doomsday' Eyes $270M Opening as 'Dune: Part Three' Also Heads for Big Start
 Source: The Hollywood Reporter | Status: expanded | Words: 327
 Published: 2026-11-25T19:45:27+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-box-office-tracking-dune-part-three-1236763223
@@ -801,7 +999,7 @@ Avengers: Doomsday includes an extensive list of Marvel superheroes facing off a
 The Russos helm Avengers: Doomsday from a script by Michael Waldron and Stephen McFeely. The directing duo return to lead an MCU feature for the first time since Avengers: Endgame .
 
 ============================================================
-[29] 5 Thanksgiving Comic Book Stories That Went Horribly Wrong, and Not Always Because of Supervillains
+[34] 5 Thanksgiving Comic Book Stories That Went Horribly Wrong, and Not Always Because of Supervillains
 Source: ComicBook.com | Status: expanded | Words: 1182
 Published: 2026-11-25T19:42:00+00:00
 URL: https://comicbook.com/comics/list/5-thanksgiving-comic-book-stories-that-went-horribly-wrong-and-not-always-because-of-supervillains
@@ -851,7 +1049,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon
+[35] Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon
 Source: Variety | Status: expanded | Words: 1293
 Published: 2026-11-25T19:41:16+00:00
 URL: https://variety.com/2026/film/global/horror-soulala-youtube-generation-saudi-doha-1236956740
@@ -895,7 +1093,7 @@ When asked what he thinks of the &#x201C;Backrooms&#x201D; slash &#x201C;Obsessi
 &#x201C;Soulala&#x201D; is produced by Arabia Pictures, DH&#x2019;BAB and Desert Motion Pictures. The film will be released in Saudi cinemas from Dec. 23 via Arabia Pictures.
 
 ============================================================
-[31] I’ve Wondered Why X-Men Vets Halle Berry And Anna Paquin Aren’t In Doomsday. The Russos Weigh In
+[36] I’ve Wondered Why X-Men Vets Halle Berry And Anna Paquin Aren’t In Doomsday. The Russos Weigh In
 Source: CinemaBlend | Status: expanded | Words: 241
 Published: 2026-11-25T19:39:10+00:00
 URL: https://www.cinemablend.com/movies/russo-brothers-explain-x-men-vets-halle-berry-anna-paquin-absence-doomsday
@@ -911,7 +1109,7 @@ In fairness, the Russos are shrewd when it comes to assembling (no pun intended)
 Bringing those OGs into the fold seemed to be the realization of a dream not just for the Russos but for producer Kevin Feige as well. Feige’s producing career notably started years ago when Lauren Shuler Donner tapped him as an associate producer on 2000’s X-Men . Now, the super producer is in the position to have his MCU characters interact with the famous mutants for what may be the latter group’s final stand within the multiverse.
 
 ============================================================
-[32] 'The Pitt' Sets Season 3 Premiere Date
+[37] 'The Pitt' Sets Season 3 Premiere Date
 Source: Deadline | Status: expanded | Words: 382
 Published: 2026-11-25T19:25:39+00:00
 URL: https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493
@@ -935,7 +1133,7 @@ Regarding the plot for Season 3, Wyle told Deadline, &#x201C;Season 3 is about d
 Watch the social media announcement below.
 
 ============================================================
-[33] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
+[38] Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively
 Source: The Hollywood Reporter | Status: expanded | Words: 340
 Published: 2026-11-25T19:18:55+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140
@@ -959,7 +1157,7 @@ And Disney-owned FX has given a three-season pickup to Welcome to Wrexham , the 
 News of Reynolds' representation switch was first reported by Page Six Hollywood.
 
 ============================================================
-[34] ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
+[39] ‘Avengers: Doomsday’ Launches 'Monopoly Go' Tie-In Season ‘Doomsday Go' (Gaming News Roundup)
 Source: Variety | Status: expanded | Words: 473
 Published: 2026-11-25T19:12:12+00:00
 URL: https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-nov-23-1236956394
@@ -991,7 +1189,7 @@ The game introduces a new generation to the series by recreating the look and sp
 &#x201C;Recreating Thunderbirds, such an iconic piece of British television and a treasured brand at ITV Studios, required immense care, passion and dedication,&#x201D; Ashley Lewis, managing director of Metavision, said. &#x201C;By pairing the unmistakable DNA and enduring spirit of the 1960s original with Roblox&#x2019;s rapidly evolving technical capabilities, we&#x2019;ve been able to bring Tracy Island and its iconic rescues to life with truly impressive scale and fidelity. We hope we&#x2019;ve created an authentic experience for long-standing fans while introducing a new generation to the excitement and imagination of Thunderbirds.&#x201D;
 
 ============================================================
-[35] A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)
+[40] A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)
 Source: The Hollywood Reporter | Status: expanded | Words: 394
 Published: 2026-11-25T19:08:15+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568
@@ -1015,7 +1213,7 @@ Snips has previously partnered with Banijay Rights and BIG Media to distribute m
 &#x201C;The idea of Snips, it's to be a platform. We're not creating our own content because we don't want to compete with our content partners,&#x201C; Ben Shimon said in an interview with The Hollywood Reporter. &#x201C;The idea for us is that we're building relationships first [with] adapting content. Second, [our content partners] think about testing things or testing new genres with us."
 
 ============================================================
-[36] As 'Hello Kitty' Joins Thanksgiving Parade, Sanrio Execs Tease 'Magical' Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand's Gen Alpha Strategy
+[41] As 'Hello Kitty' Joins Thanksgiving Parade, Sanrio Execs Tease 'Magical' Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand's Gen Alpha Strategy
 Source: Variety | Status: expanded | Words: 1605
 Published: 2026-11-25T19:00:00+00:00
 URL: https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985
@@ -1055,7 +1253,7 @@ Takiguchi: I would say, as we represent North America because we're a global bra
 Koch: We find too, like with all events, but sports in particular, our fans crave interacting together and going to an event together. With all the games, in a lot of cases, a lot of girlfriends will get together and that might be the one baseball game they go to all year, where eight of them will go together and it'll be like their special day out or family or dad and daughter. So we also see from a fan perspective, they love that and they also love meeting other fans that obviously share the love of the brand. I'll use this last Dodgers game as a good example from August. We had a blind box plush as the game giveaway, so it was one of five [possible Hello Kitty and Friends characters in the box], and we saw with fans all the content they posted after. So many were opening it, and like, &#x201C;Oh, I love Pompompurin, but I wanted Kuromi&#x201D; and then meeting a stranger and exchanging and making new friends. So for us, that was everything. It's like coming together, making new friends, sharing a connection, which is what people love about our brand. And that emotional connection is what makes our brand unique. So to see that all come together at once is really fulfilling from the brand side of things.
 
 ============================================================
-[37] 5 Good Movies That Actually Have Terrible Writing &#038; I Can Explain Why
+[42] 5 Good Movies That Actually Have Terrible Writing &#038; I Can Explain Why
 Source: ComicBook.com | Status: expanded | Words: 1574
 Published: 2026-11-25T18:59:00+00:00
 URL: https://comicbook.com/movies/list/5-good-movies-that-actually-have-terrible-writing-i-can-explain-why
@@ -1095,7 +1293,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Ariana Grande Says 'Petal' Music Video Backlash Felt Like 'Black Mirror' and 'I Wouldn’t Change a Thing. I'd Put It Out Again Today As Is'
+[43] Ariana Grande Says 'Petal' Music Video Backlash Felt Like 'Black Mirror' and 'I Wouldn’t Change a Thing. I'd Put It Out Again Today As Is'
 Source: Variety | Status: expanded | Words: 581
 Published: 2026-11-25T18:55:28+00:00
 URL: https://variety.com/2026/music/news/ariana-grande-petal-music-video-backlash-black-mirror-1236958153
@@ -1117,7 +1315,7 @@ Following the video's criticism, Grande released a statement declaring that she 
 Grande recently announced that she will be releasing the documentary "The Eternal Sunshine Diaries: The Making of the Tour, premiering on December 11, followed by the concert film "The Eternal Sunshine Tour" on December 12, exclusively on Peacock. She is currently on a press run in the lead-up to the release of "Focker-in-Law," in theaters today.
 
 ============================================================
-[39] David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’
+[44] David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’
 Source: Variety | Status: expanded | Words: 786
 Published: 2026-11-25T18:55:08+00:00
 URL: https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022
@@ -1155,7 +1353,7 @@ Fincher and Netflix have not commented on those instances, though he told the Lo
 Netflix has also been a proponent of AI in filmmaking, purchasing Ben Affleck's AI tool startup InterPositive for $587 million in March and revealing in August that more than 300 programs in its catalog have used some level of generative AI this year.
 
 ============================================================
-[40] Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel &#038; Says It’s “Doubtful” There Will Be Further Adventures
+[45] Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel &#038; Says It’s “Doubtful” There Will Be Further Adventures
 Source: The Playlist | Status: summary_only | Words: 122
 Published: 2026-11-25T18:51:07+00:00
 URL: https://theplaylist.net/brad-pitt-calls-cliff-booth-an-episode-not-a-sequel-says-its-doubtful-there-will-be-further-adventures-20261125
@@ -1167,7 +1365,7 @@ CONTENT / EXTRACTED DETAILS:
 While Quentin Tarantino has entertained the idea of turning Cliff Booth into a recurring pulp hero, even suggesting he could write a series of paperbacks centered on the character, audiences probably shouldn’t count on more movies. With David Fincher’s “ The Further Mis-Adventures of Cliff Booth ” opening in IMAX today, Brad Pitt is already casting serious doubt on another return to his Oscar-winning role. Speaking alongside Fincher on watch enthusiast publication Hodinkee’s Talking Watches series, Pitt explained how Tarantino conceived the follow-up to “ Once Upon a Time in Hollywood ” (read our review of ‘Cliff Booth’). Continue reading Brad Pitt Calls ‘Cliff Booth’ An “Episode,” Not A Sequel & Says It’s “Doubtful” There Will Be Further Adventures at The Playlist.
 
 ============================================================
-[41] MasterClass Courses — From Spike Lee, Mark Cuban and Martha Stewart — Are 50% Off This Black Friday
+[46] MasterClass Courses — From Spike Lee, Mark Cuban and Martha Stewart — Are 50% Off This Black Friday
 Source: Variety | Status: expanded | Words: 535
 Published: 2026-11-25T18:47:53+00:00
 URL: https://variety.com/shop/best-masterclass-deal-promo-1234835035
@@ -1193,7 +1391,7 @@ Their annual subscription gets users instant access to the company&#x2019;s enti
 Check out MasterClass's full subscription offerings and the latest deals on MasterClass.com .
 
 ============================================================
-[42] 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands
+[47] 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands
 Source: The Playlist | Status: summary_only | Words: 89
 Published: 2026-11-25T18:46:31+00:00
 URL: https://theplaylist.net/the-hunting-party-lily-james-universal-pictures-20261125
@@ -1205,7 +1403,7 @@ CONTENT / EXTRACTED DETAILS:
 Actress Lily James and Universal Pictures are joining forces to turn the Lucy Foley novel " The Hunting Party " into a feature film, as the main gist of the project sees a group of friends from Oxford with plans to spend the New Year together at an isolated hunting lodge in the Scottish Highlands before a blizzard traps them there and a dead body suddenly turns up. Continue reading 'The Hunting Party': Lily James Stars In Universal's Holiday Blizzard Thriller Set In The Scottish Highlands at The Playlist.
 
 ============================================================
-[43] Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response
+[48] Jennifer Lopez’s Kid Asked About Her Pants-Free Lifestyle, And She Had The Most Vegas Response
 Source: CinemaBlend | Status: expanded | Words: 196
 Published: 2026-11-25T18:44:25+00:00
 URL: https://www.cinemablend.com/movies/jennifer-lopez-kid-asked-pants-free-lifestyle-she-had-most-vegas-response
@@ -1221,7 +1419,7 @@ Honestly, this tracks. While Jennifer Lopez is known for celebrity fashion , inc
 Honestly, I love this response. It's giving big Vegas energy, but I also think it's a legit way to explain dance costumes to a young child. It would be weird under normal circumstances for Lopez to go pants-free, but on stage it's par for the course. She's still rocking sparkly leotards when performing live to this very day. Smart money we'll see these types of costumes when streaming The JLo Show .
 
 ============================================================
-[44] Dragon Ball Super Will Never Evolve Without Going Beyond Dragon Ball Z's Ending
+[49] Dragon Ball Super Will Never Evolve Without Going Beyond Dragon Ball Z's Ending
 Source: ComicBook.com | Status: expanded | Words: 855
 Published: 2026-11-25T18:41:05+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-will-never-evolve-without-going-beyond-dragon-ball-zs-ending
@@ -1253,7 +1451,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Bowen Yang, Mark Ruffalo and the Rise of Antisemitism in Hollywood
+[50] Bowen Yang, Mark Ruffalo and the Rise of Antisemitism in Hollywood
 Source: The Hollywood Reporter | Status: expanded | Words: 1465
 Published: 2026-11-25T18:34:06+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bowen-yang-mark-ruffalo-antisemitism-hollywood-1236763143
@@ -1291,116 +1489,4 @@ This time, however, Glazer was applauded for his appalling remarks. And when Ste
 There are many ways to measure Hollywood&#x2019;s decline. The lackluster quality of the films. The fall in theatrical attendance. The rise in algorithmic-inspired content. Here&#x2019;s another: the deprecation and marginalization of the people whose creativity helped make it the envy of the world.
 
 James Kirchick is the author of Secret City: The Hidden History of Gay Washington.
-
-============================================================
-[46] Dropout's 'Very Important People' Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests
-Source: Variety | Status: expanded | Words: 307
-Published: 2026-11-25T18:30:12+00:00
-URL: https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190
-------------------------------------------------------------
-SUMMARY:
-Dropout's improv interview series "Very Important People" is set to debut its fourth season Dec. 10 with a new batch of weirdo guests. Hosted by comedian Vic Michaelis, "Very Important People" features improv comedians after they undergo an extensive makeover by a talented team of make-up artists to transform them into an entirely new and […]
-
-CONTENT / EXTRACTED DETAILS:
-Dropout 's improv interview series " Very Important People " is set to debut its fourth season Dec. 10 with a new batch of weirdo guests.
-
-Hosted by comedian Vic Michaelis, "Very Important People" features improv comedians after they undergo an extensive makeover by a talented team of make-up artists to transform them into an entirely new and unexpected person. They create a character for their new look on the spot, and are interviewed by Vic Michaelis, who plays a host also named Vic Michaelis. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Adolescence' Writer Jack Thorne Adapts Matt Haig’s 'The Humans' for London’s West End With 'House of the Dragon' Star Matt Smith 'Harry Potter' Star Paapa Essiedu Says 'I Don’t Want to Talk About' J.K. Rowling 'At All' but 'Trans People Have the Right to Be Treated With Respect and Dignity'
-
-New cast members for "Very Important People" Season 4 include Ben Schwartz (who will be featured in the season premiere episode), Lou Wilson, Bob The Drag Queen, Skye Townsend, Zeke Nicholson, Kirby Howell-Baptiste, Ele Woods and Tien Tran.
-
-Returning to "VIP" this series are previous guest stars Jeremy Culhane, Lisa Gilroy, Brennan Lee Mulligan, Anna Garcia, Oscar Montoya, Bobby Moynihan, Rekha Shankar and Angela Giarratana.
-
-"Very Important People" Season 4 consists of 15 episodes which will release every two weeks on Dropout through June 24.
-
-"Very Important People" is executive produced by David Kerns, Sam Reich, Michaelis and Tamar Levine, who also directed all episodes. Paul Robalino is a co-executive producer, Ebony Elaine Hardin is a supervising producer and Devi Rawal is a producer. Alex Perrone is the makeup designer and Alisha Silverstein is the costume designer.
-
-Watch the trailer for the new season of "Very Important People" below.
-
-============================================================
-[47] Why 60 Minutes Veteran Lesley Stahl Is Supposedly Unhappy With CBS News’ Bari Weiss
-Source: CinemaBlend | Status: expanded | Words: 257
-Published: 2026-11-25T18:29:07+00:00
-URL: https://www.cinemablend.com/television/60-minutes-lesley-stahl-supposedly-unhappy-with-cbs-news-bari-weiss
-------------------------------------------------------------
-SUMMARY:
-There are apparently some major points of contention.
-
-CONTENT / EXTRACTED DETAILS:
-Amid the various changes that have unfolded at 60 Minutes under Bari Weiss’ leadership, a handful of staffers have remained in the fold. Veteran broadcaster Lesley Stahl is one of those people, as she chose to remain with the series alongside cohorts Bill Whitaker and Jon Wertheim. Up to this point, it seemed that Stahl and Weiss had been able to work together harmoniously. However, if a recent report is to be believed, Stahl is now taking issue with CBS News’ Editor-in-Chief for a major reason.
-
-Per this reporting, much of the supposed displeasure on Stahl’s part also has to do with Weiss’ perceived lack of experience in the broadcast news industry. Before Skydance (then Paramount Skydance) chief David Ellison hired Weiss in October 2025, she’d founded the online outlet known as The Free Press. That organization was also acquired by Paramount around the same time Weiss was hired. If these claims about Stahl are true, she wouldn’t be the first to question Weiss’ leadership skills.
-
-Pelley is also one of several former employees who have made claims of “journalistic interference” against the new leadership team at CBS News. He, Cecilia Vega and more have alleged that they were encouraged to insert what they believed to be news-related bias into their reporting. On the other side of this equation, Weiss and co. have denied presenting biased reporting. Some have also come to Weiss’ defense during this time, with CBS Evening News anchor Tony Dokoupil defending her vision and saying he hadn’t personally seen any instances of bias.
-
-============================================================
-[48] Veruschka, Supermodel Who Appeared in 'Blow-Up,' 'Casino Royale,' Dies at 87
-Source: Variety | Status: expanded | Words: 304
-Published: 2026-11-25T18:28:20+00:00
-URL: https://variety.com/2026/film/news/veruschka-supermodel-blow-up-1236958180
-------------------------------------------------------------
-SUMMARY:
-Veruschka, the striking 1960s and '70s supermodel who inspired some of Richard Avedon's most iconic images and appeared in films including Michelangelo Antonioni's "Blow-Up," has died. She was 87. Her death was confirmed by Germany's Bild newspaper. Standing over six feet tall, "Veruschka, with her high forehead, sculptural cheekbones, and elongated limbs, was one of […]
-
-CONTENT / EXTRACTED DETAILS:
-Veruschka, the striking 1960s and '70s supermodel who inspired some of Richard Avedon 's most iconic images and appeared in films including Michelangelo Antonioni's "Blow-Up," has died. She was 87.
-
-Her death was confirmed by Germany's Bild newspaper .
-
-Standing over six feet tall, "Veruschka, with her high forehead, sculptural cheekbones, and elongated limbs, was one of the decade&#x2019;s most arresting presences, whatever aesthetic she took on," wrote Vogue in its obituary. She appeared on 13 American Vogue covers. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories 'Harry Potter' Star Paapa Essiedu Says 'I Don’t Want to Talk About' J.K. Rowling 'At All' but 'Trans People Have the Right to Be Treated With Respect and Dignity' Daniel Radcliffe Is Unsure If He'll Watch HBO’s ‘Harry Potter’ and Says the New Star ‘Doesn’t Need Any Advice From Me’
-
-Born Vera Gottliebe Anna Gr&#xE4;fin von Lehndorff-Steinort in East Prussia, she came from a family of aristocrats. Her father joined the German resistance and was executed when she was 5 years old for being involved in the plot to assassinate Adolf Hitler. She was discovered in Italy when she was an art student and became a model, and after meeting Eileen Ford in Paris, she moved to New York.
-
-In addition to her brief appearance as herself in the iconic 1966 film "Blow-Up," she appeared in several other films including the 2006 version of "Casino Royale," in Franc Roddam's 1985 "The Bride" and in the 1970 "Salome."
-
-She worked with top photographers including David Bailey, Irving Penn, Steven Meisel, Francesco Scavullo and Peter Beard, and worked for fashion houses including YSL, Helmut Lang and Paco Rabanne.
-
-She returned to modeling several times in more recent years, including for Acne Studios in 2018.
-
-============================================================
-[49] Streaming Ratings: 'Rings of Power,' 'Black Doves' Open Lower After Long Gaps Between Seasons
-Source: The Hollywood Reporter | Status: expanded | Words: 480
-Published: 2026-11-25T18:26:07+00:00
-URL: https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-9-15-2026-1236763130
-------------------------------------------------------------
-SUMMARY:
-Both shows last had new episodes in 2024.
-
-CONTENT / EXTRACTED DETAILS:
-Two streaming shows starting new seasons after long breaks saw their U.S. viewing numbers fall off some compared to their most recent outings.
-
-The Lord of the Rings: The Rings of Power and Black Doves were two of the top three original series for the week of Jan. 9-15, but both drew smaller viewing time totals than their previous premiere weeks, both of which came in 2024. The Rings of Power had 866 million minutes of viewing for the the week on Prime Video, with 70 percent of that (about 606 million) devoted to the four episodes of season three that premiered Nov. 11. The 866 million minutes was off by 15 percent from 1.02 billion minutes for season two's first week in August 2024. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization("minsize") ; }); Related Stories TV TV Ratings: NBA Logs Winning Streak in First Month of the Season TV 'The Rings of Power' Officially Renewed for Season 4 With Showrunners Returning
-
-Black Doves , meanwhile, scored 580 million viewing minutes with its season two premiere on Netflix, down 35 percent from its series debut (899 million) in December 2024. Internal viewing data reported by the two streamers also show declines for the two series: In renewing The Rings of Power for a fourth season, Prime Video said 33 million viewers worldwide had watched some of the new season over its first 12 days, compared to 40 million over 11 days for season two. Netflix reported 6.6 million global views for season two of Black Doves for the week; season one had 10.8 million for its first week.
-
-The No. 2 original series for the week was Marvel's VisionQuest , which hit a high of 696 million viewing minutes on Disney+ for the week of its finale. Three shows made their chart debuts: Netflix's The Body (498 million minutes), Hulu's The Secret Lives of Mormon Wives: Orange County (461 million) and Peacock's The Good Daughter (398 million). blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization("minsize") ; });
-
-From continued its hot streak, leading the overall rankings for a fourth consecutive week with 1.55 billion minutes of watch time. The MGM+ series has now racked up 6.92 billion minutes of viewing since its first three seasons were added to Netflix in October.
-
-Tyler Perry's The Gospel of Christmas led the movie top 10 with 372 million minutes of watch time for Netflix. Avengers: Endgame (315 million on Disney+) reappeared on the charts as the run-up to Avengers: Doomsday kicked into a higher gear.
-
-Nielsen's streaming ratings cover viewing on TV sets only and don&#x2019;t include minutes watched on computers or mobile devices. The ratings only measure U.S. audiences. The top streaming titles for Nov. 9-15, 2026, are below.
-
-============================================================
-[50] Takashi Miike's 'Bad Lieutenant: Tokyo' From Neon Sets Spring Release
-Source: Deadline | Status: expanded | Words: 517
-Published: 2026-11-25T18:20:21+00:00
-URL: https://deadline.com/2026/11/bad-lieutenant-tokyo-release-date-1237233449
-------------------------------------------------------------
-SUMMARY:
-Neon's TIFF world premiere, Bad Lieutenant: Tokyo from Takashi Miike (Audition, 13 Assassins) is making a target for theaters on March 5, 2027. The pic stars Shun Oguri (Godzilla v. Kong, No Longer Human) and Lily James (upcoming Swiped and Cliffhanger, Pam and Tommy, Yesterday). WWE star Liv Morgan (Gionna Daddio) joined the cast after […]
-
-CONTENT / EXTRACTED DETAILS:
-Neon's TIFF world premiere, Bad Lieutenant: Tokyo from Takashi Miike ( Audition, 13 Assassins ) is making a target for theaters on March 5, 2027.
-
-The pic stars Shun Oguri ( Godzilla v. Kong, No Longer Human ) and Lily James (upcoming Swiped and Cliffhanger , &#x201C;Pam and Tommy,&#x201D; Yesterday ). WWE star Liv Morgan (Gionna Daddio) joined the cast after her appearance at WWE Wrestlemania 41.
-
-Rosy first told you about sales out of Cannes for the pic.
-
-In the movie, seasoned police detective Yabuki (Shun Oguri), hiding drug addiction, gambling debts, and guilt over past misdeeds, chases a shadowy killer tied to organized crime through Tokyo&#x2019;s labyrinthine underworld. But when he&#x2019;s paired with American FBI agent Gwen Birgssen (Lily James), who&#x2019;s hunting missing American tourist Megan Lovesey (WWE superstar Liv Morgan), their cases become entwined, revealing a disturbing connection. Delving deeper into each other&#x2019;s murky pasts, and a Tokyo that threatens to consume them, Yabuki and Gwen fight to reclaim their respective lives. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories Reviews 'Bad Lieutenant: Tokyo' Review: Takashi Miike Brings Trouble To Tokyo In A Funny Riff On Abel Ferrara's Corrupt Cop Drama - Toronto Film Festival News Pressman Film Delivers On Republic Fundraise With 'Bad Lieutenant: Tokyo' As Investor Platform Welcomes Eli Roth, Robert Rodriguez
-
-The film is a US-Japan co-production, produced by the late Jeremy Thomas for Recorded Picture Company, Sam Pressman for Pressman Film, Naoaki Kitajima for Nippon TV, and Misako Saka for OLM. EPs are Paula Paizes, Ivan Kelava, Peter Watson, Yuzo Kuwahara, Nobuyuki Iinuma, Tetsu Fujimura, Max Loeb, Mike Apgar, Tom Quinn, Sarah Colvin, Kristen Figeroid, Laurel Charnetsky and Alain&#xE9;e Ken. The deal was negotiated by NEON&#x2019;s Sarah Colvin, VP of Acquisitions, and Paula Paizes from Pressman Film and Recorded Picture Company&#x2019;s Ivan Kelava on behalf of the filmmakers.
-
-Written by Daisuke Tengan ( Audition , Imprint and 13 Assassins ) and based on the IP first produced by Edward R. Pressman, Bad Lieutenant: Tokyo was made in the spirit of its predecessors, transporting the story to the streets of Tokyo. The film marks Miike and Tengan&#x2019;s fourth collaboration following their hit films Audition and 13 Assassins .
-
-Miike has directed over 100 feature films including Audition , the yakuza trilogy Dead Or Alive , and thriller Ichi The Killer , as well as other titles including Sukiyaki Western Django, Visitor Q, 13 Assassins , and his 100th film, Blade of the Immortal. His pics at Cannes include Hara-Kiri: Death of a Samurai and Shield of Straw which was in consideration for the Palme d&#x2019;Or. Up next, Miike&#x2019;s has an untitled slasher-horror film, starring Charlie xcx, Milly Alcock, Norman Reedus, Kiko Mizuhara, and Show Kasamatsu.
 
