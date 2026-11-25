@@ -5,9 +5,39 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T17:24:02.446Z"
+    "updated_at": "2026-11-25T17:29:58.537Z"
   },
   "articles": [
+    {
+      "id": "e75cdfc4-9a0b-4ba8-80c9-2e42086454fa",
+      "title": "David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ &#038; Embraces Its Future In Filmmaking: “I’m Not Going Backwards”",
+      "summary": "Wondering where everything stands regarding the brouhaha surrounding David Fincher ’s Quentin Tarantino -written “ The Further Mis-Adventures Of Cliff Booth ,” starring Brad Pitt , and its alleged A.I. usage? Well, we now have some answers, though the more contentious allegations remain unaddressed—and Netflix has not responded to a request for comment or clarification. In a new interview on The Big Picture podcast, Fincher acknowledged using some A.I. Continue reading David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ & Embraces Its Future In Filmmaking: “I’m Not Going Backwards” at The Playlist.",
+      "content": "Wondering where everything stands regarding the brouhaha surrounding David Fincher ’s Quentin Tarantino -written “ The Further Mis-Adventures Of Cliff Booth ,” starring Brad Pitt , and its alleged A.I. usage? Well, we now have some answers, though the more contentious allegations remain unaddressed—and Netflix has not responded to a request for comment or clarification. In a new interview on The Big Picture podcast, Fincher acknowledged using some A.I. Continue reading David Fincher Confirms Some A.I. Use In ‘Cliff Booth’ & Embraces Its Future In Filmmaking: “I’m Not Going Backwards” at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/david-fincher-confirms-ai-use-cliff-booth-future-filmmaking-20261125",
+      "published_at": "2026-11-25T17:28:14+00:00",
+      "image_url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/20155440/david-fincher-CLIFF-BOOTH-Production-Notes-FINAL-9-1024x552.jpg",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 93,
+      "extracted_at": "2026-11-25T17:29:44.684902+00:00",
+      "updated_at": "2026-11-25T17:29:44.684902+00:00"
+    },
+    {
+      "id": "b71ca698-f712-4d01-87f0-fe0b22e4cac9",
+      "title": "'The Pitt' Sets Season 3 Release Date at HBO Max",
+      "summary": "\"The Pitt\" has set its Season 3 premiere date at HBO Max. The third season of the smash hit medical drama will debut on Jan. 7. That is in keeping with the other season premieres of the series, which aired on Jan. 9, 2025, and Jan. 8, 2026 respectively. The official series logline describes \"The […]",
+      "content": "\" The Pitt \" has set its Season 3 premiere date at HBO Max .\n\nThe third season of the smash hit medical drama will debut on Jan. 7. That is in keeping with the other season premieres of the series, which aired on Jan. 9, 2025, and Jan. 8, 2026 respectively.\n\nThe official series logline describes \"The Pitt\" as \"a realistic examination of the challenges facing healthcare workers in today&#x2019;s America as seen through the lens of the frontline heroes working in a modern-day hospital in Pittsburgh.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization(\"minsize\") ; }); Related Stories How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life\n\nThe cast for Season 3 includes: Noah Wyle (Dr. Michael &#x201C;Robby&#x201D; Robinavitch), Patrick Ball (Dr. Langdon), Katherine LaNasa (Dana Evans), Fiona Dourif (Dr. McKay), Taylor Dearden (Dr. King), Isa Briones (Dr. Santos), Gerran Howell (Dr. Whitaker), Shabana Azeez (Javadi), Ayesha Harris (Dr. Ellis), Sepideh Moafi (Dr. Al-Hashimi), and Shawn Hatosy (Dr. Abbot).\n\nAs Variety exclusively reported earlier this year, Supriya Ganesh, who played senior resident Dr. Samira Mohan, has exited the series ahead of the third season.\n\nR. Scott Gemmill created the series and serves as an executive producer along with John Wells via John Wells Productions (JWP), Wyle, Michael Hissrich, Erin Jontow of JWP, Joe Sachs, Simran Baidwan, and Eli Attie.",
+      "source": "Variety",
+      "source_url": "https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110",
+      "published_at": "2026-11-25T17:25:30+00:00",
+      "image_url": "https://variety.com/wp-content/uploads/2026/11/The-Pitt-season-3.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 244,
+      "extracted_at": "2026-11-25T17:25:48.996653+00:00",
+      "updated_at": "2026-11-25T17:25:48.996653+00:00"
+    },
     {
       "id": "5fd4988a-1284-4936-86b2-2f4c5859b545",
       "title": "'Top Gear' Sets 2028 Return — With Gordon Ramsay as Host",
@@ -56,7 +86,7 @@
     {
       "id": "16898668-37db-4a55-81cf-e00e06e230e3",
       "title": "'Avengers: Doomsday' $270M+ Opening Is Highest Pic Ever On NRG Tracking; 'Dune 3' Eyes $75M+ Debut - Box Office Early Look",
-      "summary": "EXCLUSIVE: It's happening. Yes, finally, Disney/Marvel Studio's Russo Brothers' Avengers:Doomsday arrived on NRG's 3 week tracking with a projection of $270M+. Yes, calm down, fanboys, we know, it has a shot at $300M+, but you can't call it until it's there. Legendary/Warner Bros' Dune Part 3 via Paramount is landing on tracking with a $75M […]",
+      "summary": "EXCLUSIVE: It's happening. Yes, finally, Disney/Marvel Studio's Russo Brothers' Avengers:Doomsday arrived on NRG's 3 week tracking with a projection of $270M+. Yes, calm down, fanboys, we know, it has a shot at $300M+, but you can't call it until it's there. Legendary/Warner Bros' Dune Part 3 via Skydance is landing on tracking with a $75M […]",
       "content": "Refresh for more…. It's happening. Yes, finally, Disney/Marvel Studio's Russo Brothers' Avengers:Doomsday arrived on NRG's 3 week tracking with a projection of $270M+ . Yes, calm down, fanboys, we know, it has a shot at $300M+ , but you can't call it until it's there.\n\nLegendary/Warner Bros' Dune Part 3 via Paramount is landing on tracking with a $75M start, and wouldn't be shocking if it went over $80M.\n\nThat's the highest projection NRG has ever recorded, higher than Sony's Spider-Man: Brand New Day which came on at $180M, and yes, wound up at an all-time domestic opening record start of $360M. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News Marvel Plans Patrick Stewart Tribute In 'Avengers: Doomsday' As Anthony Russo Recalls Actor's Last Day Of Filming: \"He Was Struggling With His Health\" News 'Avengers: Doomsday' Final Trailer Clocks 563M Views, Best Ever For Disney; 2nd Most Viewed Of All-Time\n\nWhy isn't Doomsday being called at $300M+ yet? For the usual footnote forecast reasons: it's the weekend before Christmas, there could be a winter storm, not to mention audiences plan their holiday moviegoing. True, none of those have ever fully gotten in the way of a record opening weekend. At the very least, Doomsday is headed to a record December opening ahead of Sony's 2021 Spider-Man: No Way Home ($260M) and also Disney's best ever for December, besting Star Wars: Force Awakens $247.9M debut 11 years ago. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nStill, many are projecting this fanboy charged pre-Christmas weekend as the biggest ever, poised to outstrip the last weekend of July when Spider-Man: Brand New Day drove all titles to $437.1M.\n\nFirst Choice, an excellent indicator of who will actually show up, is enormous with guys under 25 followed immediately after by guys over 25. Guys under 25 in first choice has the same near 50% as Spider-Man: Brand New Day . Guys over 25 are two points behind guys under 25 in first choice; that figure 35% ahead of where Brand New Day was when it arrived on tracking.",
       "source": "Deadline",
       "source_url": "https://deadline.com/2026/11/avengers-doomsday-dune-3-box-office-opening-projection-1237233326",
@@ -65,8 +95,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 404,
-      "extracted_at": "2026-11-25T17:13:44.341206+00:00",
-      "updated_at": "2026-11-25T17:13:44.341206+00:00"
+      "extracted_at": "2026-11-25T17:25:43.835769+00:00",
+      "updated_at": "2026-11-25T17:25:43.835769+00:00"
     },
     {
       "id": "d4b08e48-2475-436b-8c51-9c15311ee9e0",
@@ -727,36 +757,6 @@
       "word_count": 2314,
       "extracted_at": "2026-11-25T15:45:39.942556+00:00",
       "updated_at": "2026-11-25T15:45:39.942556+00:00"
-    },
-    {
-      "id": "a8c54d49-ec86-4832-abd2-47fb366bda20",
-      "title": "'Hunger Games' Producer Admits 'Mockingjay' Should Have Been One Movie",
-      "summary": "Franchise producer Nina Jacobson says adapting one book into two movies rubs fans the wrong way: \"I think audiences find it cynical.\"",
-      "content": "The first two Hunger Games movies? Terrific. Critics and fans agree.\n\nThe next two Hunger Games movies? Well…\n\nAuthor Suzanne Collins' climactic Katniss novel Mockingjay was infamously split into two films, Part 1 and Part 2 . Both are considered a step down from the previous two Hunger Games blockbusters, with lower Rotten Tomatoes critic and audience scores. The uneven Part 1 , in particular, felt like a franchise spinning its wheels. To fans, it all looked like a studio trying to wring more ticket sales from the story. Related Stories Movies Jennifer Lawrence Thinks Her 'Hunger Games' Bow and Arrow Prop Was Stolen Movies 'The Hunger Games: Sunrise on the Reaping' Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada's Star-Making Turn\n\nIn a new interview with Empire , franchise producer Nina Jacobson says that if she and director Francis Lawrence had a second chance, they'd adapt Mockingjay into a single movie. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\n\"Even though I love the Mockingjay films, if I had it to do over again, I think both Francis and I might try to do it all in one,\" Jacobson said. \" Mockingjay was such a big book, and it takes you to so many different places. But in the end, I think that Francis and I both felt that splitting them up&#x2026; even if it did come from an inside-out place of really feeling like we needed two films to tell the story, I think audiences find it cynical. Even if its intentions are earnest, which they were. They feel like it's a play to make them see two films instead of one.\"\n\nThe producer added: \"We really put the burden on ourselves [now], even when it's a big book, to transform it into a theatrical experience, to not take advantage of your audience&#x2019;s patience, to make it as tight as we can. [ Sunrise On The Reaping ] is the longest [film] by a minute or two of all of them.\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nAt the time, splitting the final book in a fantasy franchise into two films was a bit of a trend. Warner Bros. did it with JK Rowling's Harry Potter and the Deathly Hallows and Summit did it with Stephenie Meyer's' Breaking Dawn .\n\nAnd while the Mockingjay films were considered creatively weaker than the previous two movies, they still were generally liked &#x2014; neither was an outright misstep &#x2014; and did boffo box office, with 2014's Part 1 grossing $775 million and 2015's Part 2 grossing $653 million.\n\nThe new film, Sunrise on the Reaping , grossed a strong $120 million in its opening weekend, marking a rebound for the franchise after the soft launch of 2023's The Ballad of Songbirds & Snakes ($44.6 million).",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-mockingjay-one-movie-1236763038",
-      "published_at": "2026-11-25T15:43:48+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 497,
-      "extracted_at": "2026-11-25T15:45:40.044456+00:00",
-      "updated_at": "2026-11-25T15:45:40.044456+00:00"
-    },
-    {
-      "id": "a8a6042b-5f33-4aed-9d04-d7d53da453ac",
-      "title": "Supergirl Was Just Short Listed for An Oscar Despite Its Box Office Failure",
-      "summary": "In theory, box office and awards shouldn't have any correlation, but in practice, the higher profile movies often do better; regardless, Supergirl just got shortlisted for the Best Visual Effects Oscar, which even most of its critics might admit it has a shot at. After all, another widely disliked DC movie, Suicide Squad, actually won […]",
-      "content": "&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google In theory, box office and awards shouldn't have any correlation, but in practice, the higher profile movies often do better; regardless, Supergirl just got shortlisted for the Best Visual Effects Oscar, which even most of its critics might admit it has a shot at. After all, another widely disliked DC movie, Suicide Squad , actually won an Oscar for Best Hair and Make-up . There are 20 movies in all on the shortlist, as reported in Variety ; some, like the live-action Moana remake, are even less popular than Supergirl . Most have fantasy or sci-fi elements, with The Mosquito Bowl and Heart of the Beast standing out as more realistic.\n\nSupergirl is set almost entirely in outer space, on alien worlds and a floating space city. It features a main character who can convincingly fly and shoot heat vision, and her lovable pet dog who isn't actually there on set. Thought the main villain, Krem of the Yellow Hills, is just a tall, pierced guy in armor, the rest of the story is full of aliens, including one that defecates snack food. (Where's that souvenir popcorn bucket?)\n\nThe frontrunners for the award are probably Godzilla Minus Zero , since its predecessor won; Project Hail Mary , which boasted that its special effects were mainly practical , and featured a puppet co-lead; Dune: Part Three , which closes out a beloved trilogy that was begun by a multi Oscar-winner ; and possibly Wildwood , if the voters decide that animation can be its own special effect. Marvel superhero movies in contention include Spider-Man: Brand New Day and Avengers: Doomsday ; Star Wars has The Mandalorian and Grogu . On the cheaper end of the spectrum, the infinite seeming locations of Backrooms have Kane Parsons' breakthrough feature in contention.\n\nNotably not in contention is Masters of the Universe , which Amazon-MGM declined to submit for awards consideration, though their other Nicholas Galitzine-starring movie, The Sheep Detectives , is shortlisted. Presumably they want Project Hail Mary to be the big sci-fi epic they put their might behind; we can probably expect Warner Bros. to likewise focus on Dune rather than Supergirl , but they at least gave both a shot. The Hindu religious epic Ramayana: Rise of a Legend , domestically distributed by Sony, made the shortlist, as, inevitably, did The Odyssey . Dystopias are represented by Digger and The Hunger Games: Sunrise on the Reaping , while Steven Spielberg's Disclosure Day mixed reality and aliens.\n\nRounding up the top twenty is Whalefall , which convincingly simulated the inside of a whale's stomach. Most, if not all of us, will never know firsthand how accurate its re-creation is or is not, but it certainly beats the live-action Pinocchio movie from Disney+ that came out a couple years ago. Supergirl isn't likely to win, or even make the final five — as a space movie, Project Hail Mary is more of a fave; as a superhero movie, Spider-Man is way more popular. Still, given the negativity the movie faced — so much so that David Krumholtz decided to take a pause from acting — even this consideration is a win.\n\nAre you happy to see Supergirl get some respect from the Academy? Fly into comments below with your thoughts.\n\nGet access to exclusive stories on new releases, movies, shows, comics, anime, games and more!\n\nBy signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .",
-      "source": "ComicBook.com",
-      "source_url": "https://comicbook.com/movies/news/supergirl-was-just-short-listed-for-an-oscar-despite-its-box-office-failure",
-      "published_at": "2026-11-25T15:41:00+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 604,
-      "extracted_at": "2026-11-25T15:41:39.686935+00:00",
-      "updated_at": "2026-11-25T15:41:39.686935+00:00"
     }
   ]
 }
