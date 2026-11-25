@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-25T23:10:19.531Z"
+    "updated_at": "2026-11-25T23:14:16.484Z"
   },
   "articles": [
+    {
+      "id": "dae65c76-ebff-4c26-93b9-ffdeccc45c92",
+      "title": "Constance Wang Denounces 'The Altruists' Portrayal As \"Very Stereotypical\" &#038; \"Racist\": \"What Did We Expect\"",
+      "summary": "As Netflix's The Altruists recounts the downfall of FTX, one of the company's executives had some thoughts about her portrayal and the show's overall accuracy. Constance Wang, the former FTX COO who is portrayed by Madison Hu, called the depiction \"very stereotypical\" and \"racist\" as she unpacked some of the apparent inaccuracies of the limited […]",
+      "content": "As Netflix 's The Altruists recounts the downfall of FTX, one of the company's executives had some thoughts about her portrayal and the show's overall accuracy.\n\nConstance Wang , the former FTX COO who is portrayed by Madison Hu, called the depiction \"very stereotypical\" and \"racist\" as she unpacked some of the apparent inaccuracies of the limited series from creator Graham Moore.\n\n\"People have asked whether Netflix consulted me. They didn't,\" Wang wrote on X . \"One conversation would at least have saved Madison Hu, who plays me, the trouble of putting on a Chinese accent I don't have. It feels very stereotypical, then again, it's Netflix. What did we expect?\" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nWang previously shared her critique of the show after watching the eight-episode series with some of her former colleagues at FTX and Alameda Research. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\n\"We recognised so little beyond the names. My expectations were low, but I'm still surprised it's this bad,\" she started in another post . \"In short, the story has nothing to do with what actually happened at FTX or Alameda.\"\n\nWang added that the \"biggest stretch\" of the companies' origin story was turning it \"into a story about Sam and Caroline's relationship,\" noting some discrepancies with the timeline.\n\nThe financier, who has since co-founded AI-crypto trading platform Pacifica, also found the depiction of Changpeng \"CZ\" Zhao, former CEO of Binance who played a role in FTX's 2022 collapse, \"particularly hard to watch.\"\n\n\"FTX started in Hong Kong, and a lot of the people who built it were Asian,\" she explained. \"I found the stereotypes about Asians and Chinese culture racist.\"\n\n\"Even Sam and Caroline felt unfamiliar. Sam was one of the least emotionally expressive people I&#x2019;ve ever met. His character seems drawn from Michael Lewis's book and the way he came across in public after the bankruptcy. Caroline reads like someone tried to piece her together from her private blog. She wasn&#x2019;t nearly that reckless, and she was never the one pushing to go all in. The idea that she was the mastermind behind everything made us laugh,\" added Wang. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nWang noted, \"Maybe you'll enjoy The Altruists as a romantic comedy. For those of us who watched it together, it felt like someone else&#x2019;s story with our names attached.\"\n\nThe Altruists recounts Sam Bankman-Fried's (Anthony Boyle) formation of FTX and Alameda Research, as well as his and co-CEO girlfriend Caroline Ellison's (Julia Garner) role in FTX's 2022 collapse, when it was found that Alameda used FTX company funds against the latter's terms of service.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/constance-wang-the-altruists-very-stereotypical-racist-1237233708",
+      "published_at": "2026-11-25T23:13:58+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/ALTRUISTS_103_250820_RH_00037_RC.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 513,
+      "extracted_at": "2026-11-25T23:14:03.715745+00:00",
+      "updated_at": "2026-11-25T23:14:03.715745+00:00"
+    },
     {
       "id": "906e4998-9d0a-46bb-a4fe-5c782fbb8119",
       "title": "King Crimson Original Drummer Michael Giles Dies at 84",
@@ -686,7 +701,7 @@
     {
       "id": "1922dde6-0ee6-4969-b307-b3d920ea2c12",
       "title": "Macy's Thanksgiving Day Parade Postponed To Saturday Due To Severe Weather; NBC Will Rerun 2025 Parade On Thursday",
-      "summary": "The Macy's Thanksgiving Day Parade will be postponed until Saturday due to expected storms on Thursday, and NBC will rerun last year's parade this Thanksgiving. In a statement, NBC says, “Due to the extreme weather conditions, the city of New York, Macy’s and NBC have decided, in the interest of safety for both the participants […]",
+      "summary": "The Macy's Thanksgiving Day Parade will be postponed until Saturday due to expected storms on Thursday, and NBC will rerun last year's parade this Thanksgiving. It's the first time the event has been postponed in its 100-year history. In a statement, NBC says, “Due to the extreme weather conditions, the city of New York, Macy’s […]",
       "content": "The Macy's Thanksgiving Day Parade will be postponed until Saturday due to expected storms on Thursday, according to various media reports.\n\nAn official announcement is expected shortly.\n\nGet our Breaking News Alerts and Keep your inbox happy.\n\nComments On Deadline Hollywood are monitored. So don't go off topic, don't impersonate anyone, and don't get your facts wrong.\n\n&#916; document.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
       "source": "Deadline",
       "source_url": "https://deadline.com/2026/11/macys-thanksgiving-day-parade-postponed-1237233595",
@@ -695,8 +710,8 @@
       "language": "en",
       "content_status": "expanded",
       "word_count": 67,
-      "extracted_at": "2026-11-25T21:19:55.406995+00:00",
-      "updated_at": "2026-11-25T21:19:55.406995+00:00"
+      "extracted_at": "2026-11-25T23:14:03.736173+00:00",
+      "updated_at": "2026-11-25T23:14:03.736173+00:00"
     },
     {
       "id": "57b02b2b-88ea-46ac-a6cc-60810518471b",
@@ -742,21 +757,6 @@
       "word_count": 221,
       "extracted_at": "2026-11-25T20:59:54.396827+00:00",
       "updated_at": "2026-11-25T20:59:54.396827+00:00"
-    },
-    {
-      "id": "801a8950-77e0-4ba1-9091-525948b24631",
-      "title": "BÉIS' Black Friday Sale Drops Up to 50% Off Bags and Suitcases From Shay Mitchell's Star-Loved Luggage Line",
-      "summary": "The sale includes bestselling carry-on roller bags and items from BÉIS' recent collaboration with Disney.",
-      "content": "Black Friday deals dropped earlier than usual this year, with a number of retailers unveiling their offers and discounts days ahead of the annual post-Thanksgiving shopping event. Among the best deals this week: a rare opportunity to take up to 50 percent off actress Shay Mitchell 's star-loved luggage line, B&#xC9;IS.\n\nThe B&#xC9;IS Black Friday Sale offers a minimum 25 percent off suitcases, bags and accessories online, with up to 50 percent off select styles. The sale started on Nov. 22 and runs through Nov. 30.\n\nSee more from the B&#xC9;IS Black Friday sale here . blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; }); Related Stories Lifestyle Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More Lifestyle Parke's Viral Sweatshirts Get Rare Price Drop for Black Friday\n\nB&#xC9;IS was founded by Mitchell in 2018 after she says she saw a \"gaping white space\" in the travel accessories market, and couldn't shake \"the incessant itch that told me I could do it better.\"\n\nThe company has since grown to be one of the most popular and well-respected brands in the luggage space, while also being among the most profitable, with reports pegging revenue at upwards of $200 million .",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/lifestyle/shopping/beis-black-friday-sale-2026-best-luggage-deals-discounts-1236763253",
-      "published_at": "2026-11-25T20:49:30+00:00",
-      "image_url": null,
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 213,
-      "extracted_at": "2026-11-25T20:49:57.602533+00:00",
-      "updated_at": "2026-11-25T20:49:57.602533+00:00"
     }
   ]
 }
