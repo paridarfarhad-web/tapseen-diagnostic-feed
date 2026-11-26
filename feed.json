@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-26T16:01:09.109Z"
+    "updated_at": "2026-11-26T16:07:04.371Z"
   },
   "articles": [
+    {
+      "id": "8b81e248-a73c-42c1-a245-195d35dc2ce6",
+      "title": "Michel Hazanavicius To Present Exclusive Footage Of ‘The Third Hand’ In AI Case Study At Les Arcs",
+      "summary": "Michel Hazanavicius will unveil exclusive footage of his upcoming film The Third Hand as part of an AI case study at the Les Arcs Film Festival in December. The Oscar-winning director and post-production company Digital District will present the footage as they explain their method and tools for using AI on the film. Hazanavicius and […]",
+      "content": "Michel Hazanavicius will unveil exclusive footage of his upcoming film The Third Hand as part of an AI case study at the Les Arcs Film Festival in December.\n\nThe Oscar-winning director and post-production company Digital District will present the footage as they explain their method and tools for using AI on the film.\n\nHazanavicius and his team turned to the technology for parts of the development and post-production stages, while the actual shoot used traditional sets and filming methods.\n\nThe Third Hand stars Fran&#xE7;ois Civil as a French soldier who is wounded in battle in World War One, then wakes up in the laboratory of a mad scientist, who has grafted a German hand onto his abdomen. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News Elev8on & French Wealth Manager Anato To Find European Investments For U.S. Stars News French Microdrama App Shortstory Opens $1.1M Funding Round\n\nCivil is joined in cast by B&#xE9;r&#xE9;nice Bejo ( The Past) , Rebecca Marder ( The Stranger) and veteran actor Michel Fau (The Great Arch). Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nBilled as a &#x201C;fantastique&#x201D;, silent film in color, the movie sees Hazanavicius return to the silent genre for a second time after his Oscar-winning black and white film The Artist .\n\nThe case study will be followed by a discussion with David Cormand, Member of the European Parliament, on how Europe can regulate AI while protecting creators' rights and cultural sovereignty.\n\nHazanavicius is attending France &#x2019;s Alpine Les Arcs Film Festival this year as the Ambassador of its Talent Village which will see him share lessons from his career with the eight emerging directors.\n\nHe follows in the wake of ldik&#xF3; Enyedi, Ruben &#xD6;stlund, Juho Kuosmanen, Nadav Lapid. Isabelle Huppert and Thomas Vinterberg.\n\nThis year&#x2019;s participants include Greta D&#xED;az Moreau, (Spain), Roxanne Krimizi and Michalis Kimonas (Greece), Helmi Donner (Finland), Juri Krutii, (Estonia), Jakub Cyryl Grabarczyk (Poland), Hae-Sup Sin, (Switzerland, Korea), Nadja Josephson (Sweden) and Vida Skerk (UK, Croatia)\n\nHazanavicius won international acclaim with The Artist which won five Academy Awards including Best Picture in 2012, and remains to this day the only French production to have received that honour. His last feature The Most Precious of Cargoes saw him direct animation for the first time. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nThe AI case study is part of the conference program of the Les Arcs' Industry Village. Other panels will include \"Beyond Counting: Ten Years of Gender Equality Policies in European Cinema\" and a European Producers Club discussion on the upcoming revision of the EU framework for audiovisual media services regulation and implications for the audiovisual sector.\n\nThe Les Arcs Film Festival runs from December 12 to 19.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059",
+      "published_at": "2026-11-26T16:06:03+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 524,
+      "extracted_at": "2026-11-26T16:06:51.284572+00:00",
+      "updated_at": "2026-11-26T16:06:51.284572+00:00"
+    },
     {
       "id": "2529b65b-2509-4e55-bcb5-1a4a0d889c04",
       "title": "5 More GTA 6 Easter Eggs &#038; References You Don't Want To Miss",
@@ -742,21 +757,6 @@
       "word_count": 1491,
       "extracted_at": "2026-11-26T12:08:41.099435+00:00",
       "updated_at": "2026-11-26T12:08:41.099435+00:00"
-    },
-    {
-      "id": "33b8b8ce-22f3-458b-9e16-79ca4a8b8631",
-      "title": "There's A Reason Ross Isn’t In One Of The Biggest Friends Scenes (But It Did Lead To A Good Joke)",
-      "summary": "He got there eventually!",
-      "content": "Given that the core premise of Friends centered on the friendships between Monica, Rachel, Phoebe, Ross, Chandler and Joey, it makes sense that many of the iconic sitcom's biggest moments would feature all six characters together. However, there was one huge event that didn't include David Schwimmer 's character, and there's a specific reason why. While Ross's absence from this particular scene was unfortunate, it did lead to a clever joke and a nod to something the character had become notorious for.\n\nMonica and Chandler's romantic engagement scene is topped off by Joey, Phoebe and Rachel coming in to celebrate with them. The only person absent was Ross. No, David Schwimmer and Friends weren't \"on a break,\" he was just busy overseas when the engagement scene was filmed.\n\nAs Friends co-creator David Crane pointed out on the DVD commentary, all of David Schwimmer's scenes for the two-part Season 6 finale had to be filmed in the first week because the actor was in England filming Band of Brothers for HBO . Crane spoke about having to film the scene without Schwimmer, saying:\n\nWhile all of the drama between Monica and Chandler was going on throughout \"The One with the Proposal,\" Ross was busy breaking up with college student Elizabeth (a cliffhanger involving her revealing she's pregnant was discussed for the season finale , but ultimately scrapped). From what it sounds like, that was all filmed during the first week of production for these final episodes. The grand finale involving Chandler and Monica wasn't filmed until later.\n\nAs you'll recall, as the gang is celebrating with a group hug, Phoebe points out that \"Ross isn't here!\" to which Rachel responds, \"Oh, hell, he's done this three times. He knows what it's about!\" It's a funny way to acknowledge and then dismiss Ross's absence from his sister and best friend's engagement, while also firing a shot at Ross's \"three-divorce guy\" reputation. As Crane put it, that was the silver lining to the situation, after debating whether or not to point out the lack of Ross in the scene:\n\nI'll admit, the absence of a main character due to the actor being involved in another project might bother me under other circumstances, but it's hard to complain here. Band of Brothers is its own kind of epic, after all. Stephen Spielberg and Tom Hanks ' HBO miniseries – based on Stephen Ambrose's non-fiction book about a parachute infantry company serving in World War II – won several Emmys and has been widely remembered and appreciated in the decades since its release. What's more, Schwimmer's portrayal of Captain Herbert Sobel is easily one of his most memorable roles outside of the hit sitcom.\n\nThe writers made the best of the situation by working in the joke about marriage proposals being old hat for Ross.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/television/reason-ross-missing-one-biggest-friends-scenes-good-joke-david-schwimmer",
-      "published_at": "2026-11-26T12:05:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/inHnWCi3RfLSXT6fEvuroY-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 470,
-      "extracted_at": "2026-11-26T12:08:38.859893+00:00",
-      "updated_at": "2026-11-26T12:08:38.859893+00:00"
     }
   ]
 }
