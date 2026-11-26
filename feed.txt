@@ -1,9 +1,37 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-26T02:32:24.552Z
+Last Updated: 2026-11-26T02:52:25.563Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Hulu is Being Dominated by 5 Movies from the Same $3.3B Sci-Fi Franchise - and New Instalment Is in Theaters Now
+[1] Ms. Rachel Explains How Mr. Rogers' "Radical" Programming Inspired Her: "A Huge Responsibility"
+Source: Deadline | Status: expanded | Words: 546
+Published: 2026-11-26T02:51:55+00:00
+URL: https://deadline.com/2026/11/ms-rachel-mr-rogers-radical-programming-inspired-her-1237233868
+------------------------------------------------------------
+SUMMARY:
+As Ms. Rachel continues her mission-driven work, she's crediting the "radical" influence of Mr. Rogers and her pals on Sesame Street. The famed YouTube children's educator and activist (whose real name is Rachel Accurso) recently explained that the "intentional and caring" programming on Mr. Rogers' Neighborhood when she was a kid has inspired her work […]
+
+CONTENT / EXTRACTED DETAILS:
+As Ms. Rachel continues her mission-driven work, she's crediting the "radical" influence of Mr. Rogers and her pals on Sesame Street.
+
+The famed YouTube children's educator and activist (whose real name is Rachel Accurso) recently explained that the "intentional and caring" programming on Mr. Rogers' Neighborhood when she was a kid has inspired her work on the hit Ms. Rachel series.
+
+"When you see Mr. Rogers sharing the pool [with Officer Clemmons], when you when you see on Sesame Street , Black and white children playing together, you're not like, 'Wow, that was radical.' But it was so radical," she told Hasan Minhaj . "And it's amazing that I get to be part of a field that is radical, that was pushing those those boundaries." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+Ms. Rachel continued, "I feel honored to be in children's media and I don't know if that deep care for children translates to being progressive and being like, 'Kids should have SNAP benefits. We want kids to eat. We shouldn't be killing over 20,000 kids in Gaza. They shouldn't be losing their limbs. And I'm going to show Rahaf on the show and show that she's just like any other 3-year-old.' And I think it's kind of by design that people want to make us think it's so long ago, but it's not so long ago. Ruby Bridges is alive and on Instagram." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Noting that Mr. Rogers "knew that children's media is a huge responsibility and he took that responsibility really seriously" on his PBS series from 1968 to 2001, and even "called out everyone once" at the Emmy Awards, Ms. Rachel admires that he "wasn't afraid" to tackle serious topics on his show.
+
+"He just was so caring and he really had that pause and he just spoke to children about things that were really serious and he wasn't afraid to tackle death or assassination or war," she said.
+
+When people question, "What would Mr. Rogers be now?" Ms. Rachel points out that he dedicated multiple episodes in 1983 to call out the government for spending tax dollars on bombs during anxieties around the Cold War. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"He came out and said it in the show," she said. "And so, sometimes people are like, 'Oh, he was subtle. He didn't come out and say things.' But he really addressed things in the show more than I do because my show is for younger [kids]. I do have Rahaf on the show. You know, I say things by just having people there. But he really tackled things."
+
+Ms. Rachel's comments come as she visited children in immigration court earlier this week, having previously been an outspoken advocate for children in ICE detention centers and Palestinian children in Gaza.
+
+============================================================
+[2] Hulu is Being Dominated by 5 Movies from the Same $3.3B Sci-Fi Franchise - and New Instalment Is in Theaters Now
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-26T02:30:00+00:00
 URL: https://comicbook.com/movies/news/hulu-is-being-dominated-by-5-movies-from-the-same-3-3b-sci-fi-franchise-and-new-instalment-is-in-theaters-now
@@ -27,7 +55,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Every Movie &#038; TV Show Coming to HBO Max in December 2026 (Including Harry Potter)
+[3] Every Movie &#038; TV Show Coming to HBO Max in December 2026 (Including Harry Potter)
 Source: ComicBook.com | Status: expanded | Words: 447
 Published: 2026-11-26T02:20:47+00:00
 URL: https://comicbook.com/movies/news/every-movie-tv-show-coming-to-hbo-max-in-december-2026-including-harry-potter
@@ -107,7 +135,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] ‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland's Oscar Entry Makes a Case for Organic Love in the Age of Automation
+[4] ‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland's Oscar Entry Makes a Case for Organic Love in the Age of Automation
 Source: Variety | Status: expanded | Words: 886
 Published: 2026-11-26T02:13:34+00:00
 URL: https://variety.com/2026/film/reviews/the-squirrel-review-1236955178
@@ -137,7 +165,7 @@ It&#x2019;s only after he secretly adopts the squirrel that Pasi begins to compr
 The disarming faint smile that appears on Lopperi&#x2019;s face when Pasi plays with said squirrel &#x2014; a playful interaction that an artificial creature cannot match &#x2014; turns into a frown as the little furball shows signs of heartache. Lehmusruusu takes this newly found relationship between man and nature as the vehicle to encourage Pasi to seek a human bond, not in an intellectual manner, but surrendering to his inherent need for companionship and physical touch. An effectively minimalist, offbeat delight, &#x201C;The Squirrel&#x201D; makes a case for organic love in the age of automation.
 
 ============================================================
-[4] 5 Dead Supervillains Who Took Forever to Come Back to Life
+[5] 5 Dead Supervillains Who Took Forever to Come Back to Life
 Source: ComicBook.com | Status: expanded | Words: 1060
 Published: 2026-11-26T01:57:00+00:00
 URL: https://comicbook.com/comics/list/5-dead-supervillains-who-took-forever-to-come-back-to-life
@@ -167,7 +195,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] ‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism
+[6] ‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism
 Source: Variety | Status: expanded | Words: 794
 Published: 2026-11-26T01:50:43+00:00
 URL: https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446
@@ -193,13 +221,13 @@ Although certain scenes many have the look of a Western, as when Pertiwi and Bis
 The chief criticism is that the film is so packed with characters and incident that some story arcs and characters seem neglected and not as well integrated into the overall narrative. This is particularly the case with Pertiwi&#x2019;s reunion with her fellow ex-prisoners and a striking scene at a Jakarta club where Pertiwi reads a poem accompanied by howling punk band. This critic would welcome a mini-series about Pertiwi and her mates in Jakarta.
 
 ============================================================
-[6] Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’
+[7] Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’
 Source: Variety | Status: expanded | Words: 442
 Published: 2026-11-26T01:36:09+00:00
 URL: https://variety.com/2026/film/news/coleman-domingo-responds-michael-performance-1236958665
 ------------------------------------------------------------
 SUMMARY:
-Coleman Domingo is firing back at a critic of “Michael” and his performance as Joe Jackson, which some members of the film press forecast will earn him major nominations this awards season. “Hot take: Awards prognosticators adding Colman Domingo for Michael, you really don't need to add a mid performance/bad movie. You really don't,” posted […]
+Colman Domingo is firing back at a critic of “Michael” and his performance as Joe Jackson, which some members of the film press forecast will earn him major nominations this awards season. “Hot take: Awards prognosticators adding Colman Domingo for Michael, you really don't need to add a mid performance/bad movie. You really don't,” posted […]
 
 CONTENT / EXTRACTED DETAILS:
 Coleman Domingo is firing back at a critic of &#x201C; Michael &#x201D; and his performance as Joe Jackson, which some members of the film press forecast will earn him major nominations this awards season.
@@ -217,7 +245,7 @@ Alongside Domingo, the film stars Jackson&#x2019;s nephew Jafaar Jackson as the 
 While the film holds the record for the highest-grossing biopic ever made, Variety exclusively reported that it was not submitted for the 2027 EE BAFTA Film Awards.
 
 ============================================================
-[7] Amanda Seyfried Admits She "Told A Lot Of People" About Her 'You Can See Everything' Role: "I'm The Most Indiscreet Person"
+[8] Amanda Seyfried Admits She "Told A Lot Of People" About Her 'You Can See Everything' Role: "I'm The Most Indiscreet Person"
 Source: Deadline | Status: expanded | Words: 318
 Published: 2026-11-26T01:29:29+00:00
 URL: https://deadline.com/2026/11/amanda-seyfried-told-lot-people-you-can-see-everything-1237233837
@@ -241,7 +269,7 @@ After portraying Holmes in Hulu's The Dropout (2022), Seyfried agreed to appear 
 With Seyfried's appearance revealed during the doc&#x2019;s surprise September premiere at Telluride, A24 has been building Oscar buzz for the actress, which would be the first time a documentary re-enactor has been nominated in an acting category.
 
 ============================================================
-[8] Judge Blocks FCC's Move Against ABC's Station Licenses: 'This Is Not a Close Case'
+[9] Judge Blocks FCC's Move Against ABC's Station Licenses: 'This Is Not a Close Case'
 Source: Variety | Status: expanded | Words: 415
 Published: 2026-11-26T01:28:12+00:00
 URL: https://variety.com/2026/tv/news/fcc-abc-license-renewals-injunction-1236958634
@@ -269,7 +297,7 @@ ABC sought an injunction blocking the early renewal process, as well as an order
 The FCC also sought to force ABC to post an "appropriate bond" as a condition of maintaining the injunction. The judge ordered the company to post a bond in the amount of $1.
 
 ============================================================
-[9] 'Situations' Review: Greg Vrotsos' Filmmaking Debut Is a Winning, Relatable Throwback
+[10] 'Situations' Review: Greg Vrotsos' Filmmaking Debut Is a Winning, Relatable Throwback
 Source: Variety | Status: expanded | Words: 1094
 Published: 2026-11-26T01:25:41+00:00
 URL: https://variety.com/2026/film/reviews/situations-review-1236958625
@@ -297,7 +325,7 @@ Despite being shot on a shoestring budget (reportedly $130K), the film looks ric
 After being road-showed by distributor Utopia following a 2025 festival run, the film is due on physical media next year, but its charms feel destined for future cult adoration &#x2014; again, an irony given subject matter that, in any era, has plenty of mainstream appeal. Central to its charm is the relatability of getting dumped by somebody you&#x2019;d like to get back together with, not just because you still have feelings for them, but because starting a new relationship is just too much trouble. 30 years after the romantic misadventures of Favreau and his pals, this next-generation follow-up reiterates the adage that there&#x2019;s someone out there for everybody, but adds an important footnote born of a single fortysomething's life experience: The first step to finding that person is often getting out of your own way. Let&#x2019;s hope &#x201C;Situations&#x201D; is Vrotsos&#x2019; first cinematic lesson of many.
 
 ============================================================
-[10] Shang-Chi Sequel Update Revealed, As Writer Confirms Return to the MCU
+[11] Shang-Chi Sequel Update Revealed, As Writer Confirms Return to the MCU
 Source: ComicBook.com | Status: expanded | Words: 591
 Published: 2026-11-26T01:25:15+00:00
 URL: https://comicbook.com/movies/news/shang-chi-sequel-update-revealed-as-writer-confirms-return-to-the-mcu
@@ -323,7 +351,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] The Best of Macy's Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
+[12] The Best of Macy's Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
 Source: The Hollywood Reporter | Status: expanded | Words: 306
 Published: 2026-11-26T01:22:41+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/macys-black-friday-sale-2026-coupons-promo-codes-cyber-week-1236755681
@@ -349,7 +377,7 @@ Related: 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to 
 Shop the full Black Friday sale now at Macys.com . Plus, check out The Hollywood Reporter 's top Black Friday streaming deals here , Parke clothing deals here and B&#xE9;is deals here . THR will update the Black Friday landing page as new and noteworthy savings events arise.
 
 ============================================================
-[12] Recasting the Original Starship Troopers for 2026
+[13] Recasting the Original Starship Troopers for 2026
 Source: ComicBook.com | Status: expanded | Words: 1051
 Published: 2026-11-26T01:15:00+00:00
 URL: https://comicbook.com/movies/feature/recasting-the-original-starship-troopers-for-2026
@@ -387,7 +415,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Peter Berg on the ‘Two Truths’ of War in ‘The Mosquito Bowl’ and the ‘Incredibly Funny’ ‘Hancock 2’ Script Will Smith Sent Him: ‘I Love Will Smith, and I Always Will’
+[14] Peter Berg on the ‘Two Truths’ of War in ‘The Mosquito Bowl’ and the ‘Incredibly Funny’ ‘Hancock 2’ Script Will Smith Sent Him: ‘I Love Will Smith, and I Always Will’
 Source: Variety | Status: expanded | Words: 4703
 Published: 2026-11-26T01:11:05+00:00
 URL: https://variety.com/2026/film/awards/peter-berg-mosquito-bowl-hancock-2-will-smith-1236958637
@@ -531,7 +559,7 @@ Someone online suggested you'd make a great Buddy Ryan, the architect of the 198
 That's amazing. Michael's my mentor. He produced &#x201C;The Kingdom&#x201D;; he produced &#x201C;Hancock.&#x201D; He saw an early show I did called &#x201C;Wonderland,&#x201D; about a psychiatric hospital in New York that was killed instantly by ABC and he responded so well to that. He's one of my favorite people on planet Earth. He's a great human being.
 
 ============================================================
-[14] FCC Bid Challenging ABC's TV Licenses Halted in Major Win for Network
+[15] FCC Bid Challenging ABC's TV Licenses Halted in Major Win for Network
 Source: The Hollywood Reporter | Status: expanded | Words: 431
 Published: 2026-11-26T00:55:25+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790
@@ -557,7 +585,7 @@ The court was unconvinced, finding that it "does not find that explanation to be
 The FCC has also launched a separate inquiry into The View , which it argued is not a &#x201C;bona fide&#x201D; news program and therefore is not exempt from FCC equal opportunity rules. This came after an appearance by James Talarico, the Democratic nominee for the Texas Senate, in February. ABC said in an earlier filing that the FCC &#x201C;now appears poised to find that The View must provide equal opportunities to all legally qualified political candidates if it interviews one candidate on the show, which would represent a reversal of decades of agency precedent.&#x201D;
 
 ============================================================
-[15] GTA 6 Every Major Missable Mission &#038; Reward in Each Chapter of the Game
+[16] GTA 6 Every Major Missable Mission &#038; Reward in Each Chapter of the Game
 Source: ComicBook.com | Status: expanded | Words: 2165
 Published: 2026-11-26T00:50:47+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-every-major-missable-mission-reward-in-each-chapter-of-the-game
@@ -681,7 +709,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] This Vintage Boba Fett Figure Has One Extra Detail That Makes It Even More Valuable to Collectors
+[17] This Vintage Boba Fett Figure Has One Extra Detail That Makes It Even More Valuable to Collectors
 Source: ComicBook.com | Status: expanded | Words: 530
 Published: 2026-11-26T00:31:00+00:00
 URL: https://comicbook.com/collectibles/news/this-vintage-boba-fett-figure-has-one-extra-detail-that-makes-it-even-more-valuable-to-collectors
@@ -701,7 +729,7 @@ Even if it's by the original actor themselves, autographs don't boost the value 
 Do you have any signed action figures or collectibles? Let us know in the comments below.
 
 ============================================================
-[17] Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt On Early License Renewal Proceeding
+[18] Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt On Early License Renewal Proceeding
 Source: Deadline | Status: expanded | Words: 417
 Published: 2026-11-26T00:30:46+00:00
 URL: https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218
@@ -723,7 +751,7 @@ The FCC largely made a jurisdictional argument, contending that the network had 
 Carr has initiated investigations and reviews of all of the major broadcast networks. Among other things, he launched a probe of The View earlier this year and whether it had to comply with the agency's Equal Time Rule.
 
 ============================================================
-[18] Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy's Parade: "It's The Only Inflation We Support In New York City”
+[19] Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy's Parade: "It's The Only Inflation We Support In New York City”
 Source: Deadline | Status: expanded | Words: 954
 Published: 2026-11-26T00:29:14+00:00
 URL: https://deadline.com/2026/11/mayor-zohran-mamdani-macys-thanksgiving-day-parade-postponed-1237233704
@@ -761,7 +789,7 @@ The importance of NBC's 100th anniversary is likely to have played a role in the
 "We want to ensure that we're delivering a parade that's not only incredible and spectacular, but one also that doesn't come at the expense of anyone's safety," Mamdani said.
 
 ============================================================
-[19] Did Disney Confirm Avatar 4? James Cameron's Sequel Release Date Is Still Years Away
+[20] Did Disney Confirm Avatar 4? James Cameron's Sequel Release Date Is Still Years Away
 Source: ComicBook.com | Status: expanded | Words: 738
 Published: 2026-11-26T00:21:13+00:00
 URL: https://comicbook.com/movies/news/did-disney-confirm-avatar-4-james-camerons-sequel-release-date-is-still-years-away
@@ -795,7 +823,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] A Sandlot Star Had The Jokes On Disney World’s ‘Jingle Cruise’ (& It Made My Heart Grow 3 Sizes)
+[21] A Sandlot Star Had The Jokes On Disney World’s ‘Jingle Cruise’ (& It Made My Heart Grow 3 Sizes)
 Source: CinemaBlend | Status: expanded | Words: 229
 Published: 2026-11-26T00:21:00+00:00
 URL: https://www.cinemablend.com/theme-parks/sandlot-patrick-renna-jokes-disney-world-jingle-cruise
@@ -811,7 +839,7 @@ Now, this was done for the film Holiday Ever After. Its star, Lacey Chabert , ha
 While I’ve never gotten to take over an attraction in the theme parks, I have been lucky enough during media events to walk around Disneyland and Disney World in the early morning hours before guests arrive. I even got to take a spin on the Jungle Cruise before opening, after changes had been made to the attraction. I agree with the Dugout Dads star that not only was it absolutely the coolest experience, but also one that I’ll never forget.
 
 ============================================================
-[21] Pokémon Countdown Ends in Disappointment for Fans Wanting Winds and Waves News
+[22] Pokémon Countdown Ends in Disappointment for Fans Wanting Winds and Waves News
 Source: ComicBook.com | Status: expanded | Words: 901
 Published: 2026-11-26T00:14:05+00:00
 URL: https://comicbook.com/gaming/news/pokemon-countdown-ends-in-disappointment-for-fans-wanting-winds-and-waves-news
@@ -847,7 +875,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] Crunchyroll's Hottest Fall 2026 Anime Exposes the Real Problem Behind One-Punch Man
+[23] Crunchyroll's Hottest Fall 2026 Anime Exposes the Real Problem Behind One-Punch Man
 Source: ComicBook.com | Status: expanded | Words: 603
 Published: 2026-11-26T00:11:00+00:00
 URL: https://comicbook.com/anime/feature/crunchyrolls-hottest-fall-2026-anime-exposes-the-real-problem-behind-one-punch-man
@@ -873,7 +901,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Tim Allen Loves Improvising As Buzz Lightyear, But The Toy Story Animators Hate To See Him Coming
+[24] Tim Allen Loves Improvising As Buzz Lightyear, But The Toy Story Animators Hate To See Him Coming
 Source: CinemaBlend | Status: expanded | Words: 275
 Published: 2026-11-26T00:06:00+00:00
 URL: https://www.cinemablend.com/movies/tim-allen-loves-improvising-buzz-lightyear-toy-story-animators-hate-to-see-him-coming
@@ -891,7 +919,7 @@ It’s hard to imagine Toy Story without that moment. Though I can see how that 
 However, this wasn’t the first time we’ve seen a multi-Lightyear performance. There was a moment in Toy Story 2 with several Space Ranger toys on the shelves in Al’s Toy Barn. Then we spent some time with an alternative Buzz who temporarily took our Buzz’s place. Though we hadn’t seen a multi-toy arc quite to this extent, which was everything Allen wanted it to be and more.
 
 ============================================================
-[24] Devil May Cry, Okami Director Reveals He Wants to Make a Castlevania Game
+[25] Devil May Cry, Okami Director Reveals He Wants to Make a Castlevania Game
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-25T23:41:19+00:00
 URL: https://comicbook.com/gaming/news/devil-may-cry-okami-director-reveals-he-wants-to-make-a-castlevania-game
@@ -925,7 +953,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] 'Twilight' Director Reveals Robert Pattinson Inspired James Bond Line in 2008 Film: "We Were Seeing the Future"
+[26] 'Twilight' Director Reveals Robert Pattinson Inspired James Bond Line in 2008 Film: "We Were Seeing the Future"
 Source: The Hollywood Reporter | Status: expanded | Words: 627
 Published: 2026-11-25T23:33:26+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/twilight-director-robert-pattinson-inspired-james-bond-line-1236763521
@@ -957,7 +985,7 @@ When The Hollywood Reporter caught up with Hardwicke in 2023, ahead of the 15th 
 However, once Stewart and Pattinson did their chemistry read, the director knew he was the one because she felt &#x201C;that electricity&#x201D; between them.
 
 ============================================================
-[26] Filming In Disney World At Night Made Lacey Chabert And Co. Feel Like 'Vampires'
+[27] Filming In Disney World At Night Made Lacey Chabert And Co. Feel Like 'Vampires'
 Source: CinemaBlend | Status: expanded | Words: 365
 Published: 2026-11-25T23:21:00+00:00
 URL: https://www.cinemablend.com/television/filming-disney-world-night-made-lacey-chabert-co-feel-vampires
@@ -981,7 +1009,7 @@ The Mean Girls actress also explained that those magical feelings were there as 
 Actors get to have surreal filming experiences all the time. However, getting ready while the fireworks go off is seriously iconic.
 
 ============================================================
-[27] Brad Pitt and Angelina Jolie Settle Winery Lawsuit That Revealed Abuse Allegations
+[28] Brad Pitt and Angelina Jolie Settle Winery Lawsuit That Revealed Abuse Allegations
 Source: Variety | Status: expanded | Words: 641
 Published: 2026-11-25T23:15:49+00:00
 URL: https://variety.com/2026/film/news/brad-pitt-angelina-jolie-settlement-chateau-miraval-1236958440
@@ -1017,7 +1045,7 @@ A judge denied Jolie's demurrer in November 2024, finding that Pitt's claims wer
 The parties have since been engaged in disputes over access to financial records and over jurisdictional issues. Pitt has accused Stoli and Shefler of attempting a "hostile takeover" of the wine business. In June, an appellate court revived Pitt's case against them, finding that Shefler, a Swiss resident, can be sued in California.
 
 ============================================================
-[28] Constance Wang Denounces 'The Altruists' Portrayal As "Very Stereotypical" &#038; "Racist": "What Did We Expect?"
+[29] Constance Wang Denounces 'The Altruists' Portrayal As "Very Stereotypical" &#038; "Racist": "What Did We Expect?"
 Source: Deadline | Status: expanded | Words: 513
 Published: 2026-11-25T23:13:58+00:00
 URL: https://deadline.com/2026/11/constance-wang-the-altruists-very-stereotypical-racist-1237233708
@@ -1049,7 +1077,7 @@ Wang noted, "Maybe you'll enjoy The Altruists as a romantic comedy. For those of
 The Altruists recounts Sam Bankman-Fried's (Anthony Boyle) formation of FTX and Alameda Research, as well as his and co-CEO girlfriend Caroline Ellison's (Julia Garner) role in FTX's 2022 collapse, when it was found that Alameda used FTX company funds against the latter's terms of service.
 
 ============================================================
-[29] King Crimson Original Drummer Michael Giles Dies at 84
+[30] King Crimson Original Drummer Michael Giles Dies at 84
 Source: Variety | Status: expanded | Words: 610
 Published: 2026-11-25T23:09:43+00:00
 URL: https://variety.com/2026/music/news/king-crimson-michael-giles-dead-1236958540
@@ -1081,7 +1109,7 @@ He and several other alums united in 2002 to form the 21st Century Schizoid Band
 He is survived by his five children, Tina, Amanda, William, Rosie and Oliver, several grandchildren, his sister Marion and brother Peter.
 
 ============================================================
-[30] 5 Deadly Batman Golden Age Villains Who Are Bigger Threats Today Than When They Debuted
+[31] 5 Deadly Batman Golden Age Villains Who Are Bigger Threats Today Than When They Debuted
 Source: ComicBook.com | Status: expanded | Words: 1175
 Published: 2026-11-25T23:09:00+00:00
 URL: https://comicbook.com/comics/list/5-deadly-batman-golden-age-villains-who-are-bigger-threats-today-than-when-they-debuted
@@ -1121,7 +1149,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Paper Tiger Ending Explained, Including What James Gray Told Us About Those Final Scenes
+[32] Paper Tiger Ending Explained, Including What James Gray Told Us About Those Final Scenes
 Source: CinemaBlend | Status: expanded | Words: 531
 Published: 2026-11-25T23:06:00+00:00
 URL: https://www.cinemablend.com/movies/paper-tiger-ending-final-scenes-james-gray-told-us
@@ -1143,7 +1171,7 @@ In the final scene within the Pearl house, they don't yet know about Hester's si
 The more I think about Paper Tiger 's ending, the more this makes sense to me and adds to my overall satisfaction to this suspenseful and emotional film. Hester's tumor is nobody's doing, just the tragic nature of life, unfair though it may be. So much of what transpired in the film had to do with choices and actions, but in the case of Hester, it's just the cards she was dealt, and she and her family will have to face that.
 
 ============================================================
-[32] All The Songs In Disney's ‘Hexed’: Queen, Dua Lipa &#038; More
+[33] All The Songs In Disney's ‘Hexed’: Queen, Dua Lipa &#038; More
 Source: Deadline | Status: expanded | Words: 287
 Published: 2026-11-25T23:00:00+00:00
 URL: https://deadline.com/2026/11/hexed-soundtrack-songs-queen-dua-lipa-hailee-steinfeld-1237233514
@@ -1163,7 +1191,7 @@ Star Hailee Steinfeld also lends her vocals to a cover of a very appropriate son
 Find all the songs in Hexed below:
 
 ============================================================
-[33] NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy's Postponement
+[34] NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy's Postponement
 Source: Variety | Status: expanded | Words: 510
 Published: 2026-11-25T22:58:40+00:00
 URL: https://variety.com/2026/tv/news/nbc-macys-thanksgiving-parade-commercials-twice-1236958525
@@ -1187,7 +1215,7 @@ Geico had plans to run a two-minute commercial that uses stop-motion animation f
 NBC isn't the first TV network to confront delays tied to a massive live event. CBS in 2013 gave some of the advertisers in that year's Super Bowl an extra run of their commercials after a 35-minute power outage brought a game between the Baltimore Ravens and the San Francisco 49'ers. Bud Light and Subway were among the marketers that enjoyed an extra airing of ads that had multi-million-dollar price tags.
 
 ============================================================
-[34] 3 Anime to Watch If You're Waiting for Re:Zero Season 5
+[35] 3 Anime to Watch If You're Waiting for Re:Zero Season 5
 Source: ComicBook.com | Status: expanded | Words: 826
 Published: 2026-11-25T22:51:00+00:00
 URL: https://comicbook.com/anime/list/3-anime-to-watch-if-youre-waiting-for-rezero-season-5
@@ -1219,7 +1247,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] 21 Years Later, Constantine Director Is Still Mad About The Movie's R-Rating &#038; Recalls The MPAA's Bizarre Reasoning
+[36] 21 Years Later, Constantine Director Is Still Mad About The Movie's R-Rating &#038; Recalls The MPAA's Bizarre Reasoning
 Source: ComicBook.com | Status: expanded | Words: 587
 Published: 2026-11-25T22:45:00+00:00
 URL: https://comicbook.com/movies/news/21-years-later-constantine-director-is-still-mad-about-the-movies-r-rating-recalls-the-mpaas-bizarre-reasoning
@@ -1245,7 +1273,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] 'The Mosquito Bowl' Producer Alex Gayner Thought He'd Solved Every Problem a Set Could Throw at Him. Then Came a Runaway Parrot.
+[37] 'The Mosquito Bowl' Producer Alex Gayner Thought He'd Solved Every Problem a Set Could Throw at Him. Then Came a Runaway Parrot.
 Source: The Hollywood Reporter | Status: expanded | Words: 4873
 Published: 2026-11-25T22:41:18+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483
@@ -1399,7 +1427,7 @@ Too Old to Die Young was the most eccentric creative experience I&#x2019;ve ever
 *** The Mosquito Bowl is now streaming on Netflix.
 
 ============================================================
-[37] James Gunn Should Return to Marvel to Wrap Up One Beloved MCU Character’s Story
+[38] James Gunn Should Return to Marvel to Wrap Up One Beloved MCU Character’s Story
 Source: ComicBook.com | Status: expanded | Words: 788
 Published: 2026-11-25T22:28:00+00:00
 URL: https://comicbook.com/movies/feature/james-gunn-should-return-to-marvel-to-wrap-up-one-beloved-mcu-characters-story
@@ -1429,7 +1457,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Avengers: Doomsday Reveals Best Look Yet at X-Men's Beast, And It's Actually Perfect
+[39] Avengers: Doomsday Reveals Best Look Yet at X-Men's Beast, And It's Actually Perfect
 Source: ComicBook.com | Status: expanded | Words: 622
 Published: 2026-11-25T22:28:00+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-reveals-best-look-yet-at-x-mens-beast-and-its-actually-perfect
@@ -1457,7 +1485,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] 'Twilight' Director On Robert Pattinson Landing James Bond Role: "I Almost Fell Out Of My Bed"
+[40] 'Twilight' Director On Robert Pattinson Landing James Bond Role: "I Almost Fell Out Of My Bed"
 Source: Deadline | Status: expanded | Words: 437
 Published: 2026-11-25T22:24:49+00:00
 URL: https://deadline.com/2026/11/twilight-director-reaction-robert-pattinson-james-bond-1237233564
@@ -1483,7 +1511,7 @@ Twilight fans recently resurfaced a clip from the movie saying they predicted Pa
 Watch Hardwicke's full interview in the video below.
 
 ============================================================
-[40] Aaron Rodgers Released by Steelers After 'Pat McAfee Show' Appearance
+[41] Aaron Rodgers Released by Steelers After 'Pat McAfee Show' Appearance
 Source: The Hollywood Reporter | Status: expanded | Words: 1337
 Published: 2026-11-25T22:23:43+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/aaron-rodgers-released-steelers-pat-mcafee-show-1236763487
@@ -1563,7 +1591,7 @@ Barely eight hours later, Rodgers was no longer the starter. Shortly after that,
 AP Pro Football Writer Rob Maaddi and AP Sports Writer Aaron Beard contributed to this story.
 
 ============================================================
-[41] I’m So Glad Netflix’s The Body EPs Are Debunking Two Theories While We Await Word On Season 2
+[42] I’m So Glad Netflix’s The Body EPs Are Debunking Two Theories While We Await Word On Season 2
 Source: CinemaBlend | Status: expanded | Words: 257
 Published: 2026-11-25T22:21:00+00:00
 URL: https://www.cinemablend.com/streaming-news/netflix-the-body-eps-debunking-two-theories-amid-season-2-hopes
@@ -1581,7 +1609,7 @@ I'm so glad the EPs have also confirmed the Lions won't be going to jail after w
 While I'm all for accountability in teen dramas, especially when it comes to Riverdale' s Archie Andrews , I'll let it slide for The Body . Sending Anya or any of the Lions to jail or prison for their actions at the party would've created a major genre shift in the story, and I'm far more interested in the story remaining around the school after Season 1's ending.
 
 ============================================================
-[42] Sweetpea Season 2: How To Watch From Anywhere, Release Date, Cast, Preview
+[43] Sweetpea Season 2: How To Watch From Anywhere, Release Date, Cast, Preview
 Source: CinemaBlend | Status: expanded | Words: 291
 Published: 2026-11-25T22:20:00+00:00
 URL: https://www.cinemablend.com/streaming-news/sweetpea-season-2-how-to-watch
@@ -1611,7 +1639,7 @@ After her serial killer antics in the previous outing, Rhiannon is on a cover up
 Season 2 of Sweetpea arrives on Thursday, November 26 in the UK and Australia. A release date for North America is TBC.
 
 ============================================================
-[43] Will Ferrell's Netflix Golf Comedy 'The Hawk' Canceled After One Season
+[44] Will Ferrell's Netflix Golf Comedy 'The Hawk' Canceled After One Season
 Source: The Hollywood Reporter | Status: expanded | Words: 225
 Published: 2026-11-25T22:18:36+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-netflix-comedy-the-hawk-canceled-one-season-1236763480
@@ -1635,7 +1663,7 @@ The Hawk premiered on Netflix on July 16.
 Deadline first reported the news of The Hawk 's cancellation.
 
 ============================================================
-[44] Japan-Exclusive PS1 Game Gets Surprising New Release After 30 Years
+[45] Japan-Exclusive PS1 Game Gets Surprising New Release After 30 Years
 Source: ComicBook.com | Status: expanded | Words: 510
 Published: 2026-11-25T22:15:00+00:00
 URL: https://comicbook.com/gaming/news/ps1-playstation-games-japan-exclusive-new-release-2026
@@ -1661,7 +1689,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Andy Taylor, Duran Duran Guitarist, Dies at 65
+[46] Andy Taylor, Duran Duran Guitarist, Dies at 65
 Source: The Hollywood Reporter | Status: expanded | Words: 960
 Published: 2026-11-25T22:13:51+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/andy-taylor-dead-duran-duran-guitarist-1236763445
@@ -1703,7 +1731,7 @@ The band said Taylor's family has requested that in lieu of flowers, donations b
 Along with his wife Tracey, Taylor is survived by his children Georgina, Isabella, Bethany and Andrew, and grandson Albie. "Andy faced the last few years with so much courage and determination," Tracey Taylor said in a statement. "He never gave up, fighting until the very end, never losing his love of life. The kindness and support shown to him by fans from all over the world throughout his illness brought him immense comfort and strength, and for that we will always be grateful."
 
 ============================================================
-[46] Rockstar Finally Explains One of Its Most Divisive Decisions With GTA 6
+[47] Rockstar Finally Explains One of Its Most Divisive Decisions With GTA 6
 Source: ComicBook.com | Status: expanded | Words: 522
 Published: 2026-11-25T22:12:04+00:00
 URL: https://comicbook.com/gaming/news/rockstar-finally-explains-one-of-its-most-divisive-decisions-with-gta-6
@@ -1731,7 +1759,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Why Is Netflix’s Guarding Stars A Christmas Movie When Its Book Is Not? I Asked Jared Padalecki
+[48] Why Is Netflix’s Guarding Stars A Christmas Movie When Its Book Is Not? I Asked Jared Padalecki
 Source: CinemaBlend | Status: expanded | Words: 230
 Published: 2026-11-25T22:06:00+00:00
 URL: https://www.cinemablend.com/streaming-news/why-netflix-guarding-stars-christmas-movie-book-the-bodyguard-not-jared-padalecki
@@ -1749,7 +1777,7 @@ I think they accomplished this goal too. While Guarding Stars is quite different
 So, that’s why Guarding Stars is a Christmas movie even though The Bodyguard has nothing to do with it. Moving it back to take place in December puts it in a category of films that people flock to at this time of year as they prepare for the holidays. No other holiday can do that at such a high level. So, this change does make a lot of sense.
 
 ============================================================
-[48] 6 Of The Comfiest Comfort Movies Of All Time Are Streaming In The Same Place
+[49] 6 Of The Comfiest Comfort Movies Of All Time Are Streaming In The Same Place
 Source: CinemaBlend | Status: expanded | Words: 578
 Published: 2026-11-25T22:05:00+00:00
 URL: https://www.cinemablend.com/movies/comiest-comfort-movies-all-streaming-same-place
@@ -1775,7 +1803,7 @@ Who doesn't adore a great second-chance romance story? Reese Witherspoon shines 
 I told you I was sandwiching this list with holiday movies, and here we are with a Christmas classic . I'm closing this out with one of my own personal favorites: Frank Capra's It's a Wonderful Life . I will never tire of revisiting this movie at least once a year to see George Bailey (James Stewart) discover the value of the life he's lived. While the overall message of the movie is inspirational, the way it's told -- George's guardian angel is tasked with saving him, but before he can do that, he's learning about George's life by visiting several pivotal moments -- that makes this movie such a great comfort watch.
 
 ============================================================
-[49] With 'Guarding Stars,' Jared Padalecki Finally Takes A Break From All That Action
+[50] With 'Guarding Stars,' Jared Padalecki Finally Takes A Break From All That Action
 Source: The Hollywood Reporter | Status: expanded | Words: 1251
 Published: 2026-11-25T22:03:43+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/jared-padalecki-guarding-stars-netflix-holiday-1236760738
@@ -1823,52 +1851,4 @@ Even his last series, Walker , which ran for four seasons on the CW, featured Ge
 "Mom, if dad's the boss, why does he make you die and everything?" Padalecki says, repeating what his son had asked his mother after seeing Walker . As they continued to watch the show in the years down the line, Padalecki and his wife would snuggle up with their son and remind him it was fictional. But as soon as he'd see his mom unwell onscreen, he'd burst into tears. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid4' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization("minsize") ; });
 
 "It breaks my heart," adds Padalecki. "He's such a little empath."
-
-============================================================
-[50] 5 Terrible Pokemon Winds and Waves Can Save With an Evolution
-Source: ComicBook.com | Status: expanded | Words: 1507
-Published: 2026-11-25T22:00:00+00:00
-URL: https://comicbook.com/gaming/list/5-terrible-pokemon-winds-and-waves-can-save-with-an-evolution
-------------------------------------------------------------
-SUMMARY:
-With over 1,000 Pokemon, it is inevitable that some are going to be considerably worse than others. Even with the idea that every Pokemon may be someone's favorite, it is difficult to justify using some in a mainline playthrough, let alone in competitive Pokemon. Poor stats, disappointing move pools, underwhelming abilities, and unfortunate type combinations […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google With over 1,000 Pokemon, it is inevitable that some are going to be considerably worse than others. Even with the idea that every Pokemon may be someone's favorite, it is difficult to justify using some in a mainline playthrough, let alone in competitive Pokemon. Poor stats, disappointing move pools, underwhelming abilities, and unfortunate type combinations can leave otherwise interesting Pokemon collecting dust in a PC box. But Game Freak has repeatedly shown it can make bad Pokemon good with a second chance, and this is exactly what Pokemon Winds and Waves can do.
-
-Some of the most exciting additions to new Pokemon generations are evolutions for existing Pokemon. Annihilape, Kingambit, and Farigiraf all great examples of how Game Freak can breathe new life into familiar Pokemon and improve their usage. These evolutions helped take awful or forgotten Pokemom and brought them into the spotlight. Not every Pokemon needs to become a competitive powerhouse, but there should at least be a compelling reason to include one on your team. With that in mind, these are five of the worst Pokemon that deserve redemption with an evolution Pokemon Winds and Waves .
-
-Sunflora is truly one of the most forgettable and useless Pokemon. This Generation 2 Grass-type Pokemon has a base stat total of 425, with only its 105 special attack being good. It gets a few coverage options and supportive moves, but that is about the only positives. It is far too slow for Chlorophyll to be useful, and Solar Power isn't much better as far as abilities go. If you are using a Grass-type Pokemon in sun, there are far better options.
-
-A Grass and Fire-type evolution seems like the perfect direction for Sunflora, especially if Game Freak gives it a different niche than Scovillain. Giving it more Fire-type attacks, better speed and special attack would make it a decent user for Chlorophyll, or Game Freak could opt for a new ability altogether. Likewise, with these changes, Solar Power becomes a more viable option. These changes could make it more offensive than Scovillain and its more defensive Mega Evolution.
-
-Another option would be to keep Sunflora's low speed and make it a strong Trick Room attacker. Game Freak could still make it Grass and Fire-type and perhaps give it a signature Grass-type spread move similar to Eruption or Heatwave. This would certainly go a long way toward making it unique and would give more recognition and respect to a Pokemon that has been sidelined since Pokemon Gold and Silver .
-
-Carnivine easily has one of the best and most wasted designs in Pokemon, but there is little reason to use it over any other Grass-type Pokemon. It was introduced in Pokemon Diamond and Pearl , and while it has decent offensive stats, the rest of its stats are just bad. Then there is its ability, Levitate, which makes it immune to a type it already resists. Carnivine is one of the best examples of wasted potential in the series, and it desperately needs a buff in Winds and Waves .
-
-The best way to improve Carnivine through an evolution would be to give it a new ability, one that functions like Shadow Tag that prevents Ghost-type Pokemon from switching out at the cost of allowing Grass-type Pokemon to switch out. This would bring a new dynamic to Perish Trap teams and give Carnivine one of the most unique abilities. With a stat boost and better coverage moves, this could give Carnivine a great niche.
-
-Alternatively, Game Freak could lean into a Grass and Poison-type Pokemon if it wants to justify Levitate. It would need a significant boost to its stats if this is the route taken and it could even function like Toxipex. This role would make it annoying and bulky Pokemon that poisons opponents and uses attacking moves, perhaps a Grass-type version of Infestation, to trap Pokemon on the field. It has a fantastic design and an evolution could further improve this as well as make it more useable.
-
-Castform might be one of the biggest examples of a fantastic Pokemon concept wasted by poor stats. Introduced in Pokemon Ruby and Sapphire , Castform changes its appearance and typing in response to certain weather conditions through its Forecast ability. But this really cool feature is ruined by Castform's terrible stats which total out to 420. Considering how important weather has become in competitive Pokemon battles, it is disappointing that the Pokemon specifically designed around weather manipulation is so thoroughly outclassed in any weather type.
-
-An evolution with increased speed and special attack would turn Castform into a strong Weather Ball user. It already has great coverage, so giving it more supportive moves would also be a great choice. Game Freak could even give it a new signature move that changes effect based on the weather that is different from Weather Ball, perhaps having a heightened chance at status conditions. Castform also needs a Rock-type form when sand is active, which definitely feels like an oversight.
-
-Another option is to alter the Forecast ability altogether, adjusting the stats based on the active weather. Alternatively, the ability could be buffed to increase a stat when weather is changed, allowing Castform to function in weather you set and weather set by the opponent. This would bring a new dynamic to weather wars, as you risk powering up Castform throughout the battle. With such a unique gimmick, and Winds and Waves rumored focus on weather , Castform desperately needs some love from Game Freak.
-
-Spinda is one of the most unique Pokemon, as Game Freak has given it billions of possible spot patterns. But it is so terrible that players have almost never even bothered to use it, let alone collect different spot variants. Introduced in Pokemon Ruby and Sapphire , Spinda has a base stat total of 360, with 60 points distributed into each stat. Not only does this leave the Normal-type with no strengths, it can only be considered a weakness in every single category.
-
-Spinda has a great ability already in Contrary, and so an evolution could keep this. The main thing this Pokemon needs is increased stats and a simple 20 points put into each stat, to keep the theme going, would do a lot for it. This would put it on par with Malamar and when combined with Contrary, it could become a decently dangerous Pokemon. It already has great moves in Fake Out, Encore, Disable, and plenty of other supportive moves along side a decent choice of coverage options.
-
-An extra 20 points into its stats wouldn't make it broken by any means. Game Freak could even give it an additional typing, like Fighting, to give it more versatility. This would also allow it to use Superpower or Close Combat and become a strong Contrary user, especially if paired with Baton Pass. Spinda is without a gimmick Pokemon, but this doesn't mean it can't be useful. Winds and Waves could give Spinda a more interesting evolution without having it take over the meta.
-
-Wobbuffet is one of the strangest Pokemon Game Freak has ever designed. Introduced in Pokemon Gold and Silver , this Psychic-type Pokemon has an impressive base HP stat of 190, but its remaining stats are dreadful. But that isn't even the worst part. Its entire strategy revolves around anticipating an opponent's attacks and retaliating with Counter or Mirror Coat. The only saving grace for Wobbuffet is its ability, Shadow Tag, but there are plenty of better Pokemon that get access to this ability.
-
-Rather than abandoning Wobbuffet's unusual gimmick, Game Freak should embrace it with an evolution. Increasing its Defense and Special Defense while giving it more supportive moves, such as Follow Me, Taunt, Disable, Helping Hand, Trick Room, and more could make it an excellent partner when paired with Shadow Tag. This would still make its only damaging function be countering, but it would give Wobbuffet something to do while sitting on the field in competitive play. In single-player playthroughs, it would probably need at least one damaging move though.
-
-Wobbuffet is one of the most recognizable Pokemon thanks to its role in the Pokemon anime . It did get a pre-evolution in Wynaut, but this is only a worse version of an already awful Pokemon. Giving it an evolution in Winds and Waves would go a long way toward putting in the spotlight. Wobbuffet is a unique concept of a Pokemon and it would be a shame to see continue to sit in the trash when fixing it is an easy task. Making it more bulky and supportive is the best option for turning this Psychic Pokemon into a good one.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
