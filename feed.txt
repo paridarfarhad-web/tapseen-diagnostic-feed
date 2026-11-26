@@ -1,9 +1,43 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-26T10:44:53.517Z
+Last Updated: 2026-11-26T10:52:52.045Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Avengers: Doomsday Marks a Major First for the MCU, But It May Not Start a New Trend With Phase 7
+[1] Richard Hammond Says He Was Approached By BBC About 'Top Gear' Return
+Source: Deadline | Status: expanded | Words: 482
+Published: 2026-11-26T10:52:30+00:00
+URL: https://deadline.com/2026/11/richard-hammond-approached-bbc-top-gear-return-1237233965
+------------------------------------------------------------
+SUMMARY:
+Richard Hammond has revealed that the BBC sounded him out about getting back behind the Top Gear wheel for the show's upcoming reboot. The presenter said he declined the opportunity to return to the motoring show he helped turn into a global phenomenon alongside Jeremy Clarkson and James May. Hammond disclosed the BBC's approach during […]
+
+CONTENT / EXTRACTED DETAILS:
+Richard Hammond has revealed that the BBC sounded him out about getting back behind the Top Gear wheel for the show's upcoming reboot.
+
+The presenter said he declined the opportunity to return to the motoring show he helped turn into a global phenomenon alongside Jeremy Clarkson and James May .
+
+Hammond disclosed the BBC's approach during an interview with Times Radio on the day that Gordon Ramsay was unveiled as the new host of Top Gear.
+
+"I did talk to them about Top Gear relaunching, and I'm sure they went to the others as well. They came to me, and [asked] was I interested? 'No, I'm too old,' [I responded]," Hammond said. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); } Related Stories News Gordon Ramsay To Host Revived 'Top Gear' For BBC News BBC Journalists Vote To Take Strike Action Over Job Cuts
+
+"I've done it. I wouldn't want to revisit it. That was our Top Gear , wasn't it? We did it, the three of us, and when we left and went on together, it was the three of us. But that was our show.
+
+"The BBC owns Top Gear and has had it for decades, and I think right now should be making a show that actually tells us what's happening in the world of cars."
+
+Times Radio presenter Kait Borsay asked Hammond if he would be interested if Clarkson and May returned to Top Gear.
+
+"We've done it. Let somebody else. We made our show in the way we did, and for our time," he replied. "The BBC should be making a TV show that tells us, the consumers: This is what's happening in the world of transport."
+
+Hammond hosted Top Gear between 2002 and 2015, before leaving the BBC with Clarkson and May and launching The Grand Tour on Amazon Prime Video.
+
+Ramsay was announced as the next host of Top Gear four years after Andrew Flintoff&#x2019;s crash. Ramsay will lead the series alongside a soon-to-be-announced lineup of co-presenters, with The Stig returning.
+
+Filming will take place across the UK and around the world in 2027, with the Top Gear test track at Dunsfold Aerodrome in Surrey once again serving as the show&#x2019;s home.
+
+Ramsay said: "At its very best Top Gear has always been about the unexpected &#x2013; surprising, entertaining and just the right amount of chaos. That&#x2019;s the spirit we want to build on, bringing a fresh energy and ambition to create something truly thrilling for a whole new generation of audiences.&#x201D;
+
+============================================================
+[2] Avengers: Doomsday Marks a Major First for the MCU, But It May Not Start a New Trend With Phase 7
 Source: ComicBook.com | Status: expanded | Words: 768
 Published: 2026-11-26T10:43:00+00:00
 URL: https://comicbook.com/movies/feature/avengers-doomsday-marks-a-major-first-for-the-mcu-but-it-may-not-start-a-new-trend-with-phase-7
@@ -33,7 +67,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] Former Disney Boss Bob Iger 'Got ABC Employee Pregnant' During Affair, New Book Claims
+[3] Former Disney Boss Bob Iger 'Got ABC Employee Pregnant' During Affair, New Book Claims
 Source: Variety | Status: expanded | Words: 391
 Published: 2026-11-26T10:24:21+00:00
 URL: https://variety.com/2026/film/global/bob-iger-employee-pregnant-new-book-1236958840
@@ -61,7 +95,7 @@ Variety has contacted Disney for comment.
 In a statement to the Times, they said: &#x201C;Bob Iger is one of the most respected CEOs of his generation&#x201D; pointing to his &#x201C;bold creative and strategic decisions&#x201D; and that he leaves Disney &#x201C;stronger and more innovative.&#x201D;
 
 ============================================================
-[3] Director Cédric Klapisch to Receive César Lifetime Achievement Honor
+[4] Director Cédric Klapisch to Receive César Lifetime Achievement Honor
 Source: The Hollywood Reporter | Status: expanded | Words: 305
 Published: 2026-11-26T10:24:04+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946
@@ -83,7 +117,7 @@ Klapisch recently wrapped his 16th feature, the ensemble comedy S'aimer sur Mars
 Klapisch will be honored by the French film academy and Canal+ , the co-producer and exclusive broadcaster of the C&#xE9;sar, at the 2027 ceremony at the Olympia theater in Paris on Feb. 25. The ceremony will air live and unencrypted on Canal+.
 
 ============================================================
-[4] 5 2000s Superhero Movies I Wish I Could See All Over Again, Like the Best X-Men Sequel Ever
+[5] 5 2000s Superhero Movies I Wish I Could See All Over Again, Like the Best X-Men Sequel Ever
 Source: ComicBook.com | Status: expanded | Words: 1088
 Published: 2026-11-26T10:03:00+00:00
 URL: https://comicbook.com/movies/feature/5-2000s-superhero-movies-i-wish-i-could-see-all-over-again-like-the-best-x-men-sequel-ever
@@ -123,7 +157,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Baz Bamigboye Pays Tribute To Legendary British Agent Jeremy Conway – With Help From Helena Bonham Carter
+[6] Baz Bamigboye Pays Tribute To Legendary British Agent Jeremy Conway – With Help From Helena Bonham Carter
 Source: Deadline | Status: expanded | Words: 1636
 Published: 2026-11-26T10:00:00+00:00
 URL: https://deadline.com/2026/11/baz-bamigboye-tribute-jeremy-conway-helena-bonham-carter-1237233779
@@ -175,7 +209,7 @@ That&#x2019;s precisely the side of Conway&#x2019;s character that Bonham Carter
 &#x201C;I think of him with huge love and gratitude. I was all his idea. All his fault.&#x201D;
 
 ============================================================
-[6] ‘Steps’ Director Alyce Tzue On “Punk Rock” Inspirations For ‘Cinderella’ Reimagining
+[7] ‘Steps’ Director Alyce Tzue On “Punk Rock” Inspirations For ‘Cinderella’ Reimagining
 Source: Deadline | Status: expanded | Words: 2237
 Published: 2026-11-26T09:45:00+00:00
 URL: https://deadline.com/2026/11/steps-netflix-interview-1237233932
@@ -249,7 +283,7 @@ DEADLINE: What were some directorial inspirations you drew from, either in style
 TZUE: We pulled inspiration from quite a few live-action films. I personally love Joe Wright's Pride and Prejudice . He tackles the intimacy of sisters so well. Some of those closer camera angles when the sisters are bonding, the rack focuses from one girl to the other, a lot of the lighting on the streets&#x2014;anything that feels romantic. We also drew from movies like Little Women by Greta Gerwig and Marie Antoinette by Sofia Coppola, which was a big one as well, because she infused the Rococo era with a lot of contemporary flavor and made the whole movie feel so delicious, from the pastries and colors to the pastels. We wanted to go maximalist, and that movie gave us a lot of inspiration.
 
 ============================================================
-[7] One of the Best Thanksgiving Scenes in Movie History Happens in a Cult '90s Sequel
+[8] One of the Best Thanksgiving Scenes in Movie History Happens in a Cult '90s Sequel
 Source: ComicBook.com | Status: expanded | Words: 848
 Published: 2026-11-26T09:22:00+00:00
 URL: https://comicbook.com/tv-shows/feature/one-of-the-best-thanksgiving-scenes-in-movie-history-happens-in-a-cult-90s-sequel
@@ -275,7 +309,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Netflix Cancels 'Amsterdam Empire' Starring Famke Janssen After One Season
+[9] Netflix Cancels 'Amsterdam Empire' Starring Famke Janssen After One Season
 Source: Deadline | Status: expanded | Words: 475
 Published: 2026-11-26T09:00:00+00:00
 URL: https://deadline.com/2026/11/netflix-cancels-amsterdam-empire-famke-janssen-holland-1237233284
@@ -303,7 +337,7 @@ Earlier this year, we revealed Janssen was starring in Sean McEwen movie Turnbuc
 Netflix declined comment on Amsterdam Empire.
 
 ============================================================
-[9] After Three Decades, Essence Music Festival Bids Farewell to New Orleans
+[10] After Three Decades, Essence Music Festival Bids Farewell to New Orleans
 Source: The Hollywood Reporter | Status: expanded | Words: 633
 Published: 2026-11-26T08:58:36+00:00
 URL: https://www.hollywoodreporter.com/music/music-news/essence-music-festival-leaving-new-orleans-1236763933
@@ -341,7 +375,7 @@ A legal dispute arose in 2023 when a Black-owned bookstore and coffee shop sough
 A similar incident occurred in 2022 when Spotify and a New Orleans real estate developer wanted to put on an event at a music club. Essence dropped the lawsuit the following year, according to NOLA.com.
 
 ============================================================
-[10] A Forgotten X-Men TV Movie Almost Gave Marvel a Different Live-Action Universe in the '90s
+[11] A Forgotten X-Men TV Movie Almost Gave Marvel a Different Live-Action Universe in the '90s
 Source: ComicBook.com | Status: expanded | Words: 923
 Published: 2026-11-26T08:39:00+00:00
 URL: https://comicbook.com/movies/feature/a-forgotten-x-men-tv-movie-almost-gave-marvel-a-different-live-action-universe-in-the-90s
@@ -371,7 +405,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] How To Watch Macy's Thanksgiving Day Parade 2026 Online From Anywhere — Start Time, Line-up, TV Channel
+[12] How To Watch Macy's Thanksgiving Day Parade 2026 Online From Anywhere — Start Time, Line-up, TV Channel
 Source: CinemaBlend | Status: expanded | Words: 252
 Published: 2026-11-26T07:40:00+00:00
 URL: https://www.cinemablend.com/streaming-news/how-to-watch-macys-thanksgiving-day-parade
@@ -397,7 +431,7 @@ It’s not just any old Parade this year either, as the iconic event celebrates 
 You can take a sneak peek at the new additions for the 2026 edition of the Macy's Thanksgiving Day Parade courtesy of ABC.
 
 ============================================================
-[12] Mario Van Peebles, Abderrahmane Sissako Set for Ivory Coast’s SICA as African Content Economy Takes Center Stage
+[13] Mario Van Peebles, Abderrahmane Sissako Set for Ivory Coast’s SICA as African Content Economy Takes Center Stage
 Source: Variety | Status: expanded | Words: 835
 Published: 2026-11-26T07:37:27+00:00
 URL: https://variety.com/2026/tv/global/sica-2026-welcomes-mario-van-peebles-abderrahmane-sissako-1236958374
@@ -439,7 +473,7 @@ More than 100 screenings will be offered at a reduced ticket price of 2,000 CFA 
 Van Peebles will serve as patron of the market&#x2019;s closing ceremony, featuring a tribute to Ivorian cinema pioneer Timit&#xE9; Bassori, the SICA d&#x2019;Or awards recognizing excellence in television programming and presenting, and the pitching competition awards.
 
 ============================================================
-[13] Ivory Coast’s SICA Market Looks to Turn Africa’s Creative Talent Into Economic Opportunity
+[14] Ivory Coast’s SICA Market Looks to Turn Africa’s Creative Talent Into Economic Opportunity
 Source: Variety | Status: expanded | Words: 1184
 Published: 2026-11-26T07:32:37+00:00
 URL: https://variety.com/2026/tv/global/ivory-coast-sica-african-film-tv-industry-1236958359
@@ -495,7 +529,7 @@ Coulibaly also wants to transform SICA into a year-round platform, with sessions
 &#x201C;We have stories to tell the world,&#x201D; Coulibaly adds. &#x201C;It is important that we take ownership of our own stories, that we manage to build our own narrative, translate it into films and share it with the world.&#x201D;
 
 ============================================================
-[14] 'Chhota Bheem' Creator and 'Black Warrant' Publisher Weigh Book-to-Screen Economics at WAVES Film Bazaar
+[15] 'Chhota Bheem' Creator and 'Black Warrant' Publisher Weigh Book-to-Screen Economics at WAVES Film Bazaar
 Source: Variety | Status: expanded | Words: 1289
 Published: 2026-11-26T06:48:45+00:00
 URL: https://variety.com/2026/tv/markets-festivals/chhota-bheem-creator-black-warrant-publisher-adaptation-waves-film-bazaar-1236958813
@@ -545,7 +579,7 @@ Magdum, who headed the National Film Archive of India during Mahatma Gandhi's 15
 Asked for their favorite book-to-screen adaptations, Magdum and Patel both picked "Slumdog Millionaire," drawn from Vikas Swarup's novel "Q&A." Patel, a friend of Swarup's, said he wrote it while posted in Cape Town and that screenwriter Simon Beaufoy's love story turned it around. Chandra chose "Omkara" and "The Guide," Chilaka the "Harry Potter" and "The Lord of the Rings" films, and Kapoor "The English Patient."
 
 ============================================================
-[15] JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S.
+[16] JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S.
 Source: Variety | Status: expanded | Words: 436
 Published: 2026-11-26T06:27:20+00:00
 URL: https://variety.com/2026/tv/news/jiostar-star-plus-colors-mtv-india-fubo-us-1236958804
@@ -573,7 +607,7 @@ Malhotra added that the Fubo launch gives JioStar a solid base in the U.S. as it
 In September, JioStar's streaming service JioHotstar launched in the U.K., Canada and Singapore, replacing Hotstar in those markets with a library of more than 160,000 hours of content in over 12 languages.
 
 ============================================================
-[16] Candace Cameron Bure Says She Still Gets ‘Substantial’ ‘Full House’ Residuals and Wasn’t Surprised the Olsen Twins Skipped ‘Fuller House’: No One ‘Stayed Close’ With Them
+[17] Candace Cameron Bure Says She Still Gets ‘Substantial’ ‘Full House’ Residuals and Wasn’t Surprised the Olsen Twins Skipped ‘Fuller House’: No One ‘Stayed Close’ With Them
 Source: Variety | Status: expanded | Words: 470
 Published: 2026-11-26T06:13:02+00:00
 URL: https://variety.com/2026/tv/news/candace-cameron-bure-full-house-residuals-olsen-twins-1236958774
@@ -597,7 +631,7 @@ She continued: &#x201C;Not because anything went wrong or there was any bad bloo
 Sweetin played Stephanie Tanner and Bure played D.J. Tanner on &#x201C;Full House,&#x201D; which ran for eight seasons from 1987 to 1995. &#x201C;Fuller House&#x201D; ran for five seasons on Netflix, totaling nearly 80 episodes. Original cast members, including Bure, Sweetin, Andrea Barber, Scott Weinger, Bob Saget, Lori Loughlin, Dave Coulier and John Stamos, all returned for the series. Juan Pablo Di Pace, Adam Hagenbuch, John Brotherton, Michael Campion, Elias Harger and Soni Bringas also starred in the reboot.
 
 ============================================================
-[17] Hollywood’s Most Notable Deaths of 2026
+[18] Hollywood’s Most Notable Deaths of 2026
 Source: The Hollywood Reporter | Status: expanded | Words: 1566
 Published: 2026-11-26T05:55:30+00:00
 URL: https://www.hollywoodreporter.com/lists/notable-deaths-2026-hollywood-entertainment
@@ -673,7 +707,7 @@ June 2, 1941 – Nov. 10, 2026 Stacy Keach, the two-fisted actor who starred as 
 Feb. 16, 1961 – Nov. 23, 2026 Andy Taylor, Duran Duran‘s guitarist during the band’s commercial peak in the 1980s as well as a founding member of supergroup The Power Station, died on Nov. 23. He was 65. Full obituary here .
 
 ============================================================
-[18] 'South Park' Season Finale Drops Kenny Into 'Grand Theft Auto VI' as South America Comes Clean
+[19] 'South Park' Season Finale Drops Kenny Into 'Grand Theft Auto VI' as South America Comes Clean
 Source: The Hollywood Reporter | Status: expanded | Words: 765
 Published: 2026-11-26T05:15:37+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-finale-kenny-grand-theft-auto-vi-1236763867
@@ -699,7 +733,7 @@ It's time for everyone to come clean: The mayor confesses to her administration'
 By the end of the episode and the season, the core four boys of South Park Elementary are restored, Randy is still Lil' Randy, it seems, and the town, according to the iconic sign at its edge, is once again called South Park.
 
 ============================================================
-[19] Lauren Ash &#038; Mae Martin Among Cast Of Shozer's Adult Animation High-School Comedy 'Dirts'
+[20] Lauren Ash &#038; Mae Martin Among Cast Of Shozer's Adult Animation High-School Comedy 'Dirts'
 Source: Deadline | Status: expanded | Words: 601
 Published: 2026-11-26T05:01:00+00:00
 URL: https://deadline.com/2026/11/lauren-ash-mae-martin-dirts-shozer-comedy-1237232683
@@ -733,7 +767,7 @@ Shozer debuted last year with a slate of shows and films including Lionsgate's R
 "We want Shozer to become a trusted destination for comedy, where people come to discover their next favourite creator or series. And by developing and owning that IP from the outset, we have the flexibility to grow those properties across multiple platforms, formats and consumer experiences."
 
 ============================================================
-[20] Jesse Eisenberg Says Fans Aren’t Crazy With Him Because ‘There’s No Sexuality to My Work’: Life Is ‘Different’ When People ‘Want to Sleep With’ You
+[21] Jesse Eisenberg Says Fans Aren’t Crazy With Him Because ‘There’s No Sexuality to My Work’: Life Is ‘Different’ When People ‘Want to Sleep With’ You
 Source: Variety | Status: expanded | Words: 542
 Published: 2026-11-26T05:00:00+00:00
 URL: https://variety.com/2026/film/news/jesse-eisenberg-fans-sexuality-1236958576
@@ -757,7 +791,7 @@ The actor-turned-director, who is currently promoting &#x201C; The Debut ,&#x201
 &#x201C;The Debut&#x201D; opens from A24 in theaters on Dec. 11
 
 ============================================================
-[21] The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything
+[22] The 20 Best Nordstrom Black Friday Deals: Uggs, Statement Diamond Studs and Cashmere Everything
 Source: The Hollywood Reporter | Status: expanded | Words: 304
 Published: 2026-11-26T04:53:02+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-black-friday-sale-2026-best-cyber-week-deals-1236763823
@@ -785,7 +819,7 @@ Shop the Black Friday sale in full at Nordstrom.com , running through Tuesday, D
 For more, check out The Hollywood Reporter 's Black Friday landing page , which will stay up to date as new and noteworthy deals events arise.
 
 ============================================================
-[22] Avengers Doomsday Teaser is Packed With New Footage &#038; Already Answers a Major Magneto Question
+[23] Avengers Doomsday Teaser is Packed With New Footage &#038; Already Answers a Major Magneto Question
 Source: ComicBook.com | Status: expanded | Words: 569
 Published: 2026-11-26T04:08:18+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-teaser-is-packed-with-new-footage-already-answers-a-major-magneto-question
@@ -813,7 +847,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims
+[24] Former Disney Boss Bob Iger Got Employee Pregnant During Extramarital Affair, New Book Claims
 Source: The Hollywood Reporter | Status: expanded | Words: 474
 Published: 2026-11-26T04:02:04+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bob-iger-employee-pregnant-affair-house-of-mouse-revelations-1236763850
@@ -843,7 +877,7 @@ The author recounted Chapek gesturing toward fans cosplaying as superheroes and 
 THR reached out to Disney and Iger for comment. The Times reported that Chapek did not respond to their request for comment.
 
 ============================================================
-[24] 'South Park' Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages
+[25] 'South Park' Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages
 Source: Variety | Status: expanded | Words: 651
 Published: 2026-11-26T04:01:08+00:00
 URL: https://variety.com/2026/tv/news/south-park-season-29-finale-gta-6-billionares-spies-1236958735
@@ -869,7 +903,7 @@ In the end, the mayor of South American addresses the town and owns up to her mi
 And so, the billionaire weenies help the town &#x201C;do something we should have done a long time ago&#x201D;: shoot Mr. Kim into space and out of South America. And with that, another season of "South Park" (and the first season with the new name of "South America") comes to a close.
 
 ============================================================
-[25] 'South Park' Celebrates 'GTA VI' But Outages, AI Data Centers &#038; Zombie Kenny Stand In The Way In Season 29 Finale
+[26] 'South Park' Celebrates 'GTA VI' But Outages, AI Data Centers &#038; Zombie Kenny Stand In The Way In Season 29 Finale
 Source: Deadline | Status: expanded | Words: 404
 Published: 2026-11-26T03:52:37+00:00
 URL: https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874
@@ -897,7 +931,7 @@ Ultimately, Mayor McDaniels takes responsibility for the billionaires ruining th
 South Park 's finale wrapped up its Billionaire Weenietown storyline with some more topical jabs, following the massively unprecedented release of GTA VI , as well as the ongoing nationwide outages , which the government has chalked up to many networks changing over to AI systems .
 
 ============================================================
-[26] Every Avengers Doomsday Theory &#038; Leak Confirmed or Debunked By The Final Trailer
+[27] Every Avengers Doomsday Theory &#038; Leak Confirmed or Debunked By The Final Trailer
 Source: ComicBook.com | Status: expanded | Words: 1378
 Published: 2026-11-26T03:19:37+00:00
 URL: https://comicbook.com/movies/list/every-avengers-doomsday-theory-leak-confirmed-by-the-final-trailer
@@ -949,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] U2 Salutes Dolly Parton With Recreation of Their 'Torn' Duet in NFL Thanksgiving Eve Halftime Show
+[28] U2 Salutes Dolly Parton With Recreation of Their 'Torn' Duet in NFL Thanksgiving Eve Halftime Show
 Source: Variety | Status: expanded | Words: 576
 Published: 2026-11-26T03:18:16+00:00
 URL: https://variety.com/2026/music/news/u2-nfl-thanksgiving-eve-halftime-show-performance-1236958652
@@ -973,7 +1007,7 @@ It was U2's third tango with the NFL, albeit its first in two decades. The Irish
 The group has kept up a heavy cycle of broadcast and streaming promotions before and since the new album release, including a surprise opening to the Rock & Roll Hall of Fame ceremony at L.A.'s Peacock Theatre on Nov. 14, which is being edited into a special to be broadcast Dec. 8 on ABC.
 
 ============================================================
-[28] GTA 6 Players Report The Game Is Bricking Their PS5 Consoles &#038; The Fixes Are Not Ideal
+[29] GTA 6 Players Report The Game Is Bricking Their PS5 Consoles &#038; The Fixes Are Not Ideal
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-26T03:15:09+00:00
 URL: https://comicbook.com/gaming/news/gta-6-players-report-the-game-is-bricking-their-ps5-consoles-the-fixes-are-not-ideal
@@ -1003,7 +1037,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] Bono Bowl Review: U2 Delivers Halftime Goods &#038; Hits On Netflix &#038; NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton
+[30] Bono Bowl Review: U2 Delivers Halftime Goods &#038; Hits On Netflix &#038; NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton
 Source: Deadline | Status: expanded | Words: 1182
 Published: 2026-11-26T03:06:42+00:00
 URL: https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462
@@ -1049,7 +1083,7 @@ In that, with ads galore and L.A. beauty shots tonight, Netflix have finally wor
 From the big picture perspective, tonight's game and that halftime show can&#x2019;t but help Netflix&#x2019;s ongoing bid to FIFA for the 2030 World Cup. For U2, the ride may be a little vintage, but turns out there's still quite a bit of gas in the old tank.
 
 ============================================================
-[30] Microdrama Revenue to Hit $20 Billion in 2026, but Profits Outside China Remain Thin, Media Partners Asia Report Finds
+[31] Microdrama Revenue to Hit $20 Billion in 2026, but Profits Outside China Remain Thin, Media Partners Asia Report Finds
 Source: Variety | Status: expanded | Words: 1185
 Published: 2026-11-26T03:00:00+00:00
 URL: https://variety.com/2026/tv/news/microdrama-revenue-20-billion-2026-profits-thin-1236958647
@@ -1089,7 +1123,7 @@ Audiences have been slower to switch. Live-action titles hold most of the top 50
 Payments may shift the math. Apple and Google process 65% of the revenue earned outside China, though legal rulings and fresh legislation in the U.S., Japan and Korea have cleared the way for web payments. Direct billing can lift margins, although the savings depend on each market's fees and payment route. MPA expects payments made outside the app stores, including through India's UPI system, to deliver roughly half of the growth outside China in 2027.
 
 ============================================================
-[31] Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report
+[32] Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report
 Source: Deadline | Status: expanded | Words: 958
 Published: 2026-11-26T03:00:00+00:00
 URL: https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205
@@ -1133,7 +1167,7 @@ The MPA report raised a further notable asides: new title listings on apps outsi
 "What decides a platform&#x2019;s economics is how many of its titles earn back the marketing spent on them. That favours companies with established IP, stars and audiences of their own, which is why local broadcasters, studios and telecom operators matter to the next phase.&#x201D;
 
 ============================================================
-[32] 'Baahubali,' 'RRR' Tech Chief C.V. Rao, New SMPTE Fellow, on Why Indian Filmmakers Shouldn't Depend on Overseas Facilities
+[33] 'Baahubali,' 'RRR' Tech Chief C.V. Rao, New SMPTE Fellow, on Why Indian Filmmakers Shouldn't Depend on Overseas Facilities
 Source: Variety | Status: expanded | Words: 1435
 Published: 2026-11-26T02:57:01+00:00
 URL: https://variety.com/2026/film/news/baahubali-rrr-tech-chief-weaning-india-off-overseas-facilities-1236958697
@@ -1203,7 +1237,7 @@ Looking five years out, Rao expects AI, real-time rendering, virtual production 
 "Ultimately, we believe technology investments should be driven by the value they bring to filmmaking, not simply by technological advancement itself," Rao says.
 
 ============================================================
-[33] Crypto Exec Constance Wang Slams Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and ‘Very Stereotypical’
+[34] Crypto Exec Constance Wang Slams Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and ‘Very Stereotypical’
 Source: Variety | Status: expanded | Words: 413
 Published: 2026-11-26T02:54:08+00:00
 URL: https://variety.com/2026/tv/news/ftx-constance-wang-slams-altruists-portrayal-racist-netflix-1236958694
@@ -1227,7 +1261,7 @@ Bankman-Fried founded the failed FTX cryptocurrency exchange in 2019, before ult
 Ellison was the CEO of Alameda Research, a trading firm affiliated with FTX, and was in a relationship with Bankman-Fried.
 
 ============================================================
-[34] Ms. Rachel Explains How Mr. Rogers' "Radical" Programming Inspired Her: "A Huge Responsibility"
+[35] Ms. Rachel Explains How Mr. Rogers' "Radical" Programming Inspired Her: "A Huge Responsibility"
 Source: Deadline | Status: expanded | Words: 546
 Published: 2026-11-26T02:51:55+00:00
 URL: https://deadline.com/2026/11/ms-rachel-mr-rogers-radical-programming-inspired-her-1237233868
@@ -1255,7 +1289,7 @@ When people question, "What would Mr. Rogers be now?" Ms. Rachel points out that
 Ms. Rachel's comments come as she visited children in immigration court earlier this week, having previously been an outspoken advocate for children in ICE detention centers and Palestinian children in Gaza.
 
 ============================================================
-[35] Hulu is Being Dominated by 5 Movies from the Same $3.3B Sci-Fi Franchise - and New Instalment Is in Theaters Now
+[36] Hulu is Being Dominated by 5 Movies from the Same $3.3B Sci-Fi Franchise - and New Instalment Is in Theaters Now
 Source: ComicBook.com | Status: expanded | Words: 681
 Published: 2026-11-26T02:30:00+00:00
 URL: https://comicbook.com/movies/news/hulu-is-being-dominated-by-5-movies-from-the-same-3-3b-sci-fi-franchise-and-new-instalment-is-in-theaters-now
@@ -1279,7 +1313,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Every Movie &#038; TV Show Coming to HBO Max in December 2026 (Including Harry Potter)
+[37] Every Movie &#038; TV Show Coming to HBO Max in December 2026 (Including Harry Potter)
 Source: ComicBook.com | Status: expanded | Words: 447
 Published: 2026-11-26T02:20:47+00:00
 URL: https://comicbook.com/movies/news/every-movie-tv-show-coming-to-hbo-max-in-december-2026-including-harry-potter
@@ -1359,7 +1393,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] ‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland's Oscar Entry Makes a Case for Organic Love in the Age of Automation
+[38] ‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland's Oscar Entry Makes a Case for Organic Love in the Age of Automation
 Source: Variety | Status: expanded | Words: 886
 Published: 2026-11-26T02:13:34+00:00
 URL: https://variety.com/2026/film/reviews/the-squirrel-review-1236955178
@@ -1389,7 +1423,7 @@ It&#x2019;s only after he secretly adopts the squirrel that Pasi begins to compr
 The disarming faint smile that appears on Lopperi&#x2019;s face when Pasi plays with said squirrel &#x2014; a playful interaction that an artificial creature cannot match &#x2014; turns into a frown as the little furball shows signs of heartache. Lehmusruusu takes this newly found relationship between man and nature as the vehicle to encourage Pasi to seek a human bond, not in an intellectual manner, but surrendering to his inherent need for companionship and physical touch. An effectively minimalist, offbeat delight, &#x201C;The Squirrel&#x201D; makes a case for organic love in the age of automation.
 
 ============================================================
-[38] 5 Dead Supervillains Who Took Forever to Come Back to Life
+[39] 5 Dead Supervillains Who Took Forever to Come Back to Life
 Source: ComicBook.com | Status: expanded | Words: 1060
 Published: 2026-11-26T01:57:00+00:00
 URL: https://comicbook.com/comics/list/5-dead-supervillains-who-took-forever-to-come-back-to-life
@@ -1419,7 +1453,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] ‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism
+[40] ‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism
 Source: Variety | Status: expanded | Words: 794
 Published: 2026-11-26T01:50:43+00:00
 URL: https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446
@@ -1445,7 +1479,7 @@ Although certain scenes many have the look of a Western, as when Pertiwi and Bis
 The chief criticism is that the film is so packed with characters and incident that some story arcs and characters seem neglected and not as well integrated into the overall narrative. This is particularly the case with Pertiwi&#x2019;s reunion with her fellow ex-prisoners and a striking scene at a Jakarta club where Pertiwi reads a poem accompanied by howling punk band. This critic would welcome a mini-series about Pertiwi and her mates in Jakarta.
 
 ============================================================
-[40] Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’
+[41] Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’
 Source: Variety | Status: expanded | Words: 442
 Published: 2026-11-26T01:36:09+00:00
 URL: https://variety.com/2026/film/news/coleman-domingo-responds-michael-performance-1236958665
@@ -1469,7 +1503,7 @@ Alongside Domingo, the film stars Jackson&#x2019;s nephew Jafaar Jackson as the 
 While the film holds the record for the highest-grossing biopic ever made, Variety exclusively reported that it was not submitted for the 2027 EE BAFTA Film Awards.
 
 ============================================================
-[41] Amanda Seyfried Admits She "Told A Lot Of People" About Her 'You Can See Everything' Role: "I'm The Most Indiscreet Person"
+[42] Amanda Seyfried Admits She "Told A Lot Of People" About Her 'You Can See Everything' Role: "I'm The Most Indiscreet Person"
 Source: Deadline | Status: expanded | Words: 318
 Published: 2026-11-26T01:29:29+00:00
 URL: https://deadline.com/2026/11/amanda-seyfried-told-lot-people-you-can-see-everything-1237233837
@@ -1493,7 +1527,7 @@ After portraying Holmes in Hulu's The Dropout (2022), Seyfried agreed to appear 
 With Seyfried's appearance revealed during the doc&#x2019;s surprise September premiere at Telluride, A24 has been building Oscar buzz for the actress, which would be the first time a documentary re-enactor has been nominated in an acting category.
 
 ============================================================
-[42] Judge Blocks FCC's Move Against ABC's Station Licenses: 'This Is Not a Close Case'
+[43] Judge Blocks FCC's Move Against ABC's Station Licenses: 'This Is Not a Close Case'
 Source: Variety | Status: expanded | Words: 415
 Published: 2026-11-26T01:28:12+00:00
 URL: https://variety.com/2026/tv/news/fcc-abc-license-renewals-injunction-1236958634
@@ -1521,7 +1555,7 @@ ABC sought an injunction blocking the early renewal process, as well as an order
 The FCC also sought to force ABC to post an "appropriate bond" as a condition of maintaining the injunction. The judge ordered the company to post a bond in the amount of $1.
 
 ============================================================
-[43] 'Situations' Review: Greg Vrotsos' Filmmaking Debut Is a Winning, Relatable Throwback
+[44] 'Situations' Review: Greg Vrotsos' Filmmaking Debut Is a Winning, Relatable Throwback
 Source: Variety | Status: expanded | Words: 1094
 Published: 2026-11-26T01:25:41+00:00
 URL: https://variety.com/2026/film/reviews/situations-review-1236958625
@@ -1549,7 +1583,7 @@ Despite being shot on a shoestring budget (reportedly $130K), the film looks ric
 After being road-showed by distributor Utopia following a 2025 festival run, the film is due on physical media next year, but its charms feel destined for future cult adoration &#x2014; again, an irony given subject matter that, in any era, has plenty of mainstream appeal. Central to its charm is the relatability of getting dumped by somebody you&#x2019;d like to get back together with, not just because you still have feelings for them, but because starting a new relationship is just too much trouble. 30 years after the romantic misadventures of Favreau and his pals, this next-generation follow-up reiterates the adage that there&#x2019;s someone out there for everybody, but adds an important footnote born of a single fortysomething's life experience: The first step to finding that person is often getting out of your own way. Let&#x2019;s hope &#x201C;Situations&#x201D; is Vrotsos&#x2019; first cinematic lesson of many.
 
 ============================================================
-[44] Shang-Chi Sequel Update Revealed, As Writer Confirms Return to the MCU
+[45] Shang-Chi Sequel Update Revealed, As Writer Confirms Return to the MCU
 Source: ComicBook.com | Status: expanded | Words: 591
 Published: 2026-11-26T01:25:15+00:00
 URL: https://comicbook.com/movies/news/shang-chi-sequel-update-revealed-as-writer-confirms-return-to-the-mcu
@@ -1575,7 +1609,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] The Best of Macy's Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
+[46] The Best of Macy's Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
 Source: The Hollywood Reporter | Status: expanded | Words: 306
 Published: 2026-11-26T01:22:41+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/lifestyle-news/macys-black-friday-sale-2026-coupons-promo-codes-cyber-week-1236755681
@@ -1601,7 +1635,7 @@ Related: 21 Tried-and-True Holiday Gifts for Dad, From Sentimental Keepsakes to 
 Shop the full Black Friday sale now at Macys.com . Plus, check out The Hollywood Reporter 's top Black Friday streaming deals here , Parke clothing deals here and B&#xE9;is deals here . THR will update the Black Friday landing page as new and noteworthy savings events arise.
 
 ============================================================
-[46] Recasting the Original Starship Troopers for 2026
+[47] Recasting the Original Starship Troopers for 2026
 Source: ComicBook.com | Status: expanded | Words: 1051
 Published: 2026-11-26T01:15:00+00:00
 URL: https://comicbook.com/movies/feature/recasting-the-original-starship-troopers-for-2026
@@ -1639,7 +1673,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Peter Berg on the ‘Two Truths’ of War in ‘The Mosquito Bowl’ and the ‘Incredibly Funny’ ‘Hancock 2’ Script Will Smith Sent Him: ‘I Love Will Smith, and I Always Will’
+[48] Peter Berg on the ‘Two Truths’ of War in ‘The Mosquito Bowl’ and the ‘Incredibly Funny’ ‘Hancock 2’ Script Will Smith Sent Him: ‘I Love Will Smith, and I Always Will’
 Source: Variety | Status: expanded | Words: 4703
 Published: 2026-11-26T01:11:05+00:00
 URL: https://variety.com/2026/film/awards/peter-berg-mosquito-bowl-hancock-2-will-smith-1236958637
@@ -1783,7 +1817,7 @@ Someone online suggested you'd make a great Buddy Ryan, the architect of the 198
 That's amazing. Michael's my mentor. He produced &#x201C;The Kingdom&#x201D;; he produced &#x201C;Hancock.&#x201D; He saw an early show I did called &#x201C;Wonderland,&#x201D; about a psychiatric hospital in New York that was killed instantly by ABC and he responded so well to that. He's one of my favorite people on planet Earth. He's a great human being.
 
 ============================================================
-[48] FCC Bid Challenging ABC's TV Licenses Halted in Major Win for Network
+[49] FCC Bid Challenging ABC's TV Licenses Halted in Major Win for Network
 Source: The Hollywood Reporter | Status: expanded | Words: 431
 Published: 2026-11-26T00:55:25+00:00
 URL: https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790
@@ -1809,7 +1843,7 @@ The court was unconvinced, finding that it "does not find that explanation to be
 The FCC has also launched a separate inquiry into The View , which it argued is not a &#x201C;bona fide&#x201D; news program and therefore is not exempt from FCC equal opportunity rules. This came after an appearance by James Talarico, the Democratic nominee for the Texas Senate, in February. ABC said in an earlier filing that the FCC &#x201C;now appears poised to find that The View must provide equal opportunities to all legally qualified political candidates if it interviews one candidate on the show, which would represent a reversal of decades of agency precedent.&#x201D;
 
 ============================================================
-[49] GTA 6 Every Major Missable Mission &#038; Reward in Each Chapter of the Game
+[50] GTA 6 Every Major Missable Mission &#038; Reward in Each Chapter of the Game
 Source: ComicBook.com | Status: expanded | Words: 2165
 Published: 2026-11-26T00:50:47+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-every-major-missable-mission-reward-in-each-chapter-of-the-game
@@ -1931,24 +1965,4 @@ Players pursuing a particular ending should also pay attention to their relation
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] This Vintage Boba Fett Figure Has One Extra Detail That Makes It Even More Valuable to Collectors
-Source: ComicBook.com | Status: expanded | Words: 530
-Published: 2026-11-26T00:31:00+00:00
-URL: https://comicbook.com/collectibles/news/this-vintage-boba-fett-figure-has-one-extra-detail-that-makes-it-even-more-valuable-to-collectors
-------------------------------------------------------------
-SUMMARY:
-While almost any of Kenner's vintage Star Wars toys are worth getting your hands on, there are some that are more valuable than others. Of course, the original line is something everyone would love to own, especially the figures with the double telescoping lightsabers. However, we all know that the Holy Grail of Kenner's Star […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google While almost any of Kenner's vintage Star Wars toys are worth getting your hands on, there are some that are more valuable than others. Of course, the original line is something everyone would love to own, especially the figures with the double telescoping lightsabers . However, we all know that the Holy Grail of Kenner's Star Wars toys is the missile firing Boba Fett that could fetch you over a million dollars . In fact, that figure became so coveted that it made all other Boba Fett figures more valuable. However, one fan boosted the value of his figure by getting it autographed by the bounty hunter himself, along with a pretty cool message.
-
-As showcased by the fan on Reddit their Boba Fett figure belongs to The Power of the Force series, which came much later than Kenner's original and highly coveted line. It features the red and orange cardback, signifying that it's pretty common even among its own line. However, the standout feature is actor Jeremy Bulloch's autograph in silver ink, with the message "Stay Cool", along with the date. Depending on which format Bullock followed, it was either autographed a day before Star Wars Day, May 3rd; or on March 5th, 2000. Given the fact that Bulloch was English, it's likely the latter.
-
-If you look at the hierarchy of popularity in Kenner's Star Wars line, those from The Power of the Force series will rank pretty low. Even today, the figures aren't worth much more than their original retail prices, and are pretty easy to come by if you know where to look. However, there are two kinds of collectors: those who do it for the monetary value of an item, and those that do it for the love. If you belong to the latter, you probably wouldn't be too fussed about grading, condition, variants, and all the other stuff hardcore collectors look at. You'll be happy with your sealed vintage Boba Fett, no matter which series it's from or if it has a tiny scratch. The fact that it just happens to have actor Jeremy Bulloch's autograph on it is a bonus. The collector has wrapped it in a plastic bag to preserve the toy and the autograph, but I'd suggest getting something more robust if they want it to last.
-
-Even if it's by the original actor themselves, autographs don't boost the value of vintage action figures by too much. Seasoned collectors will still prefer the other criteria, like rarity, condition, and popularity, over autographs. However, if you're someone who collects these things for the love of the franchise, an autograph by the original actor is like a dream come true. Especially if you got the autograph from them yourself. While a missile-shooting, pristine condition Boba Fett figure from a very specific year is the epitome of vintage Star Wars toys, many of us would be happy with the common figure signed by the original actor himself.
-
-Do you have any signed action figures or collectibles? Let us know in the comments below.
 
