@@ -1,9 +1,35 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-26T20:37:21.043Z
+Last Updated: 2026-11-26T20:45:20.733Z
 Website: https://tapseen.com
 
 ============================================================
-[1] X-Men Favorite Confirms MCU Crossover Was Something He Believed Would Never Happen
+[1] Trump's "Noisy Name-Calling" Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter's Nvidia Dispatch
+Source: Deadline | Status: expanded | Words: 557
+Published: 2026-11-26T20:44:34+00:00
+URL: https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141
+------------------------------------------------------------
+SUMMARY:
+Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different. Down in his Florida compound (which no one but Trump calls the Southern White House), the former […]
+
+CONTENT / EXTRACTED DETAILS:
+Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving , and you can always depend on Donald Trump losing his marbles on Turkey Day.
+
+Down in his Florida compound (which no one but Trump calls the Southern White House), the former Apprentice host took time early this AM local time to go on social media to blast off about the New York Times ' reporting on Nvidia and the reinstating of scandal plagued CEO Jensen Huang . As well as likely keeping aide Natalie Harp busy posting for him, Trump pleaded with Vladimir Putin to "pull back all Military aggression against territories throughout Europe," approving disaster relief for parts of the Sunshine State, and boasting about the state of the economy. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Netflix Posts Racy Thanksgiving Message On 'The Hunting Wives' Season 2 Premiere Day News Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL's First Thanksgiving Eve Game, With A Little Help From Dolly Parton
+
+However, Trump's real vigor seemed to be reserved for chastising the Gray Lady and veteran journalist David Sanger. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Trump termed Sanger as a "mediocre reporter" after the Times ran a piece bylined by him on Trump's muc bragged about his direct role in Huang rejoining the AI chip company he founded Stinging Trump likely more, Sanger also wrote about the lack of stock market success that Huang's return has brought Nivida, a company POTUS owns millions in stock in. Revealing his thin skin, Trump went on to say: &#x201C;David Sanger is a lowlife that only writes what he is told to write by his bosses. Also, until the Election, best Market, EVER, 82 days, settled 8 Wars, and the USA is respected again like never before!"
+
+Having had some success of late in Florida courts against the NYT in a $15 billion defamation suit, Trump had to , as he so often does, list off his assumed accomplishments — many of which are questionable to put it nicely.
+
+In their own way, the Times were equally blunt and all-incompassing in their response today.
+
+&#x201C;If readers want to understand the market effects of President Trump&#x2019;s interventions, including Nvidia&#x2019;s reversal, his disruption of international trade, and his decision to go to war with Iran, then David Sanger&#x2019;s latest report is an essential read," the Ochs-Sulzberger family-owned outlet said this Thanksgiving Day. The NYT added: "David has covered five American presidents in more than four decades at The Times; his coverage of the ways in which the administration is shaping foreign policy and national security is unmatched. Noisy name-calling is just an attempt to distract from the news." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+That last line kinda sums up this second Trump administration, and the first, in PR poetry.
+
+============================================================
+[2] X-Men Favorite Confirms MCU Crossover Was Something He Believed Would Never Happen
 Source: ComicBook.com | Status: expanded | Words: 586
 Published: 2026-11-26T20:36:15+00:00
 URL: https://comicbook.com/movies/news/x-men-favorite-confirms-mcu-crossover-was-something-he-believed-would-never-happen
@@ -29,7 +55,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] What’s New on Netflix for December 2026
+[3] What’s New on Netflix for December 2026
 Source: Variety | Status: expanded | Words: 563
 Published: 2026-11-26T20:35:00+00:00
 URL: https://variety.com/feature/whats-on-netflix-movies-shows-1203517873
@@ -179,7 +205,7 @@ Dec. 2 blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-
 &#x201C;The Wayans Bros&#x201D; Seasons 1-5
 
 ============================================================
-[3] HBO Harry Potter Star Confirms One Hogwarts Location Will Change With Every Season, But It Sounds Amazing
+[4] HBO Harry Potter Star Confirms One Hogwarts Location Will Change With Every Season, But It Sounds Amazing
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-26T20:28:34+00:00
 URL: https://comicbook.com/tv-shows/news/hbo-harry-potter-star-confirms-one-hogwarts-location-will-change-with-every-season-but-it-sounds-amazing
@@ -209,7 +235,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] 5 Times Superheroes Had to Save Thanksgiving, Because Even Villains Don't Take Holidays Off
+[5] 5 Times Superheroes Had to Save Thanksgiving, Because Even Villains Don't Take Holidays Off
 Source: ComicBook.com | Status: expanded | Words: 1076
 Published: 2026-11-26T20:27:00+00:00
 URL: https://comicbook.com/comics/list/5-times-superheroes-had-to-save-thanksgiving-because-even-villains-dont-take-holidays-off
@@ -249,7 +275,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Dragon Ball's Official Canon is Missing Out on One of Dragon Ball GT's Best Ideas
+[6] Dragon Ball's Official Canon is Missing Out on One of Dragon Ball GT's Best Ideas
 Source: ComicBook.com | Status: expanded | Words: 605
 Published: 2026-11-26T20:25:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-balls-official-canon-is-missing-out-on-one-of-dragon-ball-gts-best-ideas
@@ -275,7 +301,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] What’s New on Disney+ in December 2026
+[7] What’s New on Disney+ in December 2026
 Source: Variety | Status: expanded | Words: 1186
 Published: 2026-11-26T20:20:00+00:00
 URL: https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920
@@ -537,7 +563,7 @@ With all these seasonal treats and more in one place, streamers can grab a blank
 &#x201C;Dick Clark&#x2019;s New Year&#x2019;s Rockin&#x2019; Eve with Ryan Seacrest 2027&#x201D; Streaming Live @ 8 p.m. ET
 
 ============================================================
-[7] Jessy Moussallem’s 'Faux Bijoux,' Laila Abbas’ 'America Is Behind the Door' Take Top Prizes at Marrakech's Atlas Workshops
+[8] Jessy Moussallem’s 'Faux Bijoux,' Laila Abbas’ 'America Is Behind the Door' Take Top Prizes at Marrakech's Atlas Workshops
 Source: Variety | Status: expanded | Words: 1322
 Published: 2026-11-26T20:13:14+00:00
 URL: https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077
@@ -587,7 +613,7 @@ At Thursday's ceremony, Marrakech festival director and Atlas Workshops founder 
 The Marrakech Film Festival runs through Nov. 28.
 
 ============================================================
-[8] The Most Underrated Comic Book Movie of 2005 Almost Changed Hollywood, But What Happened?
+[9] The Most Underrated Comic Book Movie of 2005 Almost Changed Hollywood, But What Happened?
 Source: ComicBook.com | Status: expanded | Words: 740
 Published: 2026-11-26T19:46:00+00:00
 URL: https://comicbook.com/movies/feature/the-most-underrated-comic-book-movie-of-2005-almost-changed-hollywood-but-what-happened
@@ -613,7 +639,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] I Just Found Out Hallmark’s Mistletoe Murders Got A Huge Assist Thanks To … Reacher
+[10] I Just Found Out Hallmark’s Mistletoe Murders Got A Huge Assist Thanks To … Reacher
 Source: CinemaBlend | Status: expanded | Words: 278
 Published: 2026-11-26T19:45:00+00:00
 URL: https://www.cinemablend.com/television/interview-hallmark-mistletoe-murders-huge-assist-reacher-amazon-set-michelle-melanson
@@ -631,7 +657,7 @@ To Amazon’s credit, there’s a little more to it than just having an excess o
 I love it when two shows I deeply enjoy have synergy like this. Prior to being able to visit the set of Mistletoe Murders ahead of this fall's Season 3 return on the 2026 TV schedule , I would never have known the Sarah Drew-led series would have anything in common with the Alan Ritchson series, but this is one very cool connection.
 
 ============================================================
-[10] New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To "Traumatic Termination Procedure”
+[11] New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To "Traumatic Termination Procedure”
 Source: Deadline | Status: expanded | Words: 481
 Published: 2026-11-26T19:43:36+00:00
 URL: https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125
@@ -661,7 +687,7 @@ Elsewhere in today's article, the Times writes that The House of Mouse depicts I
 &#x201C;I am frustrated about compensation!&#x201D; Iger wrote in one of several private emails obtained by Whelan. &#x201C;I had a nasty and distasteful negotiation to extend my contract this last time.&#x201D; The 2014 message went to Ike Perlmutter, then Marvel&#x2019;s chairman and a major Disney shareholder.
 
 ============================================================
-[11] New The Batman Part 2 Set Video Teases a Major Funeral Scene, But Which One?
+[12] New The Batman Part 2 Set Video Teases a Major Funeral Scene, But Which One?
 Source: ComicBook.com | Status: expanded | Words: 779
 Published: 2026-11-26T19:28:05+00:00
 URL: https://comicbook.com/movies/news/new-the-batman-part-2-set-video-teases-a-major-funeral-scene-but-which-one
@@ -693,7 +719,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] David Fincher Dismisses ‘Cliff Booth’ A.I. Controversy, Says “Culture War” Debate “Has Nothing To Do With Movies”
+[13] David Fincher Dismisses ‘Cliff Booth’ A.I. Controversy, Says “Culture War” Debate “Has Nothing To Do With Movies”
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-26T19:26:35+00:00
 URL: https://theplaylist.net/david-fincher-cliff-booth-ai-controversy-culture-war-20261126
@@ -705,7 +731,7 @@ CONTENT / EXTRACTED DETAILS:
 If the use of artificial intelligence in “ The Further Mis-Adventures Of Cliff Booth ” currently has cinephiles up in arms and purists clutching their pearls, then amid the mounting outrage on social media, one person seems singularly unbothered by the whole affair: the film’s director, David Fincher . While Fincher acknowledged using A.I. in post-production earlier this week, specifically in some of the sound and ADR-like sections of the movie, neither he nor Netflix has clarified the extent of its use or addressed the more contentious allegations involving generative A.I. Continue reading David Fincher Dismisses ‘Cliff Booth’ A.I. Controversy, Says “Culture War” Debate “Has Nothing To Do With Movies” at The Playlist.
 
 ============================================================
-[13] Is Deadpool 4 Happening? Ryan Reynolds' Marvel Future Teased in New Report
+[14] Is Deadpool 4 Happening? Ryan Reynolds' Marvel Future Teased in New Report
 Source: ComicBook.com | Status: expanded | Words: 601
 Published: 2026-11-26T19:13:23+00:00
 URL: https://comicbook.com/movies/news/is-deadpool-4-happening-ryan-reynolds-marvel-future-teased-in-new-report
@@ -739,7 +765,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] 5 Starfleet Starships That Can Survive Just About Any Fight
+[15] 5 Starfleet Starships That Can Survive Just About Any Fight
 Source: ComicBook.com | Status: expanded | Words: 1382
 Published: 2026-11-26T19:05:00+00:00
 URL: https://comicbook.com/tv-shows/news/5-starfleet-starships-that-can-survive-just-about-any-fight
@@ -779,7 +805,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] The Show Must Go On: Broadway Will Perform Saturday In Macy's Thanksgiving Parade
+[16] The Show Must Go On: Broadway Will Perform Saturday In Macy's Thanksgiving Parade
 Source: Deadline | Status: expanded | Words: 689
 Published: 2026-11-26T19:04:42+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-parade-saturday-broadway-medley-1237234098
@@ -811,7 +837,7 @@ As for other non-Broadway performers originally scheduled for Thursday, reports 
 As for the marching bands, again, piecemeal reports. Texas' Pride of Pearland Marching Band reportedly raised an extra $350,000 in community donations to cover the additional housing and transportation costs to stay until Saturday, while other marching bands were either still scrambling or had made the decision to bow out of the event due to logistics. In the latter group are the Campo Verde High School Marching Band and some members of the Bowling Green State University Marching Band that were participating in a all-star band group.
 
 ============================================================
-[16] Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
+[17] Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
 Source: Variety | Status: expanded | Words: 610
 Published: 2026-11-26T19:02:18+00:00
 URL: https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067
@@ -861,7 +887,7 @@ These are years we will never get back
 Wills needs his mom Ivy needs her mom
 
 ============================================================
-[17] MCU Fantastic Four Reboot Lost Disney Money Despite $500 Million Box Office
+[18] MCU Fantastic Four Reboot Lost Disney Money Despite $500 Million Box Office
 Source: ComicBook.com | Status: expanded | Words: 567
 Published: 2026-11-26T18:58:27+00:00
 URL: https://comicbook.com/movies/news/mcu-fantastic-four-reboot-lost-disney-money-despite-500-million-box-office
@@ -887,7 +913,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] Win a Blu-ray of Logan's Run
+[19] Win a Blu-ray of Logan's Run
 Source: CinemaBlend | Status: expanded | Words: 987
 Published: 2026-11-26T18:55:14+00:00
 URL: https://www.cinemablend.com/dvds/win-a-blu-ray-of-logans-run
@@ -925,7 +951,7 @@ Features Enter The World Of Blade Runner 2099 With The Latest Issue Of SFX &nbsp
 {let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,a.bj)(e)):(0,o.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,a.qL)(e)):(u.log("Authenticated under metered paywall"),(0,o.kR)(e)?(0,i.aq)(e)&&(0,a.qL)(e):(0,i.aq)(e)&&g(e)?((0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e)),t&&(0,i.aq)(e)&&(0,l.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,o.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",o="kiosq-micropaywall-content",a="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),s=e=>e?.finalSiteConfig??e?.defaultSiteConfig,l=e=>!0===s(e)?.micropaywall_layer_enabled,c=e=>l(e)&&r().length>0,d=e=>{if(!l(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=s(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${o}`))return;const t=document.createElement("div");for(t.className=o;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${a}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[19] I Love The Emperor's New Groove, But David Spade Has Some Blunt Thoughts About Disney
+[20] I Love The Emperor's New Groove, But David Spade Has Some Blunt Thoughts About Disney
 Source: CinemaBlend | Status: expanded | Words: 268
 Published: 2026-11-26T18:45:00+00:00
 URL: https://www.cinemablend.com/movies/i-love-the-emperors-new-groove-pay-david-spade-blunt-thoughts-disney-
@@ -943,7 +969,7 @@ Shrek came out in 2001 – one year after The Emperor’s New Groove – and mad
 Animated movies like The Emperor’s New Groove famously go through a long production process. The 2000 movie in particular did so because it was actually originally an entirely different movie called Kingdom of the Sun . It was more inspired by The Prince and the Pauper , featured Owen Wilson in a voice role, and Spade was playing a character named Manco instead of Kuzco before they shifted directions. No wonder he was getting antsy while making it!
 
 ============================================================
-[20] 'A Paw Patrol Christmas': When and Where to Stream the Animated Holiday Special Online Free
+[21] 'A Paw Patrol Christmas': When and Where to Stream the Animated Holiday Special Online Free
 Source: The Hollywood Reporter | Status: expanded | Words: 490
 Published: 2026-11-26T18:40:28+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268
@@ -975,7 +1001,7 @@ The official CBS streaming service is Paramount+ and subscribers can sign into t
 All three streaming services above let you watch the Paw Patrol Christmas episode on your phone, computer, tablet or smart TV.
 
 ============================================================
-[21] Win a Blu-ray of Spider-Man: Brand New Day
+[22] Win a Blu-ray of Spider-Man: Brand New Day
 Source: CinemaBlend | Status: expanded | Words: 1092
 Published: 2026-11-26T18:35:52+00:00
 URL: https://www.cinemablend.com/superheroes/spider-man/win-a-blu-ray-of-spider-man-brand-new-day
@@ -1015,7 +1041,7 @@ Movies The Sweet Way Spider-Man: Brand New Day’s Ending Mirrored The First Day
 {let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,a.bj)(e)):(0,o.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,a.qL)(e)):(u.log("Authenticated under metered paywall"),(0,o.kR)(e)?(0,i.aq)(e)&&(0,a.qL)(e):(0,i.aq)(e)&&g(e)?((0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e)),t&&(0,i.aq)(e)&&(0,l.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,o.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",o="kiosq-micropaywall-content",a="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),s=e=>e?.finalSiteConfig??e?.defaultSiteConfig,l=e=>!0===s(e)?.micropaywall_layer_enabled,c=e=>l(e)&&r().length>0,d=e=>{if(!l(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=s(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${o}`))return;const t=document.createElement("div");for(t.className=o;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${a}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[22] Spider-Man: Brand New Day’s “Encore” Extended Cut Will Include Cut Avengers: Doomsday Scene
+[23] Spider-Man: Brand New Day’s “Encore” Extended Cut Will Include Cut Avengers: Doomsday Scene
 Source: ComicBook.com | Status: expanded | Words: 620
 Published: 2026-11-26T18:31:53+00:00
 URL: https://comicbook.com/movies/news/spider-man-brand-new-days-encore-extended-cut-will-include-cut-avengers-doomsday-scene
@@ -1043,7 +1069,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] Want More Godzilla? Check Out Netflix's Anime Movie Trilogy
+[24] Want More Godzilla? Check Out Netflix's Anime Movie Trilogy
 Source: ComicBook.com | Status: expanded | Words: 947
 Published: 2026-11-26T18:27:00+00:00
 URL: https://comicbook.com/anime/feature/want-more-godzilla-check-out-netflixs-anime-movie-trilogy
@@ -1077,7 +1103,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] The Screen-Matched Costume Used in One of the Scream Franchise's Most Shocking Moments is Hacking Out a Huge Price at Auction
+[25] The Screen-Matched Costume Used in One of the Scream Franchise's Most Shocking Moments is Hacking Out a Huge Price at Auction
 Source: ComicBook.com | Status: expanded | Words: 668
 Published: 2026-11-26T18:22:00+00:00
 URL: https://comicbook.com/collectibles/news/the-screen-matched-costume-used-in-one-of-the-scream-franchises-most-shocking-moments-is-hacking-out-a-huge-price-at-auction
@@ -1097,7 +1123,7 @@ Now, for Scream and Barrymore fans, the costume worn during the films brutal ope
 What do you think of the Scream franchise's most recent entries? Are they living up to Craven's original or should the whole thing be laid to rest? Let us know in the comments.
 
 ============================================================
-[25] 'Ink' Director Danny Boyle Says Jack O'Connell Would Have Made "A Great Bond"
+[26] 'Ink' Director Danny Boyle Says Jack O'Connell Would Have Made "A Great Bond"
 Source: Deadline | Status: expanded | Words: 506
 Published: 2026-11-26T18:05:45+00:00
 URL: https://deadline.com/2026/11/danny-boyle-jack-oconnell-would-have-made-great-james-bond-1237234088
@@ -1125,7 +1151,7 @@ Boyle himself came close to directing 2021 pic No Time to Die , but left the gig
 Recalling the plan for the film, Boyle said: "We came up with this idea, which was really good. We disagreed about it ultimately, and when you are on those kind of scale of projects, yes you should part company. That's why the creative differences is such a convenient phrase because if you don't there will be bloodshed down the line, because there's so much money at stake. "I think we were all we were all um sanguin about separating."
 
 ============================================================
-[26] 39 Years Ago, Marvel Predicted Avengers: Doomsday With A Wild Thanksgiving Parade Moment 80s Kids Will Never Forget
+[27] 39 Years Ago, Marvel Predicted Avengers: Doomsday With A Wild Thanksgiving Parade Moment 80s Kids Will Never Forget
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-26T18:05:21+00:00
 URL: https://comicbook.com/comics/news/39-years-ago-marvel-predicted-avengers-doomsday-with-a-wild-thanksgiving-parade-moment-80s-kids-will-never-forget
@@ -1157,7 +1183,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Max Payne Remakes Get New Development Update From Remedy, But Still No Release Window
+[28] Max Payne Remakes Get New Development Update From Remedy, But Still No Release Window
 Source: ComicBook.com | Status: expanded | Words: 882
 Published: 2026-11-26T18:00:00+00:00
 URL: https://comicbook.com/gaming/news/max-payne-remakes-get-new-development-update-from-remedy-but-still-no-release-window
@@ -1189,7 +1215,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Matt Damon Narrates Ford Racing's 'Go Like Hell' Thanksgiving Day Ad Directed by Zack Snyder
+[29] Matt Damon Narrates Ford Racing's 'Go Like Hell' Thanksgiving Day Ad Directed by Zack Snyder
 Source: Variety | Status: expanded | Words: 601
 Published: 2026-11-26T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/matt-damon-ford-racing-go-like-hell-ad-zack-snyder-1236958375
@@ -1219,7 +1245,7 @@ The Ford GT41 will make its competitive debut in the 2027 FIA World Endurance Ch
 Watch the full 90-second "Go Like Hell" spot:
 
 ============================================================
-[29] 'Hunger Games: Sunrise on the Reaping' Devouring $85M Over Thanksgiving Weekend as 'Focker-in-Law,' 'Hexed' Launch
+[30] 'Hunger Games: Sunrise on the Reaping' Devouring $85M Over Thanksgiving Weekend as 'Focker-in-Law,' 'Hexed' Launch
 Source: The Hollywood Reporter | Status: expanded | Words: 853
 Published: 2026-11-26T17:51:13+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014
@@ -1253,7 +1279,7 @@ Disney animated features are known for debuting over Thanksgiving, as Moana 2 op
 In limited release, Netflix launched director David Fincher's The Further Mis-Adventures of Cliff Booth on 252 Imax screens in North America. The Brad Pitt-led follow-up to 2019's Once Upon a Time in Hollywood appears headed for around $5 million domestically over the five days before it begins streaming Dec. 23.
 
 ============================================================
-[30] New Digimon Game Available for Free
+[31] New Digimon Game Available for Free
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-26T17:49:53+00:00
 URL: https://comicbook.com/gaming/news/digimon-game-new-free
@@ -1279,7 +1305,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Ariana Grande Reunited With Wicked’s Bowen Yang To Talk Backlash To The ‘Petal’ Video
+[32] Ariana Grande Reunited With Wicked’s Bowen Yang To Talk Backlash To The ‘Petal’ Video
 Source: CinemaBlend | Status: expanded | Words: 300
 Published: 2026-11-26T17:45:00+00:00
 URL: https://www.cinemablend.com/movies/ariana-grande-reunited-wicked-bowen-yang-talk-backlash-petal-video
@@ -1297,7 +1323,7 @@ Fame is a double edged sword, and most of us would likely crack under the pressu
 That certainly sounds like a healthy way to approach any potential backlash that Ariana Grande faces moving forward. She's once again putting herself out there with her starring role in Focker In-Law , as well as the recently announced documentary The Eternal Sunshine Diaries (the latter of which is arriving for those with a Paramount+ subscription ). Hopefully expressing herself honestly in both that doc and podcast appearances like Las Cultch can help quiet the chatter from naysayers who are constantly weighing in about her career, personal life, and appearance.
 
 ============================================================
-[32] Netflix Posts Racy Thanksgiving Message On 'The Hunting Wives' Season 2 Premiere Day
+[33] Netflix Posts Racy Thanksgiving Message On 'The Hunting Wives' Season 2 Premiere Day
 Source: Deadline | Status: expanded | Words: 360
 Published: 2026-11-26T17:44:07+00:00
 URL: https://deadline.com/2026/11/netflix-thanksgiving-message-hunting-wives-season-2-1237234078
@@ -1319,7 +1345,7 @@ After initially being produced for Starz before shifting to Netflix, Season 1 la
 "I&#x2019;m so stoked to be heading back to Maple Brook, and I promise that once you&#x2019;ve finished Season 2, you&#x2019;ll be desperate to see what happens next,&#x201D; said writer, executive producer and showrunner Rebecca Cutter upon the Season 3 renewal. &#x201C;Buckle up, because Season 3 will be even more scandalous and twisted."
 
 ============================================================
-[33] 7 Different Origin Stories for How the Joker Became the Clown Prince of Crime
+[34] 7 Different Origin Stories for How the Joker Became the Clown Prince of Crime
 Source: ComicBook.com | Status: expanded | Words: 1423
 Published: 2026-11-26T17:41:00+00:00
 URL: https://comicbook.com/comics/list/7-different-origin-stories-for-how-the-joker-became-the-clown-prince-of-crime
@@ -1353,7 +1379,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[34] Doom's Most Powerful Moment Yet Revealed in Marvel's Avengers 5 Footage
+[35] Doom's Most Powerful Moment Yet Revealed in Marvel's Avengers 5 Footage
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-26T17:34:32+00:00
 URL: https://comicbook.com/movies/news/dooms-most-powerful-moment-yet-revealed-in-marvels-new-avengers-footage
@@ -1385,7 +1411,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] BBC’s Antisemitism Crisis Represents an Unprecedented Chapter for the World’s Most Trusted News Organization
+[36] BBC’s Antisemitism Crisis Represents an Unprecedented Chapter for the World’s Most Trusted News Organization
 Source: Variety | Status: expanded | Words: 1238
 Published: 2026-11-26T17:29:50+00:00
 URL: https://variety.com/2026/tv/global/bbc-antisemitism-crisis-1236958965
@@ -1431,7 +1457,7 @@ Even the corporation&#x2019;s checkbox response to Lord Mann&#x2019;s announceme
 In his speech announcing the investigation, Lord Mann said he is &#x201C;not interested in targeting individuals. That would entirely miss the point. I am targeting the institution.&#x201D; The biggest clue as to the depth of the BBC&#x2019;s antisemitism problem will be whether the institution even cares.
 
 ============================================================
-[36] Scott Caan Is "100 Percent" Open to Reprising Role in 'Ocean's 14' With Casey Affleck
+[37] Scott Caan Is "100 Percent" Open to Reprising Role in 'Ocean's 14' With Casey Affleck
 Source: The Hollywood Reporter | Status: expanded | Words: 473
 Published: 2026-11-26T17:15:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302
@@ -1461,7 +1487,7 @@ Ocean's 14 is expected to begin filming in late 2027.
 Leitch recently told People that "everybody&#x2019;s excited about moving it forward," but that "getting all those people together, and their schedules are always the issue."
 
 ============================================================
-[37] Avengers: Doomsday Director Says MCU Crossover Is More Ambitious Than Endgame for 1 Reason
+[38] Avengers: Doomsday Director Says MCU Crossover Is More Ambitious Than Endgame for 1 Reason
 Source: ComicBook.com | Status: expanded | Words: 750
 Published: 2026-11-26T17:07:28+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-director-says-mcu-crossover-is-more-ambitious-than-endgame-for-1-reason
@@ -1493,7 +1519,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had”
+[39] David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had”
 Source: The Playlist | Status: summary_only | Words: 105
 Published: 2026-11-26T17:06:31+00:00
 URL: https://theplaylist.net/david-fincher-cliff-booth-last-movie-retirement-20261126
@@ -1505,7 +1531,7 @@ CONTENT / EXTRACTED DETAILS:
 Could “ The Further Mis-Adventures Of Cliff Booth ” be David Fincher ’s last movie? Interestingly, in the same interview where the filmmaker discussed the possibility of making an animated movie with Brad Pitt , he also entertained the idea of calling it a day. Speaking rather candidly on The Big Picture podcast, the 64-year-old director opened up about his changing priorities, his diminishing patience, and some of the things about making movies that are beginning to wear on him. Continue reading David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had” at The Playlist.
 
 ============================================================
-[39] Mark Tildesley Dies: ‘No Time to Die', 'F1: The Movie' &#038; London Olympics Production Designer Was 63
+[40] Mark Tildesley Dies: ‘No Time to Die', 'F1: The Movie' &#038; London Olympics Production Designer Was 63
 Source: Deadline | Status: expanded | Words: 493
 Published: 2026-11-26T17:05:13+00:00
 URL: https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068
@@ -1533,7 +1559,7 @@ Mendes said today: "Mark was a one-off: gentle, funny, warm, mischievous, entire
 The British Film Designers Guild (BFDG) said: &#x201C;We are very sad to hear the news of Mark&#x2019;s death. Besides being a well-respected and extremely talented production designer he was a friend and colleague to many of our members and will be very much missed by everyone in the Industry who knew and worked with him.&#x201D;
 
 ============================================================
-[40] Marvel Took a Huge Gamble With Secret Wars, and It Created the Modern Comic Book Event
+[41] Marvel Took a Huge Gamble With Secret Wars, and It Created the Modern Comic Book Event
 Source: ComicBook.com | Status: expanded | Words: 1083
 Published: 2026-11-26T17:00:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-took-a-huge-gamble-with-secret-wars-and-it-created-the-modern-comic-book-event
@@ -1569,7 +1595,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] GTA 6 Could Shape Rockstar Games’ Most Exciting Sequel, But Not in the Way You Think
+[42] GTA 6 Could Shape Rockstar Games’ Most Exciting Sequel, But Not in the Way You Think
 Source: ComicBook.com | Status: expanded | Words: 919
 Published: 2026-11-26T17:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-could-shape-rockstar-games-most-exciting-sequel-but-not-in-the-way-you-think
@@ -1605,7 +1631,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Following Dermot Mulroney’s Exit From Chicago Fire, I Needed To Know If Pascal Could Come Back
+[43] Following Dermot Mulroney’s Exit From Chicago Fire, I Needed To Know If Pascal Could Come Back
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-26T16:59:36+00:00
 URL: https://www.cinemablend.com/television/following-dermot-mulroneys-exit-chicago-fire-needed-to-know-if-pascal-could-come-back
@@ -1621,7 +1647,7 @@ Even though we just said goodbye to him, new showrunner Victor Teran told Cinema
 Unlike a lot of characters on TV who get killed off, Chicago Fire included, Pascal's story was left open. He left 51 in Kelly’s hands and, as Teran pointed out, is now building his career in Arizona. That said, he became close with the firehouse and obviously made a mark in a short amount of time, and made sure that Kelly was ready to take over. I would love nothing more than to see Pascal again, and I could not be happier to hear Teran's response. Since Mulroney was not happy about the exit , he probably wouldn't be opposed to coming back.
 
 ============================================================
-[43] Early Box Office Tracking For 'Avengers: Doomsday' &#038; 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters
+[44] Early Box Office Tracking For 'Avengers: Doomsday' &#038; 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters
 Source: The Playlist | Status: summary_only | Words: 148
 Published: 2026-11-26T16:57:38+00:00
 URL: https://theplaylist.net/early-box-office-tracking-avengers-doomsday-dune-part-three-20261126
@@ -1633,7 +1659,7 @@ CONTENT / EXTRACTED DETAILS:
 Next month, " Avengers: Doomsday " and " Dune: Part Three " are going head-to-head, with many folks hoping that Dunesday becomes the Barbenheimer 2.0. And with that, there are some early domestic box office numbers making the rounds, and they should make both studios and exhibitors excited about how much money is about to pour into theaters over the holiday season. READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” NRG's projection data comes to us from Deadline, which states that "Doomsday" could be looking at a $270 million-plus domestic opening and goes on to tease that it could go higher toward the $300 million range. Continue reading Early Box Office Tracking For 'Avengers: Doomsday' & 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters at The Playlist.
 
 ============================================================
-[44] 90s SNES Game Now Available on PS5 for $1.99
+[45] 90s SNES Game Now Available on PS5 for $1.99
 Source: ComicBook.com | Status: expanded | Words: 514
 Published: 2026-11-26T16:51:21+00:00
 URL: https://comicbook.com/gaming/news/ps5-playstation-5-snes-game-cotton
@@ -1657,7 +1683,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Nathan Fillion's Firefly Update Is Good News for the Revival, Even If It's Not What I Expected
+[46] Nathan Fillion's Firefly Update Is Good News for the Revival, Even If It's Not What I Expected
 Source: ComicBook.com | Status: expanded | Words: 618
 Published: 2026-11-26T16:44:18+00:00
 URL: https://comicbook.com/tv-shows/news/nathan-fillions-firefly-update-is-good-news-for-the-revival-even-if-its-not-what-i-expected
@@ -1685,7 +1711,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Record Store Day Co-Founder on How Black Friday Evolved Into a Major Holiday for Vinyl Hounds, and What Will Fly Off the Shelves This Year
+[47] Record Store Day Co-Founder on How Black Friday Evolved Into a Major Holiday for Vinyl Hounds, and What Will Fly Off the Shelves This Year
 Source: Variety | Status: expanded | Words: 1452
 Published: 2026-11-26T16:43:10+00:00
 URL: https://variety.com/2026/music/news/record-store-day-black-friday-founder-interview-releases-1236958941
@@ -1737,7 +1763,7 @@ Kurtz says it was interesting working with shops in the early days, and still ca
 "The most difficult thing about putting it together was working with record store owners, because they're a very creative bunch," he says. "They're very different; they're not people who typically play by the rules. They like to do things their way. So to try to get them all together to do this was very difficult." He adds, "I was in London once and there was a record store owner who just just raked me over the coals because we'd done the Taylor Swift record. I was like, 'What records do you like?' He's like, 'Yes, Black Sabbath, Deep Purple …' and I said, 'OK I get it. That's what you love and what you're passionate about, but there's another generation.' And so it's working with them and not alienating them, because sometimes I do that by accident."
 
 ============================================================
-[47] John Mulaney Had To Cut A Segment From His Stand-Up Special After Fast Food Joke Went VERY Wrong
+[48] John Mulaney Had To Cut A Segment From His Stand-Up Special After Fast Food Joke Went VERY Wrong
 Source: CinemaBlend | Status: expanded | Words: 306
 Published: 2026-11-26T16:41:39+00:00
 URL: https://www.cinemablend.com/streaming-news/john-mulaney-cut-segment-stand-up-special-yoshinoya-beef-bowl-food-joke-went-wrong
@@ -1757,7 +1783,7 @@ I'd love to know exactly what he was planning to say about Orange Julius, becaus
 Fans of Saturday Night Live might remember Bill Hader's hilarious return as Stefon in 2018 , during which Mulaney appeared as the character's attorney, Shy. At one point, he leaned over to whisper something into Hader's ear. Whatever he said caused Hader to completely lose his composure. Of course, Hader has a long history of losing it during Stefon appearances, and his inability to keep a straight face has produced some of SNL 's funniest unplanned moments.
 
 ============================================================
-[48] Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63
+[49] Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63
 Source: Variety | Status: expanded | Words: 495
 Published: 2026-11-26T16:22:29+00:00
 URL: https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968
@@ -1785,7 +1811,7 @@ Other credits include Leigh's "Happy-Go-Lucky," Curtis' "The Boat that Rocked," 
 "We are very sad to hear the news of Mark's death," said the British Film Designers Guild (BFDG), which awarded Tildesley three times (for "High-Rise," "Empire of Light" and "F1: The Movie"). "Besides being a well-respected and extremely talented production designer he was a friend and colleague to many of our members and will be very much missed by everyone in the Industry who knew and worked with him."
 
 ============================================================
-[49] Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor"
+[50] Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor"
 Source: The Playlist | Status: summary_only | Words: 130
 Published: 2026-11-26T16:21:43+00:00
 URL: https://theplaylist.net/kevin-feige-pushes-back-on-connor-storrie-ghost-rider-rumor-20261126
@@ -1795,32 +1821,4 @@ Well, we don't often hear from Marvel Studios co-president Kevin Feige on castin
 
 CONTENT / EXTRACTED DETAILS:
 Well, we don't often hear from Marvel Studios co-president Kevin Feige on casting rumors/reports (usually, they're left to linger in the fan spaces), but he's got some choice words for the latest one concerning Connor Storrie being courted for Shawn Levy and Ryan Gosling 's " Ghost Rider " reboot. READ MORE: ‘Avengers: Secret Wars’ Is “Launching Pad” For Marvel’s 2028 Slate Teases Kevin Feige: “The Imagination Gone Wild” Entertainment Weekly was able to talk to Feige about the "Ghost Rider" casting tidbit while getting him on the record for the promotion of " Avengers: Doomsday ," which he poured some cold water on in his usual cryptic fashion. Continue reading Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor" at The Playlist.
-
-============================================================
-[50] The Home Alone Reboot Already Has Me Emotional, After Realizing the Franchise's Secret Weapon Can't Appear
-Source: ComicBook.com | Status: expanded | Words: 852
-Published: 2026-11-26T16:19:00+00:00
-URL: https://comicbook.com/movies/feature/the-home-alone-reboot-already-has-me-emotional-after-realizing-the-franchises-secret-weapon-cant-appear
-------------------------------------------------------------
-SUMMARY:
-Courtesy of 20th Century Studios As modern holiday classics go, it’s hard to find one more iconic than Home Alone. The 1990 made young Macaulay Culkin a household name in a story of an eight-year-old boy accidentally left behind as his family rushes off on a Christmas vacation to Paris and finds himself defending his home against a pair of […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google As modern holiday classics go, it’s hard to find one more iconic than Home Alone . The 1990 made young Macaulay Culkin a household name in a story of an eight-year-old boy accidentally left behind as his family rushes off on a Christmas vacation to Paris and finds himself defending his home against a pair of robbers to hilarious result. It’s delightful, it’s heartfelt, it’s hilarious and while it ultimately spawned a franchise, for years fans have wanted a proper legacy sequel in which Culkin returned as Kevin. We’re finally getting our wish with the recent announcement that such a film is in the works at Disney and we’re excited to be sure, but it’s a bittersweet excitement that already has me emotional.
-
-When the new Home Alone arrives, you can count me as one of the first people in line for tickets. The idea Culkin shared — about Kevin being a father now, but one who needs to reconnect with his child and finds himself the one locked out and having to face traps set by his son — seems to be what Disney is rolling with and it’s sounds great. But even if it’s a great movie, there’s going to be something missing — and no matter how that absence is addressed, it’s going to destroy me.
-
-Earlier this year, we lost Catherine O’Hara at the age of 71 and while she was an incredible performer who left us all a glorious legacy of work, for many she will always be our movie mom thanks to her role as Kate McCallister, Kevin’s mom, in Home Alone . Even when watching Home Alone through a child’s eyes — as I certainly did when the movie debuted in 1990 — her presence was the comforting and resonant one. A stressed, harried mom trying to have everything together in order to get her family to their Christmas destination, Kate is a mom, doing mom things, being mom-like and every kid can relate to Kevin telling her he wishes the family would simply disappear. I would have yelled at her, too and then been oh so glad to see her later on.
-
-Watching the film as an adult, O’Hara’s Kate is even more powerful. I see in her the stress and the challenges of her having to deal with her own children, the extended family, and the strain of having everything together to do holiday travel. But I also see in her the real panic, the actual terror, and most of all the gut-wrenching guilt at the realization that one of her babies has been left behind and while she is technically powerless to do a damn thing about it, she somehow manifests that power to get home to him. Forget a mom lifting a car off a toddler; Kate McCallister’s relentless effort to cross a whole ocean to get back to her son gets me every single time. O’Hara’s performance radiates a mother’s love in a way that so rarely gets expressed on film. Knowing that she won’t be there to still give that love to Kevin in his role as a father just hurts my soul.
-
-I know that the Home Alone sequel won’t pass without honoring O’Hara. Not only did the original film’s director Chris Columbus refer to her as half the film’s DNA, but she also meant a lot to Culkin personally — his tribute to her on social media after her passing, calling her “Mama,” still emotionally devastates me. But I also know that that however they do it, it’s going to hurt. In a very real way, grown Kevin will truly be “Home Alone” if Kate has passed on. It will hurt to see Kevin in the parental role, to see him be worried, to feel parental guilt and know that it’s something Kate did first. In a sense, Kevin’s journey will be the real tribute, however the film’s story plays out.
-
-But even if all we get is a photo somewhere in the background, or a heartfelt moment where Kevin talks about his own “home alone” experience, or just a simple “in loving memory” moment at the credits, there isn’t going to be a dry eye in the theater and we’ll all come away feeling like just a little something is missing. Home Alone might be Kevin’s adventure, but it was Kate’s story — and man we wish O’Hara were still here with us to be a part of its next chapter.
-
-I’m already stockpiling tissues for the next Home Alone movie and it’s just in development so how are you holding up? Let me know in the comments, or head over to the forum to let us know how you think the new Home Alone should honor O’Hara.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
