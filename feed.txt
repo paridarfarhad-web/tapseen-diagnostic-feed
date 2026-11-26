@@ -1,9 +1,41 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-26T19:03:11.798Z
+Last Updated: 2026-11-26T19:05:12.675Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
+[1] The Show Must Go On: Broadway Will Perform Saturday In Macy's Thanksgiving Parade
+Source: Deadline | Status: expanded | Words: 689
+Published: 2026-11-26T19:04:42+00:00
+URL: https://deadline.com/2026/11/macys-thanksgiving-parade-saturday-broadway-medley-1237234098
+------------------------------------------------------------
+SUMMARY:
+New Yorkers woke up this Thanksgiving morning to drizzly, gray skies along with winds that had sidewalks covered in dead, yellow leaves, though the weather throughout the pre-noon hours was hardly the fearsome nor’easter blast that prompted the postponement till Saturday of Macy's 100th Thanksgiving Day Parade. Still, with wind levels of up to 23 […]
+
+CONTENT / EXTRACTED DETAILS:
+New Yorkers woke up this Thanksgiving morning to drizzly, gray skies along with winds that had sidewalks covered in dead, yellow leaves, though the weather throughout the pre-noon hours was hardly the fearsome nor&#x2019;easter blast that prompted the postponement till Saturday of Macy's 100th Thanksgiving Day Parade.
+
+Still, with wind levels of up to 23 mph - and gusts considerably stronger - the postponement appears to have been justified, and the worst of the storm is yet to come.
+
+The impact of the postponement on performances that had been scheduled for today - marching bands, celebrity appearances, the big Broadway medley involving nine different shows - was still be dealt with as of this morning. Will Coss, Macy's executive producer of the parade, told the Today show this morning that organizers are "actively working through all the pieces of our parade, but I have to say there's an overwhelming positive response." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy's Parade: "It's The Only Inflation We Support In New York City" News Macy's Thanksgiving Day Parade Postponed To Saturday Due To Severe Weather; NBC Will Rerun 2025 Parade On Thursday
+
+Coss continued, "Our performers, our talent, our performance groups, our bands, we're all coming together to try to figure this out, and we're optimistic that we're going to have a really successful parade on Saturday morning." Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+While Coss didn't specify which performances are on schedule, Deadline can confirm that the Broadway medley that was planned in lieu of the traditional individual show performances is a go for Saturday. What Macy's is calling the " All-Star Broadway Thanksgiving Day Celebration " will go on as planned, with performers from The Lost Boys, The Rocky Horror Show, Wicked, Schmigadoon!, Aladdin, The Book of Mormon and Chicago confirmed. ( Hamiilton and the 30th-anniversary tribute to Rent have not weighed in yet, but sources say they are expected to participate).
+
+Paddington the Musical is confirmed to participate in the Saturday broadcast as a separate float, as originally intended.
+
+On Instagram today, Sherri Shepherd, currently portraying Genie in Broadway's Aladdin , wrote, "Winds won&#x2019;t stop our participation in the Macys 100 Thanksgiving Day Parade, so tune in Saturday at 8:30am on NBC to catch myself and the cast of Aladdin perform!!" blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+On the Schmigadoon! IG page, Brad Oscar, dressed and in character as the Mayor, said in a video, "As mayor of Schmigadoon, I have a proclamation: The Macy's 100th Thanksgiving Day Parade will be postponed until Saturday at 8:30 a.m. on NBC. See you there."
+
+The Book of Mormon had a simple message on its IG page about the date switch: "Ready and psyched."
+
+As for other non-Broadway performers originally scheduled for Thursday, reports are filtering in piecemeal on whether they'll make the move to Saturday. The New York Post has reported that Smash Mouth will perform, and Holly Robinson Peete and Rodney Peete are expected as well, as are the Radio City Rockettes. Other announcements should be coming in over the next day or two.
+
+As for the marching bands, again, piecemeal reports. Texas' Pride of Pearland Marching Band reportedly raised an extra $350,000 in community donations to cover the additional housing and transportation costs to stay until Saturday, while other marching bands were either still scrambling or had made the decision to bow out of the event due to logistics. In the latter group are the Campo Verde High School Marching Band and some members of the Bowling Green State University Marching Band that were participating in a all-star band group.
+
+============================================================
+[2] Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’
 Source: Variety | Status: expanded | Words: 610
 Published: 2026-11-26T19:02:18+00:00
 URL: https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067
@@ -53,7 +85,7 @@ These are years we will never get back
 Wills needs his mom Ivy needs her mom
 
 ============================================================
-[2] MCU Fantastic Four Reboot Lost Disney Money Despite $500 Million Box Office
+[3] MCU Fantastic Four Reboot Lost Disney Money Despite $500 Million Box Office
 Source: ComicBook.com | Status: expanded | Words: 567
 Published: 2026-11-26T18:58:27+00:00
 URL: https://comicbook.com/movies/news/mcu-fantastic-four-reboot-lost-disney-money-despite-500-million-box-office
@@ -79,7 +111,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] Win a Blu-ray of Logan's Run
+[4] Win a Blu-ray of Logan's Run
 Source: CinemaBlend | Status: expanded | Words: 987
 Published: 2026-11-26T18:55:14+00:00
 URL: https://www.cinemablend.com/dvds/win-a-blu-ray-of-logans-run
@@ -117,7 +149,7 @@ Features Enter The World Of Blade Runner 2099 With The Latest Issue Of SFX &nbsp
 {let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,a.bj)(e)):(0,o.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,a.qL)(e)):(u.log("Authenticated under metered paywall"),(0,o.kR)(e)?(0,i.aq)(e)&&(0,a.qL)(e):(0,i.aq)(e)&&g(e)?((0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e)),t&&(0,i.aq)(e)&&(0,l.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,o.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",o="kiosq-micropaywall-content",a="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),s=e=>e?.finalSiteConfig??e?.defaultSiteConfig,l=e=>!0===s(e)?.micropaywall_layer_enabled,c=e=>l(e)&&r().length>0,d=e=>{if(!l(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=s(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${o}`))return;const t=document.createElement("div");for(t.className=o;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${a}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[4] I Love The Emperor's New Groove, But David Spade Has Some Blunt Thoughts About Disney
+[5] I Love The Emperor's New Groove, But David Spade Has Some Blunt Thoughts About Disney
 Source: CinemaBlend | Status: expanded | Words: 268
 Published: 2026-11-26T18:45:00+00:00
 URL: https://www.cinemablend.com/movies/i-love-the-emperors-new-groove-pay-david-spade-blunt-thoughts-disney-
@@ -135,7 +167,7 @@ Shrek came out in 2001 – one year after The Emperor’s New Groove – and mad
 Animated movies like The Emperor’s New Groove famously go through a long production process. The 2000 movie in particular did so because it was actually originally an entirely different movie called Kingdom of the Sun . It was more inspired by The Prince and the Pauper , featured Owen Wilson in a voice role, and Spade was playing a character named Manco instead of Kuzco before they shifted directions. No wonder he was getting antsy while making it!
 
 ============================================================
-[5] 'A Paw Patrol Christmas': When and Where to Stream the Animated Holiday Special Online Free
+[6] 'A Paw Patrol Christmas': When and Where to Stream the Animated Holiday Special Online Free
 Source: The Hollywood Reporter | Status: expanded | Words: 490
 Published: 2026-11-26T18:40:28+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268
@@ -167,7 +199,7 @@ The official CBS streaming service is Paramount+ and subscribers can sign into t
 All three streaming services above let you watch the Paw Patrol Christmas episode on your phone, computer, tablet or smart TV.
 
 ============================================================
-[6] Win a Blu-ray of Spider-Man: Brand New Day
+[7] Win a Blu-ray of Spider-Man: Brand New Day
 Source: CinemaBlend | Status: expanded | Words: 1092
 Published: 2026-11-26T18:35:52+00:00
 URL: https://www.cinemablend.com/superheroes/spider-man/win-a-blu-ray-of-spider-man-brand-new-day
@@ -207,7 +239,7 @@ Movies The Sweet Way Spider-Man: Brand New Day’s Ending Mirrored The First Day
 {let t=!1;(0,i.bU)()?(u.log("is Preview so show barrier"),t=!0,(0,a.bj)(e)):(0,o.wR)(e)?(0,i.xz)(e)?(u.log("Authenticated regwallAuth metered paywall"),(0,i.aq)(e)&&(0,a.qL)(e)):(u.log("Authenticated under metered paywall"),(0,o.kR)(e)?(0,i.aq)(e)&&(0,a.qL)(e):(0,i.aq)(e)&&g(e)?((0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e))):(0,i.aq)(e)&&g(e)?(u.log("seeingFreeArticles"),(0,a.qL)(e),(0,c.trackFreeArticleView)(h(e),p(e))):(t=!0,(0,i.aq)(e)&&(0,a.bj)(e)),t&&(0,i.aq)(e)&&(0,l.R)(`show ${(0,i.fU)(e)}`,"barrier"),(e=>{let t=h(e);if(e.nbFreeArticleRemaining=t,r.eL.value.nbFreeArticleRemaining=t,f(e)>=0){let n=w();const i=document.getElementById("kiosq-metered-message");null!==i&&n>=f(e)&&!(0,o.kR)(e)&&g(e)&&(i.style.display="block",i.innerHTML=`\n \n \n ! \n \n You have ${t} article(s) remaining this month\n \n \n Join for unlimited access \n \n `,(0,d.L)(e,"banner"))}})(e)}},7369(e,t,n){n.d(t,{Cl:()=>d,Tx:()=>u,yb:()=>c});const i="kiosq-micropaywall-active",o="kiosq-micropaywall-content",a="kiosq-micropaywall-overlay",r=()=>Array.from(document.querySelectorAll('section[data-kiosq-paywall="group"]')),s=e=>e?.finalSiteConfig??e?.defaultSiteConfig,l=e=>!0===s(e)?.micropaywall_layer_enabled,c=e=>l(e)&&r().length>0,d=e=>{if(!l(e))return!1;const t=r();if(0===t.length)return!1;const n=(e=>{const t=s(e)?.layerCustomMarkup?.micropaywall_layer;return"string"==typeof t&&t.trim().length>0?t:null})(e);return t.forEach(e=>{e.classList.add(i),(e=>{if(e.querySelector(`:scope > .${o}`))return;const t=document.createElement("div");for(t.className=o;e.firstChild;)t.appendChild(e.firstChild);e.appendChild(t)})(e),((e,t)=>{if(e.querySelector(`.${a}`))return;const n=t?"custom":"fallback";e.insertAdjacentHTML("beforeend",` \n ${t??'\n \n \n \n \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[7] Spider-Man: Brand New Day’s “Encore” Extended Cut Will Include Cut Avengers: Doomsday Scene
+[8] Spider-Man: Brand New Day’s “Encore” Extended Cut Will Include Cut Avengers: Doomsday Scene
 Source: ComicBook.com | Status: expanded | Words: 620
 Published: 2026-11-26T18:31:53+00:00
 URL: https://comicbook.com/movies/news/spider-man-brand-new-days-encore-extended-cut-will-include-cut-avengers-doomsday-scene
@@ -235,7 +267,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Want More Godzilla? Check Out Netflix's Anime Movie Trilogy
+[9] Want More Godzilla? Check Out Netflix's Anime Movie Trilogy
 Source: ComicBook.com | Status: expanded | Words: 947
 Published: 2026-11-26T18:27:00+00:00
 URL: https://comicbook.com/anime/feature/want-more-godzilla-check-out-netflixs-anime-movie-trilogy
@@ -269,7 +301,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] The Screen-Matched Costume Used in One of the Scream Franchise's Most Shocking Moments is Hacking Out a Huge Price at Auction
+[10] The Screen-Matched Costume Used in One of the Scream Franchise's Most Shocking Moments is Hacking Out a Huge Price at Auction
 Source: ComicBook.com | Status: expanded | Words: 668
 Published: 2026-11-26T18:22:00+00:00
 URL: https://comicbook.com/collectibles/news/the-screen-matched-costume-used-in-one-of-the-scream-franchises-most-shocking-moments-is-hacking-out-a-huge-price-at-auction
@@ -289,7 +321,7 @@ Now, for Scream and Barrymore fans, the costume worn during the films brutal ope
 What do you think of the Scream franchise's most recent entries? Are they living up to Craven's original or should the whole thing be laid to rest? Let us know in the comments.
 
 ============================================================
-[10] 'Ink' Director Danny Boyle Says Jack O'Connell Would Have Made "A Great Bond"
+[11] 'Ink' Director Danny Boyle Says Jack O'Connell Would Have Made "A Great Bond"
 Source: Deadline | Status: expanded | Words: 506
 Published: 2026-11-26T18:05:45+00:00
 URL: https://deadline.com/2026/11/danny-boyle-jack-oconnell-would-have-made-great-james-bond-1237234088
@@ -317,7 +349,7 @@ Boyle himself came close to directing 2021 pic No Time to Die , but left the gig
 Recalling the plan for the film, Boyle said: "We came up with this idea, which was really good. We disagreed about it ultimately, and when you are on those kind of scale of projects, yes you should part company. That's why the creative differences is such a convenient phrase because if you don't there will be bloodshed down the line, because there's so much money at stake. "I think we were all we were all um sanguin about separating."
 
 ============================================================
-[11] 39 Years Ago, Marvel Predicted Avengers: Doomsday With A Wild Thanksgiving Parade Moment 80s Kids Will Never Forget
+[12] 39 Years Ago, Marvel Predicted Avengers: Doomsday With A Wild Thanksgiving Parade Moment 80s Kids Will Never Forget
 Source: ComicBook.com | Status: expanded | Words: 593
 Published: 2026-11-26T18:05:21+00:00
 URL: https://comicbook.com/comics/news/39-years-ago-marvel-predicted-avengers-doomsday-with-a-wild-thanksgiving-parade-moment-80s-kids-will-never-forget
@@ -349,7 +381,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Max Payne Remakes Get New Development Update From Remedy, But Still No Release Window
+[13] Max Payne Remakes Get New Development Update From Remedy, But Still No Release Window
 Source: ComicBook.com | Status: expanded | Words: 882
 Published: 2026-11-26T18:00:00+00:00
 URL: https://comicbook.com/gaming/news/max-payne-remakes-get-new-development-update-from-remedy-but-still-no-release-window
@@ -381,7 +413,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Matt Damon Narrates Ford Racing's 'Go Like Hell' Thanksgiving Day Ad Directed by Zack Snyder
+[14] Matt Damon Narrates Ford Racing's 'Go Like Hell' Thanksgiving Day Ad Directed by Zack Snyder
 Source: Variety | Status: expanded | Words: 601
 Published: 2026-11-26T18:00:00+00:00
 URL: https://variety.com/2026/tv/news/matt-damon-ford-racing-go-like-hell-ad-zack-snyder-1236958375
@@ -411,7 +443,7 @@ The Ford GT41 will make its competitive debut in the 2027 FIA World Endurance Ch
 Watch the full 90-second "Go Like Hell" spot:
 
 ============================================================
-[14] 'Hunger Games: Sunrise on the Reaping' Devouring $85M Over Thanksgiving Weekend as 'Focker-in-Law,' 'Hexed' Launch
+[15] 'Hunger Games: Sunrise on the Reaping' Devouring $85M Over Thanksgiving Weekend as 'Focker-in-Law,' 'Hexed' Launch
 Source: The Hollywood Reporter | Status: expanded | Words: 853
 Published: 2026-11-26T17:51:13+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014
@@ -445,7 +477,7 @@ Disney animated features are known for debuting over Thanksgiving, as Moana 2 op
 In limited release, Netflix launched director David Fincher's The Further Mis-Adventures of Cliff Booth on 252 Imax screens in North America. The Brad Pitt-led follow-up to 2019's Once Upon a Time in Hollywood appears headed for around $5 million domestically over the five days before it begins streaming Dec. 23.
 
 ============================================================
-[15] New Digimon Game Available for Free
+[16] New Digimon Game Available for Free
 Source: ComicBook.com | Status: expanded | Words: 581
 Published: 2026-11-26T17:49:53+00:00
 URL: https://comicbook.com/gaming/news/digimon-game-new-free
@@ -471,7 +503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Ariana Grande Reunited With Wicked’s Bowen Yang To Talk Backlash To The ‘Petal’ Video
+[17] Ariana Grande Reunited With Wicked’s Bowen Yang To Talk Backlash To The ‘Petal’ Video
 Source: CinemaBlend | Status: expanded | Words: 300
 Published: 2026-11-26T17:45:00+00:00
 URL: https://www.cinemablend.com/movies/ariana-grande-reunited-wicked-bowen-yang-talk-backlash-petal-video
@@ -489,7 +521,7 @@ Fame is a double edged sword, and most of us would likely crack under the pressu
 That certainly sounds like a healthy way to approach any potential backlash that Ariana Grande faces moving forward. She's once again putting herself out there with her starring role in Focker In-Law , as well as the recently announced documentary The Eternal Sunshine Diaries (the latter of which is arriving for those with a Paramount+ subscription ). Hopefully expressing herself honestly in both that doc and podcast appearances like Las Cultch can help quiet the chatter from naysayers who are constantly weighing in about her career, personal life, and appearance.
 
 ============================================================
-[17] Netflix Posts Racy Thanksgiving Message On 'The Hunting Wives' Season 2 Premiere Day
+[18] Netflix Posts Racy Thanksgiving Message On 'The Hunting Wives' Season 2 Premiere Day
 Source: Deadline | Status: expanded | Words: 360
 Published: 2026-11-26T17:44:07+00:00
 URL: https://deadline.com/2026/11/netflix-thanksgiving-message-hunting-wives-season-2-1237234078
@@ -511,7 +543,7 @@ After initially being produced for Starz before shifting to Netflix, Season 1 la
 "I&#x2019;m so stoked to be heading back to Maple Brook, and I promise that once you&#x2019;ve finished Season 2, you&#x2019;ll be desperate to see what happens next,&#x201D; said writer, executive producer and showrunner Rebecca Cutter upon the Season 3 renewal. &#x201C;Buckle up, because Season 3 will be even more scandalous and twisted."
 
 ============================================================
-[18] 7 Different Origin Stories for How the Joker Became the Clown Prince of Crime
+[19] 7 Different Origin Stories for How the Joker Became the Clown Prince of Crime
 Source: ComicBook.com | Status: expanded | Words: 1423
 Published: 2026-11-26T17:41:00+00:00
 URL: https://comicbook.com/comics/list/7-different-origin-stories-for-how-the-joker-became-the-clown-prince-of-crime
@@ -545,7 +577,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Doom's Most Powerful Moment Yet Revealed in Marvel's Avengers 5 Footage
+[20] Doom's Most Powerful Moment Yet Revealed in Marvel's Avengers 5 Footage
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-26T17:34:32+00:00
 URL: https://comicbook.com/movies/news/dooms-most-powerful-moment-yet-revealed-in-marvels-new-avengers-footage
@@ -577,7 +609,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] BBC’s Antisemitism Crisis Represents an Unprecedented Chapter for the World’s Most Trusted News Organization
+[21] BBC’s Antisemitism Crisis Represents an Unprecedented Chapter for the World’s Most Trusted News Organization
 Source: Variety | Status: expanded | Words: 1238
 Published: 2026-11-26T17:29:50+00:00
 URL: https://variety.com/2026/tv/global/bbc-antisemitism-crisis-1236958965
@@ -623,7 +655,7 @@ Even the corporation&#x2019;s checkbox response to Lord Mann&#x2019;s announceme
 In his speech announcing the investigation, Lord Mann said he is &#x201C;not interested in targeting individuals. That would entirely miss the point. I am targeting the institution.&#x201D; The biggest clue as to the depth of the BBC&#x2019;s antisemitism problem will be whether the institution even cares.
 
 ============================================================
-[21] Scott Caan Is "100 Percent" Open to Reprising Role in 'Ocean's 14' With Casey Affleck
+[22] Scott Caan Is "100 Percent" Open to Reprising Role in 'Ocean's 14' With Casey Affleck
 Source: The Hollywood Reporter | Status: expanded | Words: 473
 Published: 2026-11-26T17:15:00+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302
@@ -653,7 +685,7 @@ Ocean's 14 is expected to begin filming in late 2027.
 Leitch recently told People that "everybody&#x2019;s excited about moving it forward," but that "getting all those people together, and their schedules are always the issue."
 
 ============================================================
-[22] Avengers: Doomsday Director Says MCU Crossover Is More Ambitious Than Endgame for 1 Reason
+[23] Avengers: Doomsday Director Says MCU Crossover Is More Ambitious Than Endgame for 1 Reason
 Source: ComicBook.com | Status: expanded | Words: 750
 Published: 2026-11-26T17:07:28+00:00
 URL: https://comicbook.com/movies/news/avengers-doomsday-director-says-mcu-crossover-is-more-ambitious-than-endgame-for-1-reason
@@ -685,7 +717,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had”
+[24] David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had”
 Source: The Playlist | Status: summary_only | Words: 105
 Published: 2026-11-26T17:06:31+00:00
 URL: https://theplaylist.net/david-fincher-cliff-booth-last-movie-retirement-20261126
@@ -697,7 +729,7 @@ CONTENT / EXTRACTED DETAILS:
 Could “ The Further Mis-Adventures Of Cliff Booth ” be David Fincher ’s last movie? Interestingly, in the same interview where the filmmaker discussed the possibility of making an animated movie with Brad Pitt , he also entertained the idea of calling it a day. Speaking rather candidly on The Big Picture podcast, the 64-year-old director opened up about his changing priorities, his diminishing patience, and some of the things about making movies that are beginning to wear on him. Continue reading David Fincher Says ‘Cliff Booth’ Could Be His Last Movie: “I Don’t Have As Much Patience As I Once Had” at The Playlist.
 
 ============================================================
-[24] Mark Tildesley Dies: ‘No Time to Die', 'F1: The Movie' &#038; London Olympics Production Designer Was 63
+[25] Mark Tildesley Dies: ‘No Time to Die', 'F1: The Movie' &#038; London Olympics Production Designer Was 63
 Source: Deadline | Status: expanded | Words: 493
 Published: 2026-11-26T17:05:13+00:00
 URL: https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068
@@ -725,7 +757,7 @@ Mendes said today: "Mark was a one-off: gentle, funny, warm, mischievous, entire
 The British Film Designers Guild (BFDG) said: &#x201C;We are very sad to hear the news of Mark&#x2019;s death. Besides being a well-respected and extremely talented production designer he was a friend and colleague to many of our members and will be very much missed by everyone in the Industry who knew and worked with him.&#x201D;
 
 ============================================================
-[25] Marvel Took a Huge Gamble With Secret Wars, and It Created the Modern Comic Book Event
+[26] Marvel Took a Huge Gamble With Secret Wars, and It Created the Modern Comic Book Event
 Source: ComicBook.com | Status: expanded | Words: 1083
 Published: 2026-11-26T17:00:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-took-a-huge-gamble-with-secret-wars-and-it-created-the-modern-comic-book-event
@@ -761,7 +793,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] GTA 6 Could Shape Rockstar Games’ Most Exciting Sequel, But Not in the Way You Think
+[27] GTA 6 Could Shape Rockstar Games’ Most Exciting Sequel, But Not in the Way You Think
 Source: ComicBook.com | Status: expanded | Words: 919
 Published: 2026-11-26T17:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-could-shape-rockstar-games-most-exciting-sequel-but-not-in-the-way-you-think
@@ -797,7 +829,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Following Dermot Mulroney’s Exit From Chicago Fire, I Needed To Know If Pascal Could Come Back
+[28] Following Dermot Mulroney’s Exit From Chicago Fire, I Needed To Know If Pascal Could Come Back
 Source: CinemaBlend | Status: expanded | Words: 239
 Published: 2026-11-26T16:59:36+00:00
 URL: https://www.cinemablend.com/television/following-dermot-mulroneys-exit-chicago-fire-needed-to-know-if-pascal-could-come-back
@@ -813,7 +845,7 @@ Even though we just said goodbye to him, new showrunner Victor Teran told Cinema
 Unlike a lot of characters on TV who get killed off, Chicago Fire included, Pascal's story was left open. He left 51 in Kelly’s hands and, as Teran pointed out, is now building his career in Arizona. That said, he became close with the firehouse and obviously made a mark in a short amount of time, and made sure that Kelly was ready to take over. I would love nothing more than to see Pascal again, and I could not be happier to hear Teran's response. Since Mulroney was not happy about the exit , he probably wouldn't be opposed to coming back.
 
 ============================================================
-[28] Early Box Office Tracking For 'Avengers: Doomsday' &#038; 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters
+[29] Early Box Office Tracking For 'Avengers: Doomsday' &#038; 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters
 Source: The Playlist | Status: summary_only | Words: 148
 Published: 2026-11-26T16:57:38+00:00
 URL: https://theplaylist.net/early-box-office-tracking-avengers-doomsday-dune-part-three-20261126
@@ -825,7 +857,7 @@ CONTENT / EXTRACTED DETAILS:
 Next month, " Avengers: Doomsday " and " Dune: Part Three " are going head-to-head, with many folks hoping that Dunesday becomes the Barbenheimer 2.0. And with that, there are some early domestic box office numbers making the rounds, and they should make both studios and exhibitors excited about how much money is about to pour into theaters over the holiday season. READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” NRG's projection data comes to us from Deadline, which states that "Doomsday" could be looking at a $270 million-plus domestic opening and goes on to tease that it could go higher toward the $300 million range. Continue reading Early Box Office Tracking For 'Avengers: Doomsday' & 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters at The Playlist.
 
 ============================================================
-[29] 90s SNES Game Now Available on PS5 for $1.99
+[30] 90s SNES Game Now Available on PS5 for $1.99
 Source: ComicBook.com | Status: expanded | Words: 514
 Published: 2026-11-26T16:51:21+00:00
 URL: https://comicbook.com/gaming/news/ps5-playstation-5-snes-game-cotton
@@ -849,7 +881,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Nathan Fillion's Firefly Update Is Good News for the Revival, Even If It's Not What I Expected
+[31] Nathan Fillion's Firefly Update Is Good News for the Revival, Even If It's Not What I Expected
 Source: ComicBook.com | Status: expanded | Words: 618
 Published: 2026-11-26T16:44:18+00:00
 URL: https://comicbook.com/tv-shows/news/nathan-fillions-firefly-update-is-good-news-for-the-revival-even-if-its-not-what-i-expected
@@ -877,7 +909,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Record Store Day Co-Founder on How Black Friday Evolved Into a Major Holiday for Vinyl Hounds, and What Will Fly Off the Shelves This Year
+[32] Record Store Day Co-Founder on How Black Friday Evolved Into a Major Holiday for Vinyl Hounds, and What Will Fly Off the Shelves This Year
 Source: Variety | Status: expanded | Words: 1452
 Published: 2026-11-26T16:43:10+00:00
 URL: https://variety.com/2026/music/news/record-store-day-black-friday-founder-interview-releases-1236958941
@@ -929,7 +961,7 @@ Kurtz says it was interesting working with shops in the early days, and still ca
 "The most difficult thing about putting it together was working with record store owners, because they're a very creative bunch," he says. "They're very different; they're not people who typically play by the rules. They like to do things their way. So to try to get them all together to do this was very difficult." He adds, "I was in London once and there was a record store owner who just just raked me over the coals because we'd done the Taylor Swift record. I was like, 'What records do you like?' He's like, 'Yes, Black Sabbath, Deep Purple …' and I said, 'OK I get it. That's what you love and what you're passionate about, but there's another generation.' And so it's working with them and not alienating them, because sometimes I do that by accident."
 
 ============================================================
-[32] John Mulaney Had To Cut A Segment From His Stand-Up Special After Fast Food Joke Went VERY Wrong
+[33] John Mulaney Had To Cut A Segment From His Stand-Up Special After Fast Food Joke Went VERY Wrong
 Source: CinemaBlend | Status: expanded | Words: 306
 Published: 2026-11-26T16:41:39+00:00
 URL: https://www.cinemablend.com/streaming-news/john-mulaney-cut-segment-stand-up-special-yoshinoya-beef-bowl-food-joke-went-wrong
@@ -949,7 +981,7 @@ I'd love to know exactly what he was planning to say about Orange Julius, becaus
 Fans of Saturday Night Live might remember Bill Hader's hilarious return as Stefon in 2018 , during which Mulaney appeared as the character's attorney, Shy. At one point, he leaned over to whisper something into Hader's ear. Whatever he said caused Hader to completely lose his composure. Of course, Hader has a long history of losing it during Stefon appearances, and his inability to keep a straight face has produced some of SNL 's funniest unplanned moments.
 
 ============================================================
-[33] Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63
+[34] Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63
 Source: Variety | Status: expanded | Words: 495
 Published: 2026-11-26T16:22:29+00:00
 URL: https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968
@@ -977,7 +1009,7 @@ Other credits include Leigh's "Happy-Go-Lucky," Curtis' "The Boat that Rocked," 
 "We are very sad to hear the news of Mark's death," said the British Film Designers Guild (BFDG), which awarded Tildesley three times (for "High-Rise," "Empire of Light" and "F1: The Movie"). "Besides being a well-respected and extremely talented production designer he was a friend and colleague to many of our members and will be very much missed by everyone in the Industry who knew and worked with him."
 
 ============================================================
-[34] Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor"
+[35] Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor"
 Source: The Playlist | Status: summary_only | Words: 130
 Published: 2026-11-26T16:21:43+00:00
 URL: https://theplaylist.net/kevin-feige-pushes-back-on-connor-storrie-ghost-rider-rumor-20261126
@@ -989,7 +1021,7 @@ CONTENT / EXTRACTED DETAILS:
 Well, we don't often hear from Marvel Studios co-president Kevin Feige on casting rumors/reports (usually, they're left to linger in the fan spaces), but he's got some choice words for the latest one concerning Connor Storrie being courted for Shawn Levy and Ryan Gosling 's " Ghost Rider " reboot. READ MORE: ‘Avengers: Secret Wars’ Is “Launching Pad” For Marvel’s 2028 Slate Teases Kevin Feige: “The Imagination Gone Wild” Entertainment Weekly was able to talk to Feige about the "Ghost Rider" casting tidbit while getting him on the record for the promotion of " Avengers: Doomsday ," which he poured some cold water on in his usual cryptic fashion. Continue reading Kevin Feige Pushes Back On Connor Storrie 'Ghost Rider' Casting Report: "Not A Very Creative Rumor" at The Playlist.
 
 ============================================================
-[35] The Home Alone Reboot Already Has Me Emotional, After Realizing the Franchise's Secret Weapon Can't Appear
+[36] The Home Alone Reboot Already Has Me Emotional, After Realizing the Franchise's Secret Weapon Can't Appear
 Source: ComicBook.com | Status: expanded | Words: 852
 Published: 2026-11-26T16:19:00+00:00
 URL: https://comicbook.com/movies/feature/the-home-alone-reboot-already-has-me-emotional-after-realizing-the-franchises-secret-weapon-cant-appear
@@ -1017,7 +1049,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Box Office: 'Hunger Games: Sunrise on the Reaping' Leads With $15 Million on Thanksgiving Eve, 'Focker In-Law' Earns $5 Million on Opening Day
+[37] Box Office: 'Hunger Games: Sunrise on the Reaping' Leads With $15 Million on Thanksgiving Eve, 'Focker In-Law' Earns $5 Million on Opening Day
 Source: Variety | Status: expanded | Words: 715
 Published: 2026-11-26T16:11:18+00:00
 URL: https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-leads-thanksgiving-eve-focker-in-law-opening-day-1236958999
@@ -1041,7 +1073,7 @@ Disney has long dominated the Thanksgiving corridor, and the studio's animated s
 Despite the range of offerings, this Thanksgiving will fall short of cementing any box office records. Ticket sales are expected to hit $210 million to $215 million across all films in the marketplace. Thanksgiving 2024 was the holiday&#x2019;s biggest on record with $422 million across all films, led by &#x201C;Moana 2&#x2033; ($225 million debut), &#x201C;Wicked&#x201D; ($118 million) and &#x201C;Gladiator II&#x201D; ($44 million). Last year was among the top five with $293 million, boosted by &#x201C;Zootopia 2&#x201D; and &#x201C;Wicked: For Good.&#x201D; Theater owners aren't discouraged because domestic ticket sales are already 20% above the same point in 2025. Plus, North American revenues are projected to surpass $10 billion for the first time since Covid upended the theatrical business.
 
 ============================================================
-[37] Sword Art Online Creator's New Anime Has a Chance to Be the Next Big Hit
+[38] Sword Art Online Creator's New Anime Has a Chance to Be the Next Big Hit
 Source: ComicBook.com | Status: expanded | Words: 587
 Published: 2026-11-26T16:11:00+00:00
 URL: https://comicbook.com/anime/feature/sword-art-online-creators-new-anime-has-a-chance-to-be-the-next-big-hit
@@ -1067,7 +1099,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[38] Black Panther Stars Reveal What Happened Between Wakanda Forever and Doomsday
+[39] Black Panther Stars Reveal What Happened Between Wakanda Forever and Doomsday
 Source: ComicBook.com | Status: expanded | Words: 632
 Published: 2026-11-26T16:08:40+00:00
 URL: https://comicbook.com/movies/news/black-panther-stars-reveal-what-happened-between-wakanda-forever-and-doomsday
@@ -1097,7 +1129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Michel Hazanavicius To Present Exclusive Footage Of ‘The Third Hand’ In AI Case Study At Les Arcs
+[40] Michel Hazanavicius To Present Exclusive Footage Of ‘The Third Hand’ In AI Case Study At Les Arcs
 Source: Deadline | Status: expanded | Words: 524
 Published: 2026-11-26T16:06:03+00:00
 URL: https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059
@@ -1133,7 +1165,7 @@ The AI case study is part of the conference program of the Les Arcs' Industry Vi
 The Les Arcs Film Festival runs from December 12 to 19.
 
 ============================================================
-[40] 5 More GTA 6 Easter Eggs &#038; References You Don't Want To Miss
+[41] 5 More GTA 6 Easter Eggs &#038; References You Don't Want To Miss
 Source: ComicBook.com | Status: expanded | Words: 2001
 Published: 2026-11-26T16:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-more-gta-6-easter-eggs-references-you-dont-want-to-miss
@@ -1187,7 +1219,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] GTA 6 Key Cloner - How to Unlock the Item Needed to Steal the Game's Most Advanced Cars
+[42] GTA 6 Key Cloner - How to Unlock the Item Needed to Steal the Game's Most Advanced Cars
 Source: ComicBook.com | Status: expanded | Words: 394
 Published: 2026-11-26T16:00:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6-key-cloner-how-to-unlock-the-item-needed-to-steal-the-games-most-advanced-cars
@@ -1213,7 +1245,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] One DWTS Contestant Joked About ‘Villain Status’ Just Before Ezra Frech Won
+[43] One DWTS Contestant Joked About ‘Villain Status’ Just Before Ezra Frech Won
 Source: CinemaBlend | Status: expanded | Words: 305
 Published: 2026-11-26T15:58:59+00:00
 URL: https://www.cinemablend.com/television/one-dwts-contestant-connor-wood-villain-status-ezra-frech-winner
@@ -1231,7 +1263,7 @@ In the end, Connor would end up in third place on Dancing with the Stars Season 
 Ultimately the final two pairs of the season were Amber Glenn and Pasha Pashkov, as well as Ezra Frech and Daniella Karagach. The latter would end up going home with the Len Goodman Mirrorball Trophy, following a viral final performance where the paralympic athlete's prosthetic leg came off mid-performance . It was a truly epic moment, especially when he managed to overcome it and finish the final dance with his partner.
 
 ============================================================
-[43] Denmark's TV2 Seeks Penance With Acting Program Director Hire After 'Everyone Loves Rasmus' Debacle
+[44] Denmark's TV2 Seeks Penance With Acting Program Director Hire After 'Everyone Loves Rasmus' Debacle
 Source: Deadline | Status: expanded | Words: 611
 Published: 2026-11-26T15:55:54+00:00
 URL: https://deadline.com/2026/11/tv2-denmark-hires-program-boss-everybody-loves-rasmus-shame-1237234057
@@ -1261,7 +1293,7 @@ Roland worked as TV2's Head of Factual between 2007 and 2011, and then from 2012
 TV2 will begin a recruitment process for a "future leadership team within the programming division" at a later date.
 
 ============================================================
-[44] Nintendo Switch Online GameCube Games Get New Upgrade
+[45] Nintendo Switch Online GameCube Games Get New Upgrade
 Source: ComicBook.com | Status: expanded | Words: 487
 Published: 2026-11-26T15:53:20+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-online-gamecube-games-new-upgrade
@@ -1289,7 +1321,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] BBC Under Investigation for Antisemitism Amid "Growing Feeling of Discomfort Among Jewish Staff"
+[46] BBC Under Investigation for Antisemitism Amid "Growing Feeling of Discomfort Among Jewish Staff"
 Source: The Hollywood Reporter | Status: expanded | Words: 590
 Published: 2026-11-26T15:45:50+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/bbc-antisemitism-investigation-jewish-lord-john-mann-1236764004
@@ -1319,7 +1351,7 @@ Kon, a commissioning editor on several documentaries at the broadcaster, includi
 Deputy director general Rhodri Talfan Davies said there are "very, very robust processes" that are reviewed regularly at a Broadcasting Press Guild lunch earlier this month. "Of course, in any large organisation there can be instances of discrimination, which you deal with when they arise, but there is no evidence of any systemic issue within the BBC that would merit anything like that," said Davies. "I don&#x2019;t believe there is institutional discrimination of any sort in the BBC, but I think as an organisation you always have to look harder and review how you go about identifying issues, and that work is never done.&#x201D;
 
 ============================================================
-[46] The Best Audible Books to Listen to Right Now: 'ACOTAR,' 'Hunger Games,' 'Pride &#038; Prejudice' and More
+[47] The Best Audible Books to Listen to Right Now: 'ACOTAR,' 'Hunger Games,' 'Pride &#038; Prejudice' and More
 Source: Variety | Status: expanded | Words: 245
 Published: 2026-11-26T15:43:04+00:00
 URL: https://variety.com/shop/best-audible-books-1234982981
@@ -1337,7 +1369,7 @@ From the latest installments in some of BookTok&#x2019;s most beloved fantasy fr
 Below, we rounded up the best audiobooks you should listen to this month. But if you prefer your books with a spine, worry not: check out these best-selling celebrity memoirs and celebrity-written graphic novel s instead.
 
 ============================================================
-[47] Spider-Gwen Once Fought Venom Over Pie, and It's as Chaotic as It Sounds
+[48] Spider-Gwen Once Fought Venom Over Pie, and It's as Chaotic as It Sounds
 Source: ComicBook.com | Status: expanded | Words: 829
 Published: 2026-11-26T15:37:00+00:00
 URL: https://comicbook.com/comics/feature/spider-gwen-once-fought-venom-over-pie-and-its-as-chaotic-as-it-sounds
@@ -1373,7 +1405,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Sylvester Stallone Pitches Action Star Pal Arnold Schwarzenegger For 'Tulsa King' "Extension" Series
+[49] Sylvester Stallone Pitches Action Star Pal Arnold Schwarzenegger For 'Tulsa King' "Extension" Series
 Source: The Playlist | Status: summary_only | Words: 99
 Published: 2026-11-26T15:34:24+00:00
 URL: https://theplaylist.net/sylvester-stallone-arnold-schwarzenegger-tulsa-king-extension-series-20261126
@@ -1385,7 +1417,7 @@ CONTENT / EXTRACTED DETAILS:
 It's looking like Sylvester Stallone wants to expand the " Tulsa King " universe on the small screen beyond his own series, which is getting a NYC-set Season 5 at Paramount+ , and the upcoming Samuel L. Jackson -led spinoff " Frisco King " (this time taking place in Texas) is looking to move the crime operation to another sleepy city. He's now pitching that his longtime frienemy Arnold Schwarzenegger get his own piece of the pie with an "extension" series. Continue reading Sylvester Stallone Pitches Action Star Pal Arnold Schwarzenegger For 'Tulsa King' "Extension" Series at The Playlist.
 
 ============================================================
-[49] One of PS5's Highest-Rated Exclusives of 2026 Is Finally Coming to Xbox
+[50] One of PS5's Highest-Rated Exclusives of 2026 Is Finally Coming to Xbox
 Source: ComicBook.com | Status: expanded | Words: 491
 Published: 2026-11-26T15:32:42+00:00
 URL: https://comicbook.com/gaming/news/one-of-ps5s-highest-rated-exclusives-of-2026-is-finally-coming-to-xbox
@@ -1405,30 +1437,6 @@ The Xbox release is also a first for the franchise. Neither Nioh nor Nioh 2 rece
 Those interested in getting the complete experience can pick up Nioh 3: Complete Edition , which bundles the base game with both planned expansions, Hell Rising and Bloody Insurrection . The latter is scheduled to launch on December 17, 2026 , ahead of the Complete Edition's arrival. The package also includes additional equipment and bonuses, making it a substantial option for anyone picking up the game for the first time.
 
 Importantly, Xbox players won't have to wait beyond January to join the action. Both the standard game and Complete Edition are scheduled to arrive on January 28, 2027 . Years without an Xbox release for the franchise, Nioh 3 is finally giving the platform's players a chance to see what they've been missing at on.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Ocean's 14 Director Explains The Reason Behind the Sequel’s Multiple Delays But There's Good News
-Source: ComicBook.com | Status: expanded | Words: 564
-Published: 2026-11-26T15:21:31+00:00
-URL: https://comicbook.com/movies/news/oceans-14-director-explains-the-reason-behind-the-sequels-multiple-delays-but-theres-good-news
-------------------------------------------------------------
-SUMMARY:
-IMAGE COURTESY OF WARNER BROS. If you're wondering why we haven't seen any movement on Ocean's Fourteen yet, the answer is pretty much exactly what you'd think: how do you align the schedules of Brad Pitt, George Clooney, Julia Roberts, Matt Damon, George Clooney, Don Cheadle, et al? The good news for Ocean's fans is that everyone's on board, the […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google If you're wondering why we haven't seen any movement on Ocean's Fourteen yet, the answer is pretty much exactly what you'd think: how do you align the schedules of Brad Pitt, George Clooney, Julia Roberts, Matt Damon, George Clooney, Don Cheadle, et al? The good news for Ocean's fans is that everyone's on board, the script is well-liked by all, and Warner Bros. has approved the budget. For whenever everyone can actually get together.
-
-This all comes from a new People interview with director David Leitch, who will succeed Steven Soderbergh in the director's chair of the series. "There’s a lot of excitement around it and … George and Grant did incredible work on the script,” Leitch said. “So, yeah, a lot of motivation to make it happen.” A former stuntman, Leitch specializes in directing action-heist hybrids like How to Rob a Bank and Bullet Train . There's a better-than-average likelihood that rather than just relying on skill, charm, and timing, the aging Ocean's gang are gonna have to kick some ass to pull off the next job.
-
-Right off the bat, Ocean's Fourteen may have to deal with the fact that Danny Ocean (Clooney) is canonically dead, or at least appearing to be, and his sister, now out of prison, is also running heists, as seen in the spinoff Ocean's 8 . There's also an untitled movie about Danny and Debbie Ocean's parents ( played by Margot Robbie and Bradley Cooper ) pulling off a heist in the '60s — Ocean's Minus One , perhaps? — that could affect continuity, and also take certain actors off the table to add to the team. Wagner Moura, Omar Sy, and Josh Gad , for instance, are signed for the prequel and thus can't be added to the modern-day team…in theory. Given the switcheroo Ocean's Twelve played with Julia Roberts, we know that the movies exist in a universe where exact doppelgangers are a thing. Roberts did not return for Oceans Thirteen , but in the People article, Clooney is quoted mentioning her by name as a potential returnee.
-
-Clooney and longtime producing partner Grant Heslov have written the script for Ocean's Fourteen . It will be the first Danny Ocean film since the deaths of Bernie Mac and Carl Reiner from the original team; thus, they'll need successors in addition to the usual "add one more" conceit of each sequel. Though we might suspect members of Debbie's eight-woman team could join the crew, that means even more schedule-aligning issues with the likes of Sandra Bullock and Cate Blanchett. Rounding out the additional team as of Ocean's Thirteen were Andy Garcia, Suzy Izzard (known then as Eddie), Casey Affleck, Scott Caan, Eddie Jemison, Shaobo Qin, and Elliott Gould. Some of them evidently have lighter schedules than others.
-
-Are you looking forward to Ocean's Fourteen , whenever it happens? How much does it matter if the entirety of the surviving original cast returns? Should the Ocean's 8 crew return? Take the plunge into comments and tell us your thoughts.
 
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
