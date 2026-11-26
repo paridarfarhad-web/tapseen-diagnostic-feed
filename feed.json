@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-26T16:53:08.221Z"
+    "updated_at": "2026-11-26T16:59:09.200Z"
   },
   "articles": [
+    {
+      "id": "3111c844-3a2b-474c-87d6-ac942a38d9be",
+      "title": "Early Box Office Tracking For 'Avengers: Doomsday' &#038; 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters",
+      "summary": "Next month, \" Avengers: Doomsday \" and \" Dune: Part Three \" are going head-to-head, with many folks hoping that Dunesday becomes the Barbenheimer 2.0. And with that, there are some early domestic box office numbers making the rounds, and they should make both studios and exhibitors excited about how much money is about to pour into theaters over the holiday season. READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” NRG's projection data comes to us from Deadline, which states that \"Doomsday\" could be looking at a $270 million-plus domestic opening and goes on to tease that it could go higher toward the $300 million range. Continue reading Early Box Office Tracking For 'Avengers: Doomsday' & 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters at The Playlist.",
+      "content": "Next month, \" Avengers: Doomsday \" and \" Dune: Part Three \" are going head-to-head, with many folks hoping that Dunesday becomes the Barbenheimer 2.0. And with that, there are some early domestic box office numbers making the rounds, and they should make both studios and exhibitors excited about how much money is about to pour into theaters over the holiday season. READ MORE: Kevin Feige Says ‘Avengers: Secret Wars’ “Is A Whole Other Genre Of Story” Compared To ‘Doomsday,’ With Joe Russo Teasing “A Really Unique World” NRG's projection data comes to us from Deadline, which states that \"Doomsday\" could be looking at a $270 million-plus domestic opening and goes on to tease that it could go higher toward the $300 million range. Continue reading Early Box Office Tracking For 'Avengers: Doomsday' & 'Dune: Part Three' Suggests A Very Profitable Holiday Season For Theaters at The Playlist.",
+      "source": "The Playlist",
+      "source_url": "https://theplaylist.net/early-box-office-tracking-avengers-doomsday-dune-part-three-20261126",
+      "published_at": "2026-11-26T16:57:38+00:00",
+      "image_url": "https://www.youtube.com/embed/uJqaGLmZpGo",
+      "language": "en",
+      "content_status": "summary_only",
+      "word_count": 148,
+      "extracted_at": "2026-11-26T16:58:53.634154+00:00",
+      "updated_at": "2026-11-26T16:58:53.634154+00:00"
+    },
     {
       "id": "7dc813c4-1a0c-4ccb-b600-85841afa3f78",
       "title": "90s SNES Game Now Available on PS5 for $1.99",
@@ -742,21 +757,6 @@
       "word_count": 317,
       "extracted_at": "2026-11-26T15:10:50.194465+00:00",
       "updated_at": "2026-11-26T15:10:50.194465+00:00"
-    },
-    {
-      "id": "99d122a1-84a2-4a99-a867-ad955f316757",
-      "title": "Happy Thanksgiving, Netflix Just Canceled Two Shows With Major Stars",
-      "summary": "The streaming service is at it again.",
-      "content": "Thanksgiving is officially upon us, and many TV and movie fans are going to be re-watching their favorite festive programming. Whether its Friends ' Thanksgiving episodes or a trip to Star's Hallow from Gilmore Girls , there's plenty to chose from. Unfortunately we got some bad news for TV addicts, specifically those with a Netflix subscription . Namely that the streaming platform has cancelled two more shows after just one season , and they both star big celebrities.\n\nThen there's Amsterdam Empire , which had arguably less hype around it than Ferrell's comedy series. Starring Famke Janssen ( Goldeneye , The X-Men movies ), the show followed her character Betty Jonkers, a former pop star whose coffee-mogul husband is hiding some shady dealings. The show was shot entirely in Dutch, which is the accomplished actress' first language. Unfortunately the show is now over after just one season, which ended on an exciting cliffhanger. This comes after Janssen was noticeably left out of Avengers: Doomsday , despite so many of her X-Men co-stars reprising their roles in the upcoming Marvel movie .\n\nThese two titles join the ranks of many shows that Netflix has dropped way too early, to dismay of fans. Some other titles to have suffered this fate include The OA , which was cancelled after two wild seasons and a huge cliffhanger. Then there was Sense8 , which got cancelled but eventually got a movie finale after fans made their voices known. Fans have also been hoping to see more of David Fincher's Mindhunter since the last episode aired back in 2019.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/streaming-news/happy-thanksgiving-netflix-canceled-two-shows-major-stars-will-ferrell-famke-janssen",
-      "published_at": "2026-11-26T13:42:31+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/rnf6TDv9ADWT4XXL3HR53E-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 264,
-      "extracted_at": "2026-11-26T13:44:43.679915+00:00",
-      "updated_at": "2026-11-26T13:44:43.679915+00:00"
     }
   ]
 }
