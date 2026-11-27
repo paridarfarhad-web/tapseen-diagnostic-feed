@@ -1,9 +1,37 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-27T11:06:00.332Z
+Last Updated: 2026-11-27T11:08:03.329Z
 Website: https://tapseen.com
 
 ============================================================
-[1] 'Dangal' Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass
+[1] Gen Z Filmmakers Launch LA-Based Microseries App Pocket Cinema With Eye On International Growth
+Source: Deadline | Status: expanded | Words: 523
+Published: 2026-11-27T11:05:59+00:00
+URL: https://deadline.com/2026/11/gen-z-filmmakers-launch-la-microseries-app-pocket-cinema-1237234224
+------------------------------------------------------------
+SUMMARY:
+EXCLUSIVE: The microdrama craze is beginning to attract bigger players. But undoubtedly, it offers a leg up to those starting out. Among the scrappy newcomers are French-Russian filmmaker Lada Egorova and Brazilian filmmaker Thiago Aragão, a duo a few years out of college, who have launched LA-based platform Pocket Cinema+, an independent microseries streaming app […]
+
+CONTENT / EXTRACTED DETAILS:
+EXCLUSIVE : The microdrama craze is beginning to attract bigger players. But undoubtedly, it offers a leg up to those starting out.
+
+Among the scrappy newcomers are French-Russian filmmaker Lada Egorova and Brazilian filmmaker Thiago Arag&#xE3;o, a duo a few years out of college, who have launched LA-based platform Pocket Cinema +, an independent microseries streaming app whose early offerings include a Western/samurai drama and a sci-fi series, both shot in and around LA.
+
+The company offers vertical and horizontal genre series and they're preparing a French production partnership as their next step. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Microdrama Revenues Hit $20B, But Profits Outside China Still Weak - MPA Report News Women In Vertical Media: Execs From Shorties Studios, aTwist & Eris Join Inaugural Advisory Circle
+
+Both are heavily involved in the making of their content to date with Egorova writer, directing and producing Blades & Bullets , a vertical Western/samurai series "following a Black samurai and a Mexican cowboy who must confront a ruthless gang". Egorova, who has made multiple shorts and worked on commercials, is also writer-director-producer on Journey To Origin , a "horizontal post-apocalyptic science-fiction microseries following a survivor and a sentient android searching for hope and answers". Also on the slate is a noir crime series, The Price Of Yesterday . Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Pocket Cinema+ is currently founder-backed but received a grant through STARZ&#x2019;s #TakeTheLead initiative, which supported one of the first series on the slate. To date, actors used in the series have been relatively unknown or newcomers.
+
+The company says it won't be using AI for shortcuts: "All three of our latest productions were shot in live action, without AI in any part of the production pipeline. We&#x2019;re committed to building Pocket Cinema+ around authentic filmmaking and live-action storytelling."
+
+The duo are now in talks with producer David Yol's Geneva and Paris-based Denan Productions to develop and shoot microseries in France for the Pocket Cinema platform. The idea is for the slate to include English and French-language genre series, starting with a horror, and they're targeting budgets in the $60k-$100k range. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+"Our editorial focus is genre-driven microseries, with an ambition to develop a wider range of stories and filmmaker perspectives within short-form entertainment," the duo told us.
+
+Egorova expanded: "Having studied cinema at Universit&#xE9; Gustave Eiffel and Paris 8 before moving to LA, I&#x2019;m particularly interested in building a production bridge between France and the U.S., and involving emerging French filmmakers. Our production plans in France and Brazil are the next steps in our vision, aiming to produce series simultaneously across countries through local creative partnerships."
+
+============================================================
+[2] 'Dangal' Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass
 Source: Variety | Status: expanded | Words: 676
 Published: 2026-11-27T11:03:53+00:00
 URL: https://variety.com/2026/film/festivals/dangal-casting-director-mukesh-chhabra-14000-auditions-1236959312
@@ -39,7 +67,7 @@ He urged actors to stay curious about the world around them. "Read people. Talk 
 Questions about nepotism and the casting couch brought some humor into the discussion. Chhabra said he had rejected several star kids. "Whether you are a star kid or not a star kid, ultimately you have to act," he said. Asked about the casting couch, he pointed to his seat on stage. "This is the only couch I like. I'm sitting on it."
 
 ============================================================
-[2] Barun Sobti, Abhishek Banerjee Star as 'Paatal Lok' Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix's IFFI Selection 'Pushpak Vimaan'
+[3] Barun Sobti, Abhishek Banerjee Star as 'Paatal Lok' Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix's IFFI Selection 'Pushpak Vimaan'
 Source: Variety | Status: expanded | Words: 608
 Published: 2026-11-27T10:52:10+00:00
 URL: https://variety.com/2026/tv/festivals/barun-sobti-abhishek-banerjee-netflix-comedy-pushpak-vimaan-1236959303
@@ -67,7 +95,7 @@ When Sobti asked how to approach Bhupi, "'Just be yourself,' he told me," Sobti 
 Sharma describes the Pushpak Vimaan, the flying chariot of the Hindu epic the "Ramayana," as "that mythical vehicle that can take us from the mess that we are into a place that we want to be in." His characters, he says, are "all wanting to get away from the morass that they think their life is in, and going for this pot of gold."
 
 ============================================================
-[3] The Best Gifts for Gamers in 2026: Consoles, Headsets and the Year's Buzziest Releases
+[4] The Best Gifts for Gamers in 2026: Consoles, Headsets and the Year's Buzziest Releases
 Source: Variety | Status: expanded | Words: 1286
 Published: 2026-11-27T10:49:55+00:00
 URL: https://variety.com/2026/shopping/news/best-gifts-for-gamers-video-games-consoles-2026-1236953773
@@ -113,7 +141,7 @@ For the &#x201C;Grand Theft Auto&#x201D; fan who can&#x2019;t get enough of its 
 For gamers who like to talk to their friends while playing &#x2014; or just like to soak up the sound with a good pair of headphones &#x2014; the HyperX Cloud III is the solid, budget-friendly pick. They&#x2019;re wired, which means no batteries are necessary, and it plugs into every console. And controls sit on the ear cup for easy volume and mic modification.
 
 ============================================================
-[4] 5 Classic Movies That Would Be Completely Different If Smartphones Existed and Changed the Plot
+[5] 5 Classic Movies That Would Be Completely Different If Smartphones Existed and Changed the Plot
 Source: ComicBook.com | Status: expanded | Words: 1403
 Published: 2026-11-27T10:36:00+00:00
 URL: https://comicbook.com/movies/list/5-classic-movies-that-would-be-completely-different-if-smartphones-existed-and-changed-the-plot
@@ -153,7 +181,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] Justin Timberlake Was 'Really Reluctant' to Make Tell-All Documentary: 'I've Gone Through a Lot in the Last Five Years'
+[6] Justin Timberlake Was 'Really Reluctant' to Make Tell-All Documentary: 'I've Gone Through a Lot in the Last Five Years'
 Source: Variety | Status: expanded | Words: 565
 Published: 2026-11-27T10:27:50+00:00
 URL: https://variety.com/2026/music/news/justin-timberlake-reluctant-doc-big-revelations-1236959282
@@ -179,7 +207,7 @@ Though Timberlake didn't detail the documentary's revelations, he has kept a rel
 Elsewhere during Timberlake's time on "The Tonight Show," he and Fallon revisited their viral 2012 "History of Rap" video by performing a "History of Party Songs," which included "I Want It That Way" by NSYNC's old rivals the Backstreet Boys. Watch the full video below.
 
 ============================================================
-[6] Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’
+[7] Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’
 Source: Variety | Status: expanded | Words: 648
 Published: 2026-11-27T10:21:30+00:00
 URL: https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030
@@ -219,7 +247,7 @@ There&#x2019;s just one thing he asks for as an actor: his characters need to ev
 He said: &#x201C;I find it moving when I see characters who are in pursuit of that. In pursuit of change or growth in some way. And that&#x2019;s the kind of thing that, again, can happen across any genre.&#x201D;
 
 ============================================================
-[7] Marvel’s First Movie Ever Remains Its Strangest, But 40 Years Later It Deserves an MCU Reboot
+[8] Marvel’s First Movie Ever Remains Its Strangest, But 40 Years Later It Deserves an MCU Reboot
 Source: ComicBook.com | Status: expanded | Words: 757
 Published: 2026-11-27T09:56:00+00:00
 URL: https://comicbook.com/movies/feature/marvels-first-movie-ever-remains-its-strangest-but-40-years-later-it-deserves-an-mcu-reboot
@@ -249,7 +277,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Northern Ireland Screen Appoints New Chief Executive
+[9] Northern Ireland Screen Appoints New Chief Executive
 Source: Deadline | Status: expanded | Words: 458
 Published: 2026-11-27T09:41:45+00:00
 URL: https://deadline.com/2026/11/northern-ireland-screen-appoints-new-chief-executive-1237234222
@@ -273,7 +301,7 @@ She continued: &#x201C;Having worked internationally for many years, I am incred
 Sir David Sterling, Chair of Northern Ireland Screen, added : &#x201C;On behalf of Northern Ireland Screen, I warmly welcome Laura as our new Chief Executive. Laura brings with her a wealth of experience in the screen industry and her expertise will guide Northern Ireland Screen into its next chapter. I would also like to express our sincere gratitude to our outgoing CEO, Richard Williams, for his exceptional leadership of Northern Ireland Screen and more than 23 years of dedicated service to the organisation.&#x201D;
 
 ============================================================
-[9] RECLab 2026: New Films From ‘Alcarràs,’ ‘Romería’ Producers Bound for a Key New Spanish Talent Forum
+[10] RECLab 2026: New Films From ‘Alcarràs,’ ‘Romería’ Producers Bound for a Key New Spanish Talent Forum
 Source: Variety | Status: expanded | Words: 1374
 Published: 2026-11-27T09:20:15+00:00
 URL: https://variety.com/2026/film/global/reclab-2026-new-films-from-alcarras-romeria-producers-1236959234
@@ -347,7 +375,7 @@ Starring Quim Avila (&#x201C;Ravalear&#x201D;) , f rom Mireia Graell Vivancos&#x
 After their mother&#x2019;s death, Cecilia and Juliana, 19-year-old twins, travel for Christmas to Colombia, where they were born but barely remember. Cecilia delves into their father&#x2019;s past and Juliana struggles to understand her own present. Born by Alegre&#x2019;s &#x201C;personal journey to reconstruct her mother&#x2019;s and aunt&#x2019;s story, exploring how we build bonds with people we have never met and the silences that shape our identities,&#x201D; says producer Angels Masclans .
 
 ============================================================
-[10] 'High Fidelity' Director Stephen Frears Still Teases Jack Black: 'I Told Him, You Owe All This to Me!'
+[11] 'High Fidelity' Director Stephen Frears Still Teases Jack Black: 'I Told Him, You Owe All This to Me!'
 Source: Variety | Status: expanded | Words: 849
 Published: 2026-11-27T09:20:00+00:00
 URL: https://variety.com/2026/film/festivals/high-fidelity-stephen-frears-jack-black-brexit-cannes-1236959203
@@ -389,7 +417,7 @@ Frears also peeled back the curtain onto that year's jury deliberations, which f
 He adds: "But I said, 'This is the film that people all over the world will actually go see!'"
 
 ============================================================
-[11] 4 Hit TV Shows from the 2010s That Wouldn't Work Today (&#038; 1 Is Still Airing Despite the Backlash)
+[12] 4 Hit TV Shows from the 2010s That Wouldn't Work Today (&#038; 1 Is Still Airing Despite the Backlash)
 Source: ComicBook.com | Status: expanded | Words: 1223
 Published: 2026-11-27T09:14:00+00:00
 URL: https://comicbook.com/tv-shows/list/4-hit-tv-shows-from-the-2010s-that-wouldnt-work-today-1-is-still-airing-despite-the-backlash
@@ -423,7 +451,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Mike Leigh Reminds The World Why He Doesn't Work With Hollywood Stars
+[13] Mike Leigh Reminds The World Why He Doesn't Work With Hollywood Stars
 Source: Deadline | Status: expanded | Words: 520
 Published: 2026-11-27T09:10:01+00:00
 URL: https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216
@@ -453,7 +481,7 @@ He insisted he isn't retiring and instead will "sit down and write something."
 Check out Leigh and his stars' Deadline Contenders interview from last month here.
 
 ============================================================
-[13] 20 Years Later, Heroes' Biggest Villain Is Still One of TV's Best
+[14] 20 Years Later, Heroes' Biggest Villain Is Still One of TV's Best
 Source: ComicBook.com | Status: expanded | Words: 808
 Published: 2026-11-27T08:34:00+00:00
 URL: https://comicbook.com/tv-shows/feature/20-years-later-heroes-biggest-villain-is-still-one-of-tvs-best
@@ -479,7 +507,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] New Doomsday Teaser Sends Cillian Murphy is Doctor Doom Theory Into Overdrive
+[15] New Doomsday Teaser Sends Cillian Murphy is Doctor Doom Theory Into Overdrive
 Source: ComicBook.com | Status: expanded | Words: 627
 Published: 2026-11-27T05:56:13+00:00
 URL: https://comicbook.com/movies/news/new-doomsday-teaser-sends-cillian-murphy-is-doctor-doom-theory-into-overdrive
@@ -509,7 +537,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] Candace Cameron Bure Says She Gets "Substantial" Residuals From 'Full House'
+[16] Candace Cameron Bure Says She Gets "Substantial" Residuals From 'Full House'
 Source: The Hollywood Reporter | Status: expanded | Words: 528
 Published: 2026-11-27T05:05:08+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049
@@ -539,7 +567,7 @@ Elsewhere on the podcast, Bure also addressed the Olsen twins' decision not to a
 "Not because anything went wrong or there was any bad blood. I just think they were kids. They were [filming from] 9 months old until they were 8 years old. They have very different memories than we do. Even me being 10 years older than them, I have significant, great, wonderful memories," she continued. "They were babies. They probably don&#x2019;t even remember half the stuff [we do]. They didn&#x2019;t have the attachment to the crew and the people like we did being older. And they had such a successful fashion business. They haven&#x2019;t been actors for a long time. They just haven&#x2019;t been in that part of entertainment.&#x201D;
 
 ============================================================
-[16] George Lucas' Original Star Wars Sequel Plans Were Hated So Much By Disney Boss, He Changed the Lucasfilm Deal
+[17] George Lucas' Original Star Wars Sequel Plans Were Hated So Much By Disney Boss, He Changed the Lucasfilm Deal
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-27T04:55:22+00:00
 URL: https://comicbook.com/starwars/news/george-lucas-original-star-wars-sequel-plans-were-hated-so-much-by-disney-boss-he-changed-the-lucasfilm-deal
@@ -569,7 +597,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar's T-Series (EXCLUSIVE)
+[18] Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar's T-Series (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-27T04:30:00+00:00
 URL: https://variety.com/2026/film/news/laxman-utekar-rajkumar-periasamy-vishnuvardhan-films-tseries-1236958689
@@ -595,7 +623,7 @@ In the south, T-Series is presenting Hanu Raghavapudi's "Fauzi," which gives Pra
 In all, the slate takes in action, romance, period drama and mythology, and spans both the Bollywood and South Indian industries.
 
 ============================================================
-[18] Phantom Blade Zero's Sequel Needs to Give Players More Main Weapons and Fewer Phantom Edges
+[19] Phantom Blade Zero's Sequel Needs to Give Players More Main Weapons and Fewer Phantom Edges
 Source: ComicBook.com | Status: expanded | Words: 978
 Published: 2026-11-27T04:21:07+00:00
 URL: https://comicbook.com/gaming/feature/phantom-blade-zeros-sequel-needs-to-give-players-more-main-weapons-and-fewer-phantom-edges
@@ -627,7 +655,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] A Fantasy Epic Just Confirmed Its 2027 Launch &#038; Anime Fans Should Take Notice
+[20] A Fantasy Epic Just Confirmed Its 2027 Launch &#038; Anime Fans Should Take Notice
 Source: ComicBook.com | Status: expanded | Words: 600
 Published: 2026-11-27T03:52:00+00:00
 URL: https://comicbook.com/anime/news/a-fantasy-epic-just-confirmed-its-2027-launch-anime-fans-should-take-notice
@@ -653,7 +681,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] One of the Best Stephen King Adaptations is Leaving Netflix Sooner Than You Think
+[21] One of the Best Stephen King Adaptations is Leaving Netflix Sooner Than You Think
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-27T03:41:00+00:00
 URL: https://comicbook.com/tv-shows/news/one-of-the-best-stephen-king-adaptations-is-leaving-netflix-sooner-than-you-think
@@ -679,7 +707,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Demon Slayer Will Never Top Its Biggest Hashira Fight
+[22] Demon Slayer Will Never Top Its Biggest Hashira Fight
 Source: ComicBook.com | Status: expanded | Words: 887
 Published: 2026-11-27T03:33:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-will-never-top-its-biggest-hashira-fight
@@ -711,7 +739,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] 5 Great Shonen Jump Manga Ended in 2026
+[23] 5 Great Shonen Jump Manga Ended in 2026
 Source: ComicBook.com | Status: expanded | Words: 1107
 Published: 2026-11-27T03:08:15+00:00
 URL: https://comicbook.com/anime/list/5-great-shonen-jump-manga-ended-in-2026
@@ -751,7 +779,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] New Dragon Ball Super Remake Is Hurting the Anime More Than Helping
+[24] New Dragon Ball Super Remake Is Hurting the Anime More Than Helping
 Source: ComicBook.com | Status: expanded | Words: 920
 Published: 2026-11-27T02:44:35+00:00
 URL: https://comicbook.com/anime/feature/new-dragon-ball-super-remake-is-hurting-the-anime-more-than-helping
@@ -783,7 +811,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] You Can Get Your Hands on Margot Robbie's Harley Quinn Baseball Bat for a Price That Is No Laughing Matter
+[25] You Can Get Your Hands on Margot Robbie's Harley Quinn Baseball Bat for a Price That Is No Laughing Matter
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-27T02:44:00+00:00
 URL: https://comicbook.com/collectibles/news/you-can-get-your-hands-on-margot-robbies-harley-quinn-baseball-bat-for-a-price-that-is-no-laughing-matter
@@ -803,7 +831,7 @@ Regardless of Robbie's future as the character, her performance as Harley Quinn 
 What piece of DC memorabilia would you love to own? Let us know in the comments.
 
 ============================================================
-[25] Julianne Hough's Stylist Addresses Fan Backlash To Her 'Dancing With the Stars' Wardrobe This Season
+[26] Julianne Hough's Stylist Addresses Fan Backlash To Her 'Dancing With the Stars' Wardrobe This Season
 Source: Deadline | Status: expanded | Words: 431
 Published: 2026-11-27T02:34:52+00:00
 URL: https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193
@@ -829,7 +857,7 @@ For his part, Goreski welcomes the feedback.
 Hough, who previously competed and judged on the show, started co-hosting DWTS in the fall of 2023. She and Ribeiro just finished emceeing a successful and very emotional season of the ABC variety show; the Nov. 24 finale scored 9.2 million total live + same-day viewers across ABC and Disney+, making it the most-watched episode of the season.
 
 ============================================================
-[26] Ridley Scott's 10-Year-Old $630M Sci-Fi Masterpiece Is About to Land on a New Streaming Home in December
+[27] Ridley Scott's 10-Year-Old $630M Sci-Fi Masterpiece Is About to Land on a New Streaming Home in December
 Source: ComicBook.com | Status: expanded | Words: 699
 Published: 2026-11-27T02:30:00+00:00
 URL: https://comicbook.com/movies/news/ridley-scotts-10-year-old-630m-sci-fi-masterpiece-is-about-to-land-on-a-new-streaming-home-in-december
@@ -853,7 +881,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Recasting the Original Pretty in Pink for 2026
+[28] Recasting the Original Pretty in Pink for 2026
 Source: ComicBook.com | Status: expanded | Words: 1090
 Published: 2026-11-27T02:01:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-pretty-in-pink-for-2026
@@ -891,7 +919,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] Melissa Gilbert Expresses "Undying Gratitude" After Timothy Busfield's Child Sex Abuse Case Dismissed
+[29] Melissa Gilbert Expresses "Undying Gratitude" After Timothy Busfield's Child Sex Abuse Case Dismissed
 Source: The Hollywood Reporter | Status: expanded | Words: 345
 Published: 2026-11-27T01:57:32+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064
@@ -913,7 +941,7 @@ He had been accused of child sex abuse on the set of the former Fox/Warner Bros.
 Throughout the proceedings, Gilbert defended Busfield , who denied the allegations. She told ABC&#x2019;s George Stephanopoulos in April 2026, &#x201C;For Tim, it&#x2019;s done. He&#x2019;s canceled. Even if he&#x2019;s exonerated, he will always be that guy, the last person in the world who would hurt a child. And believe me, if I thought for a second that Tim Busfield hurt a child, he&#x2019;d have a lot more to worry about than prison."
 
 ============================================================
-[29] Melissa Gilbert Gives Thanks To Those Who "Spoke Up, Testified" In Support Of Husband Timothy Busfield
+[30] Melissa Gilbert Gives Thanks To Those Who "Spoke Up, Testified" In Support Of Husband Timothy Busfield
 Source: Deadline | Status: expanded | Words: 419
 Published: 2026-11-27T01:32:36+00:00
 URL: https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187
@@ -933,7 +961,7 @@ The charges were tossed last month after the &#x201C;prosecuting attorney failed
 Montano gave prosecutors the option to &#x201C;institute new criminal proceedings&#x201D; against Busfield; each count in the tossed indictment carried a maximum sentence of six years behind bars.
 
 ============================================================
-[30] Marvel Introduced the Hippest Mutants Ever in the Early '80s (and It's Long Past Time the MCU Made Them Superstars)
+[31] Marvel Introduced the Hippest Mutants Ever in the Early '80s (and It's Long Past Time the MCU Made Them Superstars)
 Source: ComicBook.com | Status: expanded | Words: 1207
 Published: 2026-11-27T01:21:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-introduced-the-hippest-mutants-ever-in-the-early-80s-and-its-long-past-time-the-mcu-made-them-superstars
@@ -971,7 +999,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Avatar: The Last Airbender Creator Breaks Silence on Future Projects: "I'm Working on Something You Don't Really Want"
+[32] Avatar: The Last Airbender Creator Breaks Silence on Future Projects: "I'm Working on Something You Don't Really Want"
 Source: ComicBook.com | Status: expanded | Words: 774
 Published: 2026-11-27T01:18:38+00:00
 URL: https://comicbook.com/anime/news/avatar-the-last-airbender-creator-breaks-silence-on-future-projects-im-working-on-something-you-dont-really-want
@@ -1003,7 +1031,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Chris Hemsworth's 95-Minute R-Rated Meta Horror Movie Is One of the Most Creative Ever Made - and You Are Running Out of Time to Watch It
+[33] Chris Hemsworth's 95-Minute R-Rated Meta Horror Movie Is One of the Most Creative Ever Made - and You Are Running Out of Time to Watch It
 Source: ComicBook.com | Status: expanded | Words: 718
 Published: 2026-11-27T01:00:00+00:00
 URL: https://comicbook.com/movies/news/chris-hemsworths-95-minute-r-rated-meta-horror-movie-is-one-of-the-most-creative-ever-made-and-you-are-running-out-of-time-to-watch-it
@@ -1027,7 +1055,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[33] ‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen
+[34] ‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen
 Source: Variety | Status: expanded | Words: 1820
 Published: 2026-11-27T01:00:00+00:00
 URL: https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380
@@ -1091,7 +1119,7 @@ That was probably one of my favorite sets and sequences in the series. I just lo
 This interview has been edited and condensed.
 
 ============================================================
-[34] 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together
+[35] 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together
 Source: The Playlist | Status: summary_only | Words: 116
 Published: 2026-11-27T00:51:34+00:00
 URL: https://theplaylist.net/essential-thanksgiving-movies-dysfunctional-families-disastrous-dinners-20261126
@@ -1103,7 +1131,7 @@ CONTENT / EXTRACTED DETAILS:
 Ah, Thanksgiving. That wonderful American tradition of gathering around a table, expressing feigned gratitude, and collectively agreeing not to examine the details of our history too closely. Nothing says national unity quite like a heavily sanitized account of colonialism served alongside mashed potatoes. But why stop at historical denialism when there are so many other uncomfortable subjects to explore? Go ahead, poke your magnificently out-of-touch uncle about his worldview, ask your parents why they never went to therapy, or casually introduce the subject of generational wealth—or, better yet, the elaborate rationalizations for stealing someone else’s land. Continue reading 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together at The Playlist.
 
 ============================================================
-[35] Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time
+[36] Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time
 Source: CinemaBlend | Status: expanded | Words: 464
 Published: 2026-11-27T00:45:00+00:00
 URL: https://www.cinemablend.com/movies/elf-holiday-classic-now-andy-richter-jon-favreau-admits-risky-business-movie-release
@@ -1125,7 +1153,7 @@ I think that's a pretty accurate assessment. Ferrell gets to be completely absur
 More than two decades later, it's difficult to imagine the holiday season without Buddy the Elf. The movie remains a favorite among families, and people are still finding new things to appreciate about it, including one particularly interesting question about Buddy's journey from the North Pole to New York City.
 
 ============================================================
-[36] Spider-Man: No Way Home Already Revealed the Perfect Way for Marvel to Bring Back This Legacy Character
+[37] Spider-Man: No Way Home Already Revealed the Perfect Way for Marvel to Bring Back This Legacy Character
 Source: ComicBook.com | Status: expanded | Words: 767
 Published: 2026-11-27T00:38:00+00:00
 URL: https://comicbook.com/movies/feature/spider-man-no-way-home-already-revealed-the-perfect-way-for-marvel-to-bring-back-this-legacy-character
@@ -1155,7 +1183,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] Gerald R. Molen Dies: Oscar-Winning 'Schindler's List' Producer Was 91
+[38] Gerald R. Molen Dies: Oscar-Winning 'Schindler's List' Producer Was 91
 Source: Deadline | Status: expanded | Words: 502
 Published: 2026-11-27T00:33:50+00:00
 URL: https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182
@@ -1177,7 +1205,7 @@ Born Jan. 6, 1935 in Great Falls, Montana, Gerald Robert Molen grew up in North 
 In 1985, Molen began working with Spielberg as a unit production manager on The Color Purple , before going on to produce his movies Hook (1991), Jurassic Park (1993) and Schindler's List (1993), which earned them the Best Picture Oscar. They also worked together on The Lost World: Jurassic Park (1997), Amistad (1997), Minority Report (2002) and Catch Me If You Can (2002).
 
 ============================================================
-[38] This Classic Spider-Man Villain Recently Made His Live Action Debut, But His First Appearance Comic Released Over 60 Years Ago
+[39] This Classic Spider-Man Villain Recently Made His Live Action Debut, But His First Appearance Comic Released Over 60 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 548
 Published: 2026-11-26T23:57:00+00:00
 URL: https://comicbook.com/collectibles/news/this-classic-spider-man-villain-recently-made-his-live-action-debut-but-his-first-appearance-comic-released-over-60-years-ago
@@ -1197,7 +1225,7 @@ With Scorpion finally making his live action first appearance, we've finally see
 Do you think the wait for Scorpion's live action appearance was worth it? Let us know in the comments.
 
 ============================================================
-[39] 'Percy Jackson's Courtney B. Vance On "Doing Right By" Late Lance Reddick After Taking Over Zeus Role
+[40] 'Percy Jackson's Courtney B. Vance On "Doing Right By" Late Lance Reddick After Taking Over Zeus Role
 Source: Deadline | Status: expanded | Words: 422
 Published: 2026-11-26T23:33:41+00:00
 URL: https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178
@@ -1223,7 +1251,7 @@ With new episodes available to stream Fridays on Disney+, Season 3 of Percy Jack
 If Percy Jackson (Walker Scobell) learned anything after completing two epic quests with Annabeth Chase (Leah Sava Jeffries), it&#x2019;s that he would be lost without her. So when Annabeth is captured by the forces of Kronos, Percy must embark on a perilous journey to rescue her. He must free a goddess in chains, confront the Titan's curse, and avoid triggering the fall of Olympus. With Grover (Aryan Simhadri) by his side, Percy must join some unlikely questmates to confront a prophecy with dire consequences.
 
 ============================================================
-[40] Gerald R. Molen, Oscar-Winning ‘Schindler’s List' Producer, Dies at 91
+[41] Gerald R. Molen, Oscar-Winning ‘Schindler’s List' Producer, Dies at 91
 Source: Variety | Status: expanded | Words: 367
 Published: 2026-11-26T23:33:00+00:00
 URL: https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200
@@ -1249,7 +1277,7 @@ Born in Montana in 1935, Molen moved to North Hollywood in 1947. His parents, Ge
 Molen&#x2019;s wife of almost 70 years, Pat, died in January 2024 at 86 years old.
 
 ============================================================
-[41] Everyone Forgets About Spider-Man’s Original Superhero Roommate, but He Helped Debut an Iconic X-Men Villain
+[42] Everyone Forgets About Spider-Man’s Original Superhero Roommate, but He Helped Debut an Iconic X-Men Villain
 Source: ComicBook.com | Status: expanded | Words: 851
 Published: 2026-11-26T23:15:00+00:00
 URL: https://comicbook.com/comics/feature/everyone-forgets-about-spider-mans-original-superhero-roommate-but-he-helped-debut-an-iconic-x-men-villain
@@ -1279,7 +1307,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] Doomsday Stars Breakdown Gambit &#038; Shang-Chi's Big Fight, And Why It Works
+[43] Doomsday Stars Breakdown Gambit &#038; Shang-Chi's Big Fight, And Why It Works
 Source: ComicBook.com | Status: expanded | Words: 552
 Published: 2026-11-26T22:59:02+00:00
 URL: https://comicbook.com/movies/news/doomsday-stars-breakdown-gambit-shang-chis-big-fight-and-why-it-works
@@ -1305,7 +1333,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[43] Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)
+[44] Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)
 Source: CinemaBlend | Status: expanded | Words: 271
 Published: 2026-11-26T22:45:00+00:00
 URL: https://www.cinemablend.com/movies/olivia-colman--wicker-vibrator-alexander-skarsgard-questions-oscars-buzz
@@ -1323,7 +1351,7 @@ I certainly didn’t see the wicker vibrator coming, but I do have questions. Na
 With a Wicker Oscars push, anything is possible. Honestly I'd be down for some Best Actor/Actress noms. Colman and Skarsgård are so good in the movie and when I saw it in a theater full of women , the crowd was rowdy and having fun with the premise, which was so cheeky and unexpected. Even the merch for this movie follows suit! I mean, the popcorn bucket needs its own intimacy coordinator !
 
 ============================================================
-[44] Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI's Lata Mangeshkar Talk
+[45] Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI's Lata Mangeshkar Talk
 Source: Variety | Status: expanded | Words: 527
 Published: 2026-11-26T22:34:41+00:00
 URL: https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192
@@ -1351,7 +1379,7 @@ Chithra sang snippets throughout, including songs from her own repertoire and nu
 The session ended with Chithra singing "Paadariyen" from "Sindhu Bhairavi" (1985), which won her the first of her six National Film Awards, as Suhasini, who starred in the film, joined her, lip-syncing.
 
 ============================================================
-[45] 5 Rebel and New Republic Starfighters That Will Blast Through Whatever the Bad Guys Throws at Them
+[46] 5 Rebel and New Republic Starfighters That Will Blast Through Whatever the Bad Guys Throws at Them
 Source: ComicBook.com | Status: expanded | Words: 1628
 Published: 2026-11-26T22:33:00+00:00
 URL: https://comicbook.com/movies/list/5-rebel-and-new-republic-starfighters-that-will-blast-through-whatever-the-bad-guys-throws-at-them
@@ -1391,7 +1419,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] 3 Absolute Masterpiece Anime of 2026 You Need to Watch Right Now
+[47] 3 Absolute Masterpiece Anime of 2026 You Need to Watch Right Now
 Source: ComicBook.com | Status: expanded | Words: 753
 Published: 2026-11-26T22:33:00+00:00
 URL: https://comicbook.com/anime/list/3-absolute-masterpiece-anime-of-2026-you-need-to-watch-right-now
@@ -1423,7 +1451,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Jesse Plemons on the ‘Honor’ of Playing Plutarch in 'The Hunger Games' After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character's Motivations
+[48] Jesse Plemons on the ‘Honor’ of Playing Plutarch in 'The Hunger Games' After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character's Motivations
 Source: Variety | Status: expanded | Words: 1768
 Published: 2026-11-26T22:30:37+00:00
 URL: https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335
@@ -1493,7 +1521,7 @@ Most definitely. I can't imagine where her mind will go next &#x2014; no one can
 This interview has been edited and condensed for length and clarity.
 
 ============================================================
-[48] Doomsday’s New Avengers Star Isn’t Sure How She Fits Into The Story Either: “No Clue Where I Will Be”
+[49] Doomsday’s New Avengers Star Isn’t Sure How She Fits Into The Story Either: “No Clue Where I Will Be”
 Source: ComicBook.com | Status: expanded | Words: 621
 Published: 2026-11-26T22:07:00+00:00
 URL: https://comicbook.com/movies/news/doomsdays-new-avengers-star-isnt-sure-how-she-fits-into-the-story-either-no-clue-where-i-will-be
@@ -1521,7 +1549,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[49] John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, "Oh My God, He’s the Devil"’
+[50] John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, "Oh My God, He’s the Devil"’
 Source: Variety | Status: expanded | Words: 931
 Published: 2026-11-26T22:05:47+00:00
 URL: https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137
@@ -1567,28 +1595,4 @@ In one telling revision, the film casts slain Dallas policeman J.D. Tippit, whos
 The distinction, he argues, is that no grand design is required. The CIA and organized crime had already worked together on plots to kill Fidel Castro, but that didn't mean anyone had to convene a committee to plan Kennedy's assassination.
 
 "It's not about control," Joff&#xE9; says. "It's about the fact that life is chaotic, and the killing of the President comes out of that. We made a film about chaos."
-
-============================================================
-[50] 'Hunger Games' Producer Regrets Splitting 'Mockingjay' As Fans Felt It Was A "Play To Make Them See Two Films Instead Of One"
-Source: Deadline | Status: expanded | Words: 432
-Published: 2026-11-26T22:00:14+00:00
-URL: https://deadline.com/2026/11/hunger-games-producer-regrets-splitting-mockingjay-1237233567
-------------------------------------------------------------
-SUMMARY:
-With the release of the prequel The Hunger Games: Sunrise on the Reaping, franchise producer Nina Jacobson regrets splitting the Mockingjay films into two parts. At the time, The Twilight Saga and Harry Potter split their grand finale into two films, and Lionsgate followed suit, breaking up the last Suzanne Collins book of the OG Hunger Games […]
-
-CONTENT / EXTRACTED DETAILS:
-With the release of the prequel The Hunger Games : Sunrise on the Reaping , franchise producer Nina Jacobson regrets splitting the Mockingjay films into two parts.
-
-At the time,&#xA0; The Twilight Saga &#xA0;and Harry Potter split their grand finale into two films, and Lionsgate followed suit, breaking up the last Suzanne Collins book of the OG Hunger Games trilogy into two films as well.
-
-"Even though I love the Mockingjay films, if I had it to do over again, I think both Francis [Lawrence, director] and I might try to do it all in one," she said in an interview with Empire .
-
-She continued, " Mockingjay was such a big book, and it takes you to so many different places. But in the end, I think that Francis and I both felt that splitting them up&#x2026; even if it did come from an inside-out place of really feeling like we needed two films to tell the story, I think audiences find it cynical. Even if its intentions are earnest, which they were. They feel like it's a play to make them see two films instead of one." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
-
-With Collins' two prequels like The Hunger Games: The Ballad of Songbirds and Snakes and Sunrise on the Reaping , producers have changed the way they adapt the books.
-
-"We really put the burden on ourselves [now], even when it's a big book, to transform it into a theatrical experience, to not take advantage of your audience&#x2019;s patience, to make it as tight as we can,&#x201D; Jacobson told the publication. "[ Sunrise On The Reaping ] is the longest by a minute or two of all of them."
-
-The Hunger Games: Sunrise on the Reaping &#xA0;sees Jennifer Lawrence, Josh Hutcherson, and Woody Harrelson return to their roles from the original trilogy. The film stars Joseph Zada playing a young Haymitch, and is joined by Mckenna Grace, Whitney Peak, Glenn Close (Drusilla), Ralph Finneas (President Snow), Billy Porter (Magno), Maya Hawke (Wiress), Elle Fanning (Effie), Percy Daggs IV (Ampert), Whitney Peak (Lenore Dove), Lili Taylor (Mags), Kiran Culkin (Caesar Flickerman), Kelvin Harrison Jr (Beetee), Jesse Plemons (Plutarch), Ben Wang (Wyatt), among others.
 
