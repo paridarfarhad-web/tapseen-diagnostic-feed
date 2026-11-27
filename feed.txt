@@ -1,9 +1,63 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-27T11:36:03.166Z
+Last Updated: 2026-11-27T11:44:05.220Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator 'Sat Down and Said He Missed His Mom'
+[1] Canal+ Sends Signal To African Creative Community With Academy Launch Backed By President Of South Africa
+Source: Deadline | Status: expanded | Words: 418
+Published: 2026-11-27T11:43:28+00:00
+URL: https://deadline.com/2026/11/canal-plus-academy-backed-south-africa-pres-cyril-ramaphosa-1237234238
+------------------------------------------------------------
+SUMMARY:
+The President of South Africa joined with Canal+ boss Maxime Saada today to launch a skills academy that Canal+ hopes will benefit 800 to 1,000 people in its first year. A year after Canal+ bought African pay-TV giant MultiChoice for $2B, Cyril Ramaphosa gave his backing to Canal+'s actions in South Africa. He spoke at […]
+
+CONTENT / EXTRACTED DETAILS:
+The President of South Africa joined with Canal+ boss Maxime Saada today to launch a skills academy that Canal+ hopes will benefit 800 to 1,000 people in its first year.
+
+A year after Canal+ bought African pay-TV giant MultiChoice for $2B , Cyril Ramaphosa gave his backing to Canal+'s actions in South Africa.
+
+He spoke at an event in Johannesburg where the Canal+ Academy was unveiled in South Africa.
+
+The academy combines Canal+'s pre-existing University model with the MultiChoice Talent Factory (MTF), which combined have trained around 10,500 people across the past eight years. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Canal+ "Making Progress" In Opposing French VAT Hike That It Says Would Force Subs Increases & Cuts News 'Shaka iLembe': First Look At Season 3 Of MIPCOM-Bound African Zulu King Drama
+
+The new Canal+ Academy programme is aiming to train between 800 and 1,000 in its first year and will retain the MTF as a development programme within. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Next year's progrmme will feature six intensive training courses and six open masterclasses across disciplines including acting, African series production, AI, digital filmmaking and sports video journalism.
+
+"Africa has no shortage of talent or stories," said Canal+ Africa CSR director Grace Loubassou. "What we need to keep building are the skills, opportunities and capabilities that allow that talent to flourish. Through Canal+ Academy, we are investing not only in people, but in the future of Africa's creative industries. Strong creative industries create jobs, attract investment, strengthen local production ecosystems and help African stories travel beyond borders."
+
+Canal+ will be hoping today's annoucement paired with Ramaphosa's appearance will send a strong signal to the African creative community.
+
+When Canal+ bought MultiChoice last year, Saada said the new powerhouse would "double down" on local content made with big budgets like hit period drama Shaka iLembe , but the signals since have been mixed. Soon after the deal closed, Canal+ shuttered loss-making African streamer Showmax and it has frequently talked up synergies in the region , which total &#x20AC;250M and are well on the way to being achieved, according to Saada several months ago.
+
+============================================================
+[2] South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: 'You Are Living My Dream'
+Source: Variety | Status: expanded | Words: 446
+Published: 2026-11-27T11:36:44+00:00
+URL: https://variety.com/2026/tv/global/south-african-president-canal-plus-academy-training-program-1236959278
+------------------------------------------------------------
+SUMMARY:
+South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group’s Canal+ Academy at MultiChoice City in Johannesburg. The new pan-African initiative will expand training and professional development opportunities for local aspiring professionals in the creative industries. The momentous event — which saw South Africa's leader, Canal+ CEO Maxime Saada […]
+
+CONTENT / EXTRACTED DETAILS:
+South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group&#x2019;s Canal+ Academy at MultiChoice City in Johannesburg. The new pan-African initiative will expand training and professional development opportunities for local aspiring professionals in the creative industries.
+
+The momentous event &#x2014; which saw South Africa 's leader, Canal+ CEO Maxime Saada and other top level executives delivering passionate speeches on the podium &#x2014; comes after the company's $2 billion takeover last year of South African pay TV company MultiChoice, which has made Canal+ the dominant player in Africa&#x2019;s fast-growing pay TV market. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Netflix’s Genre-Bending YA Drama ‘The Body’ Is a Queer Y2K Extravaganza: TV Review Anthony Mackie and Jamie Dornan’s Heist Drama '12 12 12' Feels Like a Bad Video Game: TV Review
+
+Ramaphosa praised Canal+&#x2019;s investment in MultiChoice and its decision to make the country an African media market hub, while also lauding the academy as a way to build Africa's film and TV industry and expand opportunities for young people.
+
+"Today, we are celebrating a significant moment in the country's broadcasting and creative industries," Ramaphosa said, adding: "I am very envious, because in my private life I've often said that one day I'd like to produce a movie."
+
+He quipped, "What I'm doing currently, it's OK. But now, you are living my dream."
+
+South Africa is becoming the first market to introduce the Canal + Academy model. The program, which incorporates the existing MultiChoice Talent Factory, aims to reach between 800 and 1,000 beneficiaries during its first 12 months.
+
+"For Canal+, Africa lies at the very heart of our strategy," said Saada, noting that: "Today, we are a bi-continental group as deeply African as we are European." He went on to proudly point out that the company behind &#x201C;Paddington&#x201D; is the only entertainment group listed on the Johannesburg Stock Exchange and underlined that "Canal+ Academy is a testament to this faith in Africa." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+Saada then provided President Ramaphosa and the packed MultiChoice City auditorium a sneak peak of upcoming South Africa-set StudioCanal movie "The Road Home." Directed by Bill Condon, it stars Cynthia Erivo, South Africa's Thabo Rametsi (who plays exiled trumpeter Hugh Masekela) and Guy Pearce. The film tells the story of how Paul Simon and numerous South African artists navigated anti-apartheid boycotts to create the Graceland band and one of the bestselling albums &#x2014; and most politically significant tours &#x2014; of the 1980s.
+
+============================================================
+[3] Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator 'Sat Down and Said He Missed His Mom'
 Source: Variety | Status: expanded | Words: 967
 Published: 2026-11-27T11:34:55+00:00
 URL: https://variety.com/2026/film/global/luc-besson-terminator-1236959275
@@ -57,7 +111,7 @@ Reportedly working on a new sci-fi project , Besson still advocates the kind of 
 &#x201C;Imagination is a muscle: the more you train it, the stronger it gets. It lets you explore worlds that don&#x2019;t exist, which is wonderful, because what does exist isn&#x2019;t that great. Especially right now.&#x201D;
 
 ============================================================
-[2] How To Watch The Mandy Who Knew Too Much Online And Stream Mandy Christmas Special From Anywhere
+[4] How To Watch The Mandy Who Knew Too Much Online And Stream Mandy Christmas Special From Anywhere
 Source: CinemaBlend | Status: expanded | Words: 319
 Published: 2026-11-27T11:20:00+00:00
 URL: https://www.cinemablend.com/streaming-news/how-to-watch-the-mandy-who-knew-too-much-online-and-stream-diane-morgan-christmas-special-from-anywhere
@@ -87,7 +141,7 @@ The BBC are giving a whole host of their 2026 Christmas specials an early stream
 If you're a Brit away from home concerned about missing out on all the festive content, worry not, as a VPN will let you access your usual iPlayer FREE stream from anywhere.
 
 ============================================================
-[3] DC Studios' Justice League Mandate From Skydance Is the Same Thing That Killed the DCEU
+[5] DC Studios' Justice League Mandate From Skydance Is the Same Thing That Killed the DCEU
 Source: ComicBook.com | Status: expanded | Words: 882
 Published: 2026-11-27T11:18:00+00:00
 URL: https://comicbook.com/movies/feature/dc-studios-justice-league-mandate-from-skydance-is-the-same-thing-that-killed-the-dceu
@@ -119,7 +173,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] Gen Z Filmmakers Launch LA-Based Microseries App Pocket Cinema With Eye On International Growth
+[6] Gen Z Filmmakers Launch LA-Based Microseries App Pocket Cinema With Eye On International Growth
 Source: Deadline | Status: expanded | Words: 523
 Published: 2026-11-27T11:05:59+00:00
 URL: https://deadline.com/2026/11/gen-z-filmmakers-launch-la-microseries-app-pocket-cinema-1237234224
@@ -147,7 +201,7 @@ The duo are now in talks with producer David Yol's Geneva and Paris-based Denan 
 Egorova expanded: "Having studied cinema at Universit&#xE9; Gustave Eiffel and Paris 8 before moving to LA, I&#x2019;m particularly interested in building a production bridge between France and the U.S., and involving emerging French filmmakers. Our production plans in France and Brazil are the next steps in our vision, aiming to produce series simultaneously across countries through local creative partnerships."
 
 ============================================================
-[5] 'Dangal' Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass
+[7] 'Dangal' Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass
 Source: Variety | Status: expanded | Words: 676
 Published: 2026-11-27T11:03:53+00:00
 URL: https://variety.com/2026/film/festivals/dangal-casting-director-mukesh-chhabra-14000-auditions-1236959312
@@ -183,7 +237,7 @@ He urged actors to stay curious about the world around them. "Read people. Talk 
 Questions about nepotism and the casting couch brought some humor into the discussion. Chhabra said he had rejected several star kids. "Whether you are a star kid or not a star kid, ultimately you have to act," he said. Asked about the casting couch, he pointed to his seat on stage. "This is the only couch I like. I'm sitting on it."
 
 ============================================================
-[6] Barun Sobti, Abhishek Banerjee Star as 'Paatal Lok' Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix's IFFI Selection 'Pushpak Vimaan'
+[8] Barun Sobti, Abhishek Banerjee Star as 'Paatal Lok' Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix's IFFI Selection 'Pushpak Vimaan'
 Source: Variety | Status: expanded | Words: 608
 Published: 2026-11-27T10:52:10+00:00
 URL: https://variety.com/2026/tv/festivals/barun-sobti-abhishek-banerjee-netflix-comedy-pushpak-vimaan-1236959303
@@ -211,7 +265,7 @@ When Sobti asked how to approach Bhupi, "'Just be yourself,' he told me," Sobti 
 Sharma describes the Pushpak Vimaan, the flying chariot of the Hindu epic the "Ramayana," as "that mythical vehicle that can take us from the mess that we are into a place that we want to be in." His characters, he says, are "all wanting to get away from the morass that they think their life is in, and going for this pot of gold."
 
 ============================================================
-[7] The Best Gifts for Gamers in 2026: Consoles, Headsets and the Year's Buzziest Releases
+[9] The Best Gifts for Gamers in 2026: Consoles, Headsets and the Year's Buzziest Releases
 Source: Variety | Status: expanded | Words: 1286
 Published: 2026-11-27T10:49:55+00:00
 URL: https://variety.com/2026/shopping/news/best-gifts-for-gamers-video-games-consoles-2026-1236953773
@@ -257,7 +311,7 @@ For the &#x201C;Grand Theft Auto&#x201D; fan who can&#x2019;t get enough of its 
 For gamers who like to talk to their friends while playing &#x2014; or just like to soak up the sound with a good pair of headphones &#x2014; the HyperX Cloud III is the solid, budget-friendly pick. They&#x2019;re wired, which means no batteries are necessary, and it plugs into every console. And controls sit on the ear cup for easy volume and mic modification.
 
 ============================================================
-[8] 5 Classic Movies That Would Be Completely Different If Smartphones Existed and Changed the Plot
+[10] 5 Classic Movies That Would Be Completely Different If Smartphones Existed and Changed the Plot
 Source: ComicBook.com | Status: expanded | Words: 1403
 Published: 2026-11-27T10:36:00+00:00
 URL: https://comicbook.com/movies/list/5-classic-movies-that-would-be-completely-different-if-smartphones-existed-and-changed-the-plot
@@ -297,7 +351,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[9] Justin Timberlake Was 'Really Reluctant' to Make Tell-All Documentary: 'I've Gone Through a Lot in the Last Five Years'
+[11] Justin Timberlake Was 'Really Reluctant' to Make Tell-All Documentary: 'I've Gone Through a Lot in the Last Five Years'
 Source: Variety | Status: expanded | Words: 565
 Published: 2026-11-27T10:27:50+00:00
 URL: https://variety.com/2026/music/news/justin-timberlake-reluctant-doc-big-revelations-1236959282
@@ -323,7 +377,7 @@ Though Timberlake didn't detail the documentary's revelations, he has kept a rel
 Elsewhere during Timberlake's time on "The Tonight Show," he and Fallon revisited their viral 2012 "History of Rap" video by performing a "History of Party Songs," which included "I Want It That Way" by NSYNC's old rivals the Backstreet Boys. Watch the full video below.
 
 ============================================================
-[10] Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’
+[12] Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’
 Source: Variety | Status: expanded | Words: 648
 Published: 2026-11-27T10:21:30+00:00
 URL: https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030
@@ -363,7 +417,7 @@ There&#x2019;s just one thing he asks for as an actor: his characters need to ev
 He said: &#x201C;I find it moving when I see characters who are in pursuit of that. In pursuit of change or growth in some way. And that&#x2019;s the kind of thing that, again, can happen across any genre.&#x201D;
 
 ============================================================
-[11] Marvel’s First Movie Ever Remains Its Strangest, But 40 Years Later It Deserves an MCU Reboot
+[13] Marvel’s First Movie Ever Remains Its Strangest, But 40 Years Later It Deserves an MCU Reboot
 Source: ComicBook.com | Status: expanded | Words: 757
 Published: 2026-11-27T09:56:00+00:00
 URL: https://comicbook.com/movies/feature/marvels-first-movie-ever-remains-its-strangest-but-40-years-later-it-deserves-an-mcu-reboot
@@ -393,7 +447,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[12] Northern Ireland Screen Appoints New Chief Executive
+[14] Northern Ireland Screen Appoints New Chief Executive
 Source: Deadline | Status: expanded | Words: 458
 Published: 2026-11-27T09:41:45+00:00
 URL: https://deadline.com/2026/11/northern-ireland-screen-appoints-new-chief-executive-1237234222
@@ -417,7 +471,7 @@ She continued: &#x201C;Having worked internationally for many years, I am incred
 Sir David Sterling, Chair of Northern Ireland Screen, added : &#x201C;On behalf of Northern Ireland Screen, I warmly welcome Laura as our new Chief Executive. Laura brings with her a wealth of experience in the screen industry and her expertise will guide Northern Ireland Screen into its next chapter. I would also like to express our sincere gratitude to our outgoing CEO, Richard Williams, for his exceptional leadership of Northern Ireland Screen and more than 23 years of dedicated service to the organisation.&#x201D;
 
 ============================================================
-[13] RECLab 2026: New Films From ‘Alcarràs,’ ‘Romería’ Producers Bound for a Key New Spanish Talent Forum
+[15] RECLab 2026: New Films From ‘Alcarràs,’ ‘Romería’ Producers Bound for a Key New Spanish Talent Forum
 Source: Variety | Status: expanded | Words: 1374
 Published: 2026-11-27T09:20:15+00:00
 URL: https://variety.com/2026/film/global/reclab-2026-new-films-from-alcarras-romeria-producers-1236959234
@@ -491,7 +545,7 @@ Starring Quim Avila (&#x201C;Ravalear&#x201D;) , f rom Mireia Graell Vivancos&#x
 After their mother&#x2019;s death, Cecilia and Juliana, 19-year-old twins, travel for Christmas to Colombia, where they were born but barely remember. Cecilia delves into their father&#x2019;s past and Juliana struggles to understand her own present. Born by Alegre&#x2019;s &#x201C;personal journey to reconstruct her mother&#x2019;s and aunt&#x2019;s story, exploring how we build bonds with people we have never met and the silences that shape our identities,&#x201D; says producer Angels Masclans .
 
 ============================================================
-[14] 'High Fidelity' Director Stephen Frears Still Teases Jack Black: 'I Told Him, You Owe All This to Me!'
+[16] 'High Fidelity' Director Stephen Frears Still Teases Jack Black: 'I Told Him, You Owe All This to Me!'
 Source: Variety | Status: expanded | Words: 849
 Published: 2026-11-27T09:20:00+00:00
 URL: https://variety.com/2026/film/festivals/high-fidelity-stephen-frears-jack-black-brexit-cannes-1236959203
@@ -533,7 +587,7 @@ Frears also peeled back the curtain onto that year's jury deliberations, which f
 He adds: "But I said, 'This is the film that people all over the world will actually go see!'"
 
 ============================================================
-[15] 4 Hit TV Shows from the 2010s That Wouldn't Work Today (&#038; 1 Is Still Airing Despite the Backlash)
+[17] 4 Hit TV Shows from the 2010s That Wouldn't Work Today (&#038; 1 Is Still Airing Despite the Backlash)
 Source: ComicBook.com | Status: expanded | Words: 1223
 Published: 2026-11-27T09:14:00+00:00
 URL: https://comicbook.com/tv-shows/list/4-hit-tv-shows-from-the-2010s-that-wouldnt-work-today-1-is-still-airing-despite-the-backlash
@@ -567,7 +621,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Mike Leigh Reminds The World Why He Doesn't Work With Hollywood Stars
+[18] Mike Leigh Reminds The World Why He Doesn't Work With Hollywood Stars
 Source: Deadline | Status: expanded | Words: 520
 Published: 2026-11-27T09:10:01+00:00
 URL: https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216
@@ -597,7 +651,7 @@ He insisted he isn't retiring and instead will "sit down and write something."
 Check out Leigh and his stars' Deadline Contenders interview from last month here.
 
 ============================================================
-[17] 20 Years Later, Heroes' Biggest Villain Is Still One of TV's Best
+[19] 20 Years Later, Heroes' Biggest Villain Is Still One of TV's Best
 Source: ComicBook.com | Status: expanded | Words: 808
 Published: 2026-11-27T08:34:00+00:00
 URL: https://comicbook.com/tv-shows/feature/20-years-later-heroes-biggest-villain-is-still-one-of-tvs-best
@@ -623,7 +677,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] New Doomsday Teaser Sends Cillian Murphy is Doctor Doom Theory Into Overdrive
+[20] New Doomsday Teaser Sends Cillian Murphy is Doctor Doom Theory Into Overdrive
 Source: ComicBook.com | Status: expanded | Words: 627
 Published: 2026-11-27T05:56:13+00:00
 URL: https://comicbook.com/movies/news/new-doomsday-teaser-sends-cillian-murphy-is-doctor-doom-theory-into-overdrive
@@ -653,7 +707,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Candace Cameron Bure Says She Gets "Substantial" Residuals From 'Full House'
+[21] Candace Cameron Bure Says She Gets "Substantial" Residuals From 'Full House'
 Source: The Hollywood Reporter | Status: expanded | Words: 528
 Published: 2026-11-27T05:05:08+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049
@@ -683,7 +737,7 @@ Elsewhere on the podcast, Bure also addressed the Olsen twins' decision not to a
 "Not because anything went wrong or there was any bad blood. I just think they were kids. They were [filming from] 9 months old until they were 8 years old. They have very different memories than we do. Even me being 10 years older than them, I have significant, great, wonderful memories," she continued. "They were babies. They probably don&#x2019;t even remember half the stuff [we do]. They didn&#x2019;t have the attachment to the crew and the people like we did being older. And they had such a successful fashion business. They haven&#x2019;t been actors for a long time. They just haven&#x2019;t been in that part of entertainment.&#x201D;
 
 ============================================================
-[20] George Lucas' Original Star Wars Sequel Plans Were Hated So Much By Disney Boss, He Changed the Lucasfilm Deal
+[22] George Lucas' Original Star Wars Sequel Plans Were Hated So Much By Disney Boss, He Changed the Lucasfilm Deal
 Source: ComicBook.com | Status: expanded | Words: 607
 Published: 2026-11-27T04:55:22+00:00
 URL: https://comicbook.com/starwars/news/george-lucas-original-star-wars-sequel-plans-were-hated-so-much-by-disney-boss-he-changed-the-lucasfilm-deal
@@ -713,7 +767,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[21] Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar's T-Series (EXCLUSIVE)
+[23] Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar's T-Series (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 362
 Published: 2026-11-27T04:30:00+00:00
 URL: https://variety.com/2026/film/news/laxman-utekar-rajkumar-periasamy-vishnuvardhan-films-tseries-1236958689
@@ -739,7 +793,7 @@ In the south, T-Series is presenting Hanu Raghavapudi's "Fauzi," which gives Pra
 In all, the slate takes in action, romance, period drama and mythology, and spans both the Bollywood and South Indian industries.
 
 ============================================================
-[22] Phantom Blade Zero's Sequel Needs to Give Players More Main Weapons and Fewer Phantom Edges
+[24] Phantom Blade Zero's Sequel Needs to Give Players More Main Weapons and Fewer Phantom Edges
 Source: ComicBook.com | Status: expanded | Words: 978
 Published: 2026-11-27T04:21:07+00:00
 URL: https://comicbook.com/gaming/feature/phantom-blade-zeros-sequel-needs-to-give-players-more-main-weapons-and-fewer-phantom-edges
@@ -771,7 +825,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[23] A Fantasy Epic Just Confirmed Its 2027 Launch &#038; Anime Fans Should Take Notice
+[25] A Fantasy Epic Just Confirmed Its 2027 Launch &#038; Anime Fans Should Take Notice
 Source: ComicBook.com | Status: expanded | Words: 600
 Published: 2026-11-27T03:52:00+00:00
 URL: https://comicbook.com/anime/news/a-fantasy-epic-just-confirmed-its-2027-launch-anime-fans-should-take-notice
@@ -797,7 +851,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] One of the Best Stephen King Adaptations is Leaving Netflix Sooner Than You Think
+[26] One of the Best Stephen King Adaptations is Leaving Netflix Sooner Than You Think
 Source: ComicBook.com | Status: expanded | Words: 560
 Published: 2026-11-27T03:41:00+00:00
 URL: https://comicbook.com/tv-shows/news/one-of-the-best-stephen-king-adaptations-is-leaving-netflix-sooner-than-you-think
@@ -823,7 +877,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] Demon Slayer Will Never Top Its Biggest Hashira Fight
+[27] Demon Slayer Will Never Top Its Biggest Hashira Fight
 Source: ComicBook.com | Status: expanded | Words: 887
 Published: 2026-11-27T03:33:00+00:00
 URL: https://comicbook.com/anime/feature/demon-slayer-will-never-top-its-biggest-hashira-fight
@@ -855,7 +909,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] 5 Great Shonen Jump Manga Ended in 2026
+[28] 5 Great Shonen Jump Manga Ended in 2026
 Source: ComicBook.com | Status: expanded | Words: 1107
 Published: 2026-11-27T03:08:15+00:00
 URL: https://comicbook.com/anime/list/5-great-shonen-jump-manga-ended-in-2026
@@ -895,7 +949,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] New Dragon Ball Super Remake Is Hurting the Anime More Than Helping
+[29] New Dragon Ball Super Remake Is Hurting the Anime More Than Helping
 Source: ComicBook.com | Status: expanded | Words: 920
 Published: 2026-11-27T02:44:35+00:00
 URL: https://comicbook.com/anime/feature/new-dragon-ball-super-remake-is-hurting-the-anime-more-than-helping
@@ -927,7 +981,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] You Can Get Your Hands on Margot Robbie's Harley Quinn Baseball Bat for a Price That Is No Laughing Matter
+[30] You Can Get Your Hands on Margot Robbie's Harley Quinn Baseball Bat for a Price That Is No Laughing Matter
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-27T02:44:00+00:00
 URL: https://comicbook.com/collectibles/news/you-can-get-your-hands-on-margot-robbies-harley-quinn-baseball-bat-for-a-price-that-is-no-laughing-matter
@@ -947,7 +1001,7 @@ Regardless of Robbie's future as the character, her performance as Harley Quinn 
 What piece of DC memorabilia would you love to own? Let us know in the comments.
 
 ============================================================
-[29] Julianne Hough's Stylist Addresses Fan Backlash To Her 'Dancing With the Stars' Wardrobe This Season
+[31] Julianne Hough's Stylist Addresses Fan Backlash To Her 'Dancing With the Stars' Wardrobe This Season
 Source: Deadline | Status: expanded | Words: 431
 Published: 2026-11-27T02:34:52+00:00
 URL: https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193
@@ -973,7 +1027,7 @@ For his part, Goreski welcomes the feedback.
 Hough, who previously competed and judged on the show, started co-hosting DWTS in the fall of 2023. She and Ribeiro just finished emceeing a successful and very emotional season of the ABC variety show; the Nov. 24 finale scored 9.2 million total live + same-day viewers across ABC and Disney+, making it the most-watched episode of the season.
 
 ============================================================
-[30] Ridley Scott's 10-Year-Old $630M Sci-Fi Masterpiece Is About to Land on a New Streaming Home in December
+[32] Ridley Scott's 10-Year-Old $630M Sci-Fi Masterpiece Is About to Land on a New Streaming Home in December
 Source: ComicBook.com | Status: expanded | Words: 699
 Published: 2026-11-27T02:30:00+00:00
 URL: https://comicbook.com/movies/news/ridley-scotts-10-year-old-630m-sci-fi-masterpiece-is-about-to-land-on-a-new-streaming-home-in-december
@@ -997,7 +1051,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[31] Recasting the Original Pretty in Pink for 2026
+[33] Recasting the Original Pretty in Pink for 2026
 Source: ComicBook.com | Status: expanded | Words: 1090
 Published: 2026-11-27T02:01:00+00:00
 URL: https://comicbook.com/movies/list/recasting-the-original-pretty-in-pink-for-2026
@@ -1035,7 +1089,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Melissa Gilbert Expresses "Undying Gratitude" After Timothy Busfield's Child Sex Abuse Case Dismissed
+[34] Melissa Gilbert Expresses "Undying Gratitude" After Timothy Busfield's Child Sex Abuse Case Dismissed
 Source: The Hollywood Reporter | Status: expanded | Words: 345
 Published: 2026-11-27T01:57:32+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064
@@ -1057,7 +1111,7 @@ He had been accused of child sex abuse on the set of the former Fox/Warner Bros.
 Throughout the proceedings, Gilbert defended Busfield , who denied the allegations. She told ABC&#x2019;s George Stephanopoulos in April 2026, &#x201C;For Tim, it&#x2019;s done. He&#x2019;s canceled. Even if he&#x2019;s exonerated, he will always be that guy, the last person in the world who would hurt a child. And believe me, if I thought for a second that Tim Busfield hurt a child, he&#x2019;d have a lot more to worry about than prison."
 
 ============================================================
-[33] Melissa Gilbert Gives Thanks To Those Who "Spoke Up, Testified" In Support Of Husband Timothy Busfield
+[35] Melissa Gilbert Gives Thanks To Those Who "Spoke Up, Testified" In Support Of Husband Timothy Busfield
 Source: Deadline | Status: expanded | Words: 419
 Published: 2026-11-27T01:32:36+00:00
 URL: https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187
@@ -1077,7 +1131,7 @@ The charges were tossed last month after the &#x201C;prosecuting attorney failed
 Montano gave prosecutors the option to &#x201C;institute new criminal proceedings&#x201D; against Busfield; each count in the tossed indictment carried a maximum sentence of six years behind bars.
 
 ============================================================
-[34] Marvel Introduced the Hippest Mutants Ever in the Early '80s (and It's Long Past Time the MCU Made Them Superstars)
+[36] Marvel Introduced the Hippest Mutants Ever in the Early '80s (and It's Long Past Time the MCU Made Them Superstars)
 Source: ComicBook.com | Status: expanded | Words: 1207
 Published: 2026-11-27T01:21:00+00:00
 URL: https://comicbook.com/comics/feature/marvel-introduced-the-hippest-mutants-ever-in-the-early-80s-and-its-long-past-time-the-mcu-made-them-superstars
@@ -1115,7 +1169,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[35] Avatar: The Last Airbender Creator Breaks Silence on Future Projects: "I'm Working on Something You Don't Really Want"
+[37] Avatar: The Last Airbender Creator Breaks Silence on Future Projects: "I'm Working on Something You Don't Really Want"
 Source: ComicBook.com | Status: expanded | Words: 774
 Published: 2026-11-27T01:18:38+00:00
 URL: https://comicbook.com/anime/news/avatar-the-last-airbender-creator-breaks-silence-on-future-projects-im-working-on-something-you-dont-really-want
@@ -1147,7 +1201,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[36] Chris Hemsworth's 95-Minute R-Rated Meta Horror Movie Is One of the Most Creative Ever Made - and You Are Running Out of Time to Watch It
+[38] Chris Hemsworth's 95-Minute R-Rated Meta Horror Movie Is One of the Most Creative Ever Made - and You Are Running Out of Time to Watch It
 Source: ComicBook.com | Status: expanded | Words: 718
 Published: 2026-11-27T01:00:00+00:00
 URL: https://comicbook.com/movies/news/chris-hemsworths-95-minute-r-rated-meta-horror-movie-is-one-of-the-most-creative-ever-made-and-you-are-running-out-of-time-to-watch-it
@@ -1171,7 +1225,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] ‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen
+[39] ‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen
 Source: Variety | Status: expanded | Words: 1820
 Published: 2026-11-27T01:00:00+00:00
 URL: https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380
@@ -1235,7 +1289,7 @@ That was probably one of my favorite sets and sequences in the series. I just lo
 This interview has been edited and condensed.
 
 ============================================================
-[38] 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together
+[40] 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together
 Source: The Playlist | Status: summary_only | Words: 116
 Published: 2026-11-27T00:51:34+00:00
 URL: https://theplaylist.net/essential-thanksgiving-movies-dysfunctional-families-disastrous-dinners-20261126
@@ -1247,7 +1301,7 @@ CONTENT / EXTRACTED DETAILS:
 Ah, Thanksgiving. That wonderful American tradition of gathering around a table, expressing feigned gratitude, and collectively agreeing not to examine the details of our history too closely. Nothing says national unity quite like a heavily sanitized account of colonialism served alongside mashed potatoes. But why stop at historical denialism when there are so many other uncomfortable subjects to explore? Go ahead, poke your magnificently out-of-touch uncle about his worldview, ask your parents why they never went to therapy, or casually introduce the subject of generational wealth—or, better yet, the elaborate rationalizations for stealing someone else’s land. Continue reading 20 Essential Thanksgiving Movies: Dysfunctional Families, Disastrous Dinners &#038; The Beautiful Chaos Of Getting Together at The Playlist.
 
 ============================================================
-[39] Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time
+[41] Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time
 Source: CinemaBlend | Status: expanded | Words: 464
 Published: 2026-11-27T00:45:00+00:00
 URL: https://www.cinemablend.com/movies/elf-holiday-classic-now-andy-richter-jon-favreau-admits-risky-business-movie-release
@@ -1269,7 +1323,7 @@ I think that's a pretty accurate assessment. Ferrell gets to be completely absur
 More than two decades later, it's difficult to imagine the holiday season without Buddy the Elf. The movie remains a favorite among families, and people are still finding new things to appreciate about it, including one particularly interesting question about Buddy's journey from the North Pole to New York City.
 
 ============================================================
-[40] Spider-Man: No Way Home Already Revealed the Perfect Way for Marvel to Bring Back This Legacy Character
+[42] Spider-Man: No Way Home Already Revealed the Perfect Way for Marvel to Bring Back This Legacy Character
 Source: ComicBook.com | Status: expanded | Words: 767
 Published: 2026-11-27T00:38:00+00:00
 URL: https://comicbook.com/movies/feature/spider-man-no-way-home-already-revealed-the-perfect-way-for-marvel-to-bring-back-this-legacy-character
@@ -1299,7 +1353,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] Gerald R. Molen Dies: Oscar-Winning 'Schindler's List' Producer Was 91
+[43] Gerald R. Molen Dies: Oscar-Winning 'Schindler's List' Producer Was 91
 Source: Deadline | Status: expanded | Words: 502
 Published: 2026-11-27T00:33:50+00:00
 URL: https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182
@@ -1321,7 +1375,7 @@ Born Jan. 6, 1935 in Great Falls, Montana, Gerald Robert Molen grew up in North 
 In 1985, Molen began working with Spielberg as a unit production manager on The Color Purple , before going on to produce his movies Hook (1991), Jurassic Park (1993) and Schindler's List (1993), which earned them the Best Picture Oscar. They also worked together on The Lost World: Jurassic Park (1997), Amistad (1997), Minority Report (2002) and Catch Me If You Can (2002).
 
 ============================================================
-[42] This Classic Spider-Man Villain Recently Made His Live Action Debut, But His First Appearance Comic Released Over 60 Years Ago
+[44] This Classic Spider-Man Villain Recently Made His Live Action Debut, But His First Appearance Comic Released Over 60 Years Ago
 Source: ComicBook.com | Status: expanded | Words: 548
 Published: 2026-11-26T23:57:00+00:00
 URL: https://comicbook.com/collectibles/news/this-classic-spider-man-villain-recently-made-his-live-action-debut-but-his-first-appearance-comic-released-over-60-years-ago
@@ -1341,7 +1395,7 @@ With Scorpion finally making his live action first appearance, we've finally see
 Do you think the wait for Scorpion's live action appearance was worth it? Let us know in the comments.
 
 ============================================================
-[43] 'Percy Jackson's Courtney B. Vance On "Doing Right By" Late Lance Reddick After Taking Over Zeus Role
+[45] 'Percy Jackson's Courtney B. Vance On "Doing Right By" Late Lance Reddick After Taking Over Zeus Role
 Source: Deadline | Status: expanded | Words: 422
 Published: 2026-11-26T23:33:41+00:00
 URL: https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178
@@ -1367,7 +1421,7 @@ With new episodes available to stream Fridays on Disney+, Season 3 of Percy Jack
 If Percy Jackson (Walker Scobell) learned anything after completing two epic quests with Annabeth Chase (Leah Sava Jeffries), it&#x2019;s that he would be lost without her. So when Annabeth is captured by the forces of Kronos, Percy must embark on a perilous journey to rescue her. He must free a goddess in chains, confront the Titan's curse, and avoid triggering the fall of Olympus. With Grover (Aryan Simhadri) by his side, Percy must join some unlikely questmates to confront a prophecy with dire consequences.
 
 ============================================================
-[44] Gerald R. Molen, Oscar-Winning ‘Schindler’s List' Producer, Dies at 91
+[46] Gerald R. Molen, Oscar-Winning ‘Schindler’s List' Producer, Dies at 91
 Source: Variety | Status: expanded | Words: 367
 Published: 2026-11-26T23:33:00+00:00
 URL: https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200
@@ -1393,7 +1447,7 @@ Born in Montana in 1935, Molen moved to North Hollywood in 1947. His parents, Ge
 Molen&#x2019;s wife of almost 70 years, Pat, died in January 2024 at 86 years old.
 
 ============================================================
-[45] Everyone Forgets About Spider-Man’s Original Superhero Roommate, but He Helped Debut an Iconic X-Men Villain
+[47] Everyone Forgets About Spider-Man’s Original Superhero Roommate, but He Helped Debut an Iconic X-Men Villain
 Source: ComicBook.com | Status: expanded | Words: 851
 Published: 2026-11-26T23:15:00+00:00
 URL: https://comicbook.com/comics/feature/everyone-forgets-about-spider-mans-original-superhero-roommate-but-he-helped-debut-an-iconic-x-men-villain
@@ -1423,7 +1477,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] Doomsday Stars Breakdown Gambit &#038; Shang-Chi's Big Fight, And Why It Works
+[48] Doomsday Stars Breakdown Gambit &#038; Shang-Chi's Big Fight, And Why It Works
 Source: ComicBook.com | Status: expanded | Words: 552
 Published: 2026-11-26T22:59:02+00:00
 URL: https://comicbook.com/movies/news/doomsday-stars-breakdown-gambit-shang-chis-big-fight-and-why-it-works
@@ -1449,7 +1503,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)
+[49] Olivia Colman’s Carrying Around A Wicker Penis (And I Wonder If Alexander Skarsgård Knows)
 Source: CinemaBlend | Status: expanded | Words: 271
 Published: 2026-11-26T22:45:00+00:00
 URL: https://www.cinemablend.com/movies/olivia-colman--wicker-vibrator-alexander-skarsgard-questions-oscars-buzz
@@ -1467,7 +1521,7 @@ I certainly didn’t see the wicker vibrator coming, but I do have questions. Na
 With a Wicker Oscars push, anything is possible. Honestly I'd be down for some Best Actor/Actress noms. Colman and Skarsgård are so good in the movie and when I saw it in a theater full of women , the crowd was rowdy and having fun with the premise, which was so cheeky and unexpected. Even the merch for this movie follows suit! I mean, the popcorn bucket needs its own intimacy coordinator !
 
 ============================================================
-[48] Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI's Lata Mangeshkar Talk
+[50] Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI's Lata Mangeshkar Talk
 Source: Variety | Status: expanded | Words: 527
 Published: 2026-11-26T22:34:41+00:00
 URL: https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192
@@ -1493,76 +1547,4 @@ The session also touched on the demands of recording and on recognizing one's vo
 Chithra sang snippets throughout, including songs from her own repertoire and numbers popularized by Janaki and Bhosle. In a closing quiz, film clips were played without their background scores and Chithra was asked to identify each song by singing it. She identified all five.
 
 The session ended with Chithra singing "Paadariyen" from "Sindhu Bhairavi" (1985), which won her the first of her six National Film Awards, as Suhasini, who starred in the film, joined her, lip-syncing.
-
-============================================================
-[49] 5 Rebel and New Republic Starfighters That Will Blast Through Whatever the Bad Guys Throws at Them
-Source: ComicBook.com | Status: expanded | Words: 1628
-Published: 2026-11-26T22:33:00+00:00
-URL: https://comicbook.com/movies/list/5-rebel-and-new-republic-starfighters-that-will-blast-through-whatever-the-bad-guys-throws-at-them
-------------------------------------------------------------
-SUMMARY:
-Image Courtesy of Lucasfilm Star Wars made a huge splash when it premiered in 1977, entrancing a whole generation. There are numerous reasons for this – interesting characters, a familiar yet also strangely fresh setting, and "lived-in" feel that made it different from other sci-fi. It was this tech that played a big role in the popularity, especially the […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Star Wars made a huge splash when it premiered in 1977, entrancing a whole generation. There are numerous reasons for this – interesting characters, a familiar yet also strangely fresh setting, and "lived-in" feel that made it different from other sci-fi. It was this tech that played a big role in the popularity, especially the ships and vehicles of the Rebel Alliance. Now, there was a pragmatic reason why all of these designs were so cool – Lucas kept the merchandising rights and nothing else at first, so he made sure that there were a lot of toys to sell, making enough money to buy back the rest of the rights to his work – with the wizards of Industrial Light and Magic making some of the coolest sci-fi designs ever.
-
-While the Empire was defined by their massive warships and clouds of TIE Fighters, the Rebels had a more DIY, small scale aesthetic, with their more powerful, better designed fighters allowing them to even up the odds. When the Alliance finally won, the New Republic would take their place in both canon and Star Wars Legends , introducing numerous new fighter designs to defend the galaxy. These 5 Rebel/New Republic fighters, from both canon and Legends, are the best of the best, bringing their pilots home against the worst odds.
-
-Star Wars has some of the most lethal fighters in sci-fi, but there's one that doesn't get nearly enough respect. In fact, it has often got the exact opposite of respect from most, partly because it looks like a wreck (I remember when Luke said in Star Wars: Rogue Squadron for N64 that it handles like a sleepy Hutt). The Y-Wing has a terrible reputation with fans who have only watched the movies, but for those who have moved beyond them, the Y-Wing is one of the most devastating fighters in the galaxy. The ship may look like it's held together with baling wire and tape, but it's actually one of the most durable fighters out there.
-
-Y-Wings were able to take a beating and then be easily rebuilt. Clone Wars surplus, the Rebels stripped the armor off of them, allowing them to work on them easier. Y-Wings were the early backbone of the Alliance, helping the various Rebel cells get some early victories. Armed with two forward laser cannon, a combination missile/torpedo/bomb launching suite (basically, they could modified to use any of those), and an ion cannon turret, it could do a lot of damage and take a lot thanks to its shields. They might have been slow and a bit sluggish on the turns, but they had it where it counted and brought many pilots home that would have died piloting a faster fighter like the A-Wing.
-
-I was a huge fan of the Legends novels that ran from 1991 to 2012. I read nearly all of the ones published by Bantam in the '90s, including Star Wars: The Black Fleet Crisis . This trilogy was about an alien race named the Yevetha. Based in the Deep Core of the galaxy, the Empire enslaved them and forced them to create the Black Fleet. However, at some point after Endor, the Imperials on N'Zoth vanished and xenophobic Yevetha rearmed, ready to paint the Core Worlds with the blood of every species that wasn't them. That's a pretty cool premise, right? I'd love to tell you that it was a good series, but the second book slammed on the breaks, slowing everything to crawl, and the trilogy never recovered (the second book kicked off with Lando, Lobot, and the droids searching a giant empty ship for. A. Hundred. Pages).
-
-However, the first book introduced readers to some of the coolest Star Wars ships of them all, including a new fighter that was a cousin to the Y-Wing. The K-Wing was also made by Koensayr, who wanted to create a fighter that would take everything great about the Y-Wing and enhance it, while also making the fighter generally better. The K-Wing was a heavy bomber; much like the B-Wing, it was made to hit mid-sized warships on its own, and larger ones as squadrons. It was the definition of heavily armed, with a medium-range twin laser cannon turret, a short-range quad-turbolaser battery (that's right, like the big ships) and 18 hardpoints, which could mount weapons concussion missiles, proton torpedoes, plasma torpedo, flechette launchers, homing missiles, ion bombs, and Conner Nets (nets that had ion cannon technology that disabled ships). It was also heavy and slow, although it was fast enough for its size and weight class, with the kinds of weapons, shields, and armor that made up for it. A good K-Wing crew could survive anything.
-
-The E-Wing was introduced in 1991's Star Wars: Dark Empire comics. It was built by Freitek, a company made up of the Incom designers of the X-Wing, for the New Republic. It was meant to be the next generation of space superiority fighter, with stronger shields, better armor, and faster engines. It was armed with three laser cannons, one on each wings and one over the cockpit, with two proton torpedo launchers. The prototypes had swing wings, but Freitek went with the fixed design in the end. The fighter was slightly faster than the X-Wing and at about the same levels of maneuverable and durable.
-
-It was a good fighter that could never outperform the X-Wing. It ended up a secondary fighter in Legends, but it was still used. After Disney purchased Lucasfilm, it was one of the designs that they kept and it has been used in several shows. However, they removed the cockpit-mounted laser, which honestly always looked pretty stupid. In both canon and Legends, the E-Wing was a versatile fighter that could take a beating, but bring its pilot and astromech back to base.
-
-The Yuuzhan Vong War devastated the galaxy 25 years after the destruction of the Death Star in Legends. They were able to almost completely conquer the galaxy, destroying the New Republic. In its place the Galactic Alliance arose, a conglomeration of galactic powers that included the remnants of the Empire, the Bothans, the Hutts, the Hapans, and the rest. They modernized their militaries, using the lessons of the war to create new generations of old favorites, including the venerable X-Wing. Newer models like the XJ-3 and 5 made the older ones look quaint, with Incom making numerous variants, including the StealthX.
-
-The StealthX took the XJ-3 spaceframe and smoothed out its lines. It was painted with an anti-sensor coating black paint, speckled with white to match the starfield around it. Its engines had specialized baffles so its emissions were basically non-existent. Its sensor systems were lower-powered and the comm system was basically turned off as a default. It became the fighter of choice for the Jedi, since they could use the Force as sensors and comms. They even created the shadow bomb technique (although this was first used before the StealthX was put into service in the Yuuzhan Vong War), allowing them to use the Force to push armed proton torpedoes – which had their propellant systems removed and packed with more explosives – making them even deadlier. StealthXs were optimized for Jedi, but anyone could fly them, as evidenced by legends of the cockpit Wedge Antilles and Tycho Celchu, who were able to outfly Jedi without even turning on their sensors or comms when they flew them.
-
-The Rebel Alliance had a hard time fielding an actual fleet. While they had some capital ships – Corellian CR-series corvettes and gunships, liberated Nebulon-B frigates, jury-rigged monstrosities like the Rebel Assualt Frigate (which was what would happen if a Dreadnought -class cruiser got drunk and had a baby with a Nebulon-B ) and the Rebel Bulk Crusier, which seemed to made of scraps of every ship that could power a turbolaser battery, the Mon Calamari modified MC-series of frigates and crusiers, and various others – they didn't have them in any appreciable numbers. Remember the Rebel Fleet in Return of the Jedi ? That not one portion of the Fleet, it's the whole thing, while the Imperial Fleet there wasn't even one percent of how many capital ships the Empire could field.
-
-The Rebels used their fighters to make up for it, launching hit and run attacks against bigger targets. Eventually, the Rebels in both canon and Legends designed the B-Wing. In Legends, it was a collab between the insectoid Verpine, some of the best shipbuilders in the galaxy, and Commander Ackbar. They designed the fighter to be slow and strong, with powerful shields and capital ship-grade weapons. Its weapons mounts were modular and it could be armed with lasers, turbolasers, autoblasters, concussion missiles, and proton torpedoes. The canon version was different; while it was built by Slayn & Korpil, the Verpine hive, it was designed by the Mon Cal Quarrie (named after Star Wars concept artist and the guy who came up with the fighter designs Ralph McQuarrie) and had what amounts to a superlaser system, with the wing cannons combining their power to fire devastating lancers of energy. Be it in canon or Legends, a B-Wing is going to survive just about anything.
-
-What's your favorite Rebel or New Republic (or Galactic Alliance; I'm partial to Alephs and Eta Actis -5s)? Do you like canon fighters or Legends better? Sound off in the comment section below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] 3 Absolute Masterpiece Anime of 2026 You Need to Watch Right Now
-Source: ComicBook.com | Status: expanded | Words: 753
-Published: 2026-11-26T22:33:00+00:00
-URL: https://comicbook.com/anime/list/3-absolute-masterpiece-anime-of-2026-you-need-to-watch-right-now
-------------------------------------------------------------
-SUMMARY:
-As 2026 comes to an end, it is worth looking back at what this year has delivered for the anime industry, especially the masterpieces that are worth your time. Looking back, this year has been truly incredible, starting with Winter, which saw several returning anime deliver banger seasons alongside a few new additions. Spring and […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google As 2026 comes to an end, it is worth looking back at what this year has delivered for the anime industry, especially the masterpieces that are worth your time. Looking back, this year has been truly incredible, starting with Winter, which saw several returning anime deliver banger seasons alongside a few new additions. Spring and Summer stood out in their own ways, and Fall continues to do the same.
-
-Hundreds of anime have aired this year; however, not all of them have stood out. For an anime to be considered a masterpiece, it needs to do something extraordinary. That is exactly what these three anime, one from Spring and two from Summer, have achieved, earning their place as absolute masterpieces.
-
-Smoking Behind the Supermarket With You made a special debut midway through the Spring season, with its first season consisting of just 12 episodes. With this, the series immediately ranked among the highest-rated anime on Crunchyroll , earning praise from fans. The series captivated viewers with its refreshing take on the romance genre, offering an adult perspective that most anime often lack. It achieves this through an unusual premise involving a man in his 40s who develops a companionship with a woman in her late 20s.
-
-An even more intriguing element is how the woman portrays two different personalities: a loving supermarket clerk and a cool, hipster-dressed smoker who spends time with him behind the supermarket. Sasaki develops a different connection with each of these personalities, eventually leading to an adult friendship built on mutual understanding and advice. Honestly, the anime industry needs more series like this to broaden its horizons and attract a more mature audience.
-
-Akane-banashi emerges as one of the most niche anime concepts ever presented, as its central premise revolves around a traditional Japanese art form called Rakugo, a method of storytelling that Western audiences may have never even heard of. However, the anime presents this concept so perfectly that it captivates viewers and is bound to spark interest in this traditional art. It achieves this by presenting Rakugo through the lens of a shonen sports anime, treating it as a competitive discipline in which multiple characters compete to earn the highest positions.
-
-What elevates the series further is the titular protagonist , Akane, whose incredible foundation keeps the story inspiring, making her journey to earn her place in this competitive world a delight to watch. The first season offers plenty of insight into how this art form is performed and its impact on audiences. As Akane defies all odds by showcasing years of practice in pursuit of her dream, the 12 episodes of the first season never feel boring. It is the perfect time to start watching this masterpiece, especially with the new season arriving in Winter 2027.
-
-When discussing a masterpiece, it has to be crafted in a way that captivates viewers and leaves them wanting more, and Jaadugar: A Witch in Mongolia does exactly that. Brought to life by Science SARU, the anime presents the story of a slave who embarks on a journey to seek revenge against the Mongol Empire after its tyranny takes the lives of everyone she loves. However, as Sitara becomes more deeply involved in the Mongol Empire, several layers of nuance are unveiled, making it much more than a simple revenge story.
-
-It eventually evolves into a political game within the vast empire, with royals turning against each other to secure higher positions, while Sitara finds herself caught in the middle. The revenge narrative also gradually transforms into a story about saving someone new she has grown to care for, while characters positioned as villains reveal their better sides, leaving viewers to decide whom to support. It reaches the level of masterpiece TV shows like Game of Thrones , and for anyone who enjoys that kind of storytelling, Jaadugar: A Witch in Mongolia is one of the first anime masterpieces of 2026 to deliver a similar experience, with elements that make it even better.
-
-What anime of 2026 has made you feel immersed in its story and earned a place among the masterpieces everyone should watch? Share your thoughts in the comments below.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
