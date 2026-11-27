@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-27T18:22:22.054Z"
+    "updated_at": "2026-11-27T18:36:22.206Z"
   },
   "articles": [
+    {
+      "id": "1e30c225-c545-457c-bfa9-5ec8560f0a03",
+      "title": "How This Year's Black Friday Deals Explain the Tumultuous State of Streaming",
+      "summary": "There's a method to the discount madness, and the deals quietly signal where corporate priorities lie.",
+      "content": "The streaming business is in flux, and Black Friday deals can help explain it.\n\nIt's not hyperbole: Netflix stock has been cut in half from its all-time high. Bundles are proliferating. And Skydance CEO David Ellison has made it clear that a merger of HBO Max and Paramount+ is a question of when, not if.\n\nBlack Friday streaming deals are an annual tradition at this point, but given the state of the business, they can also shed light on how the entertainment giants behind them are thinking about the future of their products. Related Stories Lifestyle Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More Lifestyle Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One\n\nNetflix, for example, is the lone streamer not offering a Black Friday deal (at least as of writing). In fact, it has never offered a discount, underscoring its place in the streaming ecosystem as the unambiguous market leader: There's no need to entice subscribers with a discount when you already have the market hooked. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-article-mid-article-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid-articleX\",\"mid\",\"mid-article\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[300,250],[2,2],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4],[300,251]]) .setClsOptimization(\"minsize\") ; });\n\nHBO Max and Paramount+ are offering very different types of deals, even as their parent company Skydance, is actively preparing for a discount bundle set for early next year, and with a full merger of the services following later on\n\nHBO Max is offering an aggressive 50 percent discount on its ad-supported tier, charging $5.49 per month for a full year. Paramount+, meanwhile, is offering both its premium and standard plans for $2.99 per month, albeit only for the first two months.\n\nWith the bundle imminent and a merger coming (expect Paramount+'s tech stack to win out over HBO Max's), the Black Friday deals are a last gasp before what is expected to be an aggressive discount campaign early next year.\n\nThe biggest new streamer to launch in the last year, Fox One, is offering a steep 75 percent discount, $5 for the first month, before it reverts back to $20 in month two. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', [\"mid\",\"mid-article2\",\"mid-articleX\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[320,480],[620,366],[300,450],[4,4]]) .setClsOptimization(\"minsize\") ; });\n\nPeacock, meanwhile, is offering generous discounts on both its select and premium plans, selling them for $2.99 and $8.99 per month for the first three months.\n\nThe Paramount+, Fox One and Peacock deals are, conspicuously, time-limited, and that timing coincides with the heart of the NFL season. Subscribers will get hooked right as the NFL playoffs begin, with NBC, CBS and Fox (and their respective streamers) all holding those rights.\n\nDisney, which has been leaning into bundles, is offering a year of Disney+ and Hulu for $5 per month, hoping to get viewers hooked on its two entertainment platforms (ESPN is the other) ahead of a full sunset of the Hulu standalone app (it is expected to continue as a standalone service within Disney+).\n\nApple TV, which is still trying to gain the scale that many of the other services already have, is offering an aggressive discount of over 50 percent, selling six months of the services for $6.99 per month, down from its typical price of $14.99 per month.\n\nAnd niche streamers are being more aggressive: Look at Starz, which is offering an astonishing deal: $11.99 for 12 months, putting the price at under $1 per month when buying the annual plan (a more modest discount is available on monthly plans), underscoring how it needs to gain scale, and fast. Crunchyroll, Sony's anime-focused streamer, is also offering discounts of over 50 percent for six months, ranging from $3.99 for its base tier to $8.99 for its ultimate tier.\n\nStreaming is in a new phase, where consolidation and bundles are the norm, and the status quo of today won't be so in a year. It's a world where creative discounting may be required, even if the long-term strategy prefers profits over subscriber progress. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-thr-article-mid-articleX-uid2' ) .setTargeting( 'pos', [\"btf\",\"mid-articleX\",\"mid\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-articleX\") .addSize([[300,250],[300,251],[620,350],[320,480],[620,366],[300,450],[4,4]]) .setLazyLoadMultiplier(2) .setClsOptimization(\"minsize\") ; });\n\nAnd it's a world where Netflix, the king of the crop, still feels as though it has no need to offer discounts of any sort. After all, when you have won the subscription streaming war, it's better to keep those margins intact.",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/business/digital/how-black-friday-streaming-deals-explain-streaming-1236761117",
+      "published_at": "2026-11-27T18:35:29+00:00",
+      "image_url": null,
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 727,
+      "extracted_at": "2026-11-27T18:36:10.332116+00:00",
+      "updated_at": "2026-11-27T18:36:10.332116+00:00"
+    },
     {
       "id": "66069186-8178-4863-ab20-acf6b891730a",
       "title": "Doha Winners: ‘A Girl Unknown’ &#038; ‘Concrete Land’ Scoop Top Prizes",
@@ -742,21 +757,6 @@
       "word_count": 294,
       "extracted_at": "2026-11-27T15:13:59.623878+00:00",
       "updated_at": "2026-11-27T15:13:59.623878+00:00"
-    },
-    {
-      "id": "be633be3-55f5-4a48-93fd-38026611dcc4",
-      "title": "I Figured Focker-In-Law Would Have A+ Meet The Parents References. One Is Extreme",
-      "summary": "I didn't think they'd go this far.",
-      "content": "Spoilers for Focker In-Law are ahead!\n\nAs was to be expected when Ariana Grande joined Focker In-Law as the newest potential in-law, hijinks and lie detector tests were going to happen. Plus, with Ben Stiller’s Greg now in the position Robert De Niro ’s Jack was in during the first movie, the script was flipped, which provided a fun foundation to return to some very funny gags.\n\nI expected some wild things to happen in Focker In-Law . To this day, I remember the shock I felt over the absolutely crazy situations that happened in Meet the Parents and Meet the Fockers (which you can stream with a Peacock subscription ). However, I did not expect Jinx the cat to be taxidermied. I did not expect Jack’s dog, Lazarus, to have beef with the late cat. And I certainly did not expect the German shepherd to eat the taxidermied Jinx in the movie.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/i-figured-focker-in-law-meet-the-parents-references-one-jinx-extreme",
-      "published_at": "2026-11-27T15:05:00+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4kaknY4PScNZXc29G9iWhC-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 153,
-      "extracted_at": "2026-11-27T15:07:59.411839+00:00",
-      "updated_at": "2026-11-27T15:07:59.411839+00:00"
     }
   ]
 }
