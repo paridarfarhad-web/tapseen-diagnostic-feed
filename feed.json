@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-27T23:14:37.847Z"
+    "updated_at": "2026-11-27T23:18:37.596Z"
   },
   "articles": [
+    {
+      "id": "ba9d21ca-56dc-4b00-af6f-50fe823b7e83",
+      "title": "I’m Disappointed To Hear A Star Trek: TNG Actor's Pitch For A New Show Was Shot Down",
+      "summary": "The future of the franchise is still unclear.",
+      "content": "It's been a rough year for Star Trek , as the 60th anniversary gave fans more heartache than happiness. We lost two big stars in Patrick Stewart and Walter Koenig, Skydance canceled Starfleet Academy , and now we're learning the company also axed Michael Dorn's chances to return as Worf.\n\nIt's really interesting to hear that Alex Kurtzman and company were already developing a show centered around Worf. It's extra interesting considering that Terry Matalas recently revealed what his plan was for Star Trek: Legacy , and the Klingons played a big part in it . Was the franchise quietly working on a spinoff that would bring the Picard showrunner back into the fold?\n\nThat news isn't too surprising, as it's clear at this point Skydance isn't worried about rushing the next phase of Star Trek programming. The company's primary concern is to get the franchise back in theaters, and a script is already in development with hopes it'll achieve that goal.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/streaming-news/disappointed-hear-a-star-trek-tng-actor-pitch-new-show-shot-down-michael-dorn-worf",
+      "published_at": "2026-11-27T23:15:00+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qKPXsJdt6EkXwmB7cqsWoN-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 162,
+      "extracted_at": "2026-11-27T23:18:23.880789+00:00",
+      "updated_at": "2026-11-27T23:18:23.880789+00:00"
+    },
     {
       "id": "040dcb58-7cd0-4ca3-8a4a-d96795a5aadf",
       "title": "NBC Pulls Spot Advocating for End to U.S. Military Aid to Israel, Will Review Approval Procedures After Outcry",
@@ -742,21 +757,6 @@
       "word_count": 369,
       "extracted_at": "2026-11-27T19:22:12.180062+00:00",
       "updated_at": "2026-11-27T19:22:12.180062+00:00"
-    },
-    {
-      "id": "8d292a4a-3eef-47b5-9376-de24c2300f4f",
-      "title": "Chris Hemsworth’s Latest Workout Video Has Fans Saying ‘Doom Is Not Ready’ For Thor",
-      "summary": "Bring him Doctor Doom!",
-      "content": "The last original Avenger standing has not shirked his god bod. In fact, Chris Hemsworth has only upped his workout regimen and continues to prove it on his social media. His dedication to staying Thor-fit has not gone unnoticed, and every new post feels like a ‘secret’ hint at what to expect from the god of thunder. This trend continues with his latest workout video, which has fans saying ‘Doom is not ready’ for Thor, and after watching it, they’re not wrong.\n\nIf watching that didn’t make you feel energized, then the voiceover definitely left you feeling hyped. Hearing “You cannot reason with a tiger” almost had me rethinking my New Year’s resolution. Now, this isn’t the first time we’ve gotten a look at his infamous workout routine, specifically for Thor . Staying fit seemed to become more and more intense with each passing movie, and according to the first Thor movie's director, Kenneth Branagh , he’d eat whole chickens . That’s about 1500 calories. Additionally, he is reported to have eaten around 4,000 calories on average. Not to mention all the push-ups.\n\nThe Australian actor has actively shown off his physique with various workouts, meal plans, and by showing off his company’s fitness machines. Doctor Doom may be gathering a strong force, but Thor is bringing even stronger abs , and fans are here for it. We’ve gotten a lot of Doomsday teases with Marvel effectively hyping up fans, especially after VisionQuest , but Hemsworth is getting fans ready to see Thor back in action.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/chris-hemsworth-latest-workout-video-fans-saying-doom-not-ready-thor-robert-downey-jr",
-      "published_at": "2026-11-27T19:16:05+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/WTPUErcDdy3CEgdhEEMbBn-1920-80.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 256,
-      "extracted_at": "2026-11-27T19:22:12.298974+00:00",
-      "updated_at": "2026-11-27T19:22:12.298974+00:00"
     }
   ]
 }
