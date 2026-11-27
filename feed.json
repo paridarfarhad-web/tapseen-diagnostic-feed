@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-27T23:44:41.789Z"
+    "updated_at": "2026-11-27T23:48:38.094Z"
   },
   "articles": [
+    {
+      "id": "5ec3e5c8-70c4-42a2-b730-14e8fb7587ce",
+      "title": "Donald Trump Jr.'s Outrage Gifts Netflix's 'Hunting Wives' Some Priceless Streisand Effect PR",
+      "summary": "Christmas came on Thanksgiving for Netflix's The Hunting Game, thanks to a fatuous Donald Trump Jr. Never slow to put his silver foot in his big mouth, the oldest and most ambitious son of El Presidente got very hot under the digital collar early on Turkey Day over a passionate promo for the soapy and […]",
+      "content": "Christmas came on Thanksgiving for Netflix 's The Hunting Game, thanks to a fatuous Donald Trump Jr.\n\nNever slow to put his silver foot in his big mouth, the oldest and most ambitious son of El Presidente got very hot under the digital collar early on Turkey Day over a passionate promo for the soapy and streamy MAGA themed series of two women kissing. In proclaiming \"What is wrong with you??? It&#x2019;s Thanksgiving\" on X on November 26 in reply to Netflix, the no stranger to controversy and speculation Don Jr. looks to have handed the Season 2 launch of the Rebecca Cutter created show the kind of publicity even Ted Sarandos and Greg Peters ' team can't buy. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; }); Related Stories News 'The Hunting Wives' Pays Tribute To Lionsgate Exec Salli Newman News Federal Incentive Will Level The Playing Field For America's Creatives -- Guest Column\n\nWhile Don Jr's outrage may have struck some as reeking of hypocritical or at least lacking all self-awareness, the fact is his tweet has been viewed over 7.5 million times since Thanksgiving morning. Add to that, a flood of media coverage from the highbrow to the gutter press and (we see you Fox News) everything in-between and you have yourself a good old fashion water cooler moment. Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render(\"connatix_contextual_player_div\"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }\n\nStarring Brittany Snow and Malin &#xC5;kerman as Sophie and Margo, a East Coastnewcomer to an East Texas town and the town&#x2019;s leading lady, The Hunting Wives , which is based on the May Cobb novel of the same name. With guns, booze, short leather skirts, cowboy boots, MAGA , murder and lot of sex, the show follows Sophie as loses more and more of her old Boston life and more intimate with the scheming Margo, who's Dermot Mulroney portrayed husband is running for Lone Star State Governor.\n\nHunting Wives scribe Brandon Zuck took out a shiv of his own on Instagram. \"Just wait until season 3,\" he wrote on his IG Story next to a screen shot of Junior's tweet. That echoes what Cutter said when Netflix announced Season 3 last month. &#x201C;Buckle up, because Season 3 will be even more scandalous and twisted,&#x201D; the showrunner stated.\n\nFurther add to Jr's ill-considered pearl clutching, the fact the actual online clip of Snow and &#xC5;kerman's characters making out has itself claimed 36 million views on the (MAGA? Not MAGA?) Elon Musk -owned platform. All of which means the Streisand effect of Little Don's post cannot have been helpful in pushing Hunting Wives Season 2's debt to number #3 in the Netflix charts in less than 24 hours. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', [\"mid-article2\",\"mid-articleX\",\"mid-article\",\"mid\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article2\") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nLikely not wanting to throw cold water on a good firestorm, Netflix did not respond to Deadline's request for comment on Little Don's tweet and the backlash it's received. But, why would they? As WME Ari's brother, former White House Chief of Staff and budding 2028 candidate Rahm Emanuel once said: \"You never want a serious crisis to go to waste.\"\n\nThe seriousness of it all aside, for a streamer that has been short of late of big breakout hits, First Louche Don Jr's foot stamping may have proved the spark to set the already well-watched Hunting Wives on fire — in the best way.\n\nOr as Netflix posted on their official feed later on Thanksgiving: \"It's messy is what it is!\"",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421",
+      "published_at": "2026-11-27T23:46:48+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/Hunting-Wives-kiss-Donad-Trump-Jr.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 645,
+      "extracted_at": "2026-11-27T23:48:25.923387+00:00",
+      "updated_at": "2026-11-27T23:48:25.923387+00:00"
+    },
     {
       "id": "79399101-df5a-4b42-8ed0-c7dcd192467e",
       "title": "Gayle King to Miss Week of 'CBS Mornings' Shows Amid Death of Her Son-in-Law Virgil Miller",
@@ -742,21 +757,6 @@
       "word_count": 514,
       "extracted_at": "2026-11-27T19:54:14.196889+00:00",
       "updated_at": "2026-11-27T19:54:14.196889+00:00"
-    },
-    {
-      "id": "e0de4b40-590a-45c1-8087-5c480f14a7df",
-      "title": "I Didn’t Expect Hexed To Leave Me With A Question Involving Disney Princesses",
-      "summary": "This was unexpected!",
-      "content": "Spoilers for Disney's Hexed are ahead! You can catch the movie in theaters now.\n\nLet me back up a bit, though. Hexed centers on Billie Doe, a mischievous high school student with a heart of gold who discovers she has magical powers while trying to evade her principal, who is going to expel her. Back at home, Billie opens a portal to Hexe, the magic-filled world where witches and wizards live. It’s there that she meets the Queen of Hexe, who just so happens to be her grandmother. Now, I’m not an expert on royal lineage, but I’m pretty sure being the granddaughter of the queen makes you a princess.\n\nThere’s no doubt that Billie has met the big four requirements. However, there is one more lesser-known requirement that has to be met for the House of Mouse to consider a character an official princess: the movie has to be a hit. In fact, the success of a movie has to extend well past its release to ensure a princess keeps her title — just look at The Hunchback of Notre Dame’s Esmerelda, who used to be in the official lineup and now is not.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/i-didnt-expect-hexed-leave-me-question-disney-princesses",
-      "published_at": "2026-11-27T19:47:59+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Bh7fYd8hn3pcYcSact3vbi-1920-80.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 195,
-      "extracted_at": "2026-11-27T19:52:13.636041+00:00",
-      "updated_at": "2026-11-27T19:52:13.636041+00:00"
     }
   ]
 }
