@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-27T23:12:34.098Z
+Last Updated: 2026-11-27T23:14:37.848Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Predicting Awards Season’s First Big Week: Who Wins at the Gothams, NYFCC, NBR and More
+[1] NBC Pulls Spot Advocating for End to U.S. Military Aid to Israel, Will Review Approval Procedures After Outcry
+Source: Variety | Status: expanded | Words: 547
+Published: 2026-11-27T23:13:47+00:00
+URL: https://variety.com/2026/tv/news/nbc-israel-military-aid-spot-middle-east-girl-1236959795
+------------------------------------------------------------
+SUMMARY:
+NBC has pulled an ad from a Middle East advocacy organization that calls for the end of U.S. military aid to Israel. The network will review its ad approval procedures after criticism from the Simon Wiesenthal Center and other organizations. The spot, purchased by the Institute for Middle East Understanding Policy Project, pushes for the […]
+
+CONTENT / EXTRACTED DETAILS:
+NBC has pulled an ad from a Middle East advocacy organization that calls for the end of U.S. military aid to Israel. The network will review its ad approval procedures after criticism from the Simon Wiesenthal Center and other organizations.
+
+The spot, purchased by the Institute for Middle East Understanding Policy Project , pushes for the end of U.S. military aid to Israel amid the humanitarian crisis in Gaza. The spot titled &#x201C;Every Three Seconds&#x201D; ran Nov. 25 on NBC in primetime during the network's "Saturday Night Live&#x201D; Thanksgiving special. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories Chiwetel Ejiofor on How Stephen Frears’ 'Dirty Pretty Things' Led Him to Fall in Love With Film BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for 'You Can See Everything' Star Amanda Seyfried
+
+The ad makes a jarring juxtaposition between the suffering in Gaza and scenes of a typical American preteen girl doing chores and odd jobs to save money for a bicycle amid tough economic times. Just as the American girl brings her jar full of money into a bike shop, the spot cuts to a scene of a girl standing in a pile of rubble in Gaza. As the camera pans back, the girl is revealed to be leaning on a crutch, having lost one of her lower legs. The spot tells viewers that &#x201C;Every three seconds&#x201D; the U.S. sends about $400 million in military aid to Israel under a long-term deal set to expire in 2028.
+
+NBC's top brass were unaware of the spot before it aired. As a result, there will be a review of the network's ad approval processes, according to a person familiar with the situation.
+
+Jim Berk, CEO of the Wiesenthal Center, issued a lengthy statement on Thursday questioning NBC's decision to air the ad during an &#x201C;SNL&#x201D; entertainment special in primetime. He pointed to the ad's potential to fuel hostility against Israel and Jews. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
+
+&#x201C;The advertisement&#x2019;s imagery, an American child&#x2019;s hardship set against the anguish of a child in Gaza, offers viewers a seductive but unsubstantiated narrative: that the struggles of American families are somehow bound up with U.S. support for Israel,&#x201D; Berk stated. &#x201C;In collapsing a complex foreign policy into a single, emotionally charged image, it erases the deeper realities, including the imperative to protect Israeli lives and the very existence of the country itself. By manipulating emotion and stripping it of context, this ad seeks to become a catalyst for hostility. … Without scrutiny, insinuations and half-truths are allowed to seep into the consciousness of millions, unchallenged and unchecked. Turning children&#x2019;s suffering into a prop for political theater is an unacceptable manipulation.&#x201D;
+
+The Institute for Middle East Understanding Policy Project did not immediately respond to a request for comment on NBC's decision. It's unclear how many more times the spot had been scheduled to run on NBCUniversal platforms. According to the organization's website, IMEU &#x201C;was founded in 2005 by a group of concerned Americans who want to foster an increased understanding among Americans about Palestine and the Palestinians.&#x201D;
+
+============================================================
+[2] Predicting Awards Season’s First Big Week: Who Wins at the Gothams, NYFCC, NBR and More
 Source: Variety | Status: expanded | Words: 2295
 Published: 2026-11-27T23:10:42+00:00
 URL: https://variety.com/lists/gotham-nyfcc-nbr-afi-lafca-predictions-2026
@@ -179,7 +203,7 @@ New Generation: Curry Barker, “Obsession” (Focus Features) Alternate: Jordan
 Douglas Edwards Experimental Film Award: “Naza” (The Guardian, MK2 and Neon) Alternate: “Everybody to Kenmure Street” (Icarus Films)
 
 ============================================================
-[2] 5 Absolute Batman Villains Who Are More Terrifying Than Their Main DC Counterparts and 1 Is Pure Nightmare Fuel
+[3] 5 Absolute Batman Villains Who Are More Terrifying Than Their Main DC Counterparts and 1 Is Pure Nightmare Fuel
 Source: ComicBook.com | Status: expanded | Words: 1143
 Published: 2026-11-27T23:08:00+00:00
 URL: https://comicbook.com/comics/list/5-absolute-batman-villains-who-are-more-terrifying-than-their-main-dc-counterparts-and-1-is-pure-nightmare-fuel
@@ -219,7 +243,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] 5 Twisted Romance Anime That Will Break Your Heart
+[4] 5 Twisted Romance Anime That Will Break Your Heart
 Source: ComicBook.com | Status: expanded | Words: 1201
 Published: 2026-11-27T23:07:00+00:00
 URL: https://comicbook.com/anime/list/5-twisted-romance-anime-that-will-break-your-heart
@@ -259,7 +283,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] ‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth's Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A 'Dream Came True'
+[5] ‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth's Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A 'Dream Came True'
 Source: Variety | Status: expanded | Words: 1407
 Published: 2026-11-27T22:45:00+00:00
 URL: https://variety.com/2026/tv/news/percy-jackson-season-3-gray-contacts-finale-1236958463
@@ -307,7 +331,7 @@ From Jeffries' perspective, the best is yet to come. She says she's especially e
 The last episode "is something that literally means so much to me because I feel like so many people have asked for it," she says. "I know so many people who wanted to see it, and that dream came true."
 
 ============================================================
-[5] Hancock 2 Gets Major Update From Director &#038; Will Smith Wants to Return
+[6] Hancock 2 Gets Major Update From Director &#038; Will Smith Wants to Return
 Source: ComicBook.com | Status: expanded | Words: 616
 Published: 2026-11-27T22:41:50+00:00
 URL: https://comicbook.com/movies/news/hancock-2-gets-major-update-from-director-will-smith-wants-to-return
@@ -335,7 +359,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Nintendo Switch Online Makes 2025 Game Free for Some Users
+[7] Nintendo Switch Online Makes 2025 Game Free for Some Users
 Source: ComicBook.com | Status: expanded | Words: 508
 Published: 2026-11-27T22:40:18+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-absolum
@@ -359,7 +383,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[7] Rick Moranis Reveals He Secretly Directed Scenes From an '80s Cult Classic
+[8] Rick Moranis Reveals He Secretly Directed Scenes From an '80s Cult Classic
 Source: ComicBook.com | Status: expanded | Words: 663
 Published: 2026-11-27T22:37:03+00:00
 URL: https://comicbook.com/movies/news/rick-moranis-reveals-he-secretly-directed-scenes-from-an-80s-cult-classic
@@ -385,7 +409,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson
+[9] How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson
 Source: The Hollywood Reporter | Status: expanded | Words: 443
 Published: 2026-11-27T22:33:24+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-soul-train-awards-2026-free-bet-cbs-live-stream-1236764242
@@ -417,7 +441,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 For the best bang for your buck, sign up for Sling's Orange & Blue plan , which includes everything each plan offers individually, starting at $60.99 per month.
 
 ============================================================
-[9] 'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2: 'It's a F—-ed Up Commitment' to 'Move Past' Murder
+[10] 'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2: 'It's a F—-ed Up Commitment' to 'Move Past' Murder
 Source: Variety | Status: expanded | Words: 3000
 Published: 2026-11-27T22:30:00+00:00
 URL: https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232
@@ -511,7 +535,7 @@ Cutter: I don't watch that much reality TV, but I think I would have to try it. 
 This interview has been edited and condensed.
 
 ============================================================
-[10] The Holiday Ever After Cast And Co. Have Ideas For Another Disney Park Romance. I’m Obsessed
+[11] The Holiday Ever After Cast And Co. Have Ideas For Another Disney Park Romance. I’m Obsessed
 Source: CinemaBlend | Status: expanded | Words: 447
 Published: 2026-11-27T22:30:00+00:00
 URL: https://www.cinemablend.com/television/the-holiday-ever-after-cast-ideas-another-disney-park-romance-tokyo-disneysea-disney-world
@@ -537,7 +561,7 @@ He makes a fair point: Disney World is a massive place, and they could easily ma
 Well, there’s certainly more magic to see at Disney World. However, I’m also hoping that Holiday Ever After’s team finds themselves in Japan too. Really, I’ll be happy with a movie at any of the Disney Parks. However, these ideas the cast and creatives threw my way are phenomenal.
 
 ============================================================
-[11] Gayle King's Son-in-Law Virgil Miller Dies at 45
+[12] Gayle King's Son-in-Law Virgil Miller Dies at 45
 Source: Variety | Status: expanded | Words: 252
 Published: 2026-11-27T22:27:18+00:00
 URL: https://variety.com/2026/tv/news/gayle-king-son-in-law-virgil-miller-dead-1236959774
@@ -557,7 +581,7 @@ In December 2020, Miller married King&#x2019;s daughter, Kirby Bumpus, in a priv
 &#x201C;Our thoughts right now are with her daughter, and their two beautiful children,&#x201D; Tower's memo continues. &#x201C;We&#x2019;re respecting the family and giving them privacy as they get through this difficult time.&#x201D;
 
 ============================================================
-[12] Ray Gunn &#038; Incredibles Director Brad Bird "Would Not Say No" to Making An R-Rated Animated Film, On One Condition (Exclusive)
+[13] Ray Gunn &#038; Incredibles Director Brad Bird "Would Not Say No" to Making An R-Rated Animated Film, On One Condition (Exclusive)
 Source: ComicBook.com | Status: expanded | Words: 562
 Published: 2026-11-27T22:26:10+00:00
 URL: https://comicbook.com/movies/news/ray-gunn-incredibles-director-brad-bird-would-not-say-no-to-making-an-r-rated-animated-film-on-one-condition-exclusive
@@ -585,7 +609,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[13] Fan Finds One Of Kenner's Most Underrated Star Wars Vehicles For An Absolute Steal At A Thrift Store
+[14] Fan Finds One Of Kenner's Most Underrated Star Wars Vehicles For An Absolute Steal At A Thrift Store
 Source: ComicBook.com | Status: expanded | Words: 567
 Published: 2026-11-27T22:26:00+00:00
 URL: https://comicbook.com/collectibles/news/fan-finds-one-of-kenners-most-underrated-star-wars-vehicles-for-an-absolute-steal-at-a-thrift-store
@@ -605,7 +629,7 @@ It's unclear whether the figures in the image are from the shop or belong to the
 What's your greatest ever thrift store toy find? Let us know in the comments!
 
 ============================================================
-[14] BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for 'You Can See Everything' Star Amanda Seyfried
+[15] BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for 'You Can See Everything' Star Amanda Seyfried
 Source: Variety | Status: expanded | Words: 1445
 Published: 2026-11-27T22:20:32+00:00
 URL: https://variety.com/2026/film/awards/bafta-2027-entries-full-list-amanda-seyfried-1236959765
@@ -681,7 +705,7 @@ U blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-varie
 W blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid11' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
 
 ============================================================
-[15] Dragon Ball Super Secretly Has a King of the Saiyans It Hasn't Even Used Yet
+[16] Dragon Ball Super Secretly Has a King of the Saiyans It Hasn't Even Used Yet
 Source: ComicBook.com | Status: expanded | Words: 631
 Published: 2026-11-27T22:20:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-super-secretly-has-a-king-of-the-saiyans-it-hasnt-even-used-yet
@@ -709,7 +733,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Oscar-Nominated Director Rachid Bouchareb on the Challenges of Shooting ‘Reggane’: ‘We’re Making a Period Film in the Depths of the Sahara’
+[17] Oscar-Nominated Director Rachid Bouchareb on the Challenges of Shooting ‘Reggane’: ‘We’re Making a Period Film in the Depths of the Sahara’
 Source: Variety | Status: expanded | Words: 998
 Published: 2026-11-27T22:09:28+00:00
 URL: https://variety.com/2026/film/global/rachid-bouchareb-reggane-1236959750
@@ -761,7 +785,7 @@ The director is also in discussions with Goodfellas for international distributi
 &#x201C;For me, first and foremost, it&#x2019;s the cinema,&#x201D; he says. &#x201C;The movie theater is something magical.&#x201D;
 
 ============================================================
-[17] Gayle King Taking Next Week Off From 'CBS Mornings' Following Son-In-Law's Death
+[18] Gayle King Taking Next Week Off From 'CBS Mornings' Following Son-In-Law's Death
 Source: Deadline | Status: expanded | Words: 295
 Published: 2026-11-27T22:09:15+00:00
 URL: https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404
@@ -785,7 +809,7 @@ Miller is survived by his wife Kirby Bumpus and their two children, son Luca, 5,
 &#x201C;I&#x2019;m certainly not the first person to have a grandchild &#x2014; I realize that, but what I like is seeing Kirby become a mother herself. She&#x2019;s so good at it. She and her husband, Virgil, are such great partners.&#x201D;
 
 ============================================================
-[18] Oracle Was Meant to Be More Than Barbara Gordon, and One Forgotten Batgirl Run Proved It
+[19] Oracle Was Meant to Be More Than Barbara Gordon, and One Forgotten Batgirl Run Proved It
 Source: ComicBook.com | Status: expanded | Words: 1045
 Published: 2026-11-27T22:02:00+00:00
 URL: https://comicbook.com/comics/feature/oracle-was-meant-to-be-more-than-barbara-gordon-and-one-forgotten-batgirl-run-proved-it
@@ -819,7 +843,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] GTA 6 Players Get Online Multiplayer Working On PC Before the Non-Console Version Has Even Been Announced
+[20] GTA 6 Players Get Online Multiplayer Working On PC Before the Non-Console Version Has Even Been Announced
 Source: ComicBook.com | Status: expanded | Words: 493
 Published: 2026-11-27T21:49:18+00:00
 URL: https://comicbook.com/gaming/news/gta-6-players-get-online-multiplayer-working-on-pc-before-the-non-console-version-has-even-been-announced
@@ -845,7 +869,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] People Give Milo Manheim Flak For Not Admitting To Tangled Casting Sooner, But Wait A Hot Minute!
+[21] People Give Milo Manheim Flak For Not Admitting To Tangled Casting Sooner, But Wait A Hot Minute!
 Source: CinemaBlend | Status: expanded | Words: 222
 Published: 2026-11-27T21:45:00+00:00
 URL: https://www.cinemablend.com/movies/people-milo-manheim-flak-not-admitting-tangled-flynn-casting-sooner-but-wait
@@ -861,7 +885,7 @@ It’s not super uncommon for actors to find out they’ve booked parts right be
 I sincerely hope they’ve had the adventure of a lifetime filming this movie, and I hope everyone can now get very excited for the Zombies star. It’s clear he cares a lot about playing Flynn, and he’s as thrilled as the fans are about this adaptation.
 
 ============================================================
-[21] The Simpsons: Hit &#038; Run Remake Reportedly Canceled
+[22] The Simpsons: Hit &#038; Run Remake Reportedly Canceled
 Source: ComicBook.com | Status: expanded | Words: 642
 Published: 2026-11-27T21:32:51+00:00
 URL: https://comicbook.com/gaming/news/the-simpsons-hit-run-remake-reportedly-canceled
@@ -895,7 +919,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[22] 'The Challenge' Alum Tyler Duckworth's Cause Of Death Revealed
+[23] 'The Challenge' Alum Tyler Duckworth's Cause Of Death Revealed
 Source: Deadline | Status: expanded | Words: 552
 Published: 2026-11-27T21:32:04+00:00
 URL: https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390
@@ -925,7 +949,7 @@ Duckworth appeared on The Real World: Key West in 2006 and went on to compete on
 After his run on reality TV, Duckworth became a middle school and high school teacher and was actively pursuing a doctorate degree, according to an interview with Entertainment Weekly .
 
 ============================================================
-[23] Ultra-Fast GTA 6 Stash Bag Money Glitch Lets Users Make $1.5 Million in 5 Minutes
+[24] Ultra-Fast GTA 6 Stash Bag Money Glitch Lets Users Make $1.5 Million in 5 Minutes
 Source: ComicBook.com | Status: expanded | Words: 749
 Published: 2026-11-27T21:29:57+00:00
 URL: https://comicbook.com/gaming/news/ultra-fast-gta-6-stash-bag-money-glitch-lets-users-make-1-5-million-in-5-minutes
@@ -959,7 +983,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] ‘Hunger Games: Sunrise on the Reaping’ Soundtrack: The Best Music Moments From Haymitch Abernathy’s Prequel Movie
+[25] ‘Hunger Games: Sunrise on the Reaping’ Soundtrack: The Best Music Moments From Haymitch Abernathy’s Prequel Movie
 Source: Variety | Status: expanded | Words: 1247
 Published: 2026-11-27T21:28:36+00:00
 URL: https://variety.com/lists/hunger-games-sunrise-on-the-reaping-soundtrack-best-songs
@@ -993,7 +1017,7 @@ Another song with great “Hunger Games” lore woven into the lyrics. Reading b
 To pull an old Stevie Nicks song for this ‘70s-inspired film is, well, inspired. Borrowing from Nicks' discography makes perfect sense, though this 1989 track doesn't have a novel take on the franchise. But still, it works in a way that emphasizes this franchise's timelessness. I mean, "Fate calls this fortune and fortune takes it away" is just "May the odds be ever in your favor" to a different tune. And honestly, I’d accept more from Nicks and Fleetwood Mac on the soundtrack. “Hunger Games” to the tune of “The Chain,” anyone?
 
 ============================================================
-[25] 12-Year-Old PC Game Now Available for Free on Steam for 24 Hours
+[26] 12-Year-Old PC Game Now Available for Free on Steam for 24 Hours
 Source: ComicBook.com | Status: expanded | Words: 404
 Published: 2026-11-27T21:21:11+00:00
 URL: https://comicbook.com/gaming/news/steam-free-game-download-vertical-drop
@@ -1021,7 +1045,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[26] Filming the Moroccan Horse-Riding Doc ‘Bardi’ Took Director Tala Hadid Into a ‘Terrain That Was Totally Unknown’ to Her: ‘I Was Almost Like an Alien’
+[27] Filming the Moroccan Horse-Riding Doc ‘Bardi’ Took Director Tala Hadid Into a ‘Terrain That Was Totally Unknown’ to Her: ‘I Was Almost Like an Alien’
 Source: Variety | Status: expanded | Words: 1065
 Published: 2026-11-27T21:20:59+00:00
 URL: https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520
@@ -1055,7 +1079,7 @@ The director recalls setting up a scene where a father tells his daughter that s
 &#x201C;I am not saying &#x2018;Bardi&#x2019; is revolutionary, but if you don&#x2019;t shake people, if you don&#x2019;t shake audiences and try to do something new, you will just make the same film again and again,&#x201D; she goes on. &#x201C;The eye needs to be awakened. That is the goal of an artist: not to be in these binaries, to re-look at the image and allow the image to work its power.&#x201D;
 
 ============================================================
-[27] Audible Names Its Top 10 Celebrity Memoirs of 2026 — Listen With 99-Cent Black Friday Deal
+[28] Audible Names Its Top 10 Celebrity Memoirs of 2026 — Listen With 99-Cent Black Friday Deal
 Source: The Hollywood Reporter | Status: expanded | Words: 362
 Published: 2026-11-27T21:20:56+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/best-celebrity-memoirs-2026-audible-black-friday-deal-promo-1236764202
@@ -1079,7 +1103,7 @@ Claim Audible&#x2019;s special offer now via Amazon . Following sign up, your $2
 Related: Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
 
 ============================================================
-[28] Candace Cameron Bure Called Out Jodie Sweetin For One Full House Pay Day Claim
+[29] Candace Cameron Bure Called Out Jodie Sweetin For One Full House Pay Day Claim
 Source: CinemaBlend | Status: expanded | Words: 232
 Published: 2026-11-27T21:13:00+00:00
 URL: https://www.cinemablend.com/television/candace-cameron-bure-called-out-jodie-sweetin-one-full-house-pay-day-claim
@@ -1095,7 +1119,7 @@ Stories about actors receiving tiny residual checks is nothing new. Abbott Eleme
 Although it's really none of my business, I'm now so curious about just how big the difference in these residual checks really is. Without giving the exact specifics, it seems Bure is receiving considerably more than the one cent her Tanner sister is receiving. This isn’t just a one-off, as Bure said that she continues to receive these checks regularly.
 
 ============================================================
-[29] Denis Villeneuve Reveals Dune 3's Biggest Change From the Books, And It Started With Part 2
+[30] Denis Villeneuve Reveals Dune 3's Biggest Change From the Books, And It Started With Part 2
 Source: ComicBook.com | Status: expanded | Words: 783
 Published: 2026-11-27T21:11:02+00:00
 URL: https://comicbook.com/movies/news/denis-villeneuve-reveals-dune-3s-biggest-change-from-the-books-and-it-started-with-part-2
@@ -1127,7 +1151,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] William Shatner Responds After 'Halloween' Director John Carpenter Called Him "A Piece Of S***" For Snub
+[31] William Shatner Responds After 'Halloween' Director John Carpenter Called Him "A Piece Of S***" For Snub
 Source: Deadline | Status: expanded | Words: 426
 Published: 2026-11-27T21:00:15+00:00
 URL: https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380
@@ -1155,7 +1179,7 @@ Frakes commented: &#x201C;Well played Bill&#x1F596;&#x1F3FE;"
 No response yet from Carpenter.
 
 ============================================================
-[31] Linda Cardellini Reveals Scooby Doo Movie Scrapped a Risqué Velma Scene "Clearly" Not for Kids
+[32] Linda Cardellini Reveals Scooby Doo Movie Scrapped a Risqué Velma Scene "Clearly" Not for Kids
 Source: ComicBook.com | Status: expanded | Words: 627
 Published: 2026-11-27T20:53:11+00:00
 URL: https://comicbook.com/movies/news/linda-cardellini-reveals-scooby-doo-movie-scrapped-a-risque-velma-scene-clearly-not-for-kids
@@ -1181,7 +1205,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] Jumanji’s Cast Celebrated Thanksgiving With A Video Of Kevin Hart (Hilariously) Throwing A Temper Tantrum
+[33] Jumanji’s Cast Celebrated Thanksgiving With A Video Of Kevin Hart (Hilariously) Throwing A Temper Tantrum
 Source: CinemaBlend | Status: expanded | Words: 216
 Published: 2026-11-27T20:52:22+00:00
 URL: https://www.cinemablend.com/movies/jumanji-cast-celebrated-thanksgiving-video-kevin-hart-temper-tantrum
@@ -1197,7 +1221,7 @@ If you need a minute after that, I understand. I laughed so hard that I immediat
 These are just some of fans’ favorite moments in the video. Clearly, they came ready to deliver the comedy goods, from Hart accusing them of “eating like a bunch of heathens” to coughing on the food. However, his tantrum feels like a nod to one of his performances as Lil’ Toot Toot in the newest trailer .
 
 ============================================================
-[33] Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?
+[34] Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?
 Source: CinemaBlend | Status: expanded | Words: 314
 Published: 2026-11-27T20:36:18+00:00
 URL: https://www.cinemablend.com/movies/dunesday-denis-villeneuve-praying-dune-part-3-box-office-success-avengers-doomsday-numbers-say
@@ -1217,7 +1241,7 @@ While the paired billing of Barbie and Oppenheimer back in 2023 famously helped 
 So, what do the latest numbers say about Dunesday with December 18 just three weeks away? According to the most current projection of $270 million, Avengers: Doomsday already has the highest box office projection the National Research Group has ever recorded (via Deadline ). Yes, even higher than Spider-Man: Brand New Day , which recently broke Endgame ’s domestic opening weekend record over the summer.
 
 ============================================================
-[34] Ben Stiller Says Ariana Grande Exceeded His Expectations in 'Focker-in-Law,' Would Do a Fifth 'Meet the Parents' Film
+[35] Ben Stiller Says Ariana Grande Exceeded His Expectations in 'Focker-in-Law,' Would Do a Fifth 'Meet the Parents' Film
 Source: The Hollywood Reporter | Status: expanded | Words: 565
 Published: 2026-11-27T20:26:09+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285
@@ -1247,7 +1271,7 @@ And it were up to Stiller? "I would do it for sure," he quipped.
 Focker-in-Law is now playing in theaters.
 
 ============================================================
-[35] Now That The Elizabeth Holmes Doc Is Streaming, The Directors’ Original Plea Is As Important As Ever
+[36] Now That The Elizabeth Holmes Doc Is Streaming, The Directors’ Original Plea Is As Important As Ever
 Source: CinemaBlend | Status: expanded | Words: 342
 Published: 2026-11-27T20:19:24+00:00
 URL: https://www.cinemablend.com/streaming-news/now-that-elizabeth-holmes-doc-streaming-directors-original-plea-important-ever-you-can-see-everything-lance-oppenheim-nathan-fielder
@@ -1265,7 +1289,7 @@ I was spoiled on the movie that seemingly everyone is talking about , from forme
 Of course, it’s been a few months since the film was released and became one of the biggest box office hits of the year (and hit new milestones for documentaries), so many have either seen it or have had the big reveal spoiled, but I do think the reveal is critical to the message of the movie.
 
 ============================================================
-[36] Everything Coming to Plex in December 2026 That You Can Stream For Free (&#038; What to Watch Before November Ends)
+[37] Everything Coming to Plex in December 2026 That You Can Stream For Free (&#038; What to Watch Before November Ends)
 Source: ComicBook.com | Status: expanded | Words: 334
 Published: 2026-11-27T20:19:00+00:00
 URL: https://comicbook.com/movies/news/everything-coming-to-plex-in-december-2026-that-you-can-stream-for-free-what-to-watch-before-november-ends
@@ -1293,7 +1317,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] David Fincher Is Known For An Insane Number Of Takes. The Sweet Way Brad Pitt Dealt With It On Cliff Booth
+[38] David Fincher Is Known For An Insane Number Of Takes. The Sweet Way Brad Pitt Dealt With It On Cliff Booth
 Source: CinemaBlend | Status: expanded | Words: 184
 Published: 2026-11-27T20:18:12+00:00
 URL: https://www.cinemablend.com/movies/david-fincher-known-insane-number-takes-brad-pitt-dealt-cliff-booth-carla-gugino-interview
@@ -1309,7 +1333,7 @@ Gugino plays Toni Peters, a former lover of Cliff Booth, whom he runs into while
 Over the years, we’ve heard all sorts of stories from other actors about David Fincher’s tendency to do a ton of takes. Ben Affleck called the process “the best film school you can go to” , whilst Charles Dance once recalled Gary Oldman getting snappy with the director for having to do one scene “a hundred fucking times” on Mank .
 
 ============================================================
-[38] Original X-Men Star Reveals Biggest Avengers: Doomsday Worry, And How Marvel Fixed It
+[39] Original X-Men Star Reveals Biggest Avengers: Doomsday Worry, And How Marvel Fixed It
 Source: ComicBook.com | Status: expanded | Words: 588
 Published: 2026-11-27T20:11:00+00:00
 URL: https://comicbook.com/movies/news/original-x-men-star-reveals-biggest-avengers-doomsday-worry-and-how-marvel-fixed-it
@@ -1337,7 +1361,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[39] Major Shojo Anime Breakout Confirms Season 2 Return With First Look
+[40] Major Shojo Anime Breakout Confirms Season 2 Return With First Look
 Source: ComicBook.com | Status: expanded | Words: 700
 Published: 2026-11-27T20:05:00+00:00
 URL: https://comicbook.com/anime/news/major-shojo-anime-breakout-confirms-season-2-return-with-first-look
@@ -1367,7 +1391,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[40] 5 Diablo Classes From Past Entries That Need to Return in Diablo 5
+[41] 5 Diablo Classes From Past Entries That Need to Return in Diablo 5
 Source: ComicBook.com | Status: expanded | Words: 1701
 Published: 2026-11-27T20:00:00+00:00
 URL: https://comicbook.com/gaming/list/5-diablo-classes-from-past-entries-that-need-to-return-in-diablo-5
@@ -1415,7 +1439,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] 'The Hunting Wives' Pays Tribute To Lionsgate Exec Salli Newman
+[42] 'The Hunting Wives' Pays Tribute To Lionsgate Exec Salli Newman
 Source: Deadline | Status: expanded | Words: 434
 Published: 2026-11-27T19:58:06+00:00
 URL: https://deadline.com/2026/11/salli-newman-hunting-wives-tribute-1237234359
@@ -1445,7 +1469,7 @@ Newman is survived by four sisters, two brothers, stepmother Joan Newman, five s
 The second season of The Hunting Wives , starring Malin Akerman, Dermot Mulroney and Brittany Snow, is available to stream on Netflix.
 
 ============================================================
-[42] ‘A Girl Unknown,’ ‘Crawling Into Myself,’ ‘Concrete Land’ Take Main Prizes at Doha Film Festival
+[43] ‘A Girl Unknown,’ ‘Crawling Into Myself,’ ‘Concrete Land’ Take Main Prizes at Doha Film Festival
 Source: Variety | Status: expanded | Words: 666
 Published: 2026-11-27T19:53:59+00:00
 URL: https://variety.com/2026/film/global/a-girl-unknown-concrete-land-doha-awards-1236959683
@@ -1485,7 +1509,7 @@ Audience Award: blogherads.adq.push(function () { blogherads .defineSlot( 'medre
 &#x201C;Jodari Meno&#x201D; by Jamal Rashid Alkhanji
 
 ============================================================
-[43] GOG Makes 2021 RPG Free for All Users
+[44] GOG Makes 2021 RPG Free for All Users
 Source: ComicBook.com | Status: expanded | Words: 514
 Published: 2026-11-27T19:53:21+00:00
 URL: https://comicbook.com/gaming/news/gog-pc-game-free-dead-age-2
@@ -1511,7 +1535,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] I Didn’t Expect Hexed To Leave Me With A Question Involving Disney Princesses
+[45] I Didn’t Expect Hexed To Leave Me With A Question Involving Disney Princesses
 Source: CinemaBlend | Status: expanded | Words: 195
 Published: 2026-11-27T19:47:59+00:00
 URL: https://www.cinemablend.com/movies/i-didnt-expect-hexed-leave-me-question-disney-princesses
@@ -1527,7 +1551,7 @@ Let me back up a bit, though. Hexed centers on Billie Doe, a mischievous high sc
 There’s no doubt that Billie has met the big four requirements. However, there is one more lesser-known requirement that has to be met for the House of Mouse to consider a character an official princess: the movie has to be a hit. In fact, the success of a movie has to extend well past its release to ensure a princess keeps her title — just look at The Hunchback of Notre Dame’s Esmerelda, who used to be in the official lineup and now is not.
 
 ============================================================
-[45] 5 Star Wars Legends Starfighters That Can Destroy Anything in Canon
+[46] 5 Star Wars Legends Starfighters That Can Destroy Anything in Canon
 Source: ComicBook.com | Status: expanded | Words: 1416
 Published: 2026-11-27T19:39:00+00:00
 URL: https://comicbook.com/movies/list/5-star-wars-legends-starfighters-that-can-destroy-anything-in-canon
@@ -1567,7 +1591,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] GTA 6's Loadout System Fixes One of My Biggest Problems With GTA 5, and It's a Massive Upgrade
+[47] GTA 6's Loadout System Fixes One of My Biggest Problems With GTA 5, and It's a Massive Upgrade
 Source: ComicBook.com | Status: expanded | Words: 853
 Published: 2026-11-27T19:30:00+00:00
 URL: https://comicbook.com/gaming/feature/gta-6s-loadout-system-fixes-one-of-my-biggest-problems-with-gta-5-and-its-a-massive-upgrade
@@ -1599,7 +1623,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] Focker In-Law Has A 32% From Critics. Why I Think You Should Ignore That
+[48] Focker In-Law Has A 32% From Critics. Why I Think You Should Ignore That
 Source: CinemaBlend | Status: expanded | Words: 235
 Published: 2026-11-27T19:29:13+00:00
 URL: https://www.cinemablend.com/movies/focker-in-law-32-percent-critics-why-should-ignore-that
@@ -1617,7 +1641,7 @@ Michael Cook from KLRT-TV wrote that while it’s a comedy, “what’s missing 
 Now, I’m always of the opinion that you should make up your mind for yourself with a movie. So, yes, obviously, you should go see Focker In-Law . However, there are also some numbers we can point to that signify there is a group of people who do really like this movie.
 
 ============================================================
-[48] Blade Runner 2099 Ending: Why Hunter Schafer And The EP Think Fans Will Have Different Feelings
+[49] Blade Runner 2099 Ending: Why Hunter Schafer And The EP Think Fans Will Have Different Feelings
 Source: CinemaBlend | Status: expanded | Words: 369
 Published: 2026-11-27T19:16:38+00:00
 URL: https://www.cinemablend.com/streaming-news/blade-runner-2099-ending-why-hunter-schafer-ep-think-fans-reactions-will-differ
@@ -1639,7 +1663,7 @@ There’s so much to consider in the scene, including the notion that Cora may h
 This show succeeds in delivering impressive visuals , strong performances and brutal action, though I also applaud Silka Luisa and her staff for adding some fresh elements to the franchise. And, while I would love to have some concrete answers regarding the final moments of this limited series, a part of me certainly respects Luisa’s desire to let the audience made up their own mind about the finer details.
 
 ============================================================
-[49] Chris Hemsworth’s Latest Workout Video Has Fans Saying ‘Doom Is Not Ready’ For Thor
+[50] Chris Hemsworth’s Latest Workout Video Has Fans Saying ‘Doom Is Not Ready’ For Thor
 Source: CinemaBlend | Status: expanded | Words: 256
 Published: 2026-11-27T19:16:05+00:00
 URL: https://www.cinemablend.com/movies/chris-hemsworth-latest-workout-video-fans-saying-doom-not-ready-thor-robert-downey-jr
@@ -1653,32 +1677,4 @@ The last original Avenger standing has not shirked his god bod. In fact, Chris H
 If watching that didn’t make you feel energized, then the voiceover definitely left you feeling hyped. Hearing “You cannot reason with a tiger” almost had me rethinking my New Year’s resolution. Now, this isn’t the first time we’ve gotten a look at his infamous workout routine, specifically for Thor . Staying fit seemed to become more and more intense with each passing movie, and according to the first Thor movie's director, Kenneth Branagh , he’d eat whole chickens . That’s about 1500 calories. Additionally, he is reported to have eaten around 4,000 calories on average. Not to mention all the push-ups.
 
 The Australian actor has actively shown off his physique with various workouts, meal plans, and by showing off his company’s fitness machines. Doctor Doom may be gathering a strong force, but Thor is bringing even stronger abs , and fans are here for it. We’ve gotten a lot of Doomsday teases with Marvel effectively hyping up fans, especially after VisionQuest , but Hemsworth is getting fans ready to see Thor back in action.
-
-============================================================
-[50] Robert Downey Jr. Reveals Real Scientist That Inspired MCU Doom, And It's Hilarious
-Source: ComicBook.com | Status: expanded | Words: 581
-Published: 2026-11-27T19:07:46+00:00
-URL: https://comicbook.com/movies/news/robert-downey-jr-reveals-real-scientist-that-inspired-mcu-doom-and-its-hilarious
-------------------------------------------------------------
-SUMMARY:
-Marvel Studios Robert Downey Jr. is one of the most talented and charismatic performers of his generation, and his about to prove it all over again in Avengers: Doomsday. Downey is returning to the Marvel Cinematic Universe franchise he helped kickstart with Iron Man (2008), only this time, he's masking up to play one of Marvel's most […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Robert Downey Jr. is one of the most talented and charismatic performers of his generation, and his about to prove it all over again in Avengers: Doomsday . Downey is returning to the Marvel Cinematic Universe franchise he helped kickstart with Iron Man (2008), only this time, he's masking up to play one of Marvel's most dangerous and nefarious antagonists, Victor Von Doom (aka "Doctor Doom").
-
-Details of Doom's arc in the film, and details of Downey's performance, have all been kept secret. But as Avengers: Doomsday 's release date approaches, the cast and crew of the biggest Marvel movie ever are saying a bit more about it.
-
-Robert Downey Jr. was part of EW 's in-depth interview with the directors and cast of Avengers: Doomsday and shared a bit more about his take on Doom. According to Downey's breakdown: "This is a guy who is vengeful and capable of doing things, because he’s lost so much that to lose this [battle] would be for all to be lost. He explained that the villain comes with a "scorched-earth vibe," inspired by an unlikely celebrity figure: apparently, RDJ's Doom is based on a "Really crabbed [Neil] deGrasse Tyson . The mechanics that have made every previous Marvel film possible are really what he seeks revenge against. It’s literally like I have contempt for the cosmos as it has been rendered."
-
-That's such a Downey answer, which is to say it's unique and eccentric, but strangely insightful at the same time. Neil DeGrasse Tyson's persona is that of a genius who can articulate major scientific concepts in fun colloquial ways; the other side of that coin has Tyson also offering exasperated debunkings of things like Flat Earth Theory, superhero and sci-fi pseudoscience , or just "correcting" common misconceptions about science or the natural world . That latter part is what Downey seems to be building off for his take on Doom: a genius who is deeply exhausted by the ignorance and ineptitude of those around them – especially those claiming to be "heroes."
-
-That quality is at the core of what makes Doom such a compelling comic character: Doom has actually helped save the world , the cosmos, and reality itself at different points in Marvel Comics lore, not out of any sense of benevolence or justice, but rather because he was the sole person with the will, knowledge, and skill to do it. We have every indication that's going to be his motivation in Avengers: Doomsday , with the added dramatic lure of having Doom desire a new world where the tragedies he's suffered never happened .
-
-The other part of Tyson's persona Downey could be drawing on is his deep knowledge of astronomy and physics, the kind of cosmic mechanics that help one understand how worlds are birthed. Because in the comics, Doom did just that, when he created his own reality, "Battleworld," win the 2015 Secret Wars crossover event – which is in turn inspiring Avengers: Secret Wars , where Downey's Doom is expected to have an equally big arc to play out.
-
-Avengers: Doomsday has a release date of December 18th.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
