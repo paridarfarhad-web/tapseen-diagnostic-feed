@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-28T00:50:44.863Z"
+    "updated_at": "2026-11-28T01:04:40.965Z"
   },
   "articles": [
+    {
+      "id": "180cd76c-d8b0-4f56-9155-8dfc47c237b6",
+      "title": "NBC Pulls Ad That Criticizes U.S.' Israel Policy &#038; Aired During 'SNL' Thanksgiving Special",
+      "summary": "NBC has pulled from its air a controversial ad that is critical of the United States' policy of sending financial aid to Israel. The ad ran Wednesday night during the network's Saturday Night Live Thanksgiving special. Titled \"Every Three Seconds,\" the half-minute spot shows a young girl working to save $400 to buy a coveted […]",
+      "content": "NBC has pulled from its air a controversial ad that is critical of the United States' policy of sending financial aid to Israel . The ad ran Wednesday night during the network's Saturday Night Live Thanksgiving special.\n\nTitled \"Every Three Seconds,\" the half-minute spot shows a young girl working to save $400 to buy a coveted bicycle. It follows her as she does such chores as moving lawns and shoveling snow until the girl proudly takes a jar filled with coins and small bills to the store. After showing her riding the new bike, it then cuts to a girl of similar age who is missing a leg and on crutches standing next to the rubble of a building. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nThe narrator then says: \"Every three seconds, our government sends $400 of taxpayer money to do this.\"\n\nA person familiar with the matter told Deadline that NBC won't re-air the ad, which comes from The IMEU Policy Project aka the Institute for Middle East Understanding Policy Project.\n\nThe spot drew backlash from multiple groups including the Anti-Defamation League, whose CEO called it \"indefensible,\" and B&#x2019;nai B&#x2019;rith International, which said in a social media post, \"Shame on NBC.\" The Israeli-American Council also weighed in, saying it \"condemns NBC&#x2019;s decision to air anti-Israel propaganda that echoes Hamas&#x2019;s narrative and fuels antisemitic hatred.\"\n\nSenior management was not aware of the ad until after it aired, the person familiar with the matter told Deadline, and NBCUniversal will be evaluating its process to ensure appropriate levels of review.",
+      "source": "Deadline",
+      "source_url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472",
+      "published_at": "2026-11-28T01:02:47+00:00",
+      "image_url": "https://deadline.com/wp-content/uploads/2026/11/NBC-Anti-Israel-ad.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 274,
+      "extracted_at": "2026-11-28T01:04:29.796877+00:00",
+      "updated_at": "2026-11-28T01:04:29.796877+00:00"
+    },
     {
       "id": "e97d3322-06d2-4389-96e0-34c8e8280690",
       "title": "One Thing About Prime Video’s Clashing Through The Snow Really Upset Fans (Myself Included)",
@@ -742,21 +757,6 @@
       "word_count": 216,
       "extracted_at": "2026-11-27T20:58:16.938344+00:00",
       "updated_at": "2026-11-27T20:58:16.938344+00:00"
-    },
-    {
-      "id": "6c93f218-3271-4263-acba-a24ab351715b",
-      "title": "Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?",
-      "summary": "\"It was impossible to move.\"",
-      "content": "If there’s one big day to circle on what’s left of the 2026 movie schedule , it’s Dunesday . It’s the Friday before Christmas when both Avengers: Doomsday and Dune: Part Three are hitting theaters . It’s going to be a huge weekend for the movie business regardless, but the writer and director of Dune 3 , Denis Villeneuve , just shared his thoughts on it, and he’s not happy. However, does he have the right to be? Let’s break it down.\n\nFirst, what exactly did the Dune filmmaker say about Dunesday ? In a new interview with Time , the director, who’s completing the trilogy with Part Three, didn’t hold back, saying this:\n\nAs he points to, the first Dune came out in October 2021 at a time when theaters were still struggling in the wake of the COVID-19 pandemic. Despite this, the movie made $410.7 million worldwide against a budget of $165 million. Then, the 2024 sequel did even better with a $714.9 million global haul, but that was after it had to be pushed back due to the 2023 Hollywood strikes .\n\nWhile the paired billing of Barbie and Oppenheimer back in 2023 famously helped both films become meteoric successes at the box office, Villeneuve doesn’t have that point of view for Dunesday . The Avengers films have been known to break huge records, and sharing the date with the latest of them has left him “praying to the gods of cinema” for his own epic.\n\nSo, what do the latest numbers say about Dunesday with December 18 just three weeks away? According to the most current projection of $270 million, Avengers: Doomsday already has the highest box office projection the National Research Group has ever recorded (via Deadline ). Yes, even higher than Spider-Man: Brand New Day , which recently broke Endgame ’s domestic opening weekend record over the summer.",
-      "source": "CinemaBlend",
-      "source_url": "https://www.cinemablend.com/movies/dunesday-denis-villeneuve-praying-dune-part-3-box-office-success-avengers-doomsday-numbers-say",
-      "published_at": "2026-11-27T20:36:18+00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/GMV9rj8twVEZRprvJqknLY-1920-80.png",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 314,
-      "extracted_at": "2026-11-27T20:42:16.116337+00:00",
-      "updated_at": "2026-11-27T20:42:16.116337+00:00"
     }
   ]
 }
