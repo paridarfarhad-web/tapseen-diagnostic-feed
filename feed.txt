@@ -1,9 +1,33 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-28T03:42:50.733Z
+Last Updated: 2026-11-28T03:44:50.885Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Classroom of the Elite Season 5 Confirms 2027 Release With First Look Trailer - Watch
+[1] BET Announces New Chaka Khan Humanitarian Prize At Friday's Soul Train Awards
+Source: Deadline | Status: expanded | Words: 360
+Published: 2026-11-28T03:43:24+00:00
+URL: https://deadline.com/2026/11/bet-announces-new-chaka-khan-humanitarian-award-1237234511
+------------------------------------------------------------
+SUMMARY:
+BET on Friday announced the creation of the Chaka Khan Humanitarian Award to recognize "musicians and cultural figures who have made outstanding contributions to humanitarianism, community service and social justice." The award will be presented annually beginning in 2027 at the Soul Train Awards. The new honor was revealed at Friday's Soul Train Awards on […]
+
+CONTENT / EXTRACTED DETAILS:
+BET on Friday announced the creation of the Chaka Khan Humanitarian Award to recognize "musicians and cultural figures who have made outstanding contributions to humanitarianism, community service and social justice."
+
+The award will be presented annually beginning in 2027 at the Soul Train Awards . The new honor was revealed at Friday's Soul Train Awards on BET and CBS. The show, back after a three-year hiatus, was taped in Chicago earlier this month and hosted by Anthony Anderson.
+
+Chaka Khan attended the show to receive the Classic Soul Honor, presented by Target. Related Stories Executives Louis Carr Leaving As BET President Amid Post-Merger Skydance TV Restructuring News Paramount Settlement Protects Pluto TV, Sets BET & Comedy Central As Potential Divesture Targets While Omitting Premium Channels & TV Studios
+
+"My music has given me a voice, but love has given me purpose,&#x201D; said Khan in a statement about her eponymous honor. &#x201C;This award isn&#x2019;t about me; it&#x2019;s about all of us who believe in lifting others, holding each other up, and building a world where compassion lives. I&#x2019;m grateful to everyone who walks that path and future generations to carry this forward." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+During the ceremony that was light on awards, fans selected Tyla as the recipient of the R&B/Soul Song of the Year for her hit &#x201C;Chanel" while PartyNextDoor was the inaugural winner of Spotify's RNB X International Artist Award.
+
+Elmiene received the New Soul Honor and Durand Bernarr took home the Soul Personified Honor.
+
+The awards ceremony featured performances by Kirk Franklin, Lucky Dave, Muni Long and BET amplified artists Jaydon and Jai'Len Josey. The late Dolly Parton was honored by Mickey Guyton, Brittney Spencer and Robert Randolph, while El Debarge paid tribute to the late Freddie Jackson.
+
+============================================================
+[2] Classroom of the Elite Season 5 Confirms 2027 Release With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 690
 Published: 2026-11-28T03:42:00+00:00
 URL: https://comicbook.com/anime/news/classroom-of-the-elite-season-5-confirms-2027-release-with-first-look-trailer-watch
@@ -31,7 +55,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[2] JAFF Market Opens Third Edition With Call to Measure Indonesian Cinema's Growth by Quality, Not Just Volume
+[3] JAFF Market Opens Third Edition With Call to Measure Indonesian Cinema's Growth by Quality, Not Just Volume
 Source: Variety | Status: expanded | Words: 1024
 Published: 2026-11-28T03:36:46+00:00
 URL: https://variety.com/2026/film/markets-festivals/jaff-market-third-edition-quality-over-volume-1236959863
@@ -75,7 +99,7 @@ Joining Mahendra on stage were JAFF founder Garin Nugroho , festival director If
 "People say the third is the charm," Gozali said. "Hopefully it is, fingers crossed."
 
 ============================================================
-[3] Anurag Kashyap, Ranjan Singh Back Haryana-Rooted Short 'The Melody of Destiny' as Executive Producers (EXCLUSIVE)
+[4] Anurag Kashyap, Ranjan Singh Back Haryana-Rooted Short 'The Melody of Destiny' as Executive Producers (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 510
 Published: 2026-11-28T03:30:00+00:00
 URL: https://variety.com/2026/film/news/anurag-kashyap-ranjan-singh-back-short-melody-of-destiny-1236959318
@@ -101,7 +125,7 @@ Most of the crew was female. The film also draws on Haryanvi folklore, which tra
 Singh said it is rare to see a young filmmaker try to push boundaries with a first film, adding that Chugh "does that convincingly in 'The Melody of Destiny.' He definitely has a unique storytelling approach and an emotional outlook which is a must for this story. I saw the film through one of the producers Diya, and strongly felt it's a film that should be taken to the world, and thus happy to onboard the film and try and do the same."
 
 ============================================================
-[4] 5 Marvel Legacy Villains Who Became Legends in Their Own Right and One Got a Wild MCU Makeover
+[5] 5 Marvel Legacy Villains Who Became Legends in Their Own Right and One Got a Wild MCU Makeover
 Source: ComicBook.com | Status: expanded | Words: 1199
 Published: 2026-11-28T03:21:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-legacy-villains-who-became-legends-in-their-own-right-and-one-got-a-wild-mcu-makeover
@@ -141,7 +165,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[5] 6 Years Later, Demon Slayer Star Breaks Silence on Anime's Most Iconic Moment Ever
+[6] 6 Years Later, Demon Slayer Star Breaks Silence on Anime's Most Iconic Moment Ever
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-28T03:19:00+00:00
 URL: https://comicbook.com/anime/news/6-years-later-demon-slayer-star-breaks-silence-on-animes-most-iconic-moment-ever
@@ -169,7 +193,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[6] Bob Greenblatt Opines Why Viewers Aren't Sampling New Shows Today: "It's Easier To Just Escape To Seinfeld or Downton Abbey"
+[7] Bob Greenblatt Opines Why Viewers Aren't Sampling New Shows Today: "It's Easier To Just Escape To Seinfeld or Downton Abbey"
 Source: Deadline | Status: expanded | Words: 341
 Published: 2026-11-28T03:18:47+00:00
 URL: https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508
@@ -189,7 +213,7 @@ Greenblatt's comments were included in a story about the growing popularity of o
 Netflix continues to demonstrate that old shows can be new and popular again with today's subscribers. The most recent example is the success of Power ; season one of the Omari Hardwick drama that first debuted on Starz in 2014 was t he eighth most watched program on Netflix for the week of Nov. 16-Nov. 22. Seasons 2 and 1 of Black Dove s, a British spy series from 2024 that stars Keira Knightley, was at No. 2 and No. 6, respectively.
 
 ============================================================
-[7] 3 More New Anime to Watch If You Miss 1990s Anime
+[8] 3 More New Anime to Watch If You Miss 1990s Anime
 Source: ComicBook.com | Status: expanded | Words: 826
 Published: 2026-11-28T03:03:06+00:00
 URL: https://comicbook.com/anime/list/3-more-new-anime-to-watch-if-you-miss-1990s-anime
@@ -221,7 +245,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Netflix's 'Secrets' Takes Indonesian Auteur Ravi Bharwani Into Thriller Territory After Eight-Year Gap
+[9] Netflix's 'Secrets' Takes Indonesian Auteur Ravi Bharwani Into Thriller Territory After Eight-Year Gap
 Source: Variety | Status: expanded | Words: 886
 Published: 2026-11-28T03:00:00+00:00
 URL: https://variety.com/2026/film/festivals/netflix-secrets-ravi-bharwani-thriller-1236959343
@@ -263,7 +287,7 @@ He already has projects in the writing stage. "Making a film for me is a great c
 By his count, he has enough material ready for two or three more films &#x2013; if someone is willing to make them.
 
 ============================================================
-[9] Jason Iskandar's 'First Breath After Coma' Revisits Lunar New Year's Public Return to Indonesia After a Three-Decade Ban, First Looks Unveiled (EXCLUSIVE)
+[10] Jason Iskandar's 'First Breath After Coma' Revisits Lunar New Year's Public Return to Indonesia After a Three-Decade Ban, First Looks Unveiled (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 906
 Published: 2026-11-28T03:00:00+00:00
 URL: https://variety.com/2026/film/markets-festivals/first-breath-after-coma-indonesia-chinese-culture-ban-1236959324
@@ -305,7 +329,7 @@ The film is in post-production and aiming for a festival premiere in 2027, to be
 Yogyakarta is familiar ground for the director. His short "Territorial Pissings" was named best short film at JAFF in 2010.
 
 ============================================================
-[10] Thunderbolts* Star Reveals New Avengers' Place in Doomsday, And It's Perfect After That Ending
+[11] Thunderbolts* Star Reveals New Avengers' Place in Doomsday, And It's Perfect After That Ending
 Source: ComicBook.com | Status: expanded | Words: 604
 Published: 2026-11-28T02:53:40+00:00
 URL: https://comicbook.com/movies/news/thunderbolts-star-reveals-new-avengers-place-in-doomsday-and-its-perfect-after-that-ending
@@ -333,7 +357,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[11] Strong 'I Play Rocky,' 'How to Rob a Bank' KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows
+[12] Strong 'I Play Rocky,' 'How to Rob a Bank' KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows
 Source: The Hollywood Reporter | Status: expanded | Words: 1519
 Published: 2026-11-28T02:49:07+00:00
 URL: https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040
@@ -387,7 +411,7 @@ Super, super excited for that one. I got to release No Time to Die , which is Da
 I've gone full circle with Rob Pattinson. I was at Summit Entertainment and released the Twilight movies way back in the day. God, I think he was 17 at the time. It's been a fun journey to see his career, and now his Bond will be great.
 
 ============================================================
-[12] When and Where to Stream the 100th Macy's Thanksgiving Day Parade After Its Historic Delay
+[13] When and Where to Stream the 100th Macy's Thanksgiving Day Parade After Its Historic Delay
 Source: The Hollywood Reporter | Status: expanded | Words: 574
 Published: 2026-11-28T02:30:07+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275
@@ -425,7 +449,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 Related: Black Friday Streaming Deals 2026: Disney+, Hulu, Apple TV and More
 
 ============================================================
-[13] 13-Year-Old Game Finally Comes to a Nintendo Platform With Switch Release Next Week
+[14] 13-Year-Old Game Finally Comes to a Nintendo Platform With Switch Release Next Week
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-28T02:08:49+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-games-new-the-wolf-among-us
@@ -449,7 +473,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[14] Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38
+[15] Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38
 Source: Deadline | Status: expanded | Words: 216
 Published: 2026-11-28T02:03:40+00:00
 URL: https://deadline.com/2026/11/jermaine-haley-dies-wwe-bronson-reed-was-38-1237234503
@@ -469,7 +493,7 @@ Sports Illustrated reports that Haley's last on-screen appearance in WWE feature
 Haley launched his wrestling career in 2007 in Australia. He signed with WWE in 2019.
 
 ============================================================
-[15] How to Watch the 2026 Thanksgiving Day Parade: A Dolly Parton Tribute, Broadway Medley and Mystery Harry Potter Float
+[16] How to Watch the 2026 Thanksgiving Day Parade: A Dolly Parton Tribute, Broadway Medley and Mystery Harry Potter Float
 Source: Variety | Status: expanded | Words: 510
 Published: 2026-11-28T02:00:00+00:00
 URL: https://variety.com/2026/shopping/news/how-to-watch-macys-thanksgiving-day-parade-free-live-online-1236957495
@@ -497,7 +521,7 @@ Other musical performers on this year&#x2019;s roster include Natasha Bedingfiel
 Stream the 100th Macy&#x2019;s Thanksgiving Day Parade live on Peacock, or watch for free with an eligible streaming trial through DirecTV .
 
 ============================================================
-[16] Christian Bale's Batman Had the Coolest Batmobile Alternative and Now It Is Being Auctioned for a Criminally High Price
+[17] Christian Bale's Batman Had the Coolest Batmobile Alternative and Now It Is Being Auctioned for a Criminally High Price
 Source: ComicBook.com | Status: expanded | Words: 649
 Published: 2026-11-28T01:58:00+00:00
 URL: https://comicbook.com/movies/news/christian-bales-batman-had-the-coolest-batmobile-alternative-and-now-it-is-being-auctioned-for-a-criminally-high-price
@@ -517,7 +541,7 @@ The custom-made Batpod is built around a Honda CRF450X engine, with 31&#8243; Ho
 What is your favorite Batman vehicle? Let us know in the comments.
 
 ============================================================
-[17] Every Movie &#038; TV Show Coming to Free Streaming on Tubi in December 2026
+[18] Every Movie &#038; TV Show Coming to Free Streaming on Tubi in December 2026
 Source: ComicBook.com | Status: expanded | Words: 324
 Published: 2026-11-28T01:51:04+00:00
 URL: https://comicbook.com/movies/news/every-movie-tv-show-coming-to-free-streaming-on-tubi-in-december-2026
@@ -553,7 +577,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[18] 5 Forgotten Spider-Man Villains Who Deserve a Second Chance
+[19] 5 Forgotten Spider-Man Villains Who Deserve a Second Chance
 Source: ComicBook.com | Status: expanded | Words: 1264
 Published: 2026-11-28T01:16:00+00:00
 URL: https://comicbook.com/comics/list/5-forgotten-spider-man-villains-who-deserve-a-second-chance
@@ -591,7 +615,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Harry Potter's New Hagrid Reveals 2 Main Inspirations, And Neither Are the Original Movie
+[20] Harry Potter's New Hagrid Reveals 2 Main Inspirations, And Neither Are the Original Movie
 Source: ComicBook.com | Status: expanded | Words: 640
 Published: 2026-11-28T01:12:15+00:00
 URL: https://comicbook.com/tv-shows/news/harry-potters-new-hagrid-reveals-2-main-inspirations-and-neither-are-the-original-movie
@@ -619,7 +643,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[20] Olaf 'Dying' In The Middle Of A Theme Park Group Performance Is Bringing Me Even More Joy
+[21] Olaf 'Dying' In The Middle Of A Theme Park Group Performance Is Bringing Me Even More Joy
 Source: CinemaBlend | Status: expanded | Words: 1304
 Published: 2026-11-28T01:05:00+00:00
 URL: https://www.cinemablend.com/theme-parks/olaf-dying-middle-theme-park-group-performance-bringing-me-even-more-joy-disneyland-paris
@@ -669,7 +693,7 @@ Theme-parks Josh Gad Just Met The Real-Life Theme Park Olaf, And The Exchange Me
 \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[21] NBC Pulls Ad That Criticizes U.S.' Israel Policy &#038; Aired During 'SNL' Thanksgiving Special
+[22] NBC Pulls Ad That Criticizes U.S.' Israel Policy &#038; Aired During 'SNL' Thanksgiving Special
 Source: Deadline | Status: expanded | Words: 274
 Published: 2026-11-28T01:02:47+00:00
 URL: https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472
@@ -691,7 +715,7 @@ The spot drew backlash from multiple groups including the Anti-Defamation League
 Senior management was not aware of the ad until after it aired, the person familiar with the matter told Deadline, and NBCUniversal will be evaluating its process to ensure appropriate levels of review.
 
 ============================================================
-[22] One Thing About Prime Video’s Clashing Through The Snow Really Upset Fans (Myself Included)
+[23] One Thing About Prime Video’s Clashing Through The Snow Really Upset Fans (Myself Included)
 Source: CinemaBlend | Status: expanded | Words: 323
 Published: 2026-11-28T00:45:00+00:00
 URL: https://www.cinemablend.com/streaming-news/one-thing-about-prime-videos-clashing-through-the-snow-really-upset-fans-myself-included-chris-briney-michelle-randolph
@@ -713,7 +737,7 @@ What might be the most infuriating thing is that apparently there was a version 
 Maybe I missed something, but I can’t wrap my head around hopeless romantic, pragmatic Ryan being the character who would turn to ChatGPT to ask for serious relationship help. That seems like a job he would have wanted a human who can experience actual love to help with, like Walter or even some random stranger he could have stumbled upon.
 
 ============================================================
-[23] Miss Vinland Saga? New 2027 Anime Confirms Its Release Date &#038; It's the Next Must-Watch
+[24] Miss Vinland Saga? New 2027 Anime Confirms Its Release Date &#038; It's the Next Must-Watch
 Source: ComicBook.com | Status: expanded | Words: 627
 Published: 2026-11-28T00:44:36+00:00
 URL: https://comicbook.com/anime/news/miss-vinland-saga-new-2027-anime-confirms-its-release-date-its-the-next-must-watch
@@ -741,7 +765,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Avengers: Doomsday Has a Bigger Challenge Than Bringing the X-Men Into the MCU
+[25] Avengers: Doomsday Has a Bigger Challenge Than Bringing the X-Men Into the MCU
 Source: ComicBook.com | Status: expanded | Words: 809
 Published: 2026-11-28T00:32:00+00:00
 URL: https://comicbook.com/movies/feature/avengers-doomsday-has-a-bigger-challenge-than-bringing-the-x-men-into-the-mcu
@@ -771,7 +795,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[25] ‘Outlander: Blood of My Blood' Bosses on the Season 2 Finale Twist That Would Rewrite the Series' Lore, Who Won't Appear on the Show — and Its Uncertain Future
+[26] ‘Outlander: Blood of My Blood' Bosses on the Season 2 Finale Twist That Would Rewrite the Series' Lore, Who Won't Appear on the Show — and Its Uncertain Future
 Source: Variety | Status: expanded | Words: 1350
 Published: 2026-11-28T00:30:00+00:00
 URL: https://variety.com/2026/tv/news/outlander-blood-of-my-blood-finale-spoiler-is-william-beauchamp-jamies-brother-1236958034
@@ -819,7 +843,7 @@ Lord John, a fan-favorite character played by David Berry in the original series
 &#x201C;There are certainly other things out there for us to explore, and Lord John remains one of them,&#x201D; Davis says.
 
 ============================================================
-[26] PS2 Exclusive Game Now Available on PS5 for $2.24
+[27] PS2 Exclusive Game Now Available on PS5 for $2.24
 Source: ComicBook.com | Status: expanded | Words: 532
 Published: 2026-11-28T00:09:41+00:00
 URL: https://comicbook.com/gaming/news/ps2-ps5-playstation-store-the-king-of-fighters
@@ -843,7 +867,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Black Panther 3’s New King Will Be Set Up in Avengers: Doomsday, Marvel Star Confirms
+[28] Black Panther 3’s New King Will Be Set Up in Avengers: Doomsday, Marvel Star Confirms
 Source: ComicBook.com | Status: expanded | Words: 609
 Published: 2026-11-28T00:02:31+00:00
 URL: https://comicbook.com/movies/news/black-panther-3s-new-king-will-be-set-up-in-avengers-doomsday-marvel-star-confirms
@@ -871,7 +895,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[28] The Supernatural Ending Jensen Ackles Actually Wants Is So Much Better Than What We Got
+[29] The Supernatural Ending Jensen Ackles Actually Wants Is So Much Better Than What We Got
 Source: CinemaBlend | Status: expanded | Words: 318
 Published: 2026-11-28T00:02:00+00:00
 URL: https://www.cinemablend.com/television/supernatural-ending-jensen-ackles-actually-better-real-finale-complaints
@@ -891,7 +915,7 @@ Of course, there is only so much that could have been done at the time with all 
 I would have been alright with an ending like this, despite it's shocking nature. Though I'll admit it's mostly because I wasn’t fond of how the finale turned out. Dean’s death dragged on, the penultimate felt more like a finale with how Sam, Dean and Jack defeated God/Chuck, and Castiel dying . Yes, things could and should have been different and they worked with what they had, but I still wish it had played out in a different manner.
 
 ============================================================
-[29] X-Files Creator Planning Reboot of His Other Cult '90s TV Series That Eventually Crossed Over
+[30] X-Files Creator Planning Reboot of His Other Cult '90s TV Series That Eventually Crossed Over
 Source: ComicBook.com | Status: expanded | Words: 567
 Published: 2026-11-27T23:59:09+00:00
 URL: https://comicbook.com/tv-shows/news/x-files-creator-planning-reboot-of-his-other-cult-90s-tv-series-that-eventually-crossed-over
@@ -919,7 +943,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] ‘Salvation’ Review: The Roots of Violence Are Explored in Emin Alper’s Tense, Atmospheric Study of a Massacre
+[31] ‘Salvation’ Review: The Roots of Violence Are Explored in Emin Alper’s Tense, Atmospheric Study of a Massacre
 Source: Variety | Status: expanded | Words: 909
 Published: 2026-11-27T23:58:07+00:00
 URL: https://variety.com/2026/film/reviews/salvation-review-1236660920
@@ -933,7 +957,7 @@ How do you justify the unjustifiable? How do you get to the point where you feel
 Alper strategically avoids creating a clean delineation between dream worlds and reality. This deliberate decision to not formally telegraph dream sequences has an intentionally disorienting effect: We can't tell when a character is experiencing a dream or vision until something explicitly unreal takes place. While we might not sympathize with Mesut as he foments specific acts of violence, this all-pervading atmosphere of psychological threat helps us see how he convinces himself of his mission. This apposite demonstration of religious convictions being used to prop up concrete actions, spurred on and given fuel by tribalist rivalries, elevates "Salvation" from a merely striking mood piece to an astute psychological study. Sadly, the film isn&#x2019;t mere fiction. In 2009, 44 people were murdered at a party in the Mardin Province of Turkey by masked assailants using automatic weapons and hand grenades. The attack left over 60 children orphaned. In taking this event as his starting point, Alper has created a film that is both culturally specific, and has plenty of wider applicability as well. There are, for instance, obvious parallels in "Salvation" with acts of violence committed by Israel in Gaza. But the relevance of "Salvation" is even broader: The rhetoric of politicians like Donald Trump or Vladimir Putin, or of U.K. Prime Minister Keir Starmer's statement that &#x201C;we risk becoming an island of strangers,&#x201D; plays on the same primal fears that allow Mesut to secure support for his bloodthirsty strongman tactics. As has been seen with ICE agents in the streets of Minneapolis, Mesut&#x2019;s followers are very happy to indulge themselves in the sensation that they are noble soldiers defending themselves and their loved ones from foreigners, when they are in fact the aggressors. The fact that "Salvation" is not overtly and literally about ICE, Palestine or any of the aforementioned political figures may provide useful cover for any festivals, curators or distributors frustrated by institutional complicity or timidity in confronting these issues directly in their programming. This is simply a film inspired by a tragedy in rural Turkey that occurred nearly 20 years ago. And if audiences or critics wish to reach for contemporary parallels drawn from other examples of reprehensible violence? Why, then they may do so.
 
 ============================================================
-[31] Luxury Beauty Advent Calendar (Worth $350) Drops Below $60 for Macy's Black Friday Sale
+[32] Luxury Beauty Advent Calendar (Worth $350) Drops Below $60 for Macy's Black Friday Sale
 Source: The Hollywood Reporter | Status: expanded | Words: 210
 Published: 2026-11-27T23:53:02+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/macys-beauty-advent-calendar-black-friday-sale-2026-promo-1236764260
@@ -951,7 +975,7 @@ The customer-coveted, Macy's exclusive beauty set includes travel-sized versions
 Related: Black Friday 2026: The 50 Best Sales From Streaming to Designer Fashion
 
 ============================================================
-[32] Donald Trump Jr.'s Outrage Gifts Netflix's 'Hunting Wives' Some Priceless Streisand Effect PR
+[33] Donald Trump Jr.'s Outrage Gifts Netflix's 'Hunting Wives' Some Priceless Streisand Effect PR
 Source: Deadline | Status: expanded | Words: 645
 Published: 2026-11-27T23:46:48+00:00
 URL: https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421
@@ -979,7 +1003,7 @@ The seriousness of it all aside, for a streamer that has been short of late of b
 Or as Netflix posted on their official feed later on Thanksgiving: "It's messy is what it is!"
 
 ============================================================
-[33] Gayle King to Miss Week of 'CBS Mornings' Shows Amid Death of Her Son-in-Law Virgil Miller
+[34] Gayle King to Miss Week of 'CBS Mornings' Shows Amid Death of Her Son-in-Law Virgil Miller
 Source: The Hollywood Reporter | Status: expanded | Words: 322
 Published: 2026-11-27T23:44:02+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264
@@ -1003,7 +1027,7 @@ He went on to serve nearly 13 years in the U.S. House of Representatives, and jo
 The Hollywood Reporter has reached out to CBS, but did not hear back.
 
 ============================================================
-[34] Farhan Akhtar, Ashutosh Gowariker and Madhur Bhandarkar Look Back at 'Dil Chahta Hai,' 'Lagaan' and 'Chandni Bar' at 25
+[35] Farhan Akhtar, Ashutosh Gowariker and Madhur Bhandarkar Look Back at 'Dil Chahta Hai,' 'Lagaan' and 'Chandni Bar' at 25
 Source: Variety | Status: expanded | Words: 930
 Published: 2026-11-27T23:42:45+00:00
 URL: https://variety.com/2026/film/festivals/farhan-akhtar-ashutosh-gowariker-madhur-bhandarkar-iffi-goa-1236959836
@@ -1041,7 +1065,7 @@ Asked what they would change if they could revisit one another's films, Akhtar s
 On AI and visual effects, Bhandarkar said, "AI and VFX can certainly enhance the visual experience and expand the possibilities of filmmaking, but they can never replace the human touch." Akhtar's advice to younger filmmakers was to draw on their own unique experiences.
 
 ============================================================
-[35] NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process
+[36] NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process
 Source: The Hollywood Reporter | Status: expanded | Words: 518
 Published: 2026-11-27T23:41:31+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/nbc-pulls-ad-criticizing-us-military-aid-israel-backlash-1236764243
@@ -1073,7 +1097,7 @@ Jim Berk, CEO of the Simon Wiesenthal Center, also shared a statement with THR c
 "The advertisement&#x2019;s imagery, an American child&#x2019;s hardship set against the anguish of a child in Gaza, offers viewers a seductive but unsubstantiated narrative: that the struggles of American families are somehow bound up with U.S. support for Israel," the statement reads in part. "In collapsing a complex foreign policy into a single, emotionally charged imagery, erases the deeper realities, including the imperative to protect Israeli lives and the very existence of the country itself. By manipulating emotion and stripping it of context, this ad seeks to become a catalyst for hostility."
 
 ============================================================
-[36] The New Hunger Games Prequel Achieving A Milestone Franchise Comeback As It Continues Box Office Dominance Over Thanksgiving
+[37] The New Hunger Games Prequel Achieving A Milestone Franchise Comeback As It Continues Box Office Dominance Over Thanksgiving
 Source: ComicBook.com | Status: expanded | Words: 614
 Published: 2026-11-27T23:39:24+00:00
 URL: https://comicbook.com/movies/news/the-hunger-games-sunrise-on-the-reaping-achieving-a-major-franchise-comeback-win-as-it-continues-box-office-dominance-over-thanksgiving
@@ -1103,7 +1127,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] I’m Disappointed To Hear A Star Trek: TNG Actor's Pitch For A New Show Was Shot Down
+[38] I’m Disappointed To Hear A Star Trek: TNG Actor's Pitch For A New Show Was Shot Down
 Source: CinemaBlend | Status: expanded | Words: 162
 Published: 2026-11-27T23:15:00+00:00
 URL: https://www.cinemablend.com/streaming-news/disappointed-hear-a-star-trek-tng-actor-pitch-new-show-shot-down-michael-dorn-worf
@@ -1119,7 +1143,7 @@ It's really interesting to hear that Alex Kurtzman and company were already deve
 That news isn't too surprising, as it's clear at this point Skydance isn't worried about rushing the next phase of Star Trek programming. The company's primary concern is to get the franchise back in theaters, and a script is already in development with hopes it'll achieve that goal.
 
 ============================================================
-[38] NBC Pulls Spot Advocating for End of U.S. Military Aid to Israel, Will Review Approval Procedures After Outcry
+[39] NBC Pulls Spot Advocating for End of U.S. Military Aid to Israel, Will Review Approval Procedures After Outcry
 Source: Variety | Status: expanded | Words: 547
 Published: 2026-11-27T23:13:47+00:00
 URL: https://variety.com/2026/tv/news/nbc-israel-military-aid-spot-middle-east-girl-1236959795
@@ -1143,7 +1167,7 @@ Jim Berk, CEO of the Wiesenthal Center, issued a lengthy statement on Thursday q
 The Institute for Middle East Understanding Policy Project did not immediately respond to a request for comment on NBC's decision. It's unclear how many more times the spot had been scheduled to run on NBCUniversal platforms. According to the organization's website, IMEU &#x201C;was founded in 2005 by a group of concerned Americans who want to foster an increased understanding among Americans about Palestine and the Palestinians.&#x201D;
 
 ============================================================
-[39] Predicting Awards Season’s First Big Week: Who Wins at the Gothams, NYFCC, NBR and More
+[40] Predicting Awards Season’s First Big Week: Who Wins at the Gothams, NYFCC, NBR and More
 Source: Variety | Status: expanded | Words: 2295
 Published: 2026-11-27T23:10:42+00:00
 URL: https://variety.com/lists/gotham-nyfcc-nbr-afi-lafca-predictions-2026
@@ -1319,7 +1343,7 @@ New Generation: Curry Barker, “Obsession” (Focus Features) Alternate: Jordan
 Douglas Edwards Experimental Film Award: “Naza” (The Guardian, MK2 and Neon) Alternate: “Everybody to Kenmure Street” (Icarus Films)
 
 ============================================================
-[40] 5 Absolute Batman Villains Who Are More Terrifying Than Their Main DC Counterparts and 1 Is Pure Nightmare Fuel
+[41] 5 Absolute Batman Villains Who Are More Terrifying Than Their Main DC Counterparts and 1 Is Pure Nightmare Fuel
 Source: ComicBook.com | Status: expanded | Words: 1143
 Published: 2026-11-27T23:08:00+00:00
 URL: https://comicbook.com/comics/list/5-absolute-batman-villains-who-are-more-terrifying-than-their-main-dc-counterparts-and-1-is-pure-nightmare-fuel
@@ -1359,7 +1383,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] 5 Twisted Romance Anime That Will Break Your Heart
+[42] 5 Twisted Romance Anime That Will Break Your Heart
 Source: ComicBook.com | Status: expanded | Words: 1201
 Published: 2026-11-27T23:07:00+00:00
 URL: https://comicbook.com/anime/list/5-twisted-romance-anime-that-will-break-your-heart
@@ -1399,7 +1423,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] ‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth's Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A 'Dream Came True'
+[43] ‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth's Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A 'Dream Came True'
 Source: Variety | Status: expanded | Words: 1407
 Published: 2026-11-27T22:45:00+00:00
 URL: https://variety.com/2026/tv/news/percy-jackson-season-3-gray-contacts-finale-1236958463
@@ -1447,7 +1471,7 @@ From Jeffries' perspective, the best is yet to come. She says she's especially e
 The last episode "is something that literally means so much to me because I feel like so many people have asked for it," she says. "I know so many people who wanted to see it, and that dream came true."
 
 ============================================================
-[43] Hancock 2 Gets Major Update From Director &#038; Will Smith Wants to Return
+[44] Hancock 2 Gets Major Update From Director &#038; Will Smith Wants to Return
 Source: ComicBook.com | Status: expanded | Words: 616
 Published: 2026-11-27T22:41:50+00:00
 URL: https://comicbook.com/movies/news/hancock-2-gets-major-update-from-director-will-smith-wants-to-return
@@ -1475,7 +1499,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] Nintendo Switch Online Makes 2025 Game Free for Some Users
+[45] Nintendo Switch Online Makes 2025 Game Free for Some Users
 Source: ComicBook.com | Status: expanded | Words: 508
 Published: 2026-11-27T22:40:18+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-absolum
@@ -1499,7 +1523,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[45] Rick Moranis Reveals He Secretly Directed Scenes From an '80s Cult Classic
+[46] Rick Moranis Reveals He Secretly Directed Scenes From an '80s Cult Classic
 Source: ComicBook.com | Status: expanded | Words: 663
 Published: 2026-11-27T22:37:03+00:00
 URL: https://comicbook.com/movies/news/rick-moranis-reveals-he-secretly-directed-scenes-from-an-80s-cult-classic
@@ -1525,7 +1549,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[46] How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson
+[47] How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson
 Source: The Hollywood Reporter | Status: expanded | Words: 443
 Published: 2026-11-27T22:33:24+00:00
 URL: https://www.hollywoodreporter.com/tv/tv-news/watch-soul-train-awards-2026-free-bet-cbs-live-stream-1236764242
@@ -1557,7 +1581,7 @@ After the trial, plans start at $54.99 for the first month and $64.99 monthly th
 For the best bang for your buck, sign up for Sling's Orange & Blue plan , which includes everything each plan offers individually, starting at $60.99 per month.
 
 ============================================================
-[47] 'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2: 'It's a F—-ed Up Commitment' to 'Move Past' Murder
+[48] 'The Hunting Wives' Stars and Creator Break Down Margo and Sophie's Dangerous Love Affair in Season 2: 'It's a F—-ed Up Commitment' to 'Move Past' Murder
 Source: Variety | Status: expanded | Words: 3000
 Published: 2026-11-27T22:30:00+00:00
 URL: https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232
@@ -1651,7 +1675,7 @@ Cutter: I don't watch that much reality TV, but I think I would have to try it. 
 This interview has been edited and condensed.
 
 ============================================================
-[48] The Holiday Ever After Cast And Co. Have Ideas For Another Disney Park Romance. I’m Obsessed
+[49] The Holiday Ever After Cast And Co. Have Ideas For Another Disney Park Romance. I’m Obsessed
 Source: CinemaBlend | Status: expanded | Words: 447
 Published: 2026-11-27T22:30:00+00:00
 URL: https://www.cinemablend.com/television/the-holiday-ever-after-cast-ideas-another-disney-park-romance-tokyo-disneysea-disney-world
@@ -1677,7 +1701,7 @@ He makes a fair point: Disney World is a massive place, and they could easily ma
 Well, there’s certainly more magic to see at Disney World. However, I’m also hoping that Holiday Ever After’s team finds themselves in Japan too. Really, I’ll be happy with a movie at any of the Disney Parks. However, these ideas the cast and creatives threw my way are phenomenal.
 
 ============================================================
-[49] Gayle King's Son-in-Law Virgil Miller Dies at 45
+[50] Gayle King's Son-in-Law Virgil Miller Dies at 45
 Source: Variety | Status: expanded | Words: 252
 Published: 2026-11-27T22:27:18+00:00
 URL: https://variety.com/2026/tv/news/gayle-king-son-in-law-virgil-miller-dead-1236959774
@@ -1695,32 +1719,4 @@ Further details about Miller's illness were not disclosed. King is expected to t
 In December 2020, Miller married King&#x2019;s daughter, Kirby Bumpus, in a private ceremony at King's close friend Oprah Winfrey's Santa Barbara home. Miller and Bumpus shared two children, son Luca, 5, and daughter Grayson, 2. King is the mother of two children, Kirby Bumpus and son William Bumpus Jr., from her marriage to ex-husband William Bumpus.
 
 &#x201C;Our thoughts right now are with her daughter, and their two beautiful children,&#x201D; Tower's memo continues. &#x201C;We&#x2019;re respecting the family and giving them privacy as they get through this difficult time.&#x201D;
-
-============================================================
-[50] Ray Gunn &#038; Incredibles Director Brad Bird "Would Not Say No" to Making An R-Rated Animated Film, On One Condition (Exclusive)
-Source: ComicBook.com | Status: expanded | Words: 562
-Published: 2026-11-27T22:26:10+00:00
-URL: https://comicbook.com/movies/news/ray-gunn-incredibles-director-brad-bird-would-not-say-no-to-making-an-r-rated-animated-film-on-one-condition-exclusive
-------------------------------------------------------------
-SUMMARY:
-Netflix Brad Bird's filmography has some of the greatest classic and modern animated features on it (The Iron Giant, The Incredibles, Ratatouille, The Incredibles 2), and he's trying to add another hit with his upcoming Netflix film, Ray Gunn. A mix of classic Film Noir and futuristic sci-fi, Ray Gunn stars Sam Rockwell as the voice […]
-
-CONTENT / EXTRACTED DETAILS:
-&nbsp; Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Add Us On Google Brad Bird's filmography has some of the greatest classic and modern animated features on it ( The Iron Giant, The Incredibles, Ratatouille, The Incredibles 2 ), and he's trying to add another hit with his upcoming Netflix film, Ray Gunn . A mix of classic Film Noir and futuristic sci-fi, Ray Gunn stars Sam Rockwell as the voice of Raymond "Ray" Gunn a cop turned private detective. Ray gets plunged into a case involving a murder, an alien plot, and a potential femme fatale in the form of his love interest Venus Nova (Scarlett Johansson), a prominent star of the screen.
-
-ComicBook.com's Chris Killian had the chance to sit down with Brad Bird at the press junket for Ray Gunn . With so many big family-friendly animated movies under his belt, Ray Gunn feels slightly more adult with its Noir tropes and themes. So would Brad Bird be willing to take it a step further and do a full-fledged R-Rated animated film?
-
-In his own words, Brad Bird does have some idea about the R-rated animated film he would make, and the one condition for him agreeing to do it: "It would have to be story driven, but I've made that argument before that, you know, there are films," Bird said.
-
-"Some people think of animation as a rating, almost like it's a G or PG rating. And if it's anything other than that, then it's not, you know, what animation does. And I don't think of it that way, he continued. "I think of a film like The Godfather, it's rated R, and I wouldn't change a frame of it. But I also wouldn't have my kids see it at ten; I would probably wait 'til they're like 13, 14, you know what I mean?"
-
-With that kind of outlook, it's all about timing for Bird – and now is not the current time for him to make the move to a more restrictive-rating for his animated projects. "I don't see myself at this point doing that because I don't have an idea that is suitable for that. But, I would love to make every kind of film, you know, and I certainly would not say no to an R-rated film if it was the right R-rated film."
-
-Ray Gunn is set "In Metropia, a gigantic city in an alternate future as seen from 1939," where we meet "private eye Raymond Gunn (Sam Rockwell)" who gets "drawn into a case involving aliens, murder and a multimedia star named Venus Nova (Scarlett Johansson)." Additional cast members include Tom Waits as Ray's alien partner Eye-ra Kadok, with Matt Berry ( What We Do In The Shadows ), Bobby Cannavale ( Man on Fire ), Michelle Rodriguez ( Fast X ), Alan Tudyk ( Creature Commandos ), Michael Chernus ( Severance ), Patton Oswalt ( Agents of SHIELD ), and others.
-
-Brad Bird's Ray Gunn will get a limited release in select theaters starting on December 4th. It will start streaming on Netflix on December 18th.
-
-Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
-
-By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
