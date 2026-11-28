@@ -1,9 +1,35 @@
 # TapSeen Verified News Feed (Latest 50 Articles)
-Last Updated: 2026-11-28T15:05:21.750Z
+Last Updated: 2026-11-28T15:07:26.190Z
 Website: https://tapseen.com
 
 ============================================================
-[1] Rhea Ripley And More WWE Stars Pay Tribute To Bronson Reed With Touching Words And BTS Photos
+[1] Broadway Gets Speed-Dating-Style Tribute At Macy's Thanksgiving Day Parade
+Source: Deadline | Status: expanded | Words: 551
+Published: 2026-11-28T15:07:05+00:00
+URL: https://deadline.com/2026/11/macys-thanksgiving-parade-broadway-medley-1237234533
+------------------------------------------------------------
+SUMMARY:
+The Macy's Thanksgiving Day Parade's "All-Star Broadway Thanksgiving Day Celebration" went off without a hitch, even if it seemed more like a Broadway-themed speed-dating exercise. Nine musical productions - a mix of long-running shows and newcomers - were each given about a minute to show their stuff and pitch a nationwide audience on buying a […]
+
+CONTENT / EXTRACTED DETAILS:
+The Macy's Thanksgiving Day Parade's " All-Star Broadway Thanksgiving Day Celebration " went off without a hitch, even if it seemed more like a Broadway -themed speed-dating exercise. Nine musical productions - a mix of long-running shows and newcomers - were each given about a minute to show their stuff and pitch a nationwide audience on buying a ticket or two and taking in a Broadway show.
+
+Broadway's big parade moment arrived at 9:13 a.m. ET, nearly 45 minutes into the event, with emcee Julianne Hough (soon to hit Broadway in Damn Yankees ) arriving with some formally clad backup dancers to stake a perch on a couch to watch the medley. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', ["mid-article1","mid","mid-articleX","mid-article","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; }); Related Stories News Macy's Thanksgiving Day Parade Kicks Off, Making History On A Dry And Breezy Saturday News The Show Must Go On: Broadway Will Perform Saturday In Macy's Thanksgiving Parade
+
+The medley began with Lissa deGuzman and the Chicago ensemble performing an energetic "All That Jazz," and then, a minute later, Tony nominees Sara Chase and Alex Brightman of Schmigadoon! taking over the performance space to sing that show's opening title number (with Brightman's spoken "I hate musicals!" joke intact.) Watch on Deadline if ( !window.pmc.harmony?.isEventAdScheduledTime() ) { pmcCnx.cmd.push(function() { pmcCnx({ settings: { plugins: { pmcAtlasMG: { iabPlcmt: 2, } } }, playerId: '32fe25c4-79aa-406a-af44-69b41e969e71', playlistId: '0199e506-e642-7728-8264-463efe71337b', }).render("connatix_contextual_player_div"); }); } else { // This should only be get called when page cache is not cleared and it's event time. window.pmc.harmony?.switchToHarmonyPlayer(); }
+
+Next, at 9:15, came Hamilton , represented her by cast member Jarrod Spector, in full regal cape and crown as King George II and singing that musical's comic showstopper "You'll Be Back." Another crowd-pleaser followed (at 9:16) when Margaret Cho (in character as the narrator of The Rocky Horror Show ) led her cast mates in a rousing minute of "Let's Do The Time Warp."
+
+Next up were some original members of the cast of Rent , performing "Seasons of Love," followed by LJ Benet and Maria Wirries of The Lost Boys , perched high above the street on a tower of scaffolding, performing "Now, Forever."
+
+At 9:19 Sherri Shepherd, in full Genie regalia, was joined by Rodney Ingram as the title character from Disney's Aladdin to sing that musical's "Friend Like Me," then it was quickly on to The Book of Mormon , with the dancing and singing Mormons performing the show's signature tune "Tomorrow Is a Latter Day."
+
+The final bit of the medley went to Wicked , with the current Broadway Elphaba (Keri Ren&#xE9; Fuller) and Glinda (Emma Flynn), performing the big number "Defying Gravity," complete with the Wicked Witch's very, very large, billowing black cape that would never have survived the gusts of Thanksgiving Thursday. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dl-mid-article-inject2-uid1' ) .setTargeting( 'pos', ["mid-article2","mid-articleX","mid-article","mid","300x251"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[300,250],[300,251],[620,350],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization("minsize") ; });
+
+The medley, created and choreographed by Sarah O'Gleby with composer Tom Kitt arranging the music, was a solid and affectionate attempt at honoring Broadway, though many fans and industry insiders will likely be left with a little holiday nostalgic for the days when each show got its own spotlight to perform a full musical number.
+
+============================================================
+[2] Rhea Ripley And More WWE Stars Pay Tribute To Bronson Reed With Touching Words And BTS Photos
 Source: CinemaBlend | Status: expanded | Words: 524
 Published: 2026-11-28T15:02:12+00:00
 URL: https://www.cinemablend.com/wrestling/rhea-ripley-sheamus-dominik-mysterio-bronson-reed-tributes
@@ -25,7 +51,7 @@ For those of us in the wrestling community, our entire timelines have been fille
 In addition to all of his friends and fans within the wrestling industry, Reed leaves behind a wife, Paige, who he was with since high school, and a daughter Deja, who was born in 2024. Paige is currently pregnant with their second child. No information about a memorial or tributes have been announced, but WWE has put up some new merchandise to honor the fallen star . All proceeds will go directly to his family.
 
 ============================================================
-[2] 12 Years Ago, Telltale Reshaped One of Gaming's Most Beloved Franchises With a Surprisingly Deep Story
+[3] 12 Years Ago, Telltale Reshaped One of Gaming's Most Beloved Franchises With a Surprisingly Deep Story
 Source: ComicBook.com | Status: expanded | Words: 908
 Published: 2026-11-28T15:00:00+00:00
 URL: https://comicbook.com/gaming/feature/12-years-ago-telltale-reshaped-one-of-gamings-most-beloved-franchises-with-a-surprisingly-deep-story
@@ -59,7 +85,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[3] 3 Already Forgotten 2000s Movies That Actually Influenced Hollywood in Major Ways
+[4] 3 Already Forgotten 2000s Movies That Actually Influenced Hollywood in Major Ways
 Source: ComicBook.com | Status: expanded | Words: 897
 Published: 2026-11-28T14:51:00+00:00
 URL: https://comicbook.com/movies/list/3-already-forgotten-2000s-movies-that-actually-influenced-hollywood-in-major-ways-2
@@ -91,7 +117,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[4] ‘Bond 26’: Denis Villeneuve Wants An “Unapologetic” James Bond, Won’t Change 007’s DNA &#038; Expected A Casting “Hurricane”
+[5] ‘Bond 26’: Denis Villeneuve Wants An “Unapologetic” James Bond, Won’t Change 007’s DNA &#038; Expected A Casting “Hurricane”
 Source: The Playlist | Status: summary_only | Words: 101
 Published: 2026-11-28T14:25:00+00:00
 URL: https://theplaylist.net/bond-26-denis-villeneuve-unapologetic-james-bond-robert-pattinson-20261128
@@ -103,7 +129,7 @@ CONTENT / EXTRACTED DETAILS:
 Having spent the better part of a decade immersed in the dense mythology of Frank Herbert’ s “ Dune ,” filmmaker Denis Villeneuve sounds positively giddy about moving on to James Bond. And while there’s understandably a lot of curiosity about what the director’s particular sensibilities will bring to “Bond 26,” starring Robert Pattinson , Villeneuve seems less interested in deconstructing 007 than embracing the qualities that have made the character enduringly popular for more than six decades. Continue reading ‘Bond 26’: Denis Villeneuve Wants An “Unapologetic” James Bond, Won’t Change 007’s DNA & Expected A Casting “Hurricane” at The Playlist.
 
 ============================================================
-[5] Bruce Willis' Die Hard Beretta Is Heading to Auction and the Price Will Make You Say Yippee Ki-Yay
+[6] Bruce Willis' Die Hard Beretta Is Heading to Auction and the Price Will Make You Say Yippee Ki-Yay
 Source: ComicBook.com | Status: expanded | Words: 637
 Published: 2026-11-28T14:11:00+00:00
 URL: https://comicbook.com/collectibles/news/bruce-willis-die-hard-beretta-is-heading-to-auction-and-the-price-will-make-you-say-yippee-ki-yay
@@ -123,7 +149,7 @@ Bruce Willis played John McClane for the last time in 2013, and while there had 
 Is Die Hard a Christmas movie , and does it really matter? Let us know your thoughts on the movie in the comments.
 
 ============================================================
-[6] Ever Wondered Why Robert Pattinson Isn't Batman Bulky? His Take Is Not What I Expected
+[7] Ever Wondered Why Robert Pattinson Isn't Batman Bulky? His Take Is Not What I Expected
 Source: CinemaBlend | Status: expanded | Words: 407
 Published: 2026-11-28T14:10:17+00:00
 URL: https://www.cinemablend.com/movies/why-robert-pattinson-isnt-batman-bulky-his-take-not-what-i-expected
@@ -143,7 +169,7 @@ I have to admit, that's a pretty funny explanation. The guy apparently spent hou
 I'm curious whether he'll look noticeably different when we return to Gotham. Still, I don't think he needs to resemble a professional bodybuilder to convince audiences he's Batman. What matters to me is whether Pattinson can continue delivering the tortured, obsessive Bruce Wayne that made the first movie so compelling. Based on what we've seen so far, I'm feeling pretty good about that.
 
 ============================================================
-[7] $50 Nintendo Switch Game Now Available for $2.49
+[8] $50 Nintendo Switch Game Now Available for $2.49
 Source: ComicBook.com | Status: expanded | Words: 524
 Published: 2026-11-28T14:06:26+00:00
 URL: https://comicbook.com/gaming/news/nintendo-switch-game-sale-eshop-lego
@@ -167,7 +193,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[8] Planning a Holiday Trip to New York City? These Hilton Hotels Put You Steps From the City's Most Festive Attractions
+[9] Planning a Holiday Trip to New York City? These Hilton Hotels Put You Steps From the City's Most Festive Attractions
 Source: Variety | Status: expanded | Words: 388
 Published: 2026-11-28T14:00:00+00:00
 URL: https://variety.com/2026/shopping/news/best-new-york-city-hotels-holiday-travel-hilton-1236959533
@@ -189,7 +215,7 @@ But make sure to book your stay directly Hilton's website or Hilton Honors app, 
 Best of all, Hilton Honors Members save 20% when they book by December 22, for eligible stays through April 2, 2027. And with the More Points to Play offer, you can earn up to 3,000 Bonus Points on stays through December 31. Book now on Hilton.com or the Hilton Honors app. Terms apply.
 
 ============================================================
-[9] Can You Actually Take Mandy Home in GTA 6? Viral Romance Video Explained
+[10] Can You Actually Take Mandy Home in GTA 6? Viral Romance Video Explained
 Source: ComicBook.com | Status: expanded | Words: 508
 Published: 2026-11-28T14:00:00+00:00
 URL: https://comicbook.com/gaming/news/can-you-actually-take-mandy-home-in-gta-6-viral-romance-video-explained
@@ -215,7 +241,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[10] Macy's Thanksgiving Day Parade Kicks Off, Making History On A Dry And Breezy Saturday
+[11] Macy's Thanksgiving Day Parade Kicks Off, Making History On A Dry And Breezy Saturday
 Source: Deadline | Status: expanded | Words: 911
 Published: 2026-11-28T13:51:21+00:00
 URL: https://deadline.com/2026/11/macys-thanksgiving-day-parade-2026-saturday-1237234526
@@ -253,7 +279,7 @@ As for that delay, while Thursday's weather began reasonably mild - prompting so
 Macy's has been especially careful with the giant balloons after a 1998 incident in which an inflatable Cat in the Hat was blown off course by gusts and smashed into a lamppost, sending a large piece of metal tumbling into the crowd of spectators, injuring four people, including a woman who spent nearly a month in a coma.
 
 ============================================================
-[11] One Cool Connection Georgie And Mandy Actually Has With Young Sheldon I Hadn't Realized Before
+[12] One Cool Connection Georgie And Mandy Actually Has With Young Sheldon I Hadn't Realized Before
 Source: CinemaBlend | Status: expanded | Words: 1317
 Published: 2026-11-28T13:42:55+00:00
 URL: https://www.cinemablend.com/television/cool-connection-georgie-and-mandy-has-young-sheldon-hadnt-realized
@@ -301,7 +327,7 @@ Streaming News I Just Found Out Why Young Sheldon Ended After Seven Seasons &nbs
 \n \n \n Unlock interactive charts \n The latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!
 
 ============================================================
-[12] ‘War’ Season 2 Teaser: Marisa Tomei &#038; Kelly Macdonald Face Off In HBO’s Legal Drama
+[13] ‘War’ Season 2 Teaser: Marisa Tomei &#038; Kelly Macdonald Face Off In HBO’s Legal Drama
 Source: The Playlist | Status: summary_only | Words: 113
 Published: 2026-11-28T13:38:00+00:00
 URL: https://theplaylist.net/war-season-2-teaser-marisa-tomei-kelly-macdonald-hbo-20261128
@@ -313,7 +339,7 @@ CONTENT / EXTRACTED DETAILS:
 New clients, new grievances, same lawyers. Following its first-season finale, HBO has released a teaser for season two of “ War ,” the London-set legal drama from creator George Kay (“Lupin,” “Hijack”). With Dominic West and Sienna Miller ’s divorce proceedings behind them, the show’s rival law firms take on a new dispute involving Oscar winner Marisa Tomei and Kelly Macdonald . HBO and Sky ordered two seasons of “War” from the outset, allowing Kay to develop a quasi-anthology that follows the lives of its lawyers through a different high-profile case each season. Continue reading ‘War’ Season 2 Teaser: Marisa Tomei & Kelly Macdonald Face Off In HBO’s Legal Drama at The Playlist.
 
 ============================================================
-[13] I Just Realized Hollywood Has Spent Hundreds Of Millions Trying To Get Matt Damon Home In Movies
+[14] I Just Realized Hollywood Has Spent Hundreds Of Millions Trying To Get Matt Damon Home In Movies
 Source: CinemaBlend | Status: expanded | Words: 357
 Published: 2026-11-28T13:36:44+00:00
 URL: https://www.cinemablend.com/movies/i-just-realized-hollywood-has-spent-hundreds-of-millions-trying-to-get-matt-damon-home-in-movies
@@ -333,7 +359,7 @@ I still remember watching Christopher Nolan's Interstellar in 2014 and being stu
 Then came The Odyssey , one of the biggest movies on the 2026 release calendar . Nolan cast Damon as Odysseus, the Greek king trying to return to Ithaca after the Trojan War. Considering how miserable Damon said he was during parts of filming , apparently getting home wasn't much easier for the actor than it was for his character. Monsters, storms, angry gods: no airports or baggage fees, and somehow getting home was still an absolute nightmare.
 
 ============================================================
-[14] DC Studios Has One Character It Absolutely Cannot Afford to Get Wrong
+[15] DC Studios Has One Character It Absolutely Cannot Afford to Get Wrong
 Source: ComicBook.com | Status: expanded | Words: 889
 Published: 2026-11-28T13:31:00+00:00
 URL: https://comicbook.com/movies/feature/dc-studios-has-one-character-it-absolutely-cannot-afford-to-get-wrong
@@ -361,7 +387,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[15] The $353M Superhero Movie That Saved a Marvel Franchise Is Going to Be Harder to Watch in America Ahead of Avengers: Doomsday
+[16] The $353M Superhero Movie That Saved a Marvel Franchise Is Going to Be Harder to Watch in America Ahead of Avengers: Doomsday
 Source: ComicBook.com | Status: expanded | Words: 668
 Published: 2026-11-28T13:17:59+00:00
 URL: https://comicbook.com/movies/news/the-353m-superhero-movie-that-saved-a-marvel-franchise-is-going-to-be-harder-to-watch-in-america-ahead-of-avengers-doomsday
@@ -385,7 +411,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[16] Here's Everything Coming to Prime Video in December 2026
+[17] Here's Everything Coming to Prime Video in December 2026
 Source: ComicBook.com | Status: expanded | Words: 311
 Published: 2026-11-28T12:49:00+00:00
 URL: https://comicbook.com/movies/news/heres-everything-coming-to-prime-video-in-december-2026
@@ -431,7 +457,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[17] A Demon Baby and a Contract-Killing Company Anchor Indonesian Dark Comedy 'Gokill' at JAFF Market
+[18] A Demon Baby and a Contract-Killing Company Anchor Indonesian Dark Comedy 'Gokill' at JAFF Market
 Source: Variety | Status: expanded | Words: 475
 Published: 2026-11-28T12:19:48+00:00
 URL: https://variety.com/2026/film/markets-festivals/demon-baby-contract-killers-indonesian-dark-comedy-gokill-1236959976
@@ -461,7 +487,7 @@ The project is currently in development under Angin Segar Films, Kapsul Waktu St
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival, runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 28&#x2013;Dec. 5.
 
 ============================================================
-[18] DC's Most Militant Superteam Had a Surprisingly Complicated History, and It's Time to Revisit Them
+[19] DC's Most Militant Superteam Had a Surprisingly Complicated History, and It's Time to Revisit Them
 Source: ComicBook.com | Status: expanded | Words: 1056
 Published: 2026-11-28T12:09:00+00:00
 URL: https://comicbook.com/comics/feature/dcs-most-militant-superteam-had-a-surprisingly-complicated-history-and-its-time-to-revisit-them
@@ -497,7 +523,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[19] Much Has Already Been Said About Taxi Driver...I'm Here To Say Why It Still Matters In 2026
+[20] Much Has Already Been Said About Taxi Driver...I'm Here To Say Why It Still Matters In 2026
 Source: CinemaBlend | Status: expanded | Words: 220
 Published: 2026-11-28T12:05:00+00:00
 URL: https://www.cinemablend.com/movies/much-has-already-been-said-about-taxi-driver-here-say-some-more-robert-deniro-martin-scorsese
@@ -517,7 +543,7 @@ When talking about the best Breaking Bad characters, Walter White usually comes 
 I love the Rocky movies , but come on now. There is no way that the original Rocky should have beaten a movie like Taxi Driver for Best Picture.
 
 ============================================================
-[20] 'Beauty and the Beast' Becomes a Tale of Coercive Control in Romantic Thriller 'Wreck and Ruin' at JAFF Market
+[21] 'Beauty and the Beast' Becomes a Tale of Coercive Control in Romantic Thriller 'Wreck and Ruin' at JAFF Market
 Source: Variety | Status: expanded | Words: 513
 Published: 2026-11-28T12:02:39+00:00
 URL: https://variety.com/2026/film/markets-festivals/beauty-and-the-beast-flipped-thriller-wreck-and-ruin-jaff-1236959968
@@ -547,7 +573,7 @@ Alongside "Wreck and Ruin," Lourde is executive producing Nick Annas' "Crashout,
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival , runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 28&#x2013;Dec. 6.
 
 ============================================================
-[21] Indonesian Social Thriller 'A Quiet Sunshine' Speaks Up for Women's Bodily Autonomy at JAFF Market
+[22] Indonesian Social Thriller 'A Quiet Sunshine' Speaks Up for Women's Bodily Autonomy at JAFF Market
 Source: Variety | Status: expanded | Words: 466
 Published: 2026-11-28T11:45:39+00:00
 URL: https://variety.com/2026/film/markets-festivals/indonesian-thriller-quiet-sunshine-women-autonomy-1236959964
@@ -577,7 +603,7 @@ Backed by QUN Films and Catchlight Pictures, the project is at the advanced scri
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival , runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 29&#x2013;Dec. 6.
 
 ============================================================
-[22] Migrant Worker Tale 'Luz and Flor' Finds Prehistoric Filipino and Indonesian Humans in Spain at JAFF Market
+[23] Migrant Worker Tale 'Luz and Flor' Finds Prehistoric Filipino and Indonesian Humans in Spain at JAFF Market
 Source: Variety | Status: expanded | Words: 685
 Published: 2026-11-28T11:35:19+00:00
 URL: https://variety.com/2026/film/markets-festivals/migrant-worker-tale-luz-and-flor-prehistoric-humans-spain-1236959961
@@ -613,7 +639,7 @@ Barit, meanwhile, is preparing a short backed by the Film Development Council of
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival , runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 29&#x2013;Dec. 6.
 
 ============================================================
-[23] A Forgotten Ferris Bueller Sequel Premiered in the '90s, With Jennifer Aniston Replacing One Character
+[24] A Forgotten Ferris Bueller Sequel Premiered in the '90s, With Jennifer Aniston Replacing One Character
 Source: ComicBook.com | Status: expanded | Words: 684
 Published: 2026-11-28T11:28:00+00:00
 URL: https://comicbook.com/tv-shows/feature/a-forgotten-ferris-bueller-sequel-premiered-in-the-90s-with-jennifer-aniston-replacing-one-character
@@ -641,7 +667,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[24] Filmmakers Behind Lebanon's Oscar Contender ‘Furies’ on Cinema as ‘an Act of Resilience and Catharsis’
+[25] Filmmakers Behind Lebanon's Oscar Contender ‘Furies’ on Cinema as ‘an Act of Resilience and Catharsis’
 Source: Variety | Status: expanded | Words: 999
 Published: 2026-11-28T11:23:39+00:00
 URL: https://variety.com/2026/film/global/furies-rami-kodeih-nora-mariana-lebanon-doha-1236959954
@@ -691,7 +717,7 @@ During filming in 2025, the first assistant director alerted the filmmakers to i
 The Lebanese-Brazilian co-production hails from RT Features and Nausika Films, with Rodrigo Teixeira and Berta Marchiori producing. According to Mariana, Teixeira connected with the screenplay in light of Brazil&#x2019;s own banking crisis in the early 1990s. George Clooney and Grant Heslov joined as executive producers after the filmmakers shared a cut with their production company, Smokehouse Pictures. Le Pacte handles worldwide sales and French distribution, with The Plot Pictures distributing in MENA and Vertigo Releasing in the U.K.
 
 ============================================================
-[25] Indonesian Body Horror 'Primal' Turns a Mother's Grief Monstrous at JAFF Market
+[26] Indonesian Body Horror 'Primal' Turns a Mother's Grief Monstrous at JAFF Market
 Source: Variety | Status: expanded | Words: 755
 Published: 2026-11-28T11:20:02+00:00
 URL: https://variety.com/2026/film/markets-festivals/indonesian-body-horror-primal-jaff-market-1236959958
@@ -729,7 +755,7 @@ Maychaelson admits his outlook may sound a little like Quentin Tarantino's. "I l
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival , runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 29&#x2013;Dec. 6.
 
 ============================================================
-[26] 5 2010s Superhero Movies I Wish I Could See All Over Again, Like the Best Spider-Man Film Ever
+[27] 5 2010s Superhero Movies I Wish I Could See All Over Again, Like the Best Spider-Man Film Ever
 Source: ComicBook.com | Status: expanded | Words: 1094
 Published: 2026-11-28T10:45:00+00:00
 URL: https://comicbook.com/movies/list/5-2010s-superhero-movies-i-wish-i-could-see-all-over-again-like-the-best-spider-man-film-ever
@@ -769,7 +795,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[27] Channel 4 Defends Huw Edwards Doc After Government Criticism: "There Is Clear Public Interest In Confronting Him With Questions"
+[28] Channel 4 Defends Huw Edwards Doc After Government Criticism: "There Is Clear Public Interest In Confronting Him With Questions"
 Source: Deadline | Status: expanded | Words: 1080
 Published: 2026-11-28T10:07:17+00:00
 URL: https://deadline.com/2026/11/channel-4-responds-huw-edwards-doc-government-criticism-1237234520
@@ -815,7 +841,7 @@ Channel 4 has a long and established record of investigating powerful figures an
 We should be capable of examining difficult issues rather than looking away because we don&#x2019;t like what we see. We understand that some people will profoundly disagree with our decision to make this film. But discomfort is not, in itself, a reason for journalism not to ask difficult questions. We believe those questions are in the public interest.&#x201D;
 
 ============================================================
-[28] The Worst Avengers Movie Did Something That No Other MCU Film Ever Did &#038; It Was Awesome
+[29] The Worst Avengers Movie Did Something That No Other MCU Film Ever Did &#038; It Was Awesome
 Source: ComicBook.com | Status: expanded | Words: 942
 Published: 2026-11-28T10:04:00+00:00
 URL: https://comicbook.com/movies/feature/the-worst-avengers-movie-did-something-that-no-other-mcu-film-ever-did-it-was-awesome
@@ -849,7 +875,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[29] 3 Cult '90s Fantasy Movies That Millennials Remember, But No One Else Cares About
+[30] 3 Cult '90s Fantasy Movies That Millennials Remember, But No One Else Cares About
 Source: ComicBook.com | Status: expanded | Words: 897
 Published: 2026-11-28T09:23:00+00:00
 URL: https://comicbook.com/movies/list/3-cult-90s-fantasy-movies-that-millennials-remember-but-no-one-else-cares-about
@@ -879,7 +905,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[30] Indonesian Drama 'Alpa (Absence)' Explores a Son's Descent Into Extremism at JAFF Future Project
+[31] Indonesian Drama 'Alpa (Absence)' Explores a Son's Descent Into Extremism at JAFF Future Project
 Source: Variety | Status: expanded | Words: 567
 Published: 2026-11-28T08:50:27+00:00
 URL: https://variety.com/2026/film/markets-festivals/indonesian-drama-alpa-absence-son-slide-extremism-1236959940
@@ -911,7 +937,7 @@ Cheisa also produced the short and previously worked with Seta on his debut shor
 JAFF Market, the industry arm of the Jogja-Netpac Asian Film Festival, runs Nov. 28&#x2013;30 at the Jogja Expo Center in Yogyakarta. The festival's 21st edition runs Nov. 29&#x2013;Dec. 6.
 
 ============================================================
-[31] 20 Years Ago, the X-Men Movies Lost Their Way for the First Time
+[32] 20 Years Ago, the X-Men Movies Lost Their Way for the First Time
 Source: ComicBook.com | Status: expanded | Words: 816
 Published: 2026-11-28T08:38:00+00:00
 URL: https://comicbook.com/movies/feature/20-years-ago-the-x-men-movies-lost-their-way-for-the-first-time
@@ -941,7 +967,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[32] 'The Hunchback, Soul of Paris' Review: Quasimodo Gets an Origin Story, for Some Reason
+[33] 'The Hunchback, Soul of Paris' Review: Quasimodo Gets an Origin Story, for Some Reason
 Source: Variety | Status: expanded | Words: 911
 Published: 2026-11-28T08:14:35+00:00
 URL: https://variety.com/2026/film/reviews/the-hunchback-soul-of-paris-review-1236959927
@@ -967,7 +993,7 @@ In one of the film&#x2019;s big ideas, Quasimodo is depicted as having superhuma
 As events very slowly begin to grind towards a climactic confrontation, Cassel seems hampered by the main character&#x2019;s make-up and lack of characterization, his performance reduced to a mere bodily incarnation of the hunchback. (A late scene in which he stammeringly bonds with Agn&#xE8;s, on a high rampart atop the cathedral, is perfectly risible and symptomatic of a much wider problem with character-building.) Patakia, as the somewhat modern-minded tart with a heart, is appealing and sensitive enough, but the role is paper-thin. At last, the capturing of Quasimodo sparks a skirmish and Paris starts to burn, but even here Richet feels uninspired, and the battle scenes &#x2014; while handsomely art-directed &#x2014; lack energy and pizzazz. It&#x2019;s left to Patakia, in a bonnet and d&#xE9;collet&#xE9;, to mirror Eug&#xE8;ne Delacroix&#x2019;s "Liberty Leading the People," in a rather mortifying slow-mo that encapsulates the film's general vanity and lack of inspiration.
 
 ============================================================
-[33] Jermaine Haley, WWE Wrestler Known as Bronson Reed, Dies at 38
+[34] Jermaine Haley, WWE Wrestler Known as Bronson Reed, Dies at 38
 Source: The Hollywood Reporter | Status: expanded | Words: 298
 Published: 2026-11-28T05:41:38+00:00
 URL: https://www.hollywoodreporter.com/news/general-news/jermaine-haley-dead-wwe-wrestler-bronson-reed-1236764314
@@ -991,7 +1017,7 @@ Haley did not stay away from the WWE for long, as he joined the main roster in 2
 Haley married his high school sweetheart, Paige, and they welcomed their first child in February 2024. As the WWE announced, his wife was pregnant with their second child at the time of his death.
 
 ============================================================
-[34] Indonesian Cinema's Next Chapter Is Reaching the World 'Without Losing Our Cultural Identity,' Says JAFF Market Director Linda Gozali
+[35] Indonesian Cinema's Next Chapter Is Reaching the World 'Without Losing Our Cultural Identity,' Says JAFF Market Director Linda Gozali
 Source: Variety | Status: expanded | Words: 1061
 Published: 2026-11-28T05:07:09+00:00
 URL: https://variety.com/2026/film/markets-festivals/indonesian-cinema-next-chapter-global-jaff-market-1236959893
@@ -1041,7 +1067,7 @@ JAFF Market is backed by Amar Bank, Indonesia's Ministry of Culture and Ministry
 As for the next five years, "Growth is not necessarily about becoming bigger," Gozali says. "It is about becoming more relevant, useful and consequential."
 
 ============================================================
-[35] Southeast Asian Cinema's Global Rise Needs Long-Term Backing to Last, Says JAFF Chief Ifa Isfansyah
+[36] Southeast Asian Cinema's Global Rise Needs Long-Term Backing to Last, Says JAFF Chief Ifa Isfansyah
 Source: Variety | Status: expanded | Words: 909
 Published: 2026-11-28T04:59:08+00:00
 URL: https://variety.com/2026/film/markets-festivals/southeast-asian-cinema-rise-long-term-backing-jaff-chief-1236959870
@@ -1085,7 +1111,7 @@ However large JAFF gets, Isfansyah says it has to keep resting on emerging talen
 "For me, being community-driven does not mean remaining small. It means remembering that the festival exists because of the people who build it, participate in it, and give it meaning."
 
 ============================================================
-[36] WWE Star Bronson Reed Dies at 38
+[37] WWE Star Bronson Reed Dies at 38
 Source: ComicBook.com | Status: expanded | Words: 210
 Published: 2026-11-28T04:52:50+00:00
 URL: https://comicbook.com/tv-shows/news/wwe-star-bronson-reed-dies-at-38
@@ -1103,7 +1129,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[37] France Knights 'Autobiography,' 'Tiger Stripes' Producer Yulia Evina Bhara at JAFF Market
+[38] France Knights 'Autobiography,' 'Tiger Stripes' Producer Yulia Evina Bhara at JAFF Market
 Source: Variety | Status: expanded | Words: 899
 Published: 2026-11-28T04:50:55+00:00
 URL: https://variety.com/2026/film/markets-festivals/france-knights-tiger-stripes-producer-yulia-evina-bhara-1236959888
@@ -1141,7 +1167,7 @@ Penone said most projects from earlier editions will head to Paris early next mo
 "Chevalier means a knight. A knight promises to protect something," Bhara said. "So today, I promise I will keep protecting the fragile voices, the local films, the human films, and I promise I will never do it alone."
 
 ============================================================
-[38] WWE Star Bronson Reed Dies at 38
+[39] WWE Star Bronson Reed Dies at 38
 Source: Variety | Status: expanded | Words: 182
 Published: 2026-11-28T04:27:07+00:00
 URL: https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879
@@ -1161,7 +1187,7 @@ Haley was raised in Adelaide and got his start working &#x201C;throughout Austra
 Haley joined WWE in 2019 and made his first appearance on the league's up-and-comers series &#x201C;NXT.&#x201D; He was released by WWE in 2021 but came back the following year and had remained active with the league until Friday.
 
 ============================================================
-[39] T-Mobile Offering Free iPhone 18 Pro, iPad and Apple Watch Bundle for Black Friday
+[40] T-Mobile Offering Free iPhone 18 Pro, iPad and Apple Watch Bundle for Black Friday
 Source: The Hollywood Reporter | Status: expanded | Words: 312
 Published: 2026-11-28T04:18:54+00:00
 URL: https://www.hollywoodreporter.com/lifestyle/shopping/black-friday-cell-phone-deals-t-mobile-2026-free-iphone-18-1236764297
@@ -1181,7 +1207,7 @@ Visit T-mobile's website for the full lineup of Black Friday savings across Appl
 Related: The Best of Macy&#x2019;s Black Friday Sale: Pre-Loved Birkins, Olivia Rodrigo Legos and 15 More Standouts
 
 ============================================================
-[40] Dragon Ball Super's Universe 6 Saiyans Deserve to Return for Their Own Arc
+[41] Dragon Ball Super's Universe 6 Saiyans Deserve to Return for Their Own Arc
 Source: ComicBook.com | Status: expanded | Words: 798
 Published: 2026-11-28T04:18:00+00:00
 URL: https://comicbook.com/anime/feature/dragon-ball-supers-universe-6-saiyans-deserve-to-return-for-their-own-arc
@@ -1211,7 +1237,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[41] One Piece’s God Valley Movie Must Make One Major Change to Become a Hit
+[42] One Piece’s God Valley Movie Must Make One Major Change to Become a Hit
 Source: ComicBook.com | Status: expanded | Words: 576
 Published: 2026-11-28T04:02:00+00:00
 URL: https://comicbook.com/anime/feature/one-pieces-god-valley-movie-must-make-one-major-change-to-become-a-hit
@@ -1237,7 +1263,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[42] BET Announces New Chaka Khan Humanitarian Prize At Friday's Soul Train Awards
+[43] BET Announces New Chaka Khan Humanitarian Prize At Friday's Soul Train Awards
 Source: Deadline | Status: expanded | Words: 360
 Published: 2026-11-28T03:43:24+00:00
 URL: https://deadline.com/2026/11/bet-announces-new-chaka-khan-humanitarian-award-1237234511
@@ -1261,7 +1287,7 @@ Elmiene received the New Soul Honor and Durand Bernarr took home the Soul Person
 The awards ceremony featured performances by Kirk Franklin, Lucky Dave, Muni Long and BET amplified artists Jaydon and Jai'Len Josey. The late Dolly Parton was honored by Mickey Guyton, Brittney Spencer and Robert Randolph, while El Debarge paid tribute to the late Freddie Jackson.
 
 ============================================================
-[43] Classroom of the Elite Season 5 Confirms 2027 Release With First Look Trailer - Watch
+[44] Classroom of the Elite Season 5 Confirms 2027 Release With First Look Trailer - Watch
 Source: ComicBook.com | Status: expanded | Words: 690
 Published: 2026-11-28T03:42:00+00:00
 URL: https://comicbook.com/anime/news/classroom-of-the-elite-season-5-confirms-2027-release-with-first-look-trailer-watch
@@ -1289,7 +1315,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[44] JAFF Market Opens Third Edition With Call to Measure Indonesian Cinema's Growth by Quality, Not Just Volume
+[45] JAFF Market Opens Third Edition With Call to Measure Indonesian Cinema's Growth by Quality, Not Just Volume
 Source: Variety | Status: expanded | Words: 1024
 Published: 2026-11-28T03:36:46+00:00
 URL: https://variety.com/2026/film/markets-festivals/jaff-market-third-edition-quality-over-volume-1236959863
@@ -1333,7 +1359,7 @@ Joining Mahendra on stage were JAFF founder Garin Nugroho , festival director If
 "People say the third is the charm," Gozali said. "Hopefully it is, fingers crossed."
 
 ============================================================
-[45] Anurag Kashyap, Ranjan Singh Back Haryana-Rooted Short 'The Melody of Destiny' as Executive Producers (EXCLUSIVE)
+[46] Anurag Kashyap, Ranjan Singh Back Haryana-Rooted Short 'The Melody of Destiny' as Executive Producers (EXCLUSIVE)
 Source: Variety | Status: expanded | Words: 510
 Published: 2026-11-28T03:30:00+00:00
 URL: https://variety.com/2026/film/news/anurag-kashyap-ranjan-singh-back-short-melody-of-destiny-1236959318
@@ -1359,7 +1385,7 @@ Most of the crew was female. The film also draws on Haryanvi folklore, which tra
 Singh said it is rare to see a young filmmaker try to push boundaries with a first film, adding that Chugh "does that convincingly in 'The Melody of Destiny.' He definitely has a unique storytelling approach and an emotional outlook which is a must for this story. I saw the film through one of the producers Diya, and strongly felt it's a film that should be taken to the world, and thus happy to onboard the film and try and do the same."
 
 ============================================================
-[46] 5 Marvel Legacy Villains Who Became Legends in Their Own Right and One Got a Wild MCU Makeover
+[47] 5 Marvel Legacy Villains Who Became Legends in Their Own Right and One Got a Wild MCU Makeover
 Source: ComicBook.com | Status: expanded | Words: 1199
 Published: 2026-11-28T03:21:00+00:00
 URL: https://comicbook.com/comics/list/5-marvel-legacy-villains-who-became-legends-in-their-own-right-and-one-got-a-wild-mcu-makeover
@@ -1399,7 +1425,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[47] 6 Years Later, Demon Slayer Star Breaks Silence on Anime's Most Iconic Moment Ever
+[48] 6 Years Later, Demon Slayer Star Breaks Silence on Anime's Most Iconic Moment Ever
 Source: ComicBook.com | Status: expanded | Words: 615
 Published: 2026-11-28T03:19:00+00:00
 URL: https://comicbook.com/anime/news/6-years-later-demon-slayer-star-breaks-silence-on-animes-most-iconic-moment-ever
@@ -1427,7 +1453,7 @@ Get access to exclusive stories on new releases, movies, shows, comics, anime, g
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
 
 ============================================================
-[48] Bob Greenblatt Opines Why Viewers Aren't Sampling New Shows Today: "It's Easier To Just Escape To Seinfeld or Downton Abbey"
+[49] Bob Greenblatt Opines Why Viewers Aren't Sampling New Shows Today: "It's Easier To Just Escape To Seinfeld or Downton Abbey"
 Source: Deadline | Status: expanded | Words: 341
 Published: 2026-11-28T03:18:47+00:00
 URL: https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508
@@ -1447,7 +1473,7 @@ Greenblatt's comments were included in a story about the growing popularity of o
 Netflix continues to demonstrate that old shows can be new and popular again with today's subscribers. The most recent example is the success of Power ; season one of the Omari Hardwick drama that first debuted on Starz in 2014 was t he eighth most watched program on Netflix for the week of Nov. 16-Nov. 22. Seasons 2 and 1 of Black Dove s, a British spy series from 2024 that stars Keira Knightley, was at No. 2 and No. 6, respectively.
 
 ============================================================
-[49] 3 More New Anime to Watch If You Miss 1990s Anime
+[50] 3 More New Anime to Watch If You Miss 1990s Anime
 Source: ComicBook.com | Status: expanded | Words: 826
 Published: 2026-11-28T03:03:06+00:00
 URL: https://comicbook.com/anime/list/3-more-new-anime-to-watch-if-you-miss-1990s-anime
@@ -1477,46 +1503,4 @@ Do you agree with our picks – or have an anime in mind that you want to add he
 Get access to exclusive stories on new releases, movies, shows, comics, anime, games and more!
 
 By signing up, you confirm that you have read and agree to the Terms of Use and acknowledge our Privacy Policy .
-
-============================================================
-[50] Netflix's 'Secrets' Takes Indonesian Auteur Ravi Bharwani Into Thriller Territory After Eight-Year Gap
-Source: Variety | Status: expanded | Words: 886
-Published: 2026-11-28T03:00:00+00:00
-URL: https://variety.com/2026/film/festivals/netflix-secrets-ravi-bharwani-thriller-1236959343
-------------------------------------------------------------
-SUMMARY:
-Indonesian filmmaker Ravi Bharwani's Netflix thriller "Secrets," his first feature in eight years, will world premiere at the 21st Jogja-Netpac Asian Film Festival on Nov. 29, four days before it begins streaming on the platform on Dec. 3. Sha Ine Febriyanti ("This Earth of Mankind") plays Parni, a former sex worker who now runs a […]
-
-CONTENT / EXTRACTED DETAILS:
-Indonesian filmmaker Ravi Bharwani 's Netflix thriller " Secrets ," his first feature in eight years, will world premiere at the 21st Jogja-Netpac Asian Film Festival on Nov. 29, four days before it begins streaming on the platform on Dec. 3.
-
-Sha Ine Febriyanti ("This Earth of Mankind") plays Parni, a former sex worker who now runs a beauty salon while raising her daughter on her own. Her hard-won stability is upended when Jamal (Abimana Aryasatya, "Gundala"), the violent man she once escaped, gets out of prison and comes back determined to reclaim her. Shenina Cinnamon plays Parni's daughter Riska, and Ruth Marini plays Darsi. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-article-uid0' ) .setTargeting( 'pos', ["mid-article1","mid-articleX","mid","mid-article"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article") .addSize([[300,250],[2,2],[300,251],[2,4],[4,2],[320,480],[620,366],[300,450]]) .setClsOptimization("minsize") ; }); Related Stories The Killers Guitarist Dave Keuning Survived 'Major Stroke' With '40% Chance of Survival': 'I Can Play Guitar Just as Good as Before'
-
-The film is adapted from Dewi Kharisma Michellia's short story "Rahasia dari Kramat Tunggak" ("Secrets from Kramat Tunggak"). Its early section unfolds in 1980s Jakarta, in a milieu drawn from the Kramat Tunggak district, before the story leaps ahead to the 2000s and Jamal's return. Bharwani co-wrote the screenplay with Rayya Makarim, who has worked with him for over a quarter century, and Wilza Lubis produced through Buddy Buddy Pictures. Both were also on board for his previous feature, 2018's "27 Steps of May."
-
-Bharwani, whose earlier features are "Impian Kemarau" (2004) and "Fishing Platform" (2008), tells Variety he spent the intervening years writing scripts and synopses, completing a couple of screenplays along the way. "But then my biggest problem is still funding, distribution, so that's my biggest challenge," he says. "And simply, this is the one that got financed, so I jumped in without having to wait for another few years anymore." blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article2-uid1' ) .setTargeting( 'pos', ["mid","mid-article2","mid-articleX"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-article2") .addSize([[320,480],[300,250],[300,251],[2,4],[4,2],[620,366],[300,450]]) .setClsOptimization("minsize") ; });
-
-He was first drawn to the short story by a scene in which a woman is won in a game of chess. "I can feel the mood of the scene, the setting, the color, and the stickiness, the humidity of that scene," Bharwani says.
-
-"Secrets" is his first thriller, and with it come erotic scenes, violence and action, none of which he had filmed before. He says exploring the darker side of human psychology, tackling domestic violence and working at the scale of a Netflix production made the shift difficult. That difficulty was also what drew him in.
-
-"For me, it's not just about the bombastic scenes or the sensationalism," he says. "For me, it's how to make the audience invest in the fear, in the anger, in the hate, in being a victim, being in power of this character."
-
-Bharwani set the opening in the 1980s because brothels in Kramat Tunggak operated legally then. The district was later shut down, though he notes the trade simply moved underground, and the area no longer exists. His research drew on a book about Kramat Tunggak and on Michael Glawogger's 2011 documentary "Whores' Glory," which follows sex workers in several countries.
-
-"And then I do not try to be consistent, to be true to the setting of the 1980s, but what is important for the film, and that's the one that I go along with," Bharwani says. He worked closely with cinematographer Arief Retno Pribadi on color, costume and lighting so that each scene's look matched its emotional register.
-
-Shaping Jamal meant ongoing conversations with Aryasatya through prep, the shoot and post-production. Bharwani says the actor has an uncle he recognized as a near-exact match for the character and grew up in a tough environment steeped in machismo, yet brings a real sensitivity to emotion and to women.
-
-"There are moments that we see this is too human that we see, 'Okay, the audience will get into giving more sympathy for Jamal,'" Bharwani says. "So we need to edit it out, but at the same time not wanting to make him a one-dimensional character."
-
-Indonesia is one of Asia's largest and fastest-growing theatrical markets, but much of that growth has come from horror and other genre fare. Bharwani says his previous work relied on international festival funding that took years to secure, and the films sometimes ended up playing only at festivals. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-variety-article-mid-articleX-uid2' ) .setTargeting( 'pos', ["btf","mid-articleX","mid"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath("ros\/mid-articleX") .addSize([[320,480],[300,250],[300,251],[620,366]]) .setClsOptimization("minsize") ; });
-
-"So hopefully with Netflix over here, they spearhead the whole industry, change the whole industry setting of not just going to safe areas, going to horror, going to drama, or going to easier comedy films," he says.
-
-At JAFF, "Secrets" plays in the Indonesian Screen Awards section. Editor Harin Paesongthai, production designer Menfo Tantono and composers Aghi Narottama and Tony Merle round out the key crew. Beyond promoting the film, Bharwani plans to work through the festival lineup and meet other filmmakers.
-
-He already has projects in the writing stage. "Making a film for me is a great chance to be able to express what I feel about humans, about environment, about stuff that I experience myself," he says.
-
-By his count, he has enough material ready for two or three more films &#x2013; if someone is willing to make them.
 
