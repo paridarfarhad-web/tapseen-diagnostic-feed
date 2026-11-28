@@ -5,9 +5,24 @@
     "home_page_url": "https://tapseen.com",
     "feed_url": "https://paridarfarhad-web.github.io/tapseen-diagnostic-feed/feed.json",
     "count": 50,
-    "updated_at": "2026-11-28T13:33:18.907Z"
+    "updated_at": "2026-11-28T13:39:27.038Z"
   },
   "articles": [
+    {
+      "id": "f4f89bbd-1e54-4e31-9044-91fe2fc23f7f",
+      "title": "I Just Realized Hollywood Has Spent Hundreds Of Millions Trying To Get Matt Damon Home In Movies",
+      "summary": "Forget frequent-flyer miles. Somebody needs to buy this man a lifetime travel pass.",
+      "content": "‘Tis the season, and with so many people traveling for the holidays, I've been thinking about the cost of getting everybody where they need to be. Then I was reminded that my travel headaches are nothing compared to Matt Damon 's. Hollywood has spent hundreds of millions of dollars making movies about people trying to get this man home. I started adding up four of the most obvious examples, and the total is ridiculous. Somebody, please get him a frequent-flyer card.\n\nOver on Facebook, Cinema Nerd made a pretty great observation and shared a pretty funny reel. Across thirty years and four movies, one thing audiences can be almost sure of when it comes to the best Matt Damon movies —and no, it's not a team-up with his old pal Ben Affleck . What they can expect is a story about a character trekking long distances to make it back home. First, let's start with Saving Private Ryan .\n\nIn Steven Spielberg 's Saving Private Ryan Damon plays James Francis Ryan, a World War II paratrooper whose three brothers have been killed. Tom Hanks' Captain Miller is ordered to take his squad across war-torn France to find Ryan and bring him home. It's one of my favorite war movies, and a wildly expensive rescue mission.\n\nI still remember watching Christopher Nolan's Interstellar in 2014 and being stunned when Damon popped up as Dr. Mann. His character had been stranded on a distant planet, and for a moment, he seemed like the heroic astronaut everyone hoped to find. Then we discovered how far he'd go to save himself. Let's just say I wouldn't trust that guy with my return ticket.\n\nThen came The Odyssey , one of the biggest movies on the 2026 release calendar . Nolan cast Damon as Odysseus, the Greek king trying to return to Ithaca after the Trojan War. Considering how miserable Damon said he was during parts of filming , apparently getting home wasn't much easier for the actor than it was for his character. Monsters, storms, angry gods: no airports or baggage fees, and somehow getting home was still an absolute nightmare.",
+      "source": "CinemaBlend",
+      "source_url": "https://www.cinemablend.com/movies/i-just-realized-hollywood-has-spent-hundreds-of-millions-trying-to-get-matt-damon-home-in-movies",
+      "published_at": "2026-11-28T13:36:44+00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/3nAFwaWuRBGQakLCBnoQHN-1920-80.jpg",
+      "language": "en",
+      "content_status": "expanded",
+      "word_count": 357,
+      "extracted_at": "2026-11-28T13:39:06.323028+00:00",
+      "updated_at": "2026-11-28T13:39:06.323028+00:00"
+    },
     {
       "id": "352d71fa-962b-41ba-b75d-70dc13cc6114",
       "title": "DC Studios Has One Character It Absolutely Cannot Afford to Get Wrong",
@@ -742,21 +757,6 @@
       "word_count": 1304,
       "extracted_at": "2026-11-28T01:10:29.538868+00:00",
       "updated_at": "2026-11-28T01:10:29.538868+00:00"
-    },
-    {
-      "id": "180cd76c-d8b0-4f56-9155-8dfc47c237b6",
-      "title": "NBC Pulls Ad That Criticizes U.S.' Israel Policy &#038; Aired During 'SNL' Thanksgiving Special",
-      "summary": "NBC has pulled from its air a controversial ad that is critical of the United States' policy of sending financial aid to Israel. The ad ran Wednesday night during the network's Saturday Night Live Thanksgiving special. Titled \"Every Three Seconds,\" the half-minute spot shows a young girl working to save $400 to buy a coveted […]",
-      "content": "NBC has pulled from its air a controversial ad that is critical of the United States' policy of sending financial aid to Israel . The ad ran Wednesday night during the network's Saturday Night Live Thanksgiving special.\n\nTitled \"Every Three Seconds,\" the half-minute spot shows a young girl working to save $400 to buy a coveted bicycle. It follows her as she does such chores as moving lawns and shoveling snow until the girl proudly takes a jar filled with coins and small bills to the store. After showing her riding the new bike, it then cuts to a girl of similar age who is missing a leg and on crutches standing next to the rubble of a building. blogherads.adq.push(function () { blogherads .defineSlot( 'medrec', 'gpt-dsk-tab-mid-article1-uid0' ) .setTargeting( 'pos', [\"mid-article1\",\"mid\",\"mid-articleX\",\"mid-article\",\"300x251\"] ) .setTargeting( 'viewable', 'yes' ) .setSubAdUnitPath(\"ros\\/mid-article\") .addSize([[2,2],[300,250],[620,350],[300,251],[501,282],[3,3],[2,4],[4,2],[620,366]]) .exemptFromSleep() .setClsOptimization(\"minsize\") ; });\n\nThe narrator then says: \"Every three seconds, our government sends $400 of taxpayer money to do this.\"\n\nA person familiar with the matter told Deadline that NBC won't re-air the ad, which comes from The IMEU Policy Project aka the Institute for Middle East Understanding Policy Project.\n\nThe spot drew backlash from multiple groups including the Anti-Defamation League, whose CEO called it \"indefensible,\" and B&#x2019;nai B&#x2019;rith International, which said in a social media post, \"Shame on NBC.\" The Israeli-American Council also weighed in, saying it \"condemns NBC&#x2019;s decision to air anti-Israel propaganda that echoes Hamas&#x2019;s narrative and fuels antisemitic hatred.\"\n\nSenior management was not aware of the ad until after it aired, the person familiar with the matter told Deadline, and NBCUniversal will be evaluating its process to ensure appropriate levels of review.",
-      "source": "Deadline",
-      "source_url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472",
-      "published_at": "2026-11-28T01:02:47+00:00",
-      "image_url": "https://deadline.com/wp-content/uploads/2026/11/NBC-Anti-Israel-ad.jpg",
-      "language": "en",
-      "content_status": "expanded",
-      "word_count": 274,
-      "extracted_at": "2026-11-28T01:04:29.796877+00:00",
-      "updated_at": "2026-11-28T01:04:29.796877+00:00"
     }
   ]
 }
